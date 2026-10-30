@@ -1,0 +1,386 @@
+[
+  {
+    "scenario": "jiko",
+    "file": "kenalan-1.mp3",
+    "gender": "female",
+    "jp": "こんにちは。はじめまして。ほりです。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-2.mp3",
+    "gender": "male",
+    "jp": "りょうたです。どうぞ よろしく おねがいします。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-3.mp3",
+    "gender": "female",
+    "jp": "こちらこそ。りょうたさんは がくせいですか。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-4.mp3",
+    "gender": "male",
+    "jp": "はい。にほんごを べんきょうしています。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-5.mp3",
+    "gender": "female",
+    "jp": "そうですか。しつれいですが、なんさいですか。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-6.mp3",
+    "gender": "male",
+    "jp": "にじゅういっさいです。ほりさんは？"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-7.mp3",
+    "gender": "female",
+    "jp": "わたしも にじゅういっさいです。なにが すきですか。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-8.mp3",
+    "gender": "male",
+    "jp": "おんがくが すきです。よく ギターを ひきます。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-9.mp3",
+    "gender": "female",
+    "jp": "いいですね。わたしは りょうりが すきです。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-10.mp3",
+    "gender": "male",
+    "jp": "そうですか。どんな りょうりを つくりますか。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-11.mp3",
+    "gender": "female",
+    "jp": "よく カレーを つくります。りょうたさんは どこに すんでいますか。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-12.mp3",
+    "gender": "male",
+    "jp": "なごやに すんでいます。ほりさんは？"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-13.mp3",
+    "gender": "female",
+    "jp": "おおさかに すんでいます。また おはなししましょう。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-14.mp3",
+    "gender": "male",
+    "jp": "はい、ぜひ。また あいましょう。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-15.mp3",
+    "gender": "female",
+    "jp": "じゃあ、また。"
+  },
+  {
+    "scenario": "jiko",
+    "file": "kenalan-16.mp3",
+    "gender": "male",
+    "jp": "またね。"
+  },
+  {
+    "scenario": "shusshin",
+    "file": "shusshin-1.mp3",
+    "gender": "female",
+    "jp": "りょうたさんは どこの くにから きましたか。"
+  },
+  {
+    "scenario": "shusshin",
+    "file": "shusshin-2.mp3",
+    "gender": "male",
+    "jp": "インドネシアから きました。ほりさんは？"
+  },
+  {
+    "scenario": "shusshin",
+    "file": "shusshin-3.mp3",
+    "gender": "female",
+    "jp": "にほんです。インドネシアでは どこに すんでいましたか。"
+  },
+  {
+    "scenario": "shusshin",
+    "file": "shusshin-4.mp3",
+    "gender": "male",
+    "jp": "バンドンに すんでいました。"
+  },
+  {
+    "scenario": "shusshin",
+    "file": "shusshin-5.mp3",
+    "gender": "female",
+    "jp": "バンドンは どんな まちですか。"
+  },
+  {
+    "scenario": "shusshin",
+    "file": "shusshin-6.mp3",
+    "gender": "male",
+    "jp": "にぎやかな まちです。おいしい たべものが あります。"
+  },
+  {
+    "scenario": "shusshin",
+    "file": "shusshin-7.mp3",
+    "gender": "female",
+    "jp": "いいですね。いまは どこに すんでいますか。"
+  },
+  {
+    "scenario": "shusshin",
+    "file": "shusshin-8.mp3",
+    "gender": "male",
+    "jp": "いまは とうきょうに すんでいます。"
+  },
+  {
+    "scenario": "teinei",
+    "file": "teinei-1.mp3",
+    "gender": "female",
+    "jp": "こんにちは。わたしは ほりです。おなまえを おしえて ください。"
+  },
+  {
+    "scenario": "teinei",
+    "file": "teinei-2.mp3",
+    "gender": "male",
+    "jp": "りょうたと もうします。よろしく おねがいします。"
+  },
+  {
+    "scenario": "teinei",
+    "file": "teinei-3.mp3",
+    "gender": "female",
+    "jp": "りょうたさんですね。こちらこそ。おしごとは なんですか。"
+  },
+  {
+    "scenario": "teinei",
+    "file": "teinei-4.mp3",
+    "gender": "male",
+    "jp": "エンジニアです。"
+  },
+  {
+    "scenario": "teinei",
+    "file": "teinei-5.mp3",
+    "gender": "female",
+    "jp": "そうですか。こちらの かいしゃは はじめてですか。"
+  },
+  {
+    "scenario": "teinei",
+    "file": "teinei-6.mp3",
+    "gender": "male",
+    "jp": "はい、はじめてです。きょうから ここで はたらきます。"
+  },
+  {
+    "scenario": "teinei",
+    "file": "teinei-7.mp3",
+    "gender": "female",
+    "jp": "わからない ことが あったら、きいて ください。"
+  },
+  {
+    "scenario": "teinei",
+    "file": "teinei-8.mp3",
+    "gender": "male",
+    "jp": "ありがとうございます。どうぞ よろしく おねがいします。"
+  },
+  {
+    "scenario": "tomodachi",
+    "file": "tomodachi-1.mp3",
+    "gender": "female",
+    "jp": "りょうたさん、ひさしぶりですね。げんきですか。"
+  },
+  {
+    "scenario": "tomodachi",
+    "file": "tomodachi-2.mp3",
+    "gender": "male",
+    "jp": "はい、げんきです。ほりさんも げんきですか。"
+  },
+  {
+    "scenario": "tomodachi",
+    "file": "tomodachi-3.mp3",
+    "gender": "female",
+    "jp": "わたしも げんきです。きょうは なにを しますか。"
+  },
+  {
+    "scenario": "tomodachi",
+    "file": "tomodachi-4.mp3",
+    "gender": "male",
+    "jp": "ごぜんは うちで べんきょうします。ごごは ひまです。"
+  },
+  {
+    "scenario": "tomodachi",
+    "file": "tomodachi-5.mp3",
+    "gender": "female",
+    "jp": "じゃあ、ごご こうえんを さんぽしませんか。"
+  },
+  {
+    "scenario": "tomodachi",
+    "file": "tomodachi-6.mp3",
+    "gender": "male",
+    "jp": "いいですね。にじに こうえんの いりぐちで あいましょう。"
+  },
+  {
+    "scenario": "tomodachi",
+    "file": "tomodachi-7.mp3",
+    "gender": "female",
+    "jp": "わかりました。あとで あいましょう。"
+  },
+  {
+    "scenario": "tomodachi",
+    "file": "tomodachi-8.mp3",
+    "gender": "male",
+    "jp": "はい、また あとで。"
+  },
+  {
+    "scenario": "aisatsu",
+    "file": "aisatsu-1.mp3",
+    "gender": "female",
+    "jp": "おはようございます、りょうたさん。"
+  },
+  {
+    "scenario": "aisatsu",
+    "file": "aisatsu-2.mp3",
+    "gender": "male",
+    "jp": "おはようございます、ほりさん。"
+  },
+  {
+    "scenario": "aisatsu",
+    "file": "aisatsu-3.mp3",
+    "gender": "female",
+    "jp": "きょうの じゅぎょうは くじからです。いま なんじですか。"
+  },
+  {
+    "scenario": "aisatsu",
+    "file": "aisatsu-4.mp3",
+    "gender": "male",
+    "jp": "はちじ ごじゅっぷんです。あと じゅっぷんですね。"
+  },
+  {
+    "scenario": "aisatsu",
+    "file": "aisatsu-5.mp3",
+    "gender": "female",
+    "jp": "あ、この ほん、どうぞ。きょう つかいますよ。"
+  },
+  {
+    "scenario": "aisatsu",
+    "file": "aisatsu-6.mp3",
+    "gender": "male",
+    "jp": "ありがとうございます。たすかります。"
+  },
+  {
+    "scenario": "aisatsu",
+    "file": "aisatsu-7.mp3",
+    "gender": "female",
+    "jp": "どういたしまして。いっしょに きょうしつへ いきましょう。"
+  },
+  {
+    "scenario": "aisatsu",
+    "file": "aisatsu-8.mp3",
+    "gender": "male",
+    "jp": "はい、いきましょう。"
+  },
+  {
+    "scenario": "uchi",
+    "file": "uchi-1.mp3",
+    "gender": "female",
+    "jp": "りょうたさん、もう でかけますか。"
+  },
+  {
+    "scenario": "uchi",
+    "file": "uchi-2.mp3",
+    "gender": "male",
+    "jp": "はい、いってきます。"
+  },
+  {
+    "scenario": "uchi",
+    "file": "uchi-3.mp3",
+    "gender": "female",
+    "jp": "いってらっしゃい。なんじごろ かえりますか。"
+  },
+  {
+    "scenario": "uchi",
+    "file": "uchi-4.mp3",
+    "gender": "male",
+    "jp": "ろくじごろ かえります。"
+  },
+  {
+    "scenario": "uchi",
+    "file": "uchi-5.mp3",
+    "gender": "female",
+    "jp": "おかえりなさい。"
+  },
+  {
+    "scenario": "uchi",
+    "file": "uchi-6.mp3",
+    "gender": "male",
+    "jp": "ただいま。きょうは つかれました。"
+  },
+  {
+    "scenario": "uchi",
+    "file": "uchi-7.mp3",
+    "gender": "female",
+    "jp": "ゆっくり やすんで ください。おやすみなさい。"
+  },
+  {
+    "scenario": "uchi",
+    "file": "uchi-8.mp3",
+    "gender": "male",
+    "jp": "ありがとう。おやすみなさい。"
+  },
+  {
+    "scenario": "shokuji",
+    "file": "shokuji-1.mp3",
+    "gender": "female",
+    "jp": "りょうたさん、もう ひるごはんを たべましたか。"
+  },
+  {
+    "scenario": "shokuji",
+    "file": "shokuji-2.mp3",
+    "gender": "male",
+    "jp": "いいえ、まだです。"
+  },
+  {
+    "scenario": "shokuji",
+    "file": "shokuji-3.mp3",
+    "gender": "female",
+    "jp": "じゃあ、いっしょに たべましょう。おべんとうを つくりました。"
+  },
+  {
+    "scenario": "shokuji",
+    "file": "shokuji-4.mp3",
+    "gender": "male",
+    "jp": "ありがとう。いただきます。"
+  },
+  {
+    "scenario": "shokuji",
+    "file": "shokuji-5.mp3",
+    "gender": "female",
+    "jp": "どうですか。この たまごやきは？"
+  },
+  {
+    "scenario": "shokuji",
+    "file": "shokuji-6.mp3",
+    "gender": "male",
+    "jp": "おいしいです。りょうりが じょうずですね。"
+  },
+  {
+    "scenario": "shokuji",
+    "file": "shokuji-7.mp3",
+    "gender": "female",
+    "jp": "ありがとう。もう たべおわりましたか。"
+  },
+  {
+    "scenario": "shokuji",
+    "file": "shokuji-8.mp3",
+    "gender": "male",
+    "jp": "はい。ごちそうさまでした。"
+  }
+]

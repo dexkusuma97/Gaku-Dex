@@ -1,0 +1,10698 @@
+{
+  "total": 1801,
+  "everydayRawRows": 806,
+  "everydayUnique": 822,
+  "everydaySelected": 411,
+  "everydaySelectedWords": [
+    "果物",
+    "梅",
+    "野菜",
+    "ボールペン",
+    "本",
+    "電卓",
+    "辞書",
+    "紙",
+    "机",
+    "鉛筆",
+    "地図",
+    "ペン",
+    "本棚",
+    "ホチキス",
+    "こんにちは",
+    "おはようございます",
+    "こんばんは",
+    "おやすみなさい",
+    "月曜日",
+    "火曜日",
+    "水曜日",
+    "木曜日",
+    "金曜日",
+    "土曜日",
+    "日曜日",
+    "今日",
+    "昨日",
+    "一昨日",
+    "朝",
+    "今朝",
+    "晩",
+    "夜",
+    "今晩",
+    "明日",
+    "毎日",
+    "毎朝",
+    "毎晩",
+    "今週",
+    "先週",
+    "来週",
+    "一月",
+    "2月",
+    "3月",
+    "4月",
+    "5月",
+    "6月",
+    "7月",
+    "8月",
+    "9月",
+    "10月",
+    "11月",
+    "12月",
+    "零",
+    "一",
+    "二",
+    "三",
+    "四",
+    "五",
+    "六",
+    "七",
+    "八",
+    "九",
+    "十",
+    "百",
+    "千",
+    "万",
+    "黒い",
+    "赤い",
+    "茶色",
+    "白い",
+    "緑",
+    "大きい",
+    "小さい",
+    "短い",
+    "多い",
+    "少ない",
+    "太い",
+    "細い",
+    "厚い",
+    "薄い",
+    "柔らかい",
+    "新しい",
+    "古い",
+    "高い",
+    "安い",
+    "早い",
+    "速い",
+    "遅い",
+    "遠い",
+    "近い",
+    "強い",
+    "弱い",
+    "低い",
+    "熱い",
+    "冷たい",
+    "丸い",
+    "甘い",
+    "辛い",
+    "おいしい",
+    "まずい",
+    "暑い",
+    "寒い",
+    "暖かい",
+    "涼しい",
+    "明るい",
+    "暗い",
+    "汚い",
+    "重い",
+    "軽い",
+    "難しい",
+    "易しい",
+    "危ない",
+    "いい",
+    "悪い",
+    "忙しい",
+    "すごい",
+    "素晴らしい",
+    "かっこいい",
+    "かわいい",
+    "楽しい",
+    "つまらない",
+    "恥ずかしい",
+    "痛い",
+    "欲しい",
+    "残念",
+    "好き",
+    "嫌い",
+    "大好き",
+    "きれい",
+    "賑やか",
+    "静か",
+    "便利",
+    "有名",
+    "危険",
+    "大丈夫",
+    "大切",
+    "変",
+    "上手",
+    "下手",
+    "暇",
+    "大変",
+    "おしゃれ",
+    "嫌",
+    "10分",
+    "丈夫",
+    "まっすぐ",
+    "同じ",
+    "私",
+    "あなた",
+    "これ",
+    "それ",
+    "あれ",
+    "顔",
+    "歯",
+    "鼻",
+    "口",
+    "体",
+    "頭",
+    "手",
+    "足",
+    "髪",
+    "目",
+    "耳",
+    "居る",
+    "勉強する",
+    "運動する",
+    "思う",
+    "掃除する",
+    "散歩する",
+    "見る",
+    "被る",
+    "修理する",
+    "泳ぐ",
+    "辞める",
+    "言う",
+    "練習する",
+    "貰う",
+    "回す",
+    "思い出す",
+    "心配する",
+    "閉じる",
+    "運転する",
+    "行く",
+    "出張する",
+    "留学する",
+    "苺",
+    "蜜柑",
+    "オレンジ",
+    "レモン",
+    "西瓜",
+    "葡萄",
+    "パイナップル",
+    "林檎",
+    "ドリアン",
+    "パパイヤ",
+    "桃",
+    "李",
+    "マンゴー",
+    "キウイ",
+    "グアバ",
+    "ホシブドウ",
+    "栗",
+    "ザクロ",
+    "ココナッツ",
+    "ジャックフルーツ",
+    "きいちご",
+    "柿",
+    "アボカド",
+    "梨",
+    "大根",
+    "レタス",
+    "トマト",
+    "木の実",
+    "じゃが芋",
+    "キャベツ",
+    "しょうが",
+    "茄子",
+    "ブルーベリー",
+    "ブラックベリー",
+    "さくらんぼう",
+    "オリーブ",
+    "イチジク",
+    "バナナ",
+    "なつめやしのみ",
+    "人参",
+    "玉ねぎ",
+    "大蒜",
+    "さやえんどう",
+    "えんどう豆",
+    "青豆",
+    "カリフラワー",
+    "芽キャベツ",
+    "胡瓜",
+    "ピーマン",
+    "豆",
+    "マッシュルーム",
+    "白菜",
+    "南瓜",
+    "ブロッコリー",
+    "大豆",
+    "小豆",
+    "いんげん豆",
+    "分度器",
+    "教科書",
+    "百科事典",
+    "鋏",
+    "チョーク",
+    "椅子",
+    "コンピューター",
+    "教卓",
+    "定規",
+    "黒板消し",
+    "シャーペン",
+    "鉛筆削り",
+    "制服",
+    "マーカー",
+    "通学鞄",
+    "筆箱",
+    "黒板",
+    "包丁",
+    "まな板",
+    "浄水器",
+    "鍋",
+    "フライパン",
+    "やかん",
+    "おたま",
+    "排水溝",
+    "ボウル",
+    "ミキサー",
+    "おろし金",
+    "皮むき機",
+    "栓抜き",
+    "缶切り",
+    "コルク抜き",
+    "バイバイ",
+    "さようなら",
+    "明後日",
+    "夕べ",
+    "十一",
+    "十二",
+    "十三",
+    "十四",
+    "十五",
+    "十六",
+    "十七",
+    "十八",
+    "十九",
+    "二十",
+    "二十一",
+    "二百",
+    "三百",
+    "四百",
+    "五百",
+    "六百",
+    "七百",
+    "八百",
+    "九百",
+    "二千",
+    "三千",
+    "四千",
+    "五千",
+    "七千",
+    "八千",
+    "九千",
+    "二万",
+    "三万",
+    "四万",
+    "五万",
+    "六万",
+    "七万",
+    "八万",
+    "十万",
+    "百万",
+    "千万",
+    "億",
+    "兆",
+    "色彩",
+    "ピンク",
+    "暗色",
+    "明色",
+    "金色",
+    "銀色",
+    "紫",
+    "水色",
+    "赤紫",
+    "オレンジ色",
+    "橙色",
+    "桃色",
+    "真っ赤",
+    "真っ白",
+    "真っ黒",
+    "真っ青",
+    "灰色",
+    "紺",
+    "紅",
+    "固い",
+    "細かい",
+    "粗い",
+    "温かい",
+    "ぬるい",
+    "すっぱい",
+    "塩辛い",
+    "苦い",
+    "濃い",
+    "蒸し暑い",
+    "詳しい",
+    "珍しい",
+    "おかしい",
+    "うまい",
+    "ひどい",
+    "うるさい",
+    "正しい",
+    "えらい",
+    "仲がいい",
+    "親しい",
+    "優しい",
+    "美しい",
+    "厳しい",
+    "大人しい",
+    "面白い",
+    "うれしい",
+    "寂しい",
+    "怖い",
+    "悲しい",
+    "羨ましい",
+    "懐かしい",
+    "眠い",
+    "無い",
+    "心配",
+    "不安",
+    "大嫌い",
+    "複雑",
+    "簡単",
+    "不便",
+    "幸せ",
+    "素敵",
+    "安全",
+    "色々",
+    "大事",
+    "駄目",
+    "無駄",
+    "急",
+    "得意",
+    "苦手",
+    "かわいそう",
+    "立派",
+    "楽",
+    "無理",
+    "丁寧",
+    "親切",
+    "ハンサム",
+    "真面目",
+    "不真面目",
+    "盛ん",
+    "邪魔",
+    "適当",
+    "特別",
+    "自由",
+    "熱心",
+    "必要",
+    "別",
+    "不思議",
+    "豪華",
+    "伝統的",
+    "活発",
+    "誠実",
+    "わがまま",
+    "頑固",
+    "素直",
+    "意地悪",
+    "勝ち気"
+  ],
+  "everydayExcludedWords": [
+    "僕",
+    "あたし",
+    "俺",
+    "私たち",
+    "僕たち",
+    "僕ら",
+    "あたしたち",
+    "俺たち",
+    "君",
+    "お前",
+    "あなた方",
+    "君たち",
+    "お前ら",
+    "彼",
+    "彼ら",
+    "彼女",
+    "彼女ら",
+    "これら",
+    "それら",
+    "あれら",
+    "人体",
+    "肩",
+    "喉",
+    "頬",
+    "指",
+    "胃",
+    "お腹",
+    "爪",
+    "額",
+    "顎",
+    "唇",
+    "首",
+    "掌",
+    "腕",
+    "膝",
+    "背中",
+    "腰",
+    "踵",
+    "足指",
+    "親指",
+    "人差し指",
+    "中指",
+    "薬指",
+    "小指",
+    "顎鬚",
+    "髭",
+    "太股",
+    "皮膚",
+    "血液",
+    "血",
+    "眉",
+    "胸",
+    "肘",
+    "臍",
+    "腋の下",
+    "足首",
+    "手首",
+    "眼球",
+    "内臓",
+    "腎臓",
+    "肝臓",
+    "肋骨",
+    "卵巣",
+    "胎児",
+    "心臓",
+    "脾臓",
+    "脳",
+    "筋肉",
+    "肺",
+    "血管",
+    "動脈",
+    "静脈",
+    "子宮",
+    "網膜",
+    "精子",
+    "臍の緒",
+    "頭蓋骨",
+    "腸",
+    "大腸",
+    "神経質",
+    "有る",
+    "作業する",
+    "協力する",
+    "学ぶ",
+    "出発する",
+    "話し合う",
+    "呼吸する",
+    "組む",
+    "経験する",
+    "離れる",
+    "悲しむ",
+    "隠れる",
+    "輝く",
+    "悩む",
+    "伺う",
+    "戦う",
+    "出会う",
+    "喧嘩する",
+    "叫ぶ",
+    "感謝する",
+    "婚約する",
+    "努力する",
+    "観光する",
+    "出来る",
+    "自殺する",
+    "適する",
+    "似合う",
+    "効く",
+    "好む",
+    "騒ぐ",
+    "緊張する",
+    "希望する",
+    "暮らす",
+    "気に入る",
+    "飽きる",
+    "劣る",
+    "混乱する",
+    "がっかりする",
+    "失望する",
+    "失う",
+    "欠ける",
+    "外出する",
+    "当たる",
+    "相談する",
+    "合格する",
+    "真っ直ぐ",
+    "怠ける",
+    "浴びる",
+    "入院する",
+    "入学する",
+    "解釈する",
+    "越える",
+    "優れる",
+    "進学する",
+    "報告する",
+    "禁止する",
+    "爆発する",
+    "抜く",
+    "放す",
+    "外す",
+    "守る",
+    "横断する",
+    "横切る",
+    "含む",
+    "飛び出す",
+    "広がる",
+    "描く",
+    "発車する",
+    "許す",
+    "理解する",
+    "奏でる",
+    "進める",
+    "用いる",
+    "無理する",
+    "眺める",
+    "収穫する",
+    "刈る",
+    "付ける",
+    "確かめる",
+    "割る",
+    "応じる",
+    "比較する",
+    "援助する",
+    "限る",
+    "制限する",
+    "支払う",
+    "凍る",
+    "分ける",
+    "嫌う",
+    "伸ばす",
+    "飼う",
+    "与える",
+    "建設する",
+    "伸びる",
+    "証明する",
+    "殺す",
+    "腐る",
+    "解く",
+    "掴む",
+    "抱く",
+    "検査する",
+    "命じる",
+    "注文する",
+    "選択する",
+    "移す",
+    "求める",
+    "省く",
+    "構う",
+    "議論する",
+    "論じる",
+    "警告する",
+    "防ぐ",
+    "逮捕する",
+    "捕まる",
+    "供給する",
+    "達する",
+    "届く",
+    "就職する",
+    "予防する",
+    "営業する",
+    "語る",
+    "商売する",
+    "基づく",
+    "黙る",
+    "立ち上げる",
+    "参加する",
+    "期待する",
+    "願う",
+    "留める",
+    "約束する",
+    "関連する",
+    "裏切る",
+    "集中する",
+    "貢献する",
+    "会合する",
+    "減る",
+    "異なる",
+    "訓練する",
+    "愛する",
+    "試す",
+    "注ぐ",
+    "苦しむ",
+    "発見する",
+    "建築する",
+    "強調する",
+    "検討する",
+    "通す",
+    "占める",
+    "張る",
+    "飛ばす",
+    "出版する",
+    "頂く",
+    "受け取る",
+    "決定する",
+    "記録する",
+    "適用する",
+    "誘う",
+    "勧める",
+    "終える",
+    "通じる",
+    "流す",
+    "観察する",
+    "取り上げる",
+    "分析する",
+    "頼る",
+    "失業する",
+    "持ち上げる",
+    "配達する",
+    "振る",
+    "批評する",
+    "変更する",
+    "追う",
+    "輸出する",
+    "表す",
+    "経営する",
+    "戻す",
+    "発展する",
+    "述べる",
+    "履く",
+    "握る",
+    "囲む",
+    "唸る",
+    "除く",
+    "雇う",
+    "邪魔する",
+    "迷惑する",
+    "換える",
+    "交換する",
+    "掛ける",
+    "動かす",
+    "震える",
+    "狂う",
+    "転ぶ",
+    "及ぼす",
+    "使用する",
+    "過ごす",
+    "向ける",
+    "出席する",
+    "望む",
+    "避ける",
+    "数える",
+    "計算する",
+    "尊敬する",
+    "罰する",
+    "結ぶ",
+    "従う",
+    "輸入する",
+    "現す",
+    "贈る",
+    "記入する",
+    "許可する",
+    "確認する",
+    "承認する",
+    "消費する",
+    "喋る",
+    "叱る",
+    "契約する",
+    "左右する",
+    "変化する",
+    "計る",
+    "繰り返す",
+    "積もる",
+    "発表する",
+    "招待する",
+    "訪問する",
+    "減らす",
+    "管理する",
+    "処理する",
+    "評価する",
+    "修正する",
+    "預ける",
+    "就く",
+    "成る",
+    "濡れる",
+    "空く",
+    "明ける",
+    "支配する",
+    "保障する",
+    "離す",
+    "混雑する",
+    "詰める",
+    "優勝する",
+    "批判する",
+    "断る",
+    "振り向く",
+    "向く",
+    "助ける",
+    "収める",
+    "替える",
+    "指す",
+    "示す",
+    "下ろす",
+    "刺す",
+    "覆う",
+    "気付く",
+    "責める",
+    "吠える",
+    "歓迎する",
+    "合わせる",
+    "救う",
+    "調査する",
+    "隠す",
+    "完成する",
+    "触れる",
+    "諦める",
+    "任せる",
+    "撃つ",
+    "攻撃する",
+    "放送する",
+    "結論する",
+    "残す",
+    "支える",
+    "刺激する",
+    "感じる",
+    "祝う",
+    "済ませる",
+    "推薦する",
+    "対する",
+    "感動する",
+    "繋ぐ",
+    "起こる",
+    "覚める",
+    "売れる",
+    "びっくりする",
+    "感心する",
+    "得る",
+    "稼ぐ",
+    "備える",
+    "生産する",
+    "褒める",
+    "当てる",
+    "開始する",
+    "快復する",
+    "決心する",
+    "叩く",
+    "貯金する",
+    "請求する",
+    "我慢する",
+    "乗せる",
+    "増す",
+    "加える",
+    "遅刻する",
+    "抜ける",
+    "切れる",
+    "微笑む",
+    "残る",
+    "到着する",
+    "計画する",
+    "奪う",
+    "破る",
+    "倒す",
+    "掲示する",
+    "譲る",
+    "現れる",
+    "吐く",
+    "昇る",
+    "承知する",
+    "解ける",
+    "満ちる",
+    "信じる",
+    "去る",
+    "帰宅する",
+    "関する",
+    "完了する",
+    "訴える",
+    "成功する",
+    "恐れる",
+    "溺れる",
+    "沈む",
+    "燃える",
+    "育つ"
+  ],
+  "merges": [
+    {
+      "word": "たいへん",
+      "into": "たいへん",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 4,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "誰",
+      "into": "誰",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 4,
+          "page": 18
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "一日",
+      "into": "一日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 4,
+          "page": 18
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "行く",
+      "into": "行く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 4,
+          "page": 30
+        }
+      ]
+    },
+    {
+      "word": "私",
+      "into": "私",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 4,
+          "page": 32
+        }
+      ]
+    },
+    {
+      "word": "楽しい",
+      "into": "楽しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "涼しい",
+      "into": "涼しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "狭い",
+      "into": "狭い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "甘い",
+      "into": "甘い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "痛い",
+      "into": "痛い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "白い",
+      "into": "白い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "短い",
+      "into": "短い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "細い",
+      "into": "細い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "赤い",
+      "into": "赤い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "軽い",
+      "into": "軽い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "近い",
+      "into": "近い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "速い",
+      "into": "速い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "遅い",
+      "into": "遅い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "遠い",
+      "into": "遠い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "重い",
+      "into": "重い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "長い",
+      "into": "長い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "難しい",
+      "into": "難しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "青い",
+      "into": "青い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "静か",
+      "into": "静か",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "高い",
+      "into": "高い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "黒い",
+      "into": "黒い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "暑い",
+      "into": "暑い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "暖かい",
+      "into": "暖かい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "暗い",
+      "into": "暗い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "いい",
+      "into": "いい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "色々",
+      "into": "いろいろ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "うるさい",
+      "into": "煩い",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "美味しい",
+      "into": "おいしい",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "面白い",
+      "into": "おもしろい",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "可愛い",
+      "into": "かわいい",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "汚い",
+      "into": "汚い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "嫌い",
+      "into": "嫌い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "きれい",
+      "into": "きれい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "少し",
+      "into": "少し",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "つまらない",
+      "into": "つまらない",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "欲しい",
+      "into": "欲しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "まずい",
+      "into": "まずい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "丸い",
+      "into": "丸い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "低い",
+      "into": "低い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "冷たい",
+      "into": "冷たい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "危ない",
+      "into": "危ない",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "厚い",
+      "into": "厚い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "古い",
+      "into": "古い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "多い",
+      "into": "多い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "大きい",
+      "into": "大きい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "太い",
+      "into": "太い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "安い",
+      "into": "安い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "寒い",
+      "into": "寒い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "小さい",
+      "into": "小さい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "少ない",
+      "into": "少ない",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "広い",
+      "into": "広い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "強い",
+      "into": "強い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "忙しい",
+      "into": "忙しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "新しい",
+      "into": "新しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "早い",
+      "into": "早い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "明るい",
+      "into": "明るい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "同じ",
+      "into": "同じ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 4
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "大丈夫",
+      "into": "大丈夫",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "大好き",
+      "into": "大好き",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "好き",
+      "into": "好き",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "嫌",
+      "into": "嫌",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "下手",
+      "into": "下手",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "大きな",
+      "into": "大きな",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "小さな",
+      "into": "小さな",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 5,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "こんな",
+      "into": "こんな",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        },
+        {
+          "id": 1,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "それでは",
+      "into": "それでは",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "では",
+      "into": "では",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "まだ",
+      "into": "まだ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "いくら",
+      "into": "いくら",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "など",
+      "into": "など",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "時々",
+      "into": "時々",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "また",
+      "into": "また",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "それから",
+      "into": "それから",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "もっと",
+      "into": "もっと",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 2
+        },
+        {
+          "id": 1,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "なぜ",
+      "into": "なぜ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "どうして",
+      "into": "どうして",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "初めて",
+      "into": "初めて",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "ちょっと",
+      "into": "ちょっと",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "いつも",
+      "into": "いつも",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 3
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "どうぞ",
+      "into": "どうぞ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "いつか",
+      "into": "五日",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 6,
+          "page": 4
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "しかし",
+      "into": "しかし",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 4
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "でも",
+      "into": "でも",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "どうも",
+      "into": "どうも",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "あまり",
+      "into": "あまり",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 6,
+          "page": 4
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "会う",
+      "into": "会う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "遊ぶ",
+      "into": "遊ぶ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "洗う",
+      "into": "洗う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "有る",
+      "into": "ある",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "歩く",
+      "into": "歩く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "言う",
+      "into": "言う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "行く",
+      "into": "行く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "要る",
+      "into": "要る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "歌う",
+      "into": "歌う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "売る",
+      "into": "売る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "置く",
+      "into": "置く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "押す",
+      "into": "押す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "泳ぐ",
+      "into": "泳ぐ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "終わる",
+      "into": "終わる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "買う",
+      "into": "買う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "返す",
+      "into": "返す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "帰る",
+      "into": "帰る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "掛かる",
+      "into": "かかる",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "書く",
+      "into": "書く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "貸す",
+      "into": "貸す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "聞く",
+      "into": "聞く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "切る",
+      "into": "切る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "消す",
+      "into": "消す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "知る",
+      "into": "知る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "吸う",
+      "into": "吸う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "住む",
+      "into": "住む",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "座る",
+      "into": "座る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "立つ",
+      "into": "立つ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "出す",
+      "into": "出す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "使う",
+      "into": "使う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "着く",
+      "into": "着く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "作る",
+      "into": "作る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "取る",
+      "into": "取る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "なくす",
+      "into": "無くす",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "習う",
+      "into": "習う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "なる",
+      "into": "なる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "脱ぐ",
+      "into": "脱ぐ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "飲む",
+      "into": "飲む",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "乗る",
+      "into": "乗る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "入る",
+      "into": "入る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "履く",
+      "into": "はく",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "働く",
+      "into": "働く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "引く",
+      "into": "引く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "降る",
+      "into": "降る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "話す",
+      "into": "話す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "曲がる",
+      "into": "曲がる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "待つ",
+      "into": "待つ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "持つ",
+      "into": "持つ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "休む",
+      "into": "休む",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "呼ぶ",
+      "into": "呼ぶ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "読む",
+      "into": "読む",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "分かる",
+      "into": "分かる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "渡る",
+      "into": "渡る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "開ける",
+      "into": "開ける",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "浴びる",
+      "into": "あびる",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "居る",
+      "into": "居る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "入れる",
+      "into": "入れる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "生まれる",
+      "into": "生まれる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "起きる",
+      "into": "起きる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "教える",
+      "into": "教える",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "覚える",
+      "into": "覚える",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "降りる",
+      "into": "降りる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "掛ける",
+      "into": "かける",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "着る",
+      "into": "着る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "閉める",
+      "into": "閉める",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "食べる",
+      "into": "食べる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "疲れる",
+      "into": "疲れる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "つける",
+      "into": "つける",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "出かける",
+      "into": "出かける",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "出来る",
+      "into": "できる",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "出る",
+      "into": "出る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "寝る",
+      "into": "寝る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "見せる",
+      "into": "見せる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "見る",
+      "into": "見る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "忘れる",
+      "into": "忘れる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "来る",
+      "into": "来る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "コピーする",
+      "into": "コピーする",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "する",
+      "into": "する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 2,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "これ",
+      "into": "これ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "あめ",
+      "into": "飴",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "どうも",
+      "into": "どうも",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "どうぞ",
+      "into": "どうぞ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "いいえ",
+      "into": "いいえ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "すみません",
+      "into": "すみません",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "痛い",
+      "into": "痛い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "よく",
+      "into": "よく",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "もういちど",
+      "into": "もう一度",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "ここ",
+      "into": "ここ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "名前",
+      "into": "名前",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 5
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "部屋",
+      "into": "部屋",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 5
+        },
+        {
+          "id": 1,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "わかりました",
+      "into": "わかりました",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "英語",
+      "into": "英語",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 6
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "はい",
+      "into": "はい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "少し",
+      "into": "少し",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "できます",
+      "into": "できる",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "わかります",
+      "into": "分かる",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "じゃあ",
+      "into": "じゃ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "何",
+      "into": "何",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "傘",
+      "into": "傘",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 6
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "来る",
+      "into": "来る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "私",
+      "into": "私",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 8
+        },
+        {
+          "id": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "名前",
+      "into": "名前",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 8
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "国",
+      "into": "国",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 8
+        },
+        {
+          "id": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "どちら",
+      "into": "どちら",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "みなさん",
+      "into": "皆さん",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "同じ",
+      "into": "同じ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 9
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "会社",
+      "into": "会社",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 9
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "～年",
+      "into": "年",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "兄",
+      "into": "兄",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "姉",
+      "into": "姉",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "弟",
+      "into": "弟",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        },
+        {
+          "id": 1,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "妹",
+      "into": "妹",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "～先生",
+      "into": "先生",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "紹介する",
+      "into": "紹介する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "こちら",
+      "into": "こちら",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "あれ",
+      "into": "あれ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "紹介します",
+      "into": "紹介する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "家族",
+      "into": "家族",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "それから",
+      "into": "それから",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "いくつ",
+      "into": "いくつ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "どこ",
+      "into": "どこ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "住む",
+      "into": "住む",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "20歳",
+      "into": "二十歳",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 11
+        },
+        {
+          "id": 1,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "ペット",
+      "into": "ペット",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "だれ",
+      "into": "誰",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 12
+        },
+        {
+          "id": 1,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "犬",
+      "into": "犬",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "おじいさん",
+      "into": "お爺さん",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 12
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "誕生日",
+      "into": "誕生日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 12
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "海",
+      "into": "海",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 12
+        },
+        {
+          "id": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "天気",
+      "into": "天気",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 12
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "魚",
+      "into": "魚",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 13
+        },
+        {
+          "id": 1,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "肉",
+      "into": "肉",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 13
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "野菜",
+      "into": "野菜",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "カレー",
+      "into": "カレー",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "食べ物",
+      "into": "食べ物",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 13
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "何",
+      "into": "何",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "コーヒー",
+      "into": "コーヒー",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "紅茶",
+      "into": "紅茶",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "お茶",
+      "into": "お茶",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "水",
+      "into": "水",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        },
+        {
+          "id": 1,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "お酒",
+      "into": "お酒",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "飲む",
+      "into": "飲む",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "～お願いします",
+      "into": "お願いします",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "パン",
+      "into": "パン",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        },
+        {
+          "id": 1,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "卵",
+      "into": "卵",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "果物",
+      "into": "果物",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        },
+        {
+          "id": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "牛乳",
+      "into": "牛乳",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 14
+        },
+        {
+          "id": 1,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "食べる",
+      "into": "食べる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "いつも",
+      "into": "いつも",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 15
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "よく",
+      "into": "よく",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "あまり",
+      "into": "あまり",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 15
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "え~",
+      "into": "え",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 15
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "今日",
+      "into": "今日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 15
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "～ください",
+      "into": "ください",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "刺身",
+      "into": "刺身",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "ある",
+      "into": "ある",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "すみません",
+      "into": "すみません",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "2つ",
+      "into": "二つ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "3つ",
+      "into": "三つ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "4つ",
+      "into": "四つ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "5つ",
+      "into": "五つ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "6つ",
+      "into": "六つ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "7つ",
+      "into": "七つ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "8つ",
+      "into": "八つ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "9つ",
+      "into": "九つ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "いくつ",
+      "into": "いくつ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "スプーン",
+      "into": "スプーン",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "はし",
+      "into": "はし",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "すし",
+      "into": "すし",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "蕎麦",
+      "into": "蕎麦",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 20
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "うどん",
+      "into": "うどん",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "ラーメン",
+      "into": "ラーメン",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "カレー",
+      "into": "カレー",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "牛丼",
+      "into": "牛丼",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "玄関",
+      "into": "玄関",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "お風呂",
+      "into": "お風呂",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "トイレ",
+      "into": "トイレ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "階段",
+      "into": "階段",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "部屋",
+      "into": "部屋",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "台所",
+      "into": "台所",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "庭",
+      "into": "庭",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "食堂",
+      "into": "食堂",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "入る",
+      "into": "入る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "くつ",
+      "into": "靴",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "脱ぐ",
+      "into": "脱ぐ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "ご飯",
+      "into": "ご飯",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 21
+        },
+        {
+          "id": 1,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "冷蔵庫",
+      "into": "冷蔵庫",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        },
+        {
+          "id": 1,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "ベッド",
+      "into": "ベッド",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        },
+        {
+          "id": 1,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "テーブル",
+      "into": "テーブル",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "いす",
+      "into": "いす",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "テレビ",
+      "into": "テレビ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "使う",
+      "into": "使う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "広い",
+      "into": "広い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "せまい",
+      "into": "狭い",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "大きい",
+      "into": "大きい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "小さい",
+      "into": "小さい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "新しい",
+      "into": "新しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "古い",
+      "into": "古い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "静か",
+      "into": "静か",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "うるさい",
+      "into": "煩い",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "きれい",
+      "into": "きれい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "きたない",
+      "into": "汚い",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "家",
+      "into": "家",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "どう",
+      "into": "どう",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "ちょっと",
+      "into": "ちょっと",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "とても",
+      "into": "とても",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "近く",
+      "into": "近く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "でも",
+      "into": "でも",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "どう",
+      "into": "どう",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "アパート",
+      "into": "アパート",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "学校",
+      "into": "学校",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 23
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "公園",
+      "into": "公園",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 24
+        },
+        {
+          "id": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "すごい",
+      "into": "すごい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 24
+        }
+      ]
+    },
+    {
+      "word": "入れる",
+      "into": "入れる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 24
+        }
+      ]
+    },
+    {
+      "word": "切る",
+      "into": "切る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 24
+        }
+      ]
+    },
+    {
+      "word": "食堂",
+      "into": "食堂",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 26
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "いる",
+      "into": "居る",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 26
+        }
+      ]
+    },
+    {
+      "word": "たぶん",
+      "into": "たぶん",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 26
+        }
+      ]
+    },
+    {
+      "word": "上",
+      "into": "上",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        },
+        {
+          "id": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "下",
+      "into": "下",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "中",
+      "into": "中",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        }
+      ]
+    },
+    {
+      "word": "横",
+      "into": "横",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        }
+      ]
+    },
+    {
+      "word": "箱",
+      "into": "箱",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        },
+        {
+          "id": 1,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "机",
+      "into": "机",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "ここ",
+      "into": "ここ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        }
+      ]
+    },
+    {
+      "word": "そこ",
+      "into": "そこ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        }
+      ]
+    },
+    {
+      "word": "あそこ",
+      "into": "あそこ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 27
+        }
+      ]
+    },
+    {
+      "word": "今",
+      "into": "今",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 28
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "朝",
+      "into": "朝",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 28
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "昼",
+      "into": "昼",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 28
+        }
+      ]
+    },
+    {
+      "word": "夜",
+      "into": "夜",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 28
+        }
+      ]
+    },
+    {
+      "word": "午前",
+      "into": "午前",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 28
+        },
+        {
+          "id": 1,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "午後",
+      "into": "午後",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 28
+        },
+        {
+          "id": 1,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "半",
+      "into": "半",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "起きる",
+      "into": "起きる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "寝る",
+      "into": "寝る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "毎日",
+      "into": "毎日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "早い",
+      "into": "早い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "ええ",
+      "into": "ええ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "毎朝",
+      "into": "毎朝",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "する",
+      "into": "する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "遅い",
+      "into": "遅い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "勉強する",
+      "into": "勉強する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "音楽",
+      "into": "音楽",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "聞く",
+      "into": "聞く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "見る",
+      "into": "見る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "word": "仕事",
+      "into": "仕事",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 30
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "ときどき",
+      "into": "時々",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 30
+        }
+      ]
+    },
+    {
+      "word": "1日",
+      "into": "一日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 30
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "説明する",
+      "into": "説明する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 30
+        }
+      ]
+    },
+    {
+      "word": "休み",
+      "into": "休み",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 30
+        },
+        {
+          "id": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "銀行",
+      "into": "銀行",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 30
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "月曜日",
+      "into": "月曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "火曜日",
+      "into": "火曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "水曜日",
+      "into": "水曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "木曜日",
+      "into": "木曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "金曜日",
+      "into": "金曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "土曜日",
+      "into": "土曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "日曜日",
+      "into": "日曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "プール",
+      "into": "プール",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        }
+      ]
+    },
+    {
+      "word": "ご飯",
+      "into": "ご飯",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "映画",
+      "into": "映画",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "いつ",
+      "into": "いつ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "行く",
+      "into": "行く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        }
+      ]
+    },
+    {
+      "word": "いい",
+      "into": "いい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 31
+        }
+      ]
+    },
+    {
+      "word": "窓",
+      "into": "窓",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 32
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "隣",
+      "into": "隣",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 32
+        }
+      ]
+    },
+    {
+      "word": "すぐに",
+      "into": "すぐに",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 33
+        }
+      ]
+    },
+    {
+      "word": "電話する",
+      "into": "電話する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 33
+        }
+      ]
+    },
+    {
+      "word": "貸す",
+      "into": "貸す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        }
+      ]
+    },
+    {
+      "word": "借りる",
+      "into": "借りる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        }
+      ]
+    },
+    {
+      "word": "はさみ",
+      "into": "はさみ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        }
+      ]
+    },
+    {
+      "word": "のり",
+      "into": "のり",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        }
+      ]
+    },
+    {
+      "word": "えんぴつ",
+      "into": "鉛筆",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "ペン",
+      "into": "ペン",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        },
+        {
+          "id": 1,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "フォーク",
+      "into": "フォーク",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "ナイフ",
+      "into": "ナイフ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "スプーン",
+      "into": "スプーン",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "はし",
+      "into": "はし",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        }
+      ]
+    },
+    {
+      "word": "塩",
+      "into": "塩",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 34
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "砂糖",
+      "into": "砂糖",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 35
+        },
+        {
+          "id": 1,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "石けん",
+      "into": "せっけん",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 35
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "スポーツ",
+      "into": "スポーツ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 36
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "音楽",
+      "into": "音楽",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 36
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "映画",
+      "into": "映画",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 36
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "買い物",
+      "into": "買い物",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 36
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "料理",
+      "into": "料理",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 36
+        },
+        {
+          "id": 1,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "ゲーム",
+      "into": "ゲーム",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 36
+        }
+      ]
+    },
+    {
+      "word": "大好き",
+      "into": "大好き",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 36
+        }
+      ]
+    },
+    {
+      "word": "聞く",
+      "into": "聞く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        }
+      ]
+    },
+    {
+      "word": "本",
+      "into": "本",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        },
+        {
+          "id": 1,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "読む",
+      "into": "読む",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        }
+      ]
+    },
+    {
+      "word": "テレビ",
+      "into": "テレビ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "見る",
+      "into": "見る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        }
+      ]
+    },
+    {
+      "word": "する",
+      "into": "する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        }
+      ]
+    },
+    {
+      "word": "掃除",
+      "into": "掃除",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "洗濯",
+      "into": "洗濯",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "散歩",
+      "into": "散歩",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 37
+        },
+        {
+          "id": 1,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "勉強する",
+      "into": "勉強する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 38
+        }
+      ]
+    },
+    {
+      "word": "いつも",
+      "into": "いつも",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 38
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "よく",
+      "into": "よく",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 38
+        }
+      ]
+    },
+    {
+      "word": "ときどき",
+      "into": "時々",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 38
+        }
+      ]
+    },
+    {
+      "word": "あまり",
+      "into": "あまり",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 38
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "外",
+      "into": "外",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 38
+        }
+      ]
+    },
+    {
+      "word": "食べ物",
+      "into": "食べ物",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 39
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "飲み物",
+      "into": "飲み物",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 39
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "1月",
+      "into": "一月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 40
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "1日",
+      "into": "一日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 40
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "2日",
+      "into": "二日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "3日",
+      "into": "三日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "4日",
+      "into": "四日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "5日",
+      "into": "五日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "6日",
+      "into": "六日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "7日",
+      "into": "七日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "8日",
+      "into": "八日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "9日",
+      "into": "九日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "10日",
+      "into": "十日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "20日",
+      "into": "二十日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 41
+        }
+      ]
+    },
+    {
+      "word": "今日",
+      "into": "今日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 42
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "明日",
+      "into": "明日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 42
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "あさって",
+      "into": "あさって",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 42
+        },
+        {
+          "id": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "word": "今週",
+      "into": "今週",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 42
+        },
+        {
+          "id": 1,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "来週",
+      "into": "来週",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 42
+        },
+        {
+          "id": 1,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "パーティー",
+      "into": "パーティー",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 42
+        },
+        {
+          "id": 1,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "いっしょに",
+      "into": "一緒に",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 43
+        }
+      ]
+    },
+    {
+      "word": "今晩",
+      "into": "今晩",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 43
+        },
+        {
+          "id": 1,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "電車",
+      "into": "電車",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "バス",
+      "into": "バス",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        },
+        {
+          "id": 1,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "タクシー",
+      "into": "タクシー",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "地下鉄",
+      "into": "地下鉄",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        },
+        {
+          "id": 1,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "飛行機",
+      "into": "飛行機",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        },
+        {
+          "id": 1,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "駅",
+      "into": "駅",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "この",
+      "into": "この",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        }
+      ]
+    },
+    {
+      "word": "先",
+      "into": "先",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        },
+        {
+          "id": 1,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "止まる",
+      "into": "止まる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        }
+      ]
+    },
+    {
+      "word": "乗る",
+      "into": "乗る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 44
+        }
+      ]
+    },
+    {
+      "word": "次",
+      "into": "次",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 45
+        }
+      ]
+    },
+    {
+      "word": "出口",
+      "into": "出口",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 45
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "～時間",
+      "into": "時間",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 45
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "～分",
+      "into": "～分",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 45
+        }
+      ]
+    },
+    {
+      "word": "30分",
+      "into": "30分",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 45
+        }
+      ]
+    },
+    {
+      "word": "自転車",
+      "into": "自転車",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 46
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "車",
+      "into": "車",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 46
+        },
+        {
+          "id": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "かかる",
+      "into": "かかる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 46
+        }
+      ]
+    },
+    {
+      "word": "～ぐらい",
+      "into": "ぐらい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 46
+        }
+      ]
+    },
+    {
+      "word": "乗る",
+      "into": "乗る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 46
+        }
+      ]
+    },
+    {
+      "word": "降りる",
+      "into": "降りる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 46
+        }
+      ]
+    },
+    {
+      "word": "乗り換える",
+      "into": "乗り換える",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 47
+        }
+      ]
+    },
+    {
+      "word": "エレベーター",
+      "into": "エレベーター",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 47
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "トイレ",
+      "into": "トイレ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "喫煙所",
+      "into": "喫煙所",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        }
+      ]
+    },
+    {
+      "word": "あちら",
+      "into": "あちら",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        }
+      ]
+    },
+    {
+      "word": "飲み物",
+      "into": "飲み物",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "あっち",
+      "into": "あっち",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        }
+      ]
+    },
+    {
+      "word": "上",
+      "into": "上",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        },
+        {
+          "id": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "下",
+      "into": "下",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "前",
+      "into": "前",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "後ろ",
+      "into": "後ろ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        },
+        {
+          "id": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "中",
+      "into": "中",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        }
+      ]
+    },
+    {
+      "word": "横",
+      "into": "横",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 48
+        }
+      ]
+    },
+    {
+      "word": "エスカレーター",
+      "into": "エスカレーター",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "改札",
+      "into": "改札",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "そっち",
+      "into": "そっち",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "すぐ",
+      "into": "すぐ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "古い",
+      "into": "古い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "新しい",
+      "into": "新しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "大きい",
+      "into": "大きい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "大きな",
+      "into": "大きな",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "小さい",
+      "into": "小さい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "小さな",
+      "into": "小さな",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "高い",
+      "into": "高い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "低い",
+      "into": "低い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "にぎやか",
+      "into": "賑やか",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "静か",
+      "into": "静か",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "広い",
+      "into": "広い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "せまい",
+      "into": "狭い",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "きれい",
+      "into": "きれい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "きたない",
+      "into": "汚い",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "お寺",
+      "into": "お寺",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "word": "公園",
+      "into": "公園",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 49
+        },
+        {
+          "id": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "川",
+      "into": "川",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 50
+        }
+      ]
+    },
+    {
+      "word": "有名",
+      "into": "有名",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 50
+        }
+      ]
+    },
+    {
+      "word": "あれ",
+      "into": "あれ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 50
+        }
+      ]
+    },
+    {
+      "word": "建物",
+      "into": "建物",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 50
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "たくさん",
+      "into": "たくさん",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 50
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "たばこ",
+      "into": "たばこ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 50
+        }
+      ]
+    },
+    {
+      "word": "銀行",
+      "into": "銀行",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 50
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "コンビニ",
+      "into": "コンビニ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 52
+        }
+      ]
+    },
+    {
+      "word": "デパート",
+      "into": "デパート",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 52
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "ほしい",
+      "into": "欲しい",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 52
+        }
+      ]
+    },
+    {
+      "word": "店",
+      "into": "店",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 52
+        },
+        {
+          "id": 1,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "しょうゆ",
+      "into": "しょうゆ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 53
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "スカート",
+      "into": "スカート",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 53
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "服",
+      "into": "服",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 53
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "靴",
+      "into": "靴",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 53
+        },
+        {
+          "id": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "酒",
+      "into": "酒",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 54
+        }
+      ]
+    },
+    {
+      "word": "カメラ",
+      "into": "カメラ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 54
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "こちら",
+      "into": "こちら",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 54
+        }
+      ]
+    },
+    {
+      "word": "1階",
+      "into": "1階",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 54
+        }
+      ]
+    },
+    {
+      "word": "2階",
+      "into": "2階",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 54
+        }
+      ]
+    },
+    {
+      "word": "かわいい",
+      "into": "かわいい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "高い",
+      "into": "高い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "安い",
+      "into": "安い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "おもしろい",
+      "into": "おもしろい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "きれい",
+      "into": "きれい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "バッグ",
+      "into": "バッグ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "かばん",
+      "into": "かばん",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        },
+        {
+          "id": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "シャツ",
+      "into": "シャツ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "ズボン",
+      "into": "ズボン",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "くつ",
+      "into": "靴",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        },
+        {
+          "id": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "ネクタイ",
+      "into": "ネクタイ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "帽子",
+      "into": "帽子",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        },
+        {
+          "id": 1,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "傘",
+      "into": "傘",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "コート",
+      "into": "コート",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "本当",
+      "into": "ほんとう",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 55
+        }
+      ]
+    },
+    {
+      "word": "入口",
+      "into": "入口",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 56
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "出口",
+      "into": "出口",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 56
+        },
+        {
+          "id": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "word": "押す",
+      "into": "押す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 56
+        }
+      ]
+    },
+    {
+      "word": "引く",
+      "into": "引く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 56
+        }
+      ]
+    },
+    {
+      "word": "開く",
+      "into": "開く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 56
+        }
+      ]
+    },
+    {
+      "word": "いくら",
+      "into": "いくら",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 58
+        }
+      ]
+    },
+    {
+      "word": "カレンダー",
+      "into": "カレンダー",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 58
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "お菓子",
+      "into": "お菓子",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 58
+        },
+        {
+          "id": 1,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "Tシャツ",
+      "into": "Tシャツ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 58
+        }
+      ]
+    },
+    {
+      "word": "その",
+      "into": "その",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 58
+        }
+      ]
+    },
+    {
+      "word": "それ",
+      "into": "それ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 59
+        }
+      ]
+    },
+    {
+      "word": "この",
+      "into": "この",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 59
+        }
+      ]
+    },
+    {
+      "word": "これ",
+      "into": "これ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 59
+        }
+      ]
+    },
+    {
+      "word": "あの",
+      "into": "あの",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 59
+        }
+      ]
+    },
+    {
+      "word": "あれ",
+      "into": "あれ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 59
+        }
+      ]
+    },
+    {
+      "word": "こちら",
+      "into": "こちら",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 60
+        }
+      ]
+    },
+    {
+      "word": "おはし",
+      "into": "はし",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 61
+        }
+      ]
+    },
+    {
+      "word": "フォーク",
+      "into": "フォーク",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 61
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "休み",
+      "into": "休み",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        },
+        {
+          "id": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "服",
+      "into": "服",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        },
+        {
+          "id": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "買う",
+      "into": "買う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        }
+      ]
+    },
+    {
+      "word": "家族",
+      "into": "家族",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        },
+        {
+          "id": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "話す",
+      "into": "話す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        }
+      ]
+    },
+    {
+      "word": "ゆっくりする",
+      "into": "ゆっくりする",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        }
+      ]
+    },
+    {
+      "word": "掃除する",
+      "into": "掃除する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        }
+      ]
+    },
+    {
+      "word": "寝る",
+      "into": "寝る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        }
+      ]
+    },
+    {
+      "word": "昨日",
+      "into": "昨日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 63
+        },
+        {
+          "id": 1,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "勉強",
+      "into": "勉強",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        },
+        {
+          "id": 1,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "word": "洗濯",
+      "into": "洗濯",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "掃除",
+      "into": "掃除",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        },
+        {
+          "id": 1,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "楽しい",
+      "into": "楽しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        }
+      ]
+    },
+    {
+      "word": "おもしろい",
+      "into": "おもしろい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        }
+      ]
+    },
+    {
+      "word": "いい",
+      "into": "いい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        }
+      ]
+    },
+    {
+      "word": "すばらしい",
+      "into": "素晴らしい",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        }
+      ]
+    },
+    {
+      "word": "つまらない",
+      "into": "つまらない",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        }
+      ]
+    },
+    {
+      "word": "そして",
+      "into": "そして",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 64
+        }
+      ]
+    },
+    {
+      "word": "花",
+      "into": "花",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 65
+        },
+        {
+          "id": 1,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "多い",
+      "into": "多い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 65
+        }
+      ]
+    },
+    {
+      "word": "元気",
+      "into": "元気",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 65
+        }
+      ]
+    },
+    {
+      "word": "おいしい",
+      "into": "おいしい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 65
+        }
+      ]
+    },
+    {
+      "word": "大人",
+      "into": "大人",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 65
+        },
+        {
+          "id": 1,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "営業時間",
+      "into": "営業時間",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 66
+        }
+      ]
+    },
+    {
+      "word": "毎月",
+      "into": "毎月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 66
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "全品",
+      "into": "全品",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 66
+        }
+      ]
+    },
+    {
+      "word": "着く",
+      "into": "着く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 67
+        }
+      ]
+    },
+    {
+      "word": "はじめて",
+      "into": "初めて",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 3,
+          "page": 67
+        }
+      ]
+    },
+    {
+      "word": "また",
+      "into": "また",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 67
+        },
+        {
+          "id": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "友だち",
+      "into": "友だち",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 68
+        }
+      ]
+    },
+    {
+      "word": "会う",
+      "into": "会う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 68
+        }
+      ]
+    },
+    {
+      "word": "行く",
+      "into": "行く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 68
+        }
+      ]
+    },
+    {
+      "word": "炊飯器",
+      "into": "炊飯器",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 68
+        }
+      ]
+    },
+    {
+      "word": "買う",
+      "into": "買う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 68
+        }
+      ]
+    },
+    {
+      "word": "うち",
+      "into": "うち",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 68
+        },
+        {
+          "id": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "夏休み",
+      "into": "夏休み",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 68
+        },
+        {
+          "id": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "登る",
+      "into": "登る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 68
+        }
+      ]
+    },
+    {
+      "word": "雪",
+      "into": "雪",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 69
+        }
+      ]
+    },
+    {
+      "word": "見る",
+      "into": "見る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 69
+        }
+      ]
+    },
+    {
+      "word": "食べる",
+      "into": "食べる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 69
+        }
+      ]
+    },
+    {
+      "word": "入る",
+      "into": "入る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 69
+        }
+      ]
+    },
+    {
+      "word": "あと",
+      "into": "あと",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 69
+        }
+      ]
+    },
+    {
+      "word": "どうして",
+      "into": "どうして",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 69
+        }
+      ]
+    },
+    {
+      "word": "写真",
+      "into": "写真",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 69
+        },
+        {
+          "id": 1,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "それに",
+      "into": "それに",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 70
+        }
+      ]
+    },
+    {
+      "word": "それから",
+      "into": "それから",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 70
+        }
+      ]
+    },
+    {
+      "word": "鶏",
+      "into": "鶏",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 70
+        },
+        {
+          "id": 1,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "でも",
+      "into": "でも",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 3,
+          "page": 70
+        }
+      ]
+    },
+    {
+      "word": "練習",
+      "into": "練習",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 1,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "果物",
+      "into": "果物",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "梅",
+      "into": "梅",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "野菜",
+      "into": "野菜",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "word": "ボールペン",
+      "into": "ボールペン",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "本",
+      "into": "本",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "電卓",
+      "into": "電卓",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "辞書",
+      "into": "辞書",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "紙",
+      "into": "紙",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "机",
+      "into": "机",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "鉛筆",
+      "into": "鉛筆",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "地図",
+      "into": "地図",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "ペン",
+      "into": "ペン",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "本棚",
+      "into": "本棚",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "ホチキス",
+      "into": "ホチキス",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "word": "こんにちは",
+      "into": "こんにちは",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        },
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "おはようございます",
+      "into": "おはようございます",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "こんばんは",
+      "into": "こんばんは",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "おやすみなさい",
+      "into": "おやすみなさい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "月曜日",
+      "into": "月曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "火曜日",
+      "into": "火曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "水曜日",
+      "into": "水曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "木曜日",
+      "into": "木曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "金曜日",
+      "into": "金曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "土曜日",
+      "into": "土曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "日曜日",
+      "into": "日曜日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "今日",
+      "into": "今日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "昨日",
+      "into": "昨日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "一昨日",
+      "into": "一昨日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "朝",
+      "into": "朝",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "今朝",
+      "into": "今朝",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "晩",
+      "into": "晩",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "夜",
+      "into": "夜",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "今晩",
+      "into": "今晩",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "明日",
+      "into": "明日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "毎日",
+      "into": "毎日",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "毎朝",
+      "into": "毎朝",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "毎晩",
+      "into": "毎晩",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "今週",
+      "into": "今週",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "先週",
+      "into": "先週",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "来週",
+      "into": "来週",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "一月",
+      "into": "一月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "2月",
+      "into": "2月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "3月",
+      "into": "3月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "4月",
+      "into": "4月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "5月",
+      "into": "5月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "6月",
+      "into": "6月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "7月",
+      "into": "7月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "8月",
+      "into": "8月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "9月",
+      "into": "9月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "10月",
+      "into": "10月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "11月",
+      "into": "11月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "12月",
+      "into": "12月",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "零",
+      "into": "零",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "一",
+      "into": "一",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "二",
+      "into": "二",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "三",
+      "into": "三",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "四",
+      "into": "四",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "五",
+      "into": "五",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "六",
+      "into": "六",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "七",
+      "into": "七",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "八",
+      "into": "八",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "九",
+      "into": "九",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "十",
+      "into": "十",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "百",
+      "into": "百",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "千",
+      "into": "千",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "万",
+      "into": "万",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "word": "黒い",
+      "into": "黒い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "赤い",
+      "into": "赤い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "茶色",
+      "into": "茶色",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "白い",
+      "into": "白い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "緑",
+      "into": "緑",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "word": "大きい",
+      "into": "大きい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "小さい",
+      "into": "小さい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "短い",
+      "into": "短い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "多い",
+      "into": "多い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "少ない",
+      "into": "少ない",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "太い",
+      "into": "太い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "細い",
+      "into": "細い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "厚い",
+      "into": "厚い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "薄い",
+      "into": "薄い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        },
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "柔らかい",
+      "into": "柔らかい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "word": "新しい",
+      "into": "新しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "古い",
+      "into": "古い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "高い",
+      "into": "高い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        },
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "安い",
+      "into": "安い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "早い",
+      "into": "早い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "速い",
+      "into": "速い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "遅い",
+      "into": "遅い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "遠い",
+      "into": "遠い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "近い",
+      "into": "近い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "強い",
+      "into": "強い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "弱い",
+      "into": "弱い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "低い",
+      "into": "低い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "熱い",
+      "into": "熱い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "冷たい",
+      "into": "冷たい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "丸い",
+      "into": "丸い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "甘い",
+      "into": "甘い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "辛い",
+      "into": "辛い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "おいしい",
+      "into": "おいしい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "まずい",
+      "into": "まずい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "暑い",
+      "into": "暑い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "寒い",
+      "into": "寒い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "暖かい",
+      "into": "暖かい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "word": "涼しい",
+      "into": "涼しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "明るい",
+      "into": "明るい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "暗い",
+      "into": "暗い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "汚い",
+      "into": "汚い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "重い",
+      "into": "重い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "軽い",
+      "into": "軽い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "難しい",
+      "into": "難しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "易しい",
+      "into": "易しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "危ない",
+      "into": "危ない",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "いい",
+      "into": "いい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "悪い",
+      "into": "悪い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "忙しい",
+      "into": "忙しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "すごい",
+      "into": "すごい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "素晴らしい",
+      "into": "素晴らしい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "かっこいい",
+      "into": "かっこいい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "かわいい",
+      "into": "かわいい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "楽しい",
+      "into": "楽しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "つまらない",
+      "into": "つまらない",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "恥ずかしい",
+      "into": "恥ずかしい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "痛い",
+      "into": "痛い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "欲しい",
+      "into": "欲しい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "残念",
+      "into": "残念",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "好き",
+      "into": "好き",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "嫌い",
+      "into": "嫌い",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "大好き",
+      "into": "大好き",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "きれい",
+      "into": "きれい",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "賑やか",
+      "into": "賑やか",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "静か",
+      "into": "静か",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "便利",
+      "into": "便利",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "有名",
+      "into": "有名",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "危険",
+      "into": "危険",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "大丈夫",
+      "into": "大丈夫",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "大切",
+      "into": "大切",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "変",
+      "into": "変",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "上手",
+      "into": "上手",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "下手",
+      "into": "下手",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "暇",
+      "into": "暇",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "大変",
+      "into": "大変",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "おしゃれ",
+      "into": "おしゃれ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "嫌",
+      "into": "嫌",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "10分",
+      "into": "10分",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "丈夫",
+      "into": "丈夫",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "まっすぐ",
+      "into": "まっすぐ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "同じ",
+      "into": "同じ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "私",
+      "into": "私",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        },
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "あなた",
+      "into": "あなた",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "これ",
+      "into": "これ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "それ",
+      "into": "それ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "あれ",
+      "into": "あれ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "word": "顔",
+      "into": "顔",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "歯",
+      "into": "歯",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "鼻",
+      "into": "鼻",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "口",
+      "into": "口",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "体",
+      "into": "体",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "頭",
+      "into": "頭",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "手",
+      "into": "手",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "足",
+      "into": "足",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "word": "髪",
+      "into": "髪",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "目",
+      "into": "目",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "耳",
+      "into": "耳",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "word": "居る",
+      "into": "居る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "勉強する",
+      "into": "勉強する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "運動する",
+      "into": "運動する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "思う",
+      "into": "思う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "掃除する",
+      "into": "掃除する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "word": "散歩する",
+      "into": "散歩する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "word": "見る",
+      "into": "見る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "被る",
+      "into": "被る",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "word": "修理する",
+      "into": "修理する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "word": "泳ぐ",
+      "into": "泳ぐ",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "辞める",
+      "into": "辞める",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "言う",
+      "into": "言う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "練習する",
+      "into": "練習する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "word": "貰う",
+      "into": "貰う",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "word": "回す",
+      "into": "回す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 24
+        }
+      ]
+    },
+    {
+      "word": "思い出す",
+      "into": "思い出す",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 25
+        }
+      ]
+    },
+    {
+      "word": "心配する",
+      "into": "心配する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 25
+        }
+      ]
+    },
+    {
+      "word": "閉じる",
+      "into": "閉じる",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 26
+        }
+      ]
+    },
+    {
+      "word": "運転する",
+      "into": "運転する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 26
+        }
+      ]
+    },
+    {
+      "word": "行く",
+      "into": "行く",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 28
+        }
+      ]
+    },
+    {
+      "word": "出張する",
+      "into": "出張する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 28
+        }
+      ]
+    },
+    {
+      "word": "留学する",
+      "into": "留学する",
+      "reason": "Penulisan/varian sama",
+      "sources": [
+        {
+          "id": 0,
+          "page": 28
+        }
+      ]
+    },
+    {
+      "word": "椅子",
+      "into": "いす",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "word": "明後日",
+      "into": "あさって",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "word": "うるさい",
+      "into": "煩い",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "面白い",
+      "into": "おもしろい",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 15
+        }
+      ]
+    },
+    {
+      "word": "無い",
+      "into": "ない",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "素敵",
+      "into": "すてき",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "色々",
+      "into": "いろいろ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "word": "駄目",
+      "into": "だめ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "word": "立派",
+      "into": "りっぱ",
+      "reason": "Kana/kanji dan makna cocok",
+      "sources": [
+        {
+          "id": 0,
+          "page": 17
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "source": 4,
+      "page": 1,
+      "before": [
+        "明い",
+        "あかるい",
+        "cerah"
+      ],
+      "after": [
+        "明るい",
+        "あかるい",
+        "terang; ceria"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 1,
+      "before": [
+        "開く",
+        "あく",
+        "membuka, membeberkan"
+      ],
+      "after": [
+        "開く",
+        "あく",
+        "terbuka"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 1,
+      "before": [
+        "上げる",
+        "あげる",
+        "mengangkat, memberi"
+      ],
+      "after": [
+        "上げる",
+        "あげる",
+        "mengangkat; menaikkan"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 2,
+      "before": [
+        "厚い",
+        "あつい",
+        "tebal, dalam, berat"
+      ],
+      "after": [
+        "厚い",
+        "あつい",
+        "tebal"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 3,
+      "before": [
+        "いくら",
+        "いくら",
+        "berapa banyak?"
+      ],
+      "after": [
+        "いくら",
+        "いくら",
+        "berapa harga; berapa banyak"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 3,
+      "before": [
+        "一日",
+        "いちにち",
+        "(1) satu hari, (2) hari pertama dalam sebuah bulan"
+      ],
+      "after": [
+        "一日",
+        "いちにち",
+        "satu hari"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 4,
+      "before": [
+        "薄い",
+        "うすい",
+        "kurus, lemah"
+      ],
+      "after": [
+        "薄い",
+        "うすい",
+        "tipis; encer"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 5,
+      "before": [
+        "お菓子",
+        "おかし",
+        "permen"
+      ],
+      "after": [
+        "お菓子",
+        "おかし",
+        "camilan; kue"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 6,
+      "before": [
+        "お風呂",
+        "おふろ",
+        "mandi"
+      ],
+      "after": [
+        "お風呂",
+        "おふろ",
+        "bak mandi; mandi berendam"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 7,
+      "before": [
+        "終る",
+        "おわる",
+        "menyelesaikan"
+      ],
+      "after": [
+        "終わる",
+        "おわる",
+        "selesai"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 9,
+      "before": [
+        "漢字",
+        "かんじ",
+        "karakter Cina"
+      ],
+      "after": [
+        "漢字",
+        "かんじ",
+        "aksara kanji"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 11,
+      "before": [
+        "結構",
+        "けっこう",
+        "cukup"
+      ],
+      "after": [
+        "結構",
+        "けっこう",
+        "cukup; lumayan; tidak perlu (sesuai konteks)"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 14,
+      "before": [
+        "閉まる",
+        "しまる",
+        "menutup"
+      ],
+      "after": [
+        "閉まる",
+        "しまる",
+        "tertutup"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 14,
+      "before": [
+        "丈夫",
+        "じょうぶ",
+        "kuat, tahan lama"
+      ],
+      "after": [
+        "丈夫",
+        "じょうぶ",
+        "kuat; awet"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 18,
+      "before": [
+        "一日",
+        "ついたち",
+        "awal bulan"
+      ],
+      "after": [
+        "一日",
+        "いちにち",
+        "satu hari"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 21,
+      "before": [
+        "鳴く",
+        "なく",
+        "suara hewan, kicauan, suara gemuruh atau parau dll"
+      ],
+      "after": [
+        "鳴く",
+        "なく",
+        "berbunyi (hewan); berkicau"
+      ]
+    },
+    {
+      "source": 4,
+      "page": 27,
+      "before": [
+        "曲る",
+        "まがる",
+        "membengkokkan, menekuk, mengubah"
+      ],
+      "after": [
+        "曲がる",
+        "まがる",
+        "berbelok"
+      ]
+    },
+    {
+      "source": 6,
+      "page": 2,
+      "before": [
+        "いくら",
+        "いくら",
+        "berapa harganya"
+      ],
+      "after": [
+        "いくら",
+        "いくら",
+        "berapa harga; berapa banyak"
+      ]
+    },
+    {
+      "source": 3,
+      "page": 21,
+      "before": [
+        "お風呂",
+        "おふろ",
+        "kamar mandi"
+      ],
+      "after": [
+        "お風呂",
+        "おふろ",
+        "bak mandi; mandi berendam"
+      ]
+    },
+    {
+      "source": 3,
+      "page": 23,
+      "before": [
+        "うるさい",
+        "うるさい",
+        "bising; berisik"
+      ],
+      "after": [
+        "うるさい",
+        "うるさい",
+        "berisik"
+      ]
+    },
+    {
+      "source": 3,
+      "page": 56,
+      "before": [
+        "開く",
+        "ひらく",
+        "buka"
+      ],
+      "after": [
+        "開く",
+        "あく",
+        "terbuka"
+      ]
+    },
+    {
+      "source": 3,
+      "page": 58,
+      "before": [
+        "いくら",
+        "いくら",
+        "berapa (menanyakan harga)"
+      ],
+      "after": [
+        "いくら",
+        "いくら",
+        "berapa harga; berapa banyak"
+      ]
+    },
+    {
+      "source": 3,
+      "page": 58,
+      "before": [
+        "お菓子",
+        "おかし",
+        "kue; kudapan"
+      ],
+      "after": [
+        "お菓子",
+        "おかし",
+        "camilan; kue"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 6,
+      "before": [
+        "桃色",
+        "",
+        "peach"
+      ],
+      "after": [
+        "桃色",
+        "ももいろ",
+        "merah muda"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 6,
+      "before": [
+        "真っ青",
+        "",
+        "biru tua"
+      ],
+      "after": [
+        "真っ青",
+        "まっさお",
+        "biru pekat; sangat pucat"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 10,
+      "before": [
+        "網膜",
+        "",
+        "rahim"
+      ],
+      "after": [
+        "網膜",
+        "もうまく",
+        "retina"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 10,
+      "before": [
+        "教卓",
+        "きょうたく",
+        "guru"
+      ],
+      "after": [
+        "教卓",
+        "きょうたく",
+        "meja guru"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 11,
+      "before": [
+        "征服",
+        "せいふく",
+        "Seragam"
+      ],
+      "after": [
+        "制服",
+        "せいふく",
+        "seragam"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 12,
+      "before": [
+        "パイナップッル",
+        "",
+        "nanas"
+      ],
+      "after": [
+        "パイナップル",
+        "パイナップル",
+        "nanas"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 12,
+      "before": [
+        "栗",
+        "",
+        "buah coklak"
+      ],
+      "after": [
+        "栗",
+        "くり",
+        "kastanya"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 12,
+      "before": [
+        "ココノッツ",
+        "",
+        "kelapa"
+      ],
+      "after": [
+        "ココナッツ",
+        "ココナッツ",
+        "kelapa"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 12,
+      "before": [
+        "ジャックフルッツ",
+        "",
+        "nangka"
+      ],
+      "after": [
+        "ジャックフルーツ",
+        "ジャックフルーツ",
+        "nangka"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 13,
+      "before": [
+        "玉葱",
+        "",
+        "bawang merah"
+      ],
+      "after": [
+        "玉ねぎ",
+        "たまねぎ",
+        "bawang bombai"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 13,
+      "before": [
+        "さやえんどう",
+        "",
+        "kacang panjang"
+      ],
+      "after": [
+        "さやえんどう",
+        "さやえんどう",
+        "kacang kapri"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 13,
+      "before": [
+        "メキャベツ",
+        "",
+        "touge"
+      ],
+      "after": [
+        "芽キャベツ",
+        "めキャベツ",
+        "kubis brussel"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 13,
+      "before": [
+        "ぴまん",
+        "",
+        "cabe hijau"
+      ],
+      "after": [
+        "ピーマン",
+        "ピーマン",
+        "paprika hijau"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 13,
+      "before": [
+        "インゲン豆",
+        "",
+        "kacang merah"
+      ],
+      "after": [
+        "いんげん豆",
+        "いんげんまめ",
+        "buncis"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 13,
+      "before": [
+        "薄い",
+        "うすい",
+        "tipis"
+      ],
+      "after": [
+        "薄い",
+        "うすい",
+        "tipis; encer"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 13,
+      "before": [
+        "柔かい",
+        "やわらかい",
+        "lunak"
+      ],
+      "after": [
+        "柔らかい",
+        "やわらかい",
+        "lembut; empuk"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 14,
+      "before": [
+        "薄い",
+        "うすい",
+        "tipis, encer(rasanya)"
+      ],
+      "after": [
+        "薄い",
+        "うすい",
+        "tipis; encer"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 15,
+      "before": [
+        "蒸暑い",
+        "むしあつい",
+        "panas gerah(suhu)"
+      ],
+      "after": [
+        "蒸し暑い",
+        "むしあつい",
+        "panas dan lembap"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 16,
+      "before": [
+        "恥かしい",
+        "はずかしい",
+        "malu"
+      ],
+      "after": [
+        "恥ずかしい",
+        "はずかしい",
+        "malu"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 17,
+      "before": [
+        "丈夫",
+        "じょうぶ",
+        "kuat"
+      ],
+      "after": [
+        "丈夫",
+        "じょうぶ",
+        "kuat; awet"
+      ]
+    },
+    {
+      "source": 0,
+      "page": 19,
+      "before": [
+        "気に入る",
+        "",
+        "jadi penasaran, jadi pikiran"
+      ],
+      "after": [
+        "気に入る",
+        "きにいる",
+        "menyukai; cocok di hati"
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "raw": "Saya : watashi, watakushi, shousa, boku, atashi, ore",
+      "reason": "shousa bukan kata ganti saya yang tepat"
+    },
+    {
+      "raw": "こくばんけし",
+      "reason": "Baris terpotong; digabung dengan 黒板消し"
+    }
+  ],
+  "rejected": [
+    {
+      "source": 0,
+      "page": 10,
+      "section": "Alat Tulis dan Peralatan Sekolah",
+      "raw": "黒板 (こくばん) Kokuban -Papan Tulis",
+      "reason": "Kosakata harian tanpa pemisah yang jelas"
+    }
+  ],
+  "issues": [],
+  "sourceCounts": {
+    "1000 Kotoba Sehari-hari.pdf": 411,
+    "Kata Benda N5.pdf": 349,
+    "Kata Kerja Grup 123.pdf": 135,
+    "Kotoba Irodori A1 Buku Pink.pdf": 1114,
+    "Kosakata N5.pdf": 664,
+    "Kata Sifat N5 by Protect.pdf": 67,
+    "Kata Keterangan N5.pdf": 50
+  },
+  "sources": [
+    {
+      "id": 0,
+      "filename": "1000 Kotoba Sehari-hari.pdf",
+      "label": "Kosakata sehari-hari · pilihan ½",
+      "credit": "Daftar Informasi Anita (2018)",
+      "sha256": "f108bb9a04b447b8a19b1be54767458c2e55a861c00b812f6875a91c9052c635"
+    },
+    {
+      "id": 1,
+      "filename": "Kata Benda N5.pdf",
+      "label": "Kata benda N5",
+      "credit": "Bahasa Jepang Bersama",
+      "sha256": "b5f9b1664dea4107e63ae29990bd3031768afb566799736fcc4e47efee8736fe"
+    },
+    {
+      "id": 2,
+      "filename": "Kata Kerja Grup 123.pdf",
+      "label": "Kata kerja grup 1–3",
+      "credit": "PDF materi pengguna",
+      "sha256": "16fa5f63d0ea39010dba93389ea385aed632f4ff89956e482e81cce75108920b"
+    },
+    {
+      "id": 3,
+      "filename": "Kotoba Irodori A1 Buku Pink.pdf",
+      "label": "Irodori A1",
+      "credit": "The Japan Foundation (2021)",
+      "sha256": "d621fb400451be0a45e0f770ae4cda642464fd34d64f9c0609e2cfaa710ba696"
+    },
+    {
+      "id": 4,
+      "filename": "Kosakata N5.pdf",
+      "label": "Kosakata N5",
+      "credit": "PDF materi pengguna",
+      "sha256": "696c8bcb09ec0de26f6f0a3eda390a9832d81c2d8adae77de32dc72e5948f654"
+    },
+    {
+      "id": 5,
+      "filename": "Kata Sifat N5 by Protect.pdf",
+      "label": "Kata sifat N5",
+      "credit": "RSPsensei / Protect",
+      "sha256": "b9b73e1e306d4c9d3bdfbb6408e22d54be35ee4abaf9bcf1e6f61a49fab0ac80"
+    },
+    {
+      "id": 6,
+      "filename": "Kata Keterangan N5.pdf",
+      "label": "Kata keterangan N5",
+      "credit": "RSPsensei",
+      "sha256": "b4887ac59fa31e4accc75ee5e980e55ffae56cbb20b25801d9c53d8265c8d67e"
+    }
+  ]
+}

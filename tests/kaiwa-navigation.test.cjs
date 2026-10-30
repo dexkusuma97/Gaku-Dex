@@ -1,0 +1,10 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const entries=[null];let position=0,pop;
+const c={page:'Beranda',category:'Seion',kanaView:'groups',selectedKana:null,KANA_GROUPS:{Seion:{}},console,setTimeout,clearTimeout,stopAudio(){c.GakuKaiwa.stop()},closeModal(){},updateScreen(){c.GakuKaiwa.sync(c.page==='Kaiwa')},document:{querySelector(){return null},getElementById(){return null}},addEventListener(name,fn){if(name==='popstate')pop=fn}};
+c.window=c;c.history={get state(){return entries[position]},pushState(s){entries.splice(position+1);entries.push(s);position++},replaceState(s){entries[position]=s},go(delta){position+=delta;assert.ok(position>=0);pop({state:entries[position]})},back(){this.go(-1)}};
+vm.createContext(c);for(const file of ['kaiwa-data.js','kaiwa-render.js','navigation.js'])vm.runInContext(fs.readFileSync('dist/'+file,'utf8'),c);
+vm.runInContext("GakuKaiwa.onRoute=()=>{if(history.state?.kaiwa?.id)history.replaceState(appRoute(),'');else pushRoute()};GakuKaiwa.onMenu=()=>history.back();initAppNavigation()",c);
+c.switchTab('Kaiwa');assert.equal(c.history.state.depth,1);c.GakuKaiwa.open('jiko','practice');assert.equal(c.history.state.depth,2);assert.equal(c.history.state.kaiwa.id,'jiko');c.GakuKaiwa.open('jiko','read');assert.equal(c.history.state.depth,2);assert.equal(entries.length,3,'mode replaces scenario route');c.history.back();assert.equal(c.page,'Kaiwa');assert.equal(c.GakuKaiwa.getRoute().id,null);c.history.back();assert.equal(c.page,'Beranda');
+c.switchTab('Kaiwa');c.GakuKaiwa.open('resu','practice');c.switchTab('Quiz');assert.equal(c.page,'Quiz');assert.equal(entries.length,2);c.history.back();assert.equal(c.page,'Beranda');
+c.switchTab('Kaiwa');c.GakuKaiwa.open('kai','read');c.initAppNavigation();assert.equal(c.GakuKaiwa.getRoute().id,'kai');c.history.back();assert.equal(c.GakuKaiwa.getRoute().id,null);
+console.log('PASS: Kaiwa scenario/mode history, Back to scenarios/Home, branch pruning on tab switch and reload restoration');

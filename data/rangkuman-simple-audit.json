@@ -1,0 +1,181 @@
+{
+  "source": {
+    "filename": "Rangkuman Bunpo Minna no Nihongo – Versi Mudah (Bab 1–50).pdf",
+    "sha256": "ee2a094e980ce251151aa8316438d20b7ca17fb3c079658d7e913b9a48b1eabf"
+  },
+  "chapters": 50,
+  "patterns": 230,
+  "editorialChanges": [
+    {
+      "chapter": 1,
+      "before": "N1 は N2 です = \"N1 itu N2\". です mirip \"adalah\" yang sopan. Rumusnya: [topik] は [penjelasan] です.",
+      "after": "N1 は N2 です = “N1 itu N2”. Bagian sebelum は adalah topik, lalu N2 menjelaskan identitasnya. です membuat kalimat ini sopan. Contoh: わたしは がくせいです。= Saya pelajar."
+    },
+    {
+      "chapter": 1,
+      "before": "N1 の N2 = \"N2 milik/milik lembaga N1\". Di bab ini dipakai untuk asal/afiliasi.",
+      "after": "N1 の N2 = N2 milik atau bagian dari N1. Misalnya, わたしの ほん = buku saya; IMCの しゃいん = karyawan IMC."
+    },
+    {
+      "chapter": 6,
+      "before": "Catatan: なん dipakai sebelum bunyi t/d/n atau satuan hitung, sedangkan なに di tempat lain.",
+      "after": "なん dan なに sama-sama dapat berarti “apa”. Baca なん dalam なんですか、なんの、なんじ. Baca なに dalam なにを しますか、なにが すきですか. Hafalkan bersama contoh; bunyi setelahnya saja tidak selalu cukup untuk menentukan bacaan."
+    },
+    {
+      "chapter": 7,
+      "before": "Dalam percakapan, partikel kadang dihilangkan kalau maksudnya sudah jelas.",
+      "after": "Dalam percakapan santai, beberapa partikel kadang dihilangkan jika maksudnya jelas. Saat baru belajar, gunakan pola lengkap dulu agar hubungan antarkatanya mudah dipahami."
+    },
+    {
+      "chapter": 8,
+      "before": "Aい: berakhir い. たかい (mahal), おもしろい (menarik).",
+      "after": "Kata sifat-i: misalnya たかい (mahal/tinggi) dan おもしろい (menarik). Banyak yang berakhir い, tetapi tidak semua kata berakhiran い termasuk jenis ini."
+    },
+    {
+      "chapter": 8,
+      "before": "Aな: tampak sebagai \"〜な\" kalau menerangkan benda. しずか (tenang), きれい (cantik/bersih).",
+      "after": "Kata sifat-na: misalnya しずか (tenang) dan きれい (cantik/bersih). Pakai な ketika diikuti kata benda: しずかな まち. きれい dan きらい termasuk jenis na meskipun berakhir い."
+    },
+    {
+      "chapter": 8,
+      "before": "N は Aな[な]です／Aい(〜い)です = \"N itu (sifat)\".",
+      "after": "N は Aい です／Aな です = “N itu (sifat)”. Di depan です, sifat-na tidak memakai な: ここは しずかです。Untuk sifat-i, pertahankan い: ふじさんは たかいです。"
+    },
+    {
+      "chapter": 9,
+      "before": "N が あります／わかります = pada kata ini objek memakai が, bukan を.",
+      "after": "Dengan わかります (mengerti) dan あります (punya/ada), hal yang dimengerti atau dimiliki ditandai が. Contoh: にほんごが わかります。= Saya mengerti bahasa Jepang. おかねが あります。= Saya punya uang."
+    },
+    {
+      "chapter": 10,
+      "before": "います untuk yang bisa bergerak (orang, hewan). あります untuk benda mati dan tumbuhan.",
+      "after": "います dipakai untuk orang dan hewan; あります untuk benda dan tumbuhan. Jangan hanya melihat apakah sesuatu bergerak: orang yang sedang tidur tetap memakai います."
+    },
+    {
+      "chapter": 11,
+      "before": "Hitungan umum (benda tanpa satuan khusus): ひとつ、ふたつ、みっつ、よっつ、いつつ、むっつ、ななつ、やっつ、ここのつ、とお (1–10). Mulai 11 dan seterusnya pakai angka biasa: 11こ、なんこ.",
+      "after": "Hitungan umum 1–10: ひとつ、ふたつ、みっつ、よっつ、いつつ、むっつ、ななつ、やっつ、ここのつ、とお. Setelah 10, gunakan angka dengan satuan yang sesuai, misalnya じゅういっこ (11 benda kecil). Bentuk 〜つ tidak diteruskan menjadi “11つ”."
+    },
+    {
+      "chapter": 14,
+      "before": "Tiga kelompok kata kerja (lihat bunyi sebelum ます):",
+      "after": "Ada tiga kelompok kata kerja. Kenali kelompoknya dulu sebelum mengubah bentuk. Bunyi sebelum ます membantu, tetapi tidak selalu cukup untuk menebak kelompoknya."
+    },
+    {
+      "chapter": 14,
+      "before": "Kelompok I: bunyi sebelum ます di kolom い (かきます、のみます、かいます).",
+      "after": "Kelompok I: misalnya かきます、のみます、かいます. Bunyi sebelum ます berada di kolom i, lalu berubah mengikuti aturan kelompok I."
+    },
+    {
+      "chapter": 14,
+      "before": "Kelompok II: bunyi sebelum ます di kolom え, atau い seperti みます、います (たべます、おきます).",
+      "after": "Kelompok II: misalnya たべます、おきます、みます、います. Ada yang berbunyi e, ada juga yang berbunyi i sebelum ます. Hafalkan kelompoknya bersama kata."
+    },
+    {
+      "chapter": 14,
+      "before": "ミラーさんは でんわを かけています。= Mike sedang menelepon.",
+      "after": "ミラーさんは でんわを かけています。= Pak Miller sedang menelepon."
+    },
+    {
+      "chapter": 15,
+      "before": "N に V = tujuan/tempat hasil perbuatan. ここに はいらないでください。",
+      "after": "に dapat menandai tujuan gerakan. Contoh: へやに はいります。= Masuk ke kamar. Bedakan dengan で untuk tempat melakukan kegiatan: へやで べんきょうします。"
+    },
+    {
+      "chapter": 16,
+      "before": "Awas! Kalau dua sifat berlawanan (baik vs buruk) pakai が: このへやは ひろいですが、ふるいです。",
+      "after": "Jika ingin menyampaikan pertentangan (“tetapi”), pakai が: このへやは ひろいですが、ふるいです。= Kamar ini luas, tetapi sudah tua. Pemilihan が mengikuti makna yang ingin disampaikan, bukan hanya sifatnya baik atau buruk."
+    },
+    {
+      "chapter": 18,
+      "before": "なかなか + negatif = \"tidak mudah…\". ぜひ = \"harus/ingin sekali\".",
+      "after": "なかなか + negatif = “tidak mudah/tidak kunjung …”. ぜひ dipakai untuk keinginan kuat atau ajakan sungguh-sungguh, seperti “ingin sekali” atau “silakan, ya”; bukan kewajiban “harus”."
+    },
+    {
+      "chapter": 23,
+      "before": "V-dict／V-ない／Aい／Aな-な／N-の とき、〜 = \"ketika …\".",
+      "after": "とき = “ketika/saat”. Di depannya: kata kerja bentuk kamus/ない/た, sifat-i, sifat-na + な, atau kata benda + の. Bentuk kamus/た menunjukkan hubungan waktu terhadap kejadian utama; artinya tidak selalu sekadar “sebelum/sesudah”."
+    },
+    {
+      "chapter": 27,
+      "before": "Objek memakai が: わたしは かんじが よめます。= Saya bisa membaca kanji.",
+      "after": "Hal yang bisa dilakukan sering ditandai が: わたしは かんじが よめます。= Saya bisa membaca kanji. Dalam pemakaian tertentu, を juga digunakan."
+    },
+    {
+      "chapter": 29,
+      "before": "V-て います (keadaan akibat) dipakai dengan kata kerja yang terjadi sendiri (intransitif). まどが われて います。= Jendelanya pecah (dan masih pecah).",
+      "after": "V-て います dapat menunjukkan keadaan yang masih ada setelah suatu kejadian. Contoh: まどが われて います。= Jendelanya pecah dan masih dalam keadaan pecah. Kata seperti われる tidak menyebut siapa yang memecahkannya."
+    },
+    {
+      "chapter": 30,
+      "before": "V-て います (kata kerja intransitif): keadaan terjadi sendiri → まどが あいて います。",
+      "after": "V-て います dengan kata seperti あく menjelaskan keadaan: まどが あいて います。= Jendelanya terbuka. Kalimat ini tidak menjelaskan siapa yang membukanya."
+    },
+    {
+      "chapter": 31,
+      "before": "Beda: 〜と おもいます = memutuskan saat itu juga; 〜と おもって います = sudah berniat dari tadi.",
+      "after": "Bentuk kehendak + と おもいます menyatakan niat atau keputusan saat berbicara. と おもって います menekankan niat yang sudah ada. Ini penjelasan untuk pola niat, bukan semua pemakaian と おもいます."
+    },
+    {
+      "chapter": 32,
+      "before": "普通形 でしょう = \"mungkin …\" (dugaan cukup yakin, sekitar 70-80%). あした あめが ふるでしょう。",
+      "after": "Bentuk biasa + でしょう = “mungkin/sepertinya …”. Ini dugaan berdasarkan pengetahuan atau perkiraan pembicara, bukan angka kepastian tertentu. Contoh: あした あめが ふるでしょう。= Besok mungkin hujan."
+    },
+    {
+      "chapter": 33,
+      "before": "Awas! Terdengar kasar. Dipakai laki-laki akrab, atasan ke bawahan, rambu, olahraga (とまれ、はいるな).",
+      "after": "Awas! Bentuk ini dapat terdengar keras. Pakai dengan hati-hati sesuai situasi, misalnya keadaan darurat, rambu, instruksi, atau sorakan olahraga. Untuk permintaan sehari-hari, mulai dengan 〜て ください."
+    },
+    {
+      "chapter": 34,
+      "before": "Bandingkan: V-て から = urutan biasa; V-た あとで = tanpa nuansa \"baru boleh\".",
+      "after": "V-て から dan V-た あとで sama-sama dapat berarti “setelah”. てから menekankan urutan: kegiatan pertama selesai dulu, lalu kegiatan kedua. あとで menyebut kegiatan kedua terjadi sesudah yang pertama; tidak harus langsung."
+    },
+    {
+      "chapter": 35,
+      "before": "V-ば／A-ければ、〜 = \"kalau … maka …\" (hasil pasti). ボタンを おせば、でます。",
+      "after": "V-ば／A-ければ = “kalau … maka …”. Contoh: ボタンを おせば、でます。= Kalau tombol ditekan, (barang) keluar. Pola ば menyatakan syarat; hasilnya tidak selalu pasti dalam semua kalimat."
+    },
+    {
+      "chapter": 35,
+      "before": "Awas! Kalau bagian belakang berisi keinginan/ajakan/permintaan oleh subjek yang sama, pakai 〜たら (Bab 25).",
+      "after": "Awas! Jika syaratnya berupa tindakan yang kamu kendalikan, lalu diikuti ajakan/permintaan dengan pelaku yang sama, たら sering lebih mudah dipakai. Tetapi ば bisa diikuti ajakan pada kondisi seperti ひまなら／やすければ. Perhatikan jenis syarat dan konteksnya."
+    },
+    {
+      "chapter": 41,
+      "before": "いただきます = menerima (dari orang yang dihormati), くださいます = diberi (oleh orang yang dihormati), やります = memberi ke bawahan/hewan/tanaman.",
+      "after": "いただきます = menerima dari orang yang dihormati. くださいます = orang yang dihormati memberi kepada saya/pihak saya. やります lazim untuk memberi kepada hewan atau tanaman; kepada orang bisa terdengar merendahkan, jadi gunakan あげます dengan hati-hati sesuai hubungan."
+    },
+    {
+      "chapter": 44,
+      "before": "V-ます(stem)／Aい／Aな + すぎます = \"terlalu …\". たべすぎました。= Makan kebanyakan.",
+      "after": "V tanpa ます + すぎます = melakukan terlalu banyak: たべます → たべすぎます. Untuk sifat-i, buang い: たかい → たかすぎます. Untuk sifat-na, tanpa な: しずか → しずかすぎます."
+    },
+    {
+      "chapter": 44,
+      "before": "Awas! なります = jadi sendiri; します = dibuat jadi oleh seseorang.",
+      "after": "なります = menjadi/berubah; します = sengaja membuat atau mengatur menjadi begitu. Contoh: おとが おおきく なります (suaranya menjadi keras), おとを おおきく します (mengeraskan suara)."
+    },
+    {
+      "chapter": 45,
+      "before": "V-dict／V-ない／V-た／A／N の ばあいは、〜 = \"dalam hal/kalau …\". じこが おきた ばあいは、でんわして ください。",
+      "after": "ばあいは = “kalau terjadi keadaan …”. Di depannya: kata kerja bentuk kamus/ない/た, sifat-i, sifat-na + な, atau kata benda + の. Contoh: じこが おきた ばあいは、でんわして ください。= Kalau terjadi kecelakaan, tolong telepon."
+    },
+    {
+      "chapter": 46,
+      "before": "普通形 はずです = \"pasti/seharusnya …\" (dugaan yang punya dasar). Aな/N → な/の + はず. ミラーさんは きょう くるはずです。",
+      "after": "はずです = “seharusnya/diperkirakan …” berdasarkan alasan yang jelas, tetapi bukan jaminan pasti. Pakai kata kerja bentuk biasa/sifat-i + はず, sifat-na + なはず, atau kata benda + のはず. ミラーさんは きょう くるはずです。= Pak Miller seharusnya datang hari ini."
+    },
+    {
+      "chapter": 49,
+      "before": "Kelompok III: ご + N + に なります. Awas! Kata seperti みます、います tidak bisa dipakai dengan pola ini.",
+      "after": "Beberapa kata memakai ご + kata kegiatan + に なります, misalnya ごりように なります. Tidak semua kata kelompok III bisa langsung dimasukkan ke pola ini. Untuk みます、います dan kata khusus lainnya, gunakan bentuk hormat yang sesuai pada tabel."
+    }
+  ],
+  "notes": [
+    "Pengganti catatan Bunpo sebelumnya, bukan penambahan duplikat.",
+    "Kotoba 2910 baris dan ID bab dipertahankan.",
+    "Tabel perubahan dari PDF disimpan sebagai baris dan kolom.",
+    "Normalisasi istilah: bentuk biasa, kata tanya, bentuk kamus, V tanpa ます."
+  ]
+}

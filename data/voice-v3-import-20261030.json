@@ -1,0 +1,2546 @@
+{
+  "date": "2026-10-30",
+  "voices_user_requested": {
+    "kaiwa": {
+      "male": "Bj4Malc5SZLoXfPtxRxH",
+      "female": "3321Alera3fXjEWjjbAX"
+    },
+    "simulasi": {
+      "narrator": "GxxMAMfQkDlnqjpzjLHH",
+      "male": "xya0RvcJtofTcFTOdX4E",
+      "female": "0ptCJp0xgdabdcpVtCB5"
+    }
+  },
+  "voice_note": "IDs sesuai konfigurasi generator dan permintaan pengguna; identitas voice tidak dibuktikan dari metadata MP3.",
+  "validation": "CRC ZIP; exact filename coverage; MP3 codec and positive duration; all files fully decoded with FFmpeg without errors. Other assets hash-preserved.",
+  "preserved_asset_count": 818,
+  "groups": {
+    "kaiwa": {
+      "source_zip": "kaiwa-audio.zip",
+      "source_sha256": "d7fab2c47a313d8846ca566d74af112f38f6b22f97515b7cfa38818cabdc6b39",
+      "count": 136,
+      "files": [
+        {
+          "file": "kenalan-1.mp3",
+          "bytes": 66499,
+          "sha256": "459ba80450998c2c6b24530b96b7ce9c6ab326f459837e7916b311239c8fd476",
+          "duration_seconds": 4.127347,
+          "changed": true
+        },
+        {
+          "file": "kenalan-2.mp3",
+          "bytes": 53124,
+          "sha256": "9128f0cfe8d85c712f23edee4a3936d8e184e7e0ce8a52dd543993551abe7974",
+          "duration_seconds": 3.291429,
+          "changed": true
+        },
+        {
+          "file": "kenalan-3.mp3",
+          "bytes": 70261,
+          "sha256": "4d60f916db186a77a50e912854274a2456c39756ea7481d37acf3cb16b291674",
+          "duration_seconds": 4.362449,
+          "changed": true
+        },
+        {
+          "file": "kenalan-4.mp3",
+          "bytes": 52288,
+          "sha256": "7ad036f6376a8aced27ad92ead2bf6e7aa8346ae7805ebaa36d8e09bd62aa82e",
+          "duration_seconds": 3.239184,
+          "changed": true
+        },
+        {
+          "file": "kenalan-5.mp3",
+          "bytes": 63573,
+          "sha256": "6f1d217ceb72337badc8951de09bb7acb512ec4ebaa6254e1d5bbdab43a2896e",
+          "duration_seconds": 3.94449,
+          "changed": true
+        },
+        {
+          "file": "kenalan-6.mp3",
+          "bytes": 41004,
+          "sha256": "363f2ea89fb1a2c8db68f89e820821fca0c234b6621d65058a312ad171116865",
+          "duration_seconds": 2.533878,
+          "changed": true
+        },
+        {
+          "file": "kenalan-7.mp3",
+          "bytes": 77784,
+          "sha256": "08304d085e9addc6f912e54ba99266081b1af8ad8c0774bfd5dd3faee53c9009",
+          "duration_seconds": 4.832653,
+          "changed": true
+        },
+        {
+          "file": "kenalan-8.mp3",
+          "bytes": 53124,
+          "sha256": "cb7c9df7b083d87205308e4a1c32d5b15094a386c5ad48047e003c6cfa80e48d",
+          "duration_seconds": 3.291429,
+          "changed": true
+        },
+        {
+          "file": "kenalan-9.mp3",
+          "bytes": 68589,
+          "sha256": "c3ec6f82cccdd3768cfa46da1af3ba9b0c56406caed0d61ee1a983f352d4b378",
+          "duration_seconds": 4.257959,
+          "changed": true
+        },
+        {
+          "file": "kenalan-10.mp3",
+          "bytes": 53960,
+          "sha256": "bfdcd08ed0e3cc632b1fdd70032cce21c1618d9cfc077a82ccaf67b768762fb5",
+          "duration_seconds": 3.343673,
+          "changed": true
+        },
+        {
+          "file": "kenalan-11.mp3",
+          "bytes": 87815,
+          "sha256": "002b9949a3976802c37cb3a3bdcaf062e00a0272090b5e87ca7a94d501e3ae7b",
+          "duration_seconds": 5.459592,
+          "changed": true
+        },
+        {
+          "file": "kenalan-12.mp3",
+          "bytes": 42675,
+          "sha256": "130d1c69b129ed7a001bf28035281027d2d77e5e552d53fc73da2321aae5ab31",
+          "duration_seconds": 2.638367,
+          "changed": true
+        },
+        {
+          "file": "kenalan-13.mp3",
+          "bytes": 73186,
+          "sha256": "980cbeb210bcfe0ce3da588b23d902ab38a3c1d132cf019ba01fe7c76714ff5d",
+          "duration_seconds": 4.545306,
+          "changed": true
+        },
+        {
+          "file": "kenalan-14.mp3",
+          "bytes": 41839,
+          "sha256": "bfe9fc88e70f979c093c8179dddeee6006e14743e64761ca29e9c482de4a0968",
+          "duration_seconds": 2.586122,
+          "changed": true
+        },
+        {
+          "file": "kenalan-15.mp3",
+          "bytes": 22613,
+          "sha256": "b4878c2b2c9dd4e42283391f3514e6350bfe80e85d2cab274097b194f26821c3",
+          "duration_seconds": 1.38449,
+          "changed": true
+        },
+        {
+          "file": "kenalan-16.mp3",
+          "bytes": 15090,
+          "sha256": "7afe546c7822f935336a0f6130cd137d4f1f0e8b86699deb0ca6c05cc529ceac",
+          "duration_seconds": 0.914286,
+          "changed": true
+        },
+        {
+          "file": "kai-1.mp3",
+          "bytes": 27629,
+          "sha256": "f914f7d2315f69f66497f3ea3a91c04a17c6208a6f4e2b08de2c66b8075228e2",
+          "duration_seconds": 1.697959,
+          "changed": true
+        },
+        {
+          "file": "kai-2.mp3",
+          "bytes": 49363,
+          "sha256": "485cd7ffb94b4a2b35fac040694035391fbbdaaeda7cf347ec60f7fa7f513483",
+          "duration_seconds": 3.056327,
+          "changed": true
+        },
+        {
+          "file": "kai-3.mp3",
+          "bytes": 30973,
+          "sha256": "3bd340da7b3eef2c95eab602dda3b770e9f8605daa48f52c643ff64479c01467",
+          "duration_seconds": 1.906939,
+          "changed": true
+        },
+        {
+          "file": "kai-4.mp3",
+          "bytes": 28465,
+          "sha256": "7d4a0a0fa2d31267dd5c0f9488891e584cb22354eac929991dd297f17e783c71",
+          "duration_seconds": 1.750204,
+          "changed": true
+        },
+        {
+          "file": "kai-5.mp3",
+          "bytes": 38078,
+          "sha256": "91481154491d0154e7308c6147dbd699cdfb241c584099ec15c7813cb47960ce",
+          "duration_seconds": 2.35102,
+          "changed": true
+        },
+        {
+          "file": "kai-6.mp3",
+          "bytes": 26375,
+          "sha256": "77a18ead7952fcf9b96b028b96f5a00f326054d1f5dba12f1241cd6761ab39b7",
+          "duration_seconds": 1.619592,
+          "changed": true
+        },
+        {
+          "file": "kai-7.mp3",
+          "bytes": 37660,
+          "sha256": "fe6d17d81956f820207884496020b3e4cf30199754dd92c43232cd14fb9357bc",
+          "duration_seconds": 2.324898,
+          "changed": true
+        },
+        {
+          "file": "kai-8.mp3",
+          "bytes": 39750,
+          "sha256": "2534b892308ade5f560faf4832789aca0e05dcdffc663215c57d1ccc6135f4da",
+          "duration_seconds": 2.45551,
+          "changed": true
+        },
+        {
+          "file": "resu-1.mp3",
+          "bytes": 64827,
+          "sha256": "56e2651516c4ab0447d7b32538d38c5a08a10c33e607985c7859298a131a3ec3",
+          "duration_seconds": 4.022857,
+          "changed": true
+        },
+        {
+          "file": "resu-2.mp3",
+          "bytes": 33898,
+          "sha256": "06c19f6ea2470c6438578459e96990ca182dabd5030c0e5e769d666c3e05270a",
+          "duration_seconds": 2.089796,
+          "changed": true
+        },
+        {
+          "file": "resu-3.mp3",
+          "bytes": 24703,
+          "sha256": "6abaca40f9300639c97540804dac5a6e9fccec3588154a9394d17ea7fb9ca9a3",
+          "duration_seconds": 1.515102,
+          "changed": true
+        },
+        {
+          "file": "resu-4.mp3",
+          "bytes": 28465,
+          "sha256": "e484eff849d1f9531e093475dac3a414886e9788cb01e98901446185ab5fd455",
+          "duration_seconds": 1.750204,
+          "changed": true
+        },
+        {
+          "file": "resu-5.mp3",
+          "bytes": 55214,
+          "sha256": "ae1080f9474035e64424cbbb04ccbab367f5f421445df5477bc58b89061c75a2",
+          "duration_seconds": 3.422041,
+          "changed": true
+        },
+        {
+          "file": "resu-6.mp3",
+          "bytes": 19688,
+          "sha256": "ae2ddbee74ef31060b4c886615451c31cc04087ba559e0f9e11e6a16c6a44444",
+          "duration_seconds": 1.201633,
+          "changed": true
+        },
+        {
+          "file": "resu-7.mp3",
+          "bytes": 30973,
+          "sha256": "168657282cb7133189e03b5d45f12607517f4c1293accd9b6bcbb6baec9735f2",
+          "duration_seconds": 1.906939,
+          "changed": true
+        },
+        {
+          "file": "resu-8.mp3",
+          "bytes": 58140,
+          "sha256": "9f9a0247abf9b8ff47184f92adb8a7553b3bc1921186f6be7ee3b47c651bedba",
+          "duration_seconds": 3.604898,
+          "changed": true
+        },
+        {
+          "file": "michi-1.mp3",
+          "bytes": 29301,
+          "sha256": "caa698b6789658723fbce9ce6bd7d4d59bfbb799e2cdaa4aac540f4aa03d0c4f",
+          "duration_seconds": 1.802449,
+          "changed": true
+        },
+        {
+          "file": "michi-2.mp3",
+          "bytes": 56050,
+          "sha256": "362467d390bacf9ca3e609341189fa49a4436eeb68bd34d64c4768678dc0db94",
+          "duration_seconds": 3.474286,
+          "changed": true
+        },
+        {
+          "file": "michi-3.mp3",
+          "bytes": 101190,
+          "sha256": "43f1663081e630f5a275a7b747a329ee0cf0b9ede2c7acf65c66a07fc4d87cef",
+          "duration_seconds": 6.29551,
+          "changed": true
+        },
+        {
+          "file": "michi-4.mp3",
+          "bytes": 42675,
+          "sha256": "7d62805636203bd1ecb17c65bec68dd3bf8a169ebda301ad2df77cf14273ab32",
+          "duration_seconds": 2.638367,
+          "changed": true
+        },
+        {
+          "file": "michi-5.mp3",
+          "bytes": 77784,
+          "sha256": "0061e92d7b00089a38dbcdd95ea53740a268cae27439435f766e37c0aac813b9",
+          "duration_seconds": 4.832653,
+          "changed": true
+        },
+        {
+          "file": "michi-6.mp3",
+          "bytes": 30973,
+          "sha256": "660755cf8ef9c1b445283b124abf2159c88e619f102fd15711e4771d44d673d2",
+          "duration_seconds": 1.906939,
+          "changed": true
+        },
+        {
+          "file": "michi-7.mp3",
+          "bytes": 56886,
+          "sha256": "6f8d771c19075c6240ca1c9ecc4f7ce1f828707fe3e05f00d51b6eeccccb21a8",
+          "duration_seconds": 3.526531,
+          "changed": true
+        },
+        {
+          "file": "michi-8.mp3",
+          "bytes": 49363,
+          "sha256": "ec1048966d2382f93a5dcab787f009f1ce95e4301454946149ac1d42f9828cb6",
+          "duration_seconds": 3.056327,
+          "changed": true
+        },
+        {
+          "file": "densha-1.mp3",
+          "bytes": 58976,
+          "sha256": "99ea01829c447d4ce5074565b0b0fb956cc35521a0a76871ce68890c5bf1d76f",
+          "duration_seconds": 3.657143,
+          "changed": true
+        },
+        {
+          "file": "densha-2.mp3",
+          "bytes": 69425,
+          "sha256": "50615853a46fdee9db429e1f3db0ec871b7237fd9baf0740650960a19dae4952",
+          "duration_seconds": 4.310204,
+          "changed": true
+        },
+        {
+          "file": "densha-3.mp3",
+          "bytes": 70261,
+          "sha256": "d8e4298cdb03b689ed9867fb491b0e0828fe938e4dc3ce5df3f2a26d81de9f75",
+          "duration_seconds": 4.362449,
+          "changed": true
+        },
+        {
+          "file": "densha-4.mp3",
+          "bytes": 40586,
+          "sha256": "016566acc3a494abb59ac071ee0073b75ae2100a0537259fea361f94d4c21b0c",
+          "duration_seconds": 2.507755,
+          "changed": true
+        },
+        {
+          "file": "densha-5.mp3",
+          "bytes": 38914,
+          "sha256": "8da50b021c7e4adfd0dc7380cfe20ed39280191a8f674766ce30d65b8187469a",
+          "duration_seconds": 2.403265,
+          "changed": true
+        },
+        {
+          "file": "densha-6.mp3",
+          "bytes": 51035,
+          "sha256": "d980147e31ae1e2a84ffc7d586db73bc594fde4a7f15b5d17ae358a68b6aa383",
+          "duration_seconds": 3.160816,
+          "changed": true
+        },
+        {
+          "file": "densha-7.mp3",
+          "bytes": 58976,
+          "sha256": "fd54e0ac4cb3b3a134500d0da86b79a7a0a8a60965803d9ffaea47417e2f66f0",
+          "duration_seconds": 3.657143,
+          "changed": true
+        },
+        {
+          "file": "densha-8.mp3",
+          "bytes": 50199,
+          "sha256": "42992246b4613fda677e1090b7a88524c7a202346a74a6deabb0a44a871d633f",
+          "duration_seconds": 3.108571,
+          "changed": true
+        },
+        {
+          "file": "nichi-1.mp3",
+          "bytes": 51035,
+          "sha256": "9447cb69c4c95e07b7eacba0077fcb2e09bb5aadc67d15f05beaf211d620d061",
+          "duration_seconds": 3.160816,
+          "changed": true
+        },
+        {
+          "file": "nichi-2.mp3",
+          "bytes": 61066,
+          "sha256": "bc3400772d39540a027a4452ebfb63a56a20be0e1cb62891b47268e73c9bb9b0",
+          "duration_seconds": 3.787755,
+          "changed": true
+        },
+        {
+          "file": "nichi-3.mp3",
+          "bytes": 70261,
+          "sha256": "9e00433a1ba9e68862a763a6959d8f924d1daed78c9b5c32aa2e5a1a426be431",
+          "duration_seconds": 4.362449,
+          "changed": true
+        },
+        {
+          "file": "nichi-4.mp3",
+          "bytes": 86561,
+          "sha256": "b3493488162409c452a86c13d1d7300d8414f5f098cadfe359d5048a0ea719ca",
+          "duration_seconds": 5.381224,
+          "changed": true
+        },
+        {
+          "file": "nichi-5.mp3",
+          "bytes": 39750,
+          "sha256": "19cd6197cf983d565b1fdaff2f4d4fe8ba77381d5f0c7b3c04908cc9e8f4451d",
+          "duration_seconds": 2.45551,
+          "changed": true
+        },
+        {
+          "file": "nichi-6.mp3",
+          "bytes": 24285,
+          "sha256": "77209921c5bc8614110618d5a4e6e4857a836731b446b3e2f09ee2dcfe1a1133",
+          "duration_seconds": 1.48898,
+          "changed": true
+        },
+        {
+          "file": "nichi-7.mp3",
+          "bytes": 79874,
+          "sha256": "7b4b051f9aa4922e5e0e4866a74d18b2e1311e84e0c0152abb5a6c74451f239e",
+          "duration_seconds": 4.963265,
+          "changed": true
+        },
+        {
+          "file": "nichi-8.mp3",
+          "bytes": 47691,
+          "sha256": "6ef11bdb64d99d351a95f7f16c68fd1bb9035abfb67552c4c1cec9d0a1b2b8dc",
+          "duration_seconds": 2.951837,
+          "changed": true
+        },
+        {
+          "file": "yaku-1.mp3",
+          "bytes": 38914,
+          "sha256": "8c2ec327c2b757a08375709337626f8acb6cbd40ca3289e58d872a177530032d",
+          "duration_seconds": 2.403265,
+          "changed": true
+        },
+        {
+          "file": "yaku-2.mp3",
+          "bytes": 44765,
+          "sha256": "a3fc4e08e05d4b6f169e6bf369d01325b4a8681cccbc6b31a39903a2843f9438",
+          "duration_seconds": 2.76898,
+          "changed": true
+        },
+        {
+          "file": "yaku-3.mp3",
+          "bytes": 42675,
+          "sha256": "e1b64089eb201844394ad6caec94bd978a1a732c44155030eafc25c4a6fb82d7",
+          "duration_seconds": 2.638367,
+          "changed": true
+        },
+        {
+          "file": "yaku-4.mp3",
+          "bytes": 35152,
+          "sha256": "5d4b1d4822daa6aa847085f5e6b67334154ef6057af0932d843fde3d157936d7",
+          "duration_seconds": 2.168163,
+          "changed": true
+        },
+        {
+          "file": "yaku-5.mp3",
+          "bytes": 36824,
+          "sha256": "d62767bf0b4faf7101221d515e69e5fef58a8a7b9bc9614463d29b064a3f9343",
+          "duration_seconds": 2.272653,
+          "changed": true
+        },
+        {
+          "file": "yaku-6.mp3",
+          "bytes": 30137,
+          "sha256": "75d93059cafd19bf339461c8f69734aca4a7ec6f44e28ce8e435b42d00aaaa6d",
+          "duration_seconds": 1.854694,
+          "changed": true
+        },
+        {
+          "file": "yaku-7.mp3",
+          "bytes": 56886,
+          "sha256": "304bc6f1f712ca61cf7c9593a6a9b91385b247172c29aed4a752b08fa96633d2",
+          "duration_seconds": 3.526531,
+          "changed": true
+        },
+        {
+          "file": "yaku-8.mp3",
+          "bytes": 27629,
+          "sha256": "ba7a3ce85cb20c56a467101b635128727b7f05a194a745cd3d7f7f66486e0e32",
+          "duration_seconds": 1.697959,
+          "changed": true
+        },
+        {
+          "file": "kyoka-1.mp3",
+          "bytes": 40586,
+          "sha256": "90ed9edfd63efe152754f00531a8f76a7d51a1137fce609e69bedd5a057e7282",
+          "duration_seconds": 2.507755,
+          "changed": true
+        },
+        {
+          "file": "kyoka-2.mp3",
+          "bytes": 58140,
+          "sha256": "de903802682cc4f883959ebd15b21e82047b743ac5dee858ff80cefa28da72ad",
+          "duration_seconds": 3.604898,
+          "changed": true
+        },
+        {
+          "file": "kyoka-3.mp3",
+          "bytes": 71097,
+          "sha256": "a8ec1bd58a9066f18f340fade045a925fd9fe4decfadf4a27fe0ac9e981228c8",
+          "duration_seconds": 4.414694,
+          "changed": true
+        },
+        {
+          "file": "kyoka-4.mp3",
+          "bytes": 41839,
+          "sha256": "7acb8f2096493c79030da1feebc97492036ba8c67e30ca1ecc2f57d1d80f79dc",
+          "duration_seconds": 2.586122,
+          "changed": true
+        },
+        {
+          "file": "kyoka-5.mp3",
+          "bytes": 66499,
+          "sha256": "cf9a821ede66e7fd7837b451422fbffa444a60944c3a5bcc33b46b064cf579e4",
+          "duration_seconds": 4.127347,
+          "changed": true
+        },
+        {
+          "file": "kyoka-6.mp3",
+          "bytes": 18852,
+          "sha256": "09d7c44752bd280f3a15de1b583f81a6a477a51b055820ec66cc236f3ac9ba7f",
+          "duration_seconds": 1.149388,
+          "changed": true
+        },
+        {
+          "file": "kyoka-7.mp3",
+          "bytes": 90323,
+          "sha256": "d0fde8b3cc7e4c3c06e01a3cfbce09e44b56d2da5e32ae3b34a1427bde699e13",
+          "duration_seconds": 5.616327,
+          "changed": true
+        },
+        {
+          "file": "kyoka-8.mp3",
+          "bytes": 44347,
+          "sha256": "0eea4f9da7bf828d1f89cdc098ed28001cb8a43e2d5488d566ab3f8e02310cad",
+          "duration_seconds": 2.742857,
+          "changed": true
+        },
+        {
+          "file": "denwa-1.mp3",
+          "bytes": 33898,
+          "sha256": "753ea551ebee616c48b04933448808d53ce8b5b40add66890f2ce42e37d5cf46",
+          "duration_seconds": 2.089796,
+          "changed": true
+        },
+        {
+          "file": "denwa-2.mp3",
+          "bytes": 59812,
+          "sha256": "7f63ebce645f8671aa49021f02979c03d19efee1de79a74bde6f546e34ed13d0",
+          "duration_seconds": 3.709388,
+          "changed": true
+        },
+        {
+          "file": "denwa-3.mp3",
+          "bytes": 97010,
+          "sha256": "2713862e9e40117507256ffb34ada5279356985148e22733e482b7156c4689c0",
+          "duration_seconds": 6.034286,
+          "changed": true
+        },
+        {
+          "file": "denwa-4.mp3",
+          "bytes": 56050,
+          "sha256": "cf5a040f50f3ba8c4783e30bd450f6c53880690315083f482a659b0602b11b7b",
+          "duration_seconds": 3.474286,
+          "changed": true
+        },
+        {
+          "file": "denwa-5.mp3",
+          "bytes": 68589,
+          "sha256": "060d03aaf137cdde9f66c484d27a022be041bed6cdd990b51e1b7fc2eeaad0e1",
+          "duration_seconds": 4.257959,
+          "changed": true
+        },
+        {
+          "file": "denwa-6.mp3",
+          "bytes": 32226,
+          "sha256": "5fb2ddb626c25afecb941c5b248ac6599d4035fc6ffbf846040355f5ad7884fe",
+          "duration_seconds": 1.985306,
+          "changed": true
+        },
+        {
+          "file": "denwa-7.mp3",
+          "bytes": 37660,
+          "sha256": "78230868e469ebd2d755b541d16e385e63f02dd28c4c01a7ff5ac3adc02e5f34",
+          "duration_seconds": 2.324898,
+          "changed": true
+        },
+        {
+          "file": "denwa-8.mp3",
+          "bytes": 44347,
+          "sha256": "b345ceed5b29cad7408863d42ee09ab1ec7e71e2952fac7128d05fc93b5d37ed",
+          "duration_seconds": 2.742857,
+          "changed": true
+        },
+        {
+          "file": "kansou-1.mp3",
+          "bytes": 64827,
+          "sha256": "11142ee2429eea8caa5f7626dde239b2ed95251adb1996db24dd0f8c406ae5b3",
+          "duration_seconds": 4.022857,
+          "changed": true
+        },
+        {
+          "file": "kansou-2.mp3",
+          "bytes": 56050,
+          "sha256": "a7934f14a731c5f1dd9cbccecd89a88a42f390cfee110d96ea2b41f0ae54ece0",
+          "duration_seconds": 3.474286,
+          "changed": true
+        },
+        {
+          "file": "kansou-3.mp3",
+          "bytes": 67753,
+          "sha256": "5cee9bb8510d5fd37b77fb6126fd82f33bf2536934a1adc474433ecb80eb1d48",
+          "duration_seconds": 4.205714,
+          "changed": true
+        },
+        {
+          "file": "kansou-4.mp3",
+          "bytes": 31391,
+          "sha256": "eca7ae2197de7ee14ee44a48e54a311b75cfbad268b875acdf7fbc556e292aed",
+          "duration_seconds": 1.933061,
+          "changed": true
+        },
+        {
+          "file": "kansou-5.mp3",
+          "bytes": 37660,
+          "sha256": "3d314e4003378fc44ef6cacc9aed9e5b6866f5114583d144d35efdeb98363170",
+          "duration_seconds": 2.324898,
+          "changed": true
+        },
+        {
+          "file": "kansou-6.mp3",
+          "bytes": 30137,
+          "sha256": "1505e2cf2d1fca20c1041345331dc148510e78ca9f695148d4adcedc400678d5",
+          "duration_seconds": 1.854694,
+          "changed": true
+        },
+        {
+          "file": "kansou-7.mp3",
+          "bytes": 38078,
+          "sha256": "f7c65e930c00b7e5577f01df0d7157a5c06c24c9266065b31382eab09219fe29",
+          "duration_seconds": 2.35102,
+          "changed": true
+        },
+        {
+          "file": "kansou-8.mp3",
+          "bytes": 58976,
+          "sha256": "4d776b4caba7bc4e4c8781ee2f2dfecdcfc9b9e11e44c961779bff1d1ff420cf",
+          "duration_seconds": 3.657143,
+          "changed": true
+        },
+        {
+          "file": "shusshin-1.mp3",
+          "bytes": 52288,
+          "sha256": "434c33438c54671023adf8379c1121b44ea8392e70cfd4c586eaedca7507e42d",
+          "duration_seconds": 3.239184,
+          "changed": true
+        },
+        {
+          "file": "shusshin-2.mp3",
+          "bytes": 53960,
+          "sha256": "d5aa8bc57eae691262c0db082546cc33e9bb52d042a08a4c59390db2a8854718",
+          "duration_seconds": 3.343673,
+          "changed": true
+        },
+        {
+          "file": "shusshin-3.mp3",
+          "bytes": 99936,
+          "sha256": "f203694cdffd161e616351e45524f936e56bff303e751b9071c6cbd55097974c",
+          "duration_seconds": 6.217143,
+          "changed": true
+        },
+        {
+          "file": "shusshin-4.mp3",
+          "bytes": 27629,
+          "sha256": "bf4c2a3b31f143d9b7faf5f8d14a34e42dca46860be9f7803b815495c36ea28d",
+          "duration_seconds": 1.697959,
+          "changed": true
+        },
+        {
+          "file": "shusshin-5.mp3",
+          "bytes": 33062,
+          "sha256": "72e6554ef0a23048f2fbc5c7c749ef763d377297f5d248de79c55f8a9664c37b",
+          "duration_seconds": 2.037551,
+          "changed": true
+        },
+        {
+          "file": "shusshin-6.mp3",
+          "bytes": 67753,
+          "sha256": "a236d4ebb8b2c50f13cea18a4069a86633aa2a6338aae224c036d5f2ce31d609",
+          "duration_seconds": 4.205714,
+          "changed": true
+        },
+        {
+          "file": "shusshin-7.mp3",
+          "bytes": 67753,
+          "sha256": "e241f282a6f5828ce23abc26cbb5df43fa2c74d497fe6f5498f784a46e9322b0",
+          "duration_seconds": 4.205714,
+          "changed": true
+        },
+        {
+          "file": "shusshin-8.mp3",
+          "bytes": 35152,
+          "sha256": "81ce60a0dfd7ff8ee6af7b81aa25c26e4a0be3c8b061251fec51a4cd89d24d3c",
+          "duration_seconds": 2.168163,
+          "changed": true
+        },
+        {
+          "file": "teinei-1.mp3",
+          "bytes": 109549,
+          "sha256": "e4c447d10906f6557c25fa4063e1383afe1399fa99664701154f41858fc142dc",
+          "duration_seconds": 6.817959,
+          "changed": true
+        },
+        {
+          "file": "teinei-2.mp3",
+          "bytes": 57722,
+          "sha256": "f0ae983dfa8fef4cd78335134b0ea2828fbbb45bc404b4c6f2352fa04d441527",
+          "duration_seconds": 3.578776,
+          "changed": true
+        },
+        {
+          "file": "teinei-3.mp3",
+          "bytes": 109549,
+          "sha256": "6fdc10d56c14ffc620bbaca6a0c38a0fc3cda4d1e4578b964b35d6e4df65883f",
+          "duration_seconds": 6.817959,
+          "changed": true
+        },
+        {
+          "file": "teinei-4.mp3",
+          "bytes": 20942,
+          "sha256": "6b578db349e8b6b166358fb133bf84d5264fde5f396dbf565a4b1143379a1fc5",
+          "duration_seconds": 1.28,
+          "changed": true
+        },
+        {
+          "file": "teinei-5.mp3",
+          "bytes": 81128,
+          "sha256": "abd94e7cf1ceb6c3d5336d370bb7617f73cd7de82f4303390ab9d49de0c6da50",
+          "duration_seconds": 5.041633,
+          "changed": true
+        },
+        {
+          "file": "teinei-6.mp3",
+          "bytes": 71097,
+          "sha256": "92ef861939391d6e0a716aefec1c9f7cb6cef03356b5941d3fc4123f978081e3",
+          "duration_seconds": 4.414694,
+          "changed": true
+        },
+        {
+          "file": "teinei-7.mp3",
+          "bytes": 61066,
+          "sha256": "3a93952a596018094b0f0c4a260d2997022b5a092e3e43b5be5ada18c15e0764",
+          "duration_seconds": 3.787755,
+          "changed": true
+        },
+        {
+          "file": "teinei-8.mp3",
+          "bytes": 69425,
+          "sha256": "4b404bd78014ddb5ad8d9c1856d1a105672f1940eb84d9a2801eb477fbf8257c",
+          "duration_seconds": 4.310204,
+          "changed": true
+        },
+        {
+          "file": "tomodachi-1.mp3",
+          "bytes": 61902,
+          "sha256": "f3213fd196fd86859fc2feec5b08ddcd4351efbba5ae60cee600088669692eb5",
+          "duration_seconds": 3.84,
+          "changed": true
+        },
+        {
+          "file": "tomodachi-2.mp3",
+          "bytes": 51453,
+          "sha256": "ea4935f677a560ebc9d5d108384ad519c85fd16809bd6152fb0b18d69f4903e6",
+          "duration_seconds": 3.186939,
+          "changed": true
+        },
+        {
+          "file": "tomodachi-3.mp3",
+          "bytes": 81128,
+          "sha256": "0e0bf11483932499d4a6a40a05436bbef0fe51b44189e0ec4116bceec4a4c059",
+          "duration_seconds": 5.041633,
+          "changed": true
+        },
+        {
+          "file": "tomodachi-4.mp3",
+          "bytes": 64409,
+          "sha256": "55da611e2a1897cab7ab355951bbaefcf420992348055a09a1c6f4b911b32b68",
+          "duration_seconds": 3.996735,
+          "changed": true
+        },
+        {
+          "file": "tomodachi-5.mp3",
+          "bytes": 54378,
+          "sha256": "869f895e565ca383eceba9d0b172f904f37b11669c9653443a9e4c76e1398672",
+          "duration_seconds": 3.369796,
+          "changed": true
+        },
+        {
+          "file": "tomodachi-6.mp3",
+          "bytes": 66499,
+          "sha256": "38c41841e6998fc7c199d02e07cefd200add0c120113c70199629cda6d4d5d8e",
+          "duration_seconds": 4.127347,
+          "changed": true
+        },
+        {
+          "file": "tomodachi-7.mp3",
+          "bytes": 60648,
+          "sha256": "2f71314793e1b588e04fe554185a5ba38c428a4718a0d54da5726cc93690ee55",
+          "duration_seconds": 3.761633,
+          "changed": true
+        },
+        {
+          "file": "tomodachi-8.mp3",
+          "bytes": 24285,
+          "sha256": "1ebb50c38445de75537e4f0282ef322000dd4d8366255794280ec604172bc4ff",
+          "duration_seconds": 1.48898,
+          "changed": true
+        },
+        {
+          "file": "aisatsu-1.mp3",
+          "bytes": 37660,
+          "sha256": "263703ca043ad29e91106b5538abdc1f67e9dc70baffd6beb4126182b520c40c",
+          "duration_seconds": 2.324898,
+          "changed": true
+        },
+        {
+          "file": "aisatsu-2.mp3",
+          "bytes": 31391,
+          "sha256": "e15adb9ff78b5fcb81f59772d42601c67d4f4873bd303b0086123e3f1e2d25da",
+          "duration_seconds": 1.933061,
+          "changed": true
+        },
+        {
+          "file": "aisatsu-3.mp3",
+          "bytes": 91159,
+          "sha256": "64efafc347adeb2926d2d4db048b1541e477ec2508a2e67147af8d1c67117622",
+          "duration_seconds": 5.668571,
+          "changed": true
+        },
+        {
+          "file": "aisatsu-4.mp3",
+          "bytes": 60648,
+          "sha256": "10568898f7017f6ccd8bd6838db21eee8fe13378a3009705d4dd749ebcc74ca3",
+          "duration_seconds": 3.761633,
+          "changed": true
+        },
+        {
+          "file": "aisatsu-5.mp3",
+          "bytes": 58140,
+          "sha256": "3be262af777bd88bb6714afb492acc87f23fd3ae7bc0ec77f74d5c69c20f3813",
+          "duration_seconds": 3.604898,
+          "changed": true
+        },
+        {
+          "file": "aisatsu-6.mp3",
+          "bytes": 48527,
+          "sha256": "e68b69c4354027d569d9ac69d6ee67caf88f8b6a10d301880a70c5bbaed54ca9",
+          "duration_seconds": 3.004082,
+          "changed": true
+        },
+        {
+          "file": "aisatsu-7.mp3",
+          "bytes": 87815,
+          "sha256": "9a8fa443d63e917b8c2b839ea15c326aad30de85f414405c529b68aa8770906f",
+          "duration_seconds": 5.459592,
+          "changed": true
+        },
+        {
+          "file": "aisatsu-8.mp3",
+          "bytes": 24285,
+          "sha256": "77088ea1099c7a694742716cefe9fcef7f9063ed6570f45d32e7f2240844a08d",
+          "duration_seconds": 1.48898,
+          "changed": true
+        },
+        {
+          "file": "uchi-1.mp3",
+          "bytes": 45601,
+          "sha256": "d3211921d99d09953138554a0f25b06d32f3e034e87a10e91bd4d4154e93469c",
+          "duration_seconds": 2.821224,
+          "changed": true
+        },
+        {
+          "file": "uchi-2.mp3",
+          "bytes": 26375,
+          "sha256": "672fe3a6c563bc774c3de0da605b0687549458f54cc203d53ad32c035e60ac0c",
+          "duration_seconds": 1.619592,
+          "changed": true
+        },
+        {
+          "file": "uchi-3.mp3",
+          "bytes": 67335,
+          "sha256": "649f984d1706f023df06b9843e277013a543ffdd04041b324dc140149d06164a",
+          "duration_seconds": 4.179592,
+          "changed": true
+        },
+        {
+          "file": "uchi-4.mp3",
+          "bytes": 27629,
+          "sha256": "515c0dc218bd2001673955f23ef4331782b6091313d0df75b97740bfe735c78b",
+          "duration_seconds": 1.697959,
+          "changed": true
+        },
+        {
+          "file": "uchi-5.mp3",
+          "bytes": 27211,
+          "sha256": "5273add6aa1196f3dc31e23811ed326eeb65685899413e53dd148acd2dffa46a",
+          "duration_seconds": 1.671837,
+          "changed": true
+        },
+        {
+          "file": "uchi-6.mp3",
+          "bytes": 47273,
+          "sha256": "1233154c7eb3d3bf53769d3b38838283e0d923da3d797891afef8dd8a94b1c41",
+          "duration_seconds": 2.925714,
+          "changed": true
+        },
+        {
+          "file": "uchi-7.mp3",
+          "bytes": 55214,
+          "sha256": "f5b136b63c3a18a6cb2c83ad6e7db14f6af4c3f7c31ac6132826a8ce438a6ce9",
+          "duration_seconds": 3.422041,
+          "changed": true
+        },
+        {
+          "file": "uchi-8.mp3",
+          "bytes": 32226,
+          "sha256": "ec08c95da64cb5f503f455aba69398ff03c71ceb473bac34f54b153641a3bce0",
+          "duration_seconds": 1.985306,
+          "changed": true
+        },
+        {
+          "file": "shokuji-1.mp3",
+          "bytes": 65663,
+          "sha256": "e2583e89ef3a373d3205261221b3aa4c9046ff21a688d555842f7dc2f8d63896",
+          "duration_seconds": 4.075102,
+          "changed": true
+        },
+        {
+          "file": "shokuji-2.mp3",
+          "bytes": 23449,
+          "sha256": "3283a8ec0ca6ffde7622b1ff037a3ef4334da511f0eab150f0436e6995091411",
+          "duration_seconds": 1.436735,
+          "changed": true
+        },
+        {
+          "file": "shokuji-3.mp3",
+          "bytes": 91577,
+          "sha256": "3477f830e67bfa583c22f0a25395e89b73a5bfae01afea2581feba98243e8c19",
+          "duration_seconds": 5.694694,
+          "changed": true
+        },
+        {
+          "file": "shokuji-4.mp3",
+          "bytes": 31391,
+          "sha256": "bc3266ff9ce3a6eaa2353fa96db4ce4a242bfad304c563915a07fc37f4c22414",
+          "duration_seconds": 1.933061,
+          "changed": true
+        },
+        {
+          "file": "shokuji-5.mp3",
+          "bytes": 54378,
+          "sha256": "9910e350d34458fc07eef8b128e53d990fa3129017ade89bd2adc33629a2b744",
+          "duration_seconds": 3.369796,
+          "changed": true
+        },
+        {
+          "file": "shokuji-6.mp3",
+          "bytes": 53960,
+          "sha256": "480b3cb9344ce481e4b9b9bbc14bad5d5961e59790d14000d3d2906a5ac2a2b0",
+          "duration_seconds": 3.343673,
+          "changed": true
+        },
+        {
+          "file": "shokuji-7.mp3",
+          "bytes": 59812,
+          "sha256": "a339292012496011030c3217c250abcc92c372ae6b5fa1dc22cdd29409b814fe",
+          "duration_seconds": 3.709388,
+          "changed": true
+        },
+        {
+          "file": "shokuji-8.mp3",
+          "bytes": 37660,
+          "sha256": "817920422c48fec8a9959b9b0f997888ffb3c6a3e19bce189bc08110a74685f1",
+          "duration_seconds": 2.324898,
+          "changed": true
+        }
+      ]
+    },
+    "simulasi": {
+      "source_zip": "simulasi-audio-baru.zip",
+      "source_sha256": "8d2e3c6c7bf1e0d2dac8d4db1f0ba463b9aef44b798461b13f8a5f31a50a3738",
+      "count": 223,
+      "files": [
+        {
+          "file": "n5-p01-048.mp3",
+          "bytes": 144239,
+          "sha256": "5030ca74816f5921edd591e127161b928d125982947b51f03c813b3b3d33537f",
+          "duration_seconds": 8.986122,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-049.mp3",
+          "bytes": 176840,
+          "sha256": "a53b0b2859133baf6e74c9707c2bc2c760d8494edc2bf3d713b4d2e484c7bfff",
+          "duration_seconds": 11.023673,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-050.mp3",
+          "bytes": 148837,
+          "sha256": "703cb5b56038310973e92aed224999a495a016f5da915c938f75c31c71d675c9",
+          "duration_seconds": 9.273469,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-051.mp3",
+          "bytes": 160540,
+          "sha256": "0dce6fb67584463178d82c41a194d905552f06dfc586dc2075a0755b3055228d",
+          "duration_seconds": 10.004898,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-052.mp3",
+          "bytes": 134626,
+          "sha256": "1593f4bcd7c5ab9558aa6d897d1155954c7eac5d6e363c93bc69bae55face90f",
+          "duration_seconds": 8.385306,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-053.mp3",
+          "bytes": 142986,
+          "sha256": "9d3221f79be4859906639a173a0293c70d19f9292fb2a8210de158758d1805cb",
+          "duration_seconds": 8.907755,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-054.mp3",
+          "bytes": 177676,
+          "sha256": "216b538e9f8144fd024394fc3c36c9949a8b2e782a0f693a23172f412b1d8556",
+          "duration_seconds": 11.075918,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-055.mp3",
+          "bytes": 114564,
+          "sha256": "f316c5b99457293c117e8084998cb73c1ec34a333f8073506bb39629cdb61336",
+          "duration_seconds": 7.131429,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-056.mp3",
+          "bytes": 124177,
+          "sha256": "8d32b581042d321ea9aab4ee567a427e89415b1c9daebb276c7643c1b35e98d7",
+          "duration_seconds": 7.732245,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-057.mp3",
+          "bytes": 122506,
+          "sha256": "c2cfe6c50cac609f50b1cef396d64228d7b5a84acb617c8b84103568523d0d09",
+          "duration_seconds": 7.627755,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-058.mp3",
+          "bytes": 147583,
+          "sha256": "3eda1d62bbab76e4985f36619f34928d9749a0bb774158af8f3a2ea968346510",
+          "duration_seconds": 9.195102,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-059.mp3",
+          "bytes": 149255,
+          "sha256": "7d614b0a08b91697912dace55b4c5bd0ca780aa99ba270f44c7e56476bbb52e4",
+          "duration_seconds": 9.299592,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-060.mp3",
+          "bytes": 150927,
+          "sha256": "a1457b1070728da946a1e451cf4fbe2b8b806174631fb6e825fbe3175da62bdd",
+          "duration_seconds": 9.404082,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-061.mp3",
+          "bytes": 88651,
+          "sha256": "b21b5f63e003afd66223c7e74daaadaca252650eb356fe92500e23466d91d335",
+          "duration_seconds": 5.511837,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-062.mp3",
+          "bytes": 134208,
+          "sha256": "8c837c9288aac5aa413953f9a825d83d141b22da3c1b5b351693c919a8bfc2d2",
+          "duration_seconds": 8.359184,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-063.mp3",
+          "bytes": 99936,
+          "sha256": "86c81a6cff34c93f15a29def7e15f90ce9e349710f49986be13290a03a662a34",
+          "duration_seconds": 6.217143,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-064.mp3",
+          "bytes": 128775,
+          "sha256": "be8bea5567410803d9ec52c28dd72414576d4bb04dfc699fcc1fed7e3aa82bb5",
+          "duration_seconds": 8.019592,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-065.mp3",
+          "bytes": 111639,
+          "sha256": "233ce5130ac56c78dab94b981f803e4fd957bee023a67f9b8ab2f2b7854da46d",
+          "duration_seconds": 6.948571,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-066.mp3",
+          "bytes": 39750,
+          "sha256": "4bda6b833894aaed9b04129998c39e01b3b2127765b8958fb6fb9b74970ea211",
+          "duration_seconds": 2.45551,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-067.mp3",
+          "bytes": 41004,
+          "sha256": "189c3e9ef0c721c1fe26aef67825c25c2e6759b4136483b8cdf3d7e87012d896",
+          "duration_seconds": 2.533878,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-068.mp3",
+          "bytes": 38078,
+          "sha256": "497a0611aff463d7151b4ce6a8c2c8d635910031ac0b823ea1a58db5f8afb37e",
+          "duration_seconds": 2.35102,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-069.mp3",
+          "bytes": 33062,
+          "sha256": "0f9c39eb770bb3fefb6dd69771d8eff02eb81142ec687bb3acca475add21130c",
+          "duration_seconds": 2.037551,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-070.mp3",
+          "bytes": 46437,
+          "sha256": "884ebc9e52545ddf25cacd5cc7aaa3e1359d4109a8d5d8bc15a705d1085d6de4",
+          "duration_seconds": 2.873469,
+          "changed": true
+        },
+        {
+          "file": "n5-p01-071.mp3",
+          "bytes": 31391,
+          "sha256": "5eb99fce9ff1939dfa7ab1ad19c3a0725df702181c1fdac55e17d87f1b4e5a40",
+          "duration_seconds": 1.933061,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-048.mp3",
+          "bytes": 147583,
+          "sha256": "98e07e186102a0c4c68cb11dba1057f225a0fb35524afdd08e1010b4c2e0af94",
+          "duration_seconds": 9.195102,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-049.mp3",
+          "bytes": 148001,
+          "sha256": "d6084892d0f2459c79b82383eff98aa9eca0fca25a42bc6e57dd5c8ca8f705cb",
+          "duration_seconds": 9.221224,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-050.mp3",
+          "bytes": 157614,
+          "sha256": "1f18b400b11eb162aa0f49a8f88f3a33e24002a559a2a5ccd6f4a1cfb437074c",
+          "duration_seconds": 9.822041,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-051.mp3",
+          "bytes": 139224,
+          "sha256": "443b913f6340c3f3059f7acbb4fb93aba269e8479c2d60f69c28e3e598a05d61",
+          "duration_seconds": 8.672653,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-052.mp3",
+          "bytes": 184364,
+          "sha256": "bbd0dcdf87ae6066124a10a9f9bd371f9d142d7e53fe0b468f63af9e4737072b",
+          "duration_seconds": 11.493878,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-053.mp3",
+          "bytes": 154271,
+          "sha256": "855a5ff628a2f968225bb0a4329a78c965925b9c98897f0a44933f4ad20d5a10",
+          "duration_seconds": 9.613061,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-054.mp3",
+          "bytes": 154271,
+          "sha256": "44966d9e0e33e675b88b625a119688a6050c346aa760072f1e115257ce2f3b0f",
+          "duration_seconds": 9.613061,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-055.mp3",
+          "bytes": 125431,
+          "sha256": "8947f558d34873979dff4bcabf59bd89dadd57e081e8b9e82d2e8778aacf98a4",
+          "duration_seconds": 7.810612,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-056.mp3",
+          "bytes": 132537,
+          "sha256": "059a74c450311280bee7bc31c0c4a657a6c0f0bae83afae0a348b71d825dcb09",
+          "duration_seconds": 8.254694,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-057.mp3",
+          "bytes": 136298,
+          "sha256": "b4314500c7540871ffa9ce7abfff69a78a665d1d29a7599bb7e7678709800e3f",
+          "duration_seconds": 8.489796,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-058.mp3",
+          "bytes": 136716,
+          "sha256": "77f35d28bb8320876859124f7476517cd3d090d2f97ff6c02e247f9be3c0faae",
+          "duration_seconds": 8.515918,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-059.mp3",
+          "bytes": 148001,
+          "sha256": "7f5e3d0da30720f60d31b2f59cbdfb8dd0fb507c874b18a030078ec49b4b725e",
+          "duration_seconds": 9.221224,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-060.mp3",
+          "bytes": 143404,
+          "sha256": "a6f617577d76e780523f9acfcf3b970158c4685094fd02039a53a3e2408bfd8a",
+          "duration_seconds": 8.933878,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-061.mp3",
+          "bytes": 139224,
+          "sha256": "a878eb6e11e02374cc2574af087dc28cc9d2cc4e123de6d7be527aa89118083b",
+          "duration_seconds": 8.672653,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-062.mp3",
+          "bytes": 108713,
+          "sha256": "977a9d56399f83dba452f9896ae8509abd5b91a5e952b3cc8242eb31cf9e3940",
+          "duration_seconds": 6.765714,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-063.mp3",
+          "bytes": 124595,
+          "sha256": "c96046e8b89da9d4205883d89b4d2910ea627b62e812fd83d45b6711cab0521f",
+          "duration_seconds": 7.758367,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-064.mp3",
+          "bytes": 119162,
+          "sha256": "76c5d60e3a0b4c0a9f232c0b8852d1adcb20f5d41befe3d94e960609ac062398",
+          "duration_seconds": 7.418776,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-065.mp3",
+          "bytes": 101190,
+          "sha256": "e4bd990676abb03559199b7d963e0ded17bc56fa8c9ddc7690731d8590108223",
+          "duration_seconds": 6.29551,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-066.mp3",
+          "bytes": 39750,
+          "sha256": "04cd6313451235000d8fc9463fa9dbaab6013870fb4ec86da7779926be215870",
+          "duration_seconds": 2.45551,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-067.mp3",
+          "bytes": 33898,
+          "sha256": "5eac7ae89fcbc146bf0fed8ad35bc3a3190e21ceccf0ad1fa42e410c98a37113",
+          "duration_seconds": 2.089796,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-068.mp3",
+          "bytes": 37660,
+          "sha256": "a7b1dbdba1c6ffa9bda64c2748afb8aeb5b47095f4a3e7fb28fc9ecf94db72d1",
+          "duration_seconds": 2.324898,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-069.mp3",
+          "bytes": 45601,
+          "sha256": "e90b5f44af01a2eed1030ad3a742eb7f5dab0c87491f7133aff94953d3921c66",
+          "duration_seconds": 2.821224,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-070.mp3",
+          "bytes": 41004,
+          "sha256": "5e03a5f948a3b33f268b2d55d3d5fe960176f5d9fad666ad118852d197c48620",
+          "duration_seconds": 2.533878,
+          "changed": true
+        },
+        {
+          "file": "n5-p02-071.mp3",
+          "bytes": 40586,
+          "sha256": "c6d8ac652983aeaf0811c8853dae9b6d16226daffdd7f78b4442cdbc4d8a5799",
+          "duration_seconds": 2.507755,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-026.mp3",
+          "bytes": 128775,
+          "sha256": "d040b7ae2b05cfabeb980e66f6497982698f77265ee0607799c42220c48429f7",
+          "duration_seconds": 8.019592,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-027.mp3",
+          "bytes": 77784,
+          "sha256": "fcd54ed06bff415fdd960aef24ed19cb8522a1aa6cc0530c5c1f4e51a3e3186f",
+          "duration_seconds": 4.832653,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-028.mp3",
+          "bytes": 71933,
+          "sha256": "d589f3ba4c15f8644abcbdba6d8d551ea887ace8d2725818f4cd9b5264896cab",
+          "duration_seconds": 4.466939,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-029.mp3",
+          "bytes": 97846,
+          "sha256": "087253fbdcd014de3de7da3ed5c9e973306053c45c0a15308215dac504bcfe79",
+          "duration_seconds": 6.086531,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-030.mp3",
+          "bytes": 124595,
+          "sha256": "09fec9455af6204b334646a7d8224975b53686731e818c59554214afbeade7cf",
+          "duration_seconds": 7.758367,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-031.mp3",
+          "bytes": 124595,
+          "sha256": "6c318ea2453643dca3b135022f065d4c310442c23d1a5db52dee78ed663688df",
+          "duration_seconds": 7.758367,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-032.mp3",
+          "bytes": 119580,
+          "sha256": "70eedbe06681adf443af7d60db8750264a82e4ed60a0234862a5bc46939c0693",
+          "duration_seconds": 7.444898,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-033.mp3",
+          "bytes": 132955,
+          "sha256": "932edfdac023dcefc9e1476b11b21b8c7c0d72ae656f9b359f0733d2c9902c9e",
+          "duration_seconds": 8.280816,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-034.mp3",
+          "bytes": 202336,
+          "sha256": "e61ee108df62837417f0d9c725ae407ea4b8179d63ebe2a4186bc7ad45a9f44b",
+          "duration_seconds": 12.617143,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-035.mp3",
+          "bytes": 149673,
+          "sha256": "e409ef5386d764b17884a378f5fdf4e319004217a283e1f134c809c074545d61",
+          "duration_seconds": 9.325714,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-036.mp3",
+          "bytes": 127521,
+          "sha256": "a65f58fd103291178c1a12cc0522072816612b93ae21be91e5ff64dd6205be3f",
+          "duration_seconds": 7.941224,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-037.mp3",
+          "bytes": 164719,
+          "sha256": "a9684276eb72c42271210c6f2e2dba6d984198e13e1619114133691f7196b26c",
+          "duration_seconds": 10.266122,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p01-038.mp3",
+          "bytes": 140896,
+          "sha256": "8d082c9eabc1a6cabb2526b5dca43c1d0a812e8c29244bbdff7ca3660a7b26c8",
+          "duration_seconds": 8.777143,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-026.mp3",
+          "bytes": 119162,
+          "sha256": "122ec8d6ffc5277165218c7b7f48390ed7a5f1fafc9c4c7499561267239b9a99",
+          "duration_seconds": 7.418776,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-027.mp3",
+          "bytes": 71933,
+          "sha256": "08dc8eac69877a0afdb78e6715314177076256432a7cc0eda21c41d666fadef9",
+          "duration_seconds": 4.466939,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-028.mp3",
+          "bytes": 97428,
+          "sha256": "404e114def9db1ba402151665945f80a357fb081e697c44dce26935af2a57948",
+          "duration_seconds": 6.060408,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-029.mp3",
+          "bytes": 114982,
+          "sha256": "c0c7b16cc018c1dd4661927846637a4f6080efc322133ad5a51f8cec23b8f6ae",
+          "duration_seconds": 7.157551,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-030.mp3",
+          "bytes": 115400,
+          "sha256": "a21387dca58c79d1ff1effcc387c0664523a01df9eddc47c176353ae086d23e4",
+          "duration_seconds": 7.183673,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-031.mp3",
+          "bytes": 109131,
+          "sha256": "15ad359200c01e8fe7c3d58e14ec4043243b69f7fa4746decd0df6ffa09617d4",
+          "duration_seconds": 6.791837,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-032.mp3",
+          "bytes": 108713,
+          "sha256": "37fc1280c7ae79ebb18261c414d5444e6aace664aca9033998db52b4b035ea01",
+          "duration_seconds": 6.765714,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-033.mp3",
+          "bytes": 142986,
+          "sha256": "38319a085f28af54143126d39f164802ef21ea71e7f81e9d28baf2b4ac02bbba",
+          "duration_seconds": 8.907755,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-034.mp3",
+          "bytes": 136716,
+          "sha256": "3539460b88694e3ae348f202617585f9c1f04aebe2d5607b0a77eb8daa02d380",
+          "duration_seconds": 8.515918,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-035.mp3",
+          "bytes": 131701,
+          "sha256": "917b42d5a6982984bc8f032f44b1926a4242ed0c865799fc5c794601775666a5",
+          "duration_seconds": 8.202449,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-036.mp3",
+          "bytes": 160122,
+          "sha256": "5234bc9c526a5689d1f04f3a7e7e77ff65ca0c410efc5c8c9b464c009c5f42ad",
+          "duration_seconds": 9.978776,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-037.mp3",
+          "bytes": 109549,
+          "sha256": "d0bad6340d2f70ac49193628fb7c40cdd28fb822551a16f51619c37d6f872d0d",
+          "duration_seconds": 6.817959,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p02-038.mp3",
+          "bytes": 144657,
+          "sha256": "348b646cccf29697f11edc1b0318f043b53b31a3cf008a4c2e5053ddd42af4d1",
+          "duration_seconds": 9.012245,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-048.mp3",
+          "bytes": 197738,
+          "sha256": "aafc5c6953bc8e39a2bce9992d1d5289a0e787a54b6a7e6458927e7040fd0b84",
+          "duration_seconds": 12.329796,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-049.mp3",
+          "bytes": 195231,
+          "sha256": "623857fa6f447f8452b9a494b2ef4d0a26a32f6568a12e9b5da50fc75851fe43",
+          "duration_seconds": 12.173061,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-050.mp3",
+          "bytes": 206097,
+          "sha256": "5bf0df6626fab2f63d0848ac2422849f120987a06ad325ed97206feffb8ab1e9",
+          "duration_seconds": 12.852245,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-051.mp3",
+          "bytes": 154688,
+          "sha256": "059671a97488ff15ecb8d4c09d5d345047c78f33b4947af1644737776f029ce3",
+          "duration_seconds": 9.639184,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-052.mp3",
+          "bytes": 188125,
+          "sha256": "048bf60203a2e96388bd67641c3f5c715d78054938bbcc5044f3ca410a5e48f4",
+          "duration_seconds": 11.72898,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-053.mp3",
+          "bytes": 120834,
+          "sha256": "baa60198a939ac98db9c5a4ab40c4374e4532f9ba87ff0ff220e1d668c9bde5b",
+          "duration_seconds": 7.523265,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-054.mp3",
+          "bytes": 174751,
+          "sha256": "cd1e5363f6255ad1afbc47c0f7b9946c8154e35ce1c7cb15dc306aee1a7f0ad0",
+          "duration_seconds": 10.893061,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-055.mp3",
+          "bytes": 132119,
+          "sha256": "6b1728b817ec99ded4e19a035745fc2fffb9000e231641a6cbea4440df6c6c5f",
+          "duration_seconds": 8.228571,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-056.mp3",
+          "bytes": 178094,
+          "sha256": "859321cb2f66342555a54241d33dbe6e45fffef1ac329a72b1192a904c50596a",
+          "duration_seconds": 11.102041,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-057.mp3",
+          "bytes": 108713,
+          "sha256": "c0141bde5c63954311b631b41ab22d4bd063c0e4c22c78f043551e065ff1e30c",
+          "duration_seconds": 6.765714,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-058.mp3",
+          "bytes": 187707,
+          "sha256": "ce3abc6e463dd3eaad2cd4d4379292b4ee196ce96ec3a1bf8b3f8aeb5f9c3867",
+          "duration_seconds": 11.702857,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-059.mp3",
+          "bytes": 169735,
+          "sha256": "3c62aabb2cc2a01ba7cddae96fd1aae995967f1e7e6c9961ba1d4cc2e106af6e",
+          "duration_seconds": 10.579592,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-060.mp3",
+          "bytes": 137970,
+          "sha256": "ed48ba26b68d847ed448eca3ae9a519baef5f11d483c61d6b822faf2736d783d",
+          "duration_seconds": 8.594286,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-061.mp3",
+          "bytes": 82799,
+          "sha256": "a052626fde31d88d17ab3bad46948dad3997d77bd85951880b64b9d69ceb7a9c",
+          "duration_seconds": 5.146122,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-062.mp3",
+          "bytes": 140060,
+          "sha256": "3e147cf321ef7f658b40c5246bb22900a1942287813ba481109a826c70114075",
+          "duration_seconds": 8.724898,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-063.mp3",
+          "bytes": 79038,
+          "sha256": "3fcfd700f41d629b85daba9665de679f3b3c4ddcc51b3f302d0538c9b3b51278",
+          "duration_seconds": 4.91102,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-064.mp3",
+          "bytes": 159286,
+          "sha256": "5da39a68f0660362a7a0f7139a103bc61bb683860f3a911784a5e6ed6a0beeef",
+          "duration_seconds": 9.926531,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-065.mp3",
+          "bytes": 128775,
+          "sha256": "167c6d88e00a70339df9474b0bf7b001545386885334bd13bd9487eca7c70b7b",
+          "duration_seconds": 8.019592,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-066.mp3",
+          "bytes": 53960,
+          "sha256": "d27425543920af921779394df8ce9fd315ea861718b4105b62fbcf5ab3476d84",
+          "duration_seconds": 3.343673,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-067.mp3",
+          "bytes": 49363,
+          "sha256": "f25aa1912d1cd09d96f26f8bb4ca8119af7acca16896b1522392dee3ed0ce008",
+          "duration_seconds": 3.056327,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-068.mp3",
+          "bytes": 30973,
+          "sha256": "ed2f54eb834b905d189019fbf355c5e1e9b166bed5014b00f085260542e3eeeb",
+          "duration_seconds": 1.906939,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-069.mp3",
+          "bytes": 36824,
+          "sha256": "2d8f09bfba98008326e8a92ff72aec16cf20245e250c2d2d822ec13b2aaacacc",
+          "duration_seconds": 2.272653,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-070.mp3",
+          "bytes": 41004,
+          "sha256": "b77b7bf1f0c3019395ee575a39c88c2e13f6490349f7470c6ecf30b66e1a4e83",
+          "duration_seconds": 2.533878,
+          "changed": true
+        },
+        {
+          "file": "n5-p03-071.mp3",
+          "bytes": 24285,
+          "sha256": "2278c14460bf391b67cea300840cfa0ec27228508723bf7f11cb681e83f4cd0e",
+          "duration_seconds": 1.48898,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-048.mp3",
+          "bytes": 194395,
+          "sha256": "76af459df3613d61b4d67d493c0a8848717f500f6b4272efd52c78970d4a1508",
+          "duration_seconds": 12.120816,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-049.mp3",
+          "bytes": 185199,
+          "sha256": "bdd7bc6f0ec361b33384e2cbecaa9b49e9d1a0eee1fe96d16357f62300a0b5e9",
+          "duration_seconds": 11.546122,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-050.mp3",
+          "bytes": 183528,
+          "sha256": "7333aea1513f6a3c4d99ab416b0cd4af8418f8c823ef830c463a978e807b75b6",
+          "duration_seconds": 11.441633,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-051.mp3",
+          "bytes": 160122,
+          "sha256": "e96878bc23bb6e6f467945f76320d08f2e10996fa078f2c05170c545499d9155",
+          "duration_seconds": 9.978776,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-052.mp3",
+          "bytes": 196484,
+          "sha256": "38c8da95f429ccd3f0676997382ef7b15fbfb7367bebfecf2e49b5d0001e347c",
+          "duration_seconds": 12.251429,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-053.mp3",
+          "bytes": 135044,
+          "sha256": "4f9b559252343683192056ec09ab736fcac27a60e5c0b6d1e7958023f3cb48fd",
+          "duration_seconds": 8.411429,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-054.mp3",
+          "bytes": 182692,
+          "sha256": "cae941575dc344ac75618a4481b4687ae2a1c5d7fdb582023f414da492ab1f64",
+          "duration_seconds": 11.389388,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-055.mp3",
+          "bytes": 137970,
+          "sha256": "66197b2ade60811bce9dfc34f2b22db3a7e5dea5b6af85617e1b57974467769b",
+          "duration_seconds": 8.594286,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-056.mp3",
+          "bytes": 117908,
+          "sha256": "d0d0a1480377230eb67faecf858386a7ef53b7a631d084f6004d3eeebaa33cb6",
+          "duration_seconds": 7.340408,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-057.mp3",
+          "bytes": 125849,
+          "sha256": "7e69e5df214bc2e8c9d8755e85171b04f891823770a2010a681d00598e67755a",
+          "duration_seconds": 7.836735,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-058.mp3",
+          "bytes": 144657,
+          "sha256": "2c8f58e1200b2384a08df48b8e1ba56f00839c2a00d11da6c799c90937135852",
+          "duration_seconds": 9.012245,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-059.mp3",
+          "bytes": 134208,
+          "sha256": "2e264cc3627253747defeb34a7eca3ca3fc49286e5aad141abff226de7766d01",
+          "duration_seconds": 8.359184,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-060.mp3",
+          "bytes": 134626,
+          "sha256": "40d75e26648464346e8d017d7ae9f694a0c5afa37d8d850cea1d36349d618b0a",
+          "duration_seconds": 8.385306,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-061.mp3",
+          "bytes": 111221,
+          "sha256": "8d4e0123a826531747bcaf9cdb9e4b63086bec76c56ea6cad804a77975ab927f",
+          "duration_seconds": 6.922449,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-062.mp3",
+          "bytes": 100772,
+          "sha256": "9d7670168255705c69e5ee8418261a9b1dc483416210571055083f4c3f434302",
+          "duration_seconds": 6.269388,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-063.mp3",
+          "bytes": 135462,
+          "sha256": "cb808e1bfc2ef753334c9d6cd4faf017ce2f7d24b95f1702e10ca8d9c7c25939",
+          "duration_seconds": 8.437551,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-064.mp3",
+          "bytes": 145911,
+          "sha256": "cc7639d8ca1d92e17014d6a58f9f471b334383caa73202e5f315de288fca95f3",
+          "duration_seconds": 9.090612,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-065.mp3",
+          "bytes": 99936,
+          "sha256": "57a4f13e4122760b55ad17bdecf9a72c773f2998a35fff0a21b7cb9fb9365930",
+          "duration_seconds": 6.217143,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-066.mp3",
+          "bytes": 29301,
+          "sha256": "a21455dc263d254cc2895734565831bc8838b237c7702013ca2c096747c98f0e",
+          "duration_seconds": 1.802449,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-067.mp3",
+          "bytes": 45601,
+          "sha256": "ac3b2be9fe52887910a37a29f8a95de9611edace5afff85e3ee75cd71fe27132",
+          "duration_seconds": 2.821224,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-068.mp3",
+          "bytes": 33898,
+          "sha256": "ef97736104fe6ffaa653c7fadadd72c68e01d5f8c466d8805e24200ebccfe2fb",
+          "duration_seconds": 2.089796,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-069.mp3",
+          "bytes": 28465,
+          "sha256": "b8a4bb0c211d89cc5ac96176c0ff69a7c39a99d0bbe180116ac77189f19f46cb",
+          "duration_seconds": 1.750204,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-070.mp3",
+          "bytes": 55214,
+          "sha256": "37224ab23b8643f78c02376908c192283b65a34fd5f7fcf8f2df249c8f655c93",
+          "duration_seconds": 3.422041,
+          "changed": true
+        },
+        {
+          "file": "n5-p04-071.mp3",
+          "bytes": 39750,
+          "sha256": "79d45d70e04d46f675fedf4d0def2b77c3c75ad2686234b4849190cd4081d967",
+          "duration_seconds": 2.45551,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-026.mp3",
+          "bytes": 120834,
+          "sha256": "3e7ebc2d184055662b3464b6518bf295d99a3b5a8489409a4c1ed1f791af5703",
+          "duration_seconds": 7.523265,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-027.mp3",
+          "bytes": 91159,
+          "sha256": "5816b0c16509faad13ec7d41b6761f8dfa8f184e98e33fd7cea7d18e7cca6daf",
+          "duration_seconds": 5.668571,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-028.mp3",
+          "bytes": 130447,
+          "sha256": "188a47576d48bd8b536d4b869c81433e629e3e2f6495ed77f81844887f91a522",
+          "duration_seconds": 8.124082,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-029.mp3",
+          "bytes": 120834,
+          "sha256": "d1eadb422d7cf3eec52d48c6f1393a150b834f9a9b1439680b639331e49ccc59",
+          "duration_seconds": 7.523265,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-030.mp3",
+          "bytes": 83217,
+          "sha256": "039b6d3b7f2b391c12a1dfea24edaf477a75d48503468cc378223e10e49407a4",
+          "duration_seconds": 5.172245,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-031.mp3",
+          "bytes": 109967,
+          "sha256": "29e2d67441204143d05e85562147df649106f0505638b02f041611abb650d7cc",
+          "duration_seconds": 6.844082,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-032.mp3",
+          "bytes": 142150,
+          "sha256": "28e475fe43904b7a92940276a5b29aaa1ed2fc29daecc864752520898b1044db",
+          "duration_seconds": 8.85551,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-033.mp3",
+          "bytes": 97428,
+          "sha256": "336b62071d9c3f59a927f870db95dcbbf5d9437a10d120424944c0bcc09d66dc",
+          "duration_seconds": 6.060408,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-034.mp3",
+          "bytes": 183110,
+          "sha256": "629e7dc39e1f625411bbb9f38dd1b0f6c89fc5b031b9a65a663a1f4b59a68b7c",
+          "duration_seconds": 11.41551,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-035.mp3",
+          "bytes": 127521,
+          "sha256": "56db3a15e051624e725ee65133b41cf362d283360f3cfc7acb3bbbb075b4ce4f",
+          "duration_seconds": 7.941224,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-036.mp3",
+          "bytes": 124177,
+          "sha256": "5c272cbdfbd4ffaf6c47d12855b326ad4a2ab494873b4366f0f8bf819c768642",
+          "duration_seconds": 7.732245,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-037.mp3",
+          "bytes": 117072,
+          "sha256": "731099162eae6270fe71cab4039d69a65004a889270e3ece286bf89283e62b8a",
+          "duration_seconds": 7.288163,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p03-038.mp3",
+          "bytes": 112057,
+          "sha256": "2fbce059e22df5a7d4c09059bd57bba5fb65ef84fefd75df9ceb7f1ffeca813d",
+          "duration_seconds": 6.974694,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-026.mp3",
+          "bytes": 143404,
+          "sha256": "cd4736004190e588d285b441f1f437335b81c9237d75edd4d418aade3d8a9a21",
+          "duration_seconds": 8.933878,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-027.mp3",
+          "bytes": 109549,
+          "sha256": "ede042dcd2012b547d2ca6f8c7e831689e60d72791658cccfd5d10fb693ca659",
+          "duration_seconds": 6.817959,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-028.mp3",
+          "bytes": 115818,
+          "sha256": "e08d051e876c601b3fb9da58f39acc62250d27195ed5e8da8f0cd35cd5436529",
+          "duration_seconds": 7.209796,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-029.mp3",
+          "bytes": 103279,
+          "sha256": "67f149dbec98efc257f7fc6370ecbb90584b4867089b26a081db60aa651c5375",
+          "duration_seconds": 6.426122,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-030.mp3",
+          "bytes": 137970,
+          "sha256": "28392c65d82f39d65fb9c8a6c729a00f2942d494727bc3bb125d7add07fca301",
+          "duration_seconds": 8.594286,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-031.mp3",
+          "bytes": 109549,
+          "sha256": "ceea52c91099f23a9beec79fd8a81d8135644545784b5f09fd498a7db168baab",
+          "duration_seconds": 6.817959,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-032.mp3",
+          "bytes": 107041,
+          "sha256": "f1273d40ac2881a9d70a2cf8624b1e07435327a0cf4124072bb16cc80aee8a03",
+          "duration_seconds": 6.661224,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-033.mp3",
+          "bytes": 140478,
+          "sha256": "39427a5834eed5d9d2f8847bd7f28039e07503ec33ddaacdc1b7742811de5d1e",
+          "duration_seconds": 8.75102,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-034.mp3",
+          "bytes": 160540,
+          "sha256": "392d055162a9ec5ac6d6f9626fd3e7c38e55411102690d6b8d7c182926fb75d2",
+          "duration_seconds": 10.004898,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-035.mp3",
+          "bytes": 117490,
+          "sha256": "25bc546f4b9d13e69cbe3c4dcee8cc4893e8bf48310c61b3089f0bc87e22c1c9",
+          "duration_seconds": 7.314286,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-036.mp3",
+          "bytes": 106623,
+          "sha256": "d3512c4d73d77a5e83c8e2fd08cf5a62fe60984d8ccd747a5a46ce495a65e136",
+          "duration_seconds": 6.635102,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-037.mp3",
+          "bytes": 117490,
+          "sha256": "b095fec3b3f72a74621c51268c8fd3603b34cb3bc61ff87794e35de3da2e764b",
+          "duration_seconds": 7.314286,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p04-038.mp3",
+          "bytes": 124177,
+          "sha256": "7dc62d1a108d16f001bde6a3db79f7b1afb775f0ae03bde611ec5cf67a1ff453",
+          "duration_seconds": 7.732245,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-048.mp3",
+          "bytes": 214875,
+          "sha256": "d0df7eecffbd07da037bf48af1d30af9077756a845c914ac4dd669e159eae1df",
+          "duration_seconds": 13.400816,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-049.mp3",
+          "bytes": 221144,
+          "sha256": "6ee124e0b7e3c1d5c8d075e13cbcbf6e50fbdd8544e81132b0ff5ac048530dda",
+          "duration_seconds": 13.792653,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-050.mp3",
+          "bytes": 259596,
+          "sha256": "fcfc923ec94e49deae5436930c26f4e2ba7e53063d16088a7f0d309401ab06bc",
+          "duration_seconds": 16.195918,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-051.mp3",
+          "bytes": 304736,
+          "sha256": "fdba103a546763db3cbaadf6be49f779aca1e3dfc1537bcd087ae5650c2289bb",
+          "duration_seconds": 19.017143,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-052.mp3",
+          "bytes": 256253,
+          "sha256": "49bafd461885cb90d21d6134be24aebecd6b32f6e94f4494dfc87ab5f408d0e7",
+          "duration_seconds": 15.986939,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-053.mp3",
+          "bytes": 267955,
+          "sha256": "cd9e246da1404364f8441d7a854972cda5855e17694148b3bedf142f33d4e14d",
+          "duration_seconds": 16.718367,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-054.mp3",
+          "bytes": 227831,
+          "sha256": "0f08b30acfdcb191876ab6085c87518d2042d9e6b73f4410e6f3a18f2d13957e",
+          "duration_seconds": 14.210612,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-055.mp3",
+          "bytes": 171407,
+          "sha256": "8a47426f51e7267621f98b14b7475169e56d358c1fe06f33b4b3a2ab62a88395",
+          "duration_seconds": 10.684082,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-056.mp3",
+          "bytes": 244968,
+          "sha256": "c0cc75e257e23bad03a2903431a18962cc340dd6b31e3271707836600f222e7b",
+          "duration_seconds": 15.281633,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-057.mp3",
+          "bytes": 177676,
+          "sha256": "c3a037296ffaf2557898a029449abf690e36d8bc9aaa1cb390e6dd05ae395964",
+          "duration_seconds": 11.075918,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-058.mp3",
+          "bytes": 189797,
+          "sha256": "667b86391a999a7087fbe442d16da2ede0ea1b0f441208f939543b6b49b6d410",
+          "duration_seconds": 11.833469,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-059.mp3",
+          "bytes": 161376,
+          "sha256": "b5c36f5d4a5d7384df37a85ecb99b8c718441acfcb41767a85cc1ce483bf636d",
+          "duration_seconds": 10.057143,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-060.mp3",
+          "bytes": 247057,
+          "sha256": "b8939410f605dde32c3a6fbf3a9f725443877c0749693bdc5fb4aa42a802b175",
+          "duration_seconds": 15.412245,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-061.mp3",
+          "bytes": 99100,
+          "sha256": "7474c066e28cf0dc3ee539109ba5bc13c2f8c591c3d3a8b70bf07e5973eea045",
+          "duration_seconds": 6.164898,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-062.mp3",
+          "bytes": 76112,
+          "sha256": "e7017526a34af3809426486e70d0022883dad6170551c0e4bc8274e574202a90",
+          "duration_seconds": 4.728163,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-063.mp3",
+          "bytes": 78202,
+          "sha256": "90ab981e366c0ad8bab3ca6bc48217e0ebb177a5270f7acefe62147de3b49e14",
+          "duration_seconds": 4.858776,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-064.mp3",
+          "bytes": 134626,
+          "sha256": "23fbd1090b210d3c65fb07be9a670dbf9a0fb5946cdeb986f293d55ee34eafca",
+          "duration_seconds": 8.385306,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-065.mp3",
+          "bytes": 114564,
+          "sha256": "909ae65bb78f85b5beb57e75c64f07f7a9196e94d02c981867872564698ff324",
+          "duration_seconds": 7.131429,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-066.mp3",
+          "bytes": 30137,
+          "sha256": "16a22cebaef00c57ff00996734f9a36875a8871cda3f76dc30095d89fd5c9ce6",
+          "duration_seconds": 1.854694,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-067.mp3",
+          "bytes": 41004,
+          "sha256": "2821c970b31a8fab63eb561b0fdfb63a6fec6091ea5edbcf05212c3d91d7688c",
+          "duration_seconds": 2.533878,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-068.mp3",
+          "bytes": 51453,
+          "sha256": "0cd7abd8c4e5569a0a763a25d96a98175cd725045973d99b63e2159bbafc372a",
+          "duration_seconds": 3.186939,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-069.mp3",
+          "bytes": 34316,
+          "sha256": "cd54103e532323389b4e40cf7f0a167109d93cf63a50f20e782cd905b79e262a",
+          "duration_seconds": 2.115918,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-070.mp3",
+          "bytes": 58140,
+          "sha256": "e7e2c58219be6dd329e522e262c1fa773409b44ecf4f50510c361ba46b9fe5f9",
+          "duration_seconds": 3.604898,
+          "changed": true
+        },
+        {
+          "file": "n5-p05-071.mp3",
+          "bytes": 35152,
+          "sha256": "ba752b4de664d3f8b75106f89c670a2bb09172a38160bca69843bffae6e8353f",
+          "duration_seconds": 2.168163,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-048.mp3",
+          "bytes": 233265,
+          "sha256": "3468cc08bab9ec639c5a12b5633543ab503692dd45fdbaf49ff4925121a0354b",
+          "duration_seconds": 14.550204,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-049.mp3",
+          "bytes": 241624,
+          "sha256": "6de98e4bca505ec61a1db2e695bfc769bf2a0c80d729574ee836fcac2b6cd6ca",
+          "duration_seconds": 15.072653,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-050.mp3",
+          "bytes": 212367,
+          "sha256": "e114620c8277fb60f0c025896bb25748f8671d6973a92359877f68ff67bec1be",
+          "duration_seconds": 13.244082,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-051.mp3",
+          "bytes": 201500,
+          "sha256": "c0331dd322917f4d91319c5ac9e0d08805869088d2def34e50f539f7ac8dfd7f",
+          "duration_seconds": 12.564898,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-052.mp3",
+          "bytes": 217800,
+          "sha256": "a8d01248ffb5abde5484b316bdd5f26991f76cb89daefdaa1ab6059c8c574dd6",
+          "duration_seconds": 13.583673,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-053.mp3",
+          "bytes": 191887,
+          "sha256": "cb1ac1dc47186fddf860a2ba466ba696248c7c2fa53fcaf6f845c527ccfcdb16",
+          "duration_seconds": 11.964082,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-054.mp3",
+          "bytes": 222398,
+          "sha256": "708b603dc6b9e624000d7b84a9cfacf64a516f4c7543e88b580b6d8785b33597",
+          "duration_seconds": 13.87102,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-055.mp3",
+          "bytes": 263358,
+          "sha256": "4383332e583fa0f78de5a1013f1084273f4c0bd07d7650dca81935a25731af34",
+          "duration_seconds": 16.43102,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-056.mp3",
+          "bytes": 163048,
+          "sha256": "3eddeba90ab199d43f447277b950c35d5845f8d73d3618dc01de7b956c662b67",
+          "duration_seconds": 10.161633,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-057.mp3",
+          "bytes": 185199,
+          "sha256": "ff7abea2ac6f6875b65a26d56e513a947c9ccd54ff292f3cb1f2a4c37123c6fd",
+          "duration_seconds": 11.546122,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-058.mp3",
+          "bytes": 161376,
+          "sha256": "20e6e922419041451679d3a37061776df1176d863851d3f1e0859ef91eab8209",
+          "duration_seconds": 10.057143,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-059.mp3",
+          "bytes": 229503,
+          "sha256": "7f4c27fb69f6cb8decd1fad474fc849e6afefdc4ce3eb6f084d9d826d82c5391",
+          "duration_seconds": 14.315102,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-060.mp3",
+          "bytes": 164302,
+          "sha256": "99069f05592bdd781f440ea8d7902daf1f64775a8e940b7c412c2dd83aa926ac",
+          "duration_seconds": 10.24,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-061.mp3",
+          "bytes": 69425,
+          "sha256": "82adca263dc5995dea2c24071eac245e8b9f639dcb7826064df87a122d5b4f9d",
+          "duration_seconds": 4.310204,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-062.mp3",
+          "bytes": 109549,
+          "sha256": "d9ecf9aeb2ede9692cd9850fd2771f19a0bb2e4fae71312c0c17ebe95bac3fd8",
+          "duration_seconds": 6.817959,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-063.mp3",
+          "bytes": 71515,
+          "sha256": "3f04e815f585233fbf2e7ed013f7d6200087c55f515e27605b4805a44a0f92c1",
+          "duration_seconds": 4.440816,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-064.mp3",
+          "bytes": 96174,
+          "sha256": "1ca706037bae3ac786b49c122206f1a5bcd2b13c787415fa6a68c9ed0f59f253",
+          "duration_seconds": 5.982041,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-065.mp3",
+          "bytes": 80710,
+          "sha256": "ff0065e4436b37da803afefdb5442900193cf9d263dfb0ef6da8d48ed55894dd",
+          "duration_seconds": 5.01551,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-066.mp3",
+          "bytes": 30137,
+          "sha256": "c49d4149314f6bad6face0063af2cbccf55b6d9a730229558d84b71643548344",
+          "duration_seconds": 1.854694,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-067.mp3",
+          "bytes": 32226,
+          "sha256": "3c9732712cdbf58d91d6e6c0854c22babdba03808e29c2756241d9abfc1952bc",
+          "duration_seconds": 1.985306,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-068.mp3",
+          "bytes": 33898,
+          "sha256": "75c1e1636c8a055971874d65bd825441fc78fa028f971612d425e415ac3152fd",
+          "duration_seconds": 2.089796,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-069.mp3",
+          "bytes": 30137,
+          "sha256": "a83d56c52d7f9ce03df758599ccb1f5b57e33a9d7e396dc37294fb9d5c3b001b",
+          "duration_seconds": 1.854694,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-070.mp3",
+          "bytes": 40586,
+          "sha256": "b5d2acf69ce489d8b817cc4197c042b0157b060738ef9539ba004353ca8b23d1",
+          "duration_seconds": 2.507755,
+          "changed": true
+        },
+        {
+          "file": "n5-p06-071.mp3",
+          "bytes": 47273,
+          "sha256": "8963f881bbf1f50819648c75524b4867be50b5bf7d65188028b5ce22062ad8a1",
+          "duration_seconds": 2.925714,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-026.mp3",
+          "bytes": 127521,
+          "sha256": "a7c014c78853aea989e09d187f0d589a245937374b774a1d2ec61b2f56c4bd9d",
+          "duration_seconds": 7.941224,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-027.mp3",
+          "bytes": 168063,
+          "sha256": "819c4d6c772468bae3ef8d2cd983ccc0ce9f71f257a3da4b9bb21ef6bebb2f29",
+          "duration_seconds": 10.475102,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-028.mp3",
+          "bytes": 168481,
+          "sha256": "ac9c310584d5d7e259ab21ac32e842de661a06ec1b2ccc5a701f3fffe2c1b869",
+          "duration_seconds": 10.501224,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-029.mp3",
+          "bytes": 119162,
+          "sha256": "fb9536cdb25ea868b8b8f722977d0935802c7fc27836b3e9864c8ce3102c6419",
+          "duration_seconds": 7.418776,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-030.mp3",
+          "bytes": 144239,
+          "sha256": "55d80da73f05854fe14f443fc46975dbab643eaac8985c5ada5f4da8a9351fcb",
+          "duration_seconds": 8.986122,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-031.mp3",
+          "bytes": 170571,
+          "sha256": "af2b74dc724af300dd3dccdd01d5e36ec3a558ada2279b59025fd334424acbaf",
+          "duration_seconds": 10.631837,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-032.mp3",
+          "bytes": 129611,
+          "sha256": "e03def131737af23c6ee78ec418e9adda4328118b709662a7b2927686380a9f9",
+          "duration_seconds": 8.071837,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-033.mp3",
+          "bytes": 129611,
+          "sha256": "d0d7a246199cbdcaadd8d7b396798f97bd3b44a45c68a8255b4d0356aa113d95",
+          "duration_seconds": 8.071837,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-034.mp3",
+          "bytes": 110385,
+          "sha256": "22aace9ed3be20f19330a8398a423564737961543687e169d5f714621fbdf6ea",
+          "duration_seconds": 6.870204,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-035.mp3",
+          "bytes": 130865,
+          "sha256": "729f57e7707ad028bfa795401c7c93ac753d0754dbab120a42d34c77f99bf79b",
+          "duration_seconds": 8.150204,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-036.mp3",
+          "bytes": 136298,
+          "sha256": "75f3f7819f9f040ad0ccd1448e172b1bfdf2d5806841701e465af8dac2f2cf63",
+          "duration_seconds": 8.489796,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-037.mp3",
+          "bytes": 92413,
+          "sha256": "d7dfa7a16008b5ce215b88f25eb4b5a90d255376a4c3cd7c8aece3e95ecca6a4",
+          "duration_seconds": 5.746939,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p05-038.mp3",
+          "bytes": 152181,
+          "sha256": "5313e20e4be60c8cb7c2ae3f66c5ee741ea3ff3e4fafcdddda086301c74f3bca",
+          "duration_seconds": 9.482449,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-026.mp3",
+          "bytes": 89905,
+          "sha256": "50922b7d3a5c87096ae47b1edf7844a90ad0b7d0e2543e5a97cda5f396c0fb14",
+          "duration_seconds": 5.590204,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-027.mp3",
+          "bytes": 138806,
+          "sha256": "6fcbc5bb58b7ebe649c8e4af5df5f7598c2c8994ba79604f2d8a3cfd2ae8ac9c",
+          "duration_seconds": 8.646531,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-028.mp3",
+          "bytes": 107459,
+          "sha256": "6b358e1b0169bbc0e35990b5da789be1abcad51b23e18907d1f0472e5dbfb3e5",
+          "duration_seconds": 6.687347,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-029.mp3",
+          "bytes": 147583,
+          "sha256": "ee3a3c91312ebda8fae9a39ce2405b7c1f0b153d32422229893610e67a6e8fb7",
+          "duration_seconds": 9.195102,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-030.mp3",
+          "bytes": 145911,
+          "sha256": "55832b2f37fa9ab139255e88e6210ce37b55af8a83574f5c5842aaa73fe20078",
+          "duration_seconds": 9.090612,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-031.mp3",
+          "bytes": 167227,
+          "sha256": "3c0450b16409ec9e092114180ddbb189566452a19bfe8448edb93272b79d7c7e",
+          "duration_seconds": 10.422857,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-032.mp3",
+          "bytes": 160540,
+          "sha256": "350c6d4ed9a25cf6128db3cd49ae5364983decfeb81cade8eecd7b7535b09f57",
+          "duration_seconds": 10.004898,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-033.mp3",
+          "bytes": 145911,
+          "sha256": "0019da835ea104de10d1700a720a3b3f1e509ed9ae8b16cae161891152f3d98d",
+          "duration_seconds": 9.090612,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-034.mp3",
+          "bytes": 153853,
+          "sha256": "fc5c337e481094ea617b0175223806c03a6890446284bb4e080ef1d7b73e4f59",
+          "duration_seconds": 9.586939,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-035.mp3",
+          "bytes": 167645,
+          "sha256": "b1ca0acac9073715b20ccda97dea0b6bd62de5b5c02db0837566c81b934de353",
+          "duration_seconds": 10.44898,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-036.mp3",
+          "bytes": 111221,
+          "sha256": "0f2c14c148f764842cd76df5eaff649d8bd00e60a036c5efc03610b2a1be9fd2",
+          "duration_seconds": 6.922449,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-037.mp3",
+          "bytes": 98682,
+          "sha256": "e6ca077a58bd5c7ca7ee25c097d26026fc79d1ece481713881184ccbe2d87888",
+          "duration_seconds": 6.138776,
+          "changed": true
+        },
+        {
+          "file": "jft-a1-p06-038.mp3",
+          "bytes": 140060,
+          "sha256": "3d0aac8152f2a60114038ed8ecb6124110b8c828f9c7cef6bcd5ef9fa3885b9a",
+          "duration_seconds": 8.724898,
+          "changed": true
+        },
+        {
+          "file": "tes-suara.mp3",
+          "bytes": 48527,
+          "sha256": "ec5f502a2f59de4a3a9c24d6419d13839372df4695f81bd5249f233d261c6044",
+          "duration_seconds": 3.004082,
+          "changed": true
+        }
+      ]
+    }
+  }
+}

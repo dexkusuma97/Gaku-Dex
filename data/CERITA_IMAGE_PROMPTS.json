@@ -1,0 +1,94 @@
+{
+  "mode": "built-in imagegen",
+  "assets": [
+    {
+      "file": "dist/assets/cerita/cover-kasa.webp",
+      "prompt": "Portrait 2:3 book-cover illustration, no text. Two Japanese schoolchildren Haru and Miki sharing one vivid blue umbrella on a rainy morning near a small Japanese train station, wooden buildings, wet paving, lush summer green foliage. Gentle friendship, warm interior lights, beautifully painted watercolor and gouache children's picture book, tactile paper, readable clear silhouettes, original characters, no logos or lettering."
+    },
+    {
+      "file": "dist/assets/cerita/cover-issun.webp",
+      "prompt": "Portrait 2:3 storybook cover, no text. Issun Boshi, a tiny brave Japanese boy with short black hair, teal kimono and red sash, holding a sewing needle as his sword, standing in a small brown lacquer soup bowl floating along a gentle river. One wooden chopstick as oar, huge reeds and a distant old Kyoto bridge, morning sunlight. Original watercolor and gouache picture book, warm cream, sage green and teal, subtle grain, charming expressive face, not a comic, no letters or logos."
+    },
+    {
+      "file": "dist/assets/cerita/issun-page-1.webp",
+      "prompt": "Landscape 3:2 original watercolor and gouache children's picture-book illustration, subtle paper texture, warm cream, sage green, teal palette. Inside a simple traditional Japanese wooden cottage, a kind gray-haired grandfather and grandmother smile with wonder at their tiny son Issun Boshi, a boy with short black hair wearing teal kimono and red sash, only three centimeters tall, standing on their open palm. Clearly tiny compared with people and tea cup. Warm gentle morning light. No text, no lettering, no panels, no watermark."
+    },
+    {
+      "file": "dist/assets/cerita/issun-page-2.webp",
+      "prompt": "Landscape 3:2 original watercolor and gouache children's picture-book illustration, warm cream, sage green and teal, subtle paper texture. Issun Boshi, tiny Japanese boy with short black hair, teal kimono and red sash, paddling a brown lacquer soup bowl using a wooden chopstick, down a sparkling river toward a historical Kyoto town with timber houses and wooden bridge, towering reeds show how tiny he is, cheerful adventure. Delicate sewing needle sheathed at his sash. No text, no lettering, no panels, no watermark."
+    },
+    {
+      "file": "dist/assets/cerita/issun-page-3.webp",
+      "prompt": "Landscape 3:2 original watercolor and gouache children's picture-book illustration, warm cream, sage green and teal, subtle paper texture. On an old Kyoto path near a temple, tiny Issun Boshi with short black hair, teal kimono and red sash bravely holds a sewing needle, protecting a kind young Japanese princess in a peach kimono. A large round red oni with small horns recoils with a surprised comical face, no violence or blood, family-friendly courage. The tiny boy stands on a stone, clearly tiny beside the princess. No text, lettering, panels or watermark."
+    },
+    {
+      "file": "dist/assets/cerita/issun-page-4.webp",
+      "prompt": "Landscape 3:2 original watercolor and gouache children's picture-book illustration, warm cream, sage green, teal palette, subtle paper texture. In a peaceful traditional Japanese garden, a kind young princess in a peach kimono lifts a small magical wooden mallet with a few soft golden sparkles. Issun Boshi, short black hair, teal kimono and red sash, now a normal-height young man, smiles beside her. Cherry blossom petals, warm afternoon sun, joyful gentle conclusion. No text, no lettering, no panels, no watermark."
+    },
+    {
+      "file": "dist/assets/cerita/kikimimi-page-1.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. An elderly kind woodcutter in indigo work clothes helps a tiny orange fox reach nuts on a tree branch; fox mother nearby presents a simple brown cloth hood as a thank-you. Woodland path, focus on kindness. No modern clothing."
+    },
+    {
+      "file": "dist/assets/cerita/kikimimi-page-2.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. The same elderly woodcutter wearing a brown cloth hood listens attentively beneath a branch with two black crows. In the background a large camphor tree has roots pressed against a small wooden storehouse. A worried father and daughter stand near the house. Magic is subtle."
+    },
+    {
+      "file": "dist/assets/cerita/kikimimi-page-3.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. The same smiling elderly woodcutter brings a basket of golden fried tofu to an orange fox mother and cub on a woodland path. Background: a healthy young woman and father wave from a house, big camphor tree with exposed comfortable roots and a storehouse now set farther away. Peaceful resolution."
+    },
+    {
+      "file": "dist/assets/cerita/nezumi-page-1.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. Two cute small anthropomorphic mice, one slender gray and one plump brown, practicing a friendly sumo match on a circular patch of forest earth. Gray mouse loses balance gently, no injury. Kindly elderly woodcutter wearing indigo watches from behind a tree."
+    },
+    {
+      "file": "dist/assets/cerita/nezumi-page-2.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. Kind elderly Japanese couple in indigo and russet kimono make little white mochi rice cakes in their modest wooden kitchen. Two tiny mice, slender gray and plump brown, sit near mochi and neatly folded small red sumo belts on a clean tray. Caring and playful."
+    },
+    {
+      "file": "dist/assets/cerita/nezumi-page-3.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. Same two adorable gray and brown mice wearing red sumo belts compete playfully and evenly on a forest dirt ring. Elderly couple cheer nearby. A small gold coin and rice sack by their cottage suggest a thankful gift. No violence, warm happy ending."
+    },
+    {
+      "file": "dist/assets/cerita/hanasaka-page-1.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. Kind elderly man in blue kimono and elderly wife in muted rose stand in their garden as their beloved fluffy white dog digs up a few oval gold coins. A second older neighbor in brown watches from behind a fence. Kind faces, dog joyful and safe."
+    },
+    {
+      "file": "dist/assets/cerita/hanasaka-page-2.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. Kind elderly Japanese man in blue sits peacefully beneath a large tree at dusk, remembering a beloved white dog whose soft dream-like silhouette appears in a cloud of pale light. Beside the man lies a small wooden mortar and a bowl of gray ashes. Tender wistful scene, no violence, no dead animal."
+    },
+    {
+      "file": "dist/assets/cerita/hanasaka-page-3.webp",
+      "prompt": "Use case: illustration-story. Original Japanese folktale picture-book watercolor and gouache on paper, warm gentle natural colors, delicate expressive faces, detailed but uncluttered, no writing, no letters, no panels, no watermark. One landscape 3:2 illustration. Traditional rural Japan. Kind elderly man in blue gently scatters a handful of ashes toward a previously bare cherry tree which bursts into beautiful pink blossoms. A passing feudal lord in dignified traditional clothing admires the flowers with attendants at a respectful distance. Springlike magic, joyful composition."
+    },
+    {
+      "file": "dist/assets/cerita/cover-bento.webp",
+      "prompt": "Use case: illustration-story. Portrait 2:3 original watercolor gouache Japanese graded-reader cover without any text or watermark. Young Japanese schoolgirl with short dark bob wearing yellow cardigan packing a colorful homemade bento box with rice and vegetables in a sunlit kitchen; warm intimate scene, quiet uncluttered upper right area for HTML title."
+    },
+    {
+      "file": "dist/assets/cerita/cover-neko.webp",
+      "prompt": "Use case: illustration-story. Portrait 2:3 original watercolor gouache Japanese graded-reader cover without text or watermark. A young Japanese boy in a teal hoodie carefully shelters a small calico kitten beside a blue park bench under a green tree; mother cat approaching in background, gentle afternoon light, simple composition, clear faces."
+    },
+    {
+      "file": "dist/assets/cerita/cover-toshokan.webp",
+      "prompt": "Use case: illustration-story. Portrait 2:3 original watercolor gouache Japanese graded-reader cover without text or watermark. Two young friends, Japanese boy in pale blue sweater and girl in apricot cardigan, look at an open illustrated animal book at a wooden table in a cozy Japanese public library. Sunlit windows, calm bookshelves, quiet reading mood."
+    }
+  ],
+  "cover_crops": [
+    {
+      "file": "dist/assets/cerita/cover-kikimimi.webp",
+      "from": "dist/assets/cerita/kikimimi-page-1.webp",
+      "method": "center crop portrait 2:3 from original generated raster"
+    },
+    {
+      "file": "dist/assets/cerita/cover-nezumi.webp",
+      "from": "dist/assets/cerita/nezumi-page-1.webp",
+      "method": "center crop portrait 2:3 from original generated raster"
+    },
+    {
+      "file": "dist/assets/cerita/cover-hanasaka.webp",
+      "from": "dist/assets/cerita/hanasaka-page-3.webp",
+      "method": "center crop portrait 2:3 from original generated raster"
+    }
+  ]
+}

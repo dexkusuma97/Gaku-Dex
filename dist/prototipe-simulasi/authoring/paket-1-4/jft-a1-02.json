@@ -1,0 +1,798 @@
+{
+  "id": "jft-a1-02",
+  "exam": "jft",
+  "number": 2,
+  "title": "Belanja dan lingkungan",
+  "level": "A1",
+  "status": "draft",
+  "questions": [
+    {
+      "id": "jft-a1-p02-001",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "あした <u>友達</u>に あいます。",
+      "options": [
+        "ゆうだち",
+        "ともだつ",
+        "ともだち",
+        "ともたち"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p02-002",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "いま <u>午後</u>2じです。",
+      "options": [
+        "ごご",
+        "ごぜん",
+        "ごうご",
+        "こうご"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p02-003",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "この <u>食べ物</u>は おいしいです。",
+      "options": [
+        "たべもん",
+        "たべもの",
+        "のみもの",
+        "たべぶつ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p02-004",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "<u>土曜日</u>に そうじを します。",
+      "options": [
+        "どよび",
+        "どようび",
+        "つちようび",
+        "とようひ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p02-005",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the word that matches the meaning.",
+      "idn": "Pilih kata yang sesuai dengan makna dalam kalimat.",
+      "jp": "「あした」は いつですか。",
+      "options": [
+        "きょうの つぎの ひ",
+        "きょうの まえの ひ",
+        "きのうの あさ",
+        "せんしゅうの ひ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p02-006",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the word that matches the meaning.",
+      "idn": "Pilih kata yang sesuai dengan makna dalam kalimat.",
+      "jp": "「おなかが すきました。」なにを したいですか。",
+      "options": [
+        "かみを きりたいです。",
+        "おふろに はいりたいです。",
+        "なにか たべたいです。",
+        "ふとんで ねたいです。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p02-007",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the word that matches the meaning.",
+      "idn": "Pilih kata yang sesuai dengan makna dalam kalimat.",
+      "jp": "「いそがしいです。」いま どうですか。",
+      "options": [
+        "する ことが ありません。",
+        "しごとが ぜんぶ おわりました。",
+        "いちにちじゅう やすめます。",
+        "する ことが たくさん あります。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p02-008",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "Choose the word that fits the blank.",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "あめが ふっています。（　）を さして いきます。",
+      "options": [
+        "ぼうし",
+        "めがね",
+        "てぶくろ",
+        "かさ"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p02-009",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "Choose the word that fits the blank.",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "ごはんを たべる とき、（　）を つかいます。",
+      "options": [
+        "タオル",
+        "くし",
+        "はし",
+        "はブラシ"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p02-010",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "Choose the word that fits the blank.",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "しごとが おわりました。いえに（　）。",
+      "options": [
+        "かえります",
+        "かします",
+        "ならいます",
+        "あけます"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p02-011",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the word that matches the meaning.",
+      "idn": "Pilih kata yang sesuai dengan makna dalam kalimat.",
+      "jp": "「電話」と かいて あります。なにを する ものですか。",
+      "options": [
+        "ごはんを あたためます。",
+        "とおくの ひとと はなします。",
+        "あしを あらいます。",
+        "へやを あたたかく します。"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p02-012",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the word that matches the meaning.",
+      "idn": "Pilih kata yang sesuai dengan makna dalam kalimat.",
+      "jp": "ケーキが 2こ あります。半分 たべます。いくつ たべますか。",
+      "options": [
+        "4こ",
+        "1こ",
+        "0こ",
+        "2こ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p02-013",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the word that matches the meaning.",
+      "idn": "Pilih kata yang sesuai dengan makna dalam kalimat.",
+      "jp": "「小さい」かばんは どれですか。",
+      "options": [
+        "あまり ものが はいらない かばん",
+        "たくさん ものが はいる おおきな かばん",
+        "とても ながい ひも",
+        "へやより おおきい はこ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p02-014",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：おくには どちらですか。\nB：（　）。",
+      "options": [
+        "はたちです",
+        "ひとりです",
+        "ベトナムです",
+        "こうじょうです"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p02-015",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：おなまえを おねがいします。\nB：（　）。",
+      "options": [
+        "しごとです",
+        "はるが すきです",
+        "あそこです",
+        "グエンです"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p02-016",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：にほんごが よく わかりません。（　） はなして ください。\nB：はい。",
+      "options": [
+        "はやく",
+        "たかく",
+        "ながく",
+        "ゆっくり"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p02-017",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：この おちゃは（　）ですか。\nB：120えんです。",
+      "options": [
+        "いつ",
+        "どこ",
+        "いくら",
+        "いくつ"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p02-018",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：みずを のみますか。\nB：はい、（　）。",
+      "options": [
+        "おねがいします",
+        "いってきます",
+        "ただいま",
+        "おやすみなさい"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p02-019",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：あかい シャツと あおい シャツ、どちらに しますか。\nB：（　）。",
+      "options": [
+        "2かいで うっています",
+        "あおい シャツを ください",
+        "シャツは 3まいです",
+        "きのう かいました"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p02-020",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：だいじょうぶですか。\nB：はい、（　）。てつだいは いりません。",
+      "options": [
+        "できません",
+        "だいじょうぶです",
+        "わかりません",
+        "こまっています"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p02-021",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：この へやで たばこを すっても いいですか。\nB：いいえ、ここでは（　）。",
+      "options": [
+        "すいました",
+        "すわないで ください",
+        "すって ください",
+        "すいましょう"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p02-022",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：でんしゃで いきますか。\nB：いいえ、（　）で いきます。",
+      "options": [
+        "みち",
+        "えき",
+        "バス",
+        "りんご"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p02-023",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：きのうの やすみは なにを しましたか。\nB：いえで（　）。",
+      "options": [
+        "やすみました",
+        "やすみます",
+        "やすみましょう",
+        "やすみませんか"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p02-024",
+      "section": 1,
+      "kind": "Percakapan · Di kasir",
+      "instruction": "Choose the expression that fits the situation.",
+      "idn": "Pilih ungkapan yang sesuai dengan situasi.",
+      "jp": "あなたは かばんを もっています。ふくろは いりません。\n店員：ふくろは いりますか。\nあなた：（　）。",
+      "options": [
+        "はい、おねがいします",
+        "はじめまして",
+        "おやすみなさい",
+        "いいえ、いりません"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p02-025",
+      "section": 1,
+      "kind": "Percakapan",
+      "instruction": "Choose the expression that fits the conversation.",
+      "idn": "Pilih ungkapan yang sesuai untuk melengkapi percakapan.",
+      "jp": "A：おかえりなさい。\nB：（　）。",
+      "options": [
+        "いってらっしゃい",
+        "おさきに しつれいします",
+        "はじめまして",
+        "ただいま"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p02-026",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "この ひとは どこで はたらいていますか。",
+      "options": [
+        "ホテル",
+        "レストラン",
+        "びょういん",
+        "ぎんこう"
+      ],
+      "answer": 0,
+      "audio": "こんにちは。ミーです。わたしは この まちの ホテルで はたらいています。どうぞ よろしく。",
+      "transcript": "こんにちは。ミーです。わたしは この まちの ホテルで はたらいています。どうぞ よろしく。"
+    },
+    {
+      "id": "jft-a1-p02-027",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "おんなの ひとは なんさいですか。",
+      "options": [
+        "22さい",
+        "25さい",
+        "23さい",
+        "20さい"
+      ],
+      "answer": 2,
+      "audio": "男：おいくつですか。女：23さいです。あには 25さいです。",
+      "transcript": "男：おいくつですか。女：23さいです。あには 25さいです。"
+    },
+    {
+      "id": "jft-a1-p02-028",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "おとこの ひとは なにを べんきょうしていますか。",
+      "options": [
+        "おんがく",
+        "にほんご",
+        "えいご",
+        "りょうり"
+      ],
+      "answer": 1,
+      "audio": "女：まいばん なにを していますか。男：にほんごを べんきょうしています。まいにち 30ぷんです。",
+      "transcript": "女：まいばん なにを していますか。男：にほんごを べんきょうしています。まいにち 30ぷんです。"
+    },
+    {
+      "id": "jft-a1-p02-029",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "おんなの ひとは どこで ひるごはんを たべますか。",
+      "options": [
+        "こうえん",
+        "かいしゃの しょくどう",
+        "レストラン",
+        "いえ"
+      ],
+      "answer": 1,
+      "audio": "男：きょうは レストランへ いきますか。女：いいえ、おべんとうを もって きました。かいしゃの しょくどうで たべます。",
+      "transcript": "男：きょうは レストランへ いきますか。女：いいえ、おべんとうを もって きました。かいしゃの しょくどうで たべます。"
+    },
+    {
+      "id": "jft-a1-p02-030",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "ふたりは なんじに あいますか。",
+      "options": [
+        "3じ",
+        "5じ",
+        "4じ",
+        "2じ"
+      ],
+      "answer": 2,
+      "audio": "女：3じに あいましょうか。男：3じは まだ しごとです。4じは どうですか。女：はい。4じに しましょう。",
+      "transcript": "女：3じに あいましょうか。男：3じは まだ しごとです。4じは どうですか。女：はい。4じに しましょう。"
+    },
+    {
+      "id": "jft-a1-p02-031",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "Listen and choose the appropriate action.",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "おきゃくさんは なにを たのみますか。",
+      "options": [
+        "うどんと みず",
+        "うどんと おちゃ",
+        "そばと みず",
+        "カレーと おちゃ"
+      ],
+      "answer": 0,
+      "audio": "店員：ごちゅうもんは。客：うどんを おねがいします。店員：おのみものは。客：みずを ください。",
+      "transcript": "店員：ごちゅうもんは。客：うどんを おねがいします。店員：おのみものは。客：みずを ください。"
+    },
+    {
+      "id": "jft-a1-p02-032",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "おきゃくさんは なにいろを えらびますか。",
+      "options": [
+        "あか",
+        "あお",
+        "くろ",
+        "しろ"
+      ],
+      "answer": 3,
+      "audio": "店員：この タオルは あかと あおと しろが あります。客：しろを ください。店員：はい、しろですね。",
+      "transcript": "店員：この タオルは あかと あおと しろが あります。客：しろを ください。店員：はい、しろですね。"
+    },
+    {
+      "id": "jft-a1-p02-033",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "びょういんは なんじからですか。",
+      "options": [
+        "8じ",
+        "9じ",
+        "9じはん",
+        "8じはん"
+      ],
+      "answer": 3,
+      "audio": "女：すみません。びょういんは あさ 8じからですか。男：いいえ、8じはんからです。女：わかりました。ありがとうございます。",
+      "transcript": "女：すみません。びょういんは あさ 8じからですか。男：いいえ、8じはんからです。女：わかりました。ありがとうございます。"
+    },
+    {
+      "id": "jft-a1-p02-034",
+      "section": 2,
+      "kind": "Menyimak · Konfirmasi instruksi",
+      "instruction": "Listen and choose the correct number of copies.",
+      "idn": "Dengarkan instruksi dan pilih jumlah salinan.",
+      "jp": "かみを なんまい コピーしますか。",
+      "options": [
+        "8まい",
+        "10まい",
+        "6まい",
+        "18まい"
+      ],
+      "answer": 0,
+      "audio": "男：この かみを 8まい コピーして ください。女：10まいですか。男：いいえ、8まいです。女：8まいですね。わかりました。",
+      "transcript": "男：この かみを 8まい コピーして ください。女：10まいですか。男：いいえ、8まいです。女：8まいですね。わかりました。"
+    },
+    {
+      "id": "jft-a1-p02-035",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "Listen and choose the appropriate action.",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "つぎに なにを しますか。",
+      "options": [
+        "かみを きります。",
+        "はこを そとに だします。",
+        "はさみを はこに いれます。",
+        "はさみを かいます。"
+      ],
+      "answer": 2,
+      "audio": "きょうの しごとは おわりです。つかった はさみを はこに いれて ください。それから かえっても いいです。",
+      "transcript": "きょうの しごとは おわりです。つかった はさみを はこに いれて ください。それから かえっても いいです。"
+    },
+    {
+      "id": "jft-a1-p02-036",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "つぎの でんしゃは どこへ いきますか。",
+      "options": [
+        "きたえき",
+        "やまだえき",
+        "さくらえき",
+        "みなみえき"
+      ],
+      "answer": 1,
+      "audio": "つぎの でんしゃは、やまだえきに いきます。さくらえきには いきません。さくらえきへは、つぎの つぎの でんしゃに おのり ください。",
+      "transcript": "つぎの でんしゃは、やまだえきに いきます。さくらえきには いきません。さくらえきへは、つぎの つぎの でんしゃに おのり ください。"
+    },
+    {
+      "id": "jft-a1-p02-037",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "Listen and choose the appropriate action.",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "かばんは どこに おきますか。",
+      "options": [
+        "ドアの そと",
+        "つくえの した",
+        "つくえの うえ",
+        "いすの うえ"
+      ],
+      "answer": 1,
+      "audio": "この へやでは、かばんを つくえの したに おいて ください。つくえの うえには おかないで ください。",
+      "transcript": "この へやでは、かばんを つくえの したに おいて ください。つくえの うえには おかないで ください。"
+    },
+    {
+      "id": "jft-a1-p02-038",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "Listen and choose the correct information.",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "あしたは なにを もって きますか。",
+      "options": [
+        "かさ",
+        "コート",
+        "ぼうし",
+        "おべんとう"
+      ],
+      "answer": 2,
+      "audio": "あしたは そとで しごとを します。あついので、ぼうしを もって きて ください。おひるごはんは こちらで よういします。",
+      "transcript": "あしたは そとで しごとを します。あついので、ぼうしを もって きて ください。おひるごはんは こちらで よういします。"
+    },
+    {
+      "id": "jft-a1-p02-039",
+      "section": 3,
+      "kind": "Bacaan pendek",
+      "instruction": "Read the text and answer the question.",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "アユさんは あした なにを しますか。",
+      "options": [
+        "びょういんへ いきます。",
+        "しごとを します。",
+        "かいものに いきます。",
+        "としょかんへ いきます。"
+      ],
+      "answer": 0,
+      "passage": "アユです。\nあしたは びょういんへ いきます。\nしごとは やすみます。\nよろしく おねがいします。"
+    },
+    {
+      "id": "jft-a1-p02-040",
+      "section": 3,
+      "kind": "Mencari informasi",
+      "instruction": "Read the notice and find the requested information.",
+      "idn": "Cari informasi yang diminta pada pengumuman.",
+      "jp": "この しょくどうは にちようびも あいていますか。",
+      "options": [
+        "はい、ひるだけ あいています。",
+        "はい、よるだけ あいています。",
+        "はい、いちにちじゅう あいています。",
+        "いいえ、やすみです。"
+      ],
+      "answer": 3,
+      "passage": "みどり しょくどう\nげつ〜ど：11:00〜20:00\nにち：やすみ"
+    },
+    {
+      "id": "jft-a1-p02-041",
+      "section": 3,
+      "kind": "Mencari informasi",
+      "instruction": "Read the notice and find the requested information.",
+      "idn": "Cari informasi yang diminta pada pengumuman.",
+      "jp": "パンを 3こ かいます。いくらですか。",
+      "options": [
+        "100えん",
+        "200えん",
+        "400えん",
+        "300えん"
+      ],
+      "answer": 3,
+      "passage": "パン 1こ 100えん\nミルク 1ぽん 120えん\nサンドイッチ 1こ 250えん"
+    },
+    {
+      "id": "jft-a1-p02-042",
+      "section": 3,
+      "kind": "Bacaan pendek",
+      "instruction": "Read the text and answer the question.",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "あしたは どこに あつまりますか。",
+      "options": [
+        "こうじょうの なか",
+        "えきの まえ",
+        "バスの なか",
+        "こうじょうの いりぐち"
+      ],
+      "answer": 3,
+      "passage": "あしたの あさ\n8じに こうじょうの いりぐちに あつまって ください。\nみんなで バスに のります。"
+    },
+    {
+      "id": "jft-a1-p02-043",
+      "section": 3,
+      "kind": "Membaca · Panduan lantai",
+      "instruction": "Read the floor guide and choose the correct floor.",
+      "idn": "Baca panduan dan pilih lantai yang sesuai.",
+      "jp": "テレビを かいたいです。なんかいへ いきますか。",
+      "options": [
+        "2かい",
+        "4かい",
+        "3かい",
+        "1かい"
+      ],
+      "answer": 2,
+      "passage": "ひなた デパート\n1かい：たべもの\n2かい：ふく・くつ\n3かい：でんきせいひん\n4かい：レストラン"
+    },
+    {
+      "id": "jft-a1-p02-044",
+      "section": 3,
+      "kind": "Bacaan pendek",
+      "instruction": "Read the text and answer the question.",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "じてんしゃは どこに おきますか。",
+      "options": [
+        "えきの うらの ちゅうりんじょう",
+        "えきの まえ",
+        "えきの なか",
+        "バスの のりば"
+      ],
+      "answer": 0,
+      "passage": "ここに じてんしゃを おかないで ください。\nじてんしゃは えきの うらの ちゅうりんじょうに おいて ください。"
+    },
+    {
+      "id": "jft-a1-p02-045",
+      "section": 3,
+      "kind": "Mencari informasi",
+      "instruction": "Read the notice and find the requested information.",
+      "idn": "Cari informasi yang diminta pada pengumuman.",
+      "jp": "にほんごの クラスは どの へやですか。",
+      "options": [
+        "207",
+        "205",
+        "201",
+        "203"
+      ],
+      "answer": 1,
+      "passage": "きょうの きょうしつ\nにほんご：205\nえいご：201\nりょうり：203\nおんがく：207"
+    },
+    {
+      "id": "jft-a1-p02-046",
+      "section": 3,
+      "kind": "Bacaan pendek",
+      "instruction": "Read the text and answer the question.",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "はこは どこに おきますか。",
+      "options": [
+        "つくえの なか",
+        "ドアの ちかく",
+        "たなの うえ",
+        "まどの した"
+      ],
+      "answer": 1,
+      "passage": "スリさんへ\nはこは ドアの ちかくに おいて ください。\nなかの かみは まだ つかいます。すてないで ください。"
+    },
+    {
+      "id": "jft-a1-p02-047",
+      "section": 3,
+      "kind": "Mencari informasi",
+      "instruction": "Read the notice and find the requested information.",
+      "idn": "Cari informasi yang diminta pada pengumuman.",
+      "jp": "おちゃは どこで かいますか。",
+      "options": [
+        "1かい",
+        "2かい",
+        "3かい",
+        "4かい"
+      ],
+      "answer": 0,
+      "passage": "みせの あんない\n1かい：たべもの・のみもの\n2かい：ふく・くつ\n3かい：でんきせいひん\n4かい：レストラン"
+    },
+    {
+      "id": "jft-a1-p02-048",
+      "section": 3,
+      "kind": "Bacaan pendek",
+      "instruction": "Read the text and answer the question.",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "きょう なにを かって かえりますか。",
+      "options": [
+        "たまごと パン",
+        "りんごと パン",
+        "ぎゅうにゅうと たまご",
+        "パンと ぎゅうにゅう"
+      ],
+      "answer": 2,
+      "passage": "おねがい\nきょう、かえりに ぎゅうにゅうと たまごを かって きて。\nパンは まだ あるから、いらないです。\nミナ"
+    },
+    {
+      "id": "jft-a1-p02-049",
+      "section": 3,
+      "kind": "Mencari informasi",
+      "instruction": "Read the notice and find the requested information.",
+      "idn": "Cari informasi yang diminta pada pengumuman.",
+      "jp": "500えんで なにが かえますか。",
+      "options": [
+        "さかなの ていしょく",
+        "にくの ていしょく",
+        "ラーメン",
+        "カレー"
+      ],
+      "answer": 3,
+      "passage": "ひるの メニュー\nカレー：500えん\nラーメン：600えん\nさかなの ていしょく：700えん\nにくの ていしょく：800えん"
+    },
+    {
+      "id": "jft-a1-p02-050",
+      "section": 3,
+      "kind": "Bacaan pendek",
+      "instruction": "Read the text and answer the question.",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "あたらしい じゅうしょは どれですか。",
+      "options": [
+        "さくらまち 2-8-5",
+        "みどりまち 2-5-8",
+        "さくらまち 5-2-8",
+        "さくらまち 2-5-8"
+      ],
+      "answer": 3,
+      "passage": "ひっこしました。\nあたらしい じゅうしょは\nさくらまち 2-5-8です。\nまえの みどりまちには もう すんでいません。"
+    }
+  ]
+}

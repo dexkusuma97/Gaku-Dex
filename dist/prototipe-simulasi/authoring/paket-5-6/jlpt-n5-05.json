@@ -1,0 +1,1142 @@
+{
+  "id": "jlpt-n5-05",
+  "exam": "jlpt",
+  "number": 5,
+  "title": "Makan, belanja, dan cuaca",
+  "level": "N5",
+  "status": "draft",
+  "questions": [
+    {
+      "id": "n5-p05-001",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "わたしの <u>学校</u>は えきの ちかくです。",
+      "options": [
+        "がくこう",
+        "がっこう",
+        "がっごう",
+        "かっこう"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-002",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "いま <u>電話</u>で はなして います。",
+      "options": [
+        "てんわ",
+        "でんは",
+        "でんわ",
+        "でんば"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-003",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "たんじょうびは <u>九月</u>です。",
+      "options": [
+        "きゅうがつ",
+        "くげつ",
+        "きゅうげつ",
+        "くがつ"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-004",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "いえの <u>外</u>で ねこが ねて います。",
+      "options": [
+        "そと",
+        "ほか",
+        "うち",
+        "がい"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-005",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "この <u>大きい</u> ぼうしは ちちのです。",
+      "options": [
+        "おおい",
+        "だいきい",
+        "おおきい",
+        "たいきい"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-006",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "まいにち ほんを <u>読みます</u>。",
+      "options": [
+        "よびます",
+        "やみます",
+        "どくみます",
+        "よみます"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-007",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "<u>一人</u>で えいがを みに いきました。",
+      "options": [
+        "いちにん",
+        "ひとり",
+        "ひとびと",
+        "いちじん"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-008",
+      "section": 0,
+      "kind": "Penulisan",
+      "instruction": "＿＿の ことばは どう かきますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "この <u>かわ</u>は ふかいです。",
+      "options": [
+        "川",
+        "山",
+        "三",
+        "小"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-009",
+      "section": 0,
+      "kind": "Penulisan",
+      "instruction": "＿＿の ことばは どう かきますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "あの <u>おとこ</u>の ひとは わたしの ちちです。",
+      "options": [
+        "田",
+        "力",
+        "男",
+        "女"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-010",
+      "section": 0,
+      "kind": "Penulisan",
+      "instruction": "＿＿の ことばは どう かきますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "こうえんは えきの <u>きた</u>に あります。",
+      "options": [
+        "北",
+        "東",
+        "西",
+        "南"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-011",
+      "section": 0,
+      "kind": "Penulisan",
+      "instruction": "＿＿の ことばは どう かきますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "ゆうべ、つよい <u>あめ</u>が ふりました。",
+      "options": [
+        "雪",
+        "雲",
+        "電",
+        "雨"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-012",
+      "section": 0,
+      "kind": "Penulisan",
+      "instruction": "＿＿の ことばは どう かきますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "あした、<u>れすとらん</u>で ごはんを たべます。",
+      "options": [
+        "レストラソ",
+        "レストラン",
+        "レスドラン",
+        "ルストラン"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-013",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "あした うみへ いきます。あついので、（　）を かぶります。",
+      "options": [
+        "ぼうし",
+        "てぶくろ",
+        "ネクタイ",
+        "くつした"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-014",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "ひるごはんを たべに（　）へ いきます。",
+      "options": [
+        "ぎんこう",
+        "ゆうびんきょく",
+        "としょかん",
+        "しょくどう"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-015",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "シャワーを あびた あと、（　）で からだを ふきます。",
+      "options": [
+        "ナイフ",
+        "フォーク",
+        "タオル",
+        "スプーン"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-016",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "つくえの うえに ほんを（　）。",
+      "options": [
+        "とります",
+        "おきます",
+        "かけます",
+        "ふります"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-017",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "この カレーは（　）ので、みずを たくさん のみました。",
+      "options": [
+        "あまい",
+        "からい",
+        "ひくい",
+        "やすい"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-018",
+      "section": 0,
+      "kind": "Kosakata dalam konteks",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih kata yang sesuai untuk mengisi bagian kosong.",
+      "jp": "なつは うみで（　）のが すきです。",
+      "options": [
+        "およぐ",
+        "ねむる",
+        "はく",
+        "のむ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-019",
+      "section": 0,
+      "kind": "Ungkapan searti",
+      "instruction": "だいたい おなじ いみの ぶんは どれですか。",
+      "idn": "Pilih kalimat yang maknanya paling dekat.",
+      "jp": "この ほんは やさしいです。",
+      "options": [
+        "この ほんは むずかしいです。",
+        "この ほんは たかいです。",
+        "この ほんは むずかしく ありません。",
+        "この ほんは おもいです。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-020",
+      "section": 0,
+      "kind": "Ungkapan searti",
+      "instruction": "だいたい おなじ いみの ぶんは どれですか。",
+      "idn": "Pilih kalimat yang maknanya paling dekat.",
+      "jp": "あした、がっこうは やすみです。",
+      "options": [
+        "あした、がっこうが はじまります。",
+        "あした、がっこうで ならいます。",
+        "あした、がっこうに かえります。",
+        "あした、がっこうへ いきません。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-021",
+      "section": 0,
+      "kind": "Ungkapan searti",
+      "instruction": "だいたい おなじ いみの ぶんは どれですか。",
+      "idn": "Pilih kalimat yang maknanya paling dekat.",
+      "jp": "かのじょは うたが じょうずです。",
+      "options": [
+        "かのじょは うたが すきでは ありません。",
+        "かのじょは うたを ならいます。",
+        "かのじょは うたが うまいです。",
+        "かのじょは うたが へたです。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-022",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "わたしは あした ともだち（　）えいがを みに いきます。",
+      "options": [
+        "と",
+        "を",
+        "へ",
+        "の"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-023",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "あさ 9じ（　）ごご 5じまで べんきょうします。",
+      "options": [
+        "と",
+        "から",
+        "を",
+        "が"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-024",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "ナイフ（　）パンを きります。",
+      "options": [
+        "を",
+        "に",
+        "の",
+        "で"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-025",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "ゆうべ、あめ（　）ふりました。",
+      "options": [
+        "を",
+        "へ",
+        "と",
+        "が"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-026",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "さんじ（　）あいましょう。",
+      "options": [
+        "を",
+        "で",
+        "に",
+        "が"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-027",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "まいあさ ミルク（　）のみます。",
+      "options": [
+        "が",
+        "を",
+        "に",
+        "で"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-028",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "つかれましたね。すこし やすみ（　）。",
+      "options": [
+        "ましょう",
+        "ません",
+        "ました",
+        "ませんでした"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-029",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "きのうは てんきが よく（　）。",
+      "options": [
+        "ないでした",
+        "ありませんです",
+        "なくだった",
+        "なかったです"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-030",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "えきの ちかくに おおきい スーパーが（　）。",
+      "options": [
+        "います",
+        "あります",
+        "いきます",
+        "あけます"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-031",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "すみません、もう すこし ゆっくり（　）ください。",
+      "options": [
+        "はなす",
+        "はなし",
+        "はなして",
+        "はなした"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-032",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "ははは いま だいどころで りょうりを（　）います。",
+      "options": [
+        "して",
+        "する",
+        "した",
+        "しない"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-033",
+      "section": 1,
+      "kind": "Tata bahasa",
+      "instruction": "（　）に なにを いれますか。",
+      "idn": "Pilih bentuk yang sesuai untuk melengkapi kalimat.",
+      "jp": "ここで しゃしんを とっては（　）。",
+      "options": [
+        "いいです",
+        "いけません",
+        "できます",
+        "ください"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-034",
+      "section": 1,
+      "kind": "Susun kalimat",
+      "instruction": "★ に はいる ことばは どれですか。",
+      "idn": "Susun keempat potongan. Pilih potongan pada posisi bintang.",
+      "jp": "これは ＿＿ ＿＿ ★ ＿＿ ほんです。",
+      "options": [
+        "にほんごの",
+        "きのう",
+        "かりた",
+        "としょかんで"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n5-p05-035",
+      "section": 1,
+      "kind": "Susun kalimat",
+      "instruction": "★ に はいる ことばは どれですか。",
+      "idn": "Susun keempat potongan. Pilih potongan pada posisi bintang.",
+      "jp": "この へやは ＿＿ ＿＿ ★ ＿＿ です。",
+      "options": [
+        "ずっと",
+        "あの",
+        "ひろい",
+        "へやより"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n5-p05-036",
+      "section": 1,
+      "kind": "Susun kalimat",
+      "instruction": "★ に はいる ことばは どれですか。",
+      "idn": "Susun keempat potongan. Pilih potongan pada posisi bintang.",
+      "jp": "この なかで ＿＿ ＿＿ ★ ＿＿ たかいですか。",
+      "options": [
+        "いちばん",
+        "が",
+        "どの",
+        "ほん"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n5-p05-037",
+      "section": 1,
+      "kind": "Susun kalimat",
+      "instruction": "★ に はいる ことばは どれですか。",
+      "idn": "Susun keempat potongan. Pilih potongan pada posisi bintang.",
+      "jp": "あそこで ＿＿ ＿＿ ★ ＿＿ ひとは わたしの せんせいです。",
+      "options": [
+        "ふくを",
+        "いる",
+        "くろい",
+        "きて"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n5-p05-038",
+      "section": 1,
+      "kind": "Tata bahasa teks",
+      "instruction": "ぶんしょうを よんで、（　）に はいる ことばを えらんで ください。",
+      "idn": "Baca teks dan pilih bagian yang sesuai untuk mengisi bagian kosong.",
+      "jp": "（　）に はいる ことばは どれですか。",
+      "options": [
+        "でも",
+        "だから",
+        "それから",
+        "しかし"
+      ],
+      "answer": 2,
+      "passage": "あさ、わたしは 6じに おきます。かおを あらいます。（　）、あさごはんを たべます。そして、7じに うちを でます。"
+    },
+    {
+      "id": "n5-p05-039",
+      "section": 1,
+      "kind": "Tata bahasa teks",
+      "instruction": "ぶんしょうを よんで、（　）に はいる ことばを えらんで ください。",
+      "idn": "Baca teks dan pilih bagian yang sesuai untuk mengisi bagian kosong.",
+      "jp": "（　）に はいる ことばは どれですか。",
+      "options": [
+        "でも",
+        "だから",
+        "それとも",
+        "しかし"
+      ],
+      "answer": 1,
+      "passage": "けさは ゆきでした。（　）、バスが おくれました。わたしは がっこうに 5ふん おくれました。"
+    },
+    {
+      "id": "n5-p05-040",
+      "section": 1,
+      "kind": "Tata bahasa teks",
+      "instruction": "ぶんしょうを よんで、（　）に はいる ことばを えらんで ください。",
+      "idn": "Baca teks dan pilih bagian yang sesuai untuk mengisi bagian kosong.",
+      "jp": "（　）に はいる ことばは どれですか。",
+      "options": [
+        "にひき",
+        "にほん",
+        "にだい",
+        "にまい"
+      ],
+      "answer": 0,
+      "passage": "わたしの いえには ねこが（　）います。しろい ねこと くろい ねこです。"
+    },
+    {
+      "id": "n5-p05-041",
+      "section": 1,
+      "kind": "Tata bahasa teks",
+      "instruction": "ぶんしょうを よんで、（　）に はいる ことばを えらんで ください。",
+      "idn": "Baca teks dan pilih bagian yang sesuai untuk mengisi bagian kosong.",
+      "jp": "（　）に はいる ことばは どれですか。",
+      "options": [
+        "ましょう",
+        "たいです",
+        "ません",
+        "ました"
+      ],
+      "answer": 2,
+      "passage": "わたしは コーヒーが すきです。でも、ねる まえには のみ（　）。ねられなく なりますから。"
+    },
+    {
+      "id": "n5-p05-042",
+      "section": 1,
+      "kind": "Bacaan pendek",
+      "instruction": "ぶんしょうを よんで、しつもんに こたえて ください。",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "やまださんは あした どうしますか。",
+      "options": [
+        "えいがを みに いきます。",
+        "うちで やすみます。",
+        "たなかさんの うちへ いきます。",
+        "びょういんで はたらきます。"
+      ],
+      "answer": 1,
+      "passage": "たなかさん\nあした、えいがの やくそくですが、わたしは かぜを ひきました。うちで やすみます。らいしゅう いっしょに みましょう。\nやまだ"
+    },
+    {
+      "id": "n5-p05-043",
+      "section": 1,
+      "kind": "Bacaan pendek",
+      "instruction": "ぶんしょうを よんで、しつもんに こたえて ください。",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "この ひとは なにを かいましたか。",
+      "options": [
+        "かさ",
+        "くつ",
+        "かばん",
+        "とけい"
+      ],
+      "answer": 0,
+      "passage": "きょう、ともだちと デパートへ いきました。くつを かいたかったですが、たかかったので かいませんでした。そして、やすい かさを ひとつ かいました。"
+    },
+    {
+      "id": "n5-p05-044",
+      "section": 1,
+      "kind": "Bacaan pendek",
+      "instruction": "ぶんしょうを よんで、しつもんに こたえて ください。",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "プールに はいれるのは いつですか。",
+      "options": [
+        "あしたの ごぜん",
+        "きょうの よる",
+        "らいしゅう",
+        "あしたの ひるごはんの あと"
+      ],
+      "answer": 3,
+      "passage": "あしたは プールの そうじの ひです。ごぜんは プールに はいれません。ひるごはんの あとで、みんなで はいりましょう。ぼうしを わすれないで ください。"
+    },
+    {
+      "id": "n5-p05-045",
+      "section": 1,
+      "kind": "Bacaan menengah",
+      "instruction": "ぶんしょうを よんで、しつもんに こたえて ください。",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "えきから おばあさんの いえまで、どうやって いきますか。",
+      "options": [
+        "あるいて 10ぷん",
+        "バスで 10ぷん",
+        "でんしゃで 1じかん",
+        "くるまで 30ぷん"
+      ],
+      "answer": 1,
+      "passage": "にちようびに、ともだちの リンさんと いっしょに、おばあさんの いえへ いきました。おばあさんの いえは やまの ちかくに あって、でんしゃで 1じかん ぐらい かかります。えきから いえまでは バスで 10ぷんです。おばあさんは わたしたちの ために、ひるごはんに ちいさい おにぎりと やさいの スープを つくって くれました。スープは すこし からかったですが、とても おいしかったです。ごはんの あとで、リンさんと さんぽを しました。かえりの でんしゃの なかで、リンさんは ねて しまいました。"
+    },
+    {
+      "id": "n5-p05-046",
+      "section": 1,
+      "kind": "Bacaan menengah",
+      "instruction": "ぶんしょうを よんで、しつもんに こたえて ください。",
+      "idn": "Baca teks dan jawab pertanyaannya.",
+      "jp": "らいげつ、この ふたりは なにを しますか。",
+      "options": [
+        "アンナさんの うちで えを かきます。",
+        "あおい はなを かいます。",
+        "えの せんせいに あいます。",
+        "こうえんで えを みんなに みせます。"
+      ],
+      "answer": 3,
+      "passage": "わたしの しゅみは えを かく ことです。まいしゅう どようびの ごご、うちの ちかくの こうえんへ いって、はなや きを かきます。ことしの はるから、ともだちの アンナさんも いっしょに かきます。アンナさんは えが とても じょうずです。さいしょは わたしの えを みて、「あおを もっと つかって みて ください」と いいました。それから、わたしは あおい いろを よく つかいます。らいげつ、こうえんで ふたりの えを みんなに みせます。"
+    },
+    {
+      "id": "n5-p05-047",
+      "section": 1,
+      "kind": "Mencari informasi",
+      "instruction": "おしらせを よんで、しつもんに こたえて ください。",
+      "idn": "Cari informasi yang diminta pada pengumuman.",
+      "jp": "おとなが かようびの ごご 8じに たいいくかんを つかいます。りょうきんは いくらですか。",
+      "options": [
+        "100えん",
+        "200えん",
+        "300えん",
+        "500えん"
+      ],
+      "answer": 1,
+      "passage": "みなと スポーツセンター\nプール：9:00〜20:00（げつようびは やすみ）\nたいいくかん：9:00〜21:00\nりょうきん：プール 300えん、たいいくかん 200えん\nこどもは どちらも はんがく\nヨガ（かようびの あさ 7:00〜8:00）は でんわで よやくを して ください。"
+    },
+    {
+      "id": "n5-p05-048",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "おんなの ひとは まず なにを しますか。",
+      "options": [
+        "ごみを すてます。",
+        "おきゃくさんに でんわします。",
+        "まどを あけます。",
+        "へやに はいります。"
+      ],
+      "answer": 2,
+      "audio": "男：あした おきゃくさんが きます。へやを きれいに して ください。女：はい。まず なにを しますか。男：まず まどを あけて、そのあとで ごみを すてて ください。 おんなの ひとは まず なにを しますか。",
+      "transcript": "男：あした おきゃくさんが きます。へやを きれいに して ください。女：はい。まず なにを しますか。男：まず まどを あけて、そのあとで ごみを すてて ください。 おんなの ひとは まず なにを しますか。"
+    },
+    {
+      "id": "n5-p05-049",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "おとこの ひとは これから なにを しますか。",
+      "options": [
+        "いすに すわります。",
+        "シャツを きます。",
+        "おかねを はらいます。",
+        "うちへ かえります。"
+      ],
+      "answer": 0,
+      "audio": "女：いらっしゃいませ。男：この シャツの おおきい サイズは ありますか。女：はい、ありますよ。ちょっと まって ください。あそこの いすに すわって まって ください。 おとこの ひとは これから なにを しますか。",
+      "transcript": "女：いらっしゃいませ。男：この シャツの おおきい サイズは ありますか。女：はい、ありますよ。ちょっと まって ください。あそこの いすに すわって まって ください。 おとこの ひとは これから なにを しますか。"
+    },
+    {
+      "id": "n5-p05-050",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "おとこの ひとは あした なにを もって いきますか。",
+      "options": [
+        "ペンと じしょ",
+        "えんぴつと じしょ",
+        "けしゴムと ペン",
+        "えんぴつと けしゴム"
+      ],
+      "answer": 3,
+      "audio": "女：あした テストですね。もちものを おしえます。えんぴつと けしゴムを もって きて ください。ペンは だめです。男：わかりました。じしょも いりますか。女：いいえ、じしょは いりません。 おとこの ひとは あした なにを もって いきますか。",
+      "transcript": "女：あした テストですね。もちものを おしえます。えんぴつと けしゴムを もって きて ください。ペンは だめです。男：わかりました。じしょも いりますか。女：いいえ、じしょは いりません。 おとこの ひとは あした なにを もって いきますか。"
+    },
+    {
+      "id": "n5-p05-051",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "おんなの ひとは なにを きりますか。",
+      "options": [
+        "にんじんと じゃがいも",
+        "たまねぎと にく",
+        "にくと にんじん",
+        "たまねぎと じゃがいも"
+      ],
+      "answer": 0,
+      "audio": "男：カレーを つくりますよ。女：わたしは なにを しますか。男：やさいを きって ください。たまねぎは きのう もう きりました。にんじんと じゃがいもを おねがいします。にくは わたしが きります。女：はい、わかりました。 おんなの ひとは なにを きりますか。",
+      "transcript": "男：カレーを つくりますよ。女：わたしは なにを しますか。男：やさいを きって ください。たまねぎは きのう もう きりました。にんじんと じゃがいもを おねがいします。にくは わたしが きります。女：はい、わかりました。 おんなの ひとは なにを きりますか。"
+    },
+    {
+      "id": "n5-p05-052",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "おとこの ひとは ふたつめの かどで どう しますか。",
+      "options": [
+        "ひだりへ まがります。",
+        "まっすぐ いきます。",
+        "みぎへ まがります。",
+        "えきへ もどります。"
+      ],
+      "answer": 2,
+      "audio": "男：すみません、ゆうびんきょくは どこですか。女：えきを でて、まっすぐ いって ください。ふたつめの かどを みぎへ まがります。ゆうびんきょくは ぎんこうの となりです。 おとこの ひとは ふたつめの かどで どう しますか。",
+      "transcript": "男：すみません、ゆうびんきょくは どこですか。女：えきを でて、まっすぐ いって ください。ふたつめの かどを みぎへ まがります。ゆうびんきょくは ぎんこうの となりです。 おとこの ひとは ふたつめの かどで どう しますか。"
+    },
+    {
+      "id": "n5-p05-053",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "ふたりは あした ひるごはんの まえに どこで あいますか。",
+      "options": [
+        "しょくどうで",
+        "パンやで",
+        "えきで",
+        "がっこうの まえで"
+      ],
+      "answer": 2,
+      "audio": "女：あしたの ひるごはんは どうしますか。男：がっこうの しょくどうは あしたは やすみです。女：じゃ、えきの ちかくの パンやに いきましょうか。男：いいですね。じゃ、12じに えきで あいましょう。 ふたりは あした ひるごはんの まえに どこで あいますか。",
+      "transcript": "女：あしたの ひるごはんは どうしますか。男：がっこうの しょくどうは あしたは やすみです。女：じゃ、えきの ちかくの パンやに いきましょうか。男：いいですね。じゃ、12じに えきで あいましょう。 ふたりは あした ひるごはんの まえに どこで あいますか。"
+    },
+    {
+      "id": "n5-p05-054",
+      "section": 2,
+      "kind": "Menyimak tugas",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan percakapan dan pilih tindakan yang sesuai.",
+      "jp": "おんなの ひとは にちようびに まず なにを しますか。",
+      "options": [
+        "えいがを みます。",
+        "ともだちの うちへ いきます。",
+        "かいものを します。",
+        "ケーキを つくります。"
+      ],
+      "answer": 3,
+      "audio": "女：にちようびに ともだちが うちに きます。男：そうですか。なにを しますか。女：えいがを みます。でも、その まえに ケーキを つくります。男：いいですね。 おんなの ひとは にちようびに まず なにを しますか。",
+      "transcript": "女：にちようびに ともだちが うちに きます。男：そうですか。なにを しますか。女：えいがを みます。でも、その まえに ケーキを つくります。男：いいですね。 おんなの ひとは にちようびに まず なにを しますか。"
+    },
+    {
+      "id": "n5-p05-055",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "えきへ いく バスは なんばんですか。",
+      "options": [
+        "1ばん",
+        "2ばん",
+        "3ばん",
+        "5ばん"
+      ],
+      "answer": 2,
+      "audio": "男：すみません、この バスは えきへ いきますか。女：いいえ、えきへ いく バスは 3ばんです。この バスは びょういんへ いきます。 えきへ いく バスは なんばんですか。",
+      "transcript": "男：すみません、この バスは えきへ いきますか。女：いいえ、えきへ いく バスは 3ばんです。この バスは びょういんへ いきます。 えきへ いく バスは なんばんですか。"
+    },
+    {
+      "id": "n5-p05-056",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "ふたりは なんじに どこで あいますか。",
+      "options": [
+        "6じ45ふん えいがかんの まえ",
+        "7じ30ぷん えいがかんの まえ",
+        "6じ45ふん えきの まえ",
+        "7じ30ぷん えきの まえ"
+      ],
+      "answer": 0,
+      "audio": "女：えいがは 7じ30ぷんからです。男：じゃ、6じ45ふんに えきで あいましょう。女：えきじゃなくて、えいがかんの まえが いいです。男：わかりました。そこに しましょう。 ふたりは なんじに どこで あいますか。",
+      "transcript": "女：えいがは 7じ30ぷんからです。男：じゃ、6じ45ふんに えきで あいましょう。女：えきじゃなくて、えいがかんの まえが いいです。男：わかりました。そこに しましょう。 ふたりは なんじに どこで あいますか。"
+    },
+    {
+      "id": "n5-p05-057",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "おとこの ひとは いくら はらいますか。",
+      "options": [
+        "120えん",
+        "300えん",
+        "360えん",
+        "420えん"
+      ],
+      "answer": 1,
+      "audio": "男：この りんごは いくらですか。女：3つで 300えんです。1つ だけなら 120えんです。男：じゃ、3つ ください。 おとこの ひとは いくら はらいますか。",
+      "transcript": "男：この りんごは いくらですか。女：3つで 300えんです。1つ だけなら 120えんです。男：じゃ、3つ ください。 おとこの ひとは いくら はらいますか。"
+    },
+    {
+      "id": "n5-p05-058",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "おとこの ひとには、あねと おとうとが あわせて なんにん いますか。",
+      "options": [
+        "2にん",
+        "3にん",
+        "4にん",
+        "5にん"
+      ],
+      "answer": 1,
+      "audio": "女：たなかさんは きょうだいが いますか。男：はい、あねが ひとりと おとうとが ふたり います。女：にぎやかですね。 おとこの ひとには、あねと おとうとが あわせて なんにん いますか。",
+      "transcript": "女：たなかさんは きょうだいが いますか。男：はい、あねが ひとりと おとうとが ふたり います。女：にぎやかですね。 おとこの ひとには、あねと おとうとが あわせて なんにん いますか。"
+    },
+    {
+      "id": "n5-p05-059",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "あしたの ごごの てんきは どうですか。",
+      "options": [
+        "はれ",
+        "くもり",
+        "ゆき",
+        "あめ"
+      ],
+      "answer": 3,
+      "audio": "女：あしたの てんきは どうですか。男：ごぜんは はれですが、ごごから あめです。女：じゃ、かさを もって いきます。 あしたの ごごの てんきは どうですか。",
+      "transcript": "女：あしたの てんきは どうですか。男：ごぜんは はれですが、ごごから あめです。女：じゃ、かさを もって いきます。 あしたの ごごの てんきは どうですか。"
+    },
+    {
+      "id": "n5-p05-060",
+      "section": 2,
+      "kind": "Menyimak informasi",
+      "instruction": "はなしを きいて、しつもんに こたえて ください。",
+      "idn": "Dengarkan dan pilih informasi yang sesuai.",
+      "jp": "おとこの ひとは ははに なにを あげますか。",
+      "options": [
+        "ケーキ",
+        "はな",
+        "ほん",
+        "かばん"
+      ],
+      "answer": 0,
+      "audio": "男：ははの たんじょうびに はなを あげたいです。女：おかあさんは はなが すきですか。男：いいえ、はなは あまり すきじゃ ありません。おかしが すきです。女：じゃ、ケーキは どうですか。男：いいですね。 おとこの ひとは ははに なにを あげますか。",
+      "transcript": "男：ははの たんじょうびに はなを あげたいです。女：おかあさんは はなが すきですか。男：いいえ、はなは あまり すきじゃ ありません。おかしが すきです。女：じゃ、ケーキは どうですか。男：いいですね。 おとこの ひとは ははに なにを あげますか。"
+    },
+    {
+      "id": "n5-p05-061",
+      "section": 2,
+      "kind": "Ungkapan lisan",
+      "instruction": "ばめんを きいて、いちばん いい ことばを えらんで ください。",
+      "idn": "Perhatikan situasi dan dengarkan. Pilih ungkapan yang sesuai.",
+      "jp": "この ひとは なんと いいますか。",
+      "options": [
+        "おはようございます。",
+        "ごちそうさまでした。",
+        "こんばんは。"
+      ],
+      "answer": 2,
+      "audio": "よるです。こうえんで ともだちの おかあさんに あいました。なんと いいますか。",
+      "transcript": "よるです。こうえんで ともだちの おかあさんに あいました。なんと いいますか。",
+      "scene": {
+        "type": "greeting",
+        "caption": "よる・こうえん"
+      }
+    },
+    {
+      "id": "n5-p05-062",
+      "section": 2,
+      "kind": "Ungkapan lisan",
+      "instruction": "ばめんを きいて、いちばん いい ことばを えらんで ください。",
+      "idn": "Perhatikan situasi dan dengarkan. Pilih ungkapan yang sesuai.",
+      "jp": "この ひとは なんと いいますか。",
+      "options": [
+        "ありがとう。",
+        "どういたしまして。",
+        "ごめんなさい。"
+      ],
+      "answer": 0,
+      "audio": "ともだちが きれいな はなを くれました。なんと いいますか。",
+      "transcript": "ともだちが きれいな はなを くれました。なんと いいますか。",
+      "scene": {
+        "type": "thanks",
+        "caption": "ともだちの たんじょうび"
+      }
+    },
+    {
+      "id": "n5-p05-063",
+      "section": 2,
+      "kind": "Ungkapan lisan",
+      "instruction": "ばめんを きいて、いちばん いい ことばを えらんで ください。",
+      "idn": "Perhatikan situasi dan dengarkan. Pilih ungkapan yang sesuai.",
+      "jp": "この ひとは なんと いいますか。",
+      "options": [
+        "どういたしまして。",
+        "ごめんなさい。",
+        "おめでとう。"
+      ],
+      "answer": 1,
+      "audio": "ともだちの ほんを おとして しまいました。なんと いいますか。",
+      "transcript": "ともだちの ほんを おとして しまいました。なんと いいますか。",
+      "scene": {
+        "type": "apology",
+        "caption": "がっこう・きょうしつ"
+      }
+    },
+    {
+      "id": "n5-p05-064",
+      "section": 2,
+      "kind": "Ungkapan lisan",
+      "instruction": "ばめんを きいて、いちばん いい ことばを えらんで ください。",
+      "idn": "Perhatikan situasi dan dengarkan. Pilih ungkapan yang sesuai.",
+      "jp": "この ひとは なんと いいますか。",
+      "options": [
+        "あの りんごを 4つ ください。",
+        "あの りんごを 4つ たべました。",
+        "あの りんごは 4つ あります。"
+      ],
+      "answer": 0,
+      "audio": "おみせで はたらいて いる ひとに おねがいします。あの おおきい りんごを 4つ ほしいです。なんと いいますか。",
+      "transcript": "おみせで はたらいて いる ひとに おねがいします。あの おおきい りんごを 4つ ほしいです。なんと いいますか。",
+      "scene": {
+        "type": "request",
+        "caption": "おみせ・りんご"
+      }
+    },
+    {
+      "id": "n5-p05-065",
+      "section": 2,
+      "kind": "Ungkapan lisan",
+      "instruction": "ばめんを きいて、いちばん いい ことばを えらんで ください。",
+      "idn": "Perhatikan situasi dan dengarkan. Pilih ungkapan yang sesuai.",
+      "jp": "この ひとは なんと いいますか。",
+      "options": [
+        "はじめまして。",
+        "おやすみなさい。",
+        "また あした。"
+      ],
+      "answer": 2,
+      "audio": "がっこうが おわりました。ともだちと わかれます。あしたも あいます。なんと いいますか。",
+      "transcript": "がっこうが おわりました。ともだちと わかれます。あしたも あいます。なんと いいますか。",
+      "scene": {
+        "type": "farewell",
+        "caption": "がっこう・ほうかご"
+      }
+    },
+    {
+      "id": "n5-p05-066",
+      "section": 2,
+      "kind": "Respons cepat",
+      "instruction": "はなしを きいて、いちばん いい へんじを えらんで ください。",
+      "idn": "Dengarkan dan pilih respons yang paling sesuai.",
+      "jp": "いちばん いい へんじは どれですか。",
+      "options": [
+        "そうしましょう。",
+        "そうですね。",
+        "そうでした。"
+      ],
+      "answer": 1,
+      "audio": "きょうは あついですね。",
+      "transcript": "きょうは あついですね。"
+    },
+    {
+      "id": "n5-p05-067",
+      "section": 2,
+      "kind": "Respons cepat",
+      "instruction": "はなしを きいて、いちばん いい へんじを えらんで ください。",
+      "idn": "Dengarkan dan pilih respons yang paling sesuai.",
+      "jp": "いちばん いい へんじは どれですか。",
+      "options": [
+        "どういたしまして。",
+        "ありがとうございます。",
+        "いってきます。"
+      ],
+      "answer": 1,
+      "audio": "かぜを ひいたんですか。おだいじに。",
+      "transcript": "かぜを ひいたんですか。おだいじに。"
+    },
+    {
+      "id": "n5-p05-068",
+      "section": 2,
+      "kind": "Respons cepat",
+      "instruction": "はなしを きいて、いちばん いい へんじを えらんで ください。",
+      "idn": "Dengarkan dan pilih respons yang paling sesuai.",
+      "jp": "いちばん いい へんじは どれですか。",
+      "options": [
+        "ともだちと いきます。",
+        "ごぜん 8じに いきます。",
+        "じてんしゃで いきます。"
+      ],
+      "answer": 2,
+      "audio": "いつも なにで がっこうへ いきますか。",
+      "transcript": "いつも なにで がっこうへ いきますか。"
+    },
+    {
+      "id": "n5-p05-069",
+      "section": 2,
+      "kind": "Respons cepat",
+      "instruction": "はなしを きいて、いちばん いい へんじを えらんで ください。",
+      "idn": "Dengarkan dan pilih respons yang paling sesuai.",
+      "jp": "いちばん いい へんじは どれですか。",
+      "options": [
+        "あの あかい のです。",
+        "はい、そうです。",
+        "いいえ、ありません。"
+      ],
+      "answer": 0,
+      "audio": "どの かばんが あなたのですか。",
+      "transcript": "どの かばんが あなたのですか。"
+    },
+    {
+      "id": "n5-p05-070",
+      "section": 2,
+      "kind": "Respons cepat",
+      "instruction": "はなしを きいて、いちばん いい へんじを えらんで ください。",
+      "idn": "Dengarkan dan pilih respons yang paling sesuai.",
+      "jp": "いちばん いい へんじは どれですか。",
+      "options": [
+        "いいえ、かいものでした。",
+        "はい、あしたでした。",
+        "いいですね。なんじに あいますか。"
+      ],
+      "answer": 2,
+      "audio": "あした、いっしょに かいものに いきませんか。",
+      "transcript": "あした、いっしょに かいものに いきませんか。"
+    },
+    {
+      "id": "n5-p05-071",
+      "section": 2,
+      "kind": "Respons cepat",
+      "instruction": "はなしを きいて、いちばん いい へんじを えらんで ください。",
+      "idn": "Dengarkan dan pilih respons yang paling sesuai.",
+      "jp": "いちばん いい へんじは どれですか。",
+      "options": [
+        "10じは どうですか。",
+        "10じに いきました。",
+        "10じかん かかります。"
+      ],
+      "answer": 0,
+      "audio": "あした、なんじに あいましょうか。",
+      "transcript": "あした、なんじに あいましょうか。"
+    }
+  ]
+}

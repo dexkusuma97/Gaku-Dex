@@ -1,0 +1,3504 @@
+[
+  {
+    "id": "n5-p01-048",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-048.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "これから ごはんを つくりますね。"
+      },
+      {
+        "speaker": "male",
+        "text": "ありがとう。でも、その まえに テーブルを ふいて ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい、わかりました。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-049",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-049.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あしたの パーティー、わたしは ケーキを もって いきます。"
+      },
+      {
+        "speaker": "male",
+        "text": "ぼくは ジュースですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "ジュースは あります。くだものを おねがいします。"
+      },
+      {
+        "speaker": "male",
+        "text": "わかりました。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-050",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-050.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あした、えきの なかで あいましょうか。"
+      },
+      {
+        "speaker": "female",
+        "text": "ひとが おおいですね。えきの まえの きっさてんは どうですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいですね。そこに しましょう。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-051",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-051.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この かみを 10まい コピーして ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "10まいですね。"
+      },
+      {
+        "speaker": "male",
+        "text": "それから、たなかさんの つくえに おいて ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。まず コピーします。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-052",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-052.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "りんごを よっつ ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "すみません。りんごは みっつしか ありません。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、みっつ ください。バナナは いりません。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-053",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-053.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "びょういんへ いく バスは 2ばんですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、2ばんは えきへ いきます。びょういんは 5ばんです。"
+      },
+      {
+        "speaker": "female",
+        "text": "ありがとうございます。5ばんですね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-054",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-054.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "かした じしょと ざっし、もう よみましたか。"
+      },
+      {
+        "speaker": "male",
+        "text": "じしょは まだ つかっています。ざっしは かばんに ありますから、いま かえします。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-055",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-055.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "たんじょうびは 6がつ10にちですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、それは あにです。わたしは 6がつ20にちです。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-056",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-056.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "まいにち でんしゃで かいしゃへ いきますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ。いえが ちかいので あるいて いきます。あめの ひだけ バスに のります。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-057",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-057.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あしたは いつもと おなじ 9じからですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、あしたは 30ぷん はやく はじめます。8じはんからです。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-058",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-058.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この あおい かばんは いくらですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "3000えんですが、きょうは 500えん やすいです。2500えんです。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、これを ください。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-059",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-059.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "きのうは どうしたんですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "あたまが いたかったので、がっこうを やすみました。"
+      },
+      {
+        "speaker": "female",
+        "text": "もう だいじょうぶですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい、げんきです。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-060",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-060.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "おおきい へやが いいですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、ちいさくても いいです。でも、あかるい へやが いいです。"
+      },
+      {
+        "speaker": "male",
+        "text": "この へやは まどが ふたつ ありますよ。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-061",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-061.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あさです。がっこうで せんせいに はじめて あいました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-062",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-062.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは たくさんの にもつを もっています。ともだちが にもつを ひとつ もって くれました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-063",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-063.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは バスで となりの ひとの あしを ふんで しまいました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-064",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-064.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "てが とどかない ところに ほんが あります。となりの ともだちに とって ほしいです。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-065",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-065.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは がっこうから かえります。ともだちは まだ べんきょうしています。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-066",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-066.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "この ペンを つかっても いいですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-067",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-067.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "おちゃを もう いっぱい いかがですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-068",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-068.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "しゅうまつは なにを しましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-069",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-069.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "この りょうりは どうですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-070",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-070.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "いっしょに ひるごはんを たべませんか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p01-071",
+    "pack": "jlpt-n5-01",
+    "file": "n5-p01-071.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "おくには どちらですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-048",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-048.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません。てがみを だしたいです。"
+      },
+      {
+        "speaker": "female",
+        "text": "ゆうびんきょくは あの ぎんこうの となりです。"
+      },
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。そこへ いきます。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-049",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-049.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この しょるいは これで いいですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。でも、なまえが ありません。ここに なまえを かいて ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "わかりました。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-050",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-050.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この ほんは どうですか。しゃしんが たくさん あります。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいですね。でも、わたしは にほんの りょうりの ほんを よみたいです。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、こちらです。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-051",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-051.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "しろい シャツを ください。"
+      },
+      {
+        "speaker": "male",
+        "text": "ながい そでですか。みじかい そでですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "あついので、みじかい そでを おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-052",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-052.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あしたは 9じに ここへ きて ください。"
+      },
+      {
+        "speaker": "male",
+        "text": "わかりました。"
+      },
+      {
+        "speaker": "female",
+        "text": "きたら、まず うけつけで カードを もらって ください。それから 2かいの へやへ いって ください。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-053",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-053.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "7じの でんしゃに のりますね。"
+      },
+      {
+        "speaker": "male",
+        "text": "でも、あしたは その でんしゃは ありません。つぎは 7じ20ぷんです。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、それに します。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-054",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-054.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "スーパーで たまごを かって きて。"
+      },
+      {
+        "speaker": "male",
+        "text": "パンは。"
+      },
+      {
+        "speaker": "female",
+        "text": "パンは まだ あるから、いらない。あと、トマトも おねがい。"
+      },
+      {
+        "speaker": "male",
+        "text": "うん。たまごと トマトだね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-055",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-055.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ごきょうだいは。"
+      },
+      {
+        "speaker": "male",
+        "text": "あねと おとうとが います。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、あなたと あわせて さんにんですね。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-056",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-056.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いま どこですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "えきです。まだ バスが きません。"
+      },
+      {
+        "speaker": "male",
+        "text": "そうですか。わたしは びょういんの まえで まっています。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-057",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-057.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "きょうは ほんの 20ページを よみましたね。しゅくだいは 21ページです。22ページは あした します。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-058",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-058.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "にほんには きょねん きましたか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、おととしです。きょねんの 4がつから この がっこうで べんきょうしています。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-059",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-059.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "これから おちゃを のみませんか。"
+      },
+      {
+        "speaker": "female",
+        "text": "すみません。こどもが いえで まっていますから、きょうは かえります。"
+      },
+      {
+        "speaker": "male",
+        "text": "そうですか。また こんど。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-060",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-060.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "しごとは 5じまでですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いつもは そうですが、きんようびだけ 4じに おわります。きょうは きんようびなので、4じです。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-061",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-061.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あたらしい クラスです。きょう はじめて となりの ひとと はなします。じぶんの なまえを いった あと、なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-062",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-062.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは ともだちの いえで ばんごはんを たべました。ぜんぶ たべた あと、なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-063",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-063.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ともだちと 2じに あう やくそくでしたが、あなたは 2じ20ぷんに きました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-064",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-064.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは みせに います。たなに ある ぼうしを みたいので、てんいんに たのみます。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-065",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-065.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは あさ、いえを でます。おかあさんは いえに います。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-066",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-066.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "すみません。いま なんじですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-067",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-067.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "この かさは だれのですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-068",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-068.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "もう ひるごはんを たべましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-069",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-069.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "すみません、トイレは どこですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-070",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-070.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "きのうの パーティーは どうでしたか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p02-071",
+    "pack": "jlpt-n5-02",
+    "file": "n5-p02-071.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "この にもつを おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-026",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-026.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "はじめまして。わたしは リナです。インドネシアから きました。どうぞ よろしく おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-027",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-027.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あさは なんじに おきますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "6じです。7じに いえを でます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-028",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-028.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ひとりで すんでいますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、あねと ふたりで すんでいます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-029",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-029.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "やすみの ひは なにを しますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "おんがくが すきなので、よく うたを ききます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-030",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-030.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あしたの にちようびは おやすみですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、あしたは しごとです。わたしは げつようびが やすみです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-031",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-031.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。"
+      },
+      {
+        "speaker": "male",
+        "text": "りんごを ふたつ ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "みかんも いかがですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、りんごだけで いいです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-032",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-032.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この おべんとうは いくらですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "500えんです。"
+      },
+      {
+        "speaker": "male",
+        "text": "ひとつ ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい、500えんです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-033",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-033.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません。くすりは どこで かえますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "くすりの みせは 2かいです。かいだんで 2かいへ いって ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-034",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-034.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません。この 3ばんの バスは みなみえきに いきますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ。この バスは こうえんへ いきます。みなみえきは 7ばんです。"
+      },
+      {
+        "speaker": "female",
+        "text": "7ばんですね。ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-035",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "みなさん、きょうの しごとを はじめます。まず、てを あらって ください。それから、しろい ぼうしを かぶって ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-036",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-036.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "おしらせします。つぎの バスは 10じ15ふんに でます。みなさん、1ばんのりばで おまち ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-037",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ここで くつを ぬいで ください。ぬいだ くつは、みぎの たなに おいて ください。かばんは そのまま もって はいって ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p01-038",
+    "pack": "jft-a1-01",
+    "file": "jft-a1-p01-038.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "きょうの しょくどうは ごご 1じまでです。いつもより 1じかん はやく しまります。よろしく おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-026",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-026.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "こんにちは。ミーです。わたしは この まちの ホテルで はたらいています。どうぞ よろしく。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-027",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-027.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "おいくつですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "23さいです。あには 25さいです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-028",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-028.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "まいばん なにを していますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "にほんごを べんきょうしています。まいにち 30ぷんです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-029",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-029.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "きょうは レストランへ いきますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、おべんとうを もって きました。かいしゃの しょくどうで たべます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-030",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-030.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "3じに あいましょうか。"
+      },
+      {
+        "speaker": "male",
+        "text": "3じは まだ しごとです。4じは どうですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。4じに しましょう。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-031",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-031.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ごちゅうもんは。"
+      },
+      {
+        "speaker": "male",
+        "text": "うどんを おねがいします。"
+      },
+      {
+        "speaker": "female",
+        "text": "おのみものは。"
+      },
+      {
+        "speaker": "male",
+        "text": "みずを ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-032",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-032.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この タオルは あかと あおと しろが あります。"
+      },
+      {
+        "speaker": "male",
+        "text": "しろを ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい、しろですね。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-033",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-033.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません。びょういんは あさ 8じからですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、8じはんからです。"
+      },
+      {
+        "speaker": "female",
+        "text": "わかりました。ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-034",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-034.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この かみを 8まい コピーして ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "10まいですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、8まいです。"
+      },
+      {
+        "speaker": "female",
+        "text": "8まいですね。わかりました。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-035",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "きょうの しごとは おわりです。つかった はさみを はこに いれて ください。それから かえっても いいです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-036",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-036.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "つぎの でんしゃは、やまだえきに いきます。さくらえきには いきません。さくらえきへは、つぎの つぎの でんしゃに おのり ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-037",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "この へやでは、かばんを つくえの したに おいて ください。つくえの うえには おかないで ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p02-038",
+    "pack": "jft-a1-02",
+    "file": "jft-a1-p02-038.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あしたは そとで しごとを します。あついので、ぼうしを もって きて ください。おひるごはんは こちらで よういします。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-048",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-048.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "映画は二時からですね。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。まだ三十分ありますね。先に切符を買いましょう。"
+      },
+      {
+        "speaker": "male",
+        "text": "切符はもう買いましたよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "そうですか。じゃあ、飲み物を買ってきます。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-049",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-049.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日は公園で昼ご飯を食べましょう。お弁当は私が作ります。"
+      },
+      {
+        "speaker": "male",
+        "text": "ありがとう。何か持っていきましょうか。"
+      },
+      {
+        "speaker": "female",
+        "text": "お茶をお願いします。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かりました。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-050",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-050.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません。郵便局はどこですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "この道をまっすぐ行くと、右に銀行があります。郵便局は銀行のとなりです。"
+      },
+      {
+        "speaker": "female",
+        "text": "ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-051",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-051.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません。机の上の紙を箱に入れてください。それから、窓を閉めてください。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。先に紙を片付けますね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-052",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-052.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "市役所へ行きたいんですが、何番のバスですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "三番です。一番は病院、二番は学校へ行きます。"
+      },
+      {
+        "speaker": "female",
+        "text": "三番ですね。ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-053",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-053.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お皿を並べてくれる。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。四つですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "今日はおばあちゃんも来るから、五つお願い。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-054",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-054.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この青いシャツをください。"
+      },
+      {
+        "speaker": "female",
+        "text": "すみません。青は小さいのしかありません。白なら大きいのもあります。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、大きい白を一枚ください。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-055",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-055.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この病院は何時までですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いつもは六時までですが、今日は土曜日ですから、十二時までです。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-056",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-056.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "明日は車で行きますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ。道が混むので電車で行きます。"
+      },
+      {
+        "speaker": "male",
+        "text": "駅から遠くないですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "歩いて五分ですから、大丈夫です。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-057",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-057.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "このパンを二つください。"
+      },
+      {
+        "speaker": "female",
+        "text": "一つ百二十円ですから、二百四十円です。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-058",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-058.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "金曜日に会いませんか。"
+      },
+      {
+        "speaker": "male",
+        "text": "金曜日は仕事です。土曜日はどうですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "私は土曜日はだめです。日曜日なら大丈夫です。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、そうしましょう。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-059",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-059.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "鍵がないんですが。"
+      },
+      {
+        "speaker": "female",
+        "text": "かばんの中を見ましたか。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。ありません。"
+      },
+      {
+        "speaker": "female",
+        "text": "あ、テレビの横にありますよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "あ、本当だ。ありがとう。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-060",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-060.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "夏が好きですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "夏は暑いですから、あまり好きじゃありません。春がいちばん好きです。花がきれいですから。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-061",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-061.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは朝、学校で先生に会いました。何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-062",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-062.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは道が分かりませんでした。知らない人が駅まで案内してくれました。その人に何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-063",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-063.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは友達の足を踏みました。友達に何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-064",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-064.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "窓が閉まっています。あなたは暑いです。窓の近くの友達に、窓を開けてほしいです。何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-065",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-065.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは友達と図書館にいます。友達より先に帰ります。友達に何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-066",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-066.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "すみません。ここに座ってもいいですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-067",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-067.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "明日、一緒にテニスをしませんか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-068",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-068.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "お国はどちらですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-069",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-069.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "このかばん、持ちましょうか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-070",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-070.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "駅までどのぐらいかかりますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p03-071",
+    "pack": "jlpt-n5-03",
+    "file": "n5-p03-071.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "お元気ですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-048",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-048.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "パーティーの準備は終わりましたか。"
+      },
+      {
+        "speaker": "male",
+        "text": "料理はできました。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃあ、お皿をテーブルに出してください。飲み物は私が用意します。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい、分かりました。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-049",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-049.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お母さんの誕生日に何を買おうかな。"
+      },
+      {
+        "speaker": "male",
+        "text": "花はどう。"
+      },
+      {
+        "speaker": "female",
+        "text": "花はお姉ちゃんが買うの。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、お母さんは本が好きだから、本はどう。"
+      },
+      {
+        "speaker": "female",
+        "text": "うん、そうする。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-050",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-050.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "バスは九時二十分です。家からバス停まで十分かかりますよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、五分前にはバス停に着きたいから、九時五分に出かけます。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-051",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-051.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "友達とは駅で会うんですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "最初は駅の前でしたが、雨ですから、駅の中の本屋で会います。"
+      },
+      {
+        "speaker": "male",
+        "text": "そのほうがいいですね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-052",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-052.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "もしもし、田中さんはいますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "今、買い物に行っています。帰ったら、電話しましょうか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、大丈夫です。あとで私から田中さんにかけます。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-053",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-053.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "靴はそこに置かないでね。"
+      },
+      {
+        "speaker": "male",
+        "text": "ドアの前はだめなの。"
+      },
+      {
+        "speaker": "female",
+        "text": "うん。靴の箱の中に入れてね。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かった。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-054",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-054.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この写真をおじいさんに送ってくれる。"
+      },
+      {
+        "speaker": "female",
+        "text": "手紙と一緒に送るの。"
+      },
+      {
+        "speaker": "male",
+        "text": "うん。封筒は机の上にあるよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃあ、今から郵便局へ行ってくるね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-055",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-055.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ケーキはチョコレートがいいですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "私はいちごが好きです。"
+      },
+      {
+        "speaker": "male",
+        "text": "チーズケーキもありますよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "でも、いちごにします。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-056",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-056.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "弟さんは部屋ですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ。さっき庭にいましたが、今は台所で母と料理をしています。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-057",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-057.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "夕飯は七時でいい。"
+      },
+      {
+        "speaker": "female",
+        "text": "今日はお父さんが八時に帰るから、八時半にしましょう。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かった。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-058",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-058.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "眠そうですね。"
+      },
+      {
+        "speaker": "female",
+        "text": "昨日、友達と遅くまで話していたんです。"
+      },
+      {
+        "speaker": "male",
+        "text": "仕事が忙しかったんじゃないんですね。"
+      },
+      {
+        "speaker": "female",
+        "text": "ええ。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-059",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-059.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "犬を飼っていますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "ええ。前は一匹でしたが、先月もう二匹来ました。"
+      },
+      {
+        "speaker": "female",
+        "text": "三匹ですね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-060",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-060.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "日曜日の試合は何時から。"
+      },
+      {
+        "speaker": "female",
+        "text": "天気が悪いから、月曜日に変わったよ。時間は同じで、午後二時から。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-061",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-061.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたの家に友達が来ました。玄関で友達を迎えます。何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-062",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-062.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "友達の家で晩ご飯を食べました。食事が終わりました。何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-063",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-063.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "友達と十時に会う約束でした。でも、あなたは十時半に来ました。友達に何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-064",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-064.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは写真を撮りたいです。知らない人に、あなたと友達の写真を撮ってほしいです。何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-065",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-065.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あなたは家を出て、買い物に行きます。家にいる家族に何と言いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-066",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-066.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "週末はどうでしたか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-067",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-067.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ジュース、もう一杯いかがですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-068",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-068.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "お兄さんはおいくつですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-069",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-069.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "一緒に帰りましょう。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-070",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-070.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "すみません。この椅子、使っていますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p04-071",
+    "pack": "jlpt-n5-04",
+    "file": "n5-p04-071.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "日本語の勉強はどうですか。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-026",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-026.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "お知らせします。正面の入口は使えません。右の入口から入ってください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-027",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-027.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "お知らせします。市役所前行きの電車は、四番線に来ます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-028",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-028.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "図書館へ行きたいです。どこで降りますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "次のバス停です。"
+      },
+      {
+        "speaker": "female",
+        "text": "次ですね。ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-029",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-029.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません。黒い財布を見ませんでしたか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ。どこで使いましたか。"
+      },
+      {
+        "speaker": "male",
+        "text": "この店の前です。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-030",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-030.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "大人の切符を三枚ください。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。九百円です。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-031",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-031.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この店はもう開いていますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "まだです。十時に開きます。今は九時半です。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-032",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-032.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "駅の前で会いましょう。"
+      },
+      {
+        "speaker": "male",
+        "text": "人が多いですね。駅の中の花屋の前はどうですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいですね。そこにしましょう。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-033",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-033.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この地図を一つください。"
+      },
+      {
+        "speaker": "female",
+        "text": "二百円です。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい、二百円ですね。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-034",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-034.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いま、どこに いますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "みなみえきに います。きたぐちでは ありません。みなみぐちの まえで まっています。"
+      },
+      {
+        "speaker": "female",
+        "text": "わかりました。いま いきます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-035",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-035.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "何にしますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "うどんを一つください。"
+      },
+      {
+        "speaker": "female",
+        "text": "飲み物はどうしますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "水でお願いします。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-036",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-036.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "日本語教室は三階です。エレベーターで上がってください。"
+      },
+      {
+        "speaker": "male",
+        "text": "三階ですね。ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-037",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "今日の会議は二〇一の部屋です。二〇三の部屋ではありません。気を付けてください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p03-038",
+    "pack": "jft-a1-03",
+    "file": "jft-a1-p03-038.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "荷物が多いですね。この袋を持ちましょうか。"
+      },
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。では、お願いします。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-026",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-026.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日はうちで昼ご飯を食べましょう。"
+      },
+      {
+        "speaker": "male",
+        "text": "何か持っていきましょうか。"
+      },
+      {
+        "speaker": "female",
+        "text": "果物をお願いします。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かりました。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-027",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-027.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "パーティーは土曜日の午後六時からです。五時半から部屋に入ることができます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-028",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-028.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "コーヒーをどうぞ。"
+      },
+      {
+        "speaker": "female",
+        "text": "ありがとうございます。でも、コーヒーは飲みません。お水をお願いします。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-029",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-029.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "お皿はどこ。"
+      },
+      {
+        "speaker": "female",
+        "text": "食器棚の中よ。コップの上じゃなくて、下にあるでしょう。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-030",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-030.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "今日は台所を掃除しました。明日はお風呂を掃除します。部屋は日曜日に掃除します。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-031",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-031.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "パンと卵はあります。牛乳がありません。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、買ってきます。"
+      },
+      {
+        "speaker": "female",
+        "text": "お願いします。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-032",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-032.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "一人で住んでいますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ。妹と二人で住んでいます。父と母は国にいます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-033",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-033.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いつも何時に寝ますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "十一時です。でも、明日は朝早く仕事があるので、今日は十時に寝ます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-034",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-034.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。"
+      },
+      {
+        "speaker": "male",
+        "text": "この ノートは いくらですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "1さつ 180えんです。"
+      },
+      {
+        "speaker": "male",
+        "text": "では、1さつ ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "180えんです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-035",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-035.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あ、エプロンを忘れました。"
+      },
+      {
+        "speaker": "male",
+        "text": "大丈夫です。ここにありますよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-036",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-036.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "お菓子を食べてもいい。"
+      },
+      {
+        "speaker": "female",
+        "text": "うん、二つだけね。もうすぐ晩ご飯だから。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かった。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-037",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-037.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お父さんの誕生日に、私は花を買います。お兄ちゃんは何をする。"
+      },
+      {
+        "speaker": "male",
+        "text": "僕はケーキを作るよ。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p04-038",
+    "pack": "jft-a1-04",
+    "file": "jft-a1-p04-038.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "土曜日は休みですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ。土曜日も日曜日も仕事です。休みは水曜日です。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-048",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-048.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あした おきゃくさんが きます。へやを きれいに して ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。まず なにを しますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "まず まどを あけて、そのあとで ごみを すてて ください。 おんなの ひとは まず なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-049",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-049.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。"
+      },
+      {
+        "speaker": "male",
+        "text": "この シャツの おおきい サイズは ありますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい、ありますよ。ちょっと まって ください。あそこの いすに すわって まって ください。 おとこの ひとは これから なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-050",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-050.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あした テストですね。もちものを おしえます。えんぴつと けしゴムを もって きて ください。ペンは だめです。"
+      },
+      {
+        "speaker": "male",
+        "text": "わかりました。じしょも いりますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、じしょは いりません。 おとこの ひとは あした なにを もって いきますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-051",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-051.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "カレーを つくりますよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "わたしは なにを しますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "やさいを きって ください。たまねぎは きのう もう きりました。にんじんと じゃがいもを おねがいします。にくは わたしが きります。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい、わかりました。 おんなの ひとは なにを きりますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-052",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-052.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません、ゆうびんきょくは どこですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "えきを でて、まっすぐ いって ください。ふたつめの かどを みぎへ まがります。ゆうびんきょくは ぎんこうの となりです。 おとこの ひとは ふたつめの かどで どう しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-053",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-053.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あしたの ひるごはんは どうしますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "がっこうの しょくどうは あしたは やすみです。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、えきの ちかくの パンやに いきましょうか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいですね。じゃ、12じに えきで あいましょう。 ふたりは あした ひるごはんの まえに どこで あいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-054",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-054.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "にちようびに ともだちが うちに きます。"
+      },
+      {
+        "speaker": "male",
+        "text": "そうですか。なにを しますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "えいがを みます。でも、その まえに ケーキを つくります。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいですね。 おんなの ひとは にちようびに まず なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-055",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-055.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません、この バスは えきへ いきますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、えきへ いく バスは 3ばんです。この バスは びょういんへ いきます。 えきへ いく バスは なんばんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-056",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-056.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "えいがは 7じ30ぷんからです。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、6じ45ふんに えきで あいましょう。"
+      },
+      {
+        "speaker": "female",
+        "text": "えきじゃなくて、えいがかんの まえが いいです。"
+      },
+      {
+        "speaker": "male",
+        "text": "わかりました。そこに しましょう。 ふたりは なんじに どこで あいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-057",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-057.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この りんごは いくらですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "3つで 300えんです。1つ だけなら 120えんです。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、3つ ください。 おとこの ひとは いくら はらいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-058",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-058.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "たなかさんは きょうだいが いますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい、あねが ひとりと おとうとが ふたり います。"
+      },
+      {
+        "speaker": "female",
+        "text": "にぎやかですね。 おとこの ひとには、あねと おとうとが あわせて なんにん いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-059",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-059.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あしたの てんきは どうですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "ごぜんは はれですが、ごごから あめです。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、かさを もって いきます。 あしたの ごごの てんきは どうですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-060",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-060.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ははの たんじょうびに はなを あげたいです。"
+      },
+      {
+        "speaker": "female",
+        "text": "おかあさんは はなが すきですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、はなは あまり すきじゃ ありません。おかしが すきです。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、ケーキは どうですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいですね。 おとこの ひとは ははに なにを あげますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-061",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-061.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "よるです。こうえんで ともだちの おかあさんに あいました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-062",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-062.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ともだちが きれいな はなを くれました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-063",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-063.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ともだちの ほんを おとして しまいました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-064",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-064.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "おみせで はたらいて いる ひとに おねがいします。あの おおきい りんごを 4つ ほしいです。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-065",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-065.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "がっこうが おわりました。ともだちと わかれます。あしたも あいます。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-066",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-066.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "きょうは あついですね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-067",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-067.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "かぜを ひいたんですか。おだいじに。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-068",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-068.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "いつも なにで がっこうへ いきますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-069",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-069.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "どの かばんが あなたのですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-070",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-070.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あした、いっしょに かいものに いきませんか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p05-071",
+    "pack": "jlpt-n5-05",
+    "file": "n5-p05-071.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あした、なんじに あいましょうか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-048",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-048.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。"
+      },
+      {
+        "speaker": "male",
+        "text": "すみません、あした ともだちが きます。パンを 5つ ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。ふくろに いれますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、はこに いれて ください。 おとこの ひとは パンを なにに いれて もらいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-049",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-049.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "もしもし、いま どこですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "えきの まえです。あめが ふって いるので、タクシーを まって います。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、ぼくが くるまで いきます。そこで まって いて ください。 おとこの ひとは これから なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-050",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-050.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この にもつを 2かいに はこびます。"
+      },
+      {
+        "speaker": "female",
+        "text": "わたしは なにを しますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "まず ドアを あけて ください。それから ダンボールを もって きて ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。 おんなの ひとは まず なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-051",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-051.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "スープを つくります。しおは まだ いれません。まず やさいを きって ください。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。やさいは なべに いれますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "まだです。 おとこの ひとは まず なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-052",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-052.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません、この ほんを かりたいです。"
+      },
+      {
+        "speaker": "male",
+        "text": "では、カードを みせて ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "カードを わすれました。"
+      },
+      {
+        "speaker": "male",
+        "text": "では、ここで なまえと でんわばんごうを かいて ください。 おんなの ひとは これから なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-053",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-053.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あした テストですから、きょうは はやく ねます。"
+      },
+      {
+        "speaker": "male",
+        "text": "まだ 8じですよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "でも、その まえに おふろに はいって、はを みがきます。 おんなの ひとは まず なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-054",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-054.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この はこを だれに わたしますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "やまださんに わたして ください。やまださんは いま きょうしつに います。"
+      },
+      {
+        "speaker": "male",
+        "text": "わかりました。もって いきます。 おとこの ひとは これから どこへ いきますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-055",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-055.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "せんせい、しゅくだいは いつまでですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "らいしゅうの げつようびです。でも、きんようびに もって きて くれたら、すぐ みます。"
+      },
+      {
+        "speaker": "female",
+        "text": "わかりました。じゃ、きんようびに もって いきます。 おんなの ひとは いつ しゅくだいを もって いきますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-056",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-056.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いま クラスに なんにん いますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "クラスは 10にんですが、きょうは 3にん やすみです。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、7にん ですね。 きょう、クラスに なんにん いますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-057",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-057.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この ぼうしは いくらですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "1つ 1,200えんです。2つ かうと、ぜんぶで 2,000えんです。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、2つ ください。 おんなの ひとは いくら はらいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-058",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-058.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "テストは なんじからですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "9じ15ふんからです。9じに きょうしつに はいって ください。 テストは なんじからですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-059",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-059.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "きのうの よる、なにを しましたか。"
+      },
+      {
+        "speaker": "female",
+        "text": "ともだちに でんわを して、それから テレビを みました。"
+      },
+      {
+        "speaker": "male",
+        "text": "しゅくだいは？"
+      },
+      {
+        "speaker": "female",
+        "text": "あ、わすれました！ おんなの ひとは きのうの よる、でんわの あとで なにを しましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-060",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-060.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あしたは さむく なりますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい、あさは 5どです。ひるは 12どに なります。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、あさは コートを きて いきます。 あしたの あさは なんどですか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-061",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-061.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ひさしぶりに ともだちに あいました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-062",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-062.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "かぜを ひいて やすみました。ともだちが ノートを かして くれました。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-063",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-063.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "しゅくだいを わすれました。せんせいに なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-064",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-064.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "としょかんです。となりの ひとの こえが おおきいです。なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-065",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-065.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あさ、かぞくが がっこうへ いきます。かぞくに なんと いいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-066",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-066.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "きょうは いい てんきですね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-067",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-067.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "にもつを もちましょうか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-068",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-068.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ゆうべは よく ねましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-069",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-069.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "おなかが すきましたね。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-070",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-070.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "らいしゅう、どこかへ いきますか。"
+      }
+    ]
+  },
+  {
+    "id": "n5-p06-071",
+    "pack": "jlpt-n5-06",
+    "file": "n5-p06-071.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "テレビの おとを ちいさく して ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-026",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-026.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ただいま、でんしゃが おくれて います。5ふんぐらい おくれて います。もう すこし おまち ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-027",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-027.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この シャツの ちいさい サイズは ありますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "すみません、ちいさいのは ありません。おおきいのと ふつうのが あります。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、ふつうのを ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-028",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-028.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ごちゅうもん ですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "ラーメンを ひとつと、ぎょうざを ふたつ おねがいします。"
+      },
+      {
+        "speaker": "female",
+        "text": "ぎょうざは ひとつに しますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、ふたつです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-029",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-029.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "もしもし、たなかです。きょうは あたまが いたいので、かいしゃを やすみます。すみません。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-030",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-030.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません、びょういんは どこですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "この みちを まっすぐ いって ください。ふたつめの かどを ひだりに まがると、みぎに あります。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-031",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-031.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "わたしの かぞくは 5にんです。ちちと ははと あにと いもうとと わたしです。あには かいしゃいんで、いもうとは がくせいです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-032",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-032.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "えいがは なんじに おわりますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "4じ20ぷんに おわります。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃあ、4じ30ぷんに えいがかんの まえで あいましょう。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-033",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-033.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "おしらせします。きょうは にくが とても やすいです。1パック 300えんです。ごご 6じまでです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-034",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-034.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あしたの てんきです。あさは くもりですが、ひるから あめが ふります。よるは はれます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-035",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-035.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "しゅうまつは なにを しましたか。"
+      },
+      {
+        "speaker": "female",
+        "text": "ともだちと テニスを しました。そのあと、いっしょに ごはんを たべました。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-036",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-036.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この へやは いくらですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "1かげつ 5まんえんです。えきから あるいて 10ぷんです。"
+      },
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。かんがえます。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-037",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-037.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "みなさん、ほんを だして ください。つぎに、32ページを ひらいて ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p05-038",
+    "pack": "jft-a1-05",
+    "file": "jft-a1-p05-038.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。"
+      },
+      {
+        "speaker": "male",
+        "text": "この ケーキを みっつ ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "はこに いれますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい、おねがいします。それから、ろうそくも ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-026",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-026.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません、きっぷうりばは どこですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "あの かいだんを おりて、ひだりです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-027",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-027.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "チェックインを おねがいします。"
+      },
+      {
+        "speaker": "female",
+        "text": "おなまえを おねがいします。"
+      },
+      {
+        "speaker": "male",
+        "text": "ワンです。"
+      },
+      {
+        "speaker": "female",
+        "text": "ワンさま、2かいの 205ごうしつです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-028",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-028.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "あしたは とても さむく なります。あさは 2どです。コートを きて でかけて ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-029",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-029.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ごみを すてて ください。"
+      },
+      {
+        "speaker": "male",
+        "text": "どこに すてますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "ドアの そばの はこです。もえる ごみは あおい はこに いれて ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-030",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-030.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "もしもし、さとうです。いま バスに のって います。5ふんぐらい おくれます。さきに はじめて ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-031",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-031.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この ぼうしは いくらですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "1,500えんです。"
+      },
+      {
+        "speaker": "male",
+        "text": "すこし たかいですね。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、こちらは 900えんです。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、それに します。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-032",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-032.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "らいしゅうの かいぎは なんようびですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "すいようびです。げつようびでは ありません。"
+      },
+      {
+        "speaker": "male",
+        "text": "なんじからですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "ごご 2じからです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-033",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-033.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "おしらせします。でんしゃが でる ばしょが かわりました。3ばんせんでは ありません。5ばんせんに いって ください。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-034",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-034.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ごはんは おおい ほうと すくない ほう、どちらが いいですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "すくない ほうを ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "のみものは？"
+      },
+      {
+        "speaker": "male",
+        "text": "おちゃを おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-035",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "わたしの しゅみは りょうりです。まいしゅう にちようびに、かぞくの ために ばんごはんを つくります。きのうは カレーを つくりました。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-036",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-036.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "みなさん、ペアに なって ください。あいてに しつもんを して ください。じかんは 5ふんです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-037",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-037.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この バスは びじゅつかんへ いきますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい、いきます。つぎの バスは 20ぷんごです。"
+      }
+    ]
+  },
+  {
+    "id": "jft-a1-p06-038",
+    "pack": "jft-a1-06",
+    "file": "jft-a1-p06-038.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "しゅうまつ、ともだちと ハイキングに いきます。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいですね。どこへ いきますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "やまです。あさ 6じに いえを でます。"
+      }
+    ]
+  }
+]

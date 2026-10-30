@@ -1,0 +1,62 @@
+DeX Gaku — audio Simulasi dengan pembicara berbeda
+
+222 soal menyimak (JLPT N5 & JFT latihan A1, paket 1–6), 487 potongan ucapan.
+129 soal berisi percakapan, sisanya narasi/ungkapan satu pembicara.
+Satu MP3 akhir per soal. Jeda 0,3 detik antargiliran. Label pembicara tidak dibaca.
+Teks soal dan jawaban tidak diubah. Bukan rekaman ujian resmi.
+
+DEFAULT VOICE
+Pria: xya0RvcJtofTcFTOdX4E
+Wanita: 0ptCJp0xgdabdcpVtCB5
+Narator: GxxMAMfQkDlnqjpzjLHH
+Peran tanpa gender eksplisit memakai penetapan editorial: guru/siswa/anak/pelanggan
+pria; petugas/toko/ibu wanita. Ini pilihan pemeran, bukan klaim gender baku profesi.
+
+LANGKAH TERMUX — jalankan satu per satu
+
+1. Pasang alat:
+pkg update
+pkg install nodejs curl ffmpeg unzip zip
+termux-setup-storage
+
+2. Ekstrak ZIP tanpa pertanyaan timpa:
+cd ~/storage/downloads
+unzip -o simulasi-audio-termux.zip
+cd simulasi-audio-termux
+
+3. Cek rencana tanpa memakai API/kuota:
+bash generate-simulasi-audio.sh --dry-run
+
+4. Masukkan key (jangan kirim ke chat):
+read -rsp "API Key ElevenLabs: " ELEVENLABS_API_KEY
+echo
+export ELEVENLABS_API_KEY
+
+5. Buat semua audio (memakai kuota ElevenLabs):
+bash generate-simulasi-audio.sh
+
+Atau satu paket dulu:
+bash generate-simulasi-audio.sh jlpt-n5-01
+bash generate-simulasi-audio.sh jft-a1-01
+Nomor paket dapat diganti 01–06.
+
+6. Setelah lengkap, buat ZIP:
+bash pack-audio.sh
+cp -f simulasi-audio-baru.zip ~/storage/downloads/
+unset ELEVENLABS_API_KEY
+
+Kirim simulasi-audio-baru.zip ke chat untuk dipasang ke web.
+Untuk mengirim satu paket saja: bash pack-audio.sh jlpt-n5-01
+
+VOICE TERKUNCI SESUAI PILIHAN 30 OKTOBER 2026
+ID pria, wanita, dan narator di atas sudah dipasang di generator.
+Variabel SIM_* lama di Termux diabaikan agar tidak memakai voice sebelumnya.
+Kecepatan: export ELEVENLABS_SPEED=0.85 (batas 0.7–1.2).
+
+Proses terputus? Jalankan perintah generator yang sama. Folder cache menyimpan
+potongan yang selesai; folder audio menyimpan MP3 akhir. Jangan hapus cache.
+Jika voice/teks/kecepatan berubah, hanya potongan terkait yang dibuat ulang dan
+MP3 soal digabung ulang otomatis. Bisa memakai kuota lagi.
+Jika HTTP error, proses berhenti supaya tidak menghabiskan banyak permintaan.
+Jangan jalankan dua generator sekaligus dalam folder ini. Jangan gunakan bash -x.
+API key hanya di lingkungan terminal, tidak dimasukkan ke berkas/ZIP.

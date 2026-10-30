@@ -1,0 +1,356 @@
+[
+  {
+    "id": "n5-p05-011",
+    "reason": "Kolokasi alami: hujan deras memakai つよい, bukan おおきい.",
+    "before": {
+      "jp": "ゆうべ、おおきい <u>あめ</u>が ふりました。"
+    },
+    "after": {
+      "jp": "ゆうべ、つよい <u>あめ</u>が ふりました。"
+    }
+  },
+  {
+    "id": "n5-p05-018",
+    "reason": "Hilangkan pilihan aktivitas lain yang juga dapat dilakukan di laut.",
+    "before": {
+      "options": [
+        "およぐ",
+        "はしる",
+        "とぶ",
+        "うたう"
+      ]
+    },
+    "after": {
+      "options": [
+        "およぐ",
+        "ねむる",
+        "はく",
+        "のむ"
+      ]
+    }
+  },
+  {
+    "id": "n5-p05-034",
+    "reason": "Rantai kepemilikan bisa dibalik dan membuat posisi bintang ambigu.",
+    "before": {
+      "jp": "あれは ＿＿ ＿＿ ★ ＿＿ です。",
+      "options": [
+        "ともだちの",
+        "わたしの",
+        "おとうさんの",
+        "くるま"
+      ],
+      "answer": 2
+    },
+    "after": {
+      "jp": "これは ＿＿ ＿＿ ★ ＿＿ ほんです。",
+      "options": [
+        "にほんごの",
+        "きのう",
+        "かりた",
+        "としょかんで"
+      ],
+      "answer": 2
+    }
+  },
+  {
+    "id": "n5-p05-036",
+    "reason": "Urutan makan dan mencuci muka dapat dibalik; ganti dengan rangkaian yang tunggal.",
+    "before": {
+      "jp": "あさ おきて、＿＿ ＿＿ ★ ＿＿ がっこうへ いきます。",
+      "options": [
+        "かおを",
+        "たべて",
+        "あらって",
+        "ごはんを"
+      ],
+      "answer": 3
+    },
+    "after": {
+      "jp": "この なかで ＿＿ ＿＿ ★ ＿＿ たかいですか。",
+      "options": [
+        "いちばん",
+        "が",
+        "どの",
+        "ほん"
+      ],
+      "answer": 1
+    }
+  },
+  {
+    "id": "n5-p05-058",
+    "reason": "Pertanyaan saudara bisa mencakup pembicara; sebutkan eksplisit tidak menghitung dirinya.",
+    "before": {
+      "audio": "女：たなかさんは きょうだいが いますか。男：はい、あねが ひとりと おとうとが ふたり います。女：にぎやかですね。 おとこの ひとの きょうだいは ぜんぶで なんにんですか。",
+      "transcript": "女：たなかさんは きょうだいが いますか。男：はい、あねが ひとりと おとうとが ふたり います。女：にぎやかですね。 おとこの ひとの きょうだいは ぜんぶで なんにんですか。",
+      "jp": "おとこの ひとの きょうだいは ぜんぶで なんにんですか。"
+    },
+    "after": {
+      "audio": "女：たなかさんは きょうだいが いますか。男：はい、あねが ひとりと おとうとが ふたり います。女：にぎやかですね。 おとこの ひとには、あねと おとうとが あわせて なんにん いますか。",
+      "transcript": "女：たなかさんは きょうだいが いますか。男：はい、あねが ひとりと おとうとが ふたり います。女：にぎやかですね。 おとこの ひとには、あねと おとうとが あわせて なんにん いますか。",
+      "jp": "おとこの ひとには、あねと おとうとが あわせて なんにん いますか。"
+    }
+  },
+  {
+    "id": "n5-p06-035",
+    "reason": "Susunan asli kehilangan penghubung dan posisi bintang ambigu.",
+    "before": {
+      "jp": "うちから ＿＿ ＿＿ ★ ＿＿ いきます。",
+      "options": [
+        "バスで",
+        "えきまで",
+        "あるいて",
+        "がっこうまで"
+      ],
+      "answer": 0
+    },
+    "after": {
+      "jp": "わたしは にほんごを ＿＿ ＿＿ ★ ＿＿ います。",
+      "options": [
+        "べんきょう",
+        "で",
+        "としょかん",
+        "して"
+      ],
+      "answer": 0
+    }
+  },
+  {
+    "id": "n5-p06-036",
+    "reason": "Dua pesanan bisa ditukar urutannya sehingga bintang tidak tunggal.",
+    "before": {
+      "jp": "すみません、＿＿ ＿＿ ★ ＿＿ ください。",
+      "options": [
+        "コーヒーを",
+        "ミルクを",
+        "ふたつと",
+        "ひとつ"
+      ],
+      "answer": 1
+    },
+    "after": {
+      "jp": "この かばんは ＿＿ ＿＿ ★ ＿＿ です。",
+      "options": [
+        "より",
+        "あの",
+        "やすい",
+        "かばん"
+      ],
+      "answer": 0
+    }
+  },
+  {
+    "id": "n5-p06-042",
+    "reason": "Nama pengirim りさ, bukan り.",
+    "before": {
+      "jp": "りさんは ばんごはんを どこで たべますか。"
+    },
+    "after": {
+      "jp": "りささんは ばんごはんを どこで たべますか。"
+    }
+  },
+  {
+    "id": "n5-p06-045",
+    "reason": "さきしゅうまつ salah tulis; gunakan せんしゅうの しゅうまつ.",
+    "before": {
+      "passage": "さきしゅうまつ、かぞくと うみの ちかくの ホテルに とまりました。とうきょうから でんしゃで 2じかん ぐらい かかりました。ホテルの へやから うみが よく みえました。ひるは うみで あそびました。みずが つめたかったので、わたしは あまり およぎませんでした。いもうとは ずっと およいで いました。よるは ホテルの レストランで さかなを たべました。あじは よかったですが、すこし たかかったです。あした、がっこうで ともだちに しゃしんを みせたいです。"
+    },
+    "after": {
+      "passage": "せんしゅうの しゅうまつ、かぞくと うみの ちかくの ホテルに とまりました。とうきょうから でんしゃで 2じかん ぐらい かかりました。ホテルの へやから うみが よく みえました。ひるは うみで あそびました。みずが つめたかったので、わたしは あまり およぎませんでした。いもうとは ずっと およいで いました。よるは ホテルの レストランで さかなを たべました。あじは よかったですが、すこし たかかったです。あした、がっこうで ともだちに しゃしんを みせたいです。"
+    }
+  },
+  {
+    "id": "n5-p06-059",
+    "reason": "Tidak menyimpulkan kegiatan terakhir sebelum tidur yang tidak dinyatakan.",
+    "before": {
+      "jp": "おんなの ひとは きのうの よる、いちばん さいごに なにを しましたか。"
+    },
+    "after": {
+      "jp": "おんなの ひとは きのうの よる、でんわの あとで なにを しましたか。"
+    }
+  },
+  {
+    "id": "n5-p06-059",
+    "reason": "Selaraskan pertanyaan audio dengan fokus kegiatan setelah telepon.",
+    "before": {
+      "audio": "男：きのうの よる、なにを しましたか。女：ともだちに でんわを して、それから テレビを みました。男：しゅくだいは？女：あ、わすれました！ おんなの ひとは きのうの よる、いちばん さいごに なにを しましたか。",
+      "transcript": "男：きのうの よる、なにを しましたか。女：ともだちに でんわを して、それから テレビを みました。男：しゅくだいは？女：あ、わすれました！ おんなの ひとは きのうの よる、いちばん さいごに なにを しましたか。"
+    },
+    "after": {
+      "audio": "男：きのうの よる、なにを しましたか。女：ともだちに でんわを して、それから テレビを みました。男：しゅくだいは？女：あ、わすれました！ おんなの ひとは きのうの よる、でんわの あとで なにを しましたか。",
+      "transcript": "男：きのうの よる、なにを しましたか。女：ともだちに でんわを して、それから テレビを みました。男：しゅくだいは？女：あ、わすれました！ おんなの ひとは きのうの よる、でんわの あとで なにを しましたか。"
+    }
+  },
+  {
+    "id": "jft-a1-p05-019",
+    "reason": "Pilihan bentuk lampau juga bisa menjadi jawaban alami; ganti dengan lokasi yang salah.",
+    "before": {
+      "options": [
+        "あの かいだんの よこでした",
+        "あの かいだんで のります",
+        "あの かいだんは いりません",
+        "あの かいだんの よこです"
+      ]
+    },
+    "after": {
+      "options": [
+        "あの かいだんの なかです",
+        "あの かいだんで のります",
+        "あの かいだんは いりません",
+        "あの かいだんの よこです"
+      ]
+    }
+  },
+  {
+    "id": "jft-a1-p05-025",
+    "reason": "いきたいです juga cocok sebagai penolakan tidak langsung; hilangkan jawaban alternatif.",
+    "before": {
+      "options": [
+        "いけません",
+        "いきたいです",
+        "いきました",
+        "いって います"
+      ]
+    },
+    "after": {
+      "options": [
+        "いけません",
+        "いけます",
+        "いきました",
+        "いって います"
+      ]
+    }
+  },
+  {
+    "id": "jft-a1-p05-031",
+    "reason": "Pertanyaan status pekerjaan, bukan aksi saat ini.",
+    "before": {
+      "jp": "いもうとさんは なにを して いますか。"
+    },
+    "after": {
+      "jp": "いもうとさんは がくせいですか、かいしゃいんですか。"
+    }
+  },
+  {
+    "id": "jft-a1-p05-037",
+    "reason": "Membuka halaman buku menggunakan ひらく; sebutkan buku, bukan halaman kosong di notebook.",
+    "before": {
+      "audio": "先生：みなさん、ノートを だして ください。つぎに、32ページを あけて ください。",
+      "transcript": "先生：みなさん、ノートを だして ください。つぎに、32ページを あけて ください。",
+      "options": [
+        "32ページを あけます。",
+        "ノートを かきます。",
+        "うたを うたいます。",
+        "いえへ かえります。"
+      ]
+    },
+    "after": {
+      "audio": "先生：みなさん、ほんを だして ください。つぎに、32ページを ひらいて ください。",
+      "transcript": "先生：みなさん、ほんを だして ください。つぎに、32ページを ひらいて ください。",
+      "options": [
+        "32ページを ひらきます。",
+        "ノートに かきます。",
+        "うたを うたいます。",
+        "いえへ かえります。"
+      ]
+    }
+  },
+  {
+    "id": "jft-a1-p05-038",
+    "reason": "Kotak juga diminta pelanggan; tanyakan tambahan sesudah permintaan kotak.",
+    "before": {
+      "jp": "おきゃくさんは ケーキの ほかに なにを ください と いいましたか。"
+    },
+    "after": {
+      "jp": "おきゃくさんは はこに いれて もらいます。その ほかに、なにが ほしいですか。"
+    }
+  },
+  {
+    "id": "jft-a1-p05-039",
+    "reason": "Surat baru menyatakan keinginan Yuta, belum kesepakatan dua orang.",
+    "before": {
+      "jp": "ふたりは あした どこで ひるごはんを たべますか。"
+    },
+    "after": {
+      "jp": "ゆうたさんは あした どこで ひるごはんを たべたいですか。"
+    }
+  },
+  {
+    "id": "jft-a1-p06-005",
+    "reason": "Anak dan guru juga dapat perempuan; opsi tidak saling tumpang tindih.",
+    "before": {
+      "options": [
+        "おとこの ひと",
+        "おんなの ひと",
+        "こども",
+        "せんせい"
+      ]
+    },
+    "after": {
+      "options": [
+        "おとこの ひと",
+        "おんなの ひと",
+        "だれも はいれません",
+        "みんな はいれます"
+      ]
+    }
+  },
+  {
+    "id": "jft-a1-p06-033",
+    "reason": "Perjelas yang berubah adalah peron keberangkatan, bukan kereta itu sendiri.",
+    "before": {
+      "audio": "おしらせします。この でんしゃは 3ばんせんから 5ばんせんに かわりました。5ばんせんに いって ください。",
+      "transcript": "おしらせします。この でんしゃは 3ばんせんから 5ばんせんに かわりました。5ばんせんに いって ください。",
+      "jp": "でんしゃは なんばんせんに きますか。"
+    },
+    "after": {
+      "audio": "おしらせします。でんしゃが でる ばしょが かわりました。3ばんせんでは ありません。5ばんせんに いって ください。",
+      "transcript": "おしらせします。でんしゃが でる ばしょが かわりました。3ばんせんでは ありません。5ばんせんに いって ください。",
+      "jp": "でんしゃは なんばんせんから でますか。"
+    }
+  },
+  {
+    "id": "jft-a1-p06-034",
+    "reason": "Porsi nasi lebih alami memakai おおい／すくない.",
+    "before": {
+      "audio": "店員：ごはんは おおきい ほうと ちいさい ほう、どちらが いいですか。客：ちいさい ほうを ください。店員：のみものは？客：おちゃを おねがいします。",
+      "transcript": "店員：ごはんは おおきい ほうと ちいさい ほう、どちらが いいですか。客：ちいさい ほうを ください。店員：のみものは？客：おちゃを おねがいします。",
+      "options": [
+        "おおきい ごはんと おちゃ",
+        "ちいさい ごはんと みず",
+        "ちいさい ごはんと おちゃ",
+        "おおきい ごはんと みず"
+      ]
+    },
+    "after": {
+      "audio": "店員：ごはんは おおい ほうと すくない ほう、どちらが いいですか。客：すくない ほうを ください。店員：のみものは？客：おちゃを おねがいします。",
+      "transcript": "店員：ごはんは おおい ほうと すくない ほう、どちらが いいですか。客：すくない ほうを ください。店員：のみものは？客：おちゃを おねがいします。",
+      "options": [
+        "ごはん おおめと おちゃ",
+        "ごはん すくなめと みず",
+        "ごはん すくなめと おちゃ",
+        "ごはん おおめと みず"
+      ]
+    }
+  },
+  {
+    "id": "jft-a1-p06-041",
+    "reason": "Jawaban asli dapat berarti tidak ada bus sama sekali pada Minggu.",
+    "before": {
+      "options": [
+        "はい、のれます。",
+        "はい、でも 9:00に でます。",
+        "いいえ、にちようびは ありません。",
+        "いいえ、8:10だけです。"
+      ]
+    },
+    "after": {
+      "options": [
+        "はい、のれます。",
+        "はい、でも 9:00に でます。",
+        "いいえ、にちようびに 9:15の バスは ありません。",
+        "いいえ、8:10だけです。"
+      ]
+    }
+  }
+]

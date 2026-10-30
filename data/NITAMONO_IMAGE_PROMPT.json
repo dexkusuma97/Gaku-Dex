@@ -1,0 +1,5 @@
+{
+  "mode": "built-in imagegen",
+  "asset": "dist/assets/cerita/cover-nitamono.webp",
+  "prompt": "Use case: illustration-story. Asset: portrait 2:3 book cover, original Japanese watercolor and gouache illustration with subtle paper grain, no lettering. Quiet high-school rooftop at late afternoon. Two fully clothed Japanese teen classmates at a respectful distance, both same age: a reserved boy with short dark tousled hair in a neat dark school uniform holding a schoolbag, and a girl with straight shoulder-length dark hair in an ordinary school blazer and skirt, relaxed natural smile instead of a perfect public mask. The boy stands partly in cool shade, the girl in gentle warm sunlight; both seem shy but finally understood, wistful friendship, a city skyline far behind a safe high rooftop fence. Balanced cinematic composition, sufficient empty sky in upper right for later vertical HTML title. Original character designs, not a copy of an existing manga panel. Natural anatomy, no cigarettes, no fighting, no injuries, no romance pose, no logos, no text, no watermark."
+}

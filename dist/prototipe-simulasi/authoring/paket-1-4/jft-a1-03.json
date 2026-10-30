@@ -1,0 +1,798 @@
+{
+  "id": "jft-a1-03",
+  "exam": "jft",
+  "number": 3,
+  "title": "Berjalan-jalan di kota",
+  "level": "A1",
+  "status": "draft",
+  "questions": [
+    {
+      "id": "jft-a1-p03-001",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the correct reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "ここは <u>入口</u>です。",
+      "options": [
+        "まどぐち",
+        "ひじょうぐち",
+        "でぐち",
+        "いりぐち"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p03-002",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the correct reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "まちの <u>北</u>に えきが あります。",
+      "options": [
+        "ひがし",
+        "にし",
+        "みなみ",
+        "きた"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p03-003",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the correct reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "この バスは <u>九時</u>に でます。",
+      "options": [
+        "きゅうじ",
+        "ここのじ",
+        "くうじ",
+        "くじ"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p03-004",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the correct reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "<u>左</u>に まがって ください。",
+      "options": [
+        "ひだり",
+        "みぎ",
+        "うしろ",
+        "まえ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p03-005",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the correct reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "<u>水</u>を ください。",
+      "options": [
+        "あめ",
+        "みず",
+        "こおり",
+        "ゆ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p03-006",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the correct reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "<u>地下鉄</u>に のります。",
+      "options": [
+        "ひこうき",
+        "じてんしゃ",
+        "ちかてつ",
+        "でんしゃ"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p03-007",
+      "section": 0,
+      "kind": "Pemakaian kosakata",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "バスに のる まえに、ここで（　）を かいます。",
+      "options": [
+        "はし",
+        "いす",
+        "くつ",
+        "きっぷ"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p03-008",
+      "section": 0,
+      "kind": "Pemakaian kosakata",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "でんしゃが きます。きいろい（　）の うしろで まって ください。",
+      "options": [
+        "せん",
+        "いえ",
+        "はこ",
+        "かさ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p03-009",
+      "section": 0,
+      "kind": "Pemakaian kosakata",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "あの たてものの なかに コンビニが（　）。",
+      "options": [
+        "います",
+        "きます",
+        "のみます",
+        "あります"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p03-010",
+      "section": 0,
+      "kind": "Pemakaian kosakata",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "この かばんは（　）です。なかに ほんが 20さつ あります。",
+      "options": [
+        "おもい",
+        "あかるい",
+        "からい",
+        "あまい"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p03-011",
+      "section": 0,
+      "kind": "Pemakaian kosakata",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "みちが わかりません。（　）で ききます。",
+      "options": [
+        "だいどころ",
+        "こうばん",
+        "ベッド",
+        "おふろ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p03-012",
+      "section": 0,
+      "kind": "Pemakaian kosakata",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "しんごうが あかです。ここで（　）ください。",
+      "options": [
+        "のんで",
+        "かいて",
+        "まって",
+        "あらって"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p03-013",
+      "section": 0,
+      "kind": "Pemakaian kosakata",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "てがみを だしたいです。（　）は どこですか。",
+      "options": [
+        "ゆうびんきょく",
+        "にくや",
+        "くつや",
+        "とこや"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p03-014",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：すみません。びじゅつかんは どこですか。\nB：（　）。",
+      "options": [
+        "ふたりです",
+        "あの あかい たてものです",
+        "500えんです",
+        "らいしゅうです"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p03-015",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：この バスは えきへ いきますか。\nB：はい、（　）。",
+      "options": [
+        "います",
+        "いきます",
+        "あります",
+        "かいます"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p03-016",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：きっぷは いくらですか。\nB：（　）。",
+      "options": [
+        "2ばんです",
+        "5じです",
+        "3にんです",
+        "250えんです"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a1-p03-017",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：ここで しゃしんを とっても いいですか。\nB：いいえ、（　）。",
+      "options": [
+        "とらないで ください",
+        "みせて ください",
+        "どうぞ",
+        "とって ください"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p03-018",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：すみません。この ちかくに トイレは ありますか。\nB：ええ、（　）。",
+      "options": [
+        "あした かえります",
+        "きょうは いい てんきです",
+        "あの みせの なかに あります",
+        "まいにち たべます"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p03-019",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：ちずを みせて ください。\nB：はい、（　）。",
+      "options": [
+        "ただいま",
+        "どうぞ",
+        "おやすみなさい",
+        "いただきます"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p03-020",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：ちょっと つかれました。\nB：じゃあ、ここで（　）。",
+      "options": [
+        "やすみですか",
+        "やすみましょう",
+        "やすみました",
+        "やすみませんでした"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p03-021",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：すみません。この せきは あいていますか。\nB：はい。（　）。",
+      "options": [
+        "たべないで ください",
+        "あした あいます",
+        "すわっても いいですよ",
+        "きっぷを かいました"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p03-022",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：えきまで あるいて どのぐらいですか。\nB：（　）。",
+      "options": [
+        "15まいです",
+        "15さいです",
+        "15ふんぐらいです",
+        "15ばんです"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a1-p03-023",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：いっしょに ひるごはんを たべませんか。\nB：いいですね。（　）。",
+      "options": [
+        "たべませんでした",
+        "たべましょう",
+        "たべていますか",
+        "たべました"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p03-024",
+      "section": 1,
+      "kind": "Percakapan · Keluarga dan umur",
+      "instruction": "Choose the question that fits the conversation.",
+      "idn": "Pilih pertanyaan yang sesuai untuk percakapan.",
+      "jp": "A：おかあさんは（　）。\nB：55さいです。",
+      "options": [
+        "なんようびですか",
+        "おいくつですか",
+        "おいくらですか",
+        "なんじですか"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a1-p03-025",
+      "section": 1,
+      "kind": "Percakapan & ungkapan",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "A：この かさは あなたのですか。\nB：いいえ、（　）。",
+      "options": [
+        "わたしのでは ありません",
+        "わたしで いきます",
+        "わたしを ください",
+        "わたしは ありません"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a1-p03-026",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "どの いりぐちから はいりますか。",
+      "options": [
+        "うしろの いりぐち",
+        "しょうめんの いりぐち",
+        "みぎの いりぐち",
+        "ひだりの いりぐち"
+      ],
+      "answer": 2,
+      "audio": "お知らせします。正面の入口は使えません。右の入口から入ってください。",
+      "transcript": "お知らせします。正面の入口は使えません。右の入口から入ってください。"
+    },
+    {
+      "id": "jft-a1-p03-027",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "でんしゃは なんばん せんに きますか。",
+      "options": [
+        "4ばんせん",
+        "3ばんせん",
+        "1ばんせん",
+        "2ばんせん"
+      ],
+      "answer": 0,
+      "audio": "お知らせします。市役所前行きの電車は、四番線に来ます。",
+      "transcript": "お知らせします。市役所前行きの電車は、四番線に来ます。"
+    },
+    {
+      "id": "jft-a1-p03-028",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "おんなの ひとは どこで おりますか。",
+      "options": [
+        "つぎの バスてい",
+        "しやくしょ",
+        "いまの バスてい",
+        "えき"
+      ],
+      "answer": 0,
+      "audio": "女：図書館へ行きたいです。どこで降りますか。男：次のバス停です。女：次ですね。ありがとうございます。",
+      "transcript": "女：図書館へ行きたいです。どこで降りますか。男：次のバス停です。女：次ですね。ありがとうございます。"
+    },
+    {
+      "id": "jft-a1-p03-029",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "おとこの ひとは なにを さがしていますか。",
+      "options": [
+        "あかい とけい",
+        "しろい かさ",
+        "くろい かばん",
+        "くろい さいふ"
+      ],
+      "answer": 3,
+      "audio": "男：すみません。黒い財布を見ませんでしたか。女：いいえ。どこで使いましたか。男：この店の前です。",
+      "transcript": "男：すみません。黒い財布を見ませんでしたか。女：いいえ。どこで使いましたか。男：この店の前です。"
+    },
+    {
+      "id": "jft-a1-p03-030",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "おんなの ひとは なんまい かいますか。",
+      "options": [
+        "1まい",
+        "3まい",
+        "2まい",
+        "4まい"
+      ],
+      "answer": 1,
+      "audio": "女：大人の切符を三枚ください。男：はい。九百円です。",
+      "transcript": "女：大人の切符を三枚ください。男：はい。九百円です。"
+    },
+    {
+      "id": "jft-a1-p03-031",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "みせは なんじに あきますか。",
+      "options": [
+        "9じはん",
+        "10じ",
+        "9じ",
+        "10じはん"
+      ],
+      "answer": 1,
+      "audio": "男：この店はもう開いていますか。女：まだです。十時に開きます。今は九時半です。",
+      "transcript": "男：この店はもう開いていますか。女：まだです。十時に開きます。今は九時半です。"
+    },
+    {
+      "id": "jft-a1-p03-032",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "ふたりは どこで あいますか。",
+      "options": [
+        "バスてい",
+        "えきの そと",
+        "えきの なかの はなやの まえ",
+        "こうえん"
+      ],
+      "answer": 2,
+      "audio": "女：駅の前で会いましょう。男：人が多いですね。駅の中の花屋の前はどうですか。女：いいですね。そこにしましょう。",
+      "transcript": "女：駅の前で会いましょう。男：人が多いですね。駅の中の花屋の前はどうですか。女：いいですね。そこにしましょう。"
+    },
+    {
+      "id": "jft-a1-p03-033",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "おとこの ひとは いくら はらいますか。",
+      "options": [
+        "300えん",
+        "100えん",
+        "400えん",
+        "200えん"
+      ],
+      "answer": 3,
+      "audio": "男：この地図を一つください。女：二百円です。男：はい、二百円ですね。",
+      "transcript": "男：この地図を一つください。女：二百円です。男：はい、二百円ですね。"
+    },
+    {
+      "id": "jft-a1-p03-034",
+      "section": 2,
+      "kind": "Menyimak · Lokasi melalui telepon",
+      "instruction": "Listen and choose the meeting location.",
+      "idn": "Dengarkan percakapan dan pilih lokasi yang dimaksud.",
+      "jp": "おとこの ひとは どこで まっていますか。",
+      "options": [
+        "えきの みなみぐちの まえ",
+        "えきの きたぐちの まえ",
+        "こうえんの なか",
+        "みせの まえ"
+      ],
+      "answer": 0,
+      "audio": "女：いま、どこに いますか。男：みなみえきに います。きたぐちでは ありません。みなみぐちの まえで まっています。女：わかりました。いま いきます。",
+      "transcript": "女：いま、どこに いますか。男：みなみえきに います。きたぐちでは ありません。みなみぐちの まえで まっています。女：わかりました。いま いきます。"
+    },
+    {
+      "id": "jft-a1-p03-035",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "おんなの ひとは なにを たのみますか。",
+      "options": [
+        "うどんと おちゃ",
+        "うどんと みず",
+        "そばと みず",
+        "そばと おちゃ"
+      ],
+      "answer": 1,
+      "audio": "店員：何にしますか。女：うどんを一つください。店員：飲み物はどうしますか。女：水でお願いします。",
+      "transcript": "店員：何にしますか。女：うどんを一つください。店員：飲み物はどうしますか。女：水でお願いします。"
+    },
+    {
+      "id": "jft-a1-p03-036",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "エレベーターで なんがいへ いきますか。",
+      "options": [
+        "1かい",
+        "2かい",
+        "3がい",
+        "4かい"
+      ],
+      "answer": 2,
+      "audio": "受付：日本語教室は三階です。エレベーターで上がってください。学生：三階ですね。ありがとうございます。",
+      "transcript": "受付：日本語教室は三階です。エレベーターで上がってください。学生：三階ですね。ありがとうございます。"
+    },
+    {
+      "id": "jft-a1-p03-037",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "かいぎは どの へやですか。",
+      "options": [
+        "203",
+        "301",
+        "303",
+        "201"
+      ],
+      "answer": 3,
+      "audio": "今日の会議は二〇一の部屋です。二〇三の部屋ではありません。気を付けてください。",
+      "transcript": "今日の会議は二〇一の部屋です。二〇三の部屋ではありません。気を付けてください。"
+    },
+    {
+      "id": "jft-a1-p03-038",
+      "section": 2,
+      "kind": "Menyimak situasi sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih jawaban yang paling tepat.",
+      "jp": "おとこの ひとは なにを しますか。",
+      "options": [
+        "ふくろを かいます。",
+        "おんなの ひとの にもつを もちます。",
+        "にもつを ぜんぶ すてます。",
+        "ふくろを おんなの ひとに わたします。"
+      ],
+      "answer": 3,
+      "audio": "女：荷物が多いですね。この袋を持ちましょうか。男：ありがとうございます。では、お願いします。",
+      "transcript": "女：荷物が多いですね。この袋を持ちましょうか。男：ありがとうございます。では、お願いします。"
+    },
+    {
+      "id": "jft-a1-p03-039",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "としょかんは いつ やすみですか。",
+      "options": [
+        "げつようび",
+        "すいようび",
+        "きんようび",
+        "かようび"
+      ],
+      "answer": 3,
+      "passage": "としょかん\nあいている じかん：9:00〜19:00\nやすみ：かようび"
+    },
+    {
+      "id": "jft-a1-p03-040",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "いま 8:20です。えきへ いく つぎの バスは なんじに でますか。",
+      "options": [
+        "9:00",
+        "8:30",
+        "9:10",
+        "8:40"
+      ],
+      "answer": 1,
+      "passage": "バスてい\nしやくしょへ：8:10／8:40／9:10／9:40\nえきへ：8:00／8:30／9:00／9:30"
+    },
+    {
+      "id": "jft-a1-p03-041",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "コーヒーと ケーキは ぜんぶで いくらですか。",
+      "options": [
+        "550えん",
+        "700えん",
+        "800えん",
+        "650えん"
+      ],
+      "answer": 1,
+      "passage": "カフェ はな\nコーヒー：300えん\nおちゃ：250えん\nケーキ：400えん"
+    },
+    {
+      "id": "jft-a1-p03-042",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "なんじに あいますか。",
+      "options": [
+        "9じはん",
+        "10じはん",
+        "10じ",
+        "11じ"
+      ],
+      "answer": 1,
+      "passage": "ユウさんへ\nきょうは でんしゃが おくれています。10じではなく、10じはんに えきで あいましょう。\nアミ"
+    },
+    {
+      "id": "jft-a1-p03-043",
+      "section": 3,
+      "kind": "Membaca · Daftar tarif",
+      "instruction": "Read the price list and choose the correct admission fee.",
+      "idn": "Baca daftar tarif dan pilih biaya masuk yang tepat.",
+      "jp": "4さいの こどもの りょうきんは いくらですか。",
+      "options": [
+        "200えん",
+        "600えん",
+        "400えん",
+        "0えん"
+      ],
+      "answer": 0,
+      "passage": "はな どうぶつえん\nおとな：600えん\nこども：200えん\n3さいまで：むりょう\nあいている じかん：9:00〜17:00"
+    },
+    {
+      "id": "jft-a1-p03-044",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "ここに とめては いけないのは どれですか。",
+      "options": [
+        "くるま",
+        "じてんしゃ",
+        "トラック",
+        "タクシー"
+      ],
+      "answer": 1,
+      "passage": "ちゅうしゃじょう\n1じかん 200えん\nじてんしゃは とめないで ください。"
+    },
+    {
+      "id": "jft-a1-p03-045",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "にもつを おくります。どこへ いきますか。",
+      "options": [
+        "2ばん まどぐち",
+        "どの まどぐちでも いい",
+        "3ばん まどぐち",
+        "1ばん まどぐち"
+      ],
+      "answer": 3,
+      "passage": "ゆうびんきょく\nにもつ：1ばん まどぐち\nてがみ：2ばん まどぐち\nおかね：3ばん まどぐち"
+    },
+    {
+      "id": "jft-a1-p03-046",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "いちばん やすい おべんとうは どれですか。",
+      "options": [
+        "とりにく",
+        "やさい",
+        "ぜんぶ おなじ",
+        "さかな"
+      ],
+      "answer": 1,
+      "passage": "おべんとう\nさかな：600えん\nとりにく：550えん\nやさい：500えん\nすべて おちゃが つきます。"
+    },
+    {
+      "id": "jft-a1-p03-047",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "ミナさんは どこに いますか。",
+      "options": [
+        "ぎんこうの よこ",
+        "ぎんこうの なか",
+        "ぎんこうの うしろ",
+        "ぎんこうの むかい"
+      ],
+      "answer": 0,
+      "passage": "ケンさんへ\nぎんこうの よこに います。あおい かさを もっています。\nミナ"
+    },
+    {
+      "id": "jft-a1-p03-048",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "スポーツの ふくを かいます。なんがいへ いきますか。",
+      "options": [
+        "3かい",
+        "2かい",
+        "1かい",
+        "4かい"
+      ],
+      "answer": 0,
+      "passage": "スポーツショップ\nくつ：2かい\nふく：3かい\nかばん：1かい"
+    },
+    {
+      "id": "jft-a1-p03-049",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "こうえんで しても いい ことは どれですか。",
+      "options": [
+        "いぬを はなして あそびます。",
+        "いぬを つないで さんぽします。",
+        "はなを とります。",
+        "ごみを おいて かえります。"
+      ],
+      "answer": 1,
+      "passage": "こうえんの ルール\nいぬは つないで ください。\nはなを とらないで ください。\nごみは もって かえって ください。"
+    },
+    {
+      "id": "jft-a1-p03-050",
+      "section": 3,
+      "kind": "Membaca informasi sehari-hari",
+      "instruction": "Choose the best answer.",
+      "idn": "Pilih satu jawaban yang paling tepat.",
+      "jp": "さいしょに どこへ いきますか。",
+      "options": [
+        "えき",
+        "はくぶつかん",
+        "レストラン",
+        "こうえん"
+      ],
+      "answer": 0,
+      "passage": "あしたの まちあるき\n9:00 えきに あつまります。\n9:15 こうえんへ いきます。\n10:00 はくぶつかんに はいります。\n12:00 レストランで たべます。"
+    }
+  ]
+}

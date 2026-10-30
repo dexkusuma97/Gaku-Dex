@@ -1,0 +1,20 @@
+'use strict';
+const assert=require('node:assert/strict'),Navigation=require('../dist/prototipe-simulasi/navigation.js'),browserHistory=require('./helpers/browser-history.cjs');
+function harness(){let n,view='menu',active=false,dialog=false,exits=0;const seen=[];const h=browserHistory({deferred:true,onPop:e=>n.handlePop(e),onExternal:()=>exits++});const options={history:h,onNavigate:v=>{view=v;seen.push(v)},onLeave:()=>exits++,isExamActive:()=>active&&view==='exam',onExamBack:()=>{dialog=!dialog},canEnter:v=>v!=='exam'||active};n=new Navigation(options);n.init('menu');return {h,get view(){return view},get exits(){return exits},get dialog(){return dialog},seen,get n(){return n},go(v,replace){n.go(v,replace);h.flush()},back(){h.back();h.flush()},reload(){n=new Navigation(options);n.init(view);h.flush()},exam(){this.go('packages');this.go('rules');active=true;this.go('exam')},finish(){active=false;this.go('result',true)}};}
+// Exact report: result -> choose packages -> hardware Back -> menu -> Back -> external website.
+for(const buttonBack of [false,true]){const t=harness();t.exam();t.finish();assert.equal(t.view,'result');t.go('packages');assert.equal(t.h.index,2);assert.equal(t.h.length,3,'completed rules/exam/result branch trimmed');if(buttonBack)t.go('menu');else t.back();assert.equal(t.view,'menu');assert.equal(t.h.index,1);t.back();assert.equal(t.exits,1);assert.deepEqual(t.seen.slice(-2),['packages','menu']);}
+// Exact report: result -> menu -> Back exits, never returns to result/rules.
+{const t=harness();t.exam();t.finish();t.go('menu');const count=t.seen.length;t.back();assert.equal(t.exits,1);assert.equal(t.view,'menu');assert.equal(t.seen.length,count);}
+// Hardware Back directly from result also skips all completed setup screens.
+{const t=harness();t.exam();t.finish();const count=t.seen.length;t.back();assert.equal(t.view,'menu');assert.deepEqual(t.seen.slice(count),['menu']);assert.equal(t.h.index,1);t.back();assert.equal(t.exits,1);}
+// Ordinary setup Back follows the hierarchy and adding another attempt never grows stale history.
+{const t=harness();t.go('packages');t.go('rules');t.back();assert.equal(t.view,'packages');t.back();assert.equal(t.view,'menu');for(let i=0;i<4;i++){t.exam();t.finish();t.go('packages');assert.equal(t.h.length,3);}t.go('menu');t.back();assert.equal(t.exits,1);}
+// During an active exam Back opens confirmation, another Back closes only the dialog.
+{const t=harness();t.exam();const length=t.h.length;t.back();assert.equal(t.view,'exam');assert.equal(t.dialog,true);assert.equal(t.h.length,length);t.back();assert.equal(t.view,'exam');assert.equal(t.dialog,false);assert.equal(t.h.length,length);assert.equal(t.exits,0);}
+// Reload reuses the current entry. Forward to an obsolete completed flow cannot resurrect results.
+{const t=harness();t.exam();t.finish();const length=t.h.length;t.reload();assert.equal(t.h.length,length);assert.equal(t.view,'result');t.go('menu');const count=t.seen.length;t.h.forward();t.h.flush();assert.ok(!t.seen.slice(count).some(v=>v==='result'||v==='rules'||v==='exam'));}
+// Clicking a web-home link collapses the simulation before leaving; repeated clicks are coalesced.
+{const t=harness();t.exam();t.finish();t.n.leave();t.n.leave();t.h.flush();assert.equal(t.view,'menu');assert.equal(t.h.index,1);assert.equal(t.exits,1);}
+// A tab carrying pre-fix legacy history exits instead of rendering legacy result/rules entries.
+{let n,exits=0;const seen=[];const h=browserHistory({deferred:true,onPop:e=>n.handlePop(e),onExternal:()=>exits++});h.replaceState({view:'menu'});for(const view of ['packages','rules','result'])h.pushState({view});n=new Navigation({history:h,onNavigate:v=>seen.push(v),onLeave:()=>exits++,isExamActive:()=>false,onExamBack(){}});n.init('result');n.go('menu');h.flush();h.back();h.flush();assert.equal(exits,1);assert.deepEqual(seen,['result','menu']);}
+console.log('PASS: reported hardware/button Back cases, completed-flow pruning, normal setup hierarchy, repeated attempts, exam dialog, reload, stale Forward, home exit');

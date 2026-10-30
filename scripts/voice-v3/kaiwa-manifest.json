@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "kenalan-1",
+    "pack": "jiko",
+    "file": "kenalan-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こんにちは。はじめまして。ほりです。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-2",
+    "pack": "jiko",
+    "file": "kenalan-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "りょうたです。どうぞ よろしく おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-3",
+    "pack": "jiko",
+    "file": "kenalan-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こちらこそ。りょうたさんは がくせいですか。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-4",
+    "pack": "jiko",
+    "file": "kenalan-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。にほんごを べんきょうしています。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-5",
+    "pack": "jiko",
+    "file": "kenalan-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "そうですか。しつれいですが、なんさいですか。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-6",
+    "pack": "jiko",
+    "file": "kenalan-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "にじゅういっさいです。ほりさんは？"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-7",
+    "pack": "jiko",
+    "file": "kenalan-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わたしも にじゅういっさいです。なにが すきですか。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-8",
+    "pack": "jiko",
+    "file": "kenalan-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "おんがくが すきです。よく ギターを ひきます。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-9",
+    "pack": "jiko",
+    "file": "kenalan-9.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いいですね。わたしは りょうりが すきです。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-10",
+    "pack": "jiko",
+    "file": "kenalan-10.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "そうですか。どんな りょうりを つくりますか。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-11",
+    "pack": "jiko",
+    "file": "kenalan-11.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "よく カレーを つくります。りょうたさんは どこに すんでいますか。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-12",
+    "pack": "jiko",
+    "file": "kenalan-12.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "なごやに すんでいます。ほりさんは？"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-13",
+    "pack": "jiko",
+    "file": "kenalan-13.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おおさかに すんでいます。また おはなししましょう。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-14",
+    "pack": "jiko",
+    "file": "kenalan-14.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、ぜひ。また あいましょう。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-15",
+    "pack": "jiko",
+    "file": "kenalan-15.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "じゃあ、また。"
+      }
+    ]
+  },
+  {
+    "id": "kenalan-16",
+    "pack": "jiko",
+    "file": "kenalan-16.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "またね。"
+      }
+    ]
+  },
+  {
+    "id": "kai-1",
+    "pack": "kai",
+    "file": "kai-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。"
+      }
+    ]
+  },
+  {
+    "id": "kai-2",
+    "pack": "kai",
+    "file": "kai-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません。この ノートは いくらですか。"
+      }
+    ]
+  },
+  {
+    "id": "kai-3",
+    "pack": "kai",
+    "file": "kai-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "さんびゃくえんです。"
+      }
+    ]
+  },
+  {
+    "id": "kai-4",
+    "pack": "kai",
+    "file": "kai-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "では、これを ください。"
+      }
+    ]
+  },
+  {
+    "id": "kai-5",
+    "pack": "kai",
+    "file": "kai-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ほかに なにか ありますか。"
+      }
+    ]
+  },
+  {
+    "id": "kai-6",
+    "pack": "kai",
+    "file": "kai-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいえ、これだけです。"
+      }
+    ]
+  },
+  {
+    "id": "kai-7",
+    "pack": "kai",
+    "file": "kai-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ぜんぶで さんびゃくえんです。"
+      }
+    ]
+  },
+  {
+    "id": "kai-8",
+    "pack": "kai",
+    "file": "kai-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、どうぞ。ありがとうございました。"
+      }
+    ]
+  },
+  {
+    "id": "resu-1",
+    "pack": "resu",
+    "file": "resu-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。ごちゅうもんは？"
+      }
+    ]
+  },
+  {
+    "id": "resu-2",
+    "pack": "resu",
+    "file": "resu-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "カレーを ひとつ おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "resu-3",
+    "pack": "resu",
+    "file": "resu-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おのみものは？"
+      }
+    ]
+  },
+  {
+    "id": "resu-4",
+    "pack": "resu",
+    "file": "resu-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "みずを おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "resu-5",
+    "pack": "resu",
+    "file": "resu-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おまたせしました。カレーと みずです。"
+      }
+    ]
+  },
+  {
+    "id": "resu-6",
+    "pack": "resu",
+    "file": "resu-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いただきます。"
+      }
+    ]
+  },
+  {
+    "id": "resu-7",
+    "pack": "resu",
+    "file": "resu-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "カレーは どうですか。"
+      }
+    ]
+  },
+  {
+    "id": "resu-8",
+    "pack": "resu",
+    "file": "resu-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "とても おいしいです。ごちそうさまでした。"
+      }
+    ]
+  },
+  {
+    "id": "michi-1",
+    "pack": "michi",
+    "file": "michi-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "どうしましたか。"
+      }
+    ]
+  },
+  {
+    "id": "michi-2",
+    "pack": "michi",
+    "file": "michi-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません。ゆうびんきょくは どこですか。"
+      }
+    ]
+  },
+  {
+    "id": "michi-3",
+    "pack": "michi",
+    "file": "michi-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ゆうびんきょくは あそこです。ぎんこうの となりに あります。"
+      }
+    ]
+  },
+  {
+    "id": "michi-4",
+    "pack": "michi",
+    "file": "michi-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わかりました。ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "michi-5",
+    "pack": "michi",
+    "file": "michi-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ゆうびんきょくは ちかいですよ。あるいて ごふんです。"
+      }
+    ]
+  },
+  {
+    "id": "michi-6",
+    "pack": "michi",
+    "file": "michi-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "じゃあ、あるいて いきます。"
+      }
+    ]
+  },
+  {
+    "id": "michi-7",
+    "pack": "michi",
+    "file": "michi-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ぎんこうの となりですよ。わかりますか。"
+      }
+    ]
+  },
+  {
+    "id": "michi-8",
+    "pack": "michi",
+    "file": "michi-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、わかります。ありがとうございました。"
+      }
+    ]
+  },
+  {
+    "id": "densha-1",
+    "pack": "densha",
+    "file": "densha-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。どこへ いきますか。"
+      }
+    ]
+  },
+  {
+    "id": "densha-2",
+    "pack": "densha",
+    "file": "densha-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "おおさかへ いきます。つぎの でんしゃは なんじですか。"
+      }
+    ]
+  },
+  {
+    "id": "densha-3",
+    "pack": "densha",
+    "file": "densha-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "じゅうじ はんです。1ばんせんから でます。"
+      }
+    ]
+  },
+  {
+    "id": "densha-4",
+    "pack": "densha",
+    "file": "densha-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "おおさかまで どのくらい かかりますか。"
+      }
+    ]
+  },
+  {
+    "id": "densha-5",
+    "pack": "densha",
+    "file": "densha-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おおさかまで にじかんぐらいです。"
+      }
+    ]
+  },
+  {
+    "id": "densha-6",
+    "pack": "densha",
+    "file": "densha-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わかりました。きっぷを いちまい ください。"
+      }
+    ]
+  },
+  {
+    "id": "densha-7",
+    "pack": "densha",
+    "file": "densha-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いちまい にせんえんです。いってらっしゃい。"
+      }
+    ]
+  },
+  {
+    "id": "densha-8",
+    "pack": "densha",
+    "file": "densha-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いってきます。ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "id": "nichi-1",
+    "pack": "nichi",
+    "file": "nichi-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "アディさんは まいあさ なんじに おきますか。"
+      }
+    ]
+  },
+  {
+    "id": "nichi-2",
+    "pack": "nichi",
+    "file": "nichi-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ろくじに おきます。それから ごはんを たべます。"
+      }
+    ]
+  },
+  {
+    "id": "nichi-3",
+    "pack": "nichi",
+    "file": "nichi-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "そうですか。ひるまは なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "nichi-4",
+    "pack": "nichi",
+    "file": "nichi-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "がっこうで にほんごを べんきょうします。よる テレビは みません。"
+      }
+    ]
+  },
+  {
+    "id": "nichi-5",
+    "pack": "nichi",
+    "file": "nichi-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "よるは なんじに ねますか。"
+      }
+    ]
+  },
+  {
+    "id": "nichi-6",
+    "pack": "nichi",
+    "file": "nichi-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "じゅうじに ねます。"
+      }
+    ]
+  },
+  {
+    "id": "nichi-7",
+    "pack": "nichi",
+    "file": "nichi-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はやいですね。まいにち べんきょうしますか。"
+      }
+    ]
+  },
+  {
+    "id": "nichi-8",
+    "pack": "nichi",
+    "file": "nichi-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、まいにち すこし べんきょうします。"
+      }
+    ]
+  },
+  {
+    "id": "yaku-1",
+    "pack": "yaku",
+    "file": "yaku-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "アディさん、あした ひまですか。"
+      }
+    ]
+  },
+  {
+    "id": "yaku-2",
+    "pack": "yaku",
+    "file": "yaku-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、ひまです。どうしてですか。"
+      }
+    ]
+  },
+  {
+    "id": "yaku-3",
+    "pack": "yaku",
+    "file": "yaku-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いっしょに えいがを みませんか。"
+      }
+    ]
+  },
+  {
+    "id": "yaku-4",
+    "pack": "yaku",
+    "file": "yaku-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいですね。みましょう。"
+      }
+    ]
+  },
+  {
+    "id": "yaku-5",
+    "pack": "yaku",
+    "file": "yaku-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "なんじに あいましょうか。"
+      }
+    ]
+  },
+  {
+    "id": "yaku-6",
+    "pack": "yaku",
+    "file": "yaku-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ごじに えきで あいましょう。"
+      }
+    ]
+  },
+  {
+    "id": "yaku-7",
+    "pack": "yaku",
+    "file": "yaku-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい。じゃあ、ごじに えきの まえで。"
+      }
+    ]
+  },
+  {
+    "id": "yaku-8",
+    "pack": "yaku",
+    "file": "yaku-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。たのしみです。"
+      }
+    ]
+  },
+  {
+    "id": "kyoka-1",
+    "pack": "kyoka",
+    "file": "kyoka-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ここは ちょっと あついですね。"
+      }
+    ]
+  },
+  {
+    "id": "kyoka-2",
+    "pack": "kyoka",
+    "file": "kyoka-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "そうですね。まどを あけても いいですか。"
+      }
+    ]
+  },
+  {
+    "id": "kyoka-3",
+    "pack": "kyoka",
+    "file": "kyoka-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ええ、どうぞ。それから、その ノートを とって ください。"
+      }
+    ]
+  },
+  {
+    "id": "kyoka-4",
+    "pack": "kyoka",
+    "file": "kyoka-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、わかりました。どうぞ。"
+      }
+    ]
+  },
+  {
+    "id": "kyoka-5",
+    "pack": "kyoka",
+    "file": "kyoka-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "アディさん、でんわを かりても いいですか。"
+      }
+    ]
+  },
+  {
+    "id": "kyoka-6",
+    "pack": "kyoka",
+    "file": "kyoka-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ええ、どうぞ。"
+      }
+    ]
+  },
+  {
+    "id": "kyoka-7",
+    "pack": "kyoka",
+    "file": "kyoka-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ありがとうございます。すみません、ドアを しめて ください。"
+      }
+    ]
+  },
+  {
+    "id": "kyoka-8",
+    "pack": "kyoka",
+    "file": "kyoka-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、わかりました。しめます。"
+      }
+    ]
+  },
+  {
+    "id": "denwa-1",
+    "pack": "denwa",
+    "file": "denwa-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい、さくらがっこうです。"
+      }
+    ]
+  },
+  {
+    "id": "denwa-2",
+    "pack": "denwa",
+    "file": "denwa-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "もしもし、アディです。やまださんは いますか。"
+      }
+    ]
+  },
+  {
+    "id": "denwa-3",
+    "pack": "denwa",
+    "file": "denwa-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません、やまださんは いま いません。さんじに かえります。"
+      }
+    ]
+  },
+  {
+    "id": "denwa-4",
+    "pack": "denwa",
+    "file": "denwa-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わかりました。では、また でんわします。"
+      }
+    ]
+  },
+  {
+    "id": "denwa-5",
+    "pack": "denwa",
+    "file": "denwa-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい。よじに でんわして ください。"
+      }
+    ]
+  },
+  {
+    "id": "denwa-6",
+    "pack": "denwa",
+    "file": "denwa-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、よじに でんわします。"
+      }
+    ]
+  },
+  {
+    "id": "denwa-7",
+    "pack": "denwa",
+    "file": "denwa-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おなまえは アディさんですね。"
+      }
+    ]
+  },
+  {
+    "id": "denwa-8",
+    "pack": "denwa",
+    "file": "denwa-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、アディです。しつれいします。"
+      }
+    ]
+  },
+  {
+    "id": "kansou-1",
+    "pack": "kansou",
+    "file": "kansou-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おかえりなさい。りょこうは どうでしたか。"
+      }
+    ]
+  },
+  {
+    "id": "kansou-2",
+    "pack": "kansou",
+    "file": "kansou-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "たのしかったです。てんきも よかったです。"
+      }
+    ]
+  },
+  {
+    "id": "kansou-3",
+    "pack": "kansou",
+    "file": "kansou-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いいですね。どうして おおさかへ いきましたか。"
+      }
+    ]
+  },
+  {
+    "id": "kansou-4",
+    "pack": "kansou",
+    "file": "kansou-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "たこやきが すきですから。"
+      }
+    ]
+  },
+  {
+    "id": "kansou-5",
+    "pack": "kansou",
+    "file": "kansou-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "たこやきは どうでしたか。"
+      }
+    ]
+  },
+  {
+    "id": "kansou-6",
+    "pack": "kansou",
+    "file": "kansou-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "とても おいしかったです。"
+      }
+    ]
+  },
+  {
+    "id": "kansou-7",
+    "pack": "kansou",
+    "file": "kansou-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おおさかは さむかったですか。"
+      }
+    ]
+  },
+  {
+    "id": "kansou-8",
+    "pack": "kansou",
+    "file": "kansou-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいえ、さむくなかったです。あたたかかったです。"
+      }
+    ]
+  },
+  {
+    "id": "shusshin-1",
+    "pack": "shusshin",
+    "file": "shusshin-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "りょうたさんは どこの くにから きましたか。"
+      }
+    ]
+  },
+  {
+    "id": "shusshin-2",
+    "pack": "shusshin",
+    "file": "shusshin-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "インドネシアから きました。ほりさんは？"
+      }
+    ]
+  },
+  {
+    "id": "shusshin-3",
+    "pack": "shusshin",
+    "file": "shusshin-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "にほんです。インドネシアでは どこに すんでいましたか。"
+      }
+    ]
+  },
+  {
+    "id": "shusshin-4",
+    "pack": "shusshin",
+    "file": "shusshin-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "バンドンに すんでいました。"
+      }
+    ]
+  },
+  {
+    "id": "shusshin-5",
+    "pack": "shusshin",
+    "file": "shusshin-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "バンドンは どんな まちですか。"
+      }
+    ]
+  },
+  {
+    "id": "shusshin-6",
+    "pack": "shusshin",
+    "file": "shusshin-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "にぎやかな まちです。おいしい たべものが あります。"
+      }
+    ]
+  },
+  {
+    "id": "shusshin-7",
+    "pack": "shusshin",
+    "file": "shusshin-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いいですね。いまは どこに すんでいますか。"
+      }
+    ]
+  },
+  {
+    "id": "shusshin-8",
+    "pack": "shusshin",
+    "file": "shusshin-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いまは とうきょうに すんでいます。"
+      }
+    ]
+  },
+  {
+    "id": "teinei-1",
+    "pack": "teinei",
+    "file": "teinei-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こんにちは。わたしは ほりです。おなまえを おしえて ください。"
+      }
+    ]
+  },
+  {
+    "id": "teinei-2",
+    "pack": "teinei",
+    "file": "teinei-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "りょうたと もうします。よろしく おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "teinei-3",
+    "pack": "teinei",
+    "file": "teinei-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "りょうたさんですね。こちらこそ。おしごとは なんですか。"
+      }
+    ]
+  },
+  {
+    "id": "teinei-4",
+    "pack": "teinei",
+    "file": "teinei-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "エンジニアです。"
+      }
+    ]
+  },
+  {
+    "id": "teinei-5",
+    "pack": "teinei",
+    "file": "teinei-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "そうですか。こちらの かいしゃは はじめてですか。"
+      }
+    ]
+  },
+  {
+    "id": "teinei-6",
+    "pack": "teinei",
+    "file": "teinei-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、はじめてです。きょうから ここで はたらきます。"
+      }
+    ]
+  },
+  {
+    "id": "teinei-7",
+    "pack": "teinei",
+    "file": "teinei-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わからない ことが あったら、きいて ください。"
+      }
+    ]
+  },
+  {
+    "id": "teinei-8",
+    "pack": "teinei",
+    "file": "teinei-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。どうぞ よろしく おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "tomodachi-1",
+    "pack": "tomodachi",
+    "file": "tomodachi-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "りょうたさん、ひさしぶりですね。げんきですか。"
+      }
+    ]
+  },
+  {
+    "id": "tomodachi-2",
+    "pack": "tomodachi",
+    "file": "tomodachi-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、げんきです。ほりさんも げんきですか。"
+      }
+    ]
+  },
+  {
+    "id": "tomodachi-3",
+    "pack": "tomodachi",
+    "file": "tomodachi-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わたしも げんきです。きょうは なにを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "tomodachi-4",
+    "pack": "tomodachi",
+    "file": "tomodachi-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ごぜんは うちで べんきょうします。ごごは ひまです。"
+      }
+    ]
+  },
+  {
+    "id": "tomodachi-5",
+    "pack": "tomodachi",
+    "file": "tomodachi-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "じゃあ、ごご こうえんを さんぽしませんか。"
+      }
+    ]
+  },
+  {
+    "id": "tomodachi-6",
+    "pack": "tomodachi",
+    "file": "tomodachi-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいですね。にじに こうえんの いりぐちで あいましょう。"
+      }
+    ]
+  },
+  {
+    "id": "tomodachi-7",
+    "pack": "tomodachi",
+    "file": "tomodachi-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わかりました。あとで あいましょう。"
+      }
+    ]
+  },
+  {
+    "id": "tomodachi-8",
+    "pack": "tomodachi",
+    "file": "tomodachi-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、また あとで。"
+      }
+    ]
+  },
+  {
+    "id": "aisatsu-1",
+    "pack": "aisatsu",
+    "file": "aisatsu-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おはようございます、りょうたさん。"
+      }
+    ]
+  },
+  {
+    "id": "aisatsu-2",
+    "pack": "aisatsu",
+    "file": "aisatsu-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "おはようございます、ほりさん。"
+      }
+    ]
+  },
+  {
+    "id": "aisatsu-3",
+    "pack": "aisatsu",
+    "file": "aisatsu-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "きょうの じゅぎょうは くじからです。いま なんじですか。"
+      }
+    ]
+  },
+  {
+    "id": "aisatsu-4",
+    "pack": "aisatsu",
+    "file": "aisatsu-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はちじ ごじゅっぷんです。あと じゅっぷんですね。"
+      }
+    ]
+  },
+  {
+    "id": "aisatsu-5",
+    "pack": "aisatsu",
+    "file": "aisatsu-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あ、この ほん、どうぞ。きょう つかいますよ。"
+      }
+    ]
+  },
+  {
+    "id": "aisatsu-6",
+    "pack": "aisatsu",
+    "file": "aisatsu-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。たすかります。"
+      }
+    ]
+  },
+  {
+    "id": "aisatsu-7",
+    "pack": "aisatsu",
+    "file": "aisatsu-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "どういたしまして。いっしょに きょうしつへ いきましょう。"
+      }
+    ]
+  },
+  {
+    "id": "aisatsu-8",
+    "pack": "aisatsu",
+    "file": "aisatsu-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、いきましょう。"
+      }
+    ]
+  },
+  {
+    "id": "uchi-1",
+    "pack": "uchi",
+    "file": "uchi-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "りょうたさん、もう でかけますか。"
+      }
+    ]
+  },
+  {
+    "id": "uchi-2",
+    "pack": "uchi",
+    "file": "uchi-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、いってきます。"
+      }
+    ]
+  },
+  {
+    "id": "uchi-3",
+    "pack": "uchi",
+    "file": "uchi-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いってらっしゃい。なんじごろ かえりますか。"
+      }
+    ]
+  },
+  {
+    "id": "uchi-4",
+    "pack": "uchi",
+    "file": "uchi-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ろくじごろ かえります。"
+      }
+    ]
+  },
+  {
+    "id": "uchi-5",
+    "pack": "uchi",
+    "file": "uchi-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おかえりなさい。"
+      }
+    ]
+  },
+  {
+    "id": "uchi-6",
+    "pack": "uchi",
+    "file": "uchi-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ただいま。きょうは つかれました。"
+      }
+    ]
+  },
+  {
+    "id": "uchi-7",
+    "pack": "uchi",
+    "file": "uchi-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ゆっくり やすんで ください。おやすみなさい。"
+      }
+    ]
+  },
+  {
+    "id": "uchi-8",
+    "pack": "uchi",
+    "file": "uchi-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ありがとう。おやすみなさい。"
+      }
+    ]
+  },
+  {
+    "id": "shokuji-1",
+    "pack": "shokuji",
+    "file": "shokuji-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "りょうたさん、もう ひるごはんを たべましたか。"
+      }
+    ]
+  },
+  {
+    "id": "shokuji-2",
+    "pack": "shokuji",
+    "file": "shokuji-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいえ、まだです。"
+      }
+    ]
+  },
+  {
+    "id": "shokuji-3",
+    "pack": "shokuji",
+    "file": "shokuji-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "じゃあ、いっしょに たべましょう。おべんとうを つくりました。"
+      }
+    ]
+  },
+  {
+    "id": "shokuji-4",
+    "pack": "shokuji",
+    "file": "shokuji-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ありがとう。いただきます。"
+      }
+    ]
+  },
+  {
+    "id": "shokuji-5",
+    "pack": "shokuji",
+    "file": "shokuji-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "どうですか。この たまごやきは？"
+      }
+    ]
+  },
+  {
+    "id": "shokuji-6",
+    "pack": "shokuji",
+    "file": "shokuji-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "おいしいです。りょうりが じょうずですね。"
+      }
+    ]
+  },
+  {
+    "id": "shokuji-7",
+    "pack": "shokuji",
+    "file": "shokuji-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ありがとう。もう たべおわりましたか。"
+      }
+    ]
+  },
+  {
+    "id": "shokuji-8",
+    "pack": "shokuji",
+    "file": "shokuji-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。ごちそうさまでした。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "reviewedAt": "2026-10-28",
+  "scope": "12 soal JFT latihan A1 direvisi; pemetaan editorial bukan validasi/dukungan resmi penerbit.",
+  "sources": {
+    "irodori": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+    "marugoto": "https://marugoto.jpf.go.jp/assets/docs/download/starter_a/MarugotoStarterActivitiesCan-doCheck_ID.pdf",
+    "jftFormat": "https://www.jpf.go.jp/jft-basic/sample/q01.html",
+    "jlptFormat": "https://www.jlpt.jp/e/samples/forlearners.html"
+  },
+  "items": [
+    {
+      "questionId": "jft-a1-p01-024",
+      "goal": "Meminta lawan bicara mengulangi informasi",
+      "irodoriStarter": {
+        "lesson": 2,
+        "canDo": [
+          5
+        ]
+      },
+      "marugotoStarterCanDo": [
+        3
+      ],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p01-034",
+      "goal": "Memastikan kendaraan menuju tempat tujuan",
+      "irodoriStarter": {
+        "lesson": 13,
+        "canDo": [
+          52
+        ]
+      },
+      "marugotoStarterCanDo": [
+        35
+      ],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p01-043",
+      "goal": "Memilih tombol alat berdasarkan kebutuhan",
+      "irodoriStarter": {
+        "lesson": 7,
+        "canDo": [
+          30
+        ]
+      },
+      "marugotoStarterCanDo": [],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p02-024",
+      "goal": "Menjawab pertanyaan kasir tentang kantong",
+      "irodoriStarter": {
+        "lesson": 16,
+        "canDo": [
+          69
+        ]
+      },
+      "marugotoStarterCanDo": [
+        43
+      ],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p02-034",
+      "goal": "Mengonfirmasi jumlah dalam instruksi kerja",
+      "irodoriStarter": {
+        "lesson": 10,
+        "canDo": [
+          40
+        ]
+      },
+      "marugotoStarterCanDo": [],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p02-043",
+      "goal": "Menemukan lantai untuk barang belanja",
+      "irodoriStarter": {
+        "lesson": 15,
+        "canDo": [
+          62
+        ]
+      },
+      "marugotoStarterCanDo": [],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p03-024",
+      "goal": "Bertanya tentang umur anggota keluarga",
+      "irodoriStarter": {
+        "lesson": 4,
+        "canDo": [
+          13
+        ]
+      },
+      "marugotoStarterCanDo": [
+        7
+      ],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p03-034",
+      "goal": "Memahami lokasi seseorang lewat telepon",
+      "irodoriStarter": {
+        "lesson": 14,
+        "canDo": [
+          58
+        ]
+      },
+      "marugotoStarterCanDo": [
+        37
+      ],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p03-043",
+      "goal": "Membaca tarif fasilitas untuk usia tertentu",
+      "irodoriStarter": {
+        "lesson": 17,
+        "canDo": [
+          74
+        ]
+      },
+      "marugotoStarterCanDo": [],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p04-024",
+      "goal": "Meminta seseorang meminjamkan barang",
+      "irodoriStarter": {
+        "lesson": 10,
+        "canDo": [
+          42
+        ]
+      },
+      "marugotoStarterCanDo": [],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p04-034",
+      "goal": "Memahami harga barang dari percakapan",
+      "irodoriStarter": {
+        "lesson": 16,
+        "canDo": [
+          66
+        ]
+      },
+      "marugotoStarterCanDo": [
+        42
+      ],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    },
+    {
+      "questionId": "jft-a1-p04-043",
+      "goal": "Membedakan jam masuk dan mulai kegiatan",
+      "irodoriStarter": {
+        "lesson": 12,
+        "canDo": [
+          48
+        ]
+      },
+      "marugotoStarterCanDo": [
+        30
+      ],
+      "relationship": "Pemetaan editorial terhadap tujuan belajar; soal orisinal, bukan kutipan atau adaptasi satu soal sumber."
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+[
+  {
+    "jp": "胃",
+    "kana": "い",
+    "meaning": "lambung"
+  },
+  {
+    "jp": "お腹",
+    "kana": "おなか",
+    "meaning": "perut"
+  },
+  {
+    "jp": "網膜",
+    "kana": "もうまく",
+    "meaning": "retina"
+  },
+  {
+    "jp": "内臓",
+    "kana": "ないぞう",
+    "meaning": "organ dalam"
+  },
+  {
+    "jp": "動脈",
+    "kana": "どうみゃく",
+    "meaning": "arteri"
+  },
+  {
+    "jp": "静脈",
+    "kana": "じょうみゃく",
+    "meaning": "vena"
+  },
+  {
+    "jp": "頭蓋骨",
+    "kana": "ずがいこつ",
+    "meaning": "tengkorak"
+  },
+  {
+    "jp": "肋骨",
+    "kana": "ろっこつ",
+    "meaning": "tulang rusuk"
+  },
+  {
+    "jp": "肺",
+    "kana": "はい",
+    "meaning": "paru-paru"
+  },
+  {
+    "jp": "外す",
+    "kana": "はずす",
+    "meaning": "melepaskan; menghilangkan"
+  },
+  {
+    "jp": "凍る",
+    "kana": "こおる",
+    "meaning": "membeku"
+  },
+  {
+    "jp": "預ける",
+    "kana": "あずける",
+    "meaning": "menitipkan"
+  },
+  {
+    "jp": "譲る",
+    "kana": "ゆずる",
+    "meaning": "menyerahkan; memberi jalan"
+  },
+  {
+    "jp": "沈む",
+    "kana": "しずむ",
+    "meaning": "tenggelam"
+  },
+  {
+    "jp": "喋る",
+    "kana": "しゃべる",
+    "meaning": "mengobrol"
+  },
+  {
+    "jp": "開始する",
+    "kana": "かいしする",
+    "meaning": "memulai"
+  },
+  {
+    "jp": "信じる",
+    "kana": "しんじる",
+    "meaning": "percaya"
+  },
+  {
+    "jp": "人体",
+    "kana": "じんたい",
+    "meaning": "tubuh manusia"
+  },
+  {
+    "jp": "神経質",
+    "kana": "しんけいしつ",
+    "meaning": "mudah khawatir; sensitif"
+  },
+  {
+    "jp": "爆発する",
+    "kana": "ばくはつする",
+    "meaning": "meledak"
+  },
+  {
+    "jp": "捕まる",
+    "kana": "つかまる",
+    "meaning": "tertangkap"
+  },
+  {
+    "jp": "就職する",
+    "kana": "しゅうしょくする",
+    "meaning": "mendapat pekerjaan"
+  },
+  {
+    "jp": "飼う",
+    "kana": "かう",
+    "meaning": "memelihara hewan"
+  },
+  {
+    "jp": "掲示する",
+    "kana": "けいじする",
+    "meaning": "memasang pengumuman"
+  },
+  {
+    "jp": "変化する",
+    "kana": "へんかする",
+    "meaning": "berubah"
+  },
+  {
+    "jp": "積もる",
+    "kana": "つもる",
+    "meaning": "menumpuk"
+  },
+  {
+    "jp": "育つ",
+    "kana": "そだつ",
+    "meaning": "tumbuh"
+  },
+  {
+    "jp": "繋ぐ",
+    "kana": "つなぐ",
+    "meaning": "menghubungkan"
+  },
+  {
+    "jp": "済ませる",
+    "kana": "すませる",
+    "meaning": "menyelesaikan"
+  },
+  {
+    "jp": "及ぼす",
+    "kana": "およぼす",
+    "meaning": "menimbulkan; memberikan pengaruh"
+  },
+  {
+    "jp": "通じる",
+    "kana": "つうじる",
+    "meaning": "tersampaikan; dapat dipahami; terhubung"
+  },
+  {
+    "jp": "気に入る",
+    "kana": "きにいる",
+    "meaning": "menyukai; merasa cocok"
+  },
+  {
+    "jp": "留める",
+    "kana": "とめる",
+    "meaning": "menahan; memasang; mencatat"
+  },
+  {
+    "jp": "立ち上げる",
+    "kana": "たちあげる",
+    "meaning": "memulai; mendirikan; meluncurkan"
+  },
+  {
+    "jp": "訴える",
+    "kana": "うったえる",
+    "meaning": "mengadukan; menuntut; mengungkapkan keluhan"
+  },
+  {
+    "jp": "完了",
+    "kana": "かんりょう",
+    "meaning": "penyelesaian; selesai"
+  },
+  {
+    "jp": "血",
+    "kana": "ち",
+    "meaning": "darah"
+  },
+  {
+    "jp": "婚約する",
+    "kana": "こんやくする",
+    "meaning": "bertunangan"
+  },
+  {
+    "jp": "希望する",
+    "kana": "きぼうする",
+    "meaning": "berharap; menginginkan"
+  },
+  {
+    "jp": "騒ぐ",
+    "kana": "さわぐ",
+    "meaning": "membuat keributan"
+  },
+  {
+    "jp": "混乱する",
+    "kana": "こんらんする",
+    "meaning": "menjadi kacau; bingung"
+  },
+  {
+    "jp": "解釈する",
+    "kana": "かいしゃくする",
+    "meaning": "menafsirkan; menginterpretasikan"
+  },
+  {
+    "jp": "優れる",
+    "kana": "すぐれる",
+    "meaning": "unggul"
+  },
+  {
+    "jp": "発車する",
+    "kana": "はっしゃする",
+    "meaning": "berangkat (kendaraan)"
+  },
+  {
+    "jp": "建設する",
+    "kana": "けんせつする",
+    "meaning": "membangun"
+  },
+  {
+    "jp": "供給する",
+    "kana": "きょうきゅうする",
+    "meaning": "memasok; menyediakan"
+  },
+  {
+    "jp": "貢献する",
+    "kana": "こうけんする",
+    "meaning": "berkontribusi"
+  },
+  {
+    "jp": "会合する",
+    "kana": "かいごうする",
+    "meaning": "bertemu; mengadakan pertemuan"
+  },
+  {
+    "jp": "占める",
+    "kana": "しめる",
+    "meaning": "menempati; menduduki; mencakup"
+  },
+  {
+    "jp": "張る",
+    "kana": "はる",
+    "meaning": "membentangkan; menempelkan; memasang"
+  },
+  {
+    "jp": "適用する",
+    "kana": "てきようする",
+    "meaning": "menerapkan"
+  },
+  {
+    "jp": "勧める",
+    "kana": "すすめる",
+    "meaning": "menyarankan; menganjurkan"
+  },
+  {
+    "jp": "変更する",
+    "kana": "へんこうする",
+    "meaning": "mengubah"
+  },
+  {
+    "jp": "発展する",
+    "kana": "はってんする",
+    "meaning": "berkembang"
+  },
+  {
+    "jp": "握る",
+    "kana": "にぎる",
+    "meaning": "menggenggam"
+  },
+  {
+    "jp": "迷惑する",
+    "kana": "めいわくする",
+    "meaning": "merasa terganggu; mengalami kesulitan akibat orang lain"
+  },
+  {
+    "jp": "転ぶ",
+    "kana": "ころぶ",
+    "meaning": "jatuh; tersandung"
+  },
+  {
+    "jp": "確認する",
+    "kana": "かくにんする",
+    "meaning": "memastikan; mengonfirmasi"
+  },
+  {
+    "jp": "承認する",
+    "kana": "しょうにんする",
+    "meaning": "menyetujui; mengesahkan"
+  },
+  {
+    "jp": "消費する",
+    "kana": "しょうひする",
+    "meaning": "mengonsumsi; menghabiskan"
+  },
+  {
+    "jp": "修正する",
+    "kana": "しゅうせいする",
+    "meaning": "memperbaiki; merevisi"
+  },
+  {
+    "jp": "支配する",
+    "kana": "しはいする",
+    "meaning": "menguasai; memerintah"
+  },
+  {
+    "jp": "混雑する",
+    "kana": "こんざつする",
+    "meaning": "ramai; penuh sesak"
+  },
+  {
+    "jp": "批判する",
+    "kana": "ひはんする",
+    "meaning": "mengkritik"
+  },
+  {
+    "jp": "完成する",
+    "kana": "かんせいする",
+    "meaning": "selesai; rampung"
+  },
+  {
+    "jp": "撃つ",
+    "kana": "うつ",
+    "meaning": "menembak"
+  },
+  {
+    "jp": "感動する",
+    "kana": "かんどうする",
+    "meaning": "terharu; tersentuh"
+  },
+  {
+    "jp": "当てる",
+    "kana": "あてる",
+    "meaning": "mengenai; menebak dengan tepat"
+  },
+  {
+    "jp": "快復する",
+    "kana": "かいふくする",
+    "meaning": "pulih (kesehatan)"
+  },
+  {
+    "jp": "決心する",
+    "kana": "けっしんする",
+    "meaning": "bertekad; membulatkan tekad"
+  },
+  {
+    "jp": "叩く",
+    "kana": "たたく",
+    "meaning": "memukul; mengetuk"
+  },
+  {
+    "jp": "解ける",
+    "kana": "とける",
+    "meaning": "terurai; terlepas; terpecahkan"
+  },
+  {
+    "jp": "満ちる",
+    "kana": "みちる",
+    "meaning": "menjadi penuh"
+  },
+  {
+    "jp": "呼吸する",
+    "kana": "こきゅうする",
+    "meaning": "bernapas"
+  }
+]

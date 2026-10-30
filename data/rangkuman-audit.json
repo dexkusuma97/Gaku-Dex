@@ -1,0 +1,3739 @@
+{
+  "vocabCorrections": [
+    {
+      "chapter": 1,
+      "number": 5,
+      "field": "meaning",
+      "before": "Saudara…….",
+      "after": "Saudara.......",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 1,
+      "number": 7,
+      "field": "meaning",
+      "before": "Orang…….",
+      "after": "Orang.......",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 1,
+      "number": 8,
+      "field": "meaning",
+      "before": "Guru,dosen",
+      "after": "Guru, dosen",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 1,
+      "number": 9,
+      "field": "meaning",
+      "before": "Guru,dosen (dipakai untuk kalangan sendiri)",
+      "after": "Guru, dosen (dipakai untuk kalangan sendiri)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 1,
+      "number": 10,
+      "field": "meaning",
+      "before": "Siswa,murid",
+      "after": "Siswa, murid",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 1,
+      "number": 20,
+      "field": "meaning",
+      "before": "Umur…..",
+      "after": "Umur.....",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 1,
+      "number": 26,
+      "field": "meaning",
+      "before": "Datang dari…..",
+      "after": "Datang dari.....",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 1,
+      "number": 27,
+      "field": "jp",
+      "before": "どうぞよろしくお願します",
+      "after": "どうぞよろしくお願いします",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 1,
+      "number": 27,
+      "field": "meaning",
+      "before": "Terimalah perkenalan saya",
+      "after": "Senang berkenalan dengan Anda; mohon kerja samanya.",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 2,
+      "number": 4,
+      "field": "meaning",
+      "before": "～ini",
+      "after": "~ini",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 2,
+      "number": 5,
+      "field": "meaning",
+      "before": "～itu (dekat)",
+      "after": "~itu (dekat)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 2,
+      "number": 6,
+      "field": "meaning",
+      "before": "～itu (jauh)",
+      "after": "~itu (jauh)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 2,
+      "number": 19,
+      "field": "meaning",
+      "before": "Jam , arloji",
+      "after": "Jam, arloji",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 2,
+      "number": 34,
+      "field": "meaning",
+      "before": "Bahasa ～",
+      "after": "Bahasa ~",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 2,
+      "number": 37,
+      "field": "meaning",
+      "before": "Eee ...(ungkapan ketika ragu)",
+      "after": "Eee...(ungkapan ketika ragu)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 2,
+      "number": 41,
+      "field": "meaning",
+      "before": "O,begitu, benarkah?",
+      "after": "O, begitu, benarkah?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 2,
+      "number": 42,
+      "field": "meaning",
+      "before": "Bukan , Tidak , Salah",
+      "after": "Bukan, Tidak, Salah",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 2,
+      "number": 43,
+      "field": "meaning",
+      "before": "O,eh (dipakai ketika sadar)",
+      "after": "O, eh (dipakai ketika sadar)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 3,
+      "number": 4,
+      "field": "meaning",
+      "before": "Dimana?",
+      "after": "Di mana?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 3,
+      "number": 8,
+      "field": "meaning",
+      "before": "Dimana ?",
+      "after": "Di mana?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 3,
+      "number": 30,
+      "field": "meaning",
+      "before": "Bawah tanah , basement",
+      "after": "Bawah tanah, basement",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 3,
+      "number": 31,
+      "field": "meaning",
+      "before": "lantai～/ tingkat～",
+      "after": "lantai~/ tingkat~",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 3,
+      "number": 33,
+      "field": "meaning",
+      "before": "～yen",
+      "after": "~yen",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 3,
+      "number": 43,
+      "field": "meaning",
+      "before": "Tolong ～",
+      "after": "Tolong ~",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 4,
+      "number": 4,
+      "field": "meaning",
+      "before": "Beristirahat , libur",
+      "after": "Beristirahat, libur",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 4,
+      "number": 13,
+      "field": "meaning",
+      "before": "Jam , pukul",
+      "after": "Jam, pukul",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 4,
+      "number": 14,
+      "field": "kana",
+      "before": "～ふん／ぶん",
+      "after": "～ふん/ぶん",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 4,
+      "number": 14,
+      "field": "kana",
+      "before": "～ふん/ぶん",
+      "after": "～ふん／ぷん",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 4,
+      "number": 14,
+      "field": "meaning",
+      "before": "Menit",
+      "after": "～ menit; bacaan berubah menjadi ふん atau ぷん sesuai angka.",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 4,
+      "number": 16,
+      "field": "kana",
+      "before": "なんんじ",
+      "after": "なんじ",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 4,
+      "number": 17,
+      "field": "meaning",
+      "before": "Berapa menit ?",
+      "after": "Berapa menit?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 4,
+      "number": 24,
+      "field": "meaning",
+      "before": "2 hari yang lalu , kemarin lusa",
+      "after": "2 hari yang lalu, kemarin lusa",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 4,
+      "number": 51,
+      "field": "meaning",
+      "before": "Nomer",
+      "after": "Nomor",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 4,
+      "number": 52,
+      "field": "meaning",
+      "before": "Nomer berapa?",
+      "after": "Nomor berapa?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 36,
+      "field": "meaning",
+      "before": "Tanggal 2 , 2 hari",
+      "after": "Tanggal 2, 2 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 37,
+      "field": "meaning",
+      "before": "Tanggal 3 , 3 hari",
+      "after": "Tanggal 3, 3 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 38,
+      "field": "meaning",
+      "before": "Tanggal 4 , 4 hari",
+      "after": "Tanggal 4, 4 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 39,
+      "field": "meaning",
+      "before": "Tanggal 5 , 5 hari",
+      "after": "Tanggal 5, 5 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 40,
+      "field": "meaning",
+      "before": "Tanggal 6 , 6 hari",
+      "after": "Tanggal 6, 6 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 41,
+      "field": "meaning",
+      "before": "Tanggal 7 , 7 hari",
+      "after": "Tanggal 7, 7 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 43,
+      "field": "meaning",
+      "before": "Tanggal 9 , 9 hari",
+      "after": "Tanggal 9, 9 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 45,
+      "field": "meaning",
+      "before": "Tanggal 14 , 14 hari",
+      "after": "Tanggal 14, 14 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 46,
+      "field": "meaning",
+      "before": "Tanggal 20 , 20 hari",
+      "after": "Tanggal 20, 20 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 47,
+      "field": "meaning",
+      "before": "Tanggal 24 , 24 hari",
+      "after": "Tanggal 24, 24 hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 48,
+      "field": "meaning",
+      "before": "Tanggal , hari",
+      "after": "Tanggal, hari",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 5,
+      "number": 54,
+      "field": "meaning",
+      "before": "Peron nomor , jalur nomor",
+      "after": "Peron nomor, jalur nomor",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 7,
+      "number": 9,
+      "field": "jp",
+      "before": "かけます （を）",
+      "after": "かけます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 7,
+      "number": 9,
+      "field": "kana",
+      "before": "かけます （を）",
+      "after": "かけます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 7,
+      "number": 43,
+      "field": "meaning",
+      "before": "Bagaimana ? (menawarkan sesuatu kepada orang)",
+      "after": "Bagaimana? (menawarkan sesuatu kepada orang)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 1,
+      "field": "jp",
+      "before": "ハンサム（な）",
+      "after": "ハンサム(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 1,
+      "field": "kana",
+      "before": "ハンサム（な）",
+      "after": "ハンサム(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 2,
+      "field": "jp",
+      "before": "きれい（な）",
+      "after": "きれい(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 2,
+      "field": "kana",
+      "before": "きれい（な）",
+      "after": "きれい(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 3,
+      "field": "jp",
+      "before": "静香（な）",
+      "after": "静香(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 3,
+      "field": "kana",
+      "before": "しずか（な）",
+      "after": "しずか(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 4,
+      "field": "jp",
+      "before": "にぎやか（な）",
+      "after": "にぎやか(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 4,
+      "field": "kana",
+      "before": "にぎやか（な）",
+      "after": "にぎやか(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 5,
+      "field": "jp",
+      "before": "有名（な）",
+      "after": "有名(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 5,
+      "field": "kana",
+      "before": "ゆうめい（な）",
+      "after": "ゆうめい(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 6,
+      "field": "jp",
+      "before": "新設（な）",
+      "after": "新設(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 6,
+      "field": "kana",
+      "before": "しんせつ（な）",
+      "after": "しんせつ(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 7,
+      "field": "jp",
+      "before": "元気（な）",
+      "after": "元気(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 7,
+      "field": "kana",
+      "before": "げんき（な）",
+      "after": "げんき(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 8,
+      "field": "jp",
+      "before": "暇（な）",
+      "after": "暇(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 8,
+      "field": "kana",
+      "before": "ひま（な）",
+      "after": "ひま(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 9,
+      "field": "jp",
+      "before": "便利（な）",
+      "after": "便利(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 9,
+      "field": "kana",
+      "before": "べんり（な）",
+      "after": "べんり(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 10,
+      "field": "jp",
+      "before": "すてき（な）",
+      "after": "すてき(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 10,
+      "field": "kana",
+      "before": "すてき（な）",
+      "after": "すてき(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 15,
+      "field": "jp",
+      "before": "いい（よい）",
+      "after": "いい(よい)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 15,
+      "field": "kana",
+      "before": "いい（よい）",
+      "after": "いい(よい)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 43,
+      "field": "meaning",
+      "before": "Yang bagaimana ?",
+      "after": "Yang bagaimana?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 48,
+      "field": "meaning",
+      "before": "Apa kabar ?",
+      "after": "Apa kabar?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 50,
+      "field": "meaning",
+      "before": "Mau nambah secangkir lagi ?",
+      "after": "Mau nambah secangkir lagi?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 51,
+      "field": "jp",
+      "before": "（いいえ）けっこうです",
+      "after": "(いいえ)けっこうです",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 8,
+      "number": 51,
+      "field": "kana",
+      "before": "（いいえ）けっこうです",
+      "after": "(いいえ)けっこうです",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 3,
+      "field": "kana",
+      "before": "すき（な）",
+      "after": "すき(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 3,
+      "field": "meaning",
+      "before": "Suka , gemar",
+      "after": "Suka, gemar",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 4,
+      "field": "kana",
+      "before": "きらい（な）",
+      "after": "きらい(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 5,
+      "field": "kana",
+      "before": "じょうず（な）",
+      "after": "じょうず(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 5,
+      "field": "meaning",
+      "before": "Pandai , pintar",
+      "after": "Pandai, pintar",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 6,
+      "field": "kana",
+      "before": "へた（な）",
+      "after": "へた(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 6,
+      "field": "meaning",
+      "before": "Tidak pandai , tidak pintar , bodoh",
+      "after": "Tidak pandai, tidak pintar, bodoh",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 33,
+      "field": "jp",
+      "before": "夫／主人",
+      "after": "夫/主人",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 33,
+      "field": "kana",
+      "before": "おっと／しゅじん",
+      "after": "おっと/しゅじん",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 35,
+      "field": "jp",
+      "before": "妻／家内",
+      "after": "妻/家内",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 35,
+      "field": "kana",
+      "before": "つま／かない",
+      "after": "つま/かない",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 42,
+      "field": "jp",
+      "before": "早く／速く",
+      "after": "早く/速く",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 60,
+      "field": "meaning",
+      "before": "Film kartun , animasi",
+      "after": "Film kartun, animasi",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 9,
+      "number": 76,
+      "field": "kana",
+      "before": "たっきゅう／ピンポン",
+      "after": "たっきゅう/ピンポン",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 10,
+      "number": 3,
+      "field": "jp",
+      "before": "いろいろ（な）",
+      "after": "いろいろ(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 10,
+      "number": 3,
+      "field": "kana",
+      "before": "いろいろ（な）",
+      "after": "いろいろ(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 10,
+      "number": 25,
+      "field": "jp",
+      "before": "ＡＴＭ",
+      "after": "ATM",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 10,
+      "number": 25,
+      "field": "kana",
+      "before": "ＡＴＭ",
+      "after": "ATM",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 11,
+      "number": 3,
+      "field": "kana",
+      "before": "やすみます （を）",
+      "after": "やすみます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 11,
+      "number": 14,
+      "field": "meaning",
+      "before": "Berapa buah ?",
+      "after": "Berapa buah?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 11,
+      "number": 37,
+      "field": "meaning",
+      "before": "Berapa lama ?",
+      "after": "Berapa lama?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 11,
+      "number": 43,
+      "field": "meaning",
+      "before": "Mau keluar ?",
+      "after": "Mau keluar?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 12,
+      "number": 1,
+      "field": "kana",
+      "before": "かんたん（な）",
+      "after": "かんたん(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 12,
+      "number": 4,
+      "field": "jp",
+      "before": "早い，速い",
+      "after": "早い,速い",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 13,
+      "number": 8,
+      "field": "kana",
+      "before": "さんぽします （を）",
+      "after": "さんぽします (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 13,
+      "number": 9,
+      "field": "kana",
+      "before": "たいへん（な）",
+      "after": "たいへん(な)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 13,
+      "number": 16,
+      "field": "meaning",
+      "before": "Pancing , memancing",
+      "after": "Pancing, memancing",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 13,
+      "number": 20,
+      "field": "meaning",
+      "before": "Kira-kira , sekitar",
+      "after": "Kira-kira, sekitar",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 14,
+      "number": 6,
+      "field": "kana",
+      "before": "まちまｓう",
+      "after": "まちまsう",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 14,
+      "number": 6,
+      "field": "kana",
+      "before": "まちまsう",
+      "after": "まちます",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 14,
+      "number": 42,
+      "field": "jp",
+      "before": "あれ？",
+      "after": "あれ?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 14,
+      "number": 42,
+      "field": "kana",
+      "before": "あれ？",
+      "after": "あれ?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 14,
+      "number": 64,
+      "field": "meaning",
+      "before": "Jadwal keberangkatan bis,kereta dll",
+      "after": "Jadwal keberangkatan bis, kereta dll",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 15,
+      "number": 18,
+      "field": "meaning",
+      "before": "Pekerjaan , profesi",
+      "after": "Pekerjaan, profesi",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 16,
+      "number": 1,
+      "field": "kana",
+      "before": "のります （に）",
+      "after": "のります (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 16,
+      "number": 2,
+      "field": "kana",
+      "before": "おります （を）",
+      "after": "おります (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 16,
+      "number": 4,
+      "field": "kana",
+      "before": "あびます （を）",
+      "after": "あびます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 16,
+      "number": 7,
+      "field": "kana",
+      "before": "おろします （を）",
+      "after": "おろします (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 16,
+      "number": 38,
+      "field": "meaning",
+      "before": "Nomer",
+      "after": "Nomor",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 16,
+      "number": 39,
+      "field": "meaning",
+      "before": "Dengan cara bagaimana, bagaimana caranya ?",
+      "after": "Dengan cara bagaimana, bagaimana caranya?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 16,
+      "number": 41,
+      "field": "meaning",
+      "before": "Mana ?",
+      "after": "Mana?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 17,
+      "number": 22,
+      "field": "meaning",
+      "before": "Baju,jaket",
+      "after": "Baju, jaket",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 17,
+      "number": 26,
+      "field": "meaning",
+      "before": "Apa yang terjadi , ada masalah apa?",
+      "after": "Apa yang terjadi, ada masalah apa?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 17,
+      "number": 30,
+      "field": "meaning",
+      "before": "Setelah itu, kemudian , dan",
+      "after": "Setelah itu, kemudian, dan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 18,
+      "number": 3,
+      "field": "meaning",
+      "before": "Bermain (alat musik , piano)",
+      "after": "Bermain (alat musik, piano)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 18,
+      "number": 13,
+      "field": "meaning",
+      "before": "Hobi , kegemaran",
+      "after": "Hobi, kegemaran",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 18,
+      "number": 24,
+      "field": "meaning",
+      "before": "Betulkah , benarkah",
+      "after": "Betulkah, benarkah",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 19,
+      "number": 1,
+      "field": "meaning",
+      "before": "Naik , mendaki",
+      "after": "Naik, mendaki",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 19,
+      "number": 2,
+      "field": "kana",
+      "before": "とまります （に）",
+      "after": "とまります (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 19,
+      "number": 18,
+      "field": "meaning",
+      "before": "Tidak lama lagi , sebentar lagi",
+      "after": "Tidak lama lagi, sebentar lagi",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 20,
+      "number": 1,
+      "field": "kana",
+      "before": "いります （が）",
+      "after": "いります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 20,
+      "number": 2,
+      "field": "meaning",
+      "before": "Memeriksa,meneliti,mengecek",
+      "after": "Memeriksa, meneliti, mengecek",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 20,
+      "number": 9,
+      "field": "meaning",
+      "before": "Kata, kosakata ,bahasa",
+      "after": "Kata, kosakata, bahasa",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 21,
+      "number": 7,
+      "field": "jp",
+      "before": "やめます （を）",
+      "after": "やめます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 21,
+      "number": 7,
+      "field": "kana",
+      "before": "やめます （を）",
+      "after": "やめます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 21,
+      "number": 13,
+      "field": "meaning",
+      "before": "Betul ,benar",
+      "after": "Betul, benar",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 21,
+      "number": 40,
+      "field": "meaning",
+      "before": "Distrik,daerah",
+      "after": "Distrik, daerah",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 21,
+      "number": 42,
+      "field": "jp",
+      "before": "首相 （内閣総理大臣）",
+      "after": "首相 (内閣総理大臣)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 21,
+      "number": 42,
+      "field": "kana",
+      "before": "しゅしょう （ないかくそうりだいじん）",
+      "after": "しゅしょう (ないかくそうりだいじん)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 22,
+      "number": 2,
+      "field": "meaning",
+      "before": "Memakai (sepatu,celana)",
+      "after": "Memakai (sepatu, celana)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 22,
+      "number": 4,
+      "field": "jp",
+      "before": "かけます （を）",
+      "after": "かけます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 22,
+      "number": 4,
+      "field": "kana",
+      "before": "かけます （を）",
+      "after": "かけます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 22,
+      "number": 5,
+      "field": "jp",
+      "before": "します （を）",
+      "after": "します (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 22,
+      "number": 5,
+      "field": "kana",
+      "before": "します （を）",
+      "after": "します (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 22,
+      "number": 7,
+      "field": "meaning",
+      "before": "Kami,kita",
+      "after": "Kami, kita",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 22,
+      "number": 18,
+      "field": "meaning",
+      "before": "Sering , dengan baik",
+      "after": "Sering, dengan baik",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 23,
+      "number": 1,
+      "field": "kana",
+      "before": "ききます （に）",
+      "after": "ききます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 23,
+      "number": 5,
+      "field": "kana",
+      "before": "さわります （に）",
+      "after": "さわります (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 23,
+      "number": 6,
+      "field": "kana",
+      "before": "でます （が）",
+      "after": "でます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 23,
+      "number": 8,
+      "field": "kana",
+      "before": "わたります （を）",
+      "after": "わたります (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 23,
+      "number": 9,
+      "field": "kana",
+      "before": "まがります （へ）",
+      "after": "まがります (へ)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 23,
+      "number": 33,
+      "field": "meaning",
+      "before": "Pompa bensin , pom bensin",
+      "after": "Pompa bensin, pom bensin",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 2,
+      "field": "meaning",
+      "before": "Mengoreksi , memperbaiki",
+      "after": "Mengoreksi, memperbaiki",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 5,
+      "field": "kana",
+      "before": "おくります （を）",
+      "after": "おくります (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 7,
+      "field": "meaning",
+      "before": "Memandu , mengantarkan",
+      "after": "Memandu, mengantarkan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 9,
+      "field": "jp",
+      "before": "おじいさん／おじいちゃん",
+      "after": "おじいさん/おじいちゃん",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 9,
+      "field": "kana",
+      "before": "おじいさん／おじいちゃん",
+      "after": "おじいさん/おじいちゃん",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 10,
+      "field": "jp",
+      "before": "おばあさん／おばあちゃん",
+      "after": "おばあさん/おばあちゃん",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 10,
+      "field": "kana",
+      "before": "おばあさん／おばあちゃん",
+      "after": "おばあさん/おばあちゃん",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 25,
+      "field": "jp",
+      "before": "お中元／お歳暮",
+      "after": "お中元/お歳暮",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 24,
+      "number": 25,
+      "field": "kana",
+      "before": "おちゅうげん／おせいぼ",
+      "after": "おちゅうげん/おせいぼ",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 25,
+      "number": 3,
+      "field": "kana",
+      "before": "とります （としを～）",
+      "after": "とります (としを～)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 1,
+      "field": "meaning",
+      "before": "Melihat , memeriksa",
+      "after": "Melihat, memeriksa",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 3,
+      "field": "kana",
+      "before": "おくれます （じかん に）",
+      "after": "おくれます (じかん に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 4,
+      "field": "kana",
+      "before": "まにあいます（じかん に）",
+      "after": "まにあいます(じかん に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 6,
+      "field": "kana",
+      "before": "さんかします（パーティーに）",
+      "after": "さんかします(パーティーに)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 6,
+      "field": "meaning",
+      "before": "Turut serta, ikut , berpartisipasi",
+      "after": "Turut serta, ikut, berpartisipasi",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 22,
+      "field": "meaning",
+      "before": "Dimanapun",
+      "after": "Di mana pun",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 28,
+      "field": "kana",
+      "before": "かたづきます（にもつが）",
+      "after": "かたづきます(にもつが)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 49,
+      "field": "jp",
+      "before": "可燃ごみ／燃えるごみ",
+      "after": "可燃ごみ/燃えるごみ",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 49,
+      "field": "kana",
+      "before": "かねんごみ／もえるごみ",
+      "after": "かねんごみ/もえるごみ",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 53,
+      "field": "jp",
+      "before": "不燃ごみ／燃えないごみ",
+      "after": "不燃ごみ/燃えないごみ",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 53,
+      "field": "kana",
+      "before": "ふねんごみ／もえないごみ",
+      "after": "ふねんごみ/もえないごみ",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 26,
+      "number": 64,
+      "field": "kana",
+      "before": "だい３かようび",
+      "after": "だい3かようび",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 3,
+      "field": "kana",
+      "before": "はしります （を）",
+      "after": "はしります (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 4,
+      "field": "kana",
+      "before": "とります （を）",
+      "after": "とります (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 5,
+      "field": "kana",
+      "before": "みえます （が）",
+      "after": "みえます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 6,
+      "field": "kana",
+      "before": "きこえます （が）",
+      "after": "きこえます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 8,
+      "field": "kana",
+      "before": "ひらきます （を）",
+      "after": "ひらきます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 20,
+      "field": "meaning",
+      "before": "Pembersihan,pencucian",
+      "after": "Pembersihan, pencucian",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 33,
+      "field": "meaning",
+      "before": "Suatu saat, suatu hari,kapan-kapan",
+      "after": "Suatu saat, suatu hari, kapan-kapan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 35,
+      "field": "meaning",
+      "before": "Sangat menarik,cemerlang,hebat",
+      "after": "Sangat menarik, cemerlang, hebat",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 38,
+      "field": "meaning",
+      "before": "Komik,kartun",
+      "after": "Komik, kartun",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 45,
+      "field": "meaning",
+      "before": "Menyematkan, memakai,memasang",
+      "after": "Menyematkan, memakai, memasang",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 49,
+      "field": "jp",
+      "before": "じぶん",
+      "after": "自分",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 27,
+      "number": 49,
+      "field": "kana",
+      "before": "自分",
+      "after": "じぶん",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 27,
+      "number": 49,
+      "field": "meaning",
+      "before": "Sendiri",
+      "after": "Diri sendiri",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 27,
+      "number": 71,
+      "field": "meaning",
+      "before": "Pembayaran rekening listrik,air ledeng,telpon,tarif jasa-jasa pemerintah dll",
+      "after": "Pembayaran rekening listrik, air ledeng, telepon, tarif jasa-jasa pemerintah dll",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 27,
+      "number": 72,
+      "field": "meaning",
+      "before": "Fotocopi",
+      "after": "Fotokopi",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 28,
+      "number": 1,
+      "field": "kana",
+      "before": "うれます （が）",
+      "after": "うれます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 28,
+      "number": 6,
+      "field": "kana",
+      "before": "かよいます （に）",
+      "after": "かよいます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 28,
+      "number": 8,
+      "field": "meaning",
+      "before": "Rajin,sungguh-sungguh",
+      "after": "Rajin, sungguh-sungguh",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 28,
+      "number": 19,
+      "field": "meaning",
+      "before": "Roman,novel",
+      "after": "Roman, novel",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 28,
+      "number": 29,
+      "field": "meaning",
+      "before": "Sementara,sementara waktu,sebentar",
+      "after": "Sementara, sementara waktu, sebentar",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 28,
+      "number": 32,
+      "field": "meaning",
+      "before": "Jadi,lalu",
+      "after": "Jadi, lalu",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 28,
+      "number": 41,
+      "field": "meaning",
+      "before": "Kekuatan , tenaga",
+      "after": "Kekuatan, tenaga",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 29,
+      "number": 1,
+      "field": "kana",
+      "before": "あきます （が）",
+      "after": "あきます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 29,
+      "number": 4,
+      "field": "meaning",
+      "before": "Mati,padam",
+      "after": "Mati, padam",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 29,
+      "number": 12,
+      "field": "kana",
+      "before": "つきます （が）",
+      "after": "つきます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 29,
+      "number": 13,
+      "field": "kana",
+      "before": "はずれます （が）",
+      "after": "はずれます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 29,
+      "number": 14,
+      "field": "kana",
+      "before": "とまります （が）",
+      "after": "とまります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 29,
+      "number": 17,
+      "field": "kana",
+      "before": "かかります （が）",
+      "after": "かかります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 29,
+      "number": 41,
+      "field": "meaning",
+      "before": "Jatuh,roboh",
+      "after": "Jatuh, roboh",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 3,
+      "field": "meaning",
+      "before": "Menghias,mendekor",
+      "after": "Menghias, mendekor",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 38,
+      "field": "meaning",
+      "before": "Pojok,sudut",
+      "after": "Pojok, sudut",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 39,
+      "field": "jp",
+      "before": "まだ（＋）",
+      "after": "まだ(+)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 39,
+      "field": "kana",
+      "before": "まだ（＋）",
+      "after": "まだ(+)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 51,
+      "field": "meaning",
+      "before": "Jadi,lalu",
+      "after": "Jadi, lalu",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 53,
+      "field": "kana",
+      "before": "うえから２だんめ",
+      "after": "うえから2だんめ",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 56,
+      "field": "jp",
+      "before": "前から２列目",
+      "after": "前から2列目",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 56,
+      "field": "kana",
+      "before": "まえから２れつめ",
+      "after": "まえから2れつめ",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 59,
+      "field": "meaning",
+      "before": "Samping,sebelah",
+      "after": "Samping, sebelah",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 60,
+      "field": "meaning",
+      "before": "Letak , arah",
+      "after": "Letak, arah",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 61,
+      "field": "jp",
+      "before": "２行目",
+      "after": "2行目",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 30,
+      "number": 61,
+      "field": "kana",
+      "before": "２ぎょうめ",
+      "after": "2ぎょうめ",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 31,
+      "number": 1,
+      "field": "kana",
+      "before": "はじまります （が）",
+      "after": "はじまります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 31,
+      "number": 4,
+      "field": "kana",
+      "before": "うけます （を）",
+      "after": "うけます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 31,
+      "number": 4,
+      "field": "meaning",
+      "before": "Menempuh , mengikuti (ujian)",
+      "after": "Menempuh, mengikuti (ujian)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 31,
+      "number": 5,
+      "field": "kana",
+      "before": "にゅうがくします （に）",
+      "after": "にゅうがくします (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 31,
+      "number": 6,
+      "field": "kana",
+      "before": "そつぎょうします （を）",
+      "after": "そつぎょうします (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 31,
+      "number": 7,
+      "field": "kana",
+      "before": "しゅっせきします （に）",
+      "after": "しゅっせきします (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 31,
+      "number": 40,
+      "field": "meaning",
+      "before": "Kebaikan,kenijakan",
+      "after": "Kebaikan, kenijakan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 3,
+      "field": "kana",
+      "before": "しっぱいします （に）",
+      "after": "しっぱいします (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 4,
+      "field": "kana",
+      "before": "ごうかくします （に）",
+      "after": "ごうかくします (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 6,
+      "field": "jp",
+      "before": "やみます （が）",
+      "after": "やみます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 6,
+      "field": "kana",
+      "before": "やみます （が）",
+      "after": "やみます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 9,
+      "field": "kana",
+      "before": "ふきます （が）",
+      "after": "ふきます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 10,
+      "field": "kana",
+      "before": "なおります （が）",
+      "after": "なおります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 11,
+      "field": "kana",
+      "before": "なおります （が）",
+      "after": "なおります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 12,
+      "field": "kana",
+      "before": "つづきます （が）",
+      "after": "つづきます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 13,
+      "field": "jp",
+      "before": "ひきます （を）",
+      "after": "ひきます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 13,
+      "field": "kana",
+      "before": "ひきます （を）",
+      "after": "ひきます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 19,
+      "field": "jp",
+      "before": "やけど （を）します",
+      "after": "やけど (を)します",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 19,
+      "field": "kana",
+      "before": "やけど （を）します",
+      "after": "やけど (を)します",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 20,
+      "field": "jp",
+      "before": "けが （を）します",
+      "after": "けが (を)します",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 20,
+      "field": "kana",
+      "before": "けが （を）します",
+      "after": "けが (を)します",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 20,
+      "field": "meaning",
+      "before": "Luka,cedera",
+      "after": "Luka, cedera",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 21,
+      "field": "jp",
+      "before": "せき （が）でます",
+      "after": "せき (が)でます",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 21,
+      "field": "kana",
+      "before": "せき （が）でます",
+      "after": "せき (が)でます",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 33,
+      "field": "meaning",
+      "before": "Mesin,motor",
+      "after": "Mesin, motor",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 54,
+      "field": "kana",
+      "before": "あたります （が）",
+      "after": "あたります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 54,
+      "field": "meaning",
+      "before": "Menang (lotre) , nembus (lotre)",
+      "after": "Menang (lotre), nembus (lotre)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 65,
+      "field": "jp",
+      "before": "にわか雨／夕立",
+      "after": "にわか雨/夕立",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 32,
+      "number": 65,
+      "field": "kana",
+      "before": "にわかあめ／ゆうだち",
+      "after": "にわかあめ/ゆうだち",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 9,
+      "field": "kana",
+      "before": "ちゅういします （に）",
+      "after": "ちゅういします (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 10,
+      "field": "kana",
+      "before": "はずします （せきを）",
+      "after": "はずします (せきを)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 11,
+      "field": "meaning",
+      "before": "Jangan,tidak boleh,tidak bisa",
+      "after": "Jangan, tidak boleh, tidak bisa",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 17,
+      "field": "meaning",
+      "before": "Mesin ～",
+      "after": "Mesin ~",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 28,
+      "field": "meaning",
+      "before": "Sedang～/dalam ～",
+      "after": "Sedang~/dalam ~",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 29,
+      "field": "meaning",
+      "before": "Apa ～/ bagaimana ～",
+      "after": "Apa ~/ bagaimana ~",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 30,
+      "field": "meaning",
+      "before": "Tidak ～lagi (diikuti dengan bentuk negatif)",
+      "after": "Tidak ~lagi (diikuti dengan bentuk negatif)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 31,
+      "field": "meaning",
+      "before": "Tinggal ～lagi",
+      "after": "Tinggal ~lagi",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 34,
+      "field": "meaning",
+      "before": "Dalam ～",
+      "after": "Dalam ~",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 40,
+      "field": "kana",
+      "before": "うちます （を）",
+      "after": "うちます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 45,
+      "field": "meaning",
+      "before": "Misalnya,contohnya",
+      "after": "Misalnya, contohnya",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 53,
+      "field": "meaning",
+      "before": "Kesedihan,rasa sedih",
+      "after": "Kesedihan, rasa sedih",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 54,
+      "field": "meaning",
+      "before": "Memakai,menggunakan",
+      "after": "Memakai, menggunakan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 62,
+      "field": "meaning",
+      "before": "Mudah terbakar, larangan menyalakan api",
+      "after": "Dilarang menyalakan api",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 33,
+      "number": 63,
+      "field": "meaning",
+      "before": "",
+      "after": "Hati-hati, barang pecah belah",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 33,
+      "number": 68,
+      "field": "jp",
+      "before": "アイロン（低温）",
+      "after": "アイロン(低温)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 33,
+      "number": 68,
+      "field": "kana",
+      "before": "アイロン（ていおん）",
+      "after": "アイロン(ていおん)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 1,
+      "field": "kana",
+      "before": "みがきます （を）",
+      "after": "みがきます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 3,
+      "field": "meaning",
+      "before": "Melipat,mematahkan",
+      "after": "Melipat, mematahkan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 4,
+      "field": "kana",
+      "before": "きがつきます （に）",
+      "after": "きがつきます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 6,
+      "field": "kana",
+      "before": "みつかります （が）",
+      "after": "みつかります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 6,
+      "field": "meaning",
+      "before": "Ketemu,ditemukan",
+      "after": "Ketemu, ditemukan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 7,
+      "field": "jp",
+      "before": "します （を）",
+      "after": "します (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 7,
+      "field": "kana",
+      "before": "します （を）",
+      "after": "します (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 36,
+      "field": "meaning",
+      "before": "Ini sudah benarkan ?",
+      "after": "Ini sudah benarkan?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 39,
+      "field": "meaning",
+      "before": "Bahan,material",
+      "after": "Bahan, material",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 43,
+      "field": "meaning",
+      "before": "～Buah (benda yang kecil)",
+      "after": "~Buah (benda yang kecil)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 66,
+      "field": "jp",
+      "before": "からし（マスタード）",
+      "after": "からし(マスタード)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 66,
+      "field": "kana",
+      "before": "からし（マスタード）",
+      "after": "からし(マスタード)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 34,
+      "number": 74,
+      "field": "meaning",
+      "before": "Tutup gelas,panci,dll",
+      "after": "Tutup gelas, panci, dll",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 1,
+      "field": "kana",
+      "before": "さきます （が）",
+      "after": "さきます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 2,
+      "field": "kana",
+      "before": "かわります （が）",
+      "after": "かわります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 5,
+      "field": "meaning",
+      "before": "Memungut,mengambil",
+      "after": "Memungut, mengambil",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 6,
+      "field": "jp",
+      "before": "かかります （が）",
+      "after": "かかります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 6,
+      "field": "kana",
+      "before": "かかります （が）",
+      "after": "かかります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 6,
+      "field": "meaning",
+      "before": "Ada (telpon)",
+      "after": "Ada (telepon)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 7,
+      "field": "meaning",
+      "before": "Mudah,ringan",
+      "after": "Mudah, ringan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 8,
+      "field": "meaning",
+      "before": "Betul,benar",
+      "after": "Betul, benar",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 9,
+      "field": "meaning",
+      "before": "Aneh,langka",
+      "after": "Aneh, langka",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 13,
+      "field": "meaning",
+      "before": "Kampung,desa",
+      "after": "Kampung, desa",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 16,
+      "field": "meaning",
+      "before": "Atap,lantai puncak",
+      "after": "Atap, lantai puncak",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 28,
+      "field": "meaning",
+      "before": "Penutup,tutup",
+      "after": "Penutup, tutup",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 30,
+      "field": "meaning",
+      "before": "Lagu,musik",
+      "after": "Lagu, musik",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 39,
+      "field": "meaning",
+      "before": "Terperinci,detail",
+      "after": "Terperinci, detail",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 35,
+      "number": 44,
+      "field": "meaning",
+      "before": "Hidup rukun , hubungannya akrab",
+      "after": "Hidup rukun, hubungannya akrab",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 1,
+      "field": "kana",
+      "before": "とどきます （が）",
+      "after": "とどきます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 2,
+      "field": "kana",
+      "before": "でます （に）",
+      "after": "でます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 3,
+      "field": "kana",
+      "before": "うちます （を）",
+      "after": "うちます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 7,
+      "field": "kana",
+      "before": "すぎます （７じを）",
+      "after": "すぎます (7じを)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 7,
+      "field": "meaning",
+      "before": "Berlalu,melewati (pukul 7)",
+      "after": "Berlalu, melewati (pukul 7)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 8,
+      "field": "kana",
+      "before": "なれます （に）",
+      "after": "なれます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 18,
+      "field": "kana",
+      "before": "まいとし／まいねん",
+      "after": "まいとし/まいねん",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 21,
+      "field": "meaning",
+      "before": "Selalu,pasti",
+      "after": "Selalu, pasti",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 22,
+      "field": "meaning",
+      "before": "Sama sekali,bagaimanapun (diikuti bentuk negatif)",
+      "after": "Sama sekali, bagaimanapun (diikuti bentuk negatif)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 24,
+      "field": "meaning",
+      "before": "Sedapat mungkin, sebisa mungkin,sebisanya",
+      "after": "Sedapat mungkin, sebisa mungkin, sebisanya",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 32,
+      "field": "meaning",
+      "before": "Atau,atau dan lain-lain",
+      "after": "Atau, atau dan lain-lain",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 36,
+      "number": 35,
+      "field": "meaning",
+      "before": "Keinginan,perasaan",
+      "after": "Keinginan, perasaan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 37,
+      "number": 7,
+      "field": "meaning",
+      "before": "Memberi peringatan,memperingatkan",
+      "after": "Memberi peringatan, memperingatkan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 37,
+      "number": 10,
+      "field": "meaning",
+      "before": "Memecahkan,merusakkan",
+      "after": "Memecahkan, merusakkan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 37,
+      "number": 23,
+      "field": "meaning",
+      "before": "Kencan,pacaran",
+      "after": "Kencan, pacaran",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 38,
+      "number": 6,
+      "field": "kana",
+      "before": "いれます （を）",
+      "after": "いれます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 38,
+      "number": 7,
+      "field": "kana",
+      "before": "きります （を）",
+      "after": "きります (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 38,
+      "number": 8,
+      "field": "kana",
+      "before": "かけます （を）",
+      "after": "かけます (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 38,
+      "number": 19,
+      "field": "meaning",
+      "before": "Dokumen , surat",
+      "after": "Dokumen, surat",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 38,
+      "number": 30,
+      "field": "kana",
+      "before": "おします （を）",
+      "after": "おします (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 38,
+      "number": 33,
+      "field": "jp",
+      "before": "５年生",
+      "after": "5年生",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 38,
+      "number": 33,
+      "field": "kana",
+      "before": "５ねんせい",
+      "after": "5ねんせい",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 38,
+      "number": 40,
+      "field": "meaning",
+      "before": "Angka- , skor -",
+      "after": "Angka-, skor -",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 39,
+      "number": 1,
+      "field": "kana",
+      "before": "こたえます （に）",
+      "after": "こたえます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 39,
+      "number": 2,
+      "field": "kana",
+      "before": "たおれます （が）",
+      "after": "たおれます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 39,
+      "number": 3,
+      "field": "kana",
+      "before": "やけます （が）",
+      "after": "やけます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 39,
+      "number": 4,
+      "field": "kana",
+      "before": "とおります （を）",
+      "after": "とおります (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 39,
+      "number": 28,
+      "field": "kana",
+      "before": "あせ （あせをかきます）",
+      "after": "あせ (あせをかきます)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 39,
+      "number": 48,
+      "field": "meaning",
+      "before": "Rindu,kangen",
+      "after": "Rindu, kangen",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 4,
+      "field": "kana",
+      "before": "あいます （が）",
+      "after": "あいます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 4,
+      "field": "meaning",
+      "before": "Tepat,cocok",
+      "after": "Tepat, cocok",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 42,
+      "field": "meaning",
+      "before": "Bagaimana ? (bentuk sopan dari どうですか)",
+      "after": "Bagaimana? (bentuk sopan dari どうですか)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 72,
+      "field": "jp",
+      "before": "体積／容積",
+      "after": "体積/容積",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 72,
+      "field": "kana",
+      "before": "たいせき／ようせき",
+      "after": "たいせき/ようせき",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 87,
+      "field": "jp",
+      "before": "は（イコール）",
+      "after": "は(イコール)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 87,
+      "field": "kana",
+      "before": "は（イコール）",
+      "after": "は(イコール)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 91,
+      "field": "jp",
+      "before": "円（丸）",
+      "after": "円(丸)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 40,
+      "number": 91,
+      "field": "kana",
+      "before": "えん（まる）",
+      "after": "えん(まる)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 41,
+      "number": 3,
+      "field": "meaning",
+      "before": "Memberikan (bawahan,binatang,tanaman)",
+      "after": "Memberikan (bawahan, binatang, tanaman)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 41,
+      "number": 8,
+      "field": "kana",
+      "before": "おいわい （を）します",
+      "after": "おいわい (を)します",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 41,
+      "number": 8,
+      "field": "meaning",
+      "before": "Perayaan , hadiah , merayakan",
+      "after": "Perayaan, hadiah, merayakan",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 41,
+      "number": 8,
+      "field": "jp",
+      "before": "お祝い",
+      "after": "お祝いします",
+      "reason": "Bentuk kegiatan します tertulis di kolom kana"
+    },
+    {
+      "chapter": 42,
+      "number": 16,
+      "field": "meaning",
+      "before": "Tujuan,makud",
+      "after": "Tujuan, makud",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 42,
+      "number": 51,
+      "field": "jp",
+      "before": "画びょう／押しピン",
+      "after": "画びょう/押しピン",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 42,
+      "number": 51,
+      "field": "kana",
+      "before": "がびょう／おしピン",
+      "after": "がびょう/おしピン",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 1,
+      "field": "kana",
+      "before": "ふえます （が）",
+      "after": "ふえます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 2,
+      "field": "kana",
+      "before": "へります （が）",
+      "after": "へります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 3,
+      "field": "kana",
+      "before": "あがります （が）",
+      "after": "あがります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 4,
+      "field": "kana",
+      "before": "さがります （が）",
+      "after": "さがります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 5,
+      "field": "kana",
+      "before": "きれます （が）",
+      "after": "きれます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 6,
+      "field": "jp",
+      "before": "とれます （が）",
+      "after": "とれます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 6,
+      "field": "kana",
+      "before": "とれます （が）",
+      "after": "とれます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 7,
+      "field": "kana",
+      "before": "おちます （が）",
+      "after": "おちます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 8,
+      "field": "jp",
+      "before": "なくなります （が）",
+      "after": "なくなります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 8,
+      "field": "kana",
+      "before": "なくなります （が）",
+      "after": "なくなります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 19,
+      "field": "jp",
+      "before": "センス （ふくの～がある）",
+      "after": "センス (ふくの～がある)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 43,
+      "number": 19,
+      "field": "kana",
+      "before": "センス （ふくの～がある）",
+      "after": "センス (ふくの～がある)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 44,
+      "number": 6,
+      "field": "kana",
+      "before": "おきます （が）",
+      "after": "おきます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 44,
+      "number": 9,
+      "field": "meaning",
+      "before": "Sopan,hati-hati,rapi",
+      "after": "Sopan, hati-hati, rapi",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 44,
+      "number": 26,
+      "field": "meaning",
+      "before": "Anda mau bagaimana ?",
+      "after": "Anda mau bagaimana?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 44,
+      "number": 32,
+      "field": "meaning",
+      "before": "Begini cocok ?",
+      "after": "Begini cocok?",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 45,
+      "number": 2,
+      "field": "jp",
+      "before": "あいます （に）",
+      "after": "あいます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 45,
+      "number": 2,
+      "field": "kana",
+      "before": "あいます （に）",
+      "after": "あいます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 45,
+      "number": 9,
+      "field": "kana",
+      "before": "おくりもの （を）します",
+      "after": "おくりもの (を)します",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 45,
+      "number": 9,
+      "field": "meaning",
+      "before": "Hadiah , memberikan hadiah",
+      "after": "Hadiah, memberikan hadiah",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 45,
+      "number": 9,
+      "field": "jp",
+      "before": "贈り物",
+      "after": "贈り物します",
+      "reason": "Bentuk kegiatan します tertulis di kolom kana"
+    },
+    {
+      "chapter": 45,
+      "number": 14,
+      "field": "meaning",
+      "before": "Angka,skor",
+      "after": "Angka, skor",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 45,
+      "number": 41,
+      "field": "meaning",
+      "before": "Tempat,lokasi",
+      "after": "Tempat, lokasi",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 45,
+      "number": 56,
+      "field": "meaning",
+      "before": "Memeriksa , mengecek",
+      "after": "Memeriksa, mengecek",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 46,
+      "number": 4,
+      "field": "kana",
+      "before": "でます （が）",
+      "after": "でます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 46,
+      "number": 25,
+      "field": "kana",
+      "before": "てにはいります （が）",
+      "after": "てにはいります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 1,
+      "field": "kana",
+      "before": "あつまります （が）",
+      "after": "あつまります (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 2,
+      "field": "kana",
+      "before": "わかれます （が）",
+      "after": "わかれます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 8,
+      "field": "jp",
+      "before": "さします （を）",
+      "after": "さします (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 8,
+      "field": "kana",
+      "before": "さします （を）",
+      "after": "さします (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 30,
+      "field": "jp",
+      "before": "知合います",
+      "after": "知り合います",
+      "reason": "Okurigana 知り合います"
+    },
+    {
+      "chapter": 47,
+      "number": 31,
+      "field": "meaning",
+      "before": "Rata-rata usia lanjut",
+      "after": "Rata-rata harapan hidup",
+      "reason": "Koreksi penulisan/arti sumber"
+    },
+    {
+      "chapter": 47,
+      "number": 32,
+      "field": "kana",
+      "before": "くらべます （と）",
+      "after": "くらべます (と)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 38,
+      "field": "kana",
+      "before": "けしょう （を）します",
+      "after": "けしょう (を)します",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 38,
+      "field": "jp",
+      "before": "化粧",
+      "after": "化粧します",
+      "reason": "Bentuk kegiatan します tertulis di kolom kana"
+    },
+    {
+      "chapter": 47,
+      "number": 40,
+      "field": "kana",
+      "before": "ザーザー（ふる）",
+      "after": "ザーザー(ふる)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 40,
+      "field": "jp",
+      "before": "降る",
+      "after": "ザーザー降る",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 40,
+      "field": "kana",
+      "before": "ザーザー(ふる)",
+      "after": "ザーザーふる",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 41,
+      "field": "kana",
+      "before": "ピューピュー（ふく）",
+      "after": "ピューピュー(ふく)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 41,
+      "field": "jp",
+      "before": "吹く",
+      "after": "ピューピュー吹く",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 41,
+      "field": "kana",
+      "before": "ピューピュー(ふく)",
+      "after": "ピューピューふく",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 42,
+      "field": "kana",
+      "before": "ゴロゴロ（なる）",
+      "after": "ゴロゴロ(なる)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 42,
+      "field": "jp",
+      "before": "鳴る",
+      "after": "ゴロゴロ鳴る",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 42,
+      "field": "kana",
+      "before": "ゴロゴロ(なる)",
+      "after": "ゴロゴロなる",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 43,
+      "field": "jp",
+      "before": "ワンワン（ほえる）",
+      "after": "ワンワン(ほえる)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 43,
+      "field": "kana",
+      "before": "ワンワン（ほえる）",
+      "after": "ワンワン(ほえる)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 43,
+      "field": "jp",
+      "before": "ワンワン(ほえる)",
+      "after": "ワンワンほえる",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 43,
+      "field": "kana",
+      "before": "ワンワン(ほえる)",
+      "after": "ワンワンほえる",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 44,
+      "field": "kana",
+      "before": "ニャーニャー（なく）",
+      "after": "ニャーニャー(なく)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 44,
+      "field": "jp",
+      "before": "鳴く",
+      "after": "ニャーニャー鳴く",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 44,
+      "field": "kana",
+      "before": "ニャーニャー(なく)",
+      "after": "ニャーニャーなく",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 45,
+      "field": "kana",
+      "before": "カーカー（なく）",
+      "after": "カーカー(なく)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 45,
+      "field": "jp",
+      "before": "鳴く",
+      "after": "カーカー鳴く",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 45,
+      "field": "kana",
+      "before": "カーカー(なく)",
+      "after": "カーカーなく",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 46,
+      "field": "kana",
+      "before": "げらげら（わらう）",
+      "after": "げらげら(わらう)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 46,
+      "field": "jp",
+      "before": "笑う",
+      "after": "げらげら笑う",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 46,
+      "field": "kana",
+      "before": "げらげら(わらう)",
+      "after": "げらげらわらう",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 47,
+      "field": "kana",
+      "before": "しくしく（なく）",
+      "after": "しくしく(なく)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 47,
+      "field": "jp",
+      "before": "泣く",
+      "after": "しくしく泣く",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 47,
+      "field": "kana",
+      "before": "しくしく(なく)",
+      "after": "しくしくなく",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 48,
+      "field": "kana",
+      "before": "きょろきょろ（みる）",
+      "after": "きょろきょろ(みる)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 48,
+      "field": "jp",
+      "before": "見る",
+      "after": "きょろきょろ見る",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 48,
+      "field": "kana",
+      "before": "きょろきょろ(みる)",
+      "after": "きょろきょろみる",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 49,
+      "field": "kana",
+      "before": "ぱくぱく（たべる）",
+      "after": "ぱくぱく(たべる)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 49,
+      "field": "jp",
+      "before": "食べる",
+      "after": "ぱくぱく食べる",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 49,
+      "field": "kana",
+      "before": "ぱくぱく(たべる)",
+      "after": "ぱくぱくたべる",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 50,
+      "field": "kana",
+      "before": "ぐうぐう（ねる）",
+      "after": "ぐうぐう(ねる)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 50,
+      "field": "jp",
+      "before": "寝る",
+      "after": "ぐうぐう寝る",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 50,
+      "field": "kana",
+      "before": "ぐうぐう(ねる)",
+      "after": "ぐうぐうねる",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 51,
+      "field": "kana",
+      "before": "すらすら（よむ）",
+      "after": "すらすら(よむ)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 51,
+      "field": "jp",
+      "before": "読む",
+      "after": "すらすら読む",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 51,
+      "field": "kana",
+      "before": "すらすら(よむ)",
+      "after": "すらすらよむ",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 52,
+      "field": "jp",
+      "before": "ざらざら（している）",
+      "after": "ざらざら(している)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 52,
+      "field": "kana",
+      "before": "ざらざら（している）",
+      "after": "ざらざら(している)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 52,
+      "field": "jp",
+      "before": "ざらざら(している)",
+      "after": "ざらざらしている",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 52,
+      "field": "kana",
+      "before": "ざらざら(している)",
+      "after": "ざらざらしている",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 53,
+      "field": "jp",
+      "before": "べたべた（している）",
+      "after": "べたべた(している)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 53,
+      "field": "kana",
+      "before": "べたべた（している）",
+      "after": "べたべた(している)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 53,
+      "field": "jp",
+      "before": "べたべた(している)",
+      "after": "べたべたしている",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 53,
+      "field": "kana",
+      "before": "べたべた(している)",
+      "after": "べたべたしている",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 47,
+      "number": 54,
+      "field": "jp",
+      "before": "つるつる（している）",
+      "after": "つるつる(している)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 54,
+      "field": "kana",
+      "before": "つるつる（している）",
+      "after": "つるつる(している)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 47,
+      "number": 54,
+      "field": "jp",
+      "before": "つるつる(している)",
+      "after": "つるつるしている",
+      "reason": "Pertahankan onomatope sebagai bagian kosakata, bukan hanya verba penjelasnya"
+    },
+    {
+      "chapter": 47,
+      "number": 54,
+      "field": "kana",
+      "before": "つるつる(している)",
+      "after": "つるつるしている",
+      "reason": "Bacaan onomatope dan verba"
+    },
+    {
+      "chapter": 48,
+      "number": 5,
+      "field": "meaning",
+      "before": "Disiplin,galak,keras",
+      "after": "Disiplin, galak, keras",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 48,
+      "number": 7,
+      "field": "meaning",
+      "before": "Jadwal,rencana,daftar",
+      "after": "Jadwal, rencana, daftar",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 48,
+      "number": 9,
+      "field": "meaning",
+      "before": "Orang (berhubungan dengan sanak,famili,bawahan)",
+      "after": "Orang (berhubungan dengan sanak, famili, bawahan)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 1,
+      "field": "kana",
+      "before": "つとめます （に）",
+      "after": "つとめます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 3,
+      "field": "kana",
+      "before": "かけます （に）",
+      "after": "かけます (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 5,
+      "field": "kana",
+      "before": "よります （に）",
+      "after": "よります (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 6,
+      "field": "meaning",
+      "before": "Ada,pergi,datang (bentuk hormat います、い きます、きます)",
+      "after": "Ada, pergi, datang (bentuk hormat います、い きます、きます)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 7,
+      "field": "meaning",
+      "before": "Makan,minum (bentuk hormat たべます、 のみます)",
+      "after": "Makan, minum (bentuk hormat たべます、 のみます)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 11,
+      "field": "meaning",
+      "before": "Mengetahui,kenal (bentuk hormat しっています)",
+      "after": "Mengetahui, kenal (bentuk hormat しっています)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 18,
+      "field": "meaning",
+      "before": "Kata hormat ～さん",
+      "after": "Kata hormat ~さん",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 23,
+      "field": "meaning",
+      "before": "Kelas---,---",
+      "after": "Kelas---, ---",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 49,
+      "number": 25,
+      "field": "kana",
+      "before": "だします （を）",
+      "after": "だします (を)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 1,
+      "field": "meaning",
+      "before": "Pergi,datang (bentuk merendah いきます、 きます)",
+      "after": "Pergi, datang (bentuk merendah いきます、 きます)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 3,
+      "field": "meaning",
+      "before": "Makan,minum,menerima (bentuk merendah たべます、のみます、もらいます)",
+      "after": "Makan, minum, menerima (bentuk merendah たべます、のみます、もらいます)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 8,
+      "field": "meaning",
+      "before": "Bertanya,mendengar,mengunjungi (bentuk merendah ききます、いきます)",
+      "after": "Bertanya, mendengar, mengunjungi (bentuk merendah ききます、いきます)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 13,
+      "field": "meaning",
+      "before": "Pemandu,guide",
+      "after": "Pemandu, guide",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 26,
+      "field": "kana",
+      "before": "とります （に）",
+      "after": "とります (に)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 32,
+      "field": "jp",
+      "before": "かないます （が）",
+      "after": "かないます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 32,
+      "field": "kana",
+      "before": "かないます （が）",
+      "after": "かないます (が)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 40,
+      "field": "meaning",
+      "before": "Apa kabar ?(bentuk hormat おげんきですか)",
+      "after": "Apa kabar?(bentuk hormat おげんきですか)",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    },
+    {
+      "chapter": 50,
+      "number": 43,
+      "field": "meaning",
+      "before": "Kastil ,istana",
+      "after": "Kastil, istana",
+      "reason": "Normalisasi ejaan/tanda baca dan pemisah"
+    }
+  ],
+  "grammarCorrections": [
+    {
+      "chapter": 4,
+      "pattern": 2,
+      "before": "V ます／ません／ました／ませんでした: bentuk sopan. Non-lampau = kebiasaan atau masa depan; lampau = sudah.",
+      "after": "Vます／ません／ました／ませんでした: bentuk sopan positif/negatif nonlampau dan lampau. Nonlampau dapat berarti kebiasaan atau masa depan; bentuk lampau menempatkan kejadian sebelum waktu acuan, tidak selalu cukup diterjemahkan dengan kata “sudah”."
+    },
+    {
+      "chapter": 7,
+      "pattern": 6,
+      "before": "Dalam percakapan, partikel sering dihilangkan.",
+      "after": "Dalam percakapan akrab, sebagian partikel kadang dihilangkan jika hubungan makna tetap jelas. Untuk latihan awal, tulis partikel lengkap."
+    },
+    {
+      "chapter": 8,
+      "pattern": 1,
+      "before": "Dua jenis kata sifat: Aい (berakhir い) dan Aな (diikuti な sebelum N).",
+      "after": "Dua jenis sifat: sifat-i seperti たかい, dan sifat-na seperti しずか. Sifat-na memakai な sebelum kata benda. きれい・きらい adalah sifat-na walaupun bunyinya berakhir i."
+    },
+    {
+      "chapter": 8,
+      "pattern": 2,
+      "before": "N は Aな[な]です／Aい(〜い)です: positif. ふじさんは たかいです。ここは しずかです。",
+      "after": "N は sifat-na です／sifat-i です: pernyataan positif. Jangan tambahkan な sebelum です. ここはしずかです。ふじさんはたかいです。"
+    },
+    {
+      "chapter": 9,
+      "pattern": 1,
+      "before": "N が あります／わかります: objek dengan が.",
+      "after": "N が あります／わかります: hal yang dimiliki/dipahami sering ditandai が pada pola dasar ini. じかんがあります。にほんごがわかります。"
+    },
+    {
+      "chapter": 10,
+      "pattern": 1,
+      "before": "N が あります／います: keberadaan. あります untuk benda tak bergerak, います untuk orang/hewan. へやに つくえが あります。",
+      "after": "N が あります／います: memperkenalkan keberadaan. Benda/tumbuhan umumnya memakai あります; orang/hewan memakai います. へやにつくえがあります。"
+    },
+    {
+      "chapter": 11,
+      "pattern": 1,
+      "before": "Cara menghitung: ひとつ〜とお; 11 ke atas pakai angka biasa.",
+      "after": "Menghitung benda umum: ひとつ、ふたつ、みっつ、よっつ、いつつ、むっつ、ななつ、やっつ、ここのつ、とお. Di atas sepuluh, perhatikan jenis satuan; contoh 11こ untuk sebelas benda kecil."
+    },
+    {
+      "chapter": 14,
+      "pattern": 1,
+      "before": "Kelompok verba: I (bunyi sebelum ます di kolom い: かきます), II (bunyi sebelum ます di kolom え, atau い seperti みます), III (します, きます).",
+      "after": "Tiga grup verba: grup 1 (contoh かきます→かく), grup 2 (たべます→たべる・みます→みる), grup 3 (します→する・きます→くる). Hafalkan grup bersama kosakata; bunyi sebelum ます saja tidak selalu cukup."
+    },
+    {
+      "chapter": 14,
+      "pattern": 2,
+      "before": "Bentuk て: I: い・ち・り → って; み・び・に → んで; き → いて; ぎ → いで; し → して (いきます → いって). II: ます → て. III: して、きて.",
+      "after": "Bentuk て dari bentuk kamus: grup 1 う・つ・る→って、む・ぶ・ぬ→んで、く→いて、ぐ→いで、す→して. Pengecualian 行く→行って (いって). Grup 2 buang る tambah て. Grup 3 する→して、くる→きて."
+    },
+    {
+      "chapter": 17,
+      "pattern": 1,
+      "before": "Bentuk ない: I: bunyi kolom い → あ (かく → かかない; かう → かわない); II: = stem ます (たべない); III: しない、こない。",
+      "after": "Bentuk ない: grup 1 bunyi akhir u→a + ない; akhir う menjadi わない (かう→かわない). Grup 2 buang る tambah ない. Grup 3 する→しない、くる→こない. Pengecualian ある→ない."
+    },
+    {
+      "chapter": 18,
+      "pattern": 1,
+      "before": "Bentuk kamus: I: bunyi sebelum ます (kolom い) → う (かきます → かく; かいます → かう); II: ます → る; III: する、くる。",
+      "after": "Bentuk kamus: grup 1 ubah bunyi sebelum ます dari baris i ke u (かきます→かく). Grup 2 buang ます lalu tambah る (たべます→たべる). Grup 3 します→する、きます→くる."
+    },
+    {
+      "chapter": 20,
+      "pattern": 1,
+      "before": "Bentuk sopan vs bentuk biasa (普通形): です → だ; ます → bentuk kamus; ません → ない; ました → た; ませんでした → なかった。",
+      "after": "Bentuk biasa tidak dibuat dengan selalu menghapus ます. Verba: たべる・たべない・たべた・たべなかった. Kata benda/sifat-na: だ・じゃない・だった・じゃなかった. Sifat-i tetap berakhir い pada bentuk biasa positif."
+    },
+    {
+      "chapter": 20,
+      "pattern": 2,
+      "before": "Pemakaian: sopan untuk orang yang baru dikenal/atasan; biasa untuk teman akrab dan keluarga. Surat umumnya sopan, laporan/catatan harian biasa.",
+      "after": "Bentuk sopan cocok untuk orang yang baru dikenal dan situasi formal. Bentuk biasa lazim dalam hubungan akrab dan menjadi dasar banyak pola tata bahasa. Pilihan ragam tetap mengikuti situasi."
+    },
+    {
+      "chapter": 20,
+      "pattern": 3,
+      "before": "Percakapan bentuk biasa: か dihilangkan (intonasi naik); だ pada kalimat tanya N／Aな dihilangkan; partikel boleh dihilangkan kecuali で、に、を、へ、から、と; い pada 〜ている sering hilang (いる → る). コーヒー のむ？",
+      "after": "Dalam percakapan akrab, pertanyaan dapat memakai intonasi naik tanpa か. だ biasanya tidak dipakai di akhir pertanyaan nominal. Sebagian partikel dapat dihilangkan jika konteks jelas; untuk pemula tetap gunakan partikel lengkap. ～ている kadang menjadi ～てる (たべている→たべてる)."
+    },
+    {
+      "chapter": 22,
+      "pattern": 1,
+      "before": "Klausa penerang nomina: 普通形 + N. Aな → な, N → の. Subjek dalam klausa memakai が. これは ミラーさんが つくった ケーキです。",
+      "after": "Keterangan diletakkan sebelum kata benda: verba bentuk biasa + N, sifat-i + N, sifat-na + な + N, N + の + N. Subjek dalam klausa penjelas biasanya memakai が. これはミラーさんがつくったケーキです。"
+    },
+    {
+      "chapter": 23,
+      "pattern": 1,
+      "before": "V-dict／V-ない／Aい／Aな-な／N-の とき、〜: ketika. V-dict とき = sebelum aksi, V-たとき = setelah aksi. パリへ いく とき、かばんを かいました (di Paris: いった とき).",
+      "after": "V kamus／Vない／Vた／sifat-i／sifat-na + な／N + の + とき: ketika. V kamus とき sering menunjuk kegiatan yang belum selesai saat kejadian utama; Vた とき menunjuk kegiatan yang telah selesai. Penafsiran tepat mengikuti konteks."
+    },
+    {
+      "chapter": 27,
+      "pattern": 1,
+      "before": "Verba potensial (可能形): I: kolom う → え + る (かく → かける); II: ます → られる; III: できる、こられる. Dikonjugasi seperti kelompok II. Objek memakai が. わたしは かんじが よめます。",
+      "after": "Bentuk potensial: grup 1 akhir u→e + る (かく→かける), grup 2 buang る + られる (たべる→たべられる), grup 3 する→できる、くる→こられる. Berubah seperti grup 2. Dalam pola dasar kemampuan, objek sering ditandai が: かんじがよめます。"
+    },
+    {
+      "chapter": 27,
+      "pattern": 2,
+      "before": "みえます／きこえます: terlihat / terdengar secara alami (beda dengan みられます／きけます yang disengaja).",
+      "after": "みえます／きこえます: terlihat/terdengar secara alami, tanpa menekankan usaha. みられます／きけます: bisa melihat/mendengar karena kemampuan, kesempatan, atau keadaan."
+    },
+    {
+      "chapter": 33,
+      "pattern": 1,
+      "before": "Bentuk perintah (命令形): I: kolom う → え (かく → かけ); II: ろ (たべろ); III: しろ、こい. Larangan: V-dict + な (いくな). Bernuansa kasar, dipakai laki-laki, atasan ke bawahan, rambu, olahraga.",
+      "after": "Bentuk perintah: grup 1 akhir u→e (かく→かけ); grup 2 buang る + ろ (たべる→たべろ); grup 3 する→しろ、くる→こい. Larangan: V kamus + な (いくな). Bentuk ini dapat terdengar keras; lazim pada rambu, darurat, instruksi tertentu, atau sorakan olahraga. Untuk percakapan biasa pilih bentuk sopan."
+    },
+    {
+      "chapter": 34,
+      "pattern": 4,
+      "before": "Bandingkan dengan V-て から (urutan biasa) dan V-た あとで (tidak mengandung nuansa persiapan).",
+      "after": "Bandingkan: ～てから menekankan kegiatan pertama selesai sebelum kegiatan berikutnya. ～たあとで juga menyatakan setelah suatu kegiatan. Pemilihan mengikuti penekanan dan konteks; keduanya bukan pola khusus untuk persiapan."
+    },
+    {
+      "chapter": 35,
+      "pattern": 1,
+      "before": "Bentuk syarat (条件形 ば): I: kolom う → え + ば (かく → かけば); II: ます → れば; III: すれば、くれば; Aい: 〜ければ; Aな／N: なら(ば); negatif: 〜なければ.",
+      "after": "Bentuk ば: grup 1 akhir u→e + ば; grup 2 buang る + れば; grup 3 する→すれば、くる→くれば. Sifat-i buang い + ければ; negatif ない→なければ. Sifat-na/kata benda memakai なら pada pola dasar."
+    },
+    {
+      "chapter": 35,
+      "pattern": 2,
+      "before": "V-ば／A-ければ、〜: kalau (hasil pasti). ボタンを おせば、でます。Jika klausa utama berisi keinginan, ajakan, atau permintaan dari subjek yang sama, pakai 〜たら.",
+      "after": "Vば／sifat-i ければ: menyatakan syarat, tidak selalu akibat otomatis. このボタンをおせば、ドアがあきます。Untuk kondisi berupa tindakan dengan permintaan/ajakan, ～たら sering lebih sesuai; perhatikan jenis predikat dan konteks."
+    },
+    {
+      "chapter": 37,
+      "pattern": 1,
+      "before": "Verba pasif (受身形): I: kolom う → あ + れる (かく → かかれる); II: ます → られる; III: される、こられる. Dikonjugasi seperti kelompok II.",
+      "after": "Pasif: grup 1 akhir u→a + れる (かく→かかれる; かう→かわれる), grup 2 buang る + られる, grup 3 する→される、くる→こられる. Bentuk pasif berubah seperti grup 2."
+    },
+    {
+      "chapter": 41,
+      "pattern": 1,
+      "before": "いただきます／くださいます／やります: bentuk lebih hormat untuk menerima, diberi (atasan), dan memberi (ke bawahan, hewan, tanaman). せんせいに ほんを いただきました。せんせいが ほんを くださいました。",
+      "after": "いただきます: menerima dengan rendah hati (もらいます). くださいます: orang yang dihormati memberi kepada saya/pihak saya (くれます). やります: memberi kepada hewan/tumbuhan; pemakaian untuk manusia memerlukan perhatian karena dapat terdengar merendahkan."
+    },
+    {
+      "chapter": 44,
+      "pattern": 1,
+      "before": "V-ます(stem)／Aい／Aな + すぎます: terlalu. たべすぎました。",
+      "after": "Terlalu: pangkal ます／sifat-i tanpa い／sifat-na tanpa な + すぎます. たべます→たべすぎます、たかい→たかすぎます、しずか→しずかすぎます. Pengecualian ない→なさすぎます."
+    },
+    {
+      "chapter": 45,
+      "pattern": 1,
+      "before": "V-dict／V-ない／V-た／A／N-の 場合は、〜: dalam hal/kalau. じこが おきた ばあいは、 でんわして ください。",
+      "after": "V kamus／Vない／Vた／sifat-i／sifat-na + な／N + の + 場合は: dalam hal/jika suatu keadaan terjadi. じこがおきたばあいは、でんわしてください。"
+    },
+    {
+      "chapter": 45,
+      "pattern": 2,
+      "before": "普通形 のに、〜: padahal (kontras; kecewa/heran). Aな／N → なのに. やくそくを したのに、こませんでした。Klausa utama tidak berisi kehendak atau perintah.",
+      "after": "Bentuk biasa + のに: padahal, hasil tidak sesuai harapan. Kata benda/sifat-na memakai なのに. やくそくをしたのに、きませんでした。Bukan bentuk umum untuk menutup kalimat dengan perintah/ajakan."
+    },
+    {
+      "chapter": 46,
+      "pattern": 3,
+      "before": "V-dict／V-ない／Aい／Aな-な／N-の はずです: pasti/seharusnya (dugaan berdasar alasan). ミラーさんは きょう くるはずです。",
+      "after": "V kamus／Vない／sifat-i／sifat-na + な／N + の + はずです: seharusnya, berdasarkan alasan/informasi yang dimiliki. Bukan jaminan kepastian. ミラーさんはきょうくるはずです。"
+    },
+    {
+      "chapter": 49,
+      "pattern": 3,
+      "before": "お V-ます(stem) に なります: おかえりに なりました。(Kelompok III: ご + N + に なります。Verba seperti みます、います tidak bisa.)",
+      "after": "お + pangkal ます + になります: bentuk hormat tertentu, misalnya おかえりになります. Banyak kata memiliki bentuk khusus; jangan terapkan pola ini ke semua verba. Bentuk seperti ごりようになります harus dipelajari sebagai ungkapan yang lazim."
+    }
+  ],
+  "sourceEntries": 2910,
+  "sourcePatterns": 230,
+  "sources": [
+    {
+      "filename": "Rangkuman Bunpo Minna no Nihongo Bab 1–50.pdf",
+      "sha256": "36c6c807128d7185e022f423f577dd7441e0e363840d1951f065fe29aeec9a95"
+    },
+    {
+      "filename": "Kotoba Minna No Nihongo Bab 1-50 (2).pdf",
+      "sha256": "4babf9f0a446b76557651ab3232ee46cb1b817072c9e3efc416c2454b247d4a1"
+    },
+    {
+      "filename": "Minna No Nihongo 1 (Indonesia).pdf",
+      "sha256": "aa866dadd8a3687649b43ee0593a0b4aabe19fe78bdcf27e6283f0daa899f495"
+    },
+    {
+      "filename": "Minna No Nihongo 2 (Indonesia).pdf",
+      "sha256": "9ca5b86956f5a50ad00a50c333cdd60de68247f528f7fdabb36210b52ef15fd6"
+    }
+  ],
+  "vocabCount": 2910,
+  "chapterCounts": {
+    "1": 38,
+    "2": 45,
+    "3": 67,
+    "4": 61,
+    "5": 75,
+    "6": 90,
+    "7": 75,
+    "8": 67,
+    "9": 80,
+    "10": 55,
+    "11": 81,
+    "12": 40,
+    "13": 51,
+    "14": 71,
+    "15": 46,
+    "16": 57,
+    "17": 55,
+    "18": 46,
+    "19": 39,
+    "20": 22,
+    "21": 60,
+    "22": 44,
+    "23": 38,
+    "24": 28,
+    "25": 26,
+    "26": 64,
+    "27": 75,
+    "28": 48,
+    "29": 59,
+    "30": 61,
+    "31": 78,
+    "32": 71,
+    "33": 69,
+    "34": 89,
+    "35": 45,
+    "36": 73,
+    "37": 64,
+    "38": 50,
+    "39": 53,
+    "40": 99,
+    "41": 51,
+    "42": 77,
+    "43": 45,
+    "44": 57,
+    "45": 57,
+    "46": 87,
+    "47": 54,
+    "48": 40,
+    "49": 43,
+    "50": 44
+  },
+  "notes": [
+    "Kosakata boleh berulang antar bab karena mengikuti urutan pembelajaran.",
+    "Bentuk sopan tetap dipertahankan sesuai bab, tidak diubah menjadi kartu bentuk kamus.",
+    "Onomatope Bab 47 digabung dengan verba pada penulisan tampilan agar makna dan bacaan tidak tertukar.",
+    "Pemeriksaan bahasa dilakukan dalam proses penyusunan; belum ditelaah oleh pengajar eksternal."
+  ]
+}

@@ -1,0 +1,55 @@
+DeX Gaku — penggantian semua voice Kaiwa dan Simulasi (30 Oktober 2026)
+
+KAIWA — 136 MP3 / 16 skenario, hanya dua voice:
+Pria (termasuk baris pemain pria): Bj4Malc5SZLoXfPtxRxH
+Wanita: 3321Alera3fXjEWjjbAX
+
+SIMULASI — 222 MP3 soal / 12 paket + tes-suara.mp3:
+Narator: GxxMAMfQkDlnqjpzjLHH
+Pria: xya0RvcJtofTcFTOdX4E
+Wanita: 0ptCJp0xgdabdcpVtCB5
+
+ID terkunci di skrip. Variabel voice dari skrip lama tidak dipakai.
+Cerita tidak termasuk paket ini dan tidak diubah.
+Label pembicara tidak dikirim ke TTS simulasi. Jeda 0,3 detik antargiliran.
+
+Jalankan setiap perintah satu per satu di Termux:
+
+1. Pasang alat:
+pkg update
+pkg install nodejs curl ffmpeg unzip zip
+termux-setup-storage
+
+2. Ekstrak ke folder baru:
+cd ~/storage/downloads
+unzip -o dex-audio-voice-baru.zip
+cd dex-audio-voice-baru
+
+3. Periksa rencana tanpa biaya API:
+bash buat-kaiwa.sh --dry-run
+bash buat-simulasi.sh --dry-run
+
+4. Masukkan API key di Termux (jangan kirim ke chat):
+read -rsp "API Key ElevenLabs: " ELEVENLABS_API_KEY
+echo
+export ELEVENLABS_API_KEY
+
+5. Buat semua audio dengan voice BARU (memakai kuota ElevenLabs):
+bash buat-kaiwa.sh
+bash buat-simulasi.sh
+
+Tunggu perintah pertama selesai sebelum menjalankan yang kedua.
+Jika terputus, jalankan perintah yang sama; yang sudah selesai akan dilewati.
+Folder baru tidak memakai MP3/cache dari paket voice sebelumnya.
+Pastikan semua voice tersedia untuk API key kamu. Jika HTTP error, proses
+berhenti; periksa key/izin/kuota/koneksi dan ulangi. Jangan jalankan bash -x.
+
+6. Setelah kedua proses selesai:
+bash pack-semua.sh
+cp -f kaiwa/kaiwa-audio.zip ~/storage/downloads/
+cp -f simulasi/simulasi-audio-baru.zip ~/storage/downloads/
+unset ELEVENLABS_API_KEY
+
+Kirim KEDUA ZIP tersebut ke chat untuk menimpa rekaman sebelumnya di web.
+Sebelum ZIP baru dipasang, web tetap menggunakan MP3 sebelumnya.
+Simpan folder cache agar proses bisa dilanjutkan tanpa membuat ulang yang selesai.
