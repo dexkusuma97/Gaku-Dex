@@ -47,3 +47,29 @@ N4 browsing, detail, kana/romaji/meaning search, filters, 15-card pages, saved w
 Settings failed to render because `row()` was missing. Restoring this helper fixes its menu links and level controls. The level badge is now an accessible toggle, and changes reset detail/filter state, persist the preference, and remain locked during active quizzes or simulations. Invalid local preference/history/custom-data shapes recover without stopping navigation.
 
 Regression tests: `tests/kotoba-n4.test.cjs`, `tests/app-menus.test.cjs`, plus existing Kotoba, taxonomy, navigation, quiz, simulation, story, kana, and audio suites.
+
+## Kotoba review and examples (30 October 2026)
+
+The imported baseline above contains 4,535 cards. The presentation layer now merges
+241 kana/kanji spelling variants with identical readings and shared senses, leaving
+4,294 N4 cards. The 411 enrichment-source cards are retained. Homophones with
+different readings or distinct kanji remain separate; N5 and N4 retain their own
+level-specific review cards. The merge ledger is `kotoba-duplicate-review.json`;
+`mergedIds` redirects old saved cards and detail links to their surviving IDs.
+
+All 4,294 N4 cards now have Japanese, kana, and Indonesian example fields. Added
+examples combine authored counter/dialogue/adjective/adverb examples with repeatable
+sentence frames for nouns and verbs. Abstract or ambiguous nouns use the neutral
+`Nについて教えてください` frame rather than guessing a physical use. These are
+learning examples, not quotations from the source PDFs. This does not constitute
+an exhaustive linguistic certification of every source gloss or classification.
+
+`build-kotoba-n4.py` now runs the retained completion layer automatically, then
+`build-kotoba-data.py` emits the browser bundle. Calling the completion layer again
+is idempotent. Examples in the authored files are plain kana to suit beginners.
+
+The detail-page source disclosure and Premium placeholder/route were removed.
+No Free/Premium access system is enabled in this application. Source attribution
+remains in the canonical dataset for maintenance. Verification: all 32 Node test
+suites pass, including example coverage, bundles, counter notation, homophones,
+saved-ID migration, detail rendering, navigation, and unchanged audio imports.

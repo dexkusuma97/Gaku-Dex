@@ -1,0 +1,64 @@
+あぶない|ここは あぶないです。|Tempat ini berbahaya.
+おいしい|この ごはんは おいしいです。|Nasi ini enak.
+かいてき|この へやは かいてきです。|Kamar ini nyaman.
+きもちがいい|きょうは かぜが きもちがいいです。|Angin hari ini terasa menyenangkan.
+けんこう|ちちは けんこうです。|Ayah saya sehat.
+けんこうてき|けんこうてきな せいかつを しています。|Saya menjalani kehidupan yang sehat.
+しょっぱい|この スープは しょっぱいです。|Sup ini asin.
+すずしい|きょうは すずしいです。|Hari ini sejuk.
+ぺらぺら|かのじょは にほんごが ぺらぺらです。|Dia fasih berbahasa Jepang.
+ほそながい|この はこは ほそながいです。|Kotak ini berbentuk panjang dan ramping.
+おそい|きょうは かえるのが おそいです。|Hari ini saya pulang larut.
+しんせん|この やさいは しんせんです。|Sayuran ini segar.
+にほんてき|この へやは にほんてきです。|Kamar ini bergaya Jepang.
+ぬるい|この おちゃは ぬるいです。|Teh ini suam-suam kuku.
+あたまがいい|あの こは あたまがいいです。|Anak itu pintar.
+かゆい|むしに さされて、うでが かゆいです。|Lengan saya gatal karena digigit serangga.
+ゆたか|この まちは しぜんが ゆたかです。|Kota ini kaya akan alam.
+すばらしい|すばらしい けしきですね。|Pemandangan yang indah sekali, ya.
+だいなみっく|この おどりは ダイナミックです。|Tarian ini dinamis.
+へるしー|この りょうりは ヘルシーです。|Masakan ini sehat.
+うまい|かれは えが うまいです。|Dia pandai menggambar.
+たいくつ|ひとりで まつのは たいくつです。|Menunggu sendirian itu membosankan.
+ひっし|ひっしに はしりました。|Saya berlari sekuat tenaga.
+めんどう|この てつづきは めんどうです。|Prosedur ini merepotkan.
+けいかくてき|けいかくてきに べんきょうします。|Saya belajar secara terencana.
+れきしてき|これは れきしてきな たてものです。|Ini bangunan bersejarah.
+むだ|みずを むだに しないでください。|Jangan membuang-buang air.
+もったいない|たべものを すてるのは もったいないです。|Membuang makanan itu mubazir.
+ちょうどいい|この くつは ちょうどいいです。|Sepatu ini ukurannya pas.
+まずしい|まずしい ひとたちを たすけたいです。|Saya ingin membantu orang-orang yang miskin.
+おとなしい|この いぬは おとなしいです。|Anjing ini tenang dan tidak agresif.
+おめでたい|きょうは おめでたい ひです。|Hari ini hari yang patut dirayakan.
+からだにいい|やさいは からだにいいです。|Sayuran baik untuk tubuh.
+こい|この コーヒーは あじが こいです。|Kopi ini rasanya kuat.
+しつれい|そんな いいかたは しつれいです。|Cara berbicara seperti itu tidak sopan.
+みすてりあす|かのじょは ミステリアスな ひとです。|Dia orang yang misterius.
+もだん|これは モダンな たてものです。|Ini bangunan bergaya modern.
+たりない|おかねが たりないです。|Uang saya tidak cukup.
+うすい|この スープは あじが うすいです。|Rasa sup ini hambar.
+しかくい|この はこは しかくいです。|Kotak ini berbentuk persegi empat.
+ぐあいがわるい|きょうは ぐあいがわるいです。|Hari ini saya tidak enak badan.
+つらい|この しごとは つらいです。|Pekerjaan ini terasa berat.
+ねつがたかい|ねつがたかいので、やすみます。|Saya beristirahat karena demam tinggi.
+だるい|きょうは からだが だるいです。|Badan saya terasa lemas hari ini.
+じゅうぶん|じかんは じゅうぶん あります。|Waktunya cukup.
+かみがながい|あねは かみがながいです。|Kakak perempuan saya berambut panjang.
+かみがみじかい|あには かみがみじかいです。|Kakak laki-laki saya berambut pendek.
+せがたかい|ちちは せがたかいです。|Ayah saya bertubuh tinggi.
+こわい|この えいがは こわいです。|Film ini seram.
+りようかのう|この へやは りようかのうです。|Ruangan ini dapat digunakan.
+ゆうこう|この きっぷは あしたまで ゆうこうです。|Tiket ini berlaku sampai besok.
+あまからい|この たれは あまからいです。|Saus ini rasanya manis dan pedas.
+りーずなぶる|この みせは ねだんが リーズナブルです。|Harga di toko ini terjangkau.
+くわしい|くわしい せつめいを おねがいします。|Tolong berikan penjelasan yang rinci.
+じみ|この ふくは いろが じみです。|Warna pakaian ini tidak mencolok.
+かじゅある|きょうは カジュアルな ふくで いきます。|Hari ini saya pergi dengan pakaian kasual.
+めんどくさい|まいにち そうじするのは めんどくさいです。|Membersihkan rumah setiap hari itu merepotkan.
+くさい|この ごみは くさいです。|Sampah ini berbau tidak sedap.
+はで|この シャツは はでです。|Kemeja ini mencolok.
+こんぱくと|この カメラは コンパクトです。|Kamera ini ringkas.
+ぱわふる|この せんしゅは パワフルです。|Atlet ini bertenaga.
+しんぷる|この デザインは シンプルです。|Desain ini sederhana.
+さまざま|さまざまな くにの ひとが います。|Ada orang-orang dari berbagai negara.
+はげしい|きょうは あめが はげしいです。|Hujan hari ini lebat.

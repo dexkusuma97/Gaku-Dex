@@ -133,3 +133,6 @@ for e,roman in zip(entries,romaji):e['romaji']=roman
 print('Built',len(entries),'daily cards',sum(any(s['id']==13 for s in e['sources']) for e in entries))
 from collections import Counter
 print(Counter(e['category'] for e in entries));print('concept fallback',sum(e['subcategory']=='Konsep & informasi' for e in entries))
+
+# Apply the retained deduplication and example layer after every rebuild.
+subprocess.run([__import__("sys").executable,str(R/"scripts/complete-kotoba.py")],cwd=R,check=True)

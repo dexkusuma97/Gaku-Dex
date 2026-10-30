@@ -1,0 +1,34 @@
+あげる|ともだちに プレゼントを あげます。|Saya memberikan hadiah kepada teman.
+ある|つくえの うえに ほんが あります。|Ada buku di atas meja.
+いる|へやに ねこが います。|Ada kucing di kamar.
+おくれる|でんしゃが おくれることが あります。|Kereta terkadang terlambat.
+かく|かみ に えを かきます。|Saya menggambar di kertas.
+かざる|へや に はなを かざります。|Saya menghias kamar dengan bunga.
+がんばる|テストに むけて がんばります。|Saya berusaha keras untuk menghadapi ujian.
+こくさいでんわする|かぞくに こくさいでんわします。|Saya menelepon keluarga melalui sambungan internasional.
+コピーする|この しりょうを コピーします。|Saya memfotokopi materi ini.
+こわれる|パソコンが こわれることが あります。|Komputer terkadang rusak.
+サッカーする|にちようびに ともだちと サッカーします。|Saya bermain sepak bola dengan teman pada hari Minggu.
+さんぽする|あさ、こうえんを さんぽします。|Pada pagi hari saya berjalan-jalan di taman.
+しゅうしょくする|らいねん、にほんの かいしゃに しゅうしょくします。|Tahun depan saya akan mulai bekerja di perusahaan Jepang.
+しゅっさんする|あねは らいげつ しゅっさんします。|Kakak perempuan saya akan melahirkan bulan depan.
+出発する|でんしゃは くじに しゅっぱつします。|Kereta berangkat pukul sembilan.
+ジョギングする|まいあさ、こうえんで ジョギングします。|Saya joging di taman setiap pagi.
+すう|ゆっくり いきを すいます。|Saya menarik napas perlahan.
+すく|あさは おなかが すきます。|Saya lapar pada pagi hari.
+生活|にほんで せいかつしています。|Saya tinggal dan menjalani kehidupan di Jepang.
+相談|せんせいに そうだんします。|Saya berkonsultasi dengan guru.
+休憩|ここで すこし きゅうけいします。|Saya beristirahat sebentar di sini.
+調理|ちょうりする まえに てを あらいます。|Saya mencuci tangan sebelum memasak.
+断水|あしたは だんすいする よていです。|Besok dijadwalkan ada pemadaman air.
+通話|ここでは つうわしないでください。|Jangan menelepon di sini.
+充電|ねる まえに スマホを じゅうでんします。|Saya mengisi daya ponsel sebelum tidur.
+吸引|この そうじきは ごみを きゅういんします。|Penyedot debu ini menyedot sampah.
+両替|ぎんこうで おかねを りょうがえします。|Saya menukar uang di bank.
+再生|この こうじょうでは こしを さいせいします。|Di pabrik ini, kertas bekas didaur ulang.
+そつぎょうする|らいねん、だいがくを そつぎょうします。|Tahun depan saya lulus universitas.
+たいそうする|まいあさ、たいそうします。|Saya melakukan senam setiap pagi.
+チェックする|しごとの まえに よていを チェックします。|Saya memeriksa jadwal sebelum bekerja.
+降る|あしたは あめが ふります。|Besok hujan turun.
+死ぬ|みずが ないと、さかなは しんでしまいます。|Jika tidak ada air, ikan akan mati.
+生きる|さかなは みずの なかで いきています。|Ikan hidup di dalam air.
