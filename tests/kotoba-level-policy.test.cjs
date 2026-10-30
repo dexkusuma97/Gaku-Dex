@@ -1,9 +1,9 @@
 'use strict';
 const fs=require('node:fs'),assert=require('node:assert/strict'),cp=require('node:child_process'),crypto=require('node:crypto');
 const n5=JSON.parse(fs.readFileSync('data/kotoba-n5.json')),n4=JSON.parse(fs.readFileSync('data/kotoba-n4.json')),audit=JSON.parse(fs.readFileSync('data/kotoba-level-policy-audit.json'));
-assert.equal(n5.entries.length,1794);assert.equal(n4.entries.length,3419);
-assert.equal(n5.entries.length+audit.removedN5.length,1801);
-assert.equal(n4.entries.length+audit.removedN4Interjections.length+audit.removedN4Duplicates.length,4294);
+assert.equal(n5.entries.length,1791);assert.equal(n4.entries.length,3227);
+assert.equal(n5.entries.length+audit.removedN5.length+audit.removedN5Names.length,1801);
+assert.equal(n4.entries.length+audit.removedN4Interjections.length+audit.removedN4Duplicates.length+audit.removedN4Names.length,4294);
 for(const word of ['あ','ああ','え','あのう','わあ','へえ','ふふふ','あはは','ふーん'])assert.ok(![...n5.entries,...n4.entries].some(e=>e.jp===word),word);
 for(const word of ['絵','母','あの','あれ','こんにちは','はい'])assert.ok([...n5.entries,...n4.entries].some(e=>e.jp===word),word+' should survive');
 for(const word of ['きっぷ','きゅうり','からあげ','おかし','ともだち','しぬ','真っ直ぐ'])assert.ok(!n4.entries.some(e=>e.jp===word),word+' was taught in N5');

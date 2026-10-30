@@ -95,3 +95,35 @@ are retained. The new rule intentionally supersedes the exact-411 displayed quot
 `build-kotoba-data.py` applies the policy automatically before emitting bundles.
 All 33 Node test suites pass, including no recognized cross-level duplicates,
 removed filler coverage, protected different meanings, accounting, and idempotence.
+
+## Remove personal-name cards and tidy active vocabulary
+
+The latest rule removes the personal-name subcategory and standalone personal
+name cards across both levels. Writers, composers and historical figures are
+included; titles of works and place names are not personal-name vocabulary.
+Common words that were incorrectly classified as names are reassigned, including
+chili, single/unmarried, househusband, honorifics and counters. Mixed cards for Ueno
+and りょう are restricted to the place and quantity senses; the latter is written
+量. Personal names in ordinary example sentences are not vocabulary cards.
+
+Reading comparisons now normalize katakana to hiragana. This fixes earlier
+missed duplicates such as カレー, サッカー and ギター, while different words such as
+イクラ (salmon roe) and いくら (price question) remain separate. Displayed meanings
+are trimmed and exact repeated phrases removed. Source annotation markers on
+いっぽん and わざあり are removed and their readings repaired.
+
+Reviewed corrections include 予約 (reservation), レコード (record disc), ストーブ
+(room heater), コース (course/program/mode), and 気 (feeling). Examples were adjusted
+with these corrections. These checks address identified issues; they are not a
+claim of exhaustive dictionary certification for every source gloss.
+
+References checked: Japan Foundation Irodori vocabulary list
+https://www.irodori.jpf.go.jp/assets/data/wordlist_Z.pdf
+Kotobank/Shogakukan dictionary entries for 予約, レコード and ストーブ.
+https://kotobank.jp/word/予約-146506
+https://kotobank.jp/word/れこーど-1608697
+https://kotobank.jp/word/すとーぶ-3156486
+
+Final active counts: N5 1,791; N4 3,227. All cards retain examples. The ledger
+includes 3 removed N5 name cards and 58 removed N4 name cards (one was already
+excluded as an N5 duplicate before this follow-up). All 34 Node suites pass.

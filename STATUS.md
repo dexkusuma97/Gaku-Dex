@@ -1078,3 +1078,9 @@ not directly deployed from this checkout to the user's private GitHub repository
 N5 1,794; N4 3,419; all retained cards have examples. 7 N5 fillers, 21 N4 fillers,
 and 854 N4 duplicates removed. All 33 test suites pass. Patch prepared for user
 GitHub Actions/Cloudflare deployment; not yet published by this checkout.
+
+30 Oct 2026 — remove personal-name cards/subcategory across N5/N4, rescue
+misclassified common words, normalize reading scripts for cross-level dedup,
+trim repeated glosses, and fix identified lexical/example issues. Final counts:
+N5 1,791 and N4 3,227, all with examples. 34 suites pass. Cumulative patch prepared
+for user GitHub/Cloudflare publishing; not yet deployed from this checkout.

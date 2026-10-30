@@ -2,6 +2,13 @@
 import json,re,hashlib,copy,subprocess
 from pathlib import Path
 R=Path(__file__).resolve().parents[1];data=json.loads((R/'data/kotoba-n4-normalized.json').read_text());base=json.loads((R/'data/kotoba-n5.json').read_text());src=json.loads((R/'data/kotoba-n4-source-rows.json').read_text());known={e['id']:e for e in base['entries']}
+# Retired cards still supply classification metadata during source reconstruction;
+# they are never restored to the published N5 dataset.
+policy_audit=R/'data/kotoba-level-policy-audit.json'
+if policy_audit.exists():
+ prior=json.loads(policy_audit.read_text())
+ for retired in prior.get('removedN5',[])+prior.get('removedN5Names',[]):known.setdefault(retired['id'],retired)
+
 def has(s,p):return bool(re.search(p,s,re.I))
 # i-adjectives are an explicit set: ending in い alone does not make a word an adjective.
 adji=set('あたたかい あつい あぶない いい いたい うすい うまい うれしい おいしい おそい おとなしい おめでたい おもしろい かっこいい かゆい かわいい くらい くわしい こい こわい しょっぱい すごい すずしい すっぱい すばらしい たのしい だるい つまらない つらい ながい ぬるい はやい ひどい ほそながい まずい まずしい めんどくさい もったいない やさしい わるい 丸い 低い 冷たい 危ない 厚い 厳しい 古い 四角い 固い 多い 大きい 安い 寂しい 寒い 小さい 少ない 広い 弱い 強い 忙しい 怖い 恥ずかしい 悪い 悲しい 新しい 早い 明るい 暑い 暖かい 暗い 柔らかい 楽しい 欲しい 温かい 激しい 煩い 熱い 狭い 珍しい 甘い 甘辛い 痛い 白い 眠い 短い 美しい 臭い 若い 苦い 蒸し暑い 詳しい 赤い 軽い 辛い 近い 遅い 遠い 重い 長い 難しい 青い 高い 黄色い 黒い きたない さむい まるい めずらしい すくない ねむい ひくい あかるい あたらしい ふるい なつかしい はずかしい かなしい うるさい きびしい にがい あまい からい しおからい ふとい ほそい よい ひろい せまい かたい やわらかい いそがしい つよい よわい さびしい さみしい むずかしい ほしい とおい ちかい たかい やすい おもい かるい みじかい わかい おおい おおきい ちいさい ほそながい うつくしい せつない'.split())

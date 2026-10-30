@@ -1,7 +1,7 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const source=JSON.parse(fs.readFileSync('data/kotoba-n5.json','utf8'));const c={customData:[]};vm.createContext(c);
 for(const f of ['kana-data.js','kanji-data.js','kanji-search.js','kotoba-data.js','kotoba-search.js'])vm.runInContext(fs.readFileSync('dist/'+f,'utf8'),c);
-const data=vm.runInContext('KOTOBA_DATA',c);assert.equal(data.length,1794);assert.equal(JSON.stringify(data),JSON.stringify(source.entries));assert.equal(new Set(data.map(e=>e.id)).size,data.length);assert.equal(new Set(data.map(e=>c.kotobaWritten(e.jp))).size,data.length);
+const data=vm.runInContext('KOTOBA_DATA',c);assert.equal(data.length,1791);assert.equal(JSON.stringify(data),JSON.stringify(source.entries));assert.equal(new Set(data.map(e=>e.id)).size,data.length);assert.equal(new Set(data.map(e=>c.kotobaWritten(e.jp))).size,data.length);
 for(const e of data){for(const k of ['id','jp','kana','romaji','meaning','category','subcategory','kind','scope'])assert.ok(e[k]?.trim(),e.jp+': '+k);assert.equal(e.level,'N5');assert.ok(e.sources.length);assert.ok(source.categories.some(cat=>cat.id===e.category));assert.ok(e.example?.jp&&e.example.kana&&e.example.meaning,e.jp);assert.ok(!/[一-龯A-Za-z]/.test(e.kana),e.jp+' reading');assert.ok(!/[~〜～]/.test(e.example.jp),e.jp+' example placeholder');for(const s of e.sources)assert.ok(s.id>=0&&s.id<=6&&s.page>0);if(e.polite)assert.equal(e.kind,'verb')}
 assert.equal(source.meta.everydayUnique,822);assert.equal(source.meta.everydaySelected,411);assert.equal(data.filter(e=>e.sources.some(s=>s.id===0)).length,411);assert.equal(source.meta.everydaySelected*2,source.meta.everydayUnique);
 for(const s of source.sources){const all=c.findKotoba('','all','all',String(s.id));assert.ok(all.length);assert.ok(all.every(e=>e.sources.some(x=>x.id===s.id)))}
@@ -13,4 +13,4 @@ const chosen=data[0];assert.deepEqual(Array.from(c.findKotoba('','all','all','al
 for(const [a,b] of [['雨','飴'],['紙','髪'],['泊まる','止まる']]){assert.ok(data.some(e=>e.jp===a),a);assert.ok(data.some(e=>e.jp===b),b)}
 for(const [jp,g] of [['要る',1],['居る',2],['着る',2],['切る',1],['来る',3]])assert.equal(data.find(e=>e.jp===jp).group,g,jp);
 assert.ok(c.kotobaHasSpelling('食べます'));c.customData=[{jp:'猫',rom:'neko',meaning:'duplikat'},{jp:'自作語彙',rom:'jisakugoi',meaning:'contoh'},{jp:'自作語彙',rom:'jisakugoi',meaning:'ganda'}];assert.equal(c.kotobaCustomEntries().length,1);assert.ok(c.findKotoba('jisakugoi').some(e=>e.category==='custom'));
-console.log('PASS: 1794 unique spellings, 411/822 daily vocabulary, seven sources, examples, homophones, search, filters, saved-only, N4 isolation, dynamic pages and custom duplicate protection');
+console.log('PASS: 1791 unique spellings, 411/822 daily vocabulary, seven sources, examples, homophones, search, filters, saved-only, N4 isolation, dynamic pages and custom duplicate protection');
