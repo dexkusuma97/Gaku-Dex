@@ -9,5 +9,5 @@ const expected=[
 ];
 for(const [jp,cat,sub] of expected){const e=source.entries.find(e=>e.jp===jp);assert.ok(e,jp);assert.equal(e.category,cat,jp);assert.equal(e.subcategory,sub,jp)}
 for(const cat of source.categories){const counts=c.kotobaFilterCounts(cat.id);assert.equal(counts.categories[cat.id],c.findKotoba('',cat.id).length);for(const sub of cat.subcategories)assert.equal(counts.subcategories[sub],c.findKotoba('',cat.id,sub).length)}
-assert.equal(source.entries.length,1801);assert.equal(source.entries.filter(e=>e.sources.some(s=>s.id===0)).length,411);
+assert.equal(source.entries.length,1794);assert.equal(source.entries.filter(e=>e.sources.some(s=>s.id===0)).length,411);
 console.log('PASS: 6 categories, 51 ordered nonempty groups, 22 noun themes, reviewed classification regressions, accurate filter counts and unchanged daily quota');

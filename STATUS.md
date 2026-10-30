@@ -1073,3 +1073,8 @@ merge 241 orthographic variants; complete examples for all 4,294 N4 cards, using
 specialized examples and simple reusable frames. Preserve saved merged IDs. All
 32 suites pass. Prepared as a small patch for the user's GitHub/Cloudflare workflow;
 not directly deployed from this checkout to the user's private GitHub repository.
+
+30 Oct 2026 — revised rule: remove filler interjections and N4 words taught in N5.
+N5 1,794; N4 3,419; all retained cards have examples. 7 N5 fillers, 21 N4 fillers,
+and 854 N4 duplicates removed. All 33 test suites pass. Patch prepared for user
+GitHub Actions/Cloudflare deployment; not yet published by this checkout.

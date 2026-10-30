@@ -1,7 +1,10 @@
 """Generate the static Kotoba bundle from the reviewed, deduplicated source."""
-import json
+import json,sys
+sys.path.insert(0,str(__import__("pathlib").Path(__file__).resolve().parent/"lib"))
+from kotoba_level_policy import apply
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
+print('Level policy:',apply(root))
 data=json.loads((root/'data/kotoba-n5.json').read_text())
 assert len({e['id'] for e in data['entries']})==len(data['entries'])
 out='/* Source: data/kotoba-n5.json. Build: python scripts/build-kotoba-data.py */\n'

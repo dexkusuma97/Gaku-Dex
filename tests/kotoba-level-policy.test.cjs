@@ -1,0 +1,16 @@
+'use strict';
+const fs=require('node:fs'),assert=require('node:assert/strict'),cp=require('node:child_process'),crypto=require('node:crypto');
+const n5=JSON.parse(fs.readFileSync('data/kotoba-n5.json')),n4=JSON.parse(fs.readFileSync('data/kotoba-n4.json')),audit=JSON.parse(fs.readFileSync('data/kotoba-level-policy-audit.json'));
+assert.equal(n5.entries.length,1794);assert.equal(n4.entries.length,3419);
+assert.equal(n5.entries.length+audit.removedN5.length,1801);
+assert.equal(n4.entries.length+audit.removedN4Interjections.length+audit.removedN4Duplicates.length,4294);
+for(const word of ['あ','ああ','え','あのう','わあ','へえ','ふふふ','あはは','ふーん'])assert.ok(![...n5.entries,...n4.entries].some(e=>e.jp===word),word);
+for(const word of ['絵','母','あの','あれ','こんにちは','はい'])assert.ok([...n5.entries,...n4.entries].some(e=>e.jp===word),word+' should survive');
+for(const word of ['きっぷ','きゅうり','からあげ','おかし','ともだち','しぬ','真っ直ぐ'])assert.ok(!n4.entries.some(e=>e.jp===word),word+' was taught in N5');
+for(const word of ['肩','肺','飼う','揚げる','かく','かえる','恋'])assert.ok(n4.entries.some(e=>e.jp===word),word+' different sense survives');
+const words=new Map(n5.entries.map(e=>[e.id,e]));for(const row of audit.removedN4Duplicates)assert.ok(words.has(row.n5Id),'N5 destination '+row.entry.jp);
+const files=['data/kotoba-n5.json','data/kotoba-n4.json','dist/kotoba-data.js','dist/kotoba-n4-data.js','data/kotoba-level-policy-audit.json'];
+const hashes=()=>files.map(p=>crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex'));
+const before=hashes();cp.execFileSync('python3',['scripts/build-kotoba-data.py'],{stdio:'pipe'});assert.deepEqual(hashes(),before,'policy and bundles are idempotent');
+const match=cp.execFileSync('python3',['-c',"import json,sys;from collections import defaultdict;sys.path.insert(0,'scripts/lib');from kotoba_level_policy import match_n5,readings; n5=json.load(open('data/kotoba-n5.json'))['entries']; n4=json.load(open('data/kotoba-n4.json'))['entries']; i=defaultdict(list);\nfor e in n5:\n for k in readings(e):i[k].append(e)\nassert not any(match_n5(e,i)[0] for e in n4)"],{stdio:'pipe'});
+console.log('PASS: interjections removed; N4 has no recognized N5 duplicates; distinct meanings and functional words retained; source accounting and reproducible builds');

@@ -73,3 +73,25 @@ No Free/Premium access system is enabled in this application. Source attribution
 remains in the canonical dataset for maintenance. Verification: all 32 Node test
 suites pass, including example coverage, bundles, counter notation, homophones,
 saved-ID migration, detail rendering, navigation, and unchanged audio imports.
+
+## Revised level policy (30 October 2026)
+
+The user superseded the earlier cross-level review-card policy: N4 must exclude
+words already available in N5. Exact filler/interjection headwords are removed
+in both levels; demonstratives, greetings, and useful yes/no responses remain.
+The final counts are N5 1,794 and N4 3,419. Removed: 7 N5 fillers, 21 N4 fillers,
+and 854 N4 duplicates. The full removal ledger is kotoba-level-policy-audit.json.
+Homophones are not removed by reading alone. Spelling variants with differing
+Indonesian translations are supplemented by an explicit reviewed mapping.
+
+The kana こい card mixed love and strong flavor: it now teaches the distinct noun
+恋 (love), with its own example; 濃い remains in N5. Previous saved-card redirects
+now resolve to N5 when the merged word is removed from N4, preserving favorites
+without showing N5 content in the N4 list. Deleted fillers have no replacement.
+
+Of the original 411 daily-source N4 cards, 404 remain; seven are removed by the
+new policy. Their full records remain in the ledger, and all original source rows
+are retained. The new rule intentionally supersedes the exact-411 displayed quota.
+`build-kotoba-data.py` applies the policy automatically before emitting bundles.
+All 33 Node test suites pass, including no recognized cross-level duplicates,
+removed filler coverage, protected different meanings, accounting, and idempotence.

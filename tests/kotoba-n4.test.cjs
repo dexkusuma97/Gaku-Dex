@@ -3,19 +3,19 @@ const c={customData:[],prefs:{level:'N4'},localStorage:{getItem:()=>null}};vm.cr
 for(const f of ['kana-data.js','kanji-data.js','kanji-search.js','kotoba-data.js','kotoba-n4-data.js','kotoba-search.js','quiz-bunpo-index.js','quiz-core.js'])vm.runInContext(fs.readFileSync('dist/'+f,'utf8'),c);
 const d=JSON.parse(fs.readFileSync('data/kotoba-n4.json')),audit=JSON.parse(fs.readFileSync('data/kotoba-audit.json'));
 const n4=d.entries,run=s=>vm.runInContext(s,c);
-assert.equal(n4.length,d.meta.total);assert.ok(n4.length>4000);
+assert.equal(n4.length,d.meta.total);assert.ok(n4.length>3000);
 assert.equal(new Set(n4.map(e=>e.id)).size,n4.length);assert.equal(new Set(n4.map(e=>e.jp+'|'+e.kana)).size,n4.length);
-const daily=n4.filter(e=>e.sources.some(s=>s.id===13));assert.equal(daily.length,411);assert.deepEqual(daily.map(e=>e.jp).sort(),audit.everydayExcludedWords.slice().sort());assert.ok(daily.every(e=>!audit.everydaySelectedWords.includes(e.jp)));
+const daily=n4.filter(e=>e.sources.some(s=>s.id===13));const policy=JSON.parse(fs.readFileSync('data/kotoba-level-policy-audit.json'));const removedDaily=[...policy.removedN4Interjections,...policy.removedN4Duplicates.map(r=>r.entry)].filter(e=>e.sources.some(s=>s.id===13));assert.equal(daily.length,d.meta.everydaySelected);assert.deepEqual([...daily,...removedDaily].map(e=>e.jp).sort(),audit.everydayExcludedWords.slice().sort());assert.ok(daily.every(e=>!audit.everydaySelectedWords.includes(e.jp)));
 assert.equal(d.sources.length,7);
 for(const e of n4){assert.equal(e.level,'N4');assert.ok(e.jp&&e.kana&&e.romaji&&e.meaning);assert.match(e.kana,/^[ぁ-ゖー〜～]+$/);assert.ok(!/[\[\]()]/.test(e.jp),e.jp);assert.ok(d.categories.some(cat=>cat.id===e.category&&cat.subcategories.includes(e.subcategory)),e.jp);assert.ok(e.sources.every(s=>d.sources.some(src=>src.id===s.id)&&Number.isInteger(s.page)&&s.page>0));if(e.kind==='verb')assert.ok([1,2,3].includes(e.group)&&e.polite?.jp&&e.polite?.kana,e.jp)}
 assert.equal(run('findKotoba("","all","all","all",false,[],"N4").length'),n4.length);
-assert.equal(run('findKotoba().length'),1801,'default API remains N5');
+assert.equal(run('findKotoba().length'),1794,'default API remains N5');
 for(const q of ['網膜','もうまく','moumaku','retina'])assert.ok(c.findKotoba(q,'all','all','all',false,[],'N4').some(e=>e.jp==='網膜'),q);
-assert.equal(n4.find(e=>e.jp==='血').kana,'ち');assert.equal(n4.find(e=>e.jp==='婚約する').kana,'こんやくする');assert.equal(n4.find(e=>e.jp==='凍る').kana,'こおる');assert.equal(n4.find(e=>e.jp==='知る').group,1);
+assert.equal([...n4,...JSON.parse(fs.readFileSync('data/kotoba-n5.json')).entries].find(e=>e.jp==='血').kana,'ち');assert.equal(n4.find(e=>e.jp==='婚約する').kana,'こんやくする');assert.equal(n4.find(e=>e.jp==='凍る').kana,'こおる');assert.equal([...n4,...JSON.parse(fs.readFileSync('data/kotoba-n5.json')).entries].find(e=>e.jp==='知る').group,1);
 assert.equal(run('Object.values(kotobaFilterCounts("all","N4").categories).reduce((a,b)=>a+b,0)'),n4.length);
 assert.ok(c.findKotoba('','all','all','all',true,[n4[0].id],'N4').some(e=>e.id===n4[0].id));assert.equal(c.findKotoba('','all','all','all',true,[n4[0].id],'N5').length,0);
-c.customData=[{jp:'テスト用の言葉',meaning:'kata uji',rom:'test',level:'N4'}];assert.equal(c.allKotobaEntries('N4').length,n4.length+1);assert.equal(c.allKotobaEntries('N5').length,1801);
+c.customData=[{jp:'テスト用の言葉',meaning:'kata uji',rom:'test',level:'N4'}];assert.equal(c.allKotobaEntries('N4').length,n4.length+1);assert.equal(c.allKotobaEntries('N5').length,1794);
 const cats=c.quizCategories('kotoba');assert.equal(cats.reduce((n,x)=>n+x.count,0),n4.length);
 const subs=c.quizSubs('kotoba',cats.map(x=>x.id));const cfg={...c.quizDefaultConfig(),type:'kotoba',mode:'id-jp',categories:cats.map(x=>x.id),subs:subs.map(x=>x.id),pages:[],count:10};const pages=c.quizWordPages(cfg);assert.ok(pages.every(p=>p.items.length>=5&&p.items.every(e=>e.level==='N4')));cfg.pages=pages.slice(0,2).map(p=>p.id);const pool=c.quizPool(cfg);assert.ok(pool.length>=5);assert.ok(pool.every(q=>q.sourceId.startsWith('kotoba-n4-')&&q.kana));const deck=c.quizMakeDeck(cfg,pool);assert.equal(deck.length,10);
-c.prefs.level='N5';assert.equal(c.quizCategories('kotoba').reduce((n,x)=>n+x.count,0),1801);
+c.prefs.level='N5';assert.equal(c.quizCategories('kotoba').reduce((n,x)=>n+x.count,0),1794);
 console.log(`PASS: ${n4.length} N4/A2 entries, exact 411-word complement, 7 sources, categories/readings/corrections, isolated search/saves/custom words and level-aware quiz pages/deck`);

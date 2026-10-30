@@ -45,7 +45,7 @@ def classify(e):
  if e.get('group'):return 'verb','Grup '+str(e['group'])
  if e.get('na') or jp in adjna:return 'adjective','Sifat-na'
  if jp in adji or k in adji:return 'adjective','Sifat-i'
- if e.get('known'):
+ if e.get('known') in known:
   x=known[e['known']];return x['category'],x['subcategory']
  if jp in adverbs:
   sub='Frekuensi' if has(m,'sering|kadang|selalu|jarang|biasanya') else 'Waktu & urutan' if has(m,'segera|akhirnya|dulu|kemudian|baru|sebentar|tiba-tiba|sudah|belum') else 'Jumlah & tingkat' if has(m,'banyak|sedikit|sangat|lebih|cukup|semua|paling|sekali|terlalu') else 'Kepastian & penekanan' if has(m,'pasti|tentu|mungkin|khusus|sebenarnya|harus') else 'Cara & keadaan'
