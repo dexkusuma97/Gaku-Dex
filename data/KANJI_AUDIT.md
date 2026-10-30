@@ -29,4 +29,4 @@ Pemeriksaan otomatis mengecek kelengkapan/struktur, bukan menggantikan tinjauan 
 
 ## Regenerasi
 
-Jalankan python scripts/build-kanji-data.py lalu node tests/kanji.test.cjs.
+Jalankan python3 scripts/build-kanji-data.py lalu node tests/kanji.test.cjs dan node tests/kanji-n4.test.cjs. Skrip sekarang juga membangun tambahan lanjutan; lihat KANJI_N4_AUDIT.md.

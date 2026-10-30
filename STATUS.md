@@ -1084,3 +1084,7 @@ misclassified common words, normalize reading scripts for cross-level dedup,
 trim repeated glosses, and fix identified lexical/example issues. Final counts:
 N5 1,791 and N4 3,227, all with examples. 34 suites pass. Cumulative patch prepared
 for user GitHub/Cloudflare publishing; not yet deployed from this checkout.
+
+## Kanji lanjutan — 30 Oktober 2026
+
+Audit tiga PDF Marugoto: 1.106 baris, 397 karakter sumber. Pertahankan 115 kanji N5; tambahkan 217 karakter A2 dan 70 pengayaan A2/B1 terpisah (287 tambahan, tanpa pengulangan N5). Arti berulang diringkas; 15 kategori tema; setiap karakter tambahan memiliki contoh kata sumber. Halaman, pencarian, detail, filter cakupan dan kuis Kanji mengikuti level. Detail yang tidak diberikan sumber (guratan/radikal) tidak diisi dengan tebakan. Lihat data/KANJI_N4_AUDIT.md. Tidak mengubah audio atau konfigurasi penerbitan.

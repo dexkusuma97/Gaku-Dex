@@ -1,0 +1,26 @@
+[
+  {
+    "id": "marugoto-a2-1",
+    "filename": "kanji marugoto1.pdf",
+    "sha256": "640a8da839d05ac483ee5232a439a44af6e7bcc031928e0f9c6cbbc69d0642e5",
+    "pages": 3,
+    "rows": 221,
+    "maxNumber": 221
+  },
+  {
+    "id": "marugoto-a2-2",
+    "filename": "kanji marugoto2.pdf",
+    "sha256": "a2e5dd8613bd52acba4b8c5094741b6b2452655346a91f491d7a9bca31652556",
+    "pages": 5,
+    "rows": 391,
+    "maxNumber": 391
+  },
+  {
+    "id": "marugoto-a2-b1",
+    "filename": "Kanji JFTA2 Lengkap.pdf",
+    "sha256": "8d7e2661306002da55a1ee6d742bee85c7b167e793afc8b12f4307886f3fc755",
+    "pages": 5,
+    "rows": 494,
+    "maxNumber": 494
+  }
+]

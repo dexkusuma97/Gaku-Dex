@@ -1,0 +1,4942 @@
+[
+  {
+    "number": 1,
+    "word": "魚",
+    "kana": "さかな",
+    "lesson": "5",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック3 たべもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 2,
+    "word": "肉",
+    "kana": "にく",
+    "lesson": "5",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック3 たべもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 3,
+    "word": "卵",
+    "kana": "たまご",
+    "lesson": "5",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック3 たべもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 4,
+    "word": "水",
+    "kana": "みず",
+    "lesson": "5",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック3 たべもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 5,
+    "word": "食べます",
+    "kana": "たべます",
+    "lesson": "6",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック3 たべもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 6,
+    "word": "飲みます",
+    "kana": "のみます",
+    "lesson": "6",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック3 たべもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 7,
+    "word": "大きい",
+    "kana": "おおきい",
+    "lesson": "8",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック4 いえ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 8,
+    "word": "小さい",
+    "kana": "ちいさい",
+    "lesson": "8",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック4 いえ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 9,
+    "word": "新しい",
+    "kana": "あたらしい",
+    "lesson": "8",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック4 いえ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 10,
+    "word": "古い",
+    "kana": "ふるい",
+    "lesson": "8",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック4 いえ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 11,
+    "word": "〜時（5時）",
+    "kana": "〜じ",
+    "lesson": "9",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 12,
+    "word": "〜分（5時15分）",
+    "kana": "〜ふん／ぷん",
+    "lesson": "9",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 13,
+    "word": "〜半（7時半）",
+    "kana": "〜はん",
+    "lesson": "9",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 14,
+    "word": "月",
+    "kana": "げつ",
+    "lesson": "10",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 15,
+    "word": "火",
+    "kana": "か",
+    "lesson": "10",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 16,
+    "word": "水",
+    "kana": "すい",
+    "lesson": "10",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 17,
+    "word": "木",
+    "kana": "もく",
+    "lesson": "10",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 18,
+    "word": "金",
+    "kana": "きん",
+    "lesson": "10",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 19,
+    "word": "土",
+    "kana": "ど",
+    "lesson": "10",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 20,
+    "word": "日",
+    "kana": "にち",
+    "lesson": "10",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 21,
+    "word": "〜よう日（月よう日）",
+    "kana": "〜ようび（げつようび）",
+    "lesson": "10",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック5 せいかつ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 22,
+    "word": "言います",
+    "kana": "いいます",
+    "lesson": "11",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 23,
+    "word": "話します",
+    "kana": "はなします",
+    "lesson": "11",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 24,
+    "word": "読みます",
+    "kana": "よみます",
+    "lesson": "11",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 25,
+    "word": "見ます",
+    "kana": "みます",
+    "lesson": "11",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 26,
+    "word": "聞きます",
+    "kana": "ききます",
+    "lesson": "11",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 27,
+    "word": "書きます",
+    "kana": "かきます",
+    "lesson": "11",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 28,
+    "word": "一",
+    "kana": "いち",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 29,
+    "word": "二",
+    "kana": "に",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 30,
+    "word": "三",
+    "kana": "さん",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 31,
+    "word": "四",
+    "kana": "よん／し",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 32,
+    "word": "五",
+    "kana": "ご",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 33,
+    "word": "六",
+    "kana": "ろく",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 34,
+    "word": "七",
+    "kana": "なな／しち",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 35,
+    "word": "八",
+    "kana": "はち",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 36,
+    "word": "九",
+    "kana": "きゅう／く",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 37,
+    "word": "十",
+    "kana": "じゅう",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 38,
+    "word": "〜年",
+    "kana": "〜ねん",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 39,
+    "word": "〜月",
+    "kana": "〜がつ",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 40,
+    "word": "〜日",
+    "kana": "〜にち",
+    "lesson": "12",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック6 やすみのひ1",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 41,
+    "word": "東",
+    "kana": "ひがし",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 42,
+    "word": "西",
+    "kana": "にし",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 43,
+    "word": "南",
+    "kana": "みなみ",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 44,
+    "word": "北",
+    "kana": "きた",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 45,
+    "word": "〜口",
+    "kana": "〜ぐち",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 46,
+    "word": "東口",
+    "kana": "ひがしぐち",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 47,
+    "word": "西口",
+    "kana": "にしぐち",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 48,
+    "word": "南口",
+    "kana": "みなみぐち",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 49,
+    "word": "北口",
+    "kana": "きたぐち",
+    "lesson": "13",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック7 まち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 50,
+    "word": "買います",
+    "kana": "かいます",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 51,
+    "word": "買いもの",
+    "kana": "かいもの",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 52,
+    "word": "お金",
+    "kana": "おかね",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 53,
+    "word": "〜円",
+    "kana": "〜えん",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 54,
+    "word": "百",
+    "kana": "ひゃく",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 55,
+    "word": "千",
+    "kana": "せん",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 56,
+    "word": "万",
+    "kana": "まん",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 57,
+    "word": "百円",
+    "kana": "ひゃくえん",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 58,
+    "word": "千円",
+    "kana": "せんえん",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 59,
+    "word": "一万円",
+    "kana": "いちまんえん",
+    "lesson": "16",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック8 かいもの",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 60,
+    "word": "行きます",
+    "kana": "いきます",
+    "lesson": "18",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック9 やすみのひ2",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 61,
+    "word": "来ます",
+    "kana": "きます",
+    "lesson": "18",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック9 やすみのひ2",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 62,
+    "word": "会います",
+    "kana": "あいます",
+    "lesson": "18",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック9 やすみのひ2",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 63,
+    "word": "休みます",
+    "kana": "やすみます",
+    "lesson": "18",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック9 やすみのひ2",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 64,
+    "word": "日本",
+    "kana": "にほん／にっぽん",
+    "lesson": "18",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック9 やすみのひ2",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 65,
+    "word": "東京",
+    "kana": "とうきょう",
+    "lesson": "18",
+    "page": 1,
+    "section": "入門（にゅうもん）",
+    "topic": "トピック9 やすみのひ2",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 66,
+    "word": "私",
+    "kana": "わたし",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 67,
+    "word": "父",
+    "kana": "ちち",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 68,
+    "word": "母",
+    "kana": "はは",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 69,
+    "word": "子ども",
+    "kana": "こども",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 70,
+    "word": "男",
+    "kana": "おとこ",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 71,
+    "word": "女",
+    "kana": "おんな",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 72,
+    "word": "人",
+    "kana": "ひと",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 73,
+    "word": "お父さん",
+    "kana": "おとうさん",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 74,
+    "word": "お母さん",
+    "kana": "おかあさん",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 75,
+    "word": "何人",
+    "kana": "なんにん",
+    "lesson": "1",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 76,
+    "word": "国",
+    "kana": "くに",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 77,
+    "word": "外国",
+    "kana": "がいこく",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 78,
+    "word": "〜語",
+    "kana": "〜ご",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 79,
+    "word": "日本語",
+    "kana": "にほんご",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 80,
+    "word": "英語",
+    "kana": "えいご",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 81,
+    "word": "中国語",
+    "kana": "ちゅうごくご",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 82,
+    "word": "〜人",
+    "kana": "〜じん",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 83,
+    "word": "日本人",
+    "kana": "にほんじん",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 84,
+    "word": "好き",
+    "kana": "すき",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 85,
+    "word": "本",
+    "kana": "ほん",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 86,
+    "word": "読書",
+    "kana": "どくしょ",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 87,
+    "word": "何",
+    "kana": "なに",
+    "lesson": "2",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック1 私とかぞく",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 88,
+    "word": "春",
+    "kana": "はる",
+    "lesson": "3",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 89,
+    "word": "夏",
+    "kana": "なつ",
+    "lesson": "3",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 90,
+    "word": "秋",
+    "kana": "あき",
+    "lesson": "3",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 91,
+    "word": "冬",
+    "kana": "ふゆ",
+    "lesson": "3",
+    "page": 1,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 92,
+    "word": "今",
+    "kana": "いま",
+    "lesson": "3",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 93,
+    "word": "花",
+    "kana": "はな",
+    "lesson": "3",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 94,
+    "word": "海",
+    "kana": "うみ",
+    "lesson": "3",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 95,
+    "word": "山",
+    "kana": "やま",
+    "lesson": "3",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 96,
+    "word": "川",
+    "kana": "かわ",
+    "lesson": "3",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 97,
+    "word": "今日",
+    "kana": "きょう",
+    "lesson": "4",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 98,
+    "word": "天気",
+    "kana": "てんき",
+    "lesson": "4",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 99,
+    "word": "晴れ",
+    "kana": "はれ",
+    "lesson": "4",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 100,
+    "word": "雨",
+    "kana": "あめ",
+    "lesson": "4",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 101,
+    "word": "雪",
+    "kana": "ゆき",
+    "lesson": "4",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 102,
+    "word": "雲",
+    "kana": "くも",
+    "lesson": "4",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 103,
+    "word": "風",
+    "kana": "かぜ",
+    "lesson": "4",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 104,
+    "word": "空",
+    "kana": "そら",
+    "lesson": "4",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック2 きせつと天気",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 105,
+    "word": "町",
+    "kana": "まち",
+    "lesson": "5",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 106,
+    "word": "店",
+    "kana": "みせ",
+    "lesson": "5",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 107,
+    "word": "人気",
+    "kana": "にんき",
+    "lesson": "5",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 108,
+    "word": "多い",
+    "kana": "おおい",
+    "lesson": "5",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 109,
+    "word": "少ない",
+    "kana": "すくない",
+    "lesson": "5",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 110,
+    "word": "高い",
+    "kana": "たかい",
+    "lesson": "5",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 111,
+    "word": "安い",
+    "kana": "やすい",
+    "lesson": "5",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 112,
+    "word": "広い",
+    "kana": "ひろい",
+    "lesson": "5",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 113,
+    "word": "道",
+    "kana": "みち",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 114,
+    "word": "通り",
+    "kana": "とおり",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 115,
+    "word": "右",
+    "kana": "みぎ",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 116,
+    "word": "左",
+    "kana": "ひだり",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 117,
+    "word": "一つ",
+    "kana": "ひとつ",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 118,
+    "word": "二つ",
+    "kana": "ふたつ",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 119,
+    "word": "赤い",
+    "kana": "あかい",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 120,
+    "word": "青い",
+    "kana": "あおい",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 121,
+    "word": "黒い",
+    "kana": "くろい",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 122,
+    "word": "白い",
+    "kana": "しろい",
+    "lesson": "6",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック3 私の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 123,
+    "word": "時間",
+    "kana": "じかん",
+    "lesson": "7",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 124,
+    "word": "場所",
+    "kana": "ばしょ",
+    "lesson": "7",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 125,
+    "word": "駅",
+    "kana": "えき",
+    "lesson": "7",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 126,
+    "word": "日",
+    "kana": "ひ",
+    "lesson": "7",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 127,
+    "word": "出かけます",
+    "kana": "でかけます",
+    "lesson": "7",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 128,
+    "word": "待ちます",
+    "kana": "まちます",
+    "lesson": "7",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 129,
+    "word": "止まります",
+    "kana": "とまります",
+    "lesson": "7",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 130,
+    "word": "食事",
+    "kana": "しょくじ",
+    "lesson": "8",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 131,
+    "word": "仕事",
+    "kana": "しごと",
+    "lesson": "8",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 132,
+    "word": "前",
+    "kana": "まえ",
+    "lesson": "8",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 133,
+    "word": "後",
+    "kana": "あと",
+    "lesson": "8",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 134,
+    "word": "朝",
+    "kana": "あさ",
+    "lesson": "8",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 135,
+    "word": "昼",
+    "kana": "ひる",
+    "lesson": "8",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 136,
+    "word": "夜",
+    "kana": "よる",
+    "lesson": "8",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 137,
+    "word": "乗ります",
+    "kana": "のります",
+    "lesson": "8",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック4 出かける",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 138,
+    "word": "学校",
+    "kana": "がっこう",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 139,
+    "word": "小学校",
+    "kana": "しょうがっこう",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 140,
+    "word": "中学校",
+    "kana": "ちゅうがっこう",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 141,
+    "word": "高校",
+    "kana": "こうこう",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 142,
+    "word": "大学",
+    "kana": "だいがく",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 143,
+    "word": "先生",
+    "kana": "せんせい",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 144,
+    "word": "学生",
+    "kana": "がくせい",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 145,
+    "word": "〜年生（1年生）",
+    "kana": "〜ねんせい（いちねんせい）",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 146,
+    "word": "勉強",
+    "kana": "べんきょう",
+    "lesson": "9",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 147,
+    "word": "文化",
+    "kana": "ぶんか",
+    "lesson": "10",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 148,
+    "word": "音楽",
+    "kana": "おんがく",
+    "lesson": "10",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 149,
+    "word": "旅行",
+    "kana": "りょこう",
+    "lesson": "10",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 150,
+    "word": "留学",
+    "kana": "りゅうがく",
+    "lesson": "10",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 151,
+    "word": "友だち",
+    "kana": "ともだち",
+    "lesson": "10",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 152,
+    "word": "楽しい",
+    "kana": "たのしい",
+    "lesson": "10",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 153,
+    "word": "週",
+    "kana": "しゅう",
+    "lesson": "10",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 154,
+    "word": "〜回（2回）",
+    "kana": "かい（にかい）",
+    "lesson": "10",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック5 外国語と外国文化",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 155,
+    "word": "食べ物",
+    "kana": "たべもの",
+    "lesson": "11",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 156,
+    "word": "飲み物",
+    "kana": "のみもの",
+    "lesson": "11",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 157,
+    "word": "お茶",
+    "kana": "おちゃ",
+    "lesson": "11",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 158,
+    "word": "お酒",
+    "kana": "おさけ",
+    "lesson": "11",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 159,
+    "word": "作ります",
+    "kana": "つくります",
+    "lesson": "11",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 160,
+    "word": "持っていきます",
+    "kana": "もっていきます",
+    "lesson": "11",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 161,
+    "word": "お願いします",
+    "kana": "おねがいします",
+    "lesson": "11",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 162,
+    "word": "料理",
+    "kana": "りょうり",
+    "lesson": "12",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 163,
+    "word": "味",
+    "kana": "あじ",
+    "lesson": "12",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 164,
+    "word": "色",
+    "kana": "いろ",
+    "lesson": "12",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 165,
+    "word": "野菜",
+    "kana": "やさい",
+    "lesson": "12",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 166,
+    "word": "少し",
+    "kana": "すこし",
+    "lesson": "12",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 167,
+    "word": "中",
+    "kana": "なか",
+    "lesson": "12",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 168,
+    "word": "入っています",
+    "kana": "はいっています",
+    "lesson": "12",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック6 そとで食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 169,
+    "word": "会社",
+    "kana": "かいしゃ",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 170,
+    "word": "本社",
+    "kana": "ほんしゃ",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 171,
+    "word": "支社",
+    "kana": "ししゃ",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 172,
+    "word": "出張",
+    "kana": "しゅっちょう",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 173,
+    "word": "空港",
+    "kana": "くうこう",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 174,
+    "word": "出発",
+    "kana": "しゅっぱつ",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 175,
+    "word": "到着",
+    "kana": "とうちゃく",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 176,
+    "word": "午前",
+    "kana": "ごぜん",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 177,
+    "word": "午後",
+    "kana": "ごご",
+    "lesson": "13",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 178,
+    "word": "自分",
+    "kana": "じぶん",
+    "lesson": "14",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 179,
+    "word": "電話",
+    "kana": "でんわ",
+    "lesson": "14",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 180,
+    "word": "電気",
+    "kana": "でんき",
+    "lesson": "14",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 181,
+    "word": "電車",
+    "kana": "でんしゃ",
+    "lesson": "14",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 182,
+    "word": "車",
+    "kana": "くるま",
+    "lesson": "14",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 183,
+    "word": "送ります",
+    "kana": "おくります",
+    "lesson": "14",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 184,
+    "word": "使います",
+    "kana": "つかいます",
+    "lesson": "14",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 185,
+    "word": "借ります",
+    "kana": "かります",
+    "lesson": "14",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック7 出張",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 186,
+    "word": "体",
+    "kana": "からだ",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 187,
+    "word": "頭",
+    "kana": "あたま",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 188,
+    "word": "目",
+    "kana": "め",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 189,
+    "word": "口",
+    "kana": "くち",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 190,
+    "word": "耳",
+    "kana": "みみ",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 191,
+    "word": "手",
+    "kana": "て",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 192,
+    "word": "足",
+    "kana": "あし",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 193,
+    "word": "上",
+    "kana": "うえ",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 194,
+    "word": "下",
+    "kana": "した",
+    "lesson": "15",
+    "page": 2,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 195,
+    "word": "毎〜",
+    "kana": "まい〜",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 196,
+    "word": "毎朝",
+    "kana": "まいあさ",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 197,
+    "word": "毎日",
+    "kana": "まいにち",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 198,
+    "word": "週末",
+    "kana": "しゅうまつ",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 199,
+    "word": "元気",
+    "kana": "げんき",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 200,
+    "word": "外",
+    "kana": "そと",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 201,
+    "word": "起きます",
+    "kana": "おきます",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 202,
+    "word": "歩きます",
+    "kana": "あるきます",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 203,
+    "word": "走ります",
+    "kana": "はしります",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 204,
+    "word": "泳ぎます",
+    "kana": "およぎます",
+    "lesson": "16",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック8 けんこう",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 205,
+    "word": "お祝い",
+    "kana": "おいわい",
+    "lesson": "17",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 206,
+    "word": "誕生日",
+    "kana": "たんじょうび",
+    "lesson": "17",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 207,
+    "word": "結婚",
+    "kana": "けっこん",
+    "lesson": "17",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 208,
+    "word": "絵",
+    "kana": "え",
+    "lesson": "17",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 209,
+    "word": "写真",
+    "kana": "しゃしん",
+    "lesson": "17",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 210,
+    "word": "時計",
+    "kana": "とけい",
+    "lesson": "17",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 211,
+    "word": "着ます",
+    "kana": "きます",
+    "lesson": "17",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 212,
+    "word": "先〜",
+    "kana": "せん〜",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 213,
+    "word": "先週",
+    "kana": "せんしゅう",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 214,
+    "word": "今〜",
+    "kana": "こん〜",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 215,
+    "word": "今月",
+    "kana": "こんげつ",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 216,
+    "word": "来〜",
+    "kana": "らい〜",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 217,
+    "word": "来年",
+    "kana": "らいねん",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 218,
+    "word": "今年",
+    "kana": "ことし",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 219,
+    "word": "去年",
+    "kana": "きょねん",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 220,
+    "word": "家",
+    "kana": "いえ",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 221,
+    "word": "思います",
+    "kana": "おもいます",
+    "lesson": "18",
+    "page": 3,
+    "section": "初級（しょきゅう）1",
+    "topic": "トピック9 お祝い",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 222,
+    "word": "自己紹介",
+    "kana": "じこしょうかい",
+    "lesson": "1",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 223,
+    "word": "名前",
+    "kana": "なまえ",
+    "lesson": "1",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 224,
+    "word": "意味",
+    "kana": "いみ",
+    "lesson": "1",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 225,
+    "word": "本屋",
+    "kana": "ほんや",
+    "lesson": "1",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 226,
+    "word": "近く",
+    "kana": "ちかく",
+    "lesson": "1",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 227,
+    "word": "住みます",
+    "kana": "すみます",
+    "lesson": "1",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 228,
+    "word": "働きます",
+    "kana": "はたらきます",
+    "lesson": "1",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 229,
+    "word": "〜番目（1番目）",
+    "kana": "〜ばんめ（いちばんめ）",
+    "lesson": "1",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 230,
+    "word": "兄",
+    "kana": "あに",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 231,
+    "word": "お兄さん",
+    "kana": "おにいさん",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 232,
+    "word": "姉",
+    "kana": "あね",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 233,
+    "word": "お姉さん",
+    "kana": "おねえさん",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 234,
+    "word": "弟",
+    "kana": "おとうと",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 235,
+    "word": "妹",
+    "kana": "いもうと",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 236,
+    "word": "家族",
+    "kana": "かぞく",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 237,
+    "word": "長い",
+    "kana": "ながい",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 238,
+    "word": "短い",
+    "kana": "みじかい",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 239,
+    "word": "低い",
+    "kana": "ひくい",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 240,
+    "word": "上手",
+    "kana": "じょうず",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 241,
+    "word": "歌",
+    "kana": "うた",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 242,
+    "word": "歌います",
+    "kana": "うたいます",
+    "lesson": "2",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック1 新しい友だち",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 243,
+    "word": "客",
+    "kana": "きゃく",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 244,
+    "word": "注文",
+    "kana": "ちゅうもん",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 245,
+    "word": "洋食",
+    "kana": "ようしょく",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 246,
+    "word": "和食",
+    "kana": "わしょく",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 247,
+    "word": "牛肉",
+    "kana": "ぎゅうにく",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 248,
+    "word": "地方",
+    "kana": "ちほう",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 249,
+    "word": "有名",
+    "kana": "ゆうめい",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 250,
+    "word": "生",
+    "kana": "なま",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 251,
+    "word": "冷たい",
+    "kana": "つめたい",
+    "lesson": "3",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 252,
+    "word": "ご飯",
+    "kana": "ごはん",
+    "lesson": "4",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 253,
+    "word": "塩",
+    "kana": "しお",
+    "lesson": "4",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 254,
+    "word": "全部",
+    "kana": "ぜんぶ",
+    "lesson": "4",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 255,
+    "word": "〜方",
+    "kana": "〜かた",
+    "lesson": "4",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 256,
+    "word": "食べ方",
+    "kana": "たべかた",
+    "lesson": "4",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 257,
+    "word": "熱い",
+    "kana": "あつい",
+    "lesson": "4",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 258,
+    "word": "苦手",
+    "kana": "にがて",
+    "lesson": "4",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 259,
+    "word": "入れます",
+    "kana": "いれます",
+    "lesson": "4",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック2 店で食べる",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 260,
+    "word": "木",
+    "kana": "き",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 261,
+    "word": "森",
+    "kana": "もり",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 262,
+    "word": "島",
+    "kana": "しま",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 263,
+    "word": "自然",
+    "kana": "しぜん",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 264,
+    "word": "船",
+    "kana": "ふね",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 265,
+    "word": "暑い",
+    "kana": "あつい",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 266,
+    "word": "帰ります",
+    "kana": "かえります",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 267,
+    "word": "予約します",
+    "kana": "よやくします",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 268,
+    "word": "運転します",
+    "kana": "うんてんします",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 269,
+    "word": "〜中",
+    "kana": "〜ちゅう",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 270,
+    "word": "旅行中",
+    "kana": "りょこうちゅう",
+    "lesson": "5",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 271,
+    "word": "観光地",
+    "kana": "かんこうち",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 272,
+    "word": "女性",
+    "kana": "じょせい",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 273,
+    "word": "男性",
+    "kana": "だんせい",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 274,
+    "word": "動物",
+    "kana": "どうぶつ",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 275,
+    "word": "空気",
+    "kana": "くうき",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 276,
+    "word": "料金",
+    "kana": "りょうきん",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 277,
+    "word": "無料",
+    "kana": "むりょう",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 278,
+    "word": "明るい",
+    "kana": "あかるい",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 279,
+    "word": "便利",
+    "kana": "べんり",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 280,
+    "word": "〜中",
+    "kana": "〜じゅう",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 281,
+    "word": "一年中",
+    "kana": "いちねんじゅう",
+    "lesson": "6",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック3 沖縄旅行",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 282,
+    "word": "受付",
+    "kana": "うけつけ",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 283,
+    "word": "広場",
+    "kana": "ひろば",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 284,
+    "word": "問題",
+    "kana": "もんだい",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 285,
+    "word": "同じ",
+    "kana": "おなじ",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 286,
+    "word": "集まります",
+    "kana": "あつまります",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 287,
+    "word": "始まります",
+    "kana": "はじまります",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 288,
+    "word": "終わります",
+    "kana": "おわります",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 289,
+    "word": "中止します",
+    "kana": "ちゅうしします",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 290,
+    "word": "教えます",
+    "kana": "おしえます",
+    "lesson": "7",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 291,
+    "word": "祭り",
+    "kana": "まつり",
+    "lesson": "8",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 292,
+    "word": "日本祭",
+    "kana": "にほんまつり",
+    "lesson": "8",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 293,
+    "word": "会場",
+    "kana": "かいじょう",
+    "lesson": "8",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 294,
+    "word": "入場料",
+    "kana": "にゅうじょうりょう",
+    "lesson": "8",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 295,
+    "word": "参加者",
+    "kana": "さんかしゃ",
+    "lesson": "8",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 296,
+    "word": "急ぎます",
+    "kana": "いそぎます",
+    "lesson": "8",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 297,
+    "word": "決めます",
+    "kana": "きめます",
+    "lesson": "8",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 298,
+    "word": "知ります",
+    "kana": "しります",
+    "lesson": "8",
+    "page": 3,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック4 日本祭",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 299,
+    "word": "正月",
+    "kana": "しょうがつ",
+    "lesson": "9",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 300,
+    "word": "年末",
+    "kana": "ねんまつ",
+    "lesson": "9",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 301,
+    "word": "年始",
+    "kana": "ねんし",
+    "lesson": "9",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 302,
+    "word": "親",
+    "kana": "おや",
+    "lesson": "9",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 303,
+    "word": "忙しい",
+    "kana": "いそがしい",
+    "lesson": "9",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 304,
+    "word": "特別",
+    "kana": "とくべつ",
+    "lesson": "9",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 305,
+    "word": "帰国",
+    "kana": "きこく",
+    "lesson": "9",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 306,
+    "word": "喜びます",
+    "kana": "よろこびます",
+    "lesson": "9",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 307,
+    "word": "幸せ",
+    "kana": "しあわせ",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 308,
+    "word": "成長",
+    "kana": "せいちょう",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 309,
+    "word": "長生き",
+    "kana": "ながいき",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 310,
+    "word": "願い事",
+    "kana": "ねがいごと",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 311,
+    "word": "合格",
+    "kana": "ごうかく",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 312,
+    "word": "試験",
+    "kana": "しけん",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 313,
+    "word": "大人",
+    "kana": "おとな",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 314,
+    "word": "〜式（成人式）",
+    "kana": "〜しき（せいじんしき）",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 315,
+    "word": "〜市（さいたま市）",
+    "kana": "〜し",
+    "lesson": "10",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック5 特別な日",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 316,
+    "word": "商品",
+    "kana": "しょうひん",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 317,
+    "word": "電気製品",
+    "kana": "でんきせいひん",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 318,
+    "word": "電子レンジ",
+    "kana": "でんしレンジ",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 319,
+    "word": "〜機（そうじ機）",
+    "kana": "〜き",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 320,
+    "word": "店員",
+    "kana": "てんいん",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 321,
+    "word": "調子",
+    "kana": "ちょうし",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 322,
+    "word": "悪い",
+    "kana": "わるい",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 323,
+    "word": "動きます",
+    "kana": "うごきます",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 324,
+    "word": "考えます",
+    "kana": "かんがえます",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 325,
+    "word": "音",
+    "kana": "おと",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 326,
+    "word": "出ます",
+    "kana": "でます",
+    "lesson": "11",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 327,
+    "word": "機能",
+    "kana": "きのう",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 328,
+    "word": "省エネ",
+    "kana": "しょうエネ",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 329,
+    "word": "日本製",
+    "kana": "にほんせい",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 330,
+    "word": "重い",
+    "kana": "おもい",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 331,
+    "word": "軽い",
+    "kana": "かるい",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 332,
+    "word": "静か",
+    "kana": "しずか",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 333,
+    "word": "早く",
+    "kana": "はやく",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 334,
+    "word": "方（こっちの方）",
+    "kana": "ほう",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 335,
+    "word": "洗います",
+    "kana": "あらいます",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 336,
+    "word": "満足します",
+    "kana": "まんぞくします",
+    "lesson": "12",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック6 ネットショッピング",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 337,
+    "word": "京都",
+    "kana": "きょうと",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 338,
+    "word": "神社",
+    "kana": "じんじゃ",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 339,
+    "word": "お寺",
+    "kana": "おてら",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 340,
+    "word": "仏教",
+    "kana": "ぶっきょう",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 341,
+    "word": "歴史",
+    "kana": "れきし",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 342,
+    "word": "世界",
+    "kana": "せかい",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 343,
+    "word": "中心",
+    "kana": "ちゅうしん",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 344,
+    "word": "〜世紀（8世紀）",
+    "kana": "〜せいき（はっせいき）",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 345,
+    "word": "〜的",
+    "kana": "〜てき",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 346,
+    "word": "日本的",
+    "kana": "にほんてき",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 347,
+    "word": "歴史的",
+    "kana": "れきしてき",
+    "lesson": "13",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 348,
+    "word": "飲食",
+    "kana": "いんしょく",
+    "lesson": "14",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 349,
+    "word": "禁止",
+    "kana": "きんし",
+    "lesson": "14",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 350,
+    "word": "説明",
+    "kana": "せつめい",
+    "lesson": "14",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 351,
+    "word": "道具",
+    "kana": "どうぐ",
+    "lesson": "14",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 352,
+    "word": "博物館",
+    "kana": "はくぶつかん",
+    "lesson": "14",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 353,
+    "word": "必要",
+    "kana": "ひつよう",
+    "lesson": "14",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 354,
+    "word": "〜階（2階）",
+    "kana": "〜かい（にかい）",
+    "lesson": "14",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック7 歴史と文化の町",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 355,
+    "word": "油",
+    "kana": "あぶら",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 356,
+    "word": "紙",
+    "kana": "かみ",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 357,
+    "word": "温度",
+    "kana": "おんど",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 358,
+    "word": "活動",
+    "kana": "かつどう",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 359,
+    "word": "会議室",
+    "kana": "かいぎしつ",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 360,
+    "word": "寒い",
+    "kana": "さむい",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 361,
+    "word": "出します",
+    "kana": "だします",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 362,
+    "word": "〜度（28度）",
+    "kana": "〜ど（にじゅうはちど）",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 363,
+    "word": "〜点（100点）",
+    "kana": "〜てん（ひゃくてん）",
+    "lesson": "15",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 364,
+    "word": "服",
+    "kana": "ふく",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 365,
+    "word": "自転車",
+    "kana": "じてんしゃ",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 366,
+    "word": "自動車",
+    "kana": "じどうしゃ",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 367,
+    "word": "売ります",
+    "kana": "うります",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 368,
+    "word": "貸します",
+    "kana": "かします",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 369,
+    "word": "返します",
+    "kana": "かえします",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 370,
+    "word": "変わります",
+    "kana": "かわります",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 371,
+    "word": "〜用",
+    "kana": "〜よう",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 372,
+    "word": "子ども用",
+    "kana": "こどもよう",
+    "lesson": "16",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック8 せいかつとエコ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 373,
+    "word": "人生",
+    "kana": "じんせい",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 374,
+    "word": "歌手",
+    "kana": "かしゅ",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 375,
+    "word": "選手",
+    "kana": "せんしゅ",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 376,
+    "word": "画家",
+    "kana": "がか",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 377,
+    "word": "作家",
+    "kana": "さっか",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 378,
+    "word": "入学",
+    "kana": "にゅうがく",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 379,
+    "word": "卒業",
+    "kana": "そつぎょう",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 380,
+    "word": "病気",
+    "kana": "びょうき",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 381,
+    "word": "若い",
+    "kana": "わかい",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 382,
+    "word": "生まれます",
+    "kana": "うまれます",
+    "lesson": "17",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 383,
+    "word": "思い出",
+    "kana": "おもいで",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 384,
+    "word": "生活",
+    "kana": "せいかつ",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 385,
+    "word": "映画",
+    "kana": "えいが",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 386,
+    "word": "夫",
+    "kana": "おっと",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 387,
+    "word": "妻",
+    "kana": "つま",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 388,
+    "word": "両親",
+    "kana": "りょうしん",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 389,
+    "word": "不便",
+    "kana": "ふべん",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 390,
+    "word": "選びます",
+    "kana": "えらびます",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 391,
+    "word": "寝ます",
+    "kana": "ねます",
+    "lesson": "18",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック9 人生",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 392,
+    "word": "サッカー場",
+    "kana": "サッカーじょう",
+    "lesson": "1",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック１ スポーツの試合",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 393,
+    "word": "試合",
+    "kana": "しあい",
+    "lesson": "1",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック１ スポーツの試合",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 394,
+    "word": "日曜日",
+    "kana": "にちようび",
+    "lesson": "1",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック１ スポーツの試合",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 395,
+    "word": "強い",
+    "kana": "つよい",
+    "lesson": "1",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック１ スポーツの試合",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 396,
+    "word": "弱い",
+    "kana": "よわい",
+    "lesson": "1",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック１ スポーツの試合",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 397,
+    "word": "勝つ",
+    "kana": "かつ",
+    "lesson": "1",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック１ スポーツの試合",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 398,
+    "word": "負ける",
+    "kana": "まける",
+    "lesson": "1",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック１ スポーツの試合",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 399,
+    "word": "〜対〜（２対１）",
+    "kana": "〜たい〜（にたいいち）",
+    "lesson": "1",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック１ スポーツの試合",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 400,
+    "word": "庭",
+    "kana": "にわ",
+    "lesson": "2",
+    "page": 4,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 401,
+    "word": "公園",
+    "kana": "こうえん",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 402,
+    "word": "病院",
+    "kana": "びょういん",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 403,
+    "word": "交通",
+    "kana": "こうつう",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 404,
+    "word": "通勤",
+    "kana": "つうきん",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 405,
+    "word": "安全",
+    "kana": "あんぜん",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 406,
+    "word": "危ない",
+    "kana": "あぶない",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 407,
+    "word": "遠い",
+    "kana": "とおい",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 408,
+    "word": "勤める",
+    "kana": "つとめる",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 409,
+    "word": "～以上（2時間以上）",
+    "kana": "～いじょう（にじかんいじょう）",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 410,
+    "word": "～以下（6万円以下）",
+    "kana": "～いか（ろくまんえんいか）",
+    "lesson": "2",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック２ 家をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 411,
+    "word": "海外",
+    "kana": "かいがい",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 412,
+    "word": "食生活",
+    "kana": "しょくせいかつ",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 413,
+    "word": "健康",
+    "kana": "けんこう",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 414,
+    "word": "家庭料理",
+    "kana": "かていりょうり",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 415,
+    "word": "材料",
+    "kana": "ざいりょう",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 416,
+    "word": "量",
+    "kana": "りょう",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 417,
+    "word": "米",
+    "kana": "こめ",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 418,
+    "word": "～食",
+    "kana": "～しょく",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 419,
+    "word": "朝食",
+    "kana": "ちょうしょく",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 420,
+    "word": "昼食",
+    "kana": "ちゅうしょく",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 421,
+    "word": "夕食",
+    "kana": "ゆうしょく",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 422,
+    "word": "外食",
+    "kana": "がいしょく",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 423,
+    "word": "定食",
+    "kana": "ていしょく",
+    "lesson": "3",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック３ ほっとする食べ物",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 424,
+    "word": "住所",
+    "kana": "じゅうしょ",
+    "lesson": "4",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック４ 訪問",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 425,
+    "word": "訪問",
+    "kana": "ほうもん",
+    "lesson": "4",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック４ 訪問",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 426,
+    "word": "経験",
+    "kana": "けいけん",
+    "lesson": "4",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック４ 訪問",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 427,
+    "word": "親切",
+    "kana": "しんせつ",
+    "lesson": "4",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック４ 訪問",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 428,
+    "word": "座る",
+    "kana": "すわる",
+    "lesson": "4",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック４ 訪問",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 429,
+    "word": "立つ",
+    "kana": "たつ",
+    "lesson": "4",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック４ 訪問",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 430,
+    "word": "～観（人生観）",
+    "kana": "～かん（じんせいかん）",
+    "lesson": "4",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック４ 訪問",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 431,
+    "word": "約～（約６年間）",
+    "kana": "やく～（やくろくねんかん）",
+    "lesson": "4",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック４ 訪問",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 432,
+    "word": "計画",
+    "kana": "けいかく",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 433,
+    "word": "自信",
+    "kana": "じしん",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 434,
+    "word": "方法",
+    "kana": "ほうほう",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 435,
+    "word": "目的",
+    "kana": "もくてき",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 436,
+    "word": "難しい",
+    "kana": "むずかしい",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 437,
+    "word": "通じる",
+    "kana": "つうじる",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 438,
+    "word": "習う",
+    "kana": "ならう",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 439,
+    "word": "学ぶ",
+    "kana": "まなぶ",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 440,
+    "word": "～級",
+    "kana": "～きゅう",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 441,
+    "word": "初級",
+    "kana": "しょきゅう",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 442,
+    "word": "中級",
+    "kana": "ちゅうきゅう",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 443,
+    "word": "上級",
+    "kana": "じょうきゅう",
+    "lesson": "5",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック５ ことばを学ぶ楽しみ",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 444,
+    "word": "相手",
+    "kana": "あいて",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 445,
+    "word": "気持ち",
+    "kana": "きもち",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 446,
+    "word": "恋人",
+    "kana": "こいびと",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 447,
+    "word": "出会い",
+    "kana": "であい",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 448,
+    "word": "最近",
+    "kana": "さいきん",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 449,
+    "word": "最高",
+    "kana": "さいこう",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 450,
+    "word": "出席",
+    "kana": "しゅっせき",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 451,
+    "word": "招待",
+    "kana": "しょうたい",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 452,
+    "word": "～合う（知り合う）",
+    "kana": "～あう（しりあう）",
+    "lesson": "6",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック６ 結婚",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 453,
+    "word": "社会人",
+    "kana": "しゃかいじん",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 454,
+    "word": "職場",
+    "kana": "しょくば",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 455,
+    "word": "給料",
+    "kana": "きゅうりょう",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 456,
+    "word": "人間関係",
+    "kana": "にんげんかんけい",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 457,
+    "word": "親友",
+    "kana": "しんゆう",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 458,
+    "word": "恋愛",
+    "kana": "れんあい",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 459,
+    "word": "相談",
+    "kana": "そうだん",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 460,
+    "word": "心",
+    "kana": "こころ",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 461,
+    "word": "心配",
+    "kana": "しんぱい",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 462,
+    "word": "不安",
+    "kana": "ふあん",
+    "lesson": "7",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック７ なやみ相談",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 463,
+    "word": "お客様",
+    "kana": "おきゃくさま",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 464,
+    "word": "手続き",
+    "kana": "てつづき",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 465,
+    "word": "飛行機",
+    "kana": "ひこうき",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 466,
+    "word": "変更",
+    "kana": "へんこう",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 467,
+    "word": "予定",
+    "kana": "よてい",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 468,
+    "word": "利用",
+    "kana": "りよう",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 469,
+    "word": "忘れ物",
+    "kana": "わすれもの",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 470,
+    "word": "助ける",
+    "kana": "たすける",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 471,
+    "word": "～航空（JF航空）",
+    "kana": "～こうくう（JFこうくう）",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 472,
+    "word": "～便（115便）",
+    "kana": "～びん（いちいちごびん）",
+    "lesson": "8",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック８ 旅行中のトラブル",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 473,
+    "word": "体力",
+    "kana": "たいりょく",
+    "lesson": "9",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 474,
+    "word": "協力",
+    "kana": "きょうりょく",
+    "lesson": "9",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 475,
+    "word": "担当",
+    "kana": "たんとう",
+    "lesson": "9",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 476,
+    "word": "報告",
+    "kana": "ほうこく",
+    "lesson": "9",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 477,
+    "word": "連絡",
+    "kana": "れんらく",
+    "lesson": "9",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 478,
+    "word": "募集",
+    "kana": "ぼしゅう",
+    "lesson": "9",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 479,
+    "word": "輸出",
+    "kana": "ゆしゅつ",
+    "lesson": "9",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 480,
+    "word": "輸入",
+    "kana": "ゆにゅう",
+    "lesson": "9",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 481,
+    "word": "会話",
+    "kana": "かいわ",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 482,
+    "word": "形",
+    "kana": "かたち",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 483,
+    "word": "漢字",
+    "kana": "かんじ",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 484,
+    "word": "答え",
+    "kana": "こたえ",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 485,
+    "word": "質問",
+    "kana": "しつもん",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 486,
+    "word": "正しい",
+    "kana": "ただしい",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 487,
+    "word": "読解",
+    "kana": "どっかい",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 488,
+    "word": "表現",
+    "kana": "ひょうげん",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 489,
+    "word": "文",
+    "kana": "ぶん",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 490,
+    "word": "文型",
+    "kana": "ぶんけい",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 491,
+    "word": "文法",
+    "kana": "ぶんぽう",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 492,
+    "word": "もう一度",
+    "kana": "もういちど",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 493,
+    "word": "例",
+    "kana": "れい",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  },
+  {
+    "number": 494,
+    "word": "練習",
+    "kana": "れんしゅう",
+    "lesson": "",
+    "page": 5,
+    "section": "初級（しょきゅう）2",
+    "topic": "トピック９ 仕事をさがす",
+    "source": "marugoto-a2-b1"
+  }
+]

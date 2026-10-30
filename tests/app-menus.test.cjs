@@ -27,3 +27,5 @@ const savedStorage=new Map([['gaku-kotoba-saved',JSON.stringify([merged[0],merge
 const migrated=app(savedStorage);assert.deepEqual(JSON.parse(migrated.run('JSON.stringify(kotobaSaved)')),[merged[1]],'saved duplicates redirect and deduplicate');
 migrated.c.selectLevel('N4');migrated.c.showPage('Kotoba');migrated.c.openKotoba(merged[0]);assert.equal(migrated.c.getKotobaRoute().id,merged[1]);
 assert.ok(migrated.els.get('app').innerHTML.includes('Buka arti kalimat'));assert.ok(!migrated.els.get('app').innerHTML.includes('Sumber materi'));
+
+const kanjiApp=app();kanjiApp.c.selectLevel('N4');kanjiApp.c.showPage('Kanji');assert.ok(kanjiApp.els.get('app').innerHTML.includes('217 kanji lanjutan A2'));kanjiApp.c.openKanji('kanji-6d77');assert.ok(kanjiApp.els.get('app').innerHTML.includes('Kenali 海'));kanjiApp.c.toggleLevel();assert.equal(kanjiApp.c.getKanjiRoute().view,'list');assert.ok(kanjiApp.els.get('app').innerHTML.includes('115 kanji dasar'));

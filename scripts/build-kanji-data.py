@@ -37,3 +37,9 @@ assert len(rows)==115
 assert set(cat_map)==set(r['char'] for r in rows),(set(cat_map)-set(r['char'] for r in rows),set(r['char'] for r in rows)-set(cat_map))
 (root/'dist/kanji-data.js').write_text('/* Reviewed learning dataset from the two user-provided PDFs. Supplementary explanations are editorial. */\nconst KANJI_CATEGORIES = '+json.dumps([{'id':key,'name':label} for key,label,chars in categories],ensure_ascii=False,indent=2)+';\nconst KANJI_DATA = '+json.dumps(rows,ensure_ascii=False,indent=2)+';\n')
 print('Built',len(rows),'kanji in',len(categories),'categories')
+
+# Rebuild additions as well; --n5-only is used internally to avoid recursion.
+if __name__=='__main__':
+ import sys,subprocess
+ if '--n5-only' not in sys.argv:
+  subprocess.run([sys.executable,str(root/'scripts/build-kanji-n4.py'),'--append-only'],check=True)
