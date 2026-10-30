@@ -22,7 +22,7 @@ assert.equal(pages.size,36,'Every content page is mapped, including enrichment')
 const queries=[['たい','tai'],['タイ','tai'],['tai','tai'],['te kudasai','te-kudasai'],['てください','te-kudasai'],['～てください','te-kudasai'],['sebelum','mae-ni'],['setelah','ato-de'],['ingin','tai'],['toki','toki'],['tōki','toki'],['から','kara-reason'],['moraimasu','morau'],['perbandingan','yori'],['bisa','koto-dekiru'],['のほうが','houga'],['kanoukei','potential-verbs'],['静か','na-adjective']];
 for(const [q,id] of queries)assert.ok(c.findBunpo(q).some(x=>x.id===id),q+' finds '+id);
 assert.equal(c.findBunpo('te kudasai')[0].id,'te-kudasai');
-assert.equal(c.findBunpo('madeup-query-937').length,0);assert.equal(c.findBunpo('','all','all',false,[],'N4').length,0,'No N5 data leaks into N4');
+assert.equal(c.findBunpo('madeup-query-937').length,0);assert.ok(c.findBunpo('','all','all',false,[],'N4').every(e=>e.level==='N4'),'No N5 data leaks into N4');
 for(const category of categories){const all=c.findBunpo('',category.id);assert.ok(all.length);assert.ok(all.every(x=>x.category===category.id));for(const sub of c.bunpoSubcategories(category.id)){assert.ok(c.findBunpo('',category.id,sub).every(x=>x.subcategory===sub))}}
 const all=c.findBunpo(''),seen=[];
 for(let p=1;p<=7;p++){const page=c.bunpoPageSlice(all,p);assert.equal(page.items.length,p===7?11:12);seen.push(...page.items.map(x=>x.id))}

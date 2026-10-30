@@ -1,0 +1,6476 @@
+{
+  "meta": {
+    "level": "N4",
+    "total": 115,
+    "categories": 14,
+    "examples": 233,
+    "checks": 16,
+    "policy": "One retained card per grammar concept/family; N5 concepts remain N5. Similar spellings with distinct functions are retained separately.",
+    "editorial": "Explanations and examples rewritten in Indonesian. Source is provenance, not an official JLPT syllabus."
+  },
+  "sources": [
+    {
+      "id": "rangkuman",
+      "filename": "Rangkuman N4.pdf",
+      "pages": 53,
+      "sha256": "73fb11225d43cba23c5d8e14609f13fcbc8d981d6ba238f18e09b6523d54b577"
+    },
+    {
+      "id": "master",
+      "filename": "JLPT N4 Grammer Master (1).pdf",
+      "pages": 293,
+      "sha256": "0a0a7e226d9796e6f091c4750430d02fabb20bc1efbce29d54f9190271ec6332"
+    },
+    {
+      "id": "verb",
+      "filename": "Perubahan KK N4.pdf",
+      "pages": 50,
+      "sha256": "6fa6a2a18aab3f73be2826f38a61faa1db972dda0d55545e2f5494feb7f2d23f"
+    },
+    {
+      "id": "all",
+      "filename": "ALL - BUNPO N4.pdf",
+      "pages": 80,
+      "sha256": "a8e26529a9696c20fcbe7453dd57adfc01df4c841111a5ced07a4ca044820910"
+    }
+  ],
+  "categories": [
+    {
+      "id": "forms",
+      "name": "Bentuk kata kerja",
+      "symbol": "変",
+      "color": "mint",
+      "description": "Pasif, kausatif, dan bentuk perintah"
+    },
+    {
+      "id": "state",
+      "name": "Keadaan & pengamatan",
+      "symbol": "見",
+      "color": "blue",
+      "description": "Kejadian, hasil tindakan, dan indra"
+    },
+    {
+      "id": "condition",
+      "name": "Syarat & pengandaian",
+      "symbol": "ば",
+      "color": "lavender",
+      "description": "Kalau, apabila, dan hasil yang mengikuti"
+    },
+    {
+      "id": "rules",
+      "name": "Izin & kewajiban",
+      "symbol": "可",
+      "color": "peach",
+      "description": "Boleh, harus, dan tidak perlu"
+    },
+    {
+      "id": "plans",
+      "name": "Niat, rencana & tujuan",
+      "symbol": "予",
+      "color": "pink",
+      "description": "Keputusan, usaha, dan tujuan kegiatan"
+    },
+    {
+      "id": "time",
+      "name": "Waktu & tahap tindakan",
+      "symbol": "時",
+      "color": "blue",
+      "description": "Rentang, tenggat, dan saat berlangsung"
+    },
+    {
+      "id": "actions",
+      "name": "Cara & proses kegiatan",
+      "symbol": "行",
+      "color": "mint",
+      "description": "Pengalaman, persiapan, dan tindakan"
+    },
+    {
+      "id": "giving",
+      "name": "Bantuan, saran & perasaan",
+      "symbol": "助",
+      "color": "lilac",
+      "description": "Memberi bantuan dan menyampaikan harapan"
+    },
+    {
+      "id": "particles",
+      "name": "Partikel & pembatasan",
+      "symbol": "も",
+      "color": "peach",
+      "description": "Jumlah, batas, bahan, dan contoh"
+    },
+    {
+      "id": "connectors",
+      "name": "Alasan & penyusun kalimat",
+      "symbol": "結",
+      "color": "blue",
+      "description": "Hubungan sebab, isi pikiran, dan pertanyaan"
+    },
+    {
+      "id": "inference",
+      "name": "Dugaan & kesan",
+      "symbol": "想",
+      "color": "lavender",
+      "description": "Kabar, perkiraan, dan hal yang tampak"
+    },
+    {
+      "id": "morphology",
+      "name": "Perubahan & gabungan kata",
+      "symbol": "方",
+      "color": "mint",
+      "description": "Mudah, sulit, cara, dan kadar sifat"
+    },
+    {
+      "id": "polite",
+      "name": "Bahasa hormat",
+      "symbol": "礼",
+      "color": "pink",
+      "description": "Menghormati pihak lain dan berbicara resmi"
+    },
+    {
+      "id": "expressions",
+      "name": "Ungkapan percakapan",
+      "symbol": "話",
+      "color": "lilac",
+      "description": "Pertanyaan akrab, penekanan, dan nuansa"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "n4-passive",
+      "concept": "passive",
+      "category": "forms",
+      "subcategory": "Bentuk pasif",
+      "title": "Bentuk pasif ～れる／～られる",
+      "kana": "うけみ",
+      "romaji": "ukemi",
+      "meaning": "Subjek dikenai suatu tindakan",
+      "explanation": "Kalimat pasif memusatkan perhatian pada pihak yang menerima tindakan. Untuk golongan I, ubah bunyi akhir u menjadi a lalu tambah れる; kata berakhiran う menjadi われる. Golongan II membuang る lalu menambah られる. する→される dan 来る→来られる（こられる）.",
+      "patterns": [
+        "Gol. I: u → a + れる（う → われる）",
+        "Gol. II: buang る + られる",
+        "Penerima は + pelaku に + V pasif"
+      ],
+      "note": "Pasif tidak selalu berarti terganggu. Ada juga pasif netral seperti buku diterbitkan. Bentuk ～られる dapat sama dengan potensial; tentukan fungsi lewat konteks.",
+      "examples": [
+        {
+          "jp": "私は先生にほめられました。",
+          "kana": "わたし は せんせい に ほめられました。",
+          "meaning": "Saya dipuji oleh guru."
+        },
+        {
+          "jp": "この本は多くの国で読まれています。",
+          "kana": "この ほん は おおく の くに で よまれて います。",
+          "meaning": "Buku ini dibaca di banyak negara."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 1,
+      "sources": [
+        {
+          "id": "master",
+          "page": 263
+        },
+        {
+          "id": "master",
+          "page": 264
+        },
+        {
+          "id": "master",
+          "page": 265
+        },
+        {
+          "id": "all",
+          "page": 69
+        },
+        {
+          "id": "verb",
+          "page": 43
+        },
+        {
+          "id": "verb",
+          "page": 44
+        },
+        {
+          "id": "verb",
+          "page": 45
+        },
+        {
+          "id": "verb",
+          "page": 46
+        },
+        {
+          "id": "rangkuman",
+          "page": 15
+        },
+        {
+          "id": "rangkuman",
+          "page": 43
+        }
+      ],
+      "table": {
+        "headers": [
+          "Kamus",
+          "Pasif"
+        ],
+        "rows": [
+          [
+            "買う",
+            "買われる"
+          ],
+          [
+            "読む",
+            "読まれる"
+          ],
+          [
+            "食べる",
+            "食べられる"
+          ],
+          [
+            "する",
+            "される"
+          ],
+          [
+            "来る（くる）",
+            "来られる（こられる）"
+          ]
+        ]
+      },
+      "check": {
+        "prompt": "私は先生にほめられました。Siapa yang memuji?",
+        "options": [
+          "Saya.",
+          "Guru."
+        ],
+        "answer": 1,
+        "explanation": "先生に menandai pelaku; 私 adalah orang yang dipuji."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-causative",
+      "concept": "causative",
+      "category": "forms",
+      "subcategory": "Bentuk kausatif",
+      "title": "Bentuk kausatif ～せる／～させる",
+      "kana": "しえき",
+      "romaji": "shieki",
+      "meaning": "Menyuruh atau membiarkan seseorang melakukan",
+      "explanation": "Kausatif menunjukkan seseorang membuat, menyuruh, atau mengizinkan orang lain melakukan tindakan. Golongan I mengubah u menjadi a lalu menambah せる; う menjadi わせる. Golongan II membuang る lalu menambah させる. する→させる dan 来る→来させる（こさせる）.",
+      "patterns": [
+        "Gol. I: u → a + せる（う → わせる）",
+        "Gol. II: buang る + させる",
+        "Penyuruh は + pelaku に + objek を + V kausatif",
+        "Penyuruh は + pelaku を + V gerak/intransitif kausatif"
+      ],
+      "note": "Pemilihan に／を bergantung kata kerja dan susunan kalimat. Jangan gunakan を dua kali untuk pelaku dan objek. 食べる→食べさせる, bukan たさせる.",
+      "examples": [
+        {
+          "jp": "母は子どもに野菜を食べさせました。",
+          "kana": "はは は こども に やさい を たべさせました。",
+          "meaning": "Ibu menyuruh anak makan sayur."
+        },
+        {
+          "jp": "部長は社員を大阪へ行かせました。",
+          "kana": "ぶちょう は しゃいん を おおさか へ いかせました。",
+          "meaning": "Kepala bagian menyuruh pegawai pergi ke Osaka."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 2,
+      "sources": [
+        {
+          "id": "master",
+          "page": 167
+        },
+        {
+          "id": "master",
+          "page": 168
+        },
+        {
+          "id": "master",
+          "page": 169
+        },
+        {
+          "id": "all",
+          "page": 70
+        },
+        {
+          "id": "verb",
+          "page": 47
+        },
+        {
+          "id": "verb",
+          "page": 48
+        },
+        {
+          "id": "verb",
+          "page": 49
+        },
+        {
+          "id": "verb",
+          "page": 50
+        },
+        {
+          "id": "rangkuman",
+          "page": 15
+        }
+      ],
+      "table": {
+        "headers": [
+          "Kamus",
+          "Kausatif"
+        ],
+        "rows": [
+          [
+            "買う",
+            "買わせる"
+          ],
+          [
+            "読む",
+            "読ませる"
+          ],
+          [
+            "食べる",
+            "食べさせる"
+          ],
+          [
+            "する",
+            "させる"
+          ],
+          [
+            "来る（くる）",
+            "来させる（こさせる）"
+          ]
+        ]
+      },
+      "check": {
+        "prompt": "Bentuk kausatif 食べる yang benar …",
+        "options": [
+          "食べさせる",
+          "たさせる"
+        ],
+        "answer": 0,
+        "explanation": "Golongan II membuang る lalu menambah させる."
+      },
+      "mistake": {
+        "wrong": "子どもに野菜をたさせます。",
+        "correct": "子どもに野菜を食べさせます。",
+        "why": "食べる adalah golongan II: 食べ + させる."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-causative-passive",
+      "concept": "causative-passive",
+      "category": "forms",
+      "subcategory": "Kausatif pasif",
+      "title": "～させられる",
+      "kana": "させられる",
+      "romaji": "saserareru",
+      "meaning": "Disuruh atau dipaksa melakukan",
+      "explanation": "Gabungan kausatif dan pasif menempatkan orang yang harus melakukan tindakan sebagai subjek. Biasanya menunjukkan bahwa tindakan itu terjadi karena kemauan orang lain, sering dengan rasa terpaksa.",
+      "patterns": [
+        "Bentuk kausatif: buang る + られる",
+        "Pelaku は + penyuruh に + V kausatif pasif"
+      ],
+      "note": "読む→読ませる→読ませられる. Ada bentuk singkat 読まされる pada banyak kata kerja golongan I, tetapi tidak diterapkan begitu saja pada semuanya. Bentuk lengkap lebih aman dipelajari dulu.",
+      "examples": [
+        {
+          "jp": "私は先生に作文を書かせられました。",
+          "kana": "わたし は せんせい に さくぶん を かかせられました。",
+          "meaning": "Saya disuruh guru menulis karangan."
+        },
+        {
+          "jp": "子どものころ、毎日野菜を食べさせられました。",
+          "kana": "こども の ころ、まいにち やさい を たべさせられました。",
+          "meaning": "Ketika kecil, saya disuruh makan sayur setiap hari."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 3,
+      "sources": [
+        {
+          "id": "master",
+          "page": 165
+        },
+        {
+          "id": "master",
+          "page": 166
+        },
+        {
+          "id": "all",
+          "page": 71
+        }
+      ],
+      "table": {
+        "headers": [
+          "Kamus",
+          "Kausatif pasif"
+        ],
+        "rows": [
+          [
+            "読む",
+            "読ませられる／読まされる"
+          ],
+          [
+            "話す",
+            "話させられる"
+          ],
+          [
+            "食べる",
+            "食べさせられる"
+          ],
+          [
+            "する",
+            "させられる"
+          ],
+          [
+            "来る（くる）",
+            "来させられる（こさせられる）"
+          ]
+        ]
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-sasete-kudasai",
+      "concept": "sasete-kudasai",
+      "category": "forms",
+      "subcategory": "Meminta izin bertindak",
+      "title": "～させてください",
+      "kana": "させてください",
+      "romaji": "sasetekudasai",
+      "meaning": "Izinkan saya; biarkan saya melakukan",
+      "explanation": "Bentuk kausatif diubah ke bentuk て lalu diikuti ください untuk meminta izin melakukan suatu tindakan. Pembicara adalah orang yang ingin bertindak; lawan bicara diminta memberikan izin.",
+      "patterns": [
+        "V kausatif bentuk て + ください",
+        "V kausatif bentuk て + いただけませんか"
+      ],
+      "note": "話させてください berarti izinkan saya berbicara, bukan tolong suruh orang lain berbicara. Bentuk ～させていただけませんか lebih sopan.",
+      "examples": [
+        {
+          "jp": "少し考えさせてください。",
+          "kana": "すこし かんがえさせて ください。",
+          "meaning": "Izinkan saya memikirkannya sebentar."
+        },
+        {
+          "jp": "今日は早く帰らせていただけませんか。",
+          "kana": "きょう は はやく かえらせて いただけません か。",
+          "meaning": "Bolehkah saya pulang lebih awal hari ini?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 4,
+      "sources": [
+        {
+          "id": "master",
+          "page": 170
+        },
+        {
+          "id": "master",
+          "page": 171
+        },
+        {
+          "id": "all",
+          "page": 72
+        }
+      ],
+      "check": {
+        "prompt": "考えさせてください berarti …",
+        "options": [
+          "Tolong pikirkan untuk saya.",
+          "Izinkan saya memikirkannya."
+        ],
+        "answer": 1,
+        "explanation": "Pembicara meminta izin menjadi pelaku tindakan."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-imperative",
+      "concept": "imperative",
+      "category": "forms",
+      "subcategory": "Perintah langsung",
+      "title": "Bentuk perintah",
+      "kana": "めいれいけい",
+      "romaji": "meireikei",
+      "meaning": "Perintah tegas atau seruan singkat",
+      "explanation": "Bentuk perintah dibuat dengan mengubah bunyi akhir u menjadi e untuk golongan I. Golongan II membuang る lalu menambah ろ. Bentuk khusus: する→しろ dan 来る→来い（こい）. Bentuk ini muncul pada instruksi darurat, olahraga, atau situasi sangat langsung.",
+      "patterns": [
+        "Gol. I: u → e",
+        "Gol. II: buang る + ろ",
+        "する → しろ",
+        "来る → 来い"
+      ],
+      "note": "Terdengar keras jika dipakai dalam percakapan biasa. Untuk meminta bantuan sehari-hari, gunakan ～てください atau bentuk yang lebih sopan.",
+      "examples": [
+        {
+          "jp": "危ない！止まれ！",
+          "kana": "あぶない！とまれ！",
+          "meaning": "Bahaya! Berhenti!"
+        },
+        {
+          "jp": "最後まで走れ！",
+          "kana": "さいご まで はしれ！",
+          "meaning": "Lari sampai akhir!"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 5,
+      "sources": [
+        {
+          "id": "all",
+          "page": 36
+        },
+        {
+          "id": "verb",
+          "page": 25
+        },
+        {
+          "id": "verb",
+          "page": 26
+        },
+        {
+          "id": "verb",
+          "page": 27
+        },
+        {
+          "id": "verb",
+          "page": 28
+        },
+        {
+          "id": "rangkuman",
+          "page": 14
+        }
+      ],
+      "table": {
+        "headers": [
+          "Kamus",
+          "Perintah"
+        ],
+        "rows": [
+          [
+            "買う",
+            "買え"
+          ],
+          [
+            "読む",
+            "読め"
+          ],
+          [
+            "食べる",
+            "食べろ"
+          ],
+          [
+            "する",
+            "しろ"
+          ],
+          [
+            "来る（くる）",
+            "来い（こい）"
+          ]
+        ]
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-nasai",
+      "concept": "nasai",
+      "category": "forms",
+      "subcategory": "Perintah yang diarahkan",
+      "title": "～なさい",
+      "kana": "なさい",
+      "romaji": "nasai",
+      "meaning": "Lakukanlah; perintah dari pihak yang mengarahkan",
+      "explanation": "なさい ditambahkan pada pangkal bentuk ます. Sering dipakai orang tua kepada anak, guru kepada murid, atau dalam petunjuk soal. Lebih terarah daripada bentuk perintah kasar, tetapi tetap merupakan perintah.",
+      "patterns": [
+        "Vます: buang ます + なさい"
+      ],
+      "note": "Bukan permintaan sopan untuk atasan. 食べなさい berarti makanlah, bukan larangan; larangan kata kerja dibuat dengan bentuk kamus＋な.",
+      "examples": [
+        {
+          "jp": "問題をよく読みなさい。",
+          "kana": "もんだい を よく よみなさい。",
+          "meaning": "Bacalah soal dengan teliti."
+        },
+        {
+          "jp": "野菜も食べなさい。",
+          "kana": "やさい も たべなさい。",
+          "meaning": "Makanlah sayurnya juga."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 6,
+      "sources": [
+        {
+          "id": "master",
+          "page": 127
+        },
+        {
+          "id": "master",
+          "page": 128
+        },
+        {
+          "id": "all",
+          "page": 37
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-prohibitive-na",
+      "concept": "prohibitive-na",
+      "category": "forms",
+      "subcategory": "Larangan langsung",
+      "title": "Vな",
+      "kana": "な",
+      "romaji": "na",
+      "meaning": "Jangan! sebagai larangan tegas",
+      "explanation": "Kata kerja bentuk kamus ditambah な menyatakan larangan langsung. Dipakai dalam tanda peringatan, ucapan keras, atau situasi mendesak. Ini berbeda dari sifat-na dan akhiran perintah なさい.",
+      "patterns": [
+        "V kamus + な"
+      ],
+      "note": "Gunakan ～ないでください untuk permintaan sehari-hari yang lebih halus. Perhatikan perbedaannya: 食べなさい berarti makanlah; 食べるな berarti jangan makan.",
+      "examples": [
+        {
+          "jp": "ここに入るな。",
+          "kana": "ここ に はいる な。",
+          "meaning": "Jangan masuk ke sini."
+        },
+        {
+          "jp": "動くな！",
+          "kana": "うごく な！",
+          "meaning": "Jangan bergerak!"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 7,
+      "sources": [
+        {
+          "id": "master",
+          "page": 113
+        },
+        {
+          "id": "master",
+          "page": 114
+        },
+        {
+          "id": "all",
+          "page": 36
+        },
+        {
+          "id": "verb",
+          "page": 29
+        },
+        {
+          "id": "verb",
+          "page": 30
+        },
+        {
+          "id": "verb",
+          "page": 31
+        },
+        {
+          "id": "verb",
+          "page": 32
+        },
+        {
+          "id": "rangkuman",
+          "page": 14
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-transitivity",
+      "concept": "transitivity",
+      "category": "state",
+      "subcategory": "Pelaku dan kejadian",
+      "title": "自動詞・他動詞",
+      "kana": "じどうし・たどうし",
+      "romaji": "jidoushi / tadoushi",
+      "meaning": "Membedakan benda yang berubah dan tindakan pada benda",
+      "explanation": "Kata kerja intransitif menjelaskan apa yang terjadi pada subjek, umumnya dengan が. Kata kerja transitif menjelaskan tindakan pelaku terhadap objek, umumnya dengan を. Pasangan bentuk harus dipelajari sebagai kosakata; tidak semua kata kerja mempunyai pasangan.",
+      "patterns": [
+        "Benda が + kata kerja intransitif",
+        "Pelaku は + benda を + kata kerja transitif"
+      ],
+      "note": "Contoh pasangan benar: 開く（あく）↔開ける（あける）, 割れる（われる）↔割る（わる）. 割れる dan 開ける bukan pasangan. Ketiadaan pelaku dalam kalimat tidak selalu berarti kejadian berlangsung tanpa sebab manusia.",
+      "examples": [
+        {
+          "jp": "窓が開きました。",
+          "kana": "まど が あきました。",
+          "meaning": "Jendelanya terbuka."
+        },
+        {
+          "jp": "私が窓を開けました。",
+          "kana": "わたし が まど を あけました。",
+          "meaning": "Saya membuka jendela itu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 8,
+      "sources": [
+        {
+          "id": "master",
+          "page": 191
+        },
+        {
+          "id": "master",
+          "page": 192
+        },
+        {
+          "id": "master",
+          "page": 193
+        },
+        {
+          "id": "all",
+          "page": 73
+        },
+        {
+          "id": "all",
+          "page": 74
+        },
+        {
+          "id": "rangkuman",
+          "page": 16
+        },
+        {
+          "id": "rangkuman",
+          "page": 17
+        },
+        {
+          "id": "rangkuman",
+          "page": 18
+        }
+      ],
+      "table": {
+        "headers": [
+          "Intransitif（が）",
+          "Transitif（を）"
+        ],
+        "rows": [
+          [
+            "開く（あく）",
+            "開ける（あける）"
+          ],
+          [
+            "閉まる（しまる）",
+            "閉める（しめる）"
+          ],
+          [
+            "割れる（われる）",
+            "割る（わる）"
+          ],
+          [
+            "消える（きえる）",
+            "消す（けす）"
+          ]
+        ]
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-aru",
+      "concept": "te-aru",
+      "category": "state",
+      "subcategory": "Hasil yang disengaja",
+      "title": "～てある",
+      "kana": "てある",
+      "romaji": "tearu",
+      "meaning": "Keadaan hasil tindakan yang sengaja dilakukan",
+      "explanation": "てある menyatakan suatu keadaan hasil tindakan yang dilakukan dengan maksud tertentu, sering sebagai persiapan. Biasanya memakai kata kerja transitif. Fokus dapat berada pada benda yang sudah disiapkan.",
+      "patterns": [
+        "Benda が + V transitif bentuk て + あります",
+        "（persiapan）benda を + Vてあります"
+      ],
+      "note": "窓が開いています hanya menyatakan keadaan jendela terbuka. 窓が開けてあります menyoroti bahwa seseorang sengaja membukanya. Penjelasan keadaan ～ている sendiri tetap di N5.",
+      "examples": [
+        {
+          "jp": "机の上に資料が置いてあります。",
+          "kana": "つくえ の うえ に しりょう が おいて あります。",
+          "meaning": "Dokumen sudah diletakkan di atas meja."
+        },
+        {
+          "jp": "暑いので、窓が開けてあります。",
+          "kana": "あつい ので、まど が あけて あります。",
+          "meaning": "Karena panas, jendela sengaja dibiarkan terbuka."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 9,
+      "sources": [
+        {
+          "id": "all",
+          "page": 75
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-mieru-kikoeru",
+      "concept": "mieru-kikoeru",
+      "category": "state",
+      "subcategory": "Penglihatan dan pendengaran",
+      "title": "見える・聞こえる",
+      "kana": "みえる・きこえる",
+      "romaji": "mieru / kikoeru",
+      "meaning": "Terlihat; terdengar tanpa menyoroti usaha",
+      "explanation": "見える dan 聞こえる menyatakan sesuatu dapat tertangkap mata atau telinga karena kondisi saat itu. Hal yang terlihat atau terdengar biasanya memakai が. Bedakan dari bentuk potensial yang menyoroti kemampuan atau kesempatan melakukan.",
+      "patterns": [
+        "Hal が + 見えます",
+        "Bunyi が + 聞こえます"
+      ],
+      "note": "見られる dan 聞ける adalah bentuk potensial yang sudah diperkenalkan di N5. 見える tidak sama dengan 見られる, dan 聞こえる tidak sama dengan 聞ける.",
+      "examples": [
+        {
+          "jp": "ここから海が見えます。",
+          "kana": "ここ から うみ が みえます。",
+          "meaning": "Dari sini laut terlihat."
+        },
+        {
+          "jp": "隣の部屋から音楽が聞こえます。",
+          "kana": "となり の へや から おんがく が きこえます。",
+          "meaning": "Terdengar musik dari kamar sebelah."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 10,
+      "sources": [
+        {
+          "id": "all",
+          "page": 43
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-ga-suru",
+      "concept": "ga-suru",
+      "category": "state",
+      "subcategory": "Kesan indra",
+      "title": "～がする",
+      "kana": "がする",
+      "romaji": "gasuru",
+      "meaning": "Terasa; tercium; terdengar suatu kesan",
+      "explanation": "Nがする menyatakan indra menangkap bunyi, bau, atau rasa. Kata benda seperti 音, 声, におい, dan 味 menjadi hal yang dirasakan.",
+      "patterns": [
+        "音 / 声 / におい / 味 + がします"
+      ],
+      "note": "する di sini bukan melakukan benda itu. 音がする berarti ada bunyi yang terdengar, bukan membuat suara dengan sengaja.",
+      "examples": [
+        {
+          "jp": "台所からいいにおいがします。",
+          "kana": "だいどころ から いい におい が します。",
+          "meaning": "Tercium aroma harum dari dapur."
+        },
+        {
+          "jp": "このスープは変な味がします。",
+          "kana": "この スープ は へんな あじ が します。",
+          "meaning": "Sup ini terasa aneh."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 11,
+      "sources": [
+        {
+          "id": "master",
+          "page": 39
+        },
+        {
+          "id": "master",
+          "page": 40
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-ni-ki-ga-tsuku",
+      "concept": "ni-ki-ga-tsuku",
+      "category": "state",
+      "subcategory": "Menyadari",
+      "title": "～に気がつく",
+      "kana": "にきがつく",
+      "romaji": "nikigatsuku",
+      "meaning": "Menyadari; baru memperhatikan adanya hal",
+      "explanation": "気がつく menyatakan bahwa perhatian seseorang menangkap suatu hal yang sebelumnya tidak disadari. Hal yang disadari ditandai に; untuk kegiatan atau keadaan, gunakan のに.",
+      "patterns": [
+        "N + に気がつきます",
+        "V bentuk biasa + のに気がつきます"
+      ],
+      "note": "Bentuk 気をつける berarti berhati-hati, bukan menyadari. Perhatikan perbedaan partikel dan kata kerjanya.",
+      "examples": [
+        {
+          "jp": "間違いに気がつきました。",
+          "kana": "まちがい に き が つきました。",
+          "meaning": "Saya menyadari kesalahannya."
+        },
+        {
+          "jp": "財布がないのに気がつきました。",
+          "kana": "さいふ が ない の に き が つきました。",
+          "meaning": "Saya baru menyadari bahwa dompet saya tidak ada."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 12,
+      "sources": [
+        {
+          "id": "master",
+          "page": 131
+        },
+        {
+          "id": "master",
+          "page": 132
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-ba",
+      "concept": "ba",
+      "category": "condition",
+      "subcategory": "Syarat umum",
+      "title": "～ば",
+      "kana": "ば",
+      "romaji": "ba",
+      "meaning": "Jika syarat A terpenuhi, B terjadi",
+      "explanation": "Gunakan ～ば untuk menyebut syarat yang memungkinkan hasil berikutnya. Untuk kata kerja golongan I, ubah bunyi akhir u menjadi e lalu tambah ば. Golongan II membuang る lalu menambah れば. Bentuk khusus: する→すれば dan 来る→来れば（くれば）.",
+      "patterns": [
+        "V gol. I: u → e + ば",
+        "V gol. II: buang る + れば",
+        "Sifat-i: buang い + ければ",
+        "Bentuk negatif: ない → なければ"
+      ],
+      "note": "いい menjadi よければ. Untuk meminta orang melakukan sesuatu setelah suatu tindakan selesai, ～たら sering lebih mudah digunakan. Sifat-na dan kata benda dapat memakai ～なら.",
+      "examples": [
+        {
+          "jp": "安ければ、このかばんを買います。",
+          "kana": "やすければ、この かばん を かいます。",
+          "meaning": "Jika murah, saya akan membeli tas ini."
+        },
+        {
+          "jp": "時間があれば、手伝えます。",
+          "kana": "じかん が あれば、てつだえます。",
+          "meaning": "Kalau ada waktu, saya bisa membantu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 13,
+      "sources": [
+        {
+          "id": "master",
+          "page": 18
+        },
+        {
+          "id": "master",
+          "page": 19
+        },
+        {
+          "id": "master",
+          "page": 20
+        },
+        {
+          "id": "master",
+          "page": 21
+        },
+        {
+          "id": "master",
+          "page": 22
+        },
+        {
+          "id": "all",
+          "page": 57
+        },
+        {
+          "id": "all",
+          "page": 58
+        },
+        {
+          "id": "verb",
+          "page": 37
+        },
+        {
+          "id": "verb",
+          "page": 38
+        },
+        {
+          "id": "verb",
+          "page": 39
+        },
+        {
+          "id": "verb",
+          "page": 40
+        },
+        {
+          "id": "verb",
+          "page": 41
+        },
+        {
+          "id": "verb",
+          "page": 42
+        },
+        {
+          "id": "rangkuman",
+          "page": 15
+        },
+        {
+          "id": "rangkuman",
+          "page": 44
+        }
+      ],
+      "table": {
+        "headers": [
+          "Dasar",
+          "Syarat"
+        ],
+        "rows": [
+          [
+            "買う",
+            "買えば"
+          ],
+          [
+            "読む",
+            "読めば"
+          ],
+          [
+            "食べる",
+            "食べれば"
+          ],
+          [
+            "する",
+            "すれば"
+          ],
+          [
+            "来る（くる）",
+            "来れば（くれば）"
+          ],
+          [
+            "高い",
+            "高ければ"
+          ],
+          [
+            "いい",
+            "よければ"
+          ],
+          [
+            "ない",
+            "なければ"
+          ]
+        ]
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tara",
+      "concept": "tara",
+      "category": "condition",
+      "subcategory": "Setelah syarat terpenuhi",
+      "title": "～たら",
+      "kana": "たら",
+      "romaji": "tara",
+      "meaning": "Kalau; setelah sesuatu terjadi",
+      "explanation": "Bentuk ～たら dibuat dengan menambahkan ら pada bentuk lampau biasa. Pola ini dipakai untuk syarat yang dibayangkan maupun langkah yang dilakukan setelah A selesai. Bagian B dapat berupa ajakan, permintaan, atau niat.",
+      "patterns": [
+        "Vた + ら",
+        "Sifat-i: ～かったら",
+        "Sifat-na / N: ～だったら",
+        "Negatif: ～なかったら"
+      ],
+      "note": "Bentuk た di sini tidak selalu berarti masa lalu. ご飯を食べたら出かけます berarti akan pergi setelah makan, bukan sudah makan.",
+      "examples": [
+        {
+          "jp": "仕事が終わったら、電話してください。",
+          "kana": "しごと が おわったら、でんわ して ください。",
+          "meaning": "Setelah pekerjaan selesai, tolong telepon saya."
+        },
+        {
+          "jp": "雨だったら、家にいます。",
+          "kana": "あめ だったら、いえ に います。",
+          "meaning": "Kalau hujan, saya akan berada di rumah."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 14,
+      "sources": [
+        {
+          "id": "master",
+          "page": 197
+        },
+        {
+          "id": "master",
+          "page": 198
+        },
+        {
+          "id": "all",
+          "page": 57
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        },
+        {
+          "id": "rangkuman",
+          "page": 46
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-conditional-to",
+      "concept": "conditional-to",
+      "category": "condition",
+      "subcategory": "Hasil yang tetap",
+      "title": "～と（条件）",
+      "kana": "と",
+      "romaji": "to",
+      "meaning": "Kalau A terjadi, biasanya B mengikuti",
+      "explanation": "Gunakan と untuk hubungan yang tetap atau berulang: cara kerja alat, gejala alam, kebiasaan, atau petunjuk jalan. Bagian sebelum と memakai bentuk biasa bukan lampau. Hasilnya dipandang mengikuti syarat secara alami.",
+      "patterns": [
+        "V kamus / Vない + と",
+        "Sifat-i + と",
+        "Sifat-na / N + だと"
+      ],
+      "note": "Untuk ajakan atau permintaan sebagai akibat langsung, gunakan ～たら, bukan pola otomatis と. Ini berbeda dari partikel と yang berarti bersama atau dan.",
+      "examples": [
+        {
+          "jp": "このボタンを押すと、電気がつきます。",
+          "kana": "この ボタン を おす と、でんき が つきます。",
+          "meaning": "Kalau tombol ini ditekan, lampunya menyala."
+        },
+        {
+          "jp": "春になると、暖かくなります。",
+          "kana": "はる に なる と、あたたかく なります。",
+          "meaning": "Saat musim semi tiba, cuaca menjadi hangat."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 15,
+      "sources": [
+        {
+          "id": "master",
+          "page": 239
+        },
+        {
+          "id": "master",
+          "page": 240
+        },
+        {
+          "id": "all",
+          "page": 59
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-nara",
+      "concept": "nara",
+      "category": "condition",
+      "subcategory": "Menanggapi informasi",
+      "title": "～なら",
+      "kana": "なら",
+      "romaji": "nara",
+      "meaning": "Kalau memang; kalau yang dimaksud …",
+      "explanation": "なら mengambil informasi atau rencana yang sedang dibicarakan sebagai syarat. Pembicara lalu memberi saran atau tanggapan yang sesuai. Saran itu dapat dilakukan sebelum kegiatan yang disebutkan.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + なら",
+        "Sifat-na / N + なら"
+      ],
+      "note": "日本へ行くなら bermakna kalau kamu akan pergi ke Jepang. Berbeda dari 行ったら yang dapat berarti setelah tiba di Jepang.",
+      "examples": [
+        {
+          "jp": "日本へ行くなら、この本を読んでください。",
+          "kana": "にほん へ いく なら、この ほん を よんで ください。",
+          "meaning": "Kalau akan pergi ke Jepang, bacalah buku ini."
+        },
+        {
+          "jp": "静かな部屋なら、ここがいいです。",
+          "kana": "しずかな へや なら、ここ が いい です。",
+          "meaning": "Kalau mencari kamar yang tenang, yang ini cocok."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 16,
+      "sources": [
+        {
+          "id": "master",
+          "page": 125
+        },
+        {
+          "id": "master",
+          "page": 126
+        },
+        {
+          "id": "all",
+          "page": 57
+        },
+        {
+          "id": "all",
+          "page": 58
+        },
+        {
+          "id": "verb",
+          "page": 37
+        },
+        {
+          "id": "verb",
+          "page": 38
+        },
+        {
+          "id": "verb",
+          "page": 39
+        },
+        {
+          "id": "verb",
+          "page": 40
+        },
+        {
+          "id": "verb",
+          "page": 41
+        },
+        {
+          "id": "verb",
+          "page": 42
+        },
+        {
+          "id": "rangkuman",
+          "page": 44
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-baai",
+      "concept": "baai",
+      "category": "condition",
+      "subcategory": "Keadaan tertentu",
+      "title": "～場合は",
+      "kana": "ばあいは",
+      "romaji": "baaiha",
+      "meaning": "Apabila terjadi keadaan tertentu",
+      "explanation": "場合は memperkenalkan keadaan yang menjadi dasar petunjuk atau tindakan. Pola ini sering muncul dalam aturan, pengumuman, dan penjelasan tentang cara menangani masalah.",
+      "patterns": [
+        "V bentuk biasa + 場合は",
+        "Sifat-i + 場合は",
+        "Sifat-na + な場合は",
+        "N + の場合は"
+      ],
+      "note": "Bukan sekadar ketika di masa lalu. Pola ini menyoroti suatu kasus atau situasi yang perlu ditangani.",
+      "examples": [
+        {
+          "jp": "遅れる場合は、連絡してください。",
+          "kana": "おくれる ばあい は、れんらく して ください。",
+          "meaning": "Jika akan terlambat, tolong hubungi kami."
+        },
+        {
+          "jp": "地震の場合は、エレベーターを使わないでください。",
+          "kana": "じしん の ばあい は、エレベーター を つかわないで ください。",
+          "meaning": "Jika terjadi gempa, jangan gunakan lift."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 17,
+      "sources": [
+        {
+          "id": "master",
+          "page": 23
+        },
+        {
+          "id": "master",
+          "page": 24
+        },
+        {
+          "id": "rangkuman",
+          "page": 50
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-obligation",
+      "concept": "obligation",
+      "category": "rules",
+      "subcategory": "Kewajiban",
+      "title": "～なければならない",
+      "kana": "なければならない・なくてはいけない",
+      "romaji": "nakerebanaranai / nakutehaikenai",
+      "meaning": "Harus melakukan sesuatu",
+      "explanation": "Pola negatif bersyarat diikuti ならない atau いけない menyatakan kewajiban: sesuatu tidak boleh dibiarkan tidak dilakukan. Mulailah dari bentuk ない, lalu ubah sesuai rumus.",
+      "patterns": [
+        "Vない: buang ない + なければならない",
+        "Vない: buang ない + なくてはいけない",
+        "Vない + といけない"
+      ],
+      "note": "Bentuk sopannya なければなりません／なくてはいけません. Dalam percakapan ada なきゃ／なくちゃ. Tulis 行かなければ, bukan 行かないければ.",
+      "examples": [
+        {
+          "jp": "明日までに、この書類を出さなければなりません。",
+          "kana": "あした まで に、この しょるい を ださなければ なりません。",
+          "meaning": "Saya harus menyerahkan dokumen ini paling lambat besok."
+        },
+        {
+          "jp": "薬を飲まないといけません。",
+          "kana": "くすり を のまない と いけません。",
+          "meaning": "Saya harus minum obat."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 18,
+      "sources": [
+        {
+          "id": "master",
+          "page": 121
+        },
+        {
+          "id": "master",
+          "page": 122
+        },
+        {
+          "id": "master",
+          "page": 123
+        },
+        {
+          "id": "master",
+          "page": 124
+        },
+        {
+          "id": "all",
+          "page": 21
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        }
+      ],
+      "check": {
+        "prompt": "Pilih bentuk yang benar untuk “harus pergi”.",
+        "options": [
+          "行かないければなりません。",
+          "行かなければなりません。"
+        ],
+        "answer": 1,
+        "explanation": "Mulai dari 行かない; ない diubah menjadi なければ."
+      },
+      "mistake": {
+        "wrong": "行かないければなりません。",
+        "correct": "行かなければなりません。",
+        "why": "ない diubah menjadi なければ. Tidak mempertahankan い sebelum ければ."
+      },
+      "searchTerms": [
+        "nakereba ikenai",
+        "nakutewa ikenai",
+        "naito ikenai",
+        "なければいけない",
+        "なくてはいけない",
+        "ないといけない"
+      ]
+    },
+    {
+      "id": "n4-temo-ii",
+      "concept": "temo-ii",
+      "category": "rules",
+      "subcategory": "Izin",
+      "title": "～てもいい",
+      "kana": "てもいい",
+      "romaji": "temoii",
+      "meaning": "Boleh melakukan; meminta izin",
+      "explanation": "Bentuk て ditambah もいい menyatakan bahwa suatu tindakan diizinkan. Tambahkan ですか untuk meminta izin. Bentuk ～てもいいでしょうか terasa lebih hati-hati ketika meminta izin kepada atasan atau orang yang belum akrab.",
+      "patterns": [
+        "Vて + もいいです",
+        "Vて + もいいですか",
+        "Vて + もいいでしょうか"
+      ],
+      "note": "Untuk menjawab izin dari orang yang lebih tinggi kedudukannya, jawaban seperti はい、どうぞ sering lebih luwes daripada terdengar sedang memberi penilaian kepada orang itu.",
+      "examples": [
+        {
+          "jp": "ここで写真を撮ってもいいですか。",
+          "kana": "ここ で しゃしん を とって も いい です か。",
+          "meaning": "Bolehkah saya mengambil foto di sini?"
+        },
+        {
+          "jp": "この辞書を使ってもいいです。",
+          "kana": "この じしょ を つかって も いい です。",
+          "meaning": "Kamus ini boleh dipakai."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 19,
+      "sources": [
+        {
+          "id": "all",
+          "page": 22
+        },
+        {
+          "id": "rangkuman",
+          "page": 41
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tewa-ikenai",
+      "concept": "tewa-ikenai",
+      "category": "rules",
+      "subcategory": "Larangan",
+      "title": "～てはいけない",
+      "kana": "てはいけない",
+      "romaji": "tehaikenai",
+      "meaning": "Tidak boleh melakukan sesuatu",
+      "explanation": "Gunakan ～てはいけない untuk menyatakan larangan atau aturan. Bentuk てはだめです memiliki maksud serupa. Ini lebih tegas daripada permintaan halus ～ないでください yang sudah dipelajari di N5.",
+      "patterns": [
+        "Vて + はいけません",
+        "Vて + はだめです"
+      ],
+      "note": "Dalam percakapan, ては dapat menjadi ちゃ dan では menjadi じゃ: 入っちゃだめ. Larangan ini berbeda dari ～なくてもいい yang justru berarti tidak wajib.",
+      "examples": [
+        {
+          "jp": "ここに車を止めてはいけません。",
+          "kana": "ここ に くるま を とめて は いけません。",
+          "meaning": "Tidak boleh memarkir mobil di sini."
+        },
+        {
+          "jp": "この水を飲んではいけません。",
+          "kana": "この みず を のんで は いけません。",
+          "meaning": "Air ini tidak boleh diminum."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 20,
+      "sources": [
+        {
+          "id": "all",
+          "page": 22
+        },
+        {
+          "id": "rangkuman",
+          "page": 41
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-nakutemo-ii",
+      "concept": "nakutemo-ii",
+      "category": "rules",
+      "subcategory": "Tidak wajib",
+      "title": "～なくてもいい",
+      "kana": "なくてもいい",
+      "romaji": "nakutemoii",
+      "meaning": "Tidak perlu; boleh tidak melakukan",
+      "explanation": "Pola ini membebaskan seseorang dari kewajiban. Ubah ない menjadi なくて, lalu tambah もいい. Tindakannya boleh dilakukan, tetapi tidak harus.",
+      "patterns": [
+        "Vない: buang ない + なくてもいいです"
+      ],
+      "note": "来なくてもいい berarti tidak perlu datang, bukan dilarang datang. Untuk larangan gunakan 来てはいけません.",
+      "examples": [
+        {
+          "jp": "明日は早く来なくてもいいです。",
+          "kana": "あした は はやく こなくて も いい です。",
+          "meaning": "Besok tidak perlu datang lebih awal."
+        },
+        {
+          "jp": "名前を書かなくてもいいですか。",
+          "kana": "なまえ を かかなくて も いい です か。",
+          "meaning": "Bolehkah saya tidak menulis nama?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 21,
+      "sources": [
+        {
+          "id": "all",
+          "page": 22
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        }
+      ],
+      "check": {
+        "prompt": "来なくてもいいです berarti …",
+        "options": [
+          "Tidak perlu datang.",
+          "Tidak boleh datang."
+        ],
+        "answer": 0,
+        "explanation": "なくてもいい membebaskan kewajiban; bukan larangan."
+      },
+      "mistake": {
+        "wrong": "来ないくてもいいです。",
+        "correct": "来なくてもいいです。",
+        "why": "ない diubah menjadi なくて sebelum もいい."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-naide",
+      "concept": "naide",
+      "category": "rules",
+      "subcategory": "Tanpa melakukan",
+      "title": "～ないで",
+      "kana": "ないで",
+      "romaji": "naide",
+      "meaning": "Melakukan B tanpa melakukan A",
+      "explanation": "Bentuk ない ditambah で menghubungkan tindakan yang tidak dilakukan dengan tindakan berikutnya. Kedua tindakan biasanya mempunyai pelaku yang sama. Pola ini menjelaskan cara atau keadaan saat melakukan B.",
+      "patterns": [
+        "Vない + で + B"
+      ],
+      "note": "Jangan samakan dengan ～なくて yang dapat menjelaskan sebab atau menghubungkan keadaan. ～ないでください sebagai permintaan larangan sudah ada di N5.",
+      "examples": [
+        {
+          "jp": "朝ご飯を食べないで、学校へ行きました。",
+          "kana": "あさごはん を たべないで、がっこう へ いきました。",
+          "meaning": "Saya berangkat ke sekolah tanpa sarapan."
+        },
+        {
+          "jp": "辞書を見ないで、答えてください。",
+          "kana": "じしょ を みないで、こたえて ください。",
+          "meaning": "Jawablah tanpa melihat kamus."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 22,
+      "sources": [
+        {
+          "id": "rangkuman",
+          "page": 42
+        }
+      ],
+      "check": {
+        "prompt": "辞書を見ないで答えてください berarti …",
+        "options": [
+          "Jawab tanpa melihat kamus.",
+          "Lihat kamus sebelum menjawab."
+        ],
+        "answer": 0,
+        "explanation": "ないで menunjukkan tindakan yang tidak dilakukan saat melakukan hal berikutnya."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-necessary",
+      "concept": "necessary",
+      "category": "rules",
+      "subcategory": "Kebutuhan",
+      "title": "Nが必要・V必要がある",
+      "kana": "ひつよう",
+      "romaji": "hitsuyou",
+      "meaning": "Perlu; ada kebutuhan melakukan",
+      "explanation": "Nが必要 menyatakan benda atau hal yang diperlukan. V必要がある menyatakan perlunya suatu tindakan. Bentuk negatifnya berarti tindakan tidak perlu dilakukan.",
+      "patterns": [
+        "N + が必要です",
+        "V kamus + 必要があります",
+        "V kamus + 必要はありません"
+      ],
+      "note": "必要 menjelaskan kebutuhan. ～なければならない lebih langsung menyatakan kewajiban. Kata benda dapat menerangkan benda lain sebagai 必要なN.",
+      "examples": [
+        {
+          "jp": "申込みには写真が必要です。",
+          "kana": "もうしこみ に は しゃしん が ひつよう です。",
+          "meaning": "Foto diperlukan untuk pendaftaran."
+        },
+        {
+          "jp": "もう一度確認する必要があります。",
+          "kana": "もう いちど かくにん する ひつよう が あります。",
+          "meaning": "Perlu memeriksanya sekali lagi."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 23,
+      "sources": [
+        {
+          "id": "master",
+          "page": 37
+        },
+        {
+          "id": "master",
+          "page": 38
+        },
+        {
+          "id": "master",
+          "page": 55
+        },
+        {
+          "id": "master",
+          "page": 56
+        },
+        {
+          "id": "master",
+          "page": 57
+        }
+      ],
+      "searchTerms": [
+        "ga hitsuyou",
+        "hitsuyou ga aru",
+        "がひつよう",
+        "ひつようがある"
+      ]
+    },
+    {
+      "id": "n4-volitional",
+      "concept": "volitional",
+      "category": "plans",
+      "subcategory": "Bentuk ajakan biasa",
+      "title": "Bentuk kehendak ～よう／～おう",
+      "kana": "いこうけい",
+      "romaji": "ikoukei",
+      "meaning": "Ayo; menyatakan kehendak",
+      "explanation": "Bentuk kehendak dipakai untuk mengajak secara akrab atau menyatakan kemauan sendiri. Golongan I mengubah bunyi akhir u menjadi o lalu menambah う. Golongan II membuang る lalu menambah よう. Bentuk khusus: する→しよう dan 来る→来よう（こよう）.",
+      "patterns": [
+        "Gol. I: u → o + う",
+        "Gol. II: buang る + よう",
+        "する → しよう",
+        "来る → 来よう"
+      ],
+      "note": "Ajakan sopan ～ましょう sudah ada di N5. Di sini yang dipelajari adalah bentuk biasa dan pembentukannya, misalnya 行く→行こう dan 食べる→食べよう.",
+      "examples": [
+        {
+          "jp": "一緒に帰ろう。",
+          "kana": "いっしょ に かえろう。",
+          "meaning": "Ayo pulang bersama."
+        },
+        {
+          "jp": "少し休もう。",
+          "kana": "すこし やすもう。",
+          "meaning": "Ayo istirahat sebentar."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 24,
+      "sources": [
+        {
+          "id": "master",
+          "page": 58
+        },
+        {
+          "id": "master",
+          "page": 59
+        },
+        {
+          "id": "master",
+          "page": 60
+        },
+        {
+          "id": "all",
+          "page": 55
+        },
+        {
+          "id": "verb",
+          "page": 33
+        },
+        {
+          "id": "verb",
+          "page": 34
+        },
+        {
+          "id": "verb",
+          "page": 35
+        },
+        {
+          "id": "verb",
+          "page": 36
+        },
+        {
+          "id": "rangkuman",
+          "page": 14
+        }
+      ],
+      "table": {
+        "headers": [
+          "Kamus",
+          "Kehendak",
+          "Golongan"
+        ],
+        "rows": [
+          [
+            "買う",
+            "買おう",
+            "I"
+          ],
+          [
+            "待つ",
+            "待とう",
+            "I"
+          ],
+          [
+            "読む",
+            "読もう",
+            "I"
+          ],
+          [
+            "食べる",
+            "食べよう",
+            "II"
+          ],
+          [
+            "する",
+            "しよう",
+            "III"
+          ],
+          [
+            "来る（くる）",
+            "来よう（こよう）",
+            "III"
+          ]
+        ]
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-volitional-plan",
+      "concept": "volitional-plan",
+      "category": "plans",
+      "subcategory": "Niat yang dipikirkan",
+      "title": "～ようと思う",
+      "kana": "ようとおもう",
+      "romaji": "youtoomou",
+      "meaning": "Berniat; sedang berencana untuk",
+      "explanation": "Bentuk kehendak ditambah と思う menyatakan niat pembicara. ～と思っています menunjukkan bahwa niat itu sudah dipikirkan dan masih dimiliki. Bentuk ini juga dapat melaporkan niat orang lain jika diketahui.",
+      "patterns": [
+        "V bentuk kehendak + と思います",
+        "V bentuk kehendak + と思っています"
+      ],
+      "note": "Tidak ada angka persentase pasti untuk kekuatan niat. Bedakan dari V kamus＋と思う yang dapat sekadar berarti mengira suatu tindakan akan terjadi.",
+      "examples": [
+        {
+          "jp": "来年、日本へ行こうと思っています。",
+          "kana": "らいねん、にほん へ いこう と おもって います。",
+          "meaning": "Saya berencana pergi ke Jepang tahun depan."
+        },
+        {
+          "jp": "今日は早く寝ようと思います。",
+          "kana": "きょう は はやく ねよう と おもいます。",
+          "meaning": "Hari ini saya berniat tidur lebih awal."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 25,
+      "sources": [
+        {
+          "id": "master",
+          "page": 285
+        },
+        {
+          "id": "master",
+          "page": 286
+        },
+        {
+          "id": "master",
+          "page": 287
+        },
+        {
+          "id": "all",
+          "page": 55
+        },
+        {
+          "id": "rangkuman",
+          "page": 43
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tsumori",
+      "concept": "tsumori",
+      "category": "plans",
+      "subcategory": "Niat pribadi",
+      "title": "～つもりだ",
+      "kana": "つもりだ",
+      "romaji": "tsumorida",
+      "meaning": "Bermaksud; berniat melakukan",
+      "explanation": "つもり menyatakan niat yang sudah ada pada diri seseorang. Kata kerja bentuk kamus dipakai untuk niat melakukan, sedangkan bentuk ない untuk niat tidak melakukan.",
+      "patterns": [
+        "V kamus + つもりです",
+        "Vない + つもりです"
+      ],
+      "note": "行かないつもり berarti berniat tidak pergi. 行くつもりはありません berarti tidak mempunyai niat pergi. Jangan memberi persentase kepastian yang kaku.",
+      "examples": [
+        {
+          "jp": "週末は家で勉強するつもりです。",
+          "kana": "しゅうまつ は いえ で べんきょう する つもり です。",
+          "meaning": "Akhir pekan ini saya berniat belajar di rumah."
+        },
+        {
+          "jp": "今年は車を買わないつもりです。",
+          "kana": "ことし は くるま を かわない つもり です。",
+          "meaning": "Tahun ini saya berniat tidak membeli mobil."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 26,
+      "sources": [
+        {
+          "id": "all",
+          "page": 56
+        },
+        {
+          "id": "rangkuman",
+          "page": 46
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-yotei",
+      "concept": "yotei",
+      "category": "plans",
+      "subcategory": "Rencana terjadwal",
+      "title": "～予定だ",
+      "kana": "よていだ",
+      "romaji": "yoteida",
+      "meaning": "Dijadwalkan; direncanakan",
+      "explanation": "予定 menjelaskan rencana atau jadwal yang sudah disusun. Dibanding つもり yang berpusat pada niat pribadi, 予定 lebih menyoroti susunan kegiatan atau agenda.",
+      "patterns": [
+        "V kamus + 予定です",
+        "N + の予定です"
+      ],
+      "note": "Rencana masih dapat berubah. Penggunaan 予定 tidak berarti hasilnya dijamin terjadi.",
+      "examples": [
+        {
+          "jp": "会議は三時に始まる予定です。",
+          "kana": "かいぎ は さんじ に はじまる よてい です。",
+          "meaning": "Rapat dijadwalkan mulai pukul tiga."
+        },
+        {
+          "jp": "明日は休みの予定です。",
+          "kana": "あした は やすみ の よてい です。",
+          "meaning": "Besok dijadwalkan libur."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 27,
+      "sources": [
+        {
+          "id": "master",
+          "page": 275
+        },
+        {
+          "id": "master",
+          "page": 276
+        },
+        {
+          "id": "all",
+          "page": 56
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        },
+        {
+          "id": "rangkuman",
+          "page": 49
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-koto-ni-suru",
+      "concept": "koto-ni-suru",
+      "category": "plans",
+      "subcategory": "Keputusan sendiri",
+      "title": "～ことにする",
+      "kana": "ことにする",
+      "romaji": "kotonisuru",
+      "meaning": "Memutuskan untuk melakukan atau tidak melakukan",
+      "explanation": "Gunakan ことにする ketika pembicara mengambil keputusan tentang suatu tindakan. Bentuk ～ことにしています menyatakan keputusan yang dijalankan sebagai kebiasaan atau aturan pribadi.",
+      "patterns": [
+        "V kamus / Vない + ことにします",
+        "V kamus / Vない + ことにしています"
+      ],
+      "note": "Ini berbeda dari Nにします pada N5 yang memilih benda atau pilihan, misalnya コーヒーにします.",
+      "examples": [
+        {
+          "jp": "毎朝、歩くことにしました。",
+          "kana": "まいあさ、あるく こと に しました。",
+          "meaning": "Saya memutuskan untuk berjalan kaki setiap pagi."
+        },
+        {
+          "jp": "夜はお菓子を食べないことにしています。",
+          "kana": "よる は おかし を たべない こと に して います。",
+          "meaning": "Saya membiasakan diri tidak makan camilan pada malam hari."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 28,
+      "sources": [
+        {
+          "id": "master",
+          "page": 92
+        },
+        {
+          "id": "master",
+          "page": 93
+        },
+        {
+          "id": "all",
+          "page": 18
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-koto-ni-naru",
+      "concept": "koto-ni-naru",
+      "category": "plans",
+      "subcategory": "Keputusan atau ketetapan",
+      "title": "～ことになる",
+      "kana": "ことになる",
+      "romaji": "kotoninaru",
+      "meaning": "Diputuskan; ditetapkan bahwa",
+      "explanation": "ことになる menyampaikan keputusan, jadwal, atau hasil keadaan tanpa menonjolkan siapa yang memutuskannya. Sering dipakai untuk keputusan organisasi atau perubahan yang memengaruhi pembicara.",
+      "patterns": [
+        "V kamus / Vない + ことになります",
+        "V kamus / Vない + ことになっています"
+      ],
+      "note": "～ことになっています juga dapat menyatakan aturan yang berlaku. Jangan menganggap pembicara pasti sama sekali tidak terlibat dalam keputusan itu.",
+      "examples": [
+        {
+          "jp": "来月、大阪へ転勤することになりました。",
+          "kana": "らいげつ、おおさか へ てんきん する こと に なりました。",
+          "meaning": "Sudah diputuskan bahwa saya akan pindah tugas ke Osaka bulan depan."
+        },
+        {
+          "jp": "ここでは靴を脱ぐことになっています。",
+          "kana": "ここ では くつ を ぬぐ こと に なって います。",
+          "meaning": "Aturan di sini mengharuskan melepas sepatu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 29,
+      "sources": [
+        {
+          "id": "master",
+          "page": 90
+        },
+        {
+          "id": "master",
+          "page": 91
+        },
+        {
+          "id": "all",
+          "page": 19
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tameni",
+      "concept": "tameni",
+      "category": "plans",
+      "subcategory": "Tujuan yang disengaja",
+      "title": "～ために",
+      "kana": "ために",
+      "romaji": "tameni",
+      "meaning": "Untuk; demi mencapai tujuan",
+      "explanation": "ために menyebut tujuan yang ingin dicapai melalui tindakan yang disengaja. Untuk kata kerja, gunakan bentuk kamus. Untuk orang, benda, atau kepentingan tertentu, gunakan Nのために.",
+      "patterns": [
+        "V kamus + ために、tindakan",
+        "N + のために、tindakan"
+      ],
+      "note": "Untuk tujuan berupa keadaan yang tidak mudah dikendalikan atau bentuk potensial, ～ように biasanya lebih cocok: 聞こえるように. Materi ini berfokus pada tujuan, bukan ために sebagai sebab formal.",
+      "examples": [
+        {
+          "jp": "留学するために、お金を貯めています。",
+          "kana": "りゅうがく する ため に、おかね を ためて います。",
+          "meaning": "Saya menabung untuk belajar di luar negeri."
+        },
+        {
+          "jp": "家族のために、働いています。",
+          "kana": "かぞく の ため に、はたらいて います。",
+          "meaning": "Saya bekerja demi keluarga."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 30,
+      "sources": [
+        {
+          "id": "all",
+          "page": 29
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-youni-purpose",
+      "concept": "youni-purpose",
+      "category": "plans",
+      "subcategory": "Tujuan berupa keadaan",
+      "title": "～ように（目的）",
+      "kana": "ように",
+      "romaji": "youni",
+      "meaning": "Agar; supaya suatu keadaan tercapai",
+      "explanation": "Gunakan ように untuk keadaan yang diharapkan terjadi, seperti bisa mendengar, tidak lupa, atau tidak terlambat. Bagian tujuan sering berupa kata kerja potensial atau bentuk ない.",
+      "patterns": [
+        "V kamus / V potensial / Vない + ように、tindakan"
+      ],
+      "note": "Di sini, ように berarti agar, bukan sepertinya. Subjek pada tujuan dan tindakan dapat berbeda, misalnya anak bisa membaca karena orang tua mengajarinya.",
+      "examples": [
+        {
+          "jp": "忘れないように、メモします。",
+          "kana": "わすれない よう に、メモ します。",
+          "meaning": "Saya mencatat supaya tidak lupa."
+        },
+        {
+          "jp": "後ろの人にも聞こえるように、大きな声で話します。",
+          "kana": "うしろ の ひと に も きこえる よう に、おおきな こえ で はなします。",
+          "meaning": "Saya berbicara keras agar orang di belakang juga dapat mendengar."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 31,
+      "sources": [
+        {
+          "id": "all",
+          "page": 30
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        },
+        {
+          "id": "rangkuman",
+          "page": 46
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-youni-suru",
+      "concept": "youni-suru",
+      "category": "plans",
+      "subcategory": "Usaha dan kebiasaan",
+      "title": "～ようにする",
+      "kana": "ようにする",
+      "romaji": "younisuru",
+      "meaning": "Berusaha; mengusahakan kebiasaan",
+      "explanation": "ようにする menyatakan usaha sadar agar suatu tindakan dilakukan atau dihindari. ～ようにしています menekankan usaha yang dipelihara sebagai kebiasaan. ～ようにしてください meminta orang mengusahakan hal itu.",
+      "patterns": [
+        "V kamus / Vない + ようにします",
+        "V kamus / Vない + ようにしています"
+      ],
+      "note": "Berbeda dari ことにする yang menyoroti keputusan, ようにする menyoroti upaya menjalankannya.",
+      "examples": [
+        {
+          "jp": "毎日、日本語で話すようにしています。",
+          "kana": "まいにち、にほんご で はなす よう に して います。",
+          "meaning": "Saya berusaha berbicara bahasa Jepang setiap hari."
+        },
+        {
+          "jp": "遅れないようにしてください。",
+          "kana": "おくれない よう に して ください。",
+          "meaning": "Usahakan jangan terlambat."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 32,
+      "sources": [
+        {
+          "id": "master",
+          "page": 283
+        },
+        {
+          "id": "master",
+          "page": 284
+        },
+        {
+          "id": "all",
+          "page": 31
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        },
+        {
+          "id": "rangkuman",
+          "page": 47
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-youni-naru",
+      "concept": "youni-naru",
+      "category": "plans",
+      "subcategory": "Perubahan kebiasaan atau kemampuan",
+      "title": "～ようになる",
+      "kana": "ようになる",
+      "romaji": "youninaru",
+      "meaning": "Menjadi bisa; mulai terbiasa",
+      "explanation": "ようになる menyoroti perubahan: sekarang suatu tindakan dapat dilakukan atau menjadi kebiasaan. Dengan bentuk potensial, artinya menjadi bisa. Untuk berhenti melakukan, gunakan ～なくなる.",
+      "patterns": [
+        "V kamus / V potensial + ようになります",
+        "Vない: ない → なくなります"
+      ],
+      "note": "Perubahan sifat seperti 高くなる sudah ada di N5. Di sini yang berubah adalah kemampuan atau kebiasaan tindakan.",
+      "examples": [
+        {
+          "jp": "日本語の新聞が読めるようになりました。",
+          "kana": "にほんご の しんぶん が よめる よう に なりました。",
+          "meaning": "Saya sekarang sudah bisa membaca koran bahasa Jepang."
+        },
+        {
+          "jp": "最近、夜は出かけなくなりました。",
+          "kana": "さいきん、よる は でかけなく なりました。",
+          "meaning": "Akhir-akhir ini saya tidak lagi keluar pada malam hari."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 33,
+      "sources": [
+        {
+          "id": "master",
+          "page": 281
+        },
+        {
+          "id": "master",
+          "page": 282
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        },
+        {
+          "id": "rangkuman",
+          "page": 47
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-aida",
+      "concept": "aida",
+      "category": "time",
+      "subcategory": "Rentang waktu",
+      "title": "～間・～間に",
+      "kana": "あいだ・あいだに",
+      "romaji": "aida / aidani",
+      "meaning": "Selama; pada suatu waktu di dalam rentang itu",
+      "explanation": "間 menekankan kegiatan atau keadaan yang berlangsung sepanjang suatu rentang. 間に menempatkan suatu kejadian di dalam rentang tersebut. Penanda に penting ketika yang dibicarakan adalah kesempatan melakukan atau terjadinya sesuatu.",
+      "patterns": [
+        "Vている / V kamus + 間（に）",
+        "Sifat-i + 間（に）",
+        "Sifat-na + な間（に）",
+        "N + の間（に）"
+      ],
+      "note": "Bandingkan: 子どもが寝ている間、勉強した berarti belajar selama anak tidur. 寝ている間に、買い物した berarti berbelanja dalam kesempatan saat anak tidur.",
+      "examples": [
+        {
+          "jp": "夏休みの間、毎日泳ぎました。",
+          "kana": "なつやすみ の あいだ、まいにち およぎました。",
+          "meaning": "Selama liburan musim panas, saya berenang setiap hari."
+        },
+        {
+          "jp": "子どもが寝ている間に、料理を作りました。",
+          "kana": "こども が ねて いる あいだ に、りょうり を つくりました。",
+          "meaning": "Saya memasak selagi anak sedang tidur."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 34,
+      "sources": [
+        {
+          "id": "master",
+          "page": 8
+        },
+        {
+          "id": "master",
+          "page": 9
+        },
+        {
+          "id": "master",
+          "page": 10
+        },
+        {
+          "id": "master",
+          "page": 11
+        },
+        {
+          "id": "master",
+          "page": 12
+        },
+        {
+          "id": "master",
+          "page": 13
+        },
+        {
+          "id": "all",
+          "page": 13
+        }
+      ],
+      "searchTerms": [
+        "aida ni",
+        "あいだに"
+      ]
+    },
+    {
+      "id": "n4-made-ni",
+      "concept": "made-ni",
+      "category": "time",
+      "subcategory": "Batas penyelesaian",
+      "title": "～までに",
+      "kana": "までに",
+      "romaji": "madeni",
+      "meaning": "Paling lambat; sebelum batas waktu",
+      "explanation": "までに menetapkan tenggat: tindakan harus selesai pada atau sebelum waktu yang disebutkan. Ini berbeda dari まで pada N5 yang menekankan berlangsung terus sampai suatu batas.",
+      "patterns": [
+        "Waktu + までに + tindakan selesai",
+        "V kamus + までに + tindakan"
+      ],
+      "note": "五時まで働く berarti bekerja sampai pukul lima. 五時までに出す berarti menyerahkan paling lambat pukul lima.",
+      "examples": [
+        {
+          "jp": "金曜日までに、宿題を出してください。",
+          "kana": "きんようび まで に、しゅくだい を だして ください。",
+          "meaning": "Kumpulkan tugas paling lambat hari Jumat."
+        },
+        {
+          "jp": "先生が来るまでに、準備します。",
+          "kana": "せんせい が くる まで に、じゅんび します。",
+          "meaning": "Saya akan menyiapkannya sebelum guru datang."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 35,
+      "sources": [
+        {
+          "id": "master",
+          "page": 98
+        },
+        {
+          "id": "master",
+          "page": 99
+        },
+        {
+          "id": "all",
+          "page": 8
+        },
+        {
+          "id": "rangkuman",
+          "page": 11
+        }
+      ],
+      "check": {
+        "prompt": "五時までに出してください berarti …",
+        "options": [
+          "Serahkan paling lambat pukul lima.",
+          "Terus menyerahkan sampai pukul lima."
+        ],
+        "answer": 0,
+        "explanation": "までに menetapkan tenggat penyelesaian."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tokoro",
+      "concept": "tokoro",
+      "category": "time",
+      "subcategory": "Tahap suatu tindakan",
+      "title": "～ところだ",
+      "kana": "ところだ",
+      "romaji": "tokoroda",
+      "meaning": "Baru akan; sedang; baru saja selesai",
+      "explanation": "ところ menunjukkan tahap tindakan dilihat dari saat yang sedang dibicarakan. Bentuk kamus berarti tepat sebelum mulai, ている berarti sedang dilakukan, dan た berarti tepat setelah selesai.",
+      "patterns": [
+        "V kamus + ところです",
+        "Vている + ところです",
+        "Vた + ところです"
+      ],
+      "note": "Tokoro di sini bukan tempat secara fisik. ～たばかり lebih menekankan bahwa kejadian terasa masih baru bagi pembicara; tidak harus baru beberapa detik.",
+      "examples": [
+        {
+          "jp": "今から昼ご飯を食べるところです。",
+          "kana": "いま から ひるごはん を たべる ところ です。",
+          "meaning": "Saya baru akan makan siang sekarang."
+        },
+        {
+          "jp": "今、宿題をしているところです。",
+          "kana": "いま、しゅくだい を して いる ところ です。",
+          "meaning": "Saya sedang mengerjakan tugas sekarang."
+        },
+        {
+          "jp": "たった今、駅に着いたところです。",
+          "kana": "たった いま、えき に ついた ところ です。",
+          "meaning": "Saya baru saja tiba di stasiun."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 36,
+      "sources": [
+        {
+          "id": "master",
+          "page": 189
+        },
+        {
+          "id": "master",
+          "page": 190
+        },
+        {
+          "id": "master",
+          "page": 234
+        },
+        {
+          "id": "master",
+          "page": 235
+        },
+        {
+          "id": "master",
+          "page": 256
+        },
+        {
+          "id": "master",
+          "page": 257
+        },
+        {
+          "id": "all",
+          "page": 11
+        },
+        {
+          "id": "rangkuman",
+          "page": 47
+        }
+      ],
+      "table": {
+        "headers": [
+          "Tahap",
+          "Pola",
+          "Arti"
+        ],
+        "rows": [
+          [
+            "Sebelum",
+            "食べるところ",
+            "Baru akan makan"
+          ],
+          [
+            "Berlangsung",
+            "食べているところ",
+            "Sedang makan"
+          ],
+          [
+            "Sesudah",
+            "食べたところ",
+            "Baru saja selesai makan"
+          ]
+        ]
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-ta-bakari",
+      "concept": "ta-bakari",
+      "category": "time",
+      "subcategory": "Kejadian yang terasa baru",
+      "title": "～たばかり",
+      "kana": "たばかり",
+      "romaji": "tabakari",
+      "meaning": "Baru saja melakukan menurut perasaan pembicara",
+      "explanation": "たばかり menempatkan kejadian lampau sebagai sesuatu yang masih terasa baru. Jarak waktunya bergantung pada konteks: bisa beberapa menit atau bahkan beberapa bulan untuk pengalaman besar.",
+      "patterns": [
+        "Vた + ばかりです",
+        "Vた + ばかりの + N"
+      ],
+      "note": "Jangan menetapkan batas menit tertentu. ～たところ menyatakan tepat sesudah selesai, sedangkan ～たばかり memberi penilaian bahwa waktunya belum lama.",
+      "examples": [
+        {
+          "jp": "先月、この会社に入ったばかりです。",
+          "kana": "せんげつ、この かいしゃ に はいった ばかり です。",
+          "meaning": "Saya baru masuk perusahaan ini bulan lalu."
+        },
+        {
+          "jp": "買ったばかりの靴が汚れました。",
+          "kana": "かった ばかり の くつ が よごれました。",
+          "meaning": "Sepatu yang baru saya beli sudah kotor."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 37,
+      "sources": [
+        {
+          "id": "master",
+          "page": 187
+        },
+        {
+          "id": "master",
+          "page": 188
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-mama",
+      "concept": "mama",
+      "category": "time",
+      "subcategory": "Keadaan tetap",
+      "title": "～まま",
+      "kana": "まま",
+      "romaji": "mama",
+      "meaning": "Tetap dalam keadaan; tanpa mengubah keadaan",
+      "explanation": "まま menunjukkan keadaan yang dipertahankan atau dibiarkan saat tindakan berikutnya berlangsung. Vた menyatakan keadaan hasil tindakan, sedangkan Vない menunjukkan tindakan yang belum atau tidak dilakukan.",
+      "patterns": [
+        "Vた / Vない + まま",
+        "N + のまま",
+        "Sifat-i + まま",
+        "Sifat-na + なまま"
+      ],
+      "note": "Bukan sekadar urutan dua kegiatan. 電気をつけたまま寝る berarti lampu tetap menyala ketika tidur.",
+      "examples": [
+        {
+          "jp": "電気をつけたまま、寝てしまいました。",
+          "kana": "でんき を つけた まま、ねて しまいました。",
+          "meaning": "Saya tertidur dengan lampu masih menyala."
+        },
+        {
+          "jp": "靴を履いたまま、入らないでください。",
+          "kana": "くつ を はいた まま、はいらないで ください。",
+          "meaning": "Jangan masuk sambil tetap memakai sepatu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 38,
+      "sources": [
+        {
+          "id": "master",
+          "page": 100
+        },
+        {
+          "id": "master",
+          "page": 101
+        },
+        {
+          "id": "master",
+          "page": 102
+        },
+        {
+          "id": "all",
+          "page": 16
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-ta-koto-aru",
+      "concept": "ta-koto-aru",
+      "category": "actions",
+      "subcategory": "Pengalaman",
+      "title": "～たことがある",
+      "kana": "たことがある",
+      "romaji": "takotogaaru",
+      "meaning": "Pernah mengalami atau melakukan",
+      "explanation": "Bentuk た ditambah ことがある menyatakan pengalaman sampai saat ini. Fokusnya pada pernah atau tidak pernah, bukan menceritakan satu kejadian pada waktu yang pasti.",
+      "patterns": [
+        "Vた + ことがあります",
+        "Vた + ことがありません",
+        "一度も + Vた + ことがありません"
+      ],
+      "note": "Untuk kejadian pasti seperti kemarin pergi ke bank, cukup gunakan bentuk lampau biasa. 一度も bersama bentuk negatif berarti belum pernah sekalipun.",
+      "examples": [
+        {
+          "jp": "日本で働いたことがあります。",
+          "kana": "にほん で はたらいた こと が あります。",
+          "meaning": "Saya pernah bekerja di Jepang."
+        },
+        {
+          "jp": "一度も飛行機に乗ったことがありません。",
+          "kana": "いちど も ひこうき に のった こと が ありません。",
+          "meaning": "Saya belum pernah naik pesawat sekalipun."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 39,
+      "sources": [
+        {
+          "id": "all",
+          "page": 17
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-koto-ga-aru",
+      "concept": "koto-ga-aru",
+      "category": "actions",
+      "subcategory": "Kejadian sesekali",
+      "title": "～ことがある",
+      "kana": "ことがある",
+      "romaji": "kotogaaru",
+      "meaning": "Ada kalanya; kadang terjadi",
+      "explanation": "Kata kerja bentuk kamus atau ない ditambah ことがある menyatakan kejadian yang kadang berlangsung. Ini berbeda dari Vたことがある yang menyatakan pengalaman lampau.",
+      "patterns": [
+        "V kamus / Vない + ことがあります"
+      ],
+      "note": "Bentuk sebelum こと membedakan fungsi. 遅れることがある berarti kadang terlambat; 遅れたことがある berarti pernah terlambat.",
+      "examples": [
+        {
+          "jp": "忙しくて、昼ご飯を食べないことがあります。",
+          "kana": "いそがしくて、ひるごはん を たべない こと が あります。",
+          "meaning": "Kadang saya tidak makan siang karena sibuk."
+        },
+        {
+          "jp": "この電車は遅れることがあります。",
+          "kana": "この でんしゃ は おくれる こと が あります。",
+          "meaning": "Kereta ini kadang terlambat."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 40,
+      "sources": [
+        {
+          "id": "master",
+          "page": 85
+        },
+        {
+          "id": "master",
+          "page": 86
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-oku",
+      "concept": "te-oku",
+      "category": "actions",
+      "subcategory": "Persiapan",
+      "title": "～ておく",
+      "kana": "ておく",
+      "romaji": "teoku",
+      "meaning": "Melakukan terlebih dahulu; membiarkan tetap begitu",
+      "explanation": "ておく dipakai untuk menyiapkan sesuatu bagi keperluan nanti. Pola ini juga dapat meminta agar keadaan dibiarkan untuk sementara karena masih dibutuhkan.",
+      "patterns": [
+        "Vて + おきます",
+        "Vて + おいてください"
+      ],
+      "note": "Dalam percakapan ておく dapat menjadi とく, misalnya 書いとく. Permintaan そのままにしておいてください berarti biarkan tetap seperti itu.",
+      "examples": [
+        {
+          "jp": "旅行の前に、ホテルを予約しておきます。",
+          "kana": "りょこう の まえ に、ホテル を よやく して おきます。",
+          "meaning": "Saya akan memesan hotel terlebih dahulu sebelum bepergian."
+        },
+        {
+          "jp": "まだ使うので、机の上に置いておいてください。",
+          "kana": "まだ つかう ので、つくえ の うえ に おいて おいて ください。",
+          "meaning": "Karena masih akan dipakai, biarkan di atas meja dulu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 41,
+      "sources": [
+        {
+          "id": "master",
+          "page": 224
+        },
+        {
+          "id": "master",
+          "page": 225
+        },
+        {
+          "id": "all",
+          "page": 23
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-shimau",
+      "concept": "te-shimau",
+      "category": "actions",
+      "subcategory": "Penyelesaian dan penyesalan",
+      "title": "～てしまう・～ちゃう",
+      "kana": "てしまう・ちゃう",
+      "romaji": "teshimau / chau",
+      "meaning": "Menyelesaikan; terlanjur atau tidak sengaja",
+      "explanation": "てしまう dapat menunjukkan tindakan selesai seluruhnya. Dalam konteks lain, pola ini menunjukkan penyesalan, kejadian yang tidak diinginkan, atau sesuatu yang terlanjur terjadi. Maknanya ditentukan konteks, bukan hanya bentuk lampau.",
+      "patterns": [
+        "Vて + しまいます",
+        "Vて + しまいました",
+        "～てしまう → ～ちゃう",
+        "～でしまう → ～じゃう"
+      ],
+      "note": "読み終えてしまった tidak harus berarti tidak sengaja membaca. Sebaliknya 忘れてしまった lazim menyiratkan penyesalan.",
+      "examples": [
+        {
+          "jp": "宿題は全部やってしまいました。",
+          "kana": "しゅくだい は ぜんぶ やって しまいました。",
+          "meaning": "Saya sudah menyelesaikan semua tugas."
+        },
+        {
+          "jp": "財布を忘れてしまいました。",
+          "kana": "さいふ を わすれて しまいました。",
+          "meaning": "Saya terlanjur lupa membawa dompet."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 42,
+      "sources": [
+        {
+          "id": "master",
+          "page": 226
+        },
+        {
+          "id": "master",
+          "page": 227
+        },
+        {
+          "id": "all",
+          "page": 24
+        },
+        {
+          "id": "rangkuman",
+          "page": 41
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-miru",
+      "concept": "te-miru",
+      "category": "actions",
+      "subcategory": "Mencoba",
+      "title": "～てみる",
+      "kana": "てみる",
+      "romaji": "temiru",
+      "meaning": "Mencoba melakukan untuk mengetahui hasilnya",
+      "explanation": "てみる berarti melakukan suatu tindakan sebagai percobaan, lalu melihat hasil atau merasakan pengalamannya. Kata kerja みる dalam pola ini biasanya ditulis dengan hiragana.",
+      "patterns": [
+        "Vて + みます",
+        "Vて + みたいです",
+        "Vて + みてください"
+      ],
+      "note": "Bedakan dari 見る yang benar-benar berarti melihat. 食べてみる berarti mencoba mencicipi, bukan makan lalu melihat sesuatu.",
+      "examples": [
+        {
+          "jp": "この靴を履いてみてもいいですか。",
+          "kana": "この くつ を はいて みて も いい です か。",
+          "meaning": "Bolehkah saya mencoba memakai sepatu ini?"
+        },
+        {
+          "jp": "自分で作ってみました。",
+          "kana": "じぶん で つくって みました。",
+          "meaning": "Saya sudah mencoba membuatnya sendiri."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 43,
+      "sources": [
+        {
+          "id": "master",
+          "page": 220
+        },
+        {
+          "id": "master",
+          "page": 221
+        },
+        {
+          "id": "all",
+          "page": 25
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-iku-kuru",
+      "concept": "te-iku-kuru",
+      "category": "actions",
+      "subcategory": "Arah dan perubahan",
+      "title": "～ていく・～てくる",
+      "kana": "ていく・てくる",
+      "romaji": "teiku / tekuru",
+      "meaning": "Melakukan lalu pergi atau kembali; perubahan mendekat atau berlanjut",
+      "explanation": "てくる dapat menunjukkan pergi melakukan sesuatu lalu kembali ke titik pembicaraan. ていく menunjukkan tindakan disertai gerak menjauh. Dalam perubahan waktu, てくる menyoroti perubahan sampai sekarang, sedangkan ていく menyoroti kelanjutan mulai sekarang.",
+      "patterns": [
+        "Vて + きます",
+        "Vて + いきます"
+      ],
+      "note": "Sesuaikan makna dengan konteks. 寒くなってきた berarti mulai terasa dingin sampai sekarang; 寒くなっていく berarti ke depan akan makin dingin.",
+      "examples": [
+        {
+          "jp": "ちょっと飲み物を買ってきます。",
+          "kana": "ちょっと のみもの を かって きます。",
+          "meaning": "Saya pergi membeli minuman sebentar, lalu kembali."
+        },
+        {
+          "jp": "これからも日本語を勉強していきます。",
+          "kana": "これから も にほんご を べんきょう して いきます。",
+          "meaning": "Mulai sekarang pun saya akan terus belajar bahasa Jepang."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 44,
+      "sources": [
+        {
+          "id": "master",
+          "page": 209
+        },
+        {
+          "id": "master",
+          "page": 210
+        },
+        {
+          "id": "master",
+          "page": 218
+        },
+        {
+          "id": "master",
+          "page": 219
+        },
+        {
+          "id": "all",
+          "page": 76
+        },
+        {
+          "id": "rangkuman",
+          "page": 42
+        }
+      ],
+      "searchTerms": [
+        "te iku",
+        "te kuru"
+      ]
+    },
+    {
+      "id": "n4-toori",
+      "concept": "toori",
+      "category": "actions",
+      "subcategory": "Mengikuti acuan",
+      "title": "～とおりに",
+      "kana": "とおりに",
+      "romaji": "toorini",
+      "meaning": "Sesuai; persis seperti acuan",
+      "explanation": "とおりに menyatakan bahwa tindakan dilakukan mengikuti petunjuk, contoh, atau kejadian yang dijadikan acuan. Bentuk yang dipakai bergantung pada apakah acuannya kata benda atau kata kerja.",
+      "patterns": [
+        "V kamus / Vた + とおりに",
+        "N + のとおりに"
+      ],
+      "note": "先生が言ったとおりに berarti mengikuti apa yang sudah guru katakan. Jangan otomatis menambahkan の setelah kata kerja.",
+      "examples": [
+        {
+          "jp": "説明書のとおりに、組み立ててください。",
+          "kana": "せつめいしょ の とおり に、くみたてて ください。",
+          "meaning": "Rakitlah sesuai buku petunjuk."
+        },
+        {
+          "jp": "私が書いたとおりに、書いてください。",
+          "kana": "わたし が かいた とおり に、かいて ください。",
+          "meaning": "Tulislah persis seperti yang saya tulis."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 45,
+      "sources": [
+        {
+          "id": "rangkuman",
+          "page": 49
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-nagara",
+      "concept": "nagara",
+      "category": "actions",
+      "subcategory": "Dua tindakan bersamaan",
+      "title": "～ながら",
+      "kana": "ながら",
+      "romaji": "nagara",
+      "meaning": "Sambil melakukan tindakan lain",
+      "explanation": "ながら menghubungkan dua tindakan yang dilakukan bersamaan oleh pelaku yang sama. Tindakan utama berada di akhir kalimat. Tindakan sebelum ながら menjadi kegiatan pendamping.",
+      "patterns": [
+        "Vます: buang ます + ながら、tindakan utama"
+      ],
+      "note": "Berbeda dari ～たり yang menyebut contoh kegiatan dan bentuk て yang dapat menunjukkan urutan. Jangan memakai ながら untuk dua pelaku yang berbeda.",
+      "examples": [
+        {
+          "jp": "音楽を聞きながら、料理を作ります。",
+          "kana": "おんがく を ききながら、りょうり を つくります。",
+          "meaning": "Saya memasak sambil mendengarkan musik."
+        },
+        {
+          "jp": "歩きながら、電話をしないでください。",
+          "kana": "あるきながら、でんわ を しないで ください。",
+          "meaning": "Jangan menelepon sambil berjalan."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 46,
+      "sources": [
+        {
+          "id": "master",
+          "page": 117
+        },
+        {
+          "id": "master",
+          "page": 118
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        }
+      ],
+      "check": {
+        "prompt": "Dalam 音楽を聞きながら料理を作ります, tindakan utama adalah …",
+        "options": [
+          "Mendengarkan musik.",
+          "Memasak."
+        ],
+        "answer": 1,
+        "explanation": "Tindakan utama ditempatkan setelah bagian ながら."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-ageru",
+      "concept": "te-ageru",
+      "category": "giving",
+      "subcategory": "Melakukan bantuan",
+      "title": "～てあげる",
+      "kana": "てあげる",
+      "romaji": "teageru",
+      "meaning": "Melakukan sesuatu untuk orang lain",
+      "explanation": "てあげる memandang tindakan sebagai bantuan yang diberikan kepada orang lain. Pelaku melakukan V, lalu orang yang menerima manfaat dapat ditandai に.",
+      "patterns": [
+        "Pelaku は + penerima に + Vてあげます"
+      ],
+      "note": "Tidak sama dengan memberikan benda memakai あげる pada N5. Kepada atasan, mengatakan ～てあげます secara langsung dapat terdengar menggurui. ～てやる lebih kasar dan terbatas konteks, misalnya terhadap hewan atau tanaman.",
+      "examples": [
+        {
+          "jp": "弟に漢字を教えてあげました。",
+          "kana": "おとうと に かんじ を おしえて あげました。",
+          "meaning": "Saya membantu adik dengan mengajarinya kanji."
+        },
+        {
+          "jp": "友達の荷物を持ってあげました。",
+          "kana": "ともだち の にもつ を もって あげました。",
+          "meaning": "Saya membantu membawakan barang teman."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 47,
+      "sources": [
+        {
+          "id": "master",
+          "page": 205
+        },
+        {
+          "id": "master",
+          "page": 206
+        },
+        {
+          "id": "master",
+          "page": 230
+        },
+        {
+          "id": "master",
+          "page": 231
+        },
+        {
+          "id": "all",
+          "page": 27
+        },
+        {
+          "id": "rangkuman",
+          "page": 41
+        }
+      ],
+      "searchTerms": [
+        "te yaru",
+        "てやる"
+      ]
+    },
+    {
+      "id": "n4-te-kureru",
+      "concept": "te-kureru",
+      "category": "giving",
+      "subcategory": "Menerima bantuan",
+      "title": "～てくれる",
+      "kana": "てくれる",
+      "romaji": "tekureru",
+      "meaning": "Seseorang melakukan sesuatu untuk saya atau pihak saya",
+      "explanation": "てくれる menempatkan orang lain sebagai pelaku bantuan. Pembicara memandang manfaatnya datang kepada diri sendiri atau orang yang dianggap bagian dari pihaknya.",
+      "patterns": [
+        "Pelaku が / は + （penerima に） + Vてくれます"
+      ],
+      "note": "Pelaku tetap orang yang melakukan bantuan. Ini pola tindakan, berbeda dari くれる untuk memberikan benda pada N5.",
+      "examples": [
+        {
+          "jp": "友達が駅まで迎えに来てくれました。",
+          "kana": "ともだち が えき まで むかえ に きて くれました。",
+          "meaning": "Teman datang menjemput saya ke stasiun."
+        },
+        {
+          "jp": "先生が作文を直してくれました。",
+          "kana": "せんせい が さくぶん を なおして くれました。",
+          "meaning": "Guru membantu memperbaiki karangan saya."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 48,
+      "sources": [
+        {
+          "id": "master",
+          "page": 215
+        },
+        {
+          "id": "master",
+          "page": 216
+        },
+        {
+          "id": "master",
+          "page": 217
+        },
+        {
+          "id": "all",
+          "page": 27
+        },
+        {
+          "id": "rangkuman",
+          "page": 41
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-morau",
+      "concept": "te-morau",
+      "category": "giving",
+      "subcategory": "Memperoleh bantuan",
+      "title": "～てもらう",
+      "kana": "てもらう",
+      "romaji": "temorau",
+      "meaning": "Mendapat bantuan seseorang melakukan sesuatu",
+      "explanation": "てもらう menjadikan penerima bantuan sebagai topik atau subjek. Orang yang melakukan tindakan ditandai に. Pembicara menyoroti bantuan yang diperoleh, sering disertai rasa terbantu.",
+      "patterns": [
+        "Penerima は + pelaku に + Vてもらいます"
+      ],
+      "note": "私は先生に教えてもらった: guru yang mengajar, saya penerimanya. Hindari menghafal hanya sebagai awalan di- karena susunan pelakunya harus tetap dipahami.",
+      "examples": [
+        {
+          "jp": "先生に発音を教えてもらいました。",
+          "kana": "せんせい に はつおん を おしえて もらいました。",
+          "meaning": "Saya mendapat bantuan guru untuk belajar pelafalan."
+        },
+        {
+          "jp": "友達に写真を撮ってもらいました。",
+          "kana": "ともだち に しゃしん を とって もらいました。",
+          "meaning": "Saya meminta bantuan teman untuk memotret saya."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 49,
+      "sources": [
+        {
+          "id": "master",
+          "page": 222
+        },
+        {
+          "id": "master",
+          "page": 223
+        },
+        {
+          "id": "all",
+          "page": 28
+        },
+        {
+          "id": "rangkuman",
+          "page": 41
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-hoshii",
+      "concept": "te-hoshii",
+      "category": "giving",
+      "subcategory": "Harapan kepada orang lain",
+      "title": "～てほしい",
+      "kana": "てほしい",
+      "romaji": "tehoshii",
+      "meaning": "Ingin orang lain melakukan sesuatu",
+      "explanation": "てほしい menyatakan tindakan yang diharapkan dari orang lain. Orang yang diharapkan bertindak ditandai に. Bentuk ないでほしい menyatakan harapan agar tindakan tidak dilakukan.",
+      "patterns": [
+        "Pelaku yang diharapkan に + Vてほしい",
+        "Pelaku yang diharapkan に + Vないでほしい"
+      ],
+      "note": "Bedakan Nがほしい pada N5 untuk benda. Ini dapat terdengar langsung; untuk permintaan sopan gunakan ～ていただけませんか.",
+      "examples": [
+        {
+          "jp": "もう一度説明してほしいです。",
+          "kana": "もう いちど せつめい して ほしい です。",
+          "meaning": "Saya ingin kamu menjelaskannya sekali lagi."
+        },
+        {
+          "jp": "ここでは大きな声で話さないでほしいです。",
+          "kana": "ここ では おおきな こえ で はなさないで ほしい です。",
+          "meaning": "Saya ingin kamu tidak berbicara keras di sini."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 50,
+      "sources": [
+        {
+          "id": "master",
+          "page": 207
+        },
+        {
+          "id": "master",
+          "page": 208
+        },
+        {
+          "id": "all",
+          "page": 52
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-houga-ii",
+      "concept": "houga-ii",
+      "category": "giving",
+      "subcategory": "Saran langsung",
+      "title": "～たほうがいい・～ないほうがいい",
+      "kana": "たほうがいい・ないほうがいい",
+      "romaji": "tahougaii / naihougaii",
+      "meaning": "Sebaiknya melakukan; sebaiknya tidak",
+      "explanation": "Vたほうがいい memberi saran untuk melakukan sesuatu. Vないほうがいい menyarankan agar tidak melakukannya. Pola ini menilai pilihan yang lebih baik dalam situasi tertentu.",
+      "patterns": [
+        "Vた + ほうがいいです",
+        "Vない + ほうがいいです"
+      ],
+      "note": "Bentuk た pada saran ini bukan berarti tindakannya sudah terjadi. Berbeda dari Nのほうが untuk perbandingan benda pada N5. Kepada atasan, saran ini dapat terasa terlalu langsung.",
+      "examples": [
+        {
+          "jp": "今日は早く寝たほうがいいです。",
+          "kana": "きょう は はやく ねた ほう が いい です。",
+          "meaning": "Hari ini sebaiknya tidur lebih awal."
+        },
+        {
+          "jp": "夜はコーヒーを飲まないほうがいいです。",
+          "kana": "よる は コーヒー を のまない ほう が いい です。",
+          "meaning": "Malam hari sebaiknya tidak minum kopi."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 51,
+      "sources": [
+        {
+          "id": "all",
+          "page": 35
+        },
+        {
+          "id": "rangkuman",
+          "page": 47
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tara-dou",
+      "concept": "tara-dou",
+      "category": "giving",
+      "subcategory": "Saran sebagai pilihan",
+      "title": "～たらどうですか",
+      "kana": "たらどうですか",
+      "romaji": "taradoudesuka",
+      "meaning": "Bagaimana kalau mencoba …?",
+      "explanation": "たらどうですか mengajukan tindakan sebagai pilihan yang dapat dicoba lawan bicara. Bentuk ～たらいかがですか lebih sopan. Gunakan setelah memahami masalah atau kebutuhan lawan bicara.",
+      "patterns": [
+        "Vた + らどうですか",
+        "Vた + らいかがですか"
+      ],
+      "note": "Bukan pertanyaan tentang cara melakukan. Jika intonasinya mendesak, bentuk singkat ～たら？ dapat terdengar seperti kritik.",
+      "examples": [
+        {
+          "jp": "先生に聞いてみたらどうですか。",
+          "kana": "せんせい に きいて みたら どう です か。",
+          "meaning": "Bagaimana kalau mencoba bertanya kepada guru?"
+        },
+        {
+          "jp": "少し休んだらいかがですか。",
+          "kana": "すこし やすんだら いかが です か。",
+          "meaning": "Bagaimana kalau beristirahat sebentar?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 52,
+      "sources": [
+        {
+          "id": "master",
+          "page": 199
+        },
+        {
+          "id": "master",
+          "page": 200
+        },
+        {
+          "id": "all",
+          "page": 53
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tara-ii-question",
+      "concept": "tara-ii-question",
+      "category": "giving",
+      "subcategory": "Meminta petunjuk",
+      "title": "～たらいいですか",
+      "kana": "たらいいですか",
+      "romaji": "taraiidesuka",
+      "meaning": "Sebaiknya melakukan apa; harus bagaimana?",
+      "explanation": "Pola ini meminta saran tentang tindakan, waktu, tempat, atau cara yang tepat. Gabungkan kata tanya dengan Vたらいいですか.",
+      "patterns": [
+        "Kata tanya + Vた + らいいですか"
+      ],
+      "note": "どうしたらいいですか menanyakan apa yang sebaiknya dilakukan. Ini bukan menyatakan kewajiban pasti, melainkan meminta arahan.",
+      "examples": [
+        {
+          "jp": "どこで切符を買ったらいいですか。",
+          "kana": "どこ で きっぷ を かったら いい です か。",
+          "meaning": "Sebaiknya saya membeli tiket di mana?"
+        },
+        {
+          "jp": "何時に来たらいいですか。",
+          "kana": "なんじ に きたら いい です か。",
+          "meaning": "Sebaiknya saya datang pukul berapa?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 53,
+      "sources": [
+        {
+          "id": "master",
+          "page": 201
+        },
+        {
+          "id": "master",
+          "page": 202
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-sumimasen",
+      "concept": "te-sumimasen",
+      "category": "giving",
+      "subcategory": "Meminta maaf atas keadaan",
+      "title": "～てすみません",
+      "kana": "てすみません",
+      "romaji": "tesumimasen",
+      "meaning": "Maaf karena melakukan atau tidak melakukan",
+      "explanation": "Bentuk て menghubungkan tindakan atau keadaan yang menjadi alasan permintaan maaf dengan すみません. Untuk hal yang tidak dilakukan, gunakan ～なくてすみません. Dapat dipakai untuk keadaan saat ini atau permintaan maaf atas hal yang sudah terjadi.",
+      "patterns": [
+        "Vて + すみません",
+        "Vない: ない → なくてすみません",
+        "Vて + すみませんでした"
+      ],
+      "note": "Bukan meminta orang melakukan sesuatu. 遅れてすみません berarti maaf terlambat; 遅れないでください berarti tolong jangan terlambat.",
+      "examples": [
+        {
+          "jp": "遅れてすみません。",
+          "kana": "おくれて すみません。",
+          "meaning": "Maaf saya terlambat."
+        },
+        {
+          "jp": "手伝えなくてすみませんでした。",
+          "kana": "てつだえなくて すみません でした。",
+          "meaning": "Maaf saya tidak bisa membantu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 54,
+      "sources": [
+        {
+          "id": "master",
+          "page": 228
+        },
+        {
+          "id": "master",
+          "page": 229
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-yokatta",
+      "concept": "te-yokatta",
+      "category": "giving",
+      "subcategory": "Rasa lega",
+      "title": "～てよかった",
+      "kana": "てよかった",
+      "romaji": "teyokatta",
+      "meaning": "Syukurlah; senang karena sesuatu terjadi",
+      "explanation": "てよかった menyampaikan rasa lega atau penilaian positif terhadap kejadian. Untuk tindakan yang tidak dilakukan, gunakan ～なくてよかった. Pembicara melihat hasilnya sebagai sesuatu yang baik.",
+      "patterns": [
+        "Vて + よかったです",
+        "Vない: ない → なくてよかったです"
+      ],
+      "note": "Bedakan dari ～たほうがいい yang menyarankan tindakan. ～てよかった menilai hasil atau keadaan yang sudah diketahui.",
+      "examples": [
+        {
+          "jp": "試験に合格できてよかったです。",
+          "kana": "しけん に ごうかく できて よかった です。",
+          "meaning": "Syukurlah saya bisa lulus ujian."
+        },
+        {
+          "jp": "大きなけがをしなくてよかったです。",
+          "kana": "おおきな けが を しなくて よかった です。",
+          "meaning": "Syukurlah tidak mengalami luka berat."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 55,
+      "sources": [
+        {
+          "id": "master",
+          "page": 232
+        },
+        {
+          "id": "master",
+          "page": 233
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-bakari",
+      "concept": "bakari",
+      "category": "particles",
+      "subcategory": "Hal yang mendominasi",
+      "title": "～ばかり",
+      "kana": "ばかり",
+      "romaji": "bakari",
+      "meaning": "Hanya itu-itu saja; terus melakukan hal yang sama",
+      "explanation": "ばかり menekankan bahwa sesuatu mendominasi pilihan atau tindakan. Sering menyiratkan bahwa pembicara merasa isinya tidak seimbang atau tindakannya terlalu sering.",
+      "patterns": [
+        "N + ばかり",
+        "Vて + ばかりいます"
+      ],
+      "note": "だけ pada N5 membatasi secara netral. ばかり sering menambahkan penilaian hanya itu terus. Ini berbeda dari Vたばかり yang berarti baru saja.",
+      "examples": [
+        {
+          "jp": "弟はゲームばかりしています。",
+          "kana": "おとうと は ゲーム ばかり して います。",
+          "meaning": "Adik terus bermain gim saja."
+        },
+        {
+          "jp": "甘い物ばかり食べないでください。",
+          "kana": "あまい もの ばかり たべないで ください。",
+          "meaning": "Jangan makan makanan manis saja."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 56,
+      "sources": [
+        {
+          "id": "master",
+          "page": 25
+        },
+        {
+          "id": "master",
+          "page": 26
+        },
+        {
+          "id": "all",
+          "page": 10
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-shika",
+      "concept": "shika",
+      "category": "particles",
+      "subcategory": "Batas yang dianggap sedikit",
+      "title": "～しか～ない",
+      "kana": "しかない",
+      "romaji": "shikanai",
+      "meaning": "Hanya; tidak ada selain itu",
+      "explanation": "しか membatasi hal atau jumlah lalu diikuti bentuk negatif. Pembicara sering menyoroti bahwa pilihannya sedikit atau tidak cukup. Makna keseluruhan tetap hanya, bukan tidak punya sama sekali.",
+      "patterns": [
+        "N / jumlah + しか + bentuk negatif",
+        "V kamus + しかない"
+      ],
+      "note": "だけ boleh diikuti positif; しか memerlukan negatif. 百円しかない berarti hanya punya seratus yen.",
+      "examples": [
+        {
+          "jp": "財布には百円しかありません。",
+          "kana": "さいふ に は ひゃくえん しか ありません。",
+          "meaning": "Di dompet hanya ada seratus yen."
+        },
+        {
+          "jp": "今日は一時間しか勉強できません。",
+          "kana": "きょう は いちじかん しか べんきょう できません。",
+          "meaning": "Hari ini saya hanya bisa belajar satu jam."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 57,
+      "sources": [
+        {
+          "id": "all",
+          "page": 7
+        },
+        {
+          "id": "rangkuman",
+          "page": 12
+        }
+      ],
+      "check": {
+        "prompt": "Pilih kalimat dengan しか yang benar.",
+        "options": [
+          "百円しかあります。",
+          "百円しかありません。"
+        ],
+        "answer": 1,
+        "explanation": "しか membutuhkan bentuk negatif."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-hodo-negative",
+      "concept": "hodo-negative",
+      "category": "particles",
+      "subcategory": "Perbandingan negatif",
+      "title": "～ほど～ない",
+      "kana": "ほどない",
+      "romaji": "hodonai",
+      "meaning": "Tidak se-; tidak sampai tingkat pembanding",
+      "explanation": "AはBほど～ない menyatakan A tidak mempunyai sifat itu sampai tingkat B. Akhir kalimat memakai bentuk negatif dari sifat atau penilaian yang dibandingkan.",
+      "patterns": [
+        "A は + B + ほど + sifat negatif"
+      ],
+      "note": "Ini struktur perbandingan negatif. AよりBのほうが～ pada N5 menyatakan perbandingan dari sisi yang lebih tinggi, sedangkan ほど～ない dari sisi yang lebih rendah.",
+      "examples": [
+        {
+          "jp": "今日は昨日ほど寒くありません。",
+          "kana": "きょう は きのう ほど さむく ありません。",
+          "meaning": "Hari ini tidak sedingin kemarin."
+        },
+        {
+          "jp": "バスは電車ほど速くありません。",
+          "kana": "バス は でんしゃ ほど はやく ありません。",
+          "meaning": "Bus tidak secepat kereta."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 58,
+      "sources": [
+        {
+          "id": "all",
+          "page": 3
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-zutsu",
+      "concept": "zutsu",
+      "category": "particles",
+      "subcategory": "Pembagian merata",
+      "title": "～ずつ",
+      "kana": "ずつ",
+      "romaji": "zutsu",
+      "meaning": "Masing-masing; sedikit demi sedikit dalam jumlah tertentu",
+      "explanation": "ずつ mengikuti jumlah atau satuan untuk menyatakan pembagian yang sama kepada tiap pihak, atau pertambahan langkah demi langkah dengan jumlah yang tetap.",
+      "patterns": [
+        "Jumlah / satuan + ずつ"
+      ],
+      "note": "一人に二枚ずつ berarti setiap orang mendapat dua lembar. 少しずつ berarti sedikit demi sedikit, bukan semuanya sekaligus.",
+      "examples": [
+        {
+          "jp": "一人に二枚ずつ配ってください。",
+          "kana": "ひとり に にまい ずつ くばって ください。",
+          "meaning": "Bagikan dua lembar kepada setiap orang."
+        },
+        {
+          "jp": "毎日、少しずつ覚えます。",
+          "kana": "まいにち、すこし ずつ おぼえます。",
+          "meaning": "Saya menghafal sedikit demi sedikit setiap hari."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 59,
+      "sources": [
+        {
+          "id": "all",
+          "page": 2
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-oki-ni",
+      "concept": "oki-ni",
+      "category": "particles",
+      "subcategory": "Sela yang berulang",
+      "title": "～おきに",
+      "kana": "おきに",
+      "romaji": "okini",
+      "meaning": "Dengan sela tertentu secara berulang",
+      "explanation": "おきに mengikuti ukuran sela. 一時間おきに berarti pada interval satu jam. Ketika memakai satuan hari, 一日おきに lazim berarti satu hari dilewati lalu kegiatan dilakukan lagi: selang sehari.",
+      "patterns": [
+        "Ukuran waktu / jarak + おきに"
+      ],
+      "note": "毎日 berarti setiap hari, sedangkan 一日おきに berarti selang sehari. Untuk jadwal penting, tanggal atau jam yang konkret membantu menghindari salah paham.",
+      "examples": [
+        {
+          "jp": "この薬は六時間おきに飲みます。",
+          "kana": "この くすり は ろくじかん おき に のみます。",
+          "meaning": "Obat ini diminum dengan interval enam jam."
+        },
+        {
+          "jp": "一日おきに、花に水をやります。",
+          "kana": "いちにち おき に、はな に みず を やります。",
+          "meaning": "Saya menyiram bunga selang sehari."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 60,
+      "sources": [
+        {
+          "id": "master",
+          "page": 151
+        },
+        {
+          "id": "master",
+          "page": 152
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-mo-quantity",
+      "concept": "mo-quantity",
+      "category": "particles",
+      "subcategory": "Jumlah yang mengejutkan",
+      "title": "Jumlah＋も",
+      "kana": "も",
+      "romaji": "mo",
+      "meaning": "Sebanyak itu; penekanan jumlah yang besar",
+      "explanation": "も sesudah jumlah menunjukkan bahwa pembicara memandang jumlah itu besar atau mengejutkan. Ini fungsi penekanan jumlah, berbeda dari も yang sekadar berarti juga pada N5.",
+      "patterns": [
+        "Jumlah / durasi + も"
+      ],
+      "note": "Satu jumlah yang sama dapat terasa besar atau kecil bergantung konteks. Untuk menekankan sedikitnya jumlah, しか～ない sering dipakai.",
+      "examples": [
+        {
+          "jp": "駅まで一時間もかかりました。",
+          "kana": "えき まで いちじかん も かかりました。",
+          "meaning": "Ke stasiun saja memakan waktu sampai satu jam."
+        },
+        {
+          "jp": "友達が十人も来ました。",
+          "kana": "ともだち が じゅうにん も きました。",
+          "meaning": "Teman yang datang sampai sepuluh orang."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 61,
+      "sources": [
+        {
+          "id": "master",
+          "page": 111
+        },
+        {
+          "id": "master",
+          "page": 112
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-dake-de",
+      "concept": "dake-de",
+      "category": "particles",
+      "subcategory": "Syarat yang sudah cukup",
+      "title": "～だけで",
+      "kana": "だけで",
+      "romaji": "dakede",
+      "meaning": "Cukup dengan; hanya dengan melakukan",
+      "explanation": "だけで menyatakan bahwa satu hal saja sudah cukup untuk menimbulkan hasil. Bentuk ini dapat mengikuti kata benda atau kata kerja bentuk biasa.",
+      "patterns": [
+        "N + だけで",
+        "V kamus + だけで"
+      ],
+      "note": "Fokusnya bukan hanya pembatasan seperti だけ pada N5, tetapi hubungan cukup A saja, B terjadi.",
+      "examples": [
+        {
+          "jp": "このボタンを押すだけで、ドアが開きます。",
+          "kana": "この ボタン を おす だけ で、ドア が あきます。",
+          "meaning": "Cukup menekan tombol ini, pintunya terbuka."
+        },
+        {
+          "jp": "写真を見るだけで、うれしくなります。",
+          "kana": "しゃしん を みる だけ で、うれしく なります。",
+          "meaning": "Hanya dengan melihat fotonya, saya merasa senang."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 62,
+      "sources": [
+        {
+          "id": "master",
+          "page": 27
+        },
+        {
+          "id": "master",
+          "page": 28
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-material-kara",
+      "concept": "material-kara",
+      "category": "particles",
+      "subcategory": "Bahan asal",
+      "title": "～から作る・～で作る",
+      "kana": "からつくる・でつくる",
+      "romaji": "karatsukuru / detsukuru",
+      "meaning": "Dibuat dari bahan tertentu",
+      "explanation": "から menyoroti bahan asal yang telah mengalami pengolahan atau perubahan sehingga bentuk asalnya tidak begitu tampak. で menyebut bahan yang digunakan. Keduanya dapat bergantung pada cara pembicara memandang proses dan hasil.",
+      "patterns": [
+        "Bahan + から作ります / 作られます",
+        "Bahan + で作ります / 作られます"
+      ],
+      "note": "Pembeda terlihat atau tidak terlihat adalah panduan awal, bukan hukum tanpa pengecualian. で sebagai alat dan bahan dasar sudah dikenal di N5; から di sini menambah sudut pandang bahan asal.",
+      "examples": [
+        {
+          "jp": "ワインはぶどうから作られます。",
+          "kana": "ワイン は ぶどう から つくられます。",
+          "meaning": "Minuman anggur (wine) dibuat dari buah anggur."
+        },
+        {
+          "jp": "この机は木で作られています。",
+          "kana": "この つくえ は き で つくられて います。",
+          "meaning": "Meja ini dibuat dari kayu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 63,
+      "sources": [
+        {
+          "id": "master",
+          "page": 77
+        },
+        {
+          "id": "master",
+          "page": 78
+        },
+        {
+          "id": "all",
+          "page": 2
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-demo-example",
+      "concept": "demo-example",
+      "category": "particles",
+      "subcategory": "Menawarkan contoh",
+      "title": "Nでも",
+      "kana": "でも",
+      "romaji": "demo",
+      "meaning": "Misalnya; … atau yang sejenis",
+      "explanation": "Nでも menawarkan satu contoh yang mewakili pilihan lain. Sering dipakai untuk ajakan santai, sehingga tawaran tidak terdengar terlalu membatasi pilihan lawan bicara.",
+      "patterns": [
+        "N + でも + ajakan / usulan"
+      ],
+      "note": "お茶でも berarti teh atau minuman sejenis sebagai contoh, bukan tetapi teh. Berbeda pula dari 誰でも yang sudah dipelajari di N5.",
+      "examples": [
+        {
+          "jp": "お茶でも飲みませんか。",
+          "kana": "おちゃ でも のみません か。",
+          "meaning": "Bagaimana kalau minum teh atau yang lain?"
+        },
+        {
+          "jp": "休みの日は映画でも見ましょう。",
+          "kana": "やすみ の ひ は えいが でも みましょう。",
+          "meaning": "Saat libur, ayo menonton film atau melakukan hal semacam itu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 64,
+      "sources": [
+        {
+          "id": "master",
+          "page": 33
+        },
+        {
+          "id": "master",
+          "page": 34
+        },
+        {
+          "id": "all",
+          "page": 5
+        },
+        {
+          "id": "rangkuman",
+          "page": 11
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-demo-even",
+      "concept": "demo-even",
+      "category": "particles",
+      "subcategory": "Contoh yang tidak terduga",
+      "title": "Nでも（強調）",
+      "kana": "でも",
+      "romaji": "demo",
+      "meaning": "Bahkan; … pun",
+      "explanation": "でも menyoroti contoh yang biasanya dianggap tidak mungkin atau tidak diharapkan. Jika contoh ekstrem itu saja memenuhi pernyataan, pembicara menyiratkan hal lain tentu juga dapat.",
+      "patterns": [
+        "N + でも + pernyataan"
+      ],
+      "note": "子どもでもできる berarti bahkan anak-anak pun bisa. Ini fungsi penekanan, berbeda dari tawaran お茶でも dan syarat ても／でも.",
+      "examples": [
+        {
+          "jp": "この問題は子どもでもわかります。",
+          "kana": "この もんだい は こども でも わかります。",
+          "meaning": "Soal ini bahkan dapat dipahami anak-anak."
+        },
+        {
+          "jp": "忙しい日でも、朝ご飯は食べます。",
+          "kana": "いそがしい ひ でも、あさごはん は たべます。",
+          "meaning": "Bahkan pada hari sibuk pun saya sarapan."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 65,
+      "sources": [
+        {
+          "id": "all",
+          "page": 5
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-question-temo",
+      "concept": "question-temo",
+      "category": "particles",
+      "subcategory": "Keadaan mana pun",
+      "title": "疑問詞＋～ても",
+      "kana": "ぎもんしとても",
+      "romaji": "gimonshitotemo",
+      "meaning": "Kapan pun; di mana pun; berapa kali pun melakukan",
+      "explanation": "Kata tanya diikuti klausa ～ても menyatakan bahwa waktu, tempat, pelaku, atau jumlah yang dipilih tidak mengubah hasil. Tindakan dan hasilnya disebutkan secara lengkap.",
+      "patterns": [
+        "いつ / どこへ / 誰が + Vても",
+        "何度 + Vても",
+        "どんなに + sifat bentuk ても"
+      ],
+      "note": "いつでも pada N5 adalah bentuk kata tanya＋でも. Di sini ada tindakan di antaranya: いつ行っても, yaitu setiap kali pergi pada waktu apa pun.",
+      "examples": [
+        {
+          "jp": "この店はいつ行っても、込んでいます。",
+          "kana": "この みせ は いつ いって も、こんで います。",
+          "meaning": "Toko ini selalu ramai kapan pun saya pergi."
+        },
+        {
+          "jp": "何度読んでも、わかりません。",
+          "kana": "なんど よんで も、わかりません。",
+          "meaning": "Berapa kali pun dibaca, saya tetap tidak mengerti."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 66,
+      "sources": [
+        {
+          "id": "all",
+          "page": 47
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-ndesu",
+      "concept": "ndesu",
+      "category": "connectors",
+      "subcategory": "Latar belakang dan alasan",
+      "title": "～んです・～のです",
+      "kana": "んです・のです",
+      "romaji": "ndesu / nodesu",
+      "meaning": "Memberi penjelasan; meminta latar belakang",
+      "explanation": "んです menambahkan latar belakang atau penjelasan yang berkaitan dengan keadaan yang sedang dibicarakan. Dalam pertanyaan, ～んですか meminta alasan atau klarifikasi, bukan sekadar menanyakan fakta baru.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + んです",
+        "Sifat-na / N + なんです",
+        "Bentuk tulisan: ～のです"
+      ],
+      "note": "Jangan menambahkannya pada setiap kalimat. どうしたんですか lazim dipakai ketika terlihat ada sesuatu yang terjadi. Nada pertanyaan yang terlalu kuat dapat terdengar menuntut alasan.",
+      "examples": [
+        {
+          "jp": "頭が痛いんです。",
+          "kana": "あたま が いたい ん です。",
+          "meaning": "Soalnya kepala saya sakit."
+        },
+        {
+          "jp": "どうして日本語を勉強しているんですか。",
+          "kana": "どうして にほんご を べんきょう して いる ん です か。",
+          "meaning": "Apa yang membuat kamu belajar bahasa Jepang?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 67,
+      "sources": [
+        {
+          "id": "all",
+          "page": 77
+        },
+        {
+          "id": "rangkuman",
+          "page": 49
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-node",
+      "concept": "node",
+      "category": "connectors",
+      "subcategory": "Alasan sebagai latar",
+      "title": "～ので",
+      "kana": "ので",
+      "romaji": "node",
+      "meaning": "Karena; memberikan latar penyebab",
+      "explanation": "ので menghubungkan alasan dengan hasil, permintaan, atau penjelasan berikutnya. Alasan dipresentasikan sebagai latar yang perlu diketahui lawan bicara. Sifat-na dan kata benda memakai な sebelum ので.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + ので",
+        "Sifat-na / N + なので"
+      ],
+      "note": "ので sering terasa lebih lunak dalam permintaan daripada から, tetapi bukan berarti から selalu tidak sopan. Pemilihan bergantung konteks dan cara berbicara.",
+      "examples": [
+        {
+          "jp": "雨が降っているので、傘を持っていきます。",
+          "kana": "あめ が ふって いる ので、かさ を もって いきます。",
+          "meaning": "Karena sedang hujan, saya akan membawa payung."
+        },
+        {
+          "jp": "明日は試験なので、今日は勉強します。",
+          "kana": "あした は しけん な ので、きょう は べんきょう します。",
+          "meaning": "Karena besok ujian, hari ini saya akan belajar."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 68,
+      "sources": [
+        {
+          "id": "all",
+          "page": 44
+        },
+        {
+          "id": "rangkuman",
+          "page": 48
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-noni-contrast",
+      "concept": "noni-contrast",
+      "category": "connectors",
+      "subcategory": "Hasil berlawanan harapan",
+      "title": "～のに（逆接）",
+      "kana": "のに",
+      "romaji": "noni",
+      "meaning": "Padahal; meskipun ternyata",
+      "explanation": "のに menghubungkan kenyataan dengan hasil yang berbeda dari harapan. Sering disertai rasa heran, kecewa, atau tidak puas. Bagian setelahnya biasanya menyatakan hasil atau keadaan, bukan ajakan atau perintah.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + のに",
+        "Sifat-na / N + なのに"
+      ],
+      "note": "Pola ini berbeda dari V kamus＋のに untuk fungsi atau kebutuhan. 雨なのに出かけた berarti padahal hujan, tetap keluar.",
+      "examples": [
+        {
+          "jp": "たくさん勉強したのに、試験に落ちました。",
+          "kana": "たくさん べんきょう した のに、しけん に おちました。",
+          "meaning": "Padahal sudah banyak belajar, saya tidak lulus ujian."
+        },
+        {
+          "jp": "日曜日なのに、仕事があります。",
+          "kana": "にちようび な のに、しごと が あります。",
+          "meaning": "Padahal hari Minggu, saya harus bekerja."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 69,
+      "sources": [
+        {
+          "id": "master",
+          "page": 141
+        },
+        {
+          "id": "master",
+          "page": 142
+        },
+        {
+          "id": "all",
+          "page": 45
+        },
+        {
+          "id": "rangkuman",
+          "page": 49
+        }
+      ],
+      "check": {
+        "prompt": "Pilih “padahal hari libur”.",
+        "options": [
+          "休みなのに",
+          "休みだのに"
+        ],
+        "answer": 0,
+        "explanation": "Kata benda diikuti なのに, bukan だのに."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-temo",
+      "concept": "temo",
+      "category": "connectors",
+      "subcategory": "Syarat yang tidak mengubah hasil",
+      "title": "～ても・～でも",
+      "kana": "ても・でも",
+      "romaji": "temo / demo",
+      "meaning": "Meskipun; sekalipun",
+      "explanation": "ても menyatakan bahwa hasil atau keputusan tidak berubah walaupun suatu keadaan terjadi. Berbeda dari のに, keadaan sebelum ても boleh berupa dugaan yang belum terjadi.",
+      "patterns": [
+        "Vて + も",
+        "Sifat-i: い → くても",
+        "Sifat-na / N + でも",
+        "V negatif: ない → なくても"
+      ],
+      "note": "ここで でも menyambung kata benda atau sifat-na, bukan menawarkan contoh seperti お茶でも. Bentuk negatif yang benar 行かなくても, bukan 行かないくても.",
+      "examples": [
+        {
+          "jp": "雨が降っても、行きます。",
+          "kana": "あめ が ふって も、いきます。",
+          "meaning": "Meskipun hujan, saya akan pergi."
+        },
+        {
+          "jp": "高くても、必要なら買います。",
+          "kana": "たかくて も、ひつよう なら かいます。",
+          "meaning": "Sekalipun mahal, kalau perlu saya akan membelinya."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 70,
+      "sources": [
+        {
+          "id": "master",
+          "page": 236
+        },
+        {
+          "id": "master",
+          "page": 237
+        },
+        {
+          "id": "master",
+          "page": 238
+        },
+        {
+          "id": "all",
+          "page": 46
+        },
+        {
+          "id": "rangkuman",
+          "page": 41
+        },
+        {
+          "id": "rangkuman",
+          "page": 46
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-shi",
+      "concept": "shi",
+      "category": "connectors",
+      "subcategory": "Beberapa alasan atau sifat",
+      "title": "～し、～し",
+      "kana": "し",
+      "romaji": "shi",
+      "meaning": "Selain … juga …; menyebut beberapa alasan",
+      "explanation": "し menyusun beberapa sifat, fakta, atau alasan. Penggunaannya memberi kesan masih ada hal lain yang dapat ditambahkan. Tidak menetapkan urutan kejadian.",
+      "patterns": [
+        "Bentuk biasa + し",
+        "Sifat-na / N + だし",
+        "Bentuk sopan + し"
+      ],
+      "note": "Boleh memakai satu し ketika alasan lain sudah tersirat. ～たり pada N5 menyebut contoh kegiatan, sedangkan ～し dapat menghubungkan alasan atau penilaian.",
+      "examples": [
+        {
+          "jp": "この店は安いし、おいしいし、よく来ます。",
+          "kana": "この みせ は やすい し、おいしい し、よく きます。",
+          "meaning": "Karena toko ini murah dan enak, saya sering datang."
+        },
+        {
+          "jp": "今日は休みだし、ゆっくりしましょう。",
+          "kana": "きょう は やすみ だ し、ゆっくり しましょう。",
+          "meaning": "Hari ini juga libur, jadi ayo santai saja."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 71,
+      "sources": [
+        {
+          "id": "master",
+          "page": 174
+        },
+        {
+          "id": "master",
+          "page": 175
+        },
+        {
+          "id": "master",
+          "page": 176
+        },
+        {
+          "id": "all",
+          "page": 9
+        },
+        {
+          "id": "all",
+          "page": 10
+        },
+        {
+          "id": "rangkuman",
+          "page": 47
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-te-cause",
+      "concept": "te-cause",
+      "category": "connectors",
+      "subcategory": "Sebab dan akibat alami",
+      "title": "～て・～で（原因）",
+      "kana": "て・で",
+      "romaji": "te / de",
+      "meaning": "Karena suatu keadaan, hasil tertentu terjadi",
+      "explanation": "Bentuk て／で dapat menghubungkan penyebab dengan akibat seperti perasaan, keadaan, atau ketidakmampuan. Bagian akhir lazim berupa hasil yang timbul secara alami, bukan niat, perintah, atau ajakan.",
+      "patterns": [
+        "Vて / Vなくて、hasil",
+        "Sifat-i: い → くて、hasil",
+        "Sifat-na / N + で、hasil"
+      ],
+      "note": "Ini fungsi sebab, bukan sekadar rangkaian tindakan atau penyambung sifat pada N5. Untuk alasan yang diikuti ajakan, gunakan から／ので.",
+      "examples": [
+        {
+          "jp": "ニュースを聞いて、びっくりしました。",
+          "kana": "ニュース を きいて、びっくり しました。",
+          "meaning": "Saya terkejut karena mendengar berita itu."
+        },
+        {
+          "jp": "道が混んでいて、遅れました。",
+          "kana": "みち が こんで いて、おくれました。",
+          "meaning": "Saya terlambat karena jalanan macet."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 72,
+      "sources": [
+        {
+          "id": "master",
+          "page": 203
+        },
+        {
+          "id": "master",
+          "page": 204
+        },
+        {
+          "id": "all",
+          "page": 6
+        },
+        {
+          "id": "all",
+          "page": 14
+        },
+        {
+          "id": "all",
+          "page": 15
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-noni-purpose",
+      "concept": "noni-purpose",
+      "category": "connectors",
+      "subcategory": "Fungsi dan kebutuhan",
+      "title": "～のに（用途）",
+      "kana": "のに",
+      "romaji": "noni",
+      "meaning": "Untuk melakukan; dalam melakukan",
+      "explanation": "V kamus＋のに menjadikan kegiatan sebagai sasaran fungsi, penilaian kegunaan, atau kebutuhan biaya dan waktu. Setelahnya sering muncul 使う, 便利, 必要, atau かかる.",
+      "patterns": [
+        "V kamus + のに + 使います / 便利です",
+        "V kamus + のに + waktu / biaya + かかります"
+      ],
+      "note": "Jangan samakan dengan のに yang berarti padahal. 本を読むのに便利 berarti berguna untuk membaca buku.",
+      "examples": [
+        {
+          "jp": "この道具は野菜を切るのに使います。",
+          "kana": "この どうぐ は やさい を きる のに つかいます。",
+          "meaning": "Alat ini dipakai untuk memotong sayuran."
+        },
+        {
+          "jp": "駅まで歩くのに十分かかります。",
+          "kana": "えき まで あるく のに じゅっぷん かかります。",
+          "meaning": "Berjalan ke stasiun membutuhkan sepuluh menit."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 73,
+      "sources": [
+        {
+          "id": "master",
+          "page": 143
+        },
+        {
+          "id": "master",
+          "page": 144
+        },
+        {
+          "id": "all",
+          "page": 41
+        },
+        {
+          "id": "rangkuman",
+          "page": 12
+        }
+      ],
+      "check": {
+        "prompt": "Apa fungsi のに dalam この道具は切るのに使います？",
+        "options": [
+          "Padahal.",
+          "Untuk memotong."
+        ],
+        "answer": 1,
+        "explanation": "使います menjelaskan kegunaan alat, sehingga のに berarti untuk."
+      },
+      "searchTerms": []
+    },
+    {
+      "id": "n4-soredemo",
+      "concept": "soredemo",
+      "category": "connectors",
+      "subcategory": "Tetap berlawanan",
+      "title": "それでも",
+      "kana": "それでも",
+      "romaji": "soredemo",
+      "meaning": "Meskipun begitu; tetap saja",
+      "explanation": "それでも menghubungkan kalimat sebelumnya dengan tindakan atau hasil yang tetap terjadi meskipun ada hambatan. Menyoroti bahwa keadaan sebelumnya tidak mengubah hasil.",
+      "patterns": [
+        "Kalimat A。それでも、kalimat B。"
+      ],
+      "note": "Berbeda dari それで yang berarti karena itu. でも sebagai kata penghubung dasar sudah ada di N5; それでも menambahkan makna tetap demikian walaupun ada keadaan tadi.",
+      "examples": [
+        {
+          "jp": "昨日はよく寝ました。それでも、まだ眠いです。",
+          "kana": "きのう は よく ねました。それでも、まだ ねむい です。",
+          "meaning": "Kemarin saya tidur cukup. Meskipun begitu, saya masih mengantuk."
+        },
+        {
+          "jp": "難しいです。それでも、やってみます。",
+          "kana": "むずかしい です。それでも、やって みます。",
+          "meaning": "Ini sulit. Meski begitu, saya akan mencobanya."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 74,
+      "sources": [
+        {
+          "id": "master",
+          "page": 179
+        },
+        {
+          "id": "master",
+          "page": 180
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-soreni",
+      "concept": "soreni",
+      "category": "connectors",
+      "subcategory": "Tambahan alasan",
+      "title": "それに・そのうえ",
+      "kana": "それに・そのうえ",
+      "romaji": "soreni / sonoue",
+      "meaning": "Selain itu; ditambah lagi",
+      "explanation": "それに dan そのうえ menambahkan fakta yang memperkuat arah penilaian sebelumnya. Kedua informasi biasanya sama-sama mendukung kesan baik atau sama-sama menunjukkan masalah.",
+      "patterns": [
+        "Kalimat A。それに、kalimat B。",
+        "Kalimat A。そのうえ、kalimat B。"
+      ],
+      "note": "そして pada N5 menghubungkan informasi secara umum. それに／そのうえ lebih menonjolkan tambahan yang menguatkan.",
+      "examples": [
+        {
+          "jp": "この部屋は広いです。それに、明るいです。",
+          "kana": "この へや は ひろい です。それに、あかるい です。",
+          "meaning": "Kamar ini luas. Selain itu, terang."
+        },
+        {
+          "jp": "雨が降っていました。そのうえ、風も強かったです。",
+          "kana": "あめ が ふって いました。そのうえ、かぜ も つよかった です。",
+          "meaning": "Saat itu hujan. Ditambah lagi, anginnya kencang."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 75,
+      "sources": [
+        {
+          "id": "all",
+          "page": 48
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-embedded-ka",
+      "concept": "embedded-ka",
+      "category": "connectors",
+      "subcategory": "Pertanyaan dalam kalimat",
+      "title": "疑問詞＋～か",
+      "kana": "ぎもんしとか",
+      "romaji": "gimonshitoka",
+      "meaning": "Menyisipkan isi pertanyaan ke dalam kalimat",
+      "explanation": "Pertanyaan dengan kata tanya dapat menjadi bagian dari kalimat lebih besar. Gunakan bentuk biasa lalu か; setelahnya dapat diikuti わかる, 知る, 調べる, atau 教える. Tidak memakai ですか di dalam bagian pertanyaan itu.",
+      "patterns": [
+        "Kata tanya + V / sifat-i bentuk biasa + か",
+        "Kata tanya + sifat-na / N（tanpa だ）+ か"
+      ],
+      "note": "これは 何か berbeda konteks dengan 何かありますか pada N5. Materi ini menempatkan isi pertanyaan seperti di mana tinggal sebagai satu bagian kalimat.",
+      "examples": [
+        {
+          "jp": "会議が何時に始まるか、教えてください。",
+          "kana": "かいぎ が なんじ に はじまる か、おしえて ください。",
+          "meaning": "Tolong beri tahu rapat mulai pukul berapa."
+        },
+        {
+          "jp": "どの店が安いか、調べます。",
+          "kana": "どの みせ が やすい か、しらべます。",
+          "meaning": "Saya akan mencari tahu toko mana yang murah."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 76,
+      "sources": [
+        {
+          "id": "all",
+          "page": 39
+        },
+        {
+          "id": "rangkuman",
+          "page": 49
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-ka-douka",
+      "concept": "ka-douka",
+      "category": "connectors",
+      "subcategory": "Apakah atau tidak",
+      "title": "～かどうか",
+      "kana": "かどうか",
+      "romaji": "kadouka",
+      "meaning": "Apakah suatu hal benar atau tidak",
+      "explanation": "かどうか memasukkan pertanyaan ya/tidak ke dalam kalimat lain. Tidak memerlukan kata tanya seperti いつ atau どこ. Setelah bagian itu, katakan apakah sudah tahu, akan memeriksa, atau masih belum jelas.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + かどうか",
+        "Sifat-na / N（tanpa だ）+ かどうか"
+      ],
+      "note": "Untuk pertanyaan dengan kata tanya, cukup gunakan ～か. Jangan menulis どこかどうか ketika maksudnya di mana.",
+      "examples": [
+        {
+          "jp": "明日行けるかどうか、まだわかりません。",
+          "kana": "あした いける か どう か、まだ わかりません。",
+          "meaning": "Saya belum tahu apakah besok bisa pergi atau tidak."
+        },
+        {
+          "jp": "この店が日曜日も開いているかどうか、確認します。",
+          "kana": "この みせ が にちようび も あいて いる か どう か、かくにん します。",
+          "meaning": "Saya akan memastikan apakah toko ini juga buka hari Minggu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 77,
+      "sources": [
+        {
+          "id": "master",
+          "page": 67
+        },
+        {
+          "id": "master",
+          "page": 68
+        },
+        {
+          "id": "all",
+          "page": 38
+        },
+        {
+          "id": "rangkuman",
+          "page": 49
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-to-omou",
+      "concept": "to-omou",
+      "category": "connectors",
+      "subcategory": "Pendapat dan perkiraan",
+      "title": "～と思う",
+      "kana": "とおもう",
+      "romaji": "toomou",
+      "meaning": "Berpikir bahwa; berpendapat",
+      "explanation": "と diikuti 思う menyatakan isi pikiran atau penilaian. Bagian yang dipikirkan memakai bentuk biasa. Kata benda dan sifat-na positif masa kini memerlukan だ sebelum と.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + と思います",
+        "Sifat-na / N + だと思います"
+      ],
+      "note": "Untuk niat melakukan, pakai bentuk kehendak＋と思う. 行くと思う berarti mengira akan pergi, sedangkan 行こうと思う berarti berniat pergi.",
+      "examples": [
+        {
+          "jp": "この方法がいいと思います。",
+          "kana": "この ほうほう が いい と おもいます。",
+          "meaning": "Saya rasa cara ini bagus."
+        },
+        {
+          "jp": "明日は雨だと思います。",
+          "kana": "あした は あめ だ と おもいます。",
+          "meaning": "Saya kira besok hujan."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 78,
+      "sources": [
+        {
+          "id": "master",
+          "page": 252
+        },
+        {
+          "id": "master",
+          "page": 253
+        },
+        {
+          "id": "rangkuman",
+          "page": 45
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-toiu-label",
+      "concept": "toiu-label",
+      "category": "connectors",
+      "subcategory": "Nama dan sebutan",
+      "title": "～というN・～っていうN",
+      "kana": "という・っていう",
+      "romaji": "toiu / tteiu",
+      "meaning": "Benda atau hal yang bernama atau disebut …",
+      "explanation": "という menghubungkan nama, sebutan, atau istilah dengan jenis bendanya. Bentuk percakapan ～っていう／～って memiliki fungsi serupa untuk memberi label.",
+      "patterns": [
+        "Nama / sebutan + という + N",
+        "Nama / sebutan + っていう + N"
+      ],
+      "note": "Ini perluasan menjadi keterangan kata benda, berbeda dari ～と言います pada N5 untuk mengutip ucapan atau memperkenalkan nama. Bentuk って lebih santai.",
+      "examples": [
+        {
+          "jp": "「いろどり」という本を使っています。",
+          "kana": "いろどり と いう ほん を つかって います。",
+          "meaning": "Saya memakai buku yang berjudul Irodori."
+        },
+        {
+          "jp": "おにぎりっていう食べ物を知っていますか。",
+          "kana": "おにぎり って いう たべもの を しって います か。",
+          "meaning": "Apakah kamu tahu makanan yang disebut onigiri?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 79,
+      "sources": [
+        {
+          "id": "master",
+          "page": 243
+        },
+        {
+          "id": "master",
+          "page": 244
+        },
+        {
+          "id": "master",
+          "page": 245
+        },
+        {
+          "id": "master",
+          "page": 261
+        },
+        {
+          "id": "master",
+          "page": 262
+        },
+        {
+          "id": "all",
+          "page": 34
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-toiu-koto",
+      "concept": "toiu-koto",
+      "category": "connectors",
+      "subcategory": "Isi suatu hal",
+      "title": "～ということ",
+      "kana": "ということ",
+      "romaji": "toiukoto",
+      "meaning": "Hal bahwa; isi yang dimaksud",
+      "explanation": "ということ membungkus isi kalimat sebagai hal yang dibicarakan. Dipakai untuk menjelaskan informasi, memahami maksud, atau menyampaikan bahwa suatu fakta diketahui.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + ということ",
+        "Sifat-na / N + だということ"
+      ],
+      "note": "Jangan menyamakan semua こと dengan pola ini. Vこと pada N5 membendakan kegiatan; ～ということ di sini merangkum isi pernyataan.",
+      "examples": [
+        {
+          "jp": "試験が来週だということを知りませんでした。",
+          "kana": "しけん が らいしゅう だ と いう こと を しりません でした。",
+          "meaning": "Saya tidak tahu bahwa ujiannya minggu depan."
+        },
+        {
+          "jp": "つまり、今日は休みだということですね。",
+          "kana": "つまり、きょう は やすみ だ と いう こと です ね。",
+          "meaning": "Jadi maksudnya hari ini libur, ya."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 80,
+      "sources": [
+        {
+          "id": "master",
+          "page": 246
+        },
+        {
+          "id": "master",
+          "page": 247
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-toittemo-ii",
+      "concept": "toittemo-ii",
+      "category": "connectors",
+      "subcategory": "Penilaian yang dapat dikatakan",
+      "title": "～と言ってもいい",
+      "kana": "といってもいい",
+      "romaji": "toittemoii",
+      "meaning": "Boleh dikatakan; bisa dibilang",
+      "explanation": "Pola ini menilai bahwa suatu pernyataan layak atau tidak berlebihan untuk diucapkan. Pembicara menyatakan kesimpulan dengan ungkapan boleh dikatakan, bukan meminta izin sungguhan untuk berbicara.",
+      "patterns": [
+        "Bentuk biasa + と言ってもいい"
+      ],
+      "note": "Berbeda dari izin tindakan Vてもいい. Isi kalimat sebelum と adalah penilaian yang ingin disampaikan.",
+      "examples": [
+        {
+          "jp": "この町は第二の故郷だと言ってもいいです。",
+          "kana": "この まち は だいに の ふるさと だ と いって も いい です。",
+          "meaning": "Kota ini bisa dibilang kampung halaman kedua saya."
+        },
+        {
+          "jp": "準備は終わったと言ってもいいでしょう。",
+          "kana": "じゅんび は おわった と いって も いい でしょう。",
+          "meaning": "Boleh dikatakan persiapannya sudah selesai."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 81,
+      "sources": [
+        {
+          "id": "master",
+          "page": 241
+        },
+        {
+          "id": "master",
+          "page": 242
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-toka",
+      "concept": "toka",
+      "category": "connectors",
+      "subcategory": "Contoh yang tidak lengkap",
+      "title": "～とか～とか",
+      "kana": "とか",
+      "romaji": "toka",
+      "meaning": "Seperti A dan B; menyebut beberapa contoh",
+      "explanation": "とか menyebut anggota contoh tanpa membuat daftar lengkap. Lazim dalam percakapan. Dapat mengikuti kata benda maupun bentuk biasa untuk memberikan contoh kegiatan atau keadaan.",
+      "patterns": [
+        "N + とか + N + とか",
+        "Bentuk biasa + とか + bentuk biasa + とか"
+      ],
+      "note": "や pada N5 terutama menghubungkan contoh kata benda. とか lebih berciri percakapan dan dapat dipakai pada contoh berbentuk klausa.",
+      "examples": [
+        {
+          "jp": "週末は本を読むとか、映画を見るとかしています。",
+          "kana": "しゅうまつ は ほん を よむ とか、えいが を みる とか して います。",
+          "meaning": "Saat akhir pekan, saya melakukan hal seperti membaca buku atau menonton film."
+        },
+        {
+          "jp": "お茶とか水とかがあります。",
+          "kana": "おちゃ とか みず とか が あります。",
+          "meaning": "Ada minuman seperti teh dan air."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 82,
+      "sources": [
+        {
+          "id": "master",
+          "page": 254
+        },
+        {
+          "id": "master",
+          "page": 255
+        },
+        {
+          "id": "all",
+          "page": 7
+        },
+        {
+          "id": "rangkuman",
+          "page": 11
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-matawa",
+      "concept": "matawa",
+      "category": "connectors",
+      "subcategory": "Alternatif dalam petunjuk",
+      "title": "または",
+      "kana": "または",
+      "romaji": "mataha",
+      "meaning": "Atau; pilihan satu di antara alternatif",
+      "explanation": "または menghubungkan pilihan yang dapat dipakai sebagai alternatif. Lebih lazim dalam petunjuk tertulis, pengumuman, atau penjelasan resmi daripada percakapan santai.",
+      "patterns": [
+        "A + または + B"
+      ],
+      "note": "AかB sebagai pilihan dasar sudah ada di N5. または digunakan di sini untuk gaya petunjuk yang lebih formal; bukan berarti kedua pilihan harus dilakukan sekaligus.",
+      "examples": [
+        {
+          "jp": "鉛筆またはペンで書いてください。",
+          "kana": "えんぴつ または ペン で かいて ください。",
+          "meaning": "Tulislah dengan pensil atau pena."
+        },
+        {
+          "jp": "月曜日または火曜日に来てください。",
+          "kana": "げつようび または かようび に きて ください。",
+          "meaning": "Datanglah pada hari Senin atau Selasa."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 83,
+      "sources": [
+        {
+          "id": "master",
+          "page": 103
+        },
+        {
+          "id": "master",
+          "page": 104
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tokorode",
+      "concept": "tokorode",
+      "category": "connectors",
+      "subcategory": "Mengalihkan topik",
+      "title": "ところで",
+      "kana": "ところで",
+      "romaji": "tokorode",
+      "meaning": "Ngomong-ngomong; beralih ke topik lain",
+      "explanation": "ところで memperkenalkan topik baru yang tidak harus menjadi akibat atau kelanjutan langsung dari kalimat sebelumnya. Lazim dipakai untuk beralih pembicaraan dengan tetap menyapa lawan bicara.",
+      "patterns": [
+        "Pembicaraan sebelumnya。ところで、topik baru。"
+      ],
+      "note": "Bedakan dari それで yang melanjutkan akibat atau meminta kelanjutan cerita. Jangan memotong pembicaraan penting secara tiba-tiba hanya dengan kata ini.",
+      "examples": [
+        {
+          "jp": "ところで、明日の会議は何時ですか。",
+          "kana": "ところで、あした の かいぎ は なんじ です か。",
+          "meaning": "Ngomong-ngomong, rapat besok pukul berapa?"
+        },
+        {
+          "jp": "ところで、もう昼ご飯を食べましたか。",
+          "kana": "ところで、もう ひるごはん を たべました か。",
+          "meaning": "Ngomong-ngomong, apakah kamu sudah makan siang?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 84,
+      "sources": [
+        {
+          "id": "all",
+          "page": 49
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-tatoeba",
+      "concept": "tatoeba",
+      "category": "connectors",
+      "subcategory": "Memberi contoh konkret",
+      "title": "例えば",
+      "kana": "たとえば",
+      "romaji": "tatoeba",
+      "meaning": "Misalnya; sebagai contoh",
+      "explanation": "例えば membuka contoh konkret untuk membantu menjelaskan pernyataan umum. Sesudahnya, sebutkan contoh yang benar-benar termasuk dalam kelompok atau gagasan tadi.",
+      "patterns": [
+        "Pernyataan umum。例えば、contoh。"
+      ],
+      "note": "Bedakan dari とか／や yang menyusun anggota daftar. 例えば dapat memperkenalkan satu kalimat contoh lengkap.",
+      "examples": [
+        {
+          "jp": "果物が好きです。例えば、りんごやみかんです。",
+          "kana": "くだもの が すき です。たとえば、りんご や みかん です。",
+          "meaning": "Saya suka buah-buahan, misalnya apel dan jeruk."
+        },
+        {
+          "jp": "例えば、こんな方法もあります。",
+          "kana": "たとえば、こんな ほうほう も あります。",
+          "meaning": "Sebagai contoh, ada juga cara seperti ini."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 85,
+      "sources": [
+        {
+          "id": "all",
+          "page": 49
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-sou-appearance",
+      "concept": "sou-appearance",
+      "category": "inference",
+      "subcategory": "Kesan dari pengamatan",
+      "title": "～そうだ（様態）",
+      "kana": "そうだ",
+      "romaji": "souda",
+      "meaning": "Kelihatannya; tampaknya akan",
+      "explanation": "そうだ ini menyatakan kesan dari hal yang terlihat atau tanda yang sedang diamati. Pada kata kerja, gunakan pangkal ます untuk menunjukkan sesuatu tampak akan terjadi. Pada sifat, buang い atau な terlebih dahulu.",
+      "patterns": [
+        "Vます: buang ます + そうです",
+        "Sifat-i: buang い + そうです",
+        "Sifat-na: tanpa な + そうです",
+        "～そうな + N / ～そうに + V"
+      ],
+      "note": "いい→よさそう dan ない→なさそう. Jangan samakan おいしそう dengan おいしいそう: yang pertama kelihatannya enak, yang kedua katanya enak. Untuk sifat yang terlihat langsung seperti merah, biasanya tidak cukup sekadar menggantinya dengan そう.",
+      "examples": [
+        {
+          "jp": "雨が降りそうです。",
+          "kana": "あめ が ふりそう です。",
+          "meaning": "Kelihatannya akan hujan."
+        },
+        {
+          "jp": "このケーキはおいしそうですね。",
+          "kana": "この ケーキ は おいしそう です ね。",
+          "meaning": "Kue ini kelihatannya enak, ya."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 86,
+      "sources": [
+        {
+          "id": "master",
+          "page": 183
+        },
+        {
+          "id": "master",
+          "page": 184
+        },
+        {
+          "id": "master",
+          "page": 185
+        },
+        {
+          "id": "master",
+          "page": 186
+        },
+        {
+          "id": "all",
+          "page": 62
+        },
+        {
+          "id": "rangkuman",
+          "page": 48
+        }
+      ],
+      "table": {
+        "headers": [
+          "Dasar",
+          "Kesan visual"
+        ],
+        "rows": [
+          [
+            "おいしい",
+            "おいしそう"
+          ],
+          [
+            "元気",
+            "元気そう"
+          ],
+          [
+            "いい",
+            "よさそう"
+          ],
+          [
+            "ない",
+            "なさそう"
+          ],
+          [
+            "雨が降ります",
+            "雨が降りそう"
+          ]
+        ]
+      },
+      "check": {
+        "prompt": "Pilih “kelihatannya enak”.",
+        "options": [
+          "おいしそうです。",
+          "おいしいそうです。"
+        ],
+        "answer": 0,
+        "explanation": "Kesan visual membuang い. Bentuk おいしいそう melaporkan kabar."
+      },
+      "searchTerms": [
+        "sou na",
+        "sou ni",
+        "そうな",
+        "そうに"
+      ]
+    },
+    {
+      "id": "n4-sou-hearsay",
+      "concept": "sou-hearsay",
+      "category": "inference",
+      "subcategory": "Informasi yang didengar",
+      "title": "～そうだ（伝聞）",
+      "kana": "そうだ",
+      "romaji": "souda",
+      "meaning": "Katanya; menurut kabar yang diperoleh",
+      "explanation": "そうだ ini melaporkan informasi yang didengar atau dibaca, bukan kesan visual langsung. Pertahankan bentuk biasa kalimat asal, lalu tambahkan そうです. Sumber informasi dapat diperkenalkan dengan ～によると.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + そうです",
+        "Sifat-na / N + だそうです",
+        "Isi + と聞きました / と言われています"
+      ],
+      "note": "と聞きました menjelaskan bahwa pembicara mendengar isi itu; と言われています menyampaikan hal yang dikatakan secara umum. Ketiganya dibahas bersama sebagai cara melaporkan kabar, bukan kartu berulang.",
+      "examples": [
+        {
+          "jp": "天気予報によると、明日は雨だそうです。",
+          "kana": "てんきよほう に よる と、あした は あめ だ そう です。",
+          "meaning": "Menurut ramalan cuaca, katanya besok hujan."
+        },
+        {
+          "jp": "この店は安いと聞きました。",
+          "kana": "この みせ は やすい と ききました。",
+          "meaning": "Saya mendengar bahwa toko ini murah."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 87,
+      "sources": [
+        {
+          "id": "master",
+          "page": 181
+        },
+        {
+          "id": "master",
+          "page": 182
+        },
+        {
+          "id": "master",
+          "page": 248
+        },
+        {
+          "id": "master",
+          "page": 249
+        },
+        {
+          "id": "master",
+          "page": 250
+        },
+        {
+          "id": "master",
+          "page": 251
+        },
+        {
+          "id": "all",
+          "page": 63
+        },
+        {
+          "id": "rangkuman",
+          "page": 48
+        }
+      ],
+      "table": {
+        "headers": [
+          "Kalimat asal",
+          "Melaporkan kabar"
+        ],
+        "rows": [
+          [
+            "雨が降る",
+            "雨が降るそうです"
+          ],
+          [
+            "おいしい",
+            "おいしいそうです"
+          ],
+          [
+            "元気だ",
+            "元気だそうです"
+          ],
+          [
+            "休みだ",
+            "休みだそうです"
+          ]
+        ]
+      },
+      "check": {
+        "prompt": "Pilih “katanya hari ini libur”.",
+        "options": [
+          "今日は休みそうです。",
+          "今日は休みだそうです。"
+        ],
+        "answer": 1,
+        "explanation": "Kabar mempertahankan だ setelah kata benda."
+      },
+      "searchTerms": [
+        "to iwareteiru",
+        "to kiita",
+        "といわれている",
+        "ときいた"
+      ]
+    },
+    {
+      "id": "n4-you-mitai",
+      "concept": "you-mitai",
+      "category": "inference",
+      "subcategory": "Dugaan dan kemiripan",
+      "title": "～ようだ・～みたいだ",
+      "kana": "ようだ・みたいだ",
+      "romaji": "youda / mitaida",
+      "meaning": "Sepertinya; mirip atau seperti",
+      "explanation": "ようだ menyatakan kesimpulan dari petunjuk yang ada atau kemiripan dengan sesuatu. みたいだ mempunyai penggunaan serupa dan lebih berciri percakapan. Bentuk sebelum kata benda menjadi ような／みたいな; sebelum tindakan menjadi ように／みたいに.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + ようです",
+        "Sifat-na + なようです / N + のようです",
+        "V / sifat-i bentuk biasa + みたいです",
+        "Sifat-na / N（tanpa だ／な）+ みたいです"
+      ],
+      "note": "Untuk ようだ, kata benda memakai の dan sifat-na memakai な. Untuk みたいだ, keduanya langsung diikuti みたい. Bedakan ように yang berarti seperti dari ように tujuan yang berarti agar.",
+      "examples": [
+        {
+          "jp": "誰もいないようです。",
+          "kana": "だれ も いない よう です。",
+          "meaning": "Sepertinya tidak ada siapa-siapa."
+        },
+        {
+          "jp": "この雲は魚みたいな形ですね。",
+          "kana": "この くも は さかな みたいな かたち です ね。",
+          "meaning": "Awan ini bentuknya seperti ikan, ya."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 88,
+      "sources": [
+        {
+          "id": "master",
+          "page": 105
+        },
+        {
+          "id": "master",
+          "page": 106
+        },
+        {
+          "id": "master",
+          "page": 107
+        },
+        {
+          "id": "master",
+          "page": 108
+        },
+        {
+          "id": "master",
+          "page": 109
+        },
+        {
+          "id": "master",
+          "page": 110
+        },
+        {
+          "id": "master",
+          "page": 277
+        },
+        {
+          "id": "master",
+          "page": 278
+        },
+        {
+          "id": "master",
+          "page": 279
+        },
+        {
+          "id": "master",
+          "page": 280
+        },
+        {
+          "id": "all",
+          "page": 60
+        },
+        {
+          "id": "all",
+          "page": 61
+        },
+        {
+          "id": "rangkuman",
+          "page": 47
+        }
+      ],
+      "table": {
+        "headers": [
+          "Dasar",
+          "ようだ",
+          "みたいだ"
+        ],
+        "rows": [
+          [
+            "学生",
+            "学生のようだ",
+            "学生みたいだ"
+          ],
+          [
+            "元気",
+            "元気なようだ",
+            "元気みたいだ"
+          ],
+          [
+            "来る",
+            "来るようだ",
+            "来るみたいだ"
+          ]
+        ]
+      },
+      "check": {
+        "prompt": "Pilih bentuk yang benar.",
+        "options": [
+          "学生なようです。",
+          "学生のようです。"
+        ],
+        "answer": 1,
+        "explanation": "Kata benda memakai の sebelum ようです."
+      },
+      "searchTerms": [
+        "mitai na",
+        "mitai ni",
+        "you na",
+        "you ni",
+        "みたいな",
+        "みたいに",
+        "ような",
+        "ように"
+      ]
+    },
+    {
+      "id": "n4-rashii",
+      "concept": "rashii",
+      "category": "inference",
+      "subcategory": "Kabar dan petunjuk tidak langsung",
+      "title": "～らしい",
+      "kana": "らしい",
+      "romaji": "rashii",
+      "meaning": "Kabarnya; tampaknya berdasarkan informasi",
+      "explanation": "らしい menyatakan dugaan berdasarkan informasi yang didapat atau petunjuk tidak langsung. Sering dapat diterjemahkan kabarnya atau tampaknya, dengan jarak antara pembicara dan kepastian faktanya.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + らしいです",
+        "Sifat-na / N（tanpa だ）+ らしいです"
+      ],
+      "note": "Ini penggunaan dugaan. Nらしい juga dapat berarti khas atau sesuai sifat N, tetapi fungsi itu perlu dibedakan dari melaporkan kabar.",
+      "examples": [
+        {
+          "jp": "駅の近くに新しい店ができるらしいです。",
+          "kana": "えき の ちかく に あたらしい みせ が できる らしい です。",
+          "meaning": "Kabarnya akan ada toko baru di dekat stasiun."
+        },
+        {
+          "jp": "外の道がぬれています。雨が降ったらしいです。",
+          "kana": "そと の みち が ぬれて います。あめ が ふった らしい です。",
+          "meaning": "Jalan di luar basah. Tampaknya tadi hujan."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 89,
+      "sources": [
+        {
+          "id": "master",
+          "page": 159
+        },
+        {
+          "id": "master",
+          "page": 160
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-hazu",
+      "concept": "hazu",
+      "category": "inference",
+      "subcategory": "Kesimpulan beralasan",
+      "title": "～はずだ・～はずがない",
+      "kana": "はずだ・はずがない",
+      "romaji": "hazuda / hazuganai",
+      "meaning": "Seharusnya; tidak mungkin berdasarkan alasan",
+      "explanation": "はずだ menyampaikan kesimpulan yang dirasa masuk akal berdasarkan fakta atau jadwal. はずがない menolak kemungkinan karena bertentangan dengan informasi yang dipercaya. Ini penilaian beralasan, bukan kewajiban.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + はずです",
+        "Sifat-na + なはずです / N + のはずです",
+        "Bentuk yang sama + はずがありません"
+      ],
+      "note": "来ないはず berarti diperkirakan tidak datang. 来るはずがない berarti tidak mungkin datang. Jangan menerjemahkan semua はず sebagai harus.",
+      "examples": [
+        {
+          "jp": "電車は五時に着くはずです。",
+          "kana": "でんしゃ は ごじ に つく はず です。",
+          "meaning": "Menurut jadwal, keretanya seharusnya tiba pukul lima."
+        },
+        {
+          "jp": "まだ子どもなので、車を運転できるはずがありません。",
+          "kana": "まだ こども な ので、くるま を うんてん できる はず が ありません。",
+          "meaning": "Karena masih anak-anak, tidak mungkin dia bisa mengemudikan mobil."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 90,
+      "sources": [
+        {
+          "id": "master",
+          "page": 51
+        },
+        {
+          "id": "master",
+          "page": 52
+        },
+        {
+          "id": "master",
+          "page": 53
+        },
+        {
+          "id": "master",
+          "page": 54
+        },
+        {
+          "id": "rangkuman",
+          "page": 50
+        }
+      ],
+      "searchTerms": [
+        "hazu ga nai",
+        "はずがない"
+      ]
+    },
+    {
+      "id": "n4-kamo",
+      "concept": "kamo",
+      "category": "inference",
+      "subcategory": "Kemungkinan",
+      "title": "～かもしれない",
+      "kana": "かもしれない",
+      "romaji": "kamoshirenai",
+      "meaning": "Mungkin; ada kemungkinan",
+      "explanation": "かもしれない menyebut suatu kemungkinan tanpa memastikannya. Bentuk sopannya かもしれません. Kata benda dan sifat-na positif masa kini tidak memakai だ sebelum pola ini.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + かもしれません",
+        "Sifat-na / N（tanpa だ）+ かもしれません"
+      ],
+      "note": "Tidak perlu memberi persentase kemungkinan tertentu. Konteks menentukan seberapa kuat dugaan pembicara.",
+      "examples": [
+        {
+          "jp": "明日は雪が降るかもしれません。",
+          "kana": "あした は ゆき が ふる かも しれません。",
+          "meaning": "Besok mungkin turun salju."
+        },
+        {
+          "jp": "あの人は先生かもしれません。",
+          "kana": "あの ひと は せんせい かも しれません。",
+          "meaning": "Orang itu mungkin guru."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 91,
+      "sources": [
+        {
+          "id": "master",
+          "page": 73
+        },
+        {
+          "id": "master",
+          "page": 74
+        },
+        {
+          "id": "all",
+          "page": 65
+        },
+        {
+          "id": "rangkuman",
+          "page": 45
+        },
+        {
+          "id": "rangkuman",
+          "page": 48
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-darou",
+      "concept": "darou",
+      "category": "inference",
+      "subcategory": "Perkiraan dan konfirmasi",
+      "title": "～でしょう・～だろう",
+      "kana": "でしょう・だろう",
+      "romaji": "deshou / darou",
+      "meaning": "Barangkali; bukankah begitu?",
+      "explanation": "でしょう menyatakan perkiraan, sedangkan だろう adalah bentuk biasa yang lebih langsung. Dengan intonasi naik dan konteks bersama, でしょう juga dapat meminta persetujuan atau memastikan sesuatu.",
+      "patterns": [
+        "V / sifat-i bentuk biasa + でしょう",
+        "Sifat-na / N（tanpa だ）+ でしょう",
+        "Bentuk biasa yang sesuai + だろう"
+      ],
+      "note": "Untuk N dan sifat-na masa kini, jangan menumpuk だ menjadi だでしょう. Bentuk konfirmasi dapat terdengar mendesak bila nadanya terlalu kuat.",
+      "examples": [
+        {
+          "jp": "午後は晴れるでしょう。",
+          "kana": "ごご は はれる でしょう。",
+          "meaning": "Siang nanti kemungkinan akan cerah."
+        },
+        {
+          "jp": "この店、おいしいでしょう。",
+          "kana": "この みせ、おいしい でしょう。",
+          "meaning": "Makanan di toko ini enak, kan?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 92,
+      "sources": [
+        {
+          "id": "all",
+          "page": 64
+        },
+        {
+          "id": "rangkuman",
+          "page": 45
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-ni-mieru",
+      "concept": "ni-mieru",
+      "category": "inference",
+      "subcategory": "Kesan penampilan",
+      "title": "～に見える",
+      "kana": "にみえる",
+      "romaji": "nimieru",
+      "meaning": "Tampak sebagai; terlihat berkesan",
+      "explanation": "に見える memberi penilaian tentang bagaimana seseorang atau sesuatu tampak. Kata benda atau sifat-na memakai に, sedangkan sifat-i diubah menjadi く.",
+      "patterns": [
+        "N / sifat-na + に見えます",
+        "Sifat-i: い → く見えます"
+      ],
+      "note": "若く見える berarti tampak muda, bukan terlihatnya usia muda sebagai objek. Bedakan dari 海が見える yang menyatakan laut benar-benar terlihat.",
+      "examples": [
+        {
+          "jp": "このかばんは高く見えます。",
+          "kana": "この かばん は たかく みえます。",
+          "meaning": "Tas ini tampak mahal."
+        },
+        {
+          "jp": "あの人は学生に見えます。",
+          "kana": "あの ひと は がくせい に みえます。",
+          "meaning": "Orang itu kelihatan seperti pelajar."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 93,
+      "sources": [
+        {
+          "id": "master",
+          "page": 133
+        },
+        {
+          "id": "master",
+          "page": 134
+        }
+      ],
+      "searchTerms": [
+        "ni mieru"
+      ]
+    },
+    {
+      "id": "n4-yasui",
+      "concept": "yasui",
+      "category": "morphology",
+      "subcategory": "Kemudahan tindakan",
+      "title": "～やすい",
+      "kana": "やすい",
+      "romaji": "yasui",
+      "meaning": "Mudah untuk dilakukan; mudah terjadi",
+      "explanation": "やすい ditambahkan pada pangkal ます untuk menunjukkan kemudahan melakukan tindakan atau kecenderungan suatu hal mudah terjadi. Hasil gabungannya berubah seperti kata sifat-i.",
+      "patterns": [
+        "Vます: buang ます + やすい",
+        "～やすかった / ～やすくない"
+      ],
+      "note": "Ini bukan 安い yang berarti murah. 壊れやすい berarti mudah rusak, bukan mudah merusak sesuatu dengan sengaja.",
+      "examples": [
+        {
+          "jp": "このペンは書きやすいです。",
+          "kana": "この ペン は かきやすい です。",
+          "meaning": "Pena ini nyaman dan mudah dipakai menulis."
+        },
+        {
+          "jp": "このコップは割れやすいので、気をつけてください。",
+          "kana": "この コップ は われやすい ので、き を つけて ください。",
+          "meaning": "Gelas ini mudah pecah, jadi hati-hati."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 94,
+      "sources": [
+        {
+          "id": "master",
+          "page": 268
+        },
+        {
+          "id": "master",
+          "page": 269
+        },
+        {
+          "id": "all",
+          "page": 67
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-nikui-zurai",
+      "concept": "nikui-zurai",
+      "category": "morphology",
+      "subcategory": "Kesulitan tindakan",
+      "title": "～にくい・～づらい",
+      "kana": "にくい・づらい",
+      "romaji": "nikui / zurai",
+      "meaning": "Sulit atau tidak nyaman untuk dilakukan",
+      "explanation": "にくい menunjukkan tindakan sulit dilakukan karena sifat benda atau keadaan. づらい sering menyoroti kesulitan yang dirasakan pelaku, seperti rasa sakit, tidak nyaman, atau berat hati. Keduanya ditempelkan pada pangkal ます.",
+      "patterns": [
+        "Vます: buang ます + にくい",
+        "Vます: buang ます + づらい"
+      ],
+      "note": "Gunakan pembeda ini sebagai kecenderungan, bukan aturan mutlak. Tulisan bakunya づらい, bukan ずらい.",
+      "examples": [
+        {
+          "jp": "この字は小さくて読みにくいです。",
+          "kana": "この じ は ちいさくて よみにくい です。",
+          "meaning": "Tulisan ini kecil sehingga sulit dibaca."
+        },
+        {
+          "jp": "足が痛くて、歩きづらいです。",
+          "kana": "あし が いたくて、あるきづらい です。",
+          "meaning": "Kaki saya sakit sehingga berjalan terasa sulit."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 95,
+      "sources": [
+        {
+          "id": "master",
+          "page": 137
+        },
+        {
+          "id": "master",
+          "page": 138
+        },
+        {
+          "id": "master",
+          "page": 292
+        },
+        {
+          "id": "master",
+          "page": 293
+        },
+        {
+          "id": "all",
+          "page": 67
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        }
+      ],
+      "searchTerms": [
+        "nikui",
+        "zurai",
+        "づらい"
+      ]
+    },
+    {
+      "id": "n4-sugiru",
+      "concept": "sugiru",
+      "category": "morphology",
+      "subcategory": "Keadaan berlebihan",
+      "title": "～すぎる",
+      "kana": "すぎる",
+      "romaji": "sugiru",
+      "meaning": "Terlalu; melewati batas yang sesuai",
+      "explanation": "すぎる menyatakan tindakan atau sifat yang berlebihan. Kata kerja memakai pangkal ます; sifat-i membuang い; sifat-na membuang な. Gabungannya berubah sebagai kata kerja golongan II.",
+      "patterns": [
+        "Vます: buang ます + すぎる",
+        "Sifat-i: buang い + すぎる",
+        "Sifat-na: tanpa な + すぎる"
+      ],
+      "note": "いい→よすぎる. Bentuk negatif ない dapat menjadi なさすぎる. Kata ini menilai adanya kelebihan, bukan hanya menyatakan sangat.",
+      "examples": [
+        {
+          "jp": "昨日は食べすぎました。",
+          "kana": "きのう は たべすぎました。",
+          "meaning": "Kemarin saya makan terlalu banyak."
+        },
+        {
+          "jp": "この部屋は静かすぎます。",
+          "kana": "この へや は しずかすぎます。",
+          "meaning": "Ruangan ini terlalu sepi."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 96,
+      "sources": [
+        {
+          "id": "all",
+          "page": 66
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        },
+        {
+          "id": "rangkuman",
+          "page": 49
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-kata",
+      "concept": "kata",
+      "category": "morphology",
+      "subcategory": "Cara melakukan",
+      "title": "～方",
+      "kana": "かた",
+      "romaji": "kata",
+      "meaning": "Cara melakukan sesuatu",
+      "explanation": "方 mengubah pangkal kata kerja menjadi nama suatu cara melakukan tindakan. Kata benda yang tadinya objek を biasanya dihubungkan dengan の ketika menjadi bagian dari frasa cara.",
+      "patterns": [
+        "Vます: buang ます + 方",
+        "N + の + Vます tanpa ます + 方",
+        "する → し方"
+      ],
+      "note": "漢字を書く menjadi 漢字の書き方. Untuk 使う, bentuknya 使い方; jangan langsung menambahkan 方 pada bentuk kamus.",
+      "examples": [
+        {
+          "jp": "この機械の使い方を教えてください。",
+          "kana": "この きかい の つかいかた を おしえて ください。",
+          "meaning": "Tolong ajari saya cara memakai mesin ini."
+        },
+        {
+          "jp": "名前の読み方がわかりません。",
+          "kana": "なまえ の よみかた が わかりません。",
+          "meaning": "Saya tidak tahu cara membaca nama itu."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 97,
+      "sources": [
+        {
+          "id": "all",
+          "page": 50
+        },
+        {
+          "id": "rangkuman",
+          "page": 40
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-adjective-sa",
+      "concept": "adjective-sa",
+      "category": "morphology",
+      "subcategory": "Membendakan sifat",
+      "title": "～さ",
+      "kana": "さ",
+      "romaji": "sa",
+      "meaning": "Tingkat atau ukuran suatu sifat",
+      "explanation": "さ mengubah sifat menjadi kata benda yang menyatakan ukuran atau kadar sifat tersebut. Sifat-i membuang い, sedangkan sifat-na tidak memakai な.",
+      "patterns": [
+        "Sifat-i: buang い + さ",
+        "Sifat-na: tanpa な + さ"
+      ],
+      "note": "いい berubah menjadi よさ. Bedakan 高さ ketinggian dengan 高い yang menerangkan bahwa sesuatu tinggi.",
+      "examples": [
+        {
+          "jp": "この山の高さはどのくらいですか。",
+          "kana": "この やま の たかさ は どのくらい です か。",
+          "meaning": "Berapa ketinggian gunung ini?"
+        },
+        {
+          "jp": "この町の静かさが好きです。",
+          "kana": "この まち の しずかさ が すき です。",
+          "meaning": "Saya menyukai ketenangan kota ini."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 98,
+      "sources": [
+        {
+          "id": "master",
+          "page": 161
+        },
+        {
+          "id": "master",
+          "page": 162
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-garu",
+      "concept": "garu",
+      "category": "morphology",
+      "subcategory": "Tanda perasaan orang lain",
+      "title": "～がる・～たがる",
+      "kana": "がる・たがる",
+      "romaji": "garu / tagaru",
+      "meaning": "Menunjukkan perasaan; tampak ingin melakukan",
+      "explanation": "がる dipakai ketika perilaku orang lain menunjukkan perasaan atau keinginan. Sifat perasaan membuang い／な lalu menambah がる. Bentuk たい menjadi たがる untuk tanda ingin melakukan. ～がっている／～たがっている menjelaskan tanda yang sedang terlihat.",
+      "patterns": [
+        "Sifat perasaan tanpa い／な + がる",
+        "Vます tanpa ます + たがる",
+        "～がり: sebutan kecenderungan orang"
+      ],
+      "note": "暑がり berarti orang yang mudah merasa panas; jangan membuat ～がり dari semua sifat secara bebas. Ketika berbicara tentang keinginan sendiri, pola たい pada N5 tetap digunakan.",
+      "examples": [
+        {
+          "jp": "子どもが犬を怖がっています。",
+          "kana": "こども が いぬ を こわがって います。",
+          "meaning": "Anak itu menunjukkan rasa takut kepada anjing."
+        },
+        {
+          "jp": "弟は新しいゲームを買いたがっています。",
+          "kana": "おとうと は あたらしい ゲーム を かいたがって います。",
+          "meaning": "Adik tampak ingin membeli gim baru."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 99,
+      "sources": [
+        {
+          "id": "master",
+          "page": 41
+        },
+        {
+          "id": "master",
+          "page": 42
+        },
+        {
+          "id": "master",
+          "page": 43
+        },
+        {
+          "id": "master",
+          "page": 44
+        },
+        {
+          "id": "master",
+          "page": 45
+        },
+        {
+          "id": "master",
+          "page": 46
+        },
+        {
+          "id": "master",
+          "page": 194
+        },
+        {
+          "id": "master",
+          "page": 195
+        },
+        {
+          "id": "master",
+          "page": 196
+        }
+      ],
+      "check": {
+        "prompt": "弟は行きたがっています berarti …",
+        "options": [
+          "Adik tampak ingin pergi.",
+          "Saya ingin pergi."
+        ],
+        "answer": 0,
+        "explanation": "たがっている menjelaskan tanda keinginan pihak lain."
+      },
+      "searchTerms": [
+        "gari",
+        "gatteiru",
+        "tagaru",
+        "がり",
+        "がっている",
+        "たがる"
+      ]
+    },
+    {
+      "id": "n4-verb-stages",
+      "concept": "verb-stages",
+      "category": "morphology",
+      "subcategory": "Mulai sampai selesai",
+      "title": "～始める・～出す・～続ける・～終わる",
+      "kana": "はじめる・だす・つづける・おわる",
+      "romaji": "hajimeru / dasu / tsuzukeru / owaru",
+      "meaning": "Tahap mulai, mendadak mulai, berlanjut, atau selesai",
+      "explanation": "Kata kerja tambahan ini ditempelkan pada pangkal ます. 始める menandai awal secara umum; 出す sering menyoroti awal yang mendadak. 続ける menunjukkan tindakan berlanjut, sedangkan 終わる menunjukkan tindakan diselesaikan.",
+      "patterns": [
+        "Vます tanpa ます + 始める",
+        "Vます tanpa ます + 出す",
+        "Vます tanpa ます + 続ける",
+        "Vます tanpa ます + 終わる"
+      ],
+      "note": "Jangan menganggap 出す dan 始める selalu sama. 泣き出す biasanya terdengar seperti mulai menangis tiba-tiba. Pelajari gabungan yang lazim dan cocok maknanya.",
+      "examples": [
+        {
+          "jp": "七時に勉強し始めました。",
+          "kana": "しちじ に べんきょう しはじめました。",
+          "meaning": "Saya mulai belajar pukul tujuh."
+        },
+        {
+          "jp": "急に雨が降り出しました。",
+          "kana": "きゅう に あめ が ふりだしました。",
+          "meaning": "Tiba-tiba hujan mulai turun."
+        },
+        {
+          "jp": "一時間歩き続けました。",
+          "kana": "いちじかん あるきつづけました。",
+          "meaning": "Saya terus berjalan selama satu jam."
+        },
+        {
+          "jp": "やっと本を読み終わりました。",
+          "kana": "やっと ほん を よみおわりました。",
+          "meaning": "Akhirnya saya selesai membaca buku."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 100,
+      "sources": [
+        {
+          "id": "master",
+          "page": 29
+        },
+        {
+          "id": "master",
+          "page": 30
+        },
+        {
+          "id": "master",
+          "page": 49
+        },
+        {
+          "id": "master",
+          "page": 50
+        },
+        {
+          "id": "master",
+          "page": 153
+        },
+        {
+          "id": "master",
+          "page": 154
+        },
+        {
+          "id": "master",
+          "page": 258
+        },
+        {
+          "id": "master",
+          "page": 259
+        },
+        {
+          "id": "master",
+          "page": 260
+        },
+        {
+          "id": "all",
+          "page": 68
+        }
+      ],
+      "searchTerms": [
+        "hajimeru",
+        "dasu",
+        "tsuzukeru",
+        "owaru",
+        "はじめる",
+        "だす",
+        "つづける",
+        "おわる"
+      ]
+    },
+    {
+      "id": "n4-respect",
+      "concept": "respect",
+      "category": "polite",
+      "subcategory": "Meninggikan pihak lain",
+      "title": "尊敬語：お～になる・特別な動詞",
+      "kana": "そんけいご",
+      "romaji": "sonkeigo",
+      "meaning": "Menghormati tindakan pihak lain",
+      "explanation": "尊敬語 meninggikan orang yang melakukan tindakan, misalnya tamu atau guru. Banyak kata kerja memakai お＋pangkal ます＋になる. Beberapa kata mempunyai bentuk khusus yang perlu diingat sebagai satu kesatuan.",
+      "patterns": [
+        "お + Vます tanpa ます + になります",
+        "いる / 行く / 来る → いらっしゃいます",
+        "する → なさいます",
+        "言う → おっしゃいます"
+      ],
+      "note": "Jangan pakai bentuk ini untuk meninggikan tindakan diri sendiri. Bentuk sopan khususnya いらっしゃいます／なさいます, bukan いらっしゃります／なさります.",
+      "examples": [
+        {
+          "jp": "先生は何時にいらっしゃいますか。",
+          "kana": "せんせい は なんじ に いらっしゃいます か。",
+          "meaning": "Guru akan datang pukul berapa?"
+        },
+        {
+          "jp": "お客様はこの本をお読みになります。",
+          "kana": "おきゃくさま は この ほん を およみ に なります。",
+          "meaning": "Tamu akan membaca buku ini."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 101,
+      "sources": [
+        {
+          "id": "master",
+          "page": 61
+        },
+        {
+          "id": "master",
+          "page": 62
+        },
+        {
+          "id": "master",
+          "page": 129
+        },
+        {
+          "id": "master",
+          "page": 130
+        },
+        {
+          "id": "master",
+          "page": 149
+        },
+        {
+          "id": "master",
+          "page": 150
+        },
+        {
+          "id": "rangkuman",
+          "page": 15
+        },
+        {
+          "id": "rangkuman",
+          "page": 19
+        }
+      ],
+      "table": {
+        "headers": [
+          "Bentuk biasa",
+          "Hormat"
+        ],
+        "rows": [
+          [
+            "いる／行く／来る",
+            "いらっしゃいます"
+          ],
+          [
+            "する",
+            "なさいます"
+          ],
+          [
+            "言う",
+            "おっしゃいます"
+          ],
+          [
+            "食べる／飲む",
+            "召し上がります（めしあがります）"
+          ],
+          [
+            "見る",
+            "ご覧になります（ごらんになります）"
+          ]
+        ]
+      },
+      "searchTerms": [
+        "irassharu",
+        "nasaru",
+        "o ni naru",
+        "いらっしゃる",
+        "なさる",
+        "おになる"
+      ]
+    },
+    {
+      "id": "n4-humble",
+      "concept": "humble",
+      "category": "polite",
+      "subcategory": "Merendahkan tindakan diri",
+      "title": "謙譲語：お～する・いたす",
+      "kana": "けんじょうご",
+      "romaji": "kenjougo",
+      "meaning": "Menyampaikan tindakan diri dengan rendah hati",
+      "explanation": "謙譲語 digunakan untuk tindakan diri atau pihak sendiri ketika berbicara kepada pihak yang dihormati. お＋pangkal ます＋する lazim dipakai ketika tindakan ditujukan kepada orang itu. Bentuk seperti いたします dan まいります menyampaikan tindakan diri secara resmi.",
+      "patterns": [
+        "お + Vます tanpa ます + します",
+        "する → いたします",
+        "行く / 来る → まいります",
+        "いる → おります",
+        "言う → 申します"
+      ],
+      "note": "Jangan menggunakan bentuk rendah hati untuk menurunkan tindakan tamu. Beberapa gabungan memakai ご, misalnya ご説明します. Pelajari gabungan yang lazim, bukan menambahkan お／ご secara acak.",
+      "examples": [
+        {
+          "jp": "荷物をお持ちします。",
+          "kana": "にもつ を おもち します。",
+          "meaning": "Saya akan membawakan barang Anda."
+        },
+        {
+          "jp": "明日、こちらから電話いたします。",
+          "kana": "あした、こちら から でんわ いたします。",
+          "meaning": "Besok pihak kami akan menelepon Anda."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 102,
+      "sources": [
+        {
+          "id": "master",
+          "page": 63
+        },
+        {
+          "id": "master",
+          "page": 64
+        },
+        {
+          "id": "rangkuman",
+          "page": 19
+        }
+      ],
+      "table": {
+        "headers": [
+          "Bentuk biasa",
+          "Rendah hati / resmi"
+        ],
+        "rows": [
+          [
+            "する",
+            "いたします"
+          ],
+          [
+            "行く／来る",
+            "まいります"
+          ],
+          [
+            "いる",
+            "おります"
+          ],
+          [
+            "言う",
+            "申します（もうします）"
+          ],
+          [
+            "見る",
+            "拝見します（はいけんします）"
+          ]
+        ]
+      },
+      "searchTerms": [
+        "itashimasu",
+        "mairimasu",
+        "orimasu",
+        "いたします",
+        "まいります",
+        "おります"
+      ]
+    },
+    {
+      "id": "n4-gozaimasu",
+      "concept": "gozaimasu",
+      "category": "polite",
+      "subcategory": "Bentuk sangat sopan",
+      "title": "ございます・でございます",
+      "kana": "ございます・でございます",
+      "romaji": "gozaimasu / degozaimasu",
+      "meaning": "Ada; adalah dalam situasi resmi",
+      "explanation": "ございます merupakan bentuk sangat sopan dari あります untuk keberadaan benda atau hal. でございます digunakan sebagai bentuk resmi dari です setelah kata benda atau sifat-na. Lazim dalam layanan dan pengumuman.",
+      "patterns": [
+        "N が + ございます",
+        "N / sifat-na + でございます",
+        "ありません → ございません"
+      ],
+      "note": "Jangan mengubah います untuk orang menjadi ございます. Untuk orang pihak sendiri gunakan おります; untuk pihak yang dihormati gunakan いらっしゃいます.",
+      "examples": [
+        {
+          "jp": "こちらが受付でございます。",
+          "kana": "こちら が うけつけ で ございます。",
+          "meaning": "Di sebelah sini adalah meja resepsionis."
+        },
+        {
+          "jp": "お手洗いは二階にございます。",
+          "kana": "おてあらい は にかい に ございます。",
+          "meaning": "Toilet berada di lantai dua."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 103,
+      "sources": [
+        {
+          "id": "master",
+          "page": 31
+        },
+        {
+          "id": "master",
+          "page": 32
+        },
+        {
+          "id": "master",
+          "page": 47
+        },
+        {
+          "id": "master",
+          "page": 48
+        }
+      ],
+      "check": {
+        "prompt": "Untuk keberadaan benda dalam bahasa resmi …",
+        "options": [
+          "ございます",
+          "いらっしゃいます"
+        ],
+        "answer": 0,
+        "explanation": "ございます berasal dari あります. いらっしゃいます digunakan untuk orang yang dihormati."
+      },
+      "searchTerms": [
+        "de gozaimasu",
+        "でございます"
+      ]
+    },
+    {
+      "id": "n4-polite-request",
+      "concept": "polite-request",
+      "category": "polite",
+      "subcategory": "Meminta bantuan dengan sopan",
+      "title": "～ていただけませんか・お～ください",
+      "kana": "ていただけませんか・おください",
+      "romaji": "teitadakemasenka / okudasai",
+      "meaning": "Bisakah Anda berkenan melakukan …?",
+      "explanation": "～ていただけませんか meminta bantuan dengan menekankan penerimaan bantuan oleh pembicara. ～てくださいませんか memakai bentuk hormat pelaku. お＋pangkal ます＋ください adalah bentuk permintaan hormat yang lazim pada layanan atau petunjuk.",
+      "patterns": [
+        "Vて + いただけませんか",
+        "Vて + くださいませんか",
+        "Vて + もらえませんか / くれませんか",
+        "お + Vます tanpa ます + ください"
+      ],
+      "note": "Bentuk dasar ～てください sudah ada di N5. Pilih ungkapan sesuai hubungan dan situasi; jangan menganggap semua permintaan dapat diberi tingkat sopan yang kaku tanpa konteks.",
+      "examples": [
+        {
+          "jp": "もう一度説明していただけませんか。",
+          "kana": "もう いちど せつめい して いただけません か。",
+          "meaning": "Bisakah Anda menjelaskannya sekali lagi?"
+        },
+        {
+          "jp": "こちらでお待ちください。",
+          "kana": "こちら で おまち ください。",
+          "meaning": "Silakan menunggu di sini."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 104,
+      "sources": [
+        {
+          "id": "master",
+          "page": 147
+        },
+        {
+          "id": "master",
+          "page": 148
+        },
+        {
+          "id": "master",
+          "page": 213
+        },
+        {
+          "id": "master",
+          "page": 214
+        },
+        {
+          "id": "all",
+          "page": 51
+        }
+      ],
+      "searchTerms": [
+        "o kudasai",
+        "te itadakemasen ka",
+        "te moraemasen ka",
+        "te kuremasen ka",
+        "te kudasaimasen ka"
+      ]
+    },
+    {
+      "id": "n4-kana-kashira",
+      "concept": "kana-kashira",
+      "category": "expressions",
+      "subcategory": "Bertanya pada diri sendiri",
+      "title": "～かな・～かしら",
+      "kana": "かな・かしら",
+      "romaji": "kana / kashira",
+      "meaning": "Ya, kira-kira …; bertanya dalam hati",
+      "explanation": "かな dan かしら menambahkan rasa bertanya-tanya atau belum yakin, sering sebagai ucapan kepada diri sendiri. Lawan bicara boleh menanggapi, tetapi tidak selalu diminta menjawab secara langsung.",
+      "patterns": [
+        "Bentuk biasa + かな",
+        "Bentuk biasa + かしら"
+      ],
+      "note": "かな umum dalam percakapan. かしら mempunyai kesan gaya tertentu dan sering diasosiasikan dengan tuturan feminin. Untuk pertanyaan formal, gunakan bentuk ですか／ますか yang sesuai.",
+      "examples": [
+        {
+          "jp": "明日は晴れるかな。",
+          "kana": "あした は はれる かな。",
+          "meaning": "Kira-kira besok cerah tidak, ya?"
+        },
+        {
+          "jp": "この店、まだ開いているかしら。",
+          "kana": "この みせ、まだ あいて いる かしら。",
+          "meaning": "Toko ini masih buka tidak, ya?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 105,
+      "sources": [
+        {
+          "id": "master",
+          "page": 69
+        },
+        {
+          "id": "master",
+          "page": 70
+        },
+        {
+          "id": "master",
+          "page": 75
+        },
+        {
+          "id": "master",
+          "page": 76
+        }
+      ],
+      "searchTerms": [
+        "kana",
+        "kashira"
+      ]
+    },
+    {
+      "id": "n4-kai",
+      "concept": "kai",
+      "category": "expressions",
+      "subcategory": "Pertanyaan akrab",
+      "title": "～かい",
+      "kana": "かい",
+      "romaji": "kai",
+      "meaning": "Akhiran pertanyaan ya/tidak yang akrab",
+      "explanation": "かい digunakan pada pertanyaan ya/tidak dalam gaya akrab. Sering terdengar dari orang yang lebih tua kepada anak atau orang dekat. Bukan pilihan netral untuk setiap percakapan.",
+      "patterns": [
+        "Kalimat bentuk biasa + かい"
+      ],
+      "note": "Untuk pertanyaan dengan kata tanya, gaya akrab lain seperti ～だい dapat muncul. Pada percakapan dengan orang baru, bentuk sopan lebih aman.",
+      "examples": [
+        {
+          "jp": "もうご飯を食べたかい。",
+          "kana": "もう ごはん を たべた かい。",
+          "meaning": "Sudah makan belum?"
+        },
+        {
+          "jp": "明日も来るかい。",
+          "kana": "あした も くる かい。",
+          "meaning": "Besok datang lagi?"
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 106,
+      "sources": [
+        {
+          "id": "master",
+          "page": 71
+        },
+        {
+          "id": "master",
+          "page": 72
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-naa",
+      "concept": "naa",
+      "category": "expressions",
+      "subcategory": "Kesan spontan",
+      "title": "～なあ",
+      "kana": "なあ",
+      "romaji": "naa",
+      "meaning": "Wah; menyatakan kesan atau perasaan",
+      "explanation": "なあ menambahkan kesan pribadi seperti kagum, terharu, atau keluhan. Pembicara seolah mengungkapkan perasaan kepada diri sendiri. Nada suara sangat memengaruhi kesannya.",
+      "patterns": [
+        "Bentuk biasa + なあ"
+      ],
+      "note": "Ini akhiran kalimat yang mempunyai fungsi, bukan kata seru kosong sebagai kartu Kotoba. Bedakan dari V kamus＋な yang merupakan larangan langsung.",
+      "examples": [
+        {
+          "jp": "この景色はきれいだなあ。",
+          "kana": "この けしき は きれい だ なあ。",
+          "meaning": "Wah, pemandangan ini indah sekali."
+        },
+        {
+          "jp": "今日はよく歩いたなあ。",
+          "kana": "きょう は よく あるいた なあ。",
+          "meaning": "Hari ini banyak berjalan juga, ya."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 107,
+      "sources": [
+        {
+          "id": "all",
+          "page": 78
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-nakanaka",
+      "concept": "nakanaka",
+      "category": "expressions",
+      "subcategory": "Sulit mencapai hasil",
+      "title": "なかなか～ない",
+      "kana": "なかなかない",
+      "romaji": "nakanakanai",
+      "meaning": "Tidak juga; sulit atau lama untuk bisa terjadi",
+      "explanation": "なかなか bersama bentuk negatif menunjukkan hasil yang diharapkan belum tercapai meskipun sudah ada usaha atau waktu yang berlalu. Fokusnya pada sulitnya mencapai hasil, bukan larangan.",
+      "patterns": [
+        "なかなか + bentuk negatif"
+      ],
+      "note": "なかなか tanpa negatif dapat memuji sesuatu sebagai cukup bagus, tetapi itu fungsi lain. Dalam pola ini, perhatikan adanya bentuk negatif.",
+      "examples": [
+        {
+          "jp": "漢字がなかなか覚えられません。",
+          "kana": "かんじ が なかなか おぼえられません。",
+          "meaning": "Saya sulit sekali menghafal kanji."
+        },
+        {
+          "jp": "バスがなかなか来ません。",
+          "kana": "バス が なかなか きません。",
+          "meaning": "Busnya tidak kunjung datang."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 108,
+      "sources": [
+        {
+          "id": "master",
+          "page": 119
+        },
+        {
+          "id": "master",
+          "page": 120
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-yatto",
+      "concept": "yatto",
+      "category": "expressions",
+      "subcategory": "Hasil setelah usaha",
+      "title": "やっと",
+      "kana": "やっと",
+      "romaji": "yatto",
+      "meaning": "Akhirnya setelah menunggu atau berusaha",
+      "explanation": "やっと menyoroti hasil yang baru tercapai setelah usaha, kesulitan, atau penantian. Dapat pula menunjukkan sesuatu tercapai dengan pas-pasan.",
+      "patterns": [
+        "やっと + hasil / keadaan yang tercapai"
+      ],
+      "note": "Jangan memakai やっと hanya untuk semua kejadian terakhir. Ada rasa sebelumnya sulit atau lama yang membedakannya dari urutan biasa.",
+      "examples": [
+        {
+          "jp": "やっと宿題が終わりました。",
+          "kana": "やっと しゅくだい が おわりました。",
+          "meaning": "Akhirnya tugas saya selesai."
+        },
+        {
+          "jp": "このかばんは重くて、一人でやっと持てます。",
+          "kana": "この かばん は おもくて、ひとり で やっと もてます。",
+          "meaning": "Tas ini berat sehingga saya nyaris tidak mampu membawanya sendiri."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 109,
+      "sources": [
+        {
+          "id": "master",
+          "page": 270
+        },
+        {
+          "id": "master",
+          "page": 271
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-kitto",
+      "concept": "kitto",
+      "category": "expressions",
+      "subcategory": "Keyakinan dalam dugaan",
+      "title": "きっと",
+      "kana": "きっと",
+      "romaji": "kitto",
+      "meaning": "Pasti atau sangat mungkin menurut keyakinan",
+      "explanation": "きっと memperkuat perkiraan atau keyakinan pembicara. Sering muncul bersama でしょう atau と思います. Keyakinannya tetap merupakan penilaian, bukan jaminan bahwa kejadian itu akan terjadi.",
+      "patterns": [
+        "きっと + dugaan / keyakinan"
+      ],
+      "note": "必ず sering dipakai untuk tindakan yang dipastikan, aturan, atau permintaan yang harus dipenuhi. きっと lebih dekat dengan saya yakin hal itu akan terjadi.",
+      "examples": [
+        {
+          "jp": "練習すれば、きっと上手になります。",
+          "kana": "れんしゅう すれば、きっと じょうず に なります。",
+          "meaning": "Kalau berlatih, saya yakin kamu akan makin mahir."
+        },
+        {
+          "jp": "明日はきっといい天気でしょう。",
+          "kana": "あした は きっと いい てんき でしょう。",
+          "meaning": "Saya yakin besok cuacanya akan bagus."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 110,
+      "sources": [
+        {
+          "id": "master",
+          "page": 79
+        },
+        {
+          "id": "master",
+          "page": 80
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-zehi",
+      "concept": "zehi",
+      "category": "expressions",
+      "subcategory": "Keinginan dan ajakan kuat",
+      "title": "ぜひ",
+      "kana": "ぜひ",
+      "romaji": "zehi",
+      "meaning": "Sangat ingin; silakan dengan sungguh-sungguh",
+      "explanation": "ぜひ menegaskan keinginan, undangan, atau anjuran yang kuat. Lazim bersama ～たい, ～てください, atau ajakan. Maknanya menyoroti kesungguhan, bukan kepastian hasil.",
+      "patterns": [
+        "ぜひ + Vたい",
+        "ぜひ + Vてください"
+      ],
+      "note": "Jangan gunakan ぜひ seolah-olah sama dengan きっと untuk meramal cuaca. ぜひ会いたい adalah keinginan, bukan perkiraan akan bertemu.",
+      "examples": [
+        {
+          "jp": "ぜひ日本へ行ってみたいです。",
+          "kana": "ぜひ にほん へ いって みたい です。",
+          "meaning": "Saya sangat ingin mencoba pergi ke Jepang."
+        },
+        {
+          "jp": "ぜひ遊びに来てください。",
+          "kana": "ぜひ あそび に きて ください。",
+          "meaning": "Silakan datang berkunjung, saya sungguh berharap Anda datang."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 111,
+      "sources": [
+        {
+          "id": "master",
+          "page": 288
+        },
+        {
+          "id": "master",
+          "page": 289
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-sasuga",
+      "concept": "sasuga",
+      "category": "expressions",
+      "subcategory": "Hasil sesuai reputasi",
+      "title": "さすが",
+      "kana": "さすが",
+      "romaji": "sasuga",
+      "meaning": "Memang hebat; sesuai yang diharapkan",
+      "explanation": "さすが menunjukkan kekaguman karena hasil sesuai dengan kemampuan, pengalaman, atau reputasi yang sudah diketahui. Sering digunakan untuk memuji pencapaian seseorang.",
+      "patterns": [
+        "さすが + （N / penilaian）",
+        "さすがですね"
+      ],
+      "note": "Bukan sekadar pengganti sangat. Ada hubungan antara hasil yang diamati dan harapan atau pengetahuan sebelumnya.",
+      "examples": [
+        {
+          "jp": "さすが先生ですね。説明がわかりやすいです。",
+          "kana": "さすが せんせい です ね。せつめい が わかりやすい です。",
+          "meaning": "Memang hebat, seperti yang diharapkan dari seorang guru. Penjelasannya mudah dipahami."
+        },
+        {
+          "jp": "さすがプロです。とても速いです。",
+          "kana": "さすが プロ です。とても はやい です。",
+          "meaning": "Memang seorang profesional. Cepat sekali."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 112,
+      "sources": [
+        {
+          "id": "master",
+          "page": 172
+        },
+        {
+          "id": "master",
+          "page": 173
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-sonnani",
+      "concept": "sonnani",
+      "category": "expressions",
+      "subcategory": "Derajat yang dirujuk",
+      "title": "そんなに・こんなに・あんなに",
+      "kana": "そんなに・こんなに・あんなに",
+      "romaji": "sonnani / konnani / annani",
+      "meaning": "Sedemikian; sampai tingkat seperti ini atau itu",
+      "explanation": "こんなに, そんなに, dan あんなに menunjuk kadar atau jumlah yang terkait situasi. こんなに menyoroti tingkat yang dekat atau sedang dirasakan; そんなに merujuk hal yang disebut lawan bicara; あんなに mengacu hal yang terasa lebih jauh atau sama-sama diketahui.",
+      "patterns": [
+        "こんなに / そんなに / あんなに + sifat / tindakan"
+      ],
+      "note": "そんなに～ない berarti tidak sampai sebegitunya. Bedakan dari そんなN yang langsung menerangkan jenis benda.",
+      "examples": [
+        {
+          "jp": "このかばんはそんなに高くありません。",
+          "kana": "この かばん は そんなに たかく ありません。",
+          "meaning": "Tas ini tidak semahal itu."
+        },
+        {
+          "jp": "こんなにたくさん、ありがとうございます。",
+          "kana": "こんなに たくさん、ありがとう ございます。",
+          "meaning": "Terima kasih sudah memberi sebanyak ini."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 113,
+      "sources": [
+        {
+          "id": "master",
+          "page": 177
+        },
+        {
+          "id": "master",
+          "page": 178
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-kyuuni",
+      "concept": "kyuuni",
+      "category": "expressions",
+      "subcategory": "Perubahan mendadak",
+      "title": "急に",
+      "kana": "きゅうに",
+      "romaji": "kyuuni",
+      "meaning": "Tiba-tiba; secara mendadak",
+      "explanation": "急に menerangkan perubahan atau tindakan yang terjadi tanpa persiapan atau sangat mendadak. Dapat dipakai dengan perubahan cuaca, kondisi tubuh, atau perubahan rencana.",
+      "patterns": [
+        "急に + perubahan / tindakan"
+      ],
+      "note": "Bukan berarti melakukan lebih cepat. Untuk menyuruh bergegas, gunakan 急いで; 急に menyoroti perubahan mendadak.",
+      "examples": [
+        {
+          "jp": "急に寒くなりました。",
+          "kana": "きゅう に さむく なりました。",
+          "meaning": "Tiba-tiba cuaca menjadi dingin."
+        },
+        {
+          "jp": "急に予定が変わりました。",
+          "kana": "きゅう に よてい が かわりました。",
+          "meaning": "Rencananya tiba-tiba berubah."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 114,
+      "sources": [
+        {
+          "id": "master",
+          "page": 96
+        },
+        {
+          "id": "master",
+          "page": 97
+        }
+      ],
+      "searchTerms": []
+    },
+    {
+      "id": "n4-janai-ka",
+      "concept": "janai-ka",
+      "category": "expressions",
+      "subcategory": "Mengajak konfirmasi",
+      "title": "～じゃないか・～ではないか",
+      "kana": "じゃないか・ではないか",
+      "romaji": "janaika / dehanaika",
+      "meaning": "Bukankah; ternyata …; ajakan tegas",
+      "explanation": "じゃないか dan ではないか dapat menekankan temuan atau mengajak lawan bicara mengakui sesuatu. Dalam bentuk kehendak＋ではないか, ungkapannya dapat menjadi ajakan. Makna bergantung nada dan konteks, bukan selalu pertanyaan negatif.",
+      "patterns": [
+        "Bentuk biasa + じゃないか / ではないか",
+        "V bentuk kehendak + ではないか"
+      ],
+      "note": "Bentuk langsung ini dapat terdengar tegas. Untuk konfirmasi yang lebih lembut dalam percakapan akrab, ～じゃない？ juga umum. Jangan mengira setiap bentuknya berarti tidak.",
+      "examples": [
+        {
+          "jp": "ここにあるじゃないか。",
+          "kana": "ここ に ある じゃない か。",
+          "meaning": "Ternyata ada di sini, kan."
+        },
+        {
+          "jp": "みんなで考えようではありませんか。",
+          "kana": "みんな で かんがえよう では ありません か。",
+          "meaning": "Mari kita pikirkan bersama."
+        }
+      ],
+      "level": "N4",
+      "enrichment": false,
+      "order": 115,
+      "sources": [
+        {
+          "id": "master",
+          "page": 35
+        },
+        {
+          "id": "master",
+          "page": 36
+        },
+        {
+          "id": "master",
+          "page": 65
+        },
+        {
+          "id": "master",
+          "page": 66
+        }
+      ],
+      "searchTerms": []
+    }
+  ]
+}

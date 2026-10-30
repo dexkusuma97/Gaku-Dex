@@ -1,0 +1,4203 @@
+{
+  "sources": [
+    {
+      "id": "rangkuman",
+      "filename": "Rangkuman N4.pdf",
+      "pages": 53,
+      "sha256": "73fb11225d43cba23c5d8e14609f13fcbc8d981d6ba238f18e09b6523d54b577"
+    },
+    {
+      "id": "master",
+      "filename": "JLPT N4 Grammer Master (1).pdf",
+      "pages": 293,
+      "sha256": "0a0a7e226d9796e6f091c4750430d02fabb20bc1efbce29d54f9190271ec6332"
+    },
+    {
+      "id": "verb",
+      "filename": "Perubahan KK N4.pdf",
+      "pages": 50,
+      "sha256": "6fa6a2a18aab3f73be2826f38a61faa1db972dda0d55545e2f5494feb7f2d23f"
+    },
+    {
+      "id": "all",
+      "filename": "ALL - BUNPO N4.pdf",
+      "pages": 80,
+      "sha256": "a8e26529a9696c20fcbe7453dd57adfc01df4c841111a5ced07a4ca044820910"
+    }
+  ],
+  "decisions": [
+    {
+      "source": "master",
+      "number": 1,
+      "title": "間",
+      "pages": [
+        8,
+        9,
+        10
+      ],
+      "target": "n4-aida",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 2,
+      "title": "間に",
+      "pages": [
+        11,
+        12,
+        13
+      ],
+      "target": "n4-aida",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 3,
+      "title": "あまり～ない",
+      "pages": [
+        14,
+        15
+      ],
+      "target": "N5:amari",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 4,
+      "title": "後で",
+      "pages": [
+        16,
+        17
+      ],
+      "target": "N5:ato-de",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 5,
+      "title": "ば",
+      "pages": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 6,
+      "title": "場合は",
+      "pages": [
+        23,
+        24
+      ],
+      "target": "n4-baai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 7,
+      "title": "ばかり",
+      "pages": [
+        25,
+        26
+      ],
+      "target": "n4-bakari",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 8,
+      "title": "だけで",
+      "pages": [
+        27,
+        28
+      ],
+      "target": "n4-dake-de",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 9,
+      "title": "出す",
+      "pages": [
+        29,
+        30
+      ],
+      "target": "n4-verb-stages",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 10,
+      "title": "でございます",
+      "pages": [
+        31,
+        32
+      ],
+      "target": "n4-gozaimasu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 11,
+      "title": "でも",
+      "pages": [
+        33,
+        34
+      ],
+      "target": "n4-demo-example",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 12,
+      "title": "ではないか",
+      "pages": [
+        35,
+        36
+      ],
+      "target": "n4-janai-ka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 13,
+      "title": "が必要",
+      "pages": [
+        37,
+        38
+      ],
+      "target": "n4-necessary",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 14,
+      "title": "がする",
+      "pages": [
+        39,
+        40
+      ],
+      "target": "n4-ga-suru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 15,
+      "title": "がり",
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "target": "n4-garu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 16,
+      "title": "がる・がっている",
+      "pages": [
+        44,
+        45,
+        46
+      ],
+      "target": "n4-garu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 17,
+      "title": "ございます",
+      "pages": [
+        47,
+        48
+      ],
+      "target": "n4-gozaimasu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 18,
+      "title": "始める",
+      "pages": [
+        49,
+        50
+      ],
+      "target": "n4-verb-stages",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 19,
+      "title": "はずだ",
+      "pages": [
+        51,
+        52
+      ],
+      "target": "n4-hazu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 20,
+      "title": "はずがない",
+      "pages": [
+        53,
+        54
+      ],
+      "target": "n4-hazu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 21,
+      "title": "必要がある",
+      "pages": [
+        55,
+        56,
+        57
+      ],
+      "target": "n4-necessary",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 22,
+      "title": "意向形",
+      "pages": [
+        58,
+        59,
+        60
+      ],
+      "target": "n4-volitional",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 23,
+      "title": "いらっしゃる",
+      "pages": [
+        61,
+        62
+      ],
+      "target": "n4-respect",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 24,
+      "title": "いたします",
+      "pages": [
+        63,
+        64
+      ],
+      "target": "n4-humble",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 25,
+      "title": "じゃないか",
+      "pages": [
+        65,
+        66
+      ],
+      "target": "n4-janai-ka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 26,
+      "title": "かどうか",
+      "pages": [
+        67,
+        68
+      ],
+      "target": "n4-ka-douka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 27,
+      "title": "かしら",
+      "pages": [
+        69,
+        70
+      ],
+      "target": "n4-kana-kashira",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 28,
+      "title": "かい",
+      "pages": [
+        71,
+        72
+      ],
+      "target": "n4-kai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 29,
+      "title": "かもしれない",
+      "pages": [
+        73,
+        74
+      ],
+      "target": "n4-kamo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 30,
+      "title": "かな",
+      "pages": [
+        75,
+        76
+      ],
+      "target": "n4-kana-kashira",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 31,
+      "title": "から作る",
+      "pages": [
+        77,
+        78
+      ],
+      "target": "n4-material-kara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 32,
+      "title": "きっと",
+      "pages": [
+        79,
+        80
+      ],
+      "target": "n4-kitto",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 33,
+      "title": "頃",
+      "pages": [
+        81,
+        82
+      ],
+      "target": "N5:goro",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 34,
+      "title": "こと",
+      "pages": [
+        83,
+        84
+      ],
+      "target": "N5:koto",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 35,
+      "title": "ことがある",
+      "pages": [
+        85,
+        86
+      ],
+      "target": "n4-koto-ga-aru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 36,
+      "title": "ことができる",
+      "pages": [
+        87,
+        88,
+        89
+      ],
+      "target": "N5:koto-dekiru",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 37,
+      "title": "ことになる",
+      "pages": [
+        90,
+        91
+      ],
+      "target": "n4-koto-ni-naru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 38,
+      "title": "ことにする",
+      "pages": [
+        92,
+        93
+      ],
+      "target": "n4-koto-ni-suru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 39,
+      "title": "くする",
+      "pages": [
+        94,
+        95
+      ],
+      "target": "N5:suru-change",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 40,
+      "title": "急に",
+      "pages": [
+        96,
+        97
+      ],
+      "target": "n4-kyuuni",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 41,
+      "title": "までに",
+      "pages": [
+        98,
+        99
+      ],
+      "target": "n4-made-ni",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 42,
+      "title": "まま",
+      "pages": [
+        100,
+        101,
+        102
+      ],
+      "target": "n4-mama",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 43,
+      "title": "または",
+      "pages": [
+        103,
+        104
+      ],
+      "target": "n4-matawa",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 44,
+      "title": "みたいだ",
+      "pages": [
+        105,
+        106
+      ],
+      "target": "n4-you-mitai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 45,
+      "title": "みたいな",
+      "pages": [
+        107
+      ],
+      "target": "n4-you-mitai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 46,
+      "title": "みたいに",
+      "pages": [
+        108,
+        109,
+        110
+      ],
+      "target": "n4-you-mitai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 47,
+      "title": "も",
+      "pages": [
+        111,
+        112
+      ],
+      "target": "n4-mo-quantity",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 48,
+      "title": "な",
+      "pages": [
+        113,
+        114
+      ],
+      "target": "n4-prohibitive-na",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 49,
+      "title": "など",
+      "pages": [
+        115,
+        116
+      ],
+      "target": "N5:ya",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 50,
+      "title": "ながら",
+      "pages": [
+        117,
+        118
+      ],
+      "target": "n4-nagara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 51,
+      "title": "なかなか～ない",
+      "pages": [
+        119,
+        120
+      ],
+      "target": "n4-nakanaka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 52,
+      "title": "なければいけない",
+      "pages": [
+        121,
+        122
+      ],
+      "target": "n4-obligation",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 53,
+      "title": "なければならない",
+      "pages": [
+        123,
+        124
+      ],
+      "target": "n4-obligation",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 54,
+      "title": "なら",
+      "pages": [
+        125,
+        126
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 55,
+      "title": "なさい",
+      "pages": [
+        127,
+        128
+      ],
+      "target": "n4-nasai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 56,
+      "title": "なさる",
+      "pages": [
+        129,
+        130
+      ],
+      "target": "n4-respect",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 57,
+      "title": "に気がつく",
+      "pages": [
+        131,
+        132
+      ],
+      "target": "n4-ni-ki-ga-tsuku",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 58,
+      "title": "にみえる",
+      "pages": [
+        133,
+        134
+      ],
+      "target": "n4-ni-mieru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 59,
+      "title": "にする",
+      "pages": [
+        135,
+        136
+      ],
+      "target": "N5:suru-change",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 60,
+      "title": "にくい",
+      "pages": [
+        137,
+        138
+      ],
+      "target": "n4-nikui-zurai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 61,
+      "title": "の中で",
+      "pages": [
+        139,
+        140
+      ],
+      "target": "N5:ichiban",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 62,
+      "title": "のに",
+      "pages": [
+        141,
+        142
+      ],
+      "target": "n4-noni-contrast",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 63,
+      "title": "のに",
+      "pages": [
+        143,
+        144
+      ],
+      "target": "n4-noni-purpose",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 64,
+      "title": "のは〜だ",
+      "pages": [
+        145,
+        146
+      ],
+      "target": "N5:nominal-no",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 65,
+      "title": "お～ください",
+      "pages": [
+        147,
+        148
+      ],
+      "target": "n4-polite-request",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 66,
+      "title": "お～になる",
+      "pages": [
+        149,
+        150
+      ],
+      "target": "n4-respect",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 67,
+      "title": "おきに",
+      "pages": [
+        151,
+        152
+      ],
+      "target": "n4-oki-ni",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 68,
+      "title": "終わる",
+      "pages": [
+        153,
+        154
+      ],
+      "target": "n4-verb-stages",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 69,
+      "title": "られる",
+      "pages": [
+        155,
+        156,
+        157,
+        158
+      ],
+      "target": "N5:potential-verbs",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 70,
+      "title": "らしい",
+      "pages": [
+        159,
+        160
+      ],
+      "target": "n4-rashii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 71,
+      "title": "さ",
+      "pages": [
+        161,
+        162
+      ],
+      "target": "n4-adjective-sa",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 72,
+      "title": "さっき",
+      "pages": [
+        163,
+        164
+      ],
+      "target": "N5:sakki-sugu",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 73,
+      "title": "させられる",
+      "pages": [
+        165,
+        166
+      ],
+      "target": "n4-causative-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 74,
+      "title": "させる",
+      "pages": [
+        167,
+        168,
+        169
+      ],
+      "target": "n4-causative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 75,
+      "title": "させてください",
+      "pages": [
+        170,
+        171
+      ],
+      "target": "n4-sasete-kudasai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 76,
+      "title": "さすが",
+      "pages": [
+        172,
+        173
+      ],
+      "target": "n4-sasuga",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 77,
+      "title": "し",
+      "pages": [
+        174,
+        175,
+        176
+      ],
+      "target": "n4-shi",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 78,
+      "title": "そんなに",
+      "pages": [
+        177,
+        178
+      ],
+      "target": "n4-sonnani",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 79,
+      "title": "それでも",
+      "pages": [
+        179,
+        180
+      ],
+      "target": "n4-soredemo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 80,
+      "title": "そうだ",
+      "pages": [
+        181,
+        182
+      ],
+      "target": "n4-sou-hearsay",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 81,
+      "title": "そうだ",
+      "pages": [
+        183,
+        184
+      ],
+      "target": "n4-sou-appearance",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 82,
+      "title": "そうに・そうな",
+      "pages": [
+        185,
+        186
+      ],
+      "target": "n4-sou-appearance",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 83,
+      "title": "たばかり",
+      "pages": [
+        187,
+        188
+      ],
+      "target": "n4-ta-bakari",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 84,
+      "title": "たところ",
+      "pages": [
+        189,
+        190
+      ],
+      "target": "n4-tokoro",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 85,
+      "title": "他動詞 & 自動詞",
+      "pages": [
+        191,
+        192,
+        193
+      ],
+      "target": "n4-transitivity",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 86,
+      "title": "たがる",
+      "pages": [
+        194,
+        195,
+        196
+      ],
+      "target": "n4-garu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 87,
+      "title": "たら",
+      "pages": [
+        197,
+        198
+      ],
+      "target": "n4-tara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 88,
+      "title": "たらどう",
+      "pages": [
+        199,
+        200
+      ],
+      "target": "n4-tara-dou",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 89,
+      "title": "たらいいですか",
+      "pages": [
+        201,
+        202
+      ],
+      "target": "n4-tara-ii-question",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 90,
+      "title": "て/で",
+      "pages": [
+        203,
+        204
+      ],
+      "target": "n4-te-cause",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 91,
+      "title": "てあげる",
+      "pages": [
+        205,
+        206
+      ],
+      "target": "n4-te-ageru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 92,
+      "title": "てほしい",
+      "pages": [
+        207,
+        208
+      ],
+      "target": "n4-te-hoshii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 93,
+      "title": "ていく",
+      "pages": [
+        209,
+        210
+      ],
+      "target": "n4-te-iku-kuru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 94,
+      "title": "ていた",
+      "pages": [
+        211,
+        212
+      ],
+      "target": "N5:te-imasu",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 95,
+      "title": "ていただけませんか te itadakemasen ka",
+      "pages": [
+        213,
+        214
+      ],
+      "target": "n4-polite-request",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 96,
+      "title": "てくれる",
+      "pages": [
+        215,
+        216,
+        217
+      ],
+      "target": "n4-te-kureru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 97,
+      "title": "てくる",
+      "pages": [
+        218,
+        219
+      ],
+      "target": "n4-te-iku-kuru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 98,
+      "title": "てみる",
+      "pages": [
+        220,
+        221
+      ],
+      "target": "n4-te-miru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 99,
+      "title": "てもらう",
+      "pages": [
+        222,
+        223
+      ],
+      "target": "n4-te-morau",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 100,
+      "title": "ておく",
+      "pages": [
+        224,
+        225
+      ],
+      "target": "n4-te-oku",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 101,
+      "title": "てしまう / ちゃう",
+      "pages": [
+        226,
+        227
+      ],
+      "target": "n4-te-shimau",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 102,
+      "title": "てすみません",
+      "pages": [
+        228,
+        229
+      ],
+      "target": "n4-te-sumimasen",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 103,
+      "title": "てやる",
+      "pages": [
+        230,
+        231
+      ],
+      "target": "n4-te-ageru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 104,
+      "title": "てよかった",
+      "pages": [
+        232,
+        233
+      ],
+      "target": "n4-te-yokatta",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 105,
+      "title": "ているところ",
+      "pages": [
+        234,
+        235
+      ],
+      "target": "n4-tokoro",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 106,
+      "title": "ても",
+      "pages": [
+        236,
+        237,
+        238
+      ],
+      "target": "n4-temo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 107,
+      "title": "と",
+      "pages": [
+        239,
+        240
+      ],
+      "target": "n4-conditional-to",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 108,
+      "title": "と言ってもいい",
+      "pages": [
+        241,
+        242
+      ],
+      "target": "n4-toittemo-ii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 109,
+      "title": "という",
+      "pages": [
+        243,
+        244,
+        245
+      ],
+      "target": "n4-toiu-label",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 110,
+      "title": "ということ",
+      "pages": [
+        246,
+        247
+      ],
+      "target": "n4-toiu-koto",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 111,
+      "title": "と言われている",
+      "pages": [
+        248,
+        249
+      ],
+      "target": "n4-sou-hearsay",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 112,
+      "title": "と聞いた",
+      "pages": [
+        250,
+        251
+      ],
+      "target": "n4-sou-hearsay",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 113,
+      "title": "と思う",
+      "pages": [
+        252,
+        253
+      ],
+      "target": "n4-to-omou",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 114,
+      "title": "とか～とか",
+      "pages": [
+        254,
+        255
+      ],
+      "target": "n4-toka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 115,
+      "title": "ところ",
+      "pages": [
+        256,
+        257
+      ],
+      "target": "n4-tokoro",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 116,
+      "title": "続ける",
+      "pages": [
+        258,
+        259,
+        260
+      ],
+      "target": "n4-verb-stages",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 117,
+      "title": "って",
+      "pages": [
+        261,
+        262
+      ],
+      "target": "n4-toiu-label",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 118,
+      "title": "受身形",
+      "pages": [
+        263,
+        264,
+        265
+      ],
+      "target": "n4-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 119,
+      "title": "は〜が… は",
+      "pages": [
+        266,
+        267
+      ],
+      "target": "N5:wa",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 120,
+      "title": "やすい",
+      "pages": [
+        268,
+        269
+      ],
+      "target": "n4-yasui",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 121,
+      "title": "やっと",
+      "pages": [
+        270,
+        271
+      ],
+      "target": "n4-yatto",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 122,
+      "title": "より",
+      "pages": [
+        272,
+        273,
+        274
+      ],
+      "target": "N5:yori",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 123,
+      "title": "予定だ",
+      "pages": [
+        275,
+        276
+      ],
+      "target": "n4-yotei",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 124,
+      "title": "ようだ",
+      "pages": [
+        277,
+        278
+      ],
+      "target": "n4-you-mitai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 125,
+      "title": "ように / ような",
+      "pages": [
+        279,
+        280
+      ],
+      "target": "n4-you-mitai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 126,
+      "title": "ようになる",
+      "pages": [
+        281,
+        282
+      ],
+      "target": "n4-youni-naru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 127,
+      "title": "ようにする",
+      "pages": [
+        283,
+        284
+      ],
+      "target": "n4-youni-suru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 128,
+      "title": "ようと思う",
+      "pages": [
+        285,
+        286,
+        287
+      ],
+      "target": "n4-volitional-plan",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 129,
+      "title": "ぜひ",
+      "pages": [
+        288,
+        289
+      ],
+      "target": "n4-zehi",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "master",
+      "number": 130,
+      "title": "全然～ない",
+      "pages": [
+        290,
+        291
+      ],
+      "target": "N5:zenzen",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "master",
+      "number": 131,
+      "title": "づらい",
+      "pages": [
+        292,
+        293
+      ],
+      "target": "n4-nikui-zurai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        1
+      ],
+      "target": "NON:cover",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "all",
+      "pages": [
+        2
+      ],
+      "target": "N5:ni",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        2
+      ],
+      "target": "N5:de",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        2
+      ],
+      "target": "n4-material-kara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        2
+      ],
+      "target": "n4-zutsu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        2
+      ],
+      "target": "N5:mo",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        3
+      ],
+      "target": "n4-hodo-negative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        3
+      ],
+      "target": "N5:combined-wa",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        4
+      ],
+      "target": "N5:relative-clause",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        5
+      ],
+      "target": "n4-demo-even",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        5
+      ],
+      "target": "n4-demo-example",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        5
+      ],
+      "target": "N5:de",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        6
+      ],
+      "target": "n4-te-cause",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        6
+      ],
+      "target": "N5:wo",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        6
+      ],
+      "target": "N5:ni",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        7
+      ],
+      "target": "n4-toka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        7
+      ],
+      "target": "n4-shika",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        7
+      ],
+      "target": "N5:dake",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        8
+      ],
+      "target": "N5:kara-made",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        8
+      ],
+      "target": "n4-made-ni",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        9
+      ],
+      "target": "N5:tari",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        9
+      ],
+      "target": "n4-shi",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        10
+      ],
+      "target": "n4-shi",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        10
+      ],
+      "target": "n4-bakari",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        11
+      ],
+      "target": "n4-tokoro",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        12
+      ],
+      "target": "N5:toki",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        13
+      ],
+      "target": "n4-aida",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        14
+      ],
+      "target": "n4-te-cause",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        15
+      ],
+      "target": "n4-te-cause",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        16
+      ],
+      "target": "n4-mama",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        17
+      ],
+      "target": "n4-ta-koto-aru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        18
+      ],
+      "target": "n4-koto-ni-suru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        18
+      ],
+      "target": "N5:ni-shimasu",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        19
+      ],
+      "target": "n4-koto-ni-naru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        19
+      ],
+      "target": "N5:naru",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        20
+      ],
+      "target": "N5:naru",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        20
+      ],
+      "target": "N5:suru-change",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        21
+      ],
+      "target": "n4-obligation",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        22
+      ],
+      "target": "n4-temo-ii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        22
+      ],
+      "target": "n4-nakutemo-ii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        22
+      ],
+      "target": "n4-tewa-ikenai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        23
+      ],
+      "target": "n4-te-oku",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        24
+      ],
+      "target": "n4-te-shimau",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        25
+      ],
+      "target": "n4-te-miru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        26
+      ],
+      "target": "N5:ageru",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        26
+      ],
+      "target": "N5:kureru",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        26
+      ],
+      "target": "N5:morau",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        27
+      ],
+      "target": "n4-te-ageru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        27
+      ],
+      "target": "n4-te-kureru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        28
+      ],
+      "target": "n4-te-morau",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        29
+      ],
+      "target": "n4-tameni",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        30
+      ],
+      "target": "n4-youni-purpose",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        31
+      ],
+      "target": "n4-youni-suru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        32
+      ],
+      "target": "N5:how-questions",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        33
+      ],
+      "target": "N5:how-questions",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        34
+      ],
+      "target": "n4-toiu-label",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        35
+      ],
+      "target": "n4-houga-ii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        36
+      ],
+      "target": "n4-imperative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        36
+      ],
+      "target": "n4-prohibitive-na",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        37
+      ],
+      "target": "n4-nasai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        38
+      ],
+      "target": "n4-ka-douka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        39
+      ],
+      "target": "n4-embedded-ka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        40
+      ],
+      "target": "N5:nominal-no",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        40
+      ],
+      "target": "N5:no-substitute",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        41
+      ],
+      "target": "n4-noni-purpose",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        42
+      ],
+      "target": "N5:potential-verbs",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        43
+      ],
+      "target": "n4-mieru-kikoeru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        43
+      ],
+      "target": "N5:nominal-no",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        44
+      ],
+      "target": "n4-node",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        45
+      ],
+      "target": "n4-noni-contrast",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        46
+      ],
+      "target": "n4-temo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        47
+      ],
+      "target": "n4-question-temo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        48
+      ],
+      "target": "n4-soreni",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        49
+      ],
+      "target": "N5:demo-shikashi",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        49
+      ],
+      "target": "n4-tokorode",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        49
+      ],
+      "target": "n4-tatoeba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        49
+      ],
+      "target": "N5:soredewa",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        50
+      ],
+      "target": "n4-kata",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        51
+      ],
+      "target": "n4-polite-request",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        52
+      ],
+      "target": "n4-te-hoshii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        53
+      ],
+      "target": "n4-tara-dou",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        54
+      ],
+      "target": "N5:to-iimasu",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        55
+      ],
+      "target": "n4-volitional",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        55
+      ],
+      "target": "n4-volitional-plan",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        56
+      ],
+      "target": "n4-tsumori",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        56
+      ],
+      "target": "n4-yotei",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        57
+      ],
+      "target": "n4-tara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        57
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        57
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        58
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        58
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        59
+      ],
+      "target": "n4-conditional-to",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        60
+      ],
+      "target": "n4-you-mitai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        61
+      ],
+      "target": "n4-you-mitai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        62
+      ],
+      "target": "n4-sou-appearance",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        63
+      ],
+      "target": "n4-sou-hearsay",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        64
+      ],
+      "target": "n4-darou",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        65
+      ],
+      "target": "n4-kamo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        66
+      ],
+      "target": "n4-sugiru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        67
+      ],
+      "target": "n4-yasui",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        67
+      ],
+      "target": "n4-nikui-zurai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        68
+      ],
+      "target": "n4-verb-stages",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        69
+      ],
+      "target": "n4-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        70
+      ],
+      "target": "n4-causative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        71
+      ],
+      "target": "n4-causative-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        72
+      ],
+      "target": "n4-sasete-kudasai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        73
+      ],
+      "target": "n4-transitivity",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        74
+      ],
+      "target": "n4-transitivity",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        74
+      ],
+      "target": "N5:te-imasu",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        75
+      ],
+      "target": "N5:te-imasu",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        75
+      ],
+      "target": "n4-te-aru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        76
+      ],
+      "target": "n4-te-iku-kuru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        77
+      ],
+      "target": "n4-ndesu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        78
+      ],
+      "target": "n4-naa",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "all",
+      "pages": [
+        78
+      ],
+      "target": "N5:ne-yo",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        79
+      ],
+      "target": "N5:ne-yo",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "all",
+      "pages": [
+        80
+      ],
+      "target": "NON:closing",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        1
+      ],
+      "target": "NON:cover",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        2
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        3
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        4
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        5
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        6
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        7
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        8
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        9
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        10
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        11
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        12
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        13
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        14
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        15
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        16
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        17
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        18
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        19
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        20
+      ],
+      "target": "N5:potential-verbs",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        21
+      ],
+      "target": "N5:potential-verbs",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        22
+      ],
+      "target": "N5:potential-verbs",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        23
+      ],
+      "target": "N5:potential-verbs",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        24
+      ],
+      "target": "N5:potential-verbs",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        25
+      ],
+      "target": "n4-imperative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        26
+      ],
+      "target": "n4-imperative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        27
+      ],
+      "target": "n4-imperative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        28
+      ],
+      "target": "n4-imperative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        29
+      ],
+      "target": "n4-prohibitive-na",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        30
+      ],
+      "target": "n4-prohibitive-na",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        31
+      ],
+      "target": "n4-prohibitive-na",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        32
+      ],
+      "target": "n4-prohibitive-na",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        33
+      ],
+      "target": "n4-volitional",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        34
+      ],
+      "target": "n4-volitional",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        35
+      ],
+      "target": "n4-volitional",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        36
+      ],
+      "target": "n4-volitional",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        37
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        37
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        38
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        38
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        39
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        39
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        40
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        40
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        41
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        41
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        42
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        42
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        43
+      ],
+      "target": "n4-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        44
+      ],
+      "target": "n4-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        45
+      ],
+      "target": "n4-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        46
+      ],
+      "target": "n4-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        47
+      ],
+      "target": "n4-causative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        48
+      ],
+      "target": "n4-causative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        49
+      ],
+      "target": "n4-causative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "verb",
+      "pages": [
+        50
+      ],
+      "target": "n4-causative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        1
+      ],
+      "target": "NON:cover",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        2
+      ],
+      "target": "NON:contents",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        3
+      ],
+      "target": "NON:contents",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        4
+      ],
+      "target": "NON:kana",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        5
+      ],
+      "target": "NON:kana",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        6
+      ],
+      "target": "N5:wa",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        6
+      ],
+      "target": "N5:mo",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        6
+      ],
+      "target": "N5:no-possession",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        7
+      ],
+      "target": "N5:ni",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        8
+      ],
+      "target": "N5:de",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        8
+      ],
+      "target": "N5:ni",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        9
+      ],
+      "target": "N5:to",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        9
+      ],
+      "target": "N5:wo",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        10
+      ],
+      "target": "N5:ga-question",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        11
+      ],
+      "target": "N5:ya",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        11
+      ],
+      "target": "N5:kara-made",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        11
+      ],
+      "target": "n4-made-ni",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        11
+      ],
+      "target": "N5:yori",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        11
+      ],
+      "target": "n4-demo-example",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        11
+      ],
+      "target": "n4-toka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        12
+      ],
+      "target": "n4-shika",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        12
+      ],
+      "target": "N5:dake",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        12
+      ],
+      "target": "N5:nominal-no",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        12
+      ],
+      "target": "n4-noni-purpose",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        13
+      ],
+      "target": "N5:verb-forms",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        14
+      ],
+      "target": "n4-volitional",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        14
+      ],
+      "target": "n4-imperative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        14
+      ],
+      "target": "n4-prohibitive-na",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        14
+      ],
+      "target": "N5:potential-verbs",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        15
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        15
+      ],
+      "target": "n4-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        15
+      ],
+      "target": "n4-causative",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        15
+      ],
+      "target": "n4-respect",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        16
+      ],
+      "target": "n4-transitivity",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        17
+      ],
+      "target": "n4-transitivity",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        18
+      ],
+      "target": "n4-transitivity",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        19
+      ],
+      "target": "n4-respect",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        19
+      ],
+      "target": "n4-humble",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        20
+      ],
+      "target": "N5:i-adjective",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        20
+      ],
+      "target": "N5:na-adjective",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        21
+      ],
+      "target": "N5:i-adjective",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        21
+      ],
+      "target": "N5:na-adjective",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        22
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        23
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        24
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        25
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        26
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        27
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        28
+      ],
+      "target": "N5:relative-clause",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        28
+      ],
+      "target": "N5:noun-modifiers",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        28
+      ],
+      "target": "N5:no-possession",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        29
+      ],
+      "target": "N5:frequency",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        29
+      ],
+      "target": "N5:degree",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        29
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        30
+      ],
+      "target": "N5:frequency",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        30
+      ],
+      "target": "N5:degree",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        30
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        31
+      ],
+      "target": "N5:frequency",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        31
+      ],
+      "target": "N5:degree",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        31
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        32
+      ],
+      "target": "N5:frequency",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        32
+      ],
+      "target": "N5:degree",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        32
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        33
+      ],
+      "target": "N5:frequency",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        33
+      ],
+      "target": "N5:degree",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        33
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        34
+      ],
+      "target": "N5:frequency",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        34
+      ],
+      "target": "N5:degree",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        34
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        35
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        36
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        37
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        38
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        39
+      ],
+      "target": "NON:vocabulary-list",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "N5:mashou",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "N5:masenka",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "N5:tai",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "N5:purpose-ni",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-nagara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-kata",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-sugiru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-yasui",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-nikui-zurai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-nasai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-conditional-to",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-prohibitive-na",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-youni-purpose",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-youni-suru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-youni-naru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-tameni",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        40
+      ],
+      "target": "n4-yotei",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "N5:te-kudasai",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "N5:te-imasu",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "n4-temo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "n4-temo-ii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "n4-tewa-ikenai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "N5:te-kara",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "N5:te-sequence",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "n4-te-ageru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "n4-te-morau",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "n4-te-kureru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        41
+      ],
+      "target": "n4-te-shimau",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-te-oku",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-te-miru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-te-iku-kuru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "N5:naide-kudasai",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-naide",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-obligation",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-nakutemo-ii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-youni-naru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-ta-koto-aru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "N5:tari",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-tara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "N5:ato-de",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        42
+      ],
+      "target": "n4-ta-bakari",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        43
+      ],
+      "target": "n4-volitional-plan",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        43
+      ],
+      "target": "n4-passive",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        44
+      ],
+      "target": "n4-ba",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        44
+      ],
+      "target": "n4-nara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        45
+      ],
+      "target": "n4-to-omou",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        45
+      ],
+      "target": "N5:to-iimasu",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        45
+      ],
+      "target": "n4-darou",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        45
+      ],
+      "target": "n4-kamo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        45
+      ],
+      "target": "N5:toki",
+      "decision": "existing-n5"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        46
+      ],
+      "target": "n4-tara",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        46
+      ],
+      "target": "n4-temo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        46
+      ],
+      "target": "n4-tsumori",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        46
+      ],
+      "target": "n4-youni-purpose",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        47
+      ],
+      "target": "n4-you-mitai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        47
+      ],
+      "target": "n4-youni-suru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        47
+      ],
+      "target": "n4-youni-naru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        47
+      ],
+      "target": "n4-tokoro",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        47
+      ],
+      "target": "n4-houga-ii",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        47
+      ],
+      "target": "n4-shi",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        48
+      ],
+      "target": "n4-sou-appearance",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        48
+      ],
+      "target": "n4-sou-hearsay",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        48
+      ],
+      "target": "n4-kamo",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        48
+      ],
+      "target": "n4-node",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        49
+      ],
+      "target": "n4-noni-contrast",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        49
+      ],
+      "target": "n4-embedded-ka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        49
+      ],
+      "target": "n4-ka-douka",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        49
+      ],
+      "target": "n4-sugiru",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        49
+      ],
+      "target": "n4-yotei",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        49
+      ],
+      "target": "n4-ndesu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        49
+      ],
+      "target": "n4-toori",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        50
+      ],
+      "target": "n4-baai",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        50
+      ],
+      "target": "n4-hazu",
+      "decision": "new-or-merged"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        51
+      ],
+      "target": "NON:index",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        52
+      ],
+      "target": "NON:index",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        53
+      ],
+      "target": "NON:index",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "master",
+      "pages": [
+        1
+      ],
+      "target": "NON:cover-and-contents",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "master",
+      "pages": [
+        2
+      ],
+      "target": "NON:cover-and-contents",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "master",
+      "pages": [
+        3
+      ],
+      "target": "NON:cover-and-contents",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "master",
+      "pages": [
+        4
+      ],
+      "target": "NON:cover-and-contents",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "master",
+      "pages": [
+        5
+      ],
+      "target": "NON:cover-and-contents",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "master",
+      "pages": [
+        6
+      ],
+      "target": "NON:cover-and-contents",
+      "decision": "non-lesson"
+    },
+    {
+      "source": "master",
+      "pages": [
+        7
+      ],
+      "target": "NON:cover-and-contents",
+      "decision": "non-lesson"
+    }
+  ],
+  "corrections": [
+    {
+      "source": "verb",
+      "page": 49,
+      "incorrect": "たさせます",
+      "correct": "たべさせます"
+    },
+    {
+      "source": "rangkuman",
+      "page": 42,
+      "incorrect": "ないければ／ないくても",
+      "correct": "なければ／なくても"
+    },
+    {
+      "source": "rangkuman",
+      "page": 42,
+      "incorrect": "たり as strict chronological sequence",
+      "correct": "たり lists representative activities"
+    },
+    {
+      "source": "master",
+      "pages": [
+        47
+      ],
+      "incorrect": "います changes to ございます",
+      "correct": "あります→ございます; people: おります／いらっしゃいます"
+    },
+    {
+      "source": "master",
+      "tocNumber": 16,
+      "incorrect": "TOC printed start45",
+      "correct": "actual printed start42 (PDF44)"
+    },
+    {
+      "source": "rangkuman",
+      "page": 11,
+      "incorrect": "までに means H-1",
+      "correct": "Deadline includes the named time; not automatically the day before"
+    },
+    {
+      "source": "rangkuman",
+      "pages": [
+        43,
+        45,
+        46
+      ],
+      "incorrect": "Fixed percentages for と思う / intention / つもり",
+      "correct": "Explain pragmatic difference without arbitrary percentages"
+    },
+    {
+      "source": "rangkuman",
+      "page": 41,
+      "incorrect": "くれる means receive as grammatical subject",
+      "correct": "Giver acts; benefit comes to speaker side"
+    }
+  ],
+  "summary": {
+    "physicalPages": 476,
+    "n5Lessons": 83,
+    "n4Lessons": 115,
+    "categories": 14,
+    "examples": 233,
+    "masterTopics": 131,
+    "masterAlreadyN5": 16,
+    "masterRetainedFamilies": 87,
+    "masterMergedRows": 28,
+    "additionalFamiliesFromOtherSources": 28
+  }
+}

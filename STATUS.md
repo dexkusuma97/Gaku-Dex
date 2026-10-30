@@ -1088,3 +1088,7 @@ for user GitHub/Cloudflare publishing; not yet deployed from this checkout.
 ## Kanji lanjutan — 30 Oktober 2026
 
 Audit tiga PDF Marugoto: 1.106 baris, 397 karakter sumber. Pertahankan 115 kanji N5; tambahkan 217 karakter A2 dan 70 pengayaan A2/B1 terpisah (287 tambahan, tanpa pengulangan N5). Arti berulang diringkas; 15 kategori tema; setiap karakter tambahan memiliki contoh kata sumber. Halaman, pencarian, detail, filter cakupan dan kuis Kanji mengikuti level. Detail yang tidak diberikan sumber (guratan/radikal) tidak diisi dengan tebakan. Lihat data/KANJI_N4_AUDIT.md. Tidak mengubah audio atau konfigurasi penerbitan.
+
+## Bunpo N4 — 30 Oktober 2026
+
+Audit empat PDF (476 halaman fisik). Tambahkan 115 materi N4 dalam 14 kategori, 233 contoh dengan kana/arti, 16 cek singkat, serta tabel bentuk dan catatan pembeda. Materi yang sudah ada di 83 kartu N5 tidak dibuat ulang; variasi sefungsi digabung dengan pemetaan sumber. Kartu nominal-no N5 diperjelas agar fungsi のは／のが／のを tetap satu keluarga. Daftar, pencarian, detail, simpanan dan rute mengikuti level. Bank kuis Bunpo N4 bertimer belum ditambahkan. Lihat data/BUNPO_N4_AUDIT.md. Audio, gambar dan konfigurasi penerbitan tidak diubah.

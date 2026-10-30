@@ -3183,15 +3183,17 @@
       "sourcePages": [
         35
       ],
-      "title": "Vのは ～",
+      "title": "Vの＋は／が／を",
       "kana": "のは",
       "romaji": "no wa",
-      "meaning": "Menilai sebuah kegiatan",
-      "explanation": "の setelah kata kerja bentuk biasa dapat membendakan kegiatan. Gunakan は untuk menjadikannya topik, lalu sampaikan penilaian seperti sulit atau mudah.",
+      "meaning": "Menjadikan kegiatan sebagai topik, subjek, atau objek",
+      "explanation": "の setelah kata kerja bentuk biasa membendakan kegiatan. は menjadikannya topik, が dapat menandai hal yang disukai atau ditangkap indra, dan を menandai objek seperti kegiatan yang dilupakan. Partikel dipilih sesuai kata kerja atau penilaian sesudahnya.",
       "patterns": [
-        "V kamus + のは + penilaian"
+        "V bentuk biasa + のは + penilaian",
+        "V bentuk biasa + のが + 好きです／見えます",
+        "V bentuk biasa + のを + 忘れました"
       ],
-      "note": "の dan こと dapat saling menggantikan pada sebagian kalimat, tetapi tidak di semua pola. Pelajari 趣味は～ことです sebagai satu susunan tersendiri.",
+      "note": "Contoh: 泳ぐのが好きです berarti suka berenang; 電話するのを忘れました berarti lupa menelepon. の dan こと tidak selalu dapat saling menggantikan. Penjelasan keluarga pola ini tetap di N5 agar tidak menjadi kartu ganda di N4.",
       "examples": [
         {
           "jp": "漢字を覚えるのは大変です。",
