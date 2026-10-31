@@ -4,9 +4,13 @@ sys.path.insert(0,str(__import__("pathlib").Path(__file__).resolve().parent/"lib
 from kotoba_level_policy import apply
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
+from kotoba_lexical_review import apply_lexical_review
+print('Lexical review:',apply_lexical_review(root))
 print('Level policy:',apply(root))
 from kotoba_context_review import apply_context_review
 print('Context examples:',apply_context_review(root))
+from kotoba_lexical_review import finalize_lexical_review
+finalize_lexical_review(root)
 data=json.loads((root/'data/kotoba-n5.json').read_text())
 assert len({e['id'] for e in data['entries']})==len(data['entries'])
 out='/* Source: data/kotoba-n5.json. Build: python scripts/build-kotoba-data.py */\n'

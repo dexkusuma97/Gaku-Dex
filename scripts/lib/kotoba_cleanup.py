@@ -1,6 +1,6 @@
 """Reviewed names, mislabeled subcategories and visible-text cleanup."""
 import re,unicodedata,copy
-REAL_NAMES=set('村上春樹 夏目漱石 ショパン 五嶋みどり 山下泰裕 足利義満 坂本龍馬 豊臣秀吉'.split())
+REAL_NAMES=set('バッハ モネ 桓武天皇 徳川しょうぐん 岡本太郎 黒澤明 黒柳徹子 津田梅子 湯川秀樹 安室奈美恵 三船敏郎 村上春樹 夏目漱石 ショパン 五嶋みどり 山下泰裕 足利義満 坂本龍馬 豊臣秀吉'.split())
 RECLASSIFY={
  'お土産':('noun','Belanja & uang'), 'お客様':('noun','Orang & identitas'), '1人で':('adverb','Cara & keadaan'),
  '~様':('expression','Sapaan & perkenalan'), 'さん':('expression','Sapaan & perkenalan'),

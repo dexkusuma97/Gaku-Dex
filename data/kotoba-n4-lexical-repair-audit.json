@@ -1,0 +1,1863 @@
+{
+  "updated": "2026-10-31",
+  "reviewedSourceCount": 37,
+  "originalRecords": [
+    {
+      "jp": "つゆ",
+      "kana": "つゆ",
+      "meaning": "musim hujan / saus kaldu (saus celup)",
+      "sources": [
+        {
+          "id": 7,
+          "page": 10
+        },
+        {
+          "id": 9,
+          "page": 10
+        },
+        {
+          "id": 10,
+          "page": 14
+        },
+        {
+          "id": 12,
+          "page": 15
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "つゆ"
+      ],
+      "category": "noun",
+      "subcategory": "Makanan & bahan masak",
+      "kind": "noun",
+      "id": "kotoba-n4-a8f9b8613976",
+      "order": 218,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "つゆについて教えてください。",
+        "kana": "つゆ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang musim hujan."
+      },
+      "romaji": "tsuyu"
+    },
+    {
+      "jp": "ぬ",
+      "kana": "にる",
+      "meaning": "mirip",
+      "sources": [
+        {
+          "id": 7,
+          "page": 11
+        },
+        {
+          "id": 8,
+          "page": 13
+        },
+        {
+          "id": 9,
+          "page": 5
+        },
+        {
+          "id": 10,
+          "page": 16
+        }
+      ],
+      "aliases": [
+        "にます",
+        "にる"
+      ],
+      "readings": [
+        "にる"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "にます",
+        "kana": "にます"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-640190f83a3f",
+      "order": 240,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "ぬこともあります。",
+        "kana": "にる ことも あります。",
+        "meaning": "Ada kalanya mirip."
+      },
+      "romaji": "niru"
+    },
+    {
+      "jp": "バッハ",
+      "kana": "ばっは",
+      "meaning": "Bach (Johann Sebastian) / Bach, Johann Sebastian",
+      "sources": [
+        {
+          "id": 7,
+          "page": 12
+        },
+        {
+          "id": 8,
+          "page": 13
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "ばっは"
+      ],
+      "category": "noun",
+      "subcategory": "Konsep & informasi",
+      "kind": "noun",
+      "id": "kotoba-n4-dc0ac2925eb7",
+      "order": 252,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "バッハについて教えてください。",
+        "kana": "ばっは に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Bach."
+      },
+      "romaji": "bahha"
+    },
+    {
+      "jp": "びん",
+      "kana": "びん",
+      "meaning": "penerbangan / botol kaca / botol (kaca)",
+      "sources": [
+        {
+          "id": 7,
+          "page": 12
+        },
+        {
+          "id": 10,
+          "page": 17
+        },
+        {
+          "id": 12,
+          "page": 70
+        }
+      ],
+      "aliases": [
+        "ビン"
+      ],
+      "readings": [
+        "びん"
+      ],
+      "category": "noun",
+      "subcategory": "Rumah & perabot",
+      "kind": "noun",
+      "id": "kotoba-n4-903a2f97cf46",
+      "order": 270,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "びんについて教えてください。",
+        "kana": "びん に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang penerbangan."
+      },
+      "romaji": "bin"
+    },
+    {
+      "jp": "かいご",
+      "kana": "かいご",
+      "meaning": "perawat/pengasuh",
+      "sources": [
+        {
+          "id": 8,
+          "page": 4
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "かいご"
+      ],
+      "category": "noun",
+      "subcategory": "Tubuh & kesehatan",
+      "kind": "noun",
+      "id": "kotoba-n4-31670e09ed35",
+      "order": 375,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "かいごについて教えてください。",
+        "kana": "かいご に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang perawat."
+      },
+      "romaji": "kaigo"
+    },
+    {
+      "jp": "しゅうしょく",
+      "kana": "しゅうしょく",
+      "meaning": "pencarian kerja",
+      "sources": [
+        {
+          "id": 8,
+          "page": 8
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "しゅうしょく"
+      ],
+      "category": "noun",
+      "subcategory": "Teknologi & komunikasi",
+      "kind": "noun",
+      "id": "kotoba-n4-1a700c896e93",
+      "order": 426,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "しゅうしょくについて教えてください。",
+        "kana": "しゅうしょく に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang pencarian kerja."
+      },
+      "romaji": "shuushoku"
+    },
+    {
+      "jp": "とれる",
+      "kana": "とれる",
+      "meaning": "untuk melepas lelah/untuk merasa segar / petik; memetik",
+      "sources": [
+        {
+          "id": 8,
+          "page": 12
+        },
+        {
+          "id": 11,
+          "page": 34
+        }
+      ],
+      "aliases": [
+        "とれます"
+      ],
+      "readings": [
+        "とれる"
+      ],
+      "group": 2,
+      "polite": {
+        "jp": "とれます",
+        "kana": "とれます"
+      },
+      "category": "verb",
+      "subcategory": "Grup 2",
+      "kind": "verb",
+      "id": "kotoba-n4-f8dd78c72669",
+      "order": 461,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "とれることもあります。",
+        "kana": "とれる ことも あります。",
+        "meaning": "Ada kalanya untuk melepas lelah."
+      },
+      "romaji": "toreru"
+    },
+    {
+      "jp": "ホーム",
+      "kana": "ほーむ",
+      "meaning": "peron / homepage; laman",
+      "sources": [
+        {
+          "id": 8,
+          "page": 15
+        },
+        {
+          "id": 12,
+          "page": 52
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "ほーむ"
+      ],
+      "category": "noun",
+      "subcategory": "Transportasi & perjalanan",
+      "kind": "noun",
+      "id": "kotoba-n4-51d52b0f29a9",
+      "order": 482,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "ホームについて教えてください。",
+        "kana": "ほーむ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang peron."
+      },
+      "romaji": "hoomu"
+    },
+    {
+      "jp": "モネ",
+      "kana": "もね",
+      "meaning": "Claude Monet",
+      "sources": [
+        {
+          "id": 8,
+          "page": 16
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "もね"
+      ],
+      "category": "noun",
+      "subcategory": "Konsep & informasi",
+      "kind": "noun",
+      "id": "kotoba-n4-e1a38346f85e",
+      "order": 499,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "モネについて教えてください。",
+        "kana": "もね に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Claude Monet."
+      },
+      "romaji": "mone"
+    },
+    {
+      "jp": "こくさい結婚",
+      "kana": "こくさいけっこんする",
+      "meaning": "pernikahan internasional/antarbangsa",
+      "sources": [
+        {
+          "id": 9,
+          "page": 8
+        }
+      ],
+      "aliases": [
+        "こくさいけっこんします"
+      ],
+      "readings": [
+        "こくさいけっこんする"
+      ],
+      "group": 3,
+      "polite": {
+        "jp": "こくさい結婚",
+        "kana": "こくさいけっこんします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 3",
+      "kind": "verb",
+      "id": "kotoba-n4-34884fc30075",
+      "order": 589,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "こくさい結婚こともあります。",
+        "kana": "こくさいけっこんする ことも あります。",
+        "meaning": "Ada kalanya pernikahan internasional."
+      },
+      "romaji": "kokusaikekkonsuru"
+    },
+    {
+      "jp": "たてる",
+      "kana": "たてる",
+      "meaning": "bersuara / mendirikan/membangun / mendirikan / membangun; mendirikan (cth : membangun rumah)",
+      "sources": [
+        {
+          "id": 9,
+          "page": 8
+        },
+        {
+          "id": 9,
+          "page": 19
+        },
+        {
+          "id": 10,
+          "page": 13
+        },
+        {
+          "id": 12,
+          "page": 57
+        },
+        {
+          "id": 12,
+          "page": 83
+        }
+      ],
+      "aliases": [
+        "たてます",
+        "建てる"
+      ],
+      "readings": [
+        "たてる"
+      ],
+      "group": 2,
+      "polite": {
+        "jp": "たてます",
+        "kana": "たてます"
+      },
+      "category": "verb",
+      "subcategory": "Grup 2",
+      "kind": "verb",
+      "id": "kotoba-n4-6b8ddfaf6de8",
+      "order": 591,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "たてることもあります。",
+        "kana": "たてる ことも あります。",
+        "meaning": "Ada kalanya bersuara."
+      },
+      "romaji": "tateru"
+    },
+    {
+      "jp": "のこする",
+      "kana": "のこす",
+      "meaning": "menyisakan",
+      "sources": [
+        {
+          "id": 9,
+          "page": 9
+        }
+      ],
+      "aliases": [
+        "のこします"
+      ],
+      "readings": [
+        "のこす"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "のこします",
+        "kana": "のこします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-0e47e5d6aaad",
+      "order": 596,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "のこすることもあります。",
+        "kana": "のこす ことも あります。",
+        "meaning": "Ada kalanya menyisakan."
+      },
+      "romaji": "nokosu"
+    },
+    {
+      "jp": "さがする",
+      "kana": "さがす",
+      "meaning": "mencari",
+      "sources": [
+        {
+          "id": 9,
+          "page": 13
+        },
+        {
+          "id": 10,
+          "page": 9
+        },
+        {
+          "id": 11,
+          "page": 24
+        },
+        {
+          "id": 12,
+          "page": 47
+        }
+      ],
+      "aliases": [
+        "さがします",
+        "探す"
+      ],
+      "readings": [
+        "さがす"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "さがします",
+        "kana": "さがします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-75935806ab3e",
+      "order": 679,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "さがすることもあります。",
+        "kana": "さがす ことも あります。",
+        "meaning": "Ada kalanya mencari."
+      },
+      "romaji": "sagasu"
+    },
+    {
+      "jp": "じしん",
+      "kana": "じしん",
+      "meaning": "percaya diri/kepercayaan atas diri sendiri / gempa bumi",
+      "sources": [
+        {
+          "id": 9,
+          "page": 13
+        },
+        {
+          "id": 9,
+          "page": 16
+        },
+        {
+          "id": 10,
+          "page": 10
+        },
+        {
+          "id": 12,
+          "page": 27
+        },
+        {
+          "id": 12,
+          "page": 73
+        }
+      ],
+      "aliases": [
+        "地震"
+      ],
+      "readings": [
+        "じしん"
+      ],
+      "category": "noun",
+      "subcategory": "Alam & cuaca",
+      "kind": "noun",
+      "id": "kotoba-n4-3aa03b5369b5",
+      "order": 682,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "じしんについて教えてください。",
+        "kana": "じしん に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang percaya diri."
+      },
+      "romaji": "jishin"
+    },
+    {
+      "jp": "すごする",
+      "kana": "すごす",
+      "meaning": "menghabiskan waktu",
+      "sources": [
+        {
+          "id": 9,
+          "page": 15
+        },
+        {
+          "id": 10,
+          "page": 11
+        }
+      ],
+      "aliases": [
+        "すごします"
+      ],
+      "readings": [
+        "すごす"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "すごします",
+        "kana": "すごします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-374954d7531e",
+      "order": 724,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "すごすることもあります。",
+        "kana": "すごす ことも あります。",
+        "meaning": "Ada kalanya menghabiskan waktu."
+      },
+      "romaji": "sugosu"
+    },
+    {
+      "jp": "おとする",
+      "kana": "おとす",
+      "meaning": "menjatuhkan",
+      "sources": [
+        {
+          "id": 9,
+          "page": 17
+        },
+        {
+          "id": 10,
+          "page": 4
+        }
+      ],
+      "aliases": [
+        "おとします"
+      ],
+      "readings": [
+        "おとす"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "おとします",
+        "kana": "おとします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-2db2a426ff71",
+      "order": 778,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "おとすることもあります。",
+        "kana": "おとす ことも あります。",
+        "meaning": "Ada kalanya menjatuhkan."
+      },
+      "romaji": "otosu"
+    },
+    {
+      "jp": "つく",
+      "kana": "つく",
+      "meaning": "(listrik/lampu) menyala / menyala (lampu menyala) / menempel; terkontaminasi (virus) / disajikan beserta ~ (cth : disajikan beserta sup miso) / memiliki; menyertakan; termasuk (cth : fungsi yang disertakan / memiliki fungsi)",
+      "sources": [
+        {
+          "id": 9,
+          "page": 18
+        },
+        {
+          "id": 10,
+          "page": 14
+        },
+        {
+          "id": 11,
+          "page": 37
+        },
+        {
+          "id": 11,
+          "page": 51
+        },
+        {
+          "id": 12,
+          "page": 9
+        },
+        {
+          "id": 12,
+          "page": 55
+        }
+      ],
+      "aliases": [
+        "つきます"
+      ],
+      "readings": [
+        "つく"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "つきます",
+        "kana": "つきます"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-bbe1f5ab3104",
+      "order": 794,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "つくこともあります。",
+        "kana": "つく ことも あります。",
+        "meaning": "Ada kalanya menyala."
+      },
+      "romaji": "tsuku"
+    },
+    {
+      "jp": "とりだする",
+      "kana": "とりだす",
+      "meaning": "mengeluarkan",
+      "sources": [
+        {
+          "id": 9,
+          "page": 19
+        },
+        {
+          "id": 11,
+          "page": 35
+        }
+      ],
+      "aliases": [
+        "とりだします",
+        "取り出す"
+      ],
+      "readings": [
+        "とりだす"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "とりだします",
+        "kana": "とりだします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-2dbe20b58f04",
+      "order": 818,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "とりだすることもあります。",
+        "kana": "とりだす ことも あります。",
+        "meaning": "Ada kalanya mengeluarkan."
+      },
+      "romaji": "toridasu"
+    },
+    {
+      "jp": "桓武天皇",
+      "kana": "かんむてんのう",
+      "meaning": "Kaisar Kanmu",
+      "sources": [
+        {
+          "id": 9,
+          "page": 19
+        }
+      ],
+      "aliases": [
+        "かんむてんのう"
+      ],
+      "readings": [
+        "かんむてんのう"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-93d5cd5b890f",
+      "order": 828,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "桓武天皇について教えてください。",
+        "kana": "かんむてんのう に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Kaisar Kanmu."
+      },
+      "romaji": "kanmutennou"
+    },
+    {
+      "jp": "徳川しょうぐん",
+      "kana": "とくがわしょうぐん",
+      "meaning": "Shogun Tokugawa (Shogun pada era Edo)",
+      "sources": [
+        {
+          "id": 9,
+          "page": 20
+        },
+        {
+          "id": 10,
+          "page": 15
+        }
+      ],
+      "aliases": [
+        "とくがわしょうぐん"
+      ],
+      "readings": [
+        "とくがわしょうぐん"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-60d00d0722e4",
+      "order": 851,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "徳川しょうぐんについて教えてください。",
+        "kana": "とくがわしょうぐん に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Shogun Tokugawa."
+      },
+      "romaji": "tokugawashougun"
+    },
+    {
+      "jp": "てん",
+      "kana": "てん",
+      "meaning": "pagelaran/ekshibisi / ... koma ... (3,5)",
+      "sources": [
+        {
+          "id": 9,
+          "page": 21
+        },
+        {
+          "id": 10,
+          "page": 14
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "てん"
+      ],
+      "category": "noun",
+      "subcategory": "Konsep & informasi",
+      "kind": "noun",
+      "id": "kotoba-n4-d52e976eac84",
+      "order": 880,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "てんについて教えてください。",
+        "kana": "てん に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang pagelaran."
+      },
+      "romaji": "ten"
+    },
+    {
+      "jp": "ながする",
+      "kana": "ながす",
+      "meaning": "mengalirkan/membuang (cairan)",
+      "sources": [
+        {
+          "id": 9,
+          "page": 22
+        },
+        {
+          "id": 10,
+          "page": 15
+        }
+      ],
+      "aliases": [
+        "ながします"
+      ],
+      "readings": [
+        "ながす"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "ながします",
+        "kana": "ながします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-92ec806ac999",
+      "order": 907,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "ながすることもあります。",
+        "kana": "ながす ことも あります。",
+        "meaning": "Ada kalanya mengalirkan."
+      },
+      "romaji": "nagasu"
+    },
+    {
+      "jp": "へらする",
+      "kana": "へらす",
+      "meaning": "mengurangi",
+      "sources": [
+        {
+          "id": 9,
+          "page": 22
+        },
+        {
+          "id": 10,
+          "page": 18
+        }
+      ],
+      "aliases": [
+        "へらします"
+      ],
+      "readings": [
+        "へらす"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "へらします",
+        "kana": "へらします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-6b963f1383f0",
+      "order": 910,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "へらすることもあります。",
+        "kana": "へらす ことも あります。",
+        "meaning": "Ada kalanya mengurangi."
+      },
+      "romaji": "herasu"
+    },
+    {
+      "jp": "よごする",
+      "kana": "よごす",
+      "meaning": "mengotori",
+      "sources": [
+        {
+          "id": 9,
+          "page": 22
+        },
+        {
+          "id": 10,
+          "page": 20
+        }
+      ],
+      "aliases": [
+        "よごします"
+      ],
+      "readings": [
+        "よごす"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "よごします",
+        "kana": "よごします"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-e2b95ee7dfe3",
+      "order": 914,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "よごすることもあります。",
+        "kana": "よごす ことも あります。",
+        "meaning": "Ada kalanya mengotori."
+      },
+      "romaji": "yogosu"
+    },
+    {
+      "jp": "なくなる",
+      "kana": "なくなる",
+      "meaning": "meninggal dunia / meninggal / habis",
+      "sources": [
+        {
+          "id": 9,
+          "page": 24
+        },
+        {
+          "id": 10,
+          "page": 15
+        },
+        {
+          "id": 11,
+          "page": 37
+        }
+      ],
+      "aliases": [
+        "なくなります"
+      ],
+      "readings": [
+        "なくなる"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "なくなります",
+        "kana": "なくなります"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-f62d138840b2",
+      "order": 963,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "なくなることもあります。",
+        "kana": "なくなる ことも あります。",
+        "meaning": "Ada kalanya meninggal dunia."
+      },
+      "romaji": "nakunaru"
+    },
+    {
+      "jp": "EXPO'70大阪",
+      "kana": "えきすぽななじゅうおおさか",
+      "meaning": "EXPO ke-70 Osaka",
+      "sources": [
+        {
+          "id": 10,
+          "page": 3
+        }
+      ],
+      "aliases": [
+        "エキスポななじゅうおおさか"
+      ],
+      "readings": [
+        "えきすぽななじゅうおおさか"
+      ],
+      "category": "noun",
+      "subcategory": "Negara & kota",
+      "kind": "noun",
+      "id": "kotoba-n4-636b8721af3e",
+      "order": 997,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "EXPO'70大阪について教えてください。",
+        "kana": "えきすぽななじゅうおおさか に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang EXPO ke-70 Osaka."
+      },
+      "romaji": "ekisuponanajuuoosaka"
+    },
+    {
+      "jp": "岡本太郎",
+      "kana": "おかもとたろう",
+      "meaning": "Taro Okamoto (seniman)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 3
+        }
+      ],
+      "aliases": [
+        "おかもとたろう"
+      ],
+      "readings": [
+        "おかもとたろう"
+      ],
+      "category": "noun",
+      "subcategory": "Konsep & informasi",
+      "kind": "noun",
+      "id": "kotoba-n4-1bd50667f6c5",
+      "order": 1004,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "岡本太郎について教えてください。",
+        "kana": "おかもとたろう に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Taro Okamoto."
+      },
+      "romaji": "okamototarou"
+    },
+    {
+      "jp": "黒澤明",
+      "kana": "くろさわあきら",
+      "meaning": "Kurosawa Akira (sutradara film)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 7
+        }
+      ],
+      "aliases": [
+        "くろさわあきら"
+      ],
+      "readings": [
+        "くろさわあきら"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-48ccdb9f89cc",
+      "order": 1055,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "黒澤明について教えてください。",
+        "kana": "くろさわあきら に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Kurosawa Akira."
+      },
+      "romaji": "kurosawaakira"
+    },
+    {
+      "jp": "黒柳徹子",
+      "kana": "くろやなぎてつこ",
+      "meaning": "Kuroyanagi Tetsuko (aktris)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 7
+        }
+      ],
+      "aliases": [
+        "くろやなぎてつこ"
+      ],
+      "readings": [
+        "くろやなぎてつこ"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-b3a7911d6cd6",
+      "order": 1056,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "黒柳徹子について教えてください。",
+        "kana": "くろやなぎてつこ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Kuroyanagi Tetsuko."
+      },
+      "romaji": "kuroyanagitetsuko"
+    },
+    {
+      "jp": "ちがう",
+      "kana": "ちかう",
+      "meaning": "berbeda",
+      "sources": [
+        {
+          "id": 10,
+          "page": 13
+        }
+      ],
+      "aliases": [
+        "ちがいます"
+      ],
+      "readings": [
+        "ちかう"
+      ],
+      "group": 1,
+      "polite": {
+        "jp": "ちがいます",
+        "kana": "ちがいます"
+      },
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-c1c3bcb0a4fe",
+      "order": 1130,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "ちがうこともあります。",
+        "kana": "ちかう ことも あります。",
+        "meaning": "Ada kalanya berbeda."
+      },
+      "romaji": "chikau"
+    },
+    {
+      "jp": "津田梅子",
+      "kana": "つだうめこ",
+      "meaning": "Tsuda Umeko (seorang pendidik)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 14
+        }
+      ],
+      "aliases": [
+        "つだうめこ"
+      ],
+      "readings": [
+        "つだうめこ"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-9f6ce98ab55c",
+      "order": 1135,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "津田梅子について教えてください。",
+        "kana": "つだうめこ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Tsuda Umeko."
+      },
+      "romaji": "tsudaumeko"
+    },
+    {
+      "jp": "湯川秀樹",
+      "kana": "ゆかわひでき",
+      "meaning": "Hideki Yukawa (ilmuwan)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 20
+        }
+      ],
+      "aliases": [
+        "ゆかわひでき"
+      ],
+      "readings": [
+        "ゆかわひでき"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-33d844c1ff7c",
+      "order": 1202,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "湯川秀樹について教えてください。",
+        "kana": "ゆかわひでき に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Hideki Yukawa."
+      },
+      "romaji": "yukawahideki"
+    },
+    {
+      "jp": "Perfume",
+      "kana": "ぱふゅーむ",
+      "meaning": "Perfume (kelompok musik pop Jepang beraliran",
+      "sources": [
+        {
+          "id": 12,
+          "page": 3
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "ぱふゅーむ"
+      ],
+      "category": "noun",
+      "subcategory": "Negara & kota",
+      "kind": "noun",
+      "id": "kotoba-n4-ad3632f9f9ee",
+      "order": 1768,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "Perfumeについて教えてください。",
+        "kana": "ぱふゅーむ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Perfume (kelompok musik pop Jepang beraliran."
+      },
+      "romaji": "pafyuumu"
+    },
+    {
+      "jp": "安室奈美恵",
+      "kana": "あむろなみえ",
+      "meaning": "Amuro Namie (penyanyi berkebangsaan Jepang)",
+      "sources": [
+        {
+          "id": 12,
+          "page": 8
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "あむろなみえ"
+      ],
+      "category": "noun",
+      "subcategory": "Negara & kota",
+      "kind": "noun",
+      "id": "kotoba-n4-1ba263cd8fc7",
+      "order": 1805,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "安室奈美恵について教えてください。",
+        "kana": "あむろなみえ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Amuro Namie."
+      },
+      "romaji": "amuronamie"
+    },
+    {
+      "jp": "三船敏郎",
+      "kana": "みふねとしろう",
+      "meaning": "Mifune Toshiro (aktor berkebangsaan Jepang)",
+      "sources": [
+        {
+          "id": 12,
+          "page": 8
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "みふねとしろう"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-cb593d469c8e",
+      "order": 1806,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "三船敏郎について教えてください。",
+        "kana": "みふねとしろう に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Mifune Toshiro."
+      },
+      "romaji": "mifunetoshirou"
+    },
+    {
+      "jp": "守るま",
+      "kana": "もる",
+      "meaning": "menaati; mematuhi (cth : menaati peraturan)",
+      "sources": [
+        {
+          "id": 12,
+          "page": 43
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "もる"
+      ],
+      "group": 1,
+      "category": "verb",
+      "subcategory": "Grup 1",
+      "kind": "verb",
+      "id": "kotoba-n4-a7e6c7e6002e",
+      "order": 2291,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "polite": {
+        "jp": "守るまます",
+        "kana": "もります"
+      },
+      "example": {
+        "jp": "守るまこともあります。",
+        "kana": "もる ことも あります。",
+        "meaning": "Ada kalanya menaati."
+      },
+      "romaji": "moru"
+    },
+    {
+      "jp": "資源",
+      "kana": "しげん",
+      "meaning": "dapat didaur ulang",
+      "sources": [
+        {
+          "id": 12,
+          "page": 69
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "しげん"
+      ],
+      "category": "noun",
+      "subcategory": "Konsep & informasi",
+      "kind": "noun",
+      "id": "kotoba-n4-7accd570d853",
+      "order": 2669,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "資源について教えてください。",
+        "kana": "しげん に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang dapat didaur ulang."
+      },
+      "romaji": "shigen"
+    }
+  ],
+  "merged": [
+    {
+      "source": "kotoba-n4-31670e09ed35",
+      "target": "kotoba-n4-f9a257367896",
+      "reading": "かいご"
+    },
+    {
+      "source": "kotoba-n4-0e47e5d6aaad",
+      "target": "kotoba-n4-77abdcab2eba",
+      "reading": "のこす"
+    },
+    {
+      "source": "kotoba-n4-374954d7531e",
+      "target": "kotoba-n4-e6b9735291f6",
+      "reading": "すごす"
+    },
+    {
+      "source": "kotoba-n4-92ec806ac999",
+      "target": "kotoba-n4-bec1386d0f66",
+      "reading": "ながす"
+    },
+    {
+      "source": "kotoba-n4-6b963f1383f0",
+      "target": "kotoba-n4-f52f6bd7ed74",
+      "reading": "へらす"
+    },
+    {
+      "source": "kotoba-n4-a7e6c7e6002e",
+      "target": "kotoba-n4-94c82502ac84",
+      "reading": "まもる"
+    }
+  ],
+  "added": [
+    {
+      "parent": "kotoba-n4-903a2f97cf46",
+      "id": "kotoba-n4-review-flight-bin",
+      "patch": {
+        "jp": "便",
+        "kana": "びん",
+        "meaning": "penerbangan; layanan pengiriman",
+        "category": "noun",
+        "kind": "noun",
+        "subcategory": "Transportasi & perjalanan",
+        "sources": [
+          {
+            "id": 7,
+            "page": 12
+          }
+        ],
+        "aliases": [
+          "びん"
+        ],
+        "readings": [
+          "びん"
+        ],
+        "note": ""
+      }
+    },
+    {
+      "parent": "kotoba-n4-f8dd78c72669",
+      "id": "kotoba-n4-review-harvest-toreru",
+      "patch": {
+        "jp": "採れる",
+        "kana": "とれる",
+        "meaning": "terpanen; dapat dipetik (hasil bumi)",
+        "category": "verb",
+        "kind": "verb",
+        "subcategory": "Grup 2",
+        "sources": [
+          {
+            "id": 11,
+            "page": 34
+          }
+        ],
+        "aliases": [
+          "とれる"
+        ],
+        "readings": [
+          "とれる"
+        ],
+        "note": "",
+        "group": 2,
+        "polite": {
+          "jp": "採れます",
+          "kana": "とれます"
+        }
+      }
+    },
+    {
+      "parent": "kotoba-n4-3aa03b5369b5",
+      "id": "kotoba-n4-review-earthquake-jishin",
+      "patch": {
+        "jp": "地震",
+        "kana": "じしん",
+        "meaning": "gempa bumi",
+        "category": "noun",
+        "kind": "noun",
+        "subcategory": "Alam & cuaca",
+        "sources": [
+          {
+            "id": 9,
+            "page": 16
+          },
+          {
+            "id": 12,
+            "page": 27
+          },
+          {
+            "id": 12,
+            "page": 73
+          }
+        ],
+        "aliases": [
+          "じしん"
+        ],
+        "readings": [
+          "じしん"
+        ],
+        "note": ""
+      }
+    },
+    {
+      "parent": "kotoba-n4-bbe1f5ab3104",
+      "id": "kotoba-n4-review-attach-tsuku",
+      "patch": {
+        "jp": "付く",
+        "kana": "つく",
+        "meaning": "menempel; terpasang; disertakan",
+        "category": "verb",
+        "kind": "verb",
+        "subcategory": "Grup 1",
+        "sources": [
+          {
+            "id": 11,
+            "page": 37
+          },
+          {
+            "id": 11,
+            "page": 51
+          },
+          {
+            "id": 12,
+            "page": 9
+          },
+          {
+            "id": 12,
+            "page": 55
+          }
+        ],
+        "aliases": [
+          "つく"
+        ],
+        "readings": [
+          "つく"
+        ],
+        "note": "",
+        "group": 1,
+        "polite": {
+          "jp": "付きます",
+          "kana": "つきます"
+        }
+      }
+    },
+    {
+      "parent": "kotoba-n4-d52e976eac84",
+      "id": "kotoba-n4-review-exhibition-ten",
+      "patch": {
+        "jp": "～展",
+        "kana": "てん",
+        "meaning": "pameran (akhiran pada nama pameran)",
+        "category": "expression",
+        "kind": "expression",
+        "subcategory": "Pola & kata bantu",
+        "sources": [
+          {
+            "id": 9,
+            "page": 21
+          }
+        ],
+        "aliases": [
+          "てん"
+        ],
+        "readings": [
+          "てん"
+        ],
+        "note": ""
+      }
+    },
+    {
+      "parent": "kotoba-n4-f62d138840b2",
+      "id": "kotoba-n4-review-exhaust-nakunaru",
+      "patch": {
+        "jp": "無くなる",
+        "kana": "なくなる",
+        "meaning": "habis; tidak ada lagi",
+        "category": "verb",
+        "kind": "verb",
+        "subcategory": "Grup 1",
+        "sources": [
+          {
+            "id": 11,
+            "page": 37
+          }
+        ],
+        "aliases": [
+          "なくなる"
+        ],
+        "readings": [
+          "なくなる"
+        ],
+        "note": "",
+        "group": 1,
+        "polite": {
+          "jp": "無くなります",
+          "kana": "なくなります"
+        }
+      }
+    }
+  ],
+  "removedNames": [
+    {
+      "id": "kotoba-n4-dc0ac2925eb7",
+      "jp": "バッハ"
+    },
+    {
+      "id": "kotoba-n4-e1a38346f85e",
+      "jp": "モネ"
+    },
+    {
+      "id": "kotoba-n4-93d5cd5b890f",
+      "jp": "桓武天皇"
+    },
+    {
+      "id": "kotoba-n4-60d00d0722e4",
+      "jp": "徳川しょうぐん"
+    },
+    {
+      "id": "kotoba-n4-1bd50667f6c5",
+      "jp": "岡本太郎"
+    },
+    {
+      "id": "kotoba-n4-48ccdb9f89cc",
+      "jp": "黒澤明"
+    },
+    {
+      "id": "kotoba-n4-b3a7911d6cd6",
+      "jp": "黒柳徹子"
+    },
+    {
+      "id": "kotoba-n4-9f6ce98ab55c",
+      "jp": "津田梅子"
+    },
+    {
+      "id": "kotoba-n4-33d844c1ff7c",
+      "jp": "湯川秀樹"
+    },
+    {
+      "id": "kotoba-n4-1ba263cd8fc7",
+      "jp": "安室奈美恵"
+    },
+    {
+      "id": "kotoba-n4-cb593d469c8e",
+      "jp": "三船敏郎"
+    }
+  ],
+  "n5Duplicate": {
+    "id": "kotoba-n4-c1c3bcb0a4fe",
+    "target": "kotoba-98dd58dfdeb1"
+  },
+  "sources": [
+    "https://www.irodori.jpf.go.jp/assets/data/wordlist_Z.pdf",
+    "https://www.irodori.jpf.go.jp/assets/data/wordlist_Y.pdf",
+    "https://kotobank.jp/word/資源-4129",
+    "https://www.perfume-web.jp/profile/",
+    "https://site.bie-paris.org/site/en/1970-osaka?layout=bieparis:expo&view=bieexpo"
+  ],
+  "note": "Stable IDs retained for primary senses. Old merged IDs redirect to existing cards. Name removal and N5 isolation are applied by level policy. Sources for split senses are assigned from retained normalized rows.",
+  "resolutions": [
+    {
+      "id": "kotoba-n4-a8f9b8613976",
+      "oldHeadword": "つゆ",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-a8f9b8613976"
+    },
+    {
+      "id": "kotoba-n4-640190f83a3f",
+      "oldHeadword": "ぬ",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-640190f83a3f"
+    },
+    {
+      "id": "kotoba-n4-dc0ac2925eb7",
+      "oldHeadword": "バッハ",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-903a2f97cf46",
+      "oldHeadword": "びん",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-903a2f97cf46"
+    },
+    {
+      "id": "kotoba-n4-31670e09ed35",
+      "oldHeadword": "かいご",
+      "action": "merged-duplicate",
+      "target": "kotoba-n4-f9a257367896"
+    },
+    {
+      "id": "kotoba-n4-1a700c896e93",
+      "oldHeadword": "しゅうしょく",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-1a700c896e93"
+    },
+    {
+      "id": "kotoba-n4-f8dd78c72669",
+      "oldHeadword": "とれる",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-f8dd78c72669"
+    },
+    {
+      "id": "kotoba-n4-51d52b0f29a9",
+      "oldHeadword": "ホーム",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-51d52b0f29a9"
+    },
+    {
+      "id": "kotoba-n4-e1a38346f85e",
+      "oldHeadword": "モネ",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-34884fc30075",
+      "oldHeadword": "こくさい結婚",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-34884fc30075"
+    },
+    {
+      "id": "kotoba-n4-6b8ddfaf6de8",
+      "oldHeadword": "たてる",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-6b8ddfaf6de8"
+    },
+    {
+      "id": "kotoba-n4-0e47e5d6aaad",
+      "oldHeadword": "のこする",
+      "action": "merged-duplicate",
+      "target": "kotoba-n4-77abdcab2eba"
+    },
+    {
+      "id": "kotoba-n4-75935806ab3e",
+      "oldHeadword": "さがする",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-75935806ab3e"
+    },
+    {
+      "id": "kotoba-n4-3aa03b5369b5",
+      "oldHeadword": "じしん",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-3aa03b5369b5"
+    },
+    {
+      "id": "kotoba-n4-374954d7531e",
+      "oldHeadword": "すごする",
+      "action": "merged-duplicate",
+      "target": "kotoba-n4-e6b9735291f6"
+    },
+    {
+      "id": "kotoba-n4-2db2a426ff71",
+      "oldHeadword": "おとする",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-2db2a426ff71"
+    },
+    {
+      "id": "kotoba-n4-bbe1f5ab3104",
+      "oldHeadword": "つく",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-bbe1f5ab3104"
+    },
+    {
+      "id": "kotoba-n4-2dbe20b58f04",
+      "oldHeadword": "とりだする",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-2dbe20b58f04"
+    },
+    {
+      "id": "kotoba-n4-93d5cd5b890f",
+      "oldHeadword": "桓武天皇",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-60d00d0722e4",
+      "oldHeadword": "徳川しょうぐん",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-d52e976eac84",
+      "oldHeadword": "てん",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-d52e976eac84"
+    },
+    {
+      "id": "kotoba-n4-92ec806ac999",
+      "oldHeadword": "ながする",
+      "action": "merged-duplicate",
+      "target": "kotoba-n4-bec1386d0f66"
+    },
+    {
+      "id": "kotoba-n4-6b963f1383f0",
+      "oldHeadword": "へらする",
+      "action": "merged-duplicate",
+      "target": "kotoba-n4-f52f6bd7ed74"
+    },
+    {
+      "id": "kotoba-n4-e2b95ee7dfe3",
+      "oldHeadword": "よごする",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-e2b95ee7dfe3"
+    },
+    {
+      "id": "kotoba-n4-f62d138840b2",
+      "oldHeadword": "なくなる",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-f62d138840b2"
+    },
+    {
+      "id": "kotoba-n4-636b8721af3e",
+      "oldHeadword": "EXPO'70大阪",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-636b8721af3e"
+    },
+    {
+      "id": "kotoba-n4-1bd50667f6c5",
+      "oldHeadword": "岡本太郎",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-48ccdb9f89cc",
+      "oldHeadword": "黒澤明",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-b3a7911d6cd6",
+      "oldHeadword": "黒柳徹子",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-c1c3bcb0a4fe",
+      "oldHeadword": "ちがう",
+      "action": "redirected-to-n5",
+      "target": "kotoba-98dd58dfdeb1"
+    },
+    {
+      "id": "kotoba-n4-9f6ce98ab55c",
+      "oldHeadword": "津田梅子",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-33d844c1ff7c",
+      "oldHeadword": "湯川秀樹",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-ad3632f9f9ee",
+      "oldHeadword": "Perfume",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-ad3632f9f9ee"
+    },
+    {
+      "id": "kotoba-n4-1ba263cd8fc7",
+      "oldHeadword": "安室奈美恵",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-cb593d469c8e",
+      "oldHeadword": "三船敏郎",
+      "action": "removed-personal-name",
+      "target": null
+    },
+    {
+      "id": "kotoba-n4-a7e6c7e6002e",
+      "oldHeadword": "守るま",
+      "action": "merged-duplicate",
+      "target": "kotoba-n4-94c82502ac84"
+    },
+    {
+      "id": "kotoba-n4-7accd570d853",
+      "oldHeadword": "資源",
+      "action": "corrected-or-sense-separated",
+      "target": "kotoba-n4-7accd570d853"
+    }
+  ],
+  "status": "resolved"
+}

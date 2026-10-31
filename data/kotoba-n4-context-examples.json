@@ -22001,6 +22001,256 @@
         "kana": "やさい が おおきく そだちました。",
         "meaning": "Sayuran tumbuh besar."
       }
+    },
+    {
+      "id": "kotoba-n4-a8f9b8613976",
+      "headword": "つゆ",
+      "reading": "つゆ",
+      "example": {
+        "jp": "そばをつゆにつけてたべます。",
+        "kana": "そば を つゆ に つけて たべます。",
+        "meaning": "Saya makan soba dengan mencelupkannya ke kuah saus."
+      }
+    },
+    {
+      "id": "kotoba-n4-640190f83a3f",
+      "headword": "似る",
+      "reading": "にる",
+      "example": {
+        "jp": "このふたりはかおがにています。",
+        "kana": "この ふたり は かお が にて います。",
+        "meaning": "Wajah kedua orang ini mirip."
+      }
+    },
+    {
+      "id": "kotoba-n4-903a2f97cf46",
+      "headword": "瓶",
+      "reading": "びん",
+      "example": {
+        "jp": "あいたびんをあらいました。",
+        "kana": "あいた びん を あらいました。",
+        "meaning": "Saya mencuci botol kaca yang kosong."
+      }
+    },
+    {
+      "id": "kotoba-n4-review-flight-bin",
+      "headword": "便",
+      "reading": "びん",
+      "example": {
+        "jp": "つぎのびんにのります。",
+        "kana": "つぎ の びん に のります。",
+        "meaning": "Saya akan naik penerbangan berikutnya."
+      }
+    },
+    {
+      "id": "kotoba-n4-1a700c896e93",
+      "headword": "就職",
+      "reading": "しゅうしょく",
+      "example": {
+        "jp": "しゅうしょくのおいわいをもらいました。",
+        "kana": "しゅうしょく の おいわい を もらいました。",
+        "meaning": "Saya mendapat hadiah untuk merayakan pekerjaan baru."
+      }
+    },
+    {
+      "id": "kotoba-n4-f8dd78c72669",
+      "headword": "取れる",
+      "reading": "とれる",
+      "example": {
+        "jp": "よくねて、つかれがとれました。",
+        "kana": "よく ねて、つかれ が とれました。",
+        "meaning": "Rasa lelah saya hilang setelah tidur nyenyak."
+      }
+    },
+    {
+      "id": "kotoba-n4-review-harvest-toreru",
+      "headword": "採れる",
+      "reading": "とれる",
+      "example": {
+        "jp": "このはたけではやさいがたくさんとれます。",
+        "kana": "この はたけ で は やさい が たくさん とれます。",
+        "meaning": "Banyak sayuran dapat dipanen dari ladang ini."
+      }
+    },
+    {
+      "id": "kotoba-n4-51d52b0f29a9",
+      "headword": "ホーム",
+      "reading": "ほーむ",
+      "example": {
+        "jp": "ホームででんしゃをまっています。",
+        "kana": "ホーム で でんしゃ を まって います。",
+        "meaning": "Saya sedang menunggu kereta di peron."
+      }
+    },
+    {
+      "id": "kotoba-n4-34884fc30075",
+      "headword": "国際結婚する",
+      "reading": "こくさいけっこんする",
+      "example": {
+        "jp": "あねはこくさいけっこんしました。",
+        "kana": "あね は こくさいけっこん しました。",
+        "meaning": "Kakak perempuan saya menikah dengan orang berkewarganegaraan berbeda."
+      }
+    },
+    {
+      "id": "kotoba-n4-6b8ddfaf6de8",
+      "headword": "建てる",
+      "reading": "たてる",
+      "example": {
+        "jp": "ここにあたらしいいえをたてます。",
+        "kana": "ここ に あたらしい いえ を たてます。",
+        "meaning": "Kami akan membangun rumah baru di sini."
+      }
+    },
+    {
+      "id": "kotoba-n4-75935806ab3e",
+      "headword": "探す",
+      "reading": "さがす",
+      "example": {
+        "jp": "なくしたかぎをさがしています。",
+        "kana": "なくした かぎ を さがして います。",
+        "meaning": "Saya sedang mencari kunci yang hilang."
+      }
+    },
+    {
+      "id": "kotoba-n4-3aa03b5369b5",
+      "headword": "自信",
+      "reading": "じしん",
+      "example": {
+        "jp": "れんしゅうして、じしんがつきました。",
+        "kana": "れんしゅう して、じしん が つきました。",
+        "meaning": "Saya menjadi percaya diri setelah berlatih."
+      }
+    },
+    {
+      "id": "kotoba-n4-review-earthquake-jishin",
+      "headword": "地震",
+      "reading": "じしん",
+      "example": {
+        "jp": "じしんのニュースをききました。",
+        "kana": "じしん の ニュース を ききました。",
+        "meaning": "Saya mendengar berita gempa bumi."
+      }
+    },
+    {
+      "id": "kotoba-n4-2db2a426ff71",
+      "headword": "落とす",
+      "reading": "おとす",
+      "example": {
+        "jp": "みちでさいふをおとしました。",
+        "kana": "みち で さいふ を おとしました。",
+        "meaning": "Saya menjatuhkan dompet di jalan."
+      }
+    },
+    {
+      "id": "kotoba-n4-bbe1f5ab3104",
+      "headword": "点く",
+      "reading": "つく",
+      "example": {
+        "jp": "スイッチをおすと、ライトがつきました。",
+        "kana": "スイッチ を おす と、ライト が つきました。",
+        "meaning": "Lampu menyala ketika saya menekan sakelar."
+      }
+    },
+    {
+      "id": "kotoba-n4-review-attach-tsuku",
+      "headword": "付く",
+      "reading": "つく",
+      "example": {
+        "jp": "このランチにはスープがつきます。",
+        "kana": "この ランチ に は スープ が つきます。",
+        "meaning": "Makan siang ini disertai sup."
+      }
+    },
+    {
+      "id": "kotoba-n4-2dbe20b58f04",
+      "headword": "取り出す",
+      "reading": "とりだす",
+      "example": {
+        "jp": "かばんからノートをとりだしました。",
+        "kana": "かばん から ノート を とりだしました。",
+        "meaning": "Saya mengeluarkan buku catatan dari tas."
+      }
+    },
+    {
+      "id": "kotoba-n4-d52e976eac84",
+      "headword": "点",
+      "reading": "てん",
+      "example": {
+        "jp": "このかずはさんてんごとよみます。",
+        "kana": "この かず は さんてんご と よみます。",
+        "meaning": "Angka ini dibaca san ten go (tiga koma lima)."
+      }
+    },
+    {
+      "id": "kotoba-n4-review-exhibition-ten",
+      "headword": "～展",
+      "reading": "てん",
+      "example": {
+        "jp": "しゃしんてんにいってきました。",
+        "kana": "しゃしんてん に いって きました。",
+        "meaning": "Saya baru pergi ke pameran foto."
+      }
+    },
+    {
+      "id": "kotoba-n4-e2b95ee7dfe3",
+      "headword": "汚す",
+      "reading": "よごす",
+      "example": {
+        "jp": "インクでてをよごしてしまいました。",
+        "kana": "インク で て を よごして しまいました。",
+        "meaning": "Saya tidak sengaja mengotori tangan dengan tinta."
+      }
+    },
+    {
+      "id": "kotoba-n4-f62d138840b2",
+      "headword": "亡くなる",
+      "reading": "なくなる",
+      "example": {
+        "jp": "そふはきょねんなくなりました。",
+        "kana": "そふ は きょねん なくなりました。",
+        "meaning": "Kakek saya meninggal tahun lalu."
+      }
+    },
+    {
+      "id": "kotoba-n4-review-exhaust-nakunaru",
+      "headword": "無くなる",
+      "reading": "なくなる",
+      "example": {
+        "jp": "プリンターのかみがなくなりました。",
+        "kana": "プリンター の かみ が なくなりました。",
+        "meaning": "Kertas pencetak sudah habis."
+      }
+    },
+    {
+      "id": "kotoba-n4-636b8721af3e",
+      "headword": "EXPO'70大阪",
+      "reading": "えきすぽななじゅうおおさか",
+      "example": {
+        "jp": "えきすぽななじゅうおおさかのしゃしんをみました。",
+        "kana": "えきすぽななじゅうおおさか の しゃしん を みました。",
+        "meaning": "Saya melihat foto Pameran Dunia Osaka 1970."
+      }
+    },
+    {
+      "id": "kotoba-n4-ad3632f9f9ee",
+      "headword": "Perfume",
+      "reading": "ぱふゅーむ",
+      "example": {
+        "jp": "パフュームのうたをききました。",
+        "kana": "パフューム の うた を ききました。",
+        "meaning": "Saya mendengarkan lagu Perfume."
+      }
+    },
+    {
+      "id": "kotoba-n4-7accd570d853",
+      "headword": "資源",
+      "reading": "しげん",
+      "example": {
+        "jp": "しげんをむだにしないようにしています。",
+        "kana": "しげん を むだ に しない ように して います。",
+        "meaning": "Saya berusaha tidak menyia-nyiakan sumber daya."
+      }
     }
   ]
 }

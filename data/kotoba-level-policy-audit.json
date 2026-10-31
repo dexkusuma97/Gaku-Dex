@@ -43517,17 +43517,58 @@
       },
       "n5Id": "kotoba-e3b95ee48909",
       "reason": "kana-variant-and-meaning"
+    },
+    {
+      "entry": {
+        "jp": "違う",
+        "kana": "ちがう",
+        "meaning": "berbeda",
+        "sources": [
+          {
+            "id": 10,
+            "page": 13
+          }
+        ],
+        "aliases": [
+          "ちがう",
+          "ちがいます"
+        ],
+        "readings": [
+          "ちがう"
+        ],
+        "group": 1,
+        "polite": {
+          "jp": "違います",
+          "kana": "ちがいます"
+        },
+        "category": "verb",
+        "subcategory": "Grup 1",
+        "kind": "verb",
+        "id": "kotoba-n4-c1c3bcb0a4fe",
+        "order": 2014,
+        "level": "N4",
+        "scope": "N4 / A2",
+        "note": "",
+        "example": {
+          "jp": "ちがうこともあります。",
+          "kana": "ちかう ことも あります。",
+          "meaning": "Ada kalanya berbeda."
+        },
+        "romaji": "chigau"
+      },
+      "n5Id": "kotoba-98dd58dfdeb1",
+      "reason": "same-writing-and-reading"
     }
   ],
   "policy": "Remove filler interjections by exact headword. Remove N4 by shared spelling plus reading, or kana variant plus matching reading and sense. Keep different kanji homophones. Greetings and meaningful replies retained.",
   "counts": {
     "N5": 1791,
-    "N4": 3227,
+    "N4": 3215,
     "interjectionsN5": 7,
     "interjectionsN4": 21,
-    "duplicatesN4": 988,
+    "duplicatesN4": 989,
     "namesN5": 3,
-    "namesN4": 58
+    "namesN4": 69
   },
   "removedN5Names": [
     {
@@ -45576,6 +45617,347 @@
         "meaning": "Tolong jelaskan tentang Yasuhiro Yamashita."
       },
       "romaji": "yamashitayasuhiro"
+    },
+    {
+      "jp": "バッハ",
+      "kana": "ばっは",
+      "meaning": "Bach (Johann Sebastian) / Bach, Johann Sebastian",
+      "sources": [
+        {
+          "id": 7,
+          "page": 12
+        },
+        {
+          "id": 8,
+          "page": 13
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "ばっは"
+      ],
+      "category": "noun",
+      "subcategory": "Konsep & informasi",
+      "kind": "noun",
+      "id": "kotoba-n4-dc0ac2925eb7",
+      "order": 615,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "バッハについて教えてください。",
+        "kana": "ばっは に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Bach."
+      },
+      "romaji": "bahha"
+    },
+    {
+      "jp": "モネ",
+      "kana": "もね",
+      "meaning": "Claude Monet",
+      "sources": [
+        {
+          "id": 8,
+          "page": 16
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "もね"
+      ],
+      "category": "noun",
+      "subcategory": "Konsep & informasi",
+      "kind": "noun",
+      "id": "kotoba-n4-e1a38346f85e",
+      "order": 1141,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "モネについて教えてください。",
+        "kana": "もね に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Claude Monet."
+      },
+      "romaji": "mone"
+    },
+    {
+      "jp": "桓武天皇",
+      "kana": "かんむてんのう",
+      "meaning": "Kaisar Kanmu",
+      "sources": [
+        {
+          "id": 9,
+          "page": 19
+        }
+      ],
+      "aliases": [
+        "かんむてんのう"
+      ],
+      "readings": [
+        "かんむてんのう"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-93d5cd5b890f",
+      "order": 1632,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "桓武天皇について教えてください。",
+        "kana": "かんむてんのう に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Kaisar Kanmu."
+      },
+      "romaji": "kanmutennou"
+    },
+    {
+      "jp": "徳川しょうぐん",
+      "kana": "とくがわしょうぐん",
+      "meaning": "Shogun Tokugawa (Shogun pada era Edo)",
+      "sources": [
+        {
+          "id": 9,
+          "page": 20
+        },
+        {
+          "id": 10,
+          "page": 15
+        }
+      ],
+      "aliases": [
+        "とくがわしょうぐん"
+      ],
+      "readings": [
+        "とくがわしょうぐん"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-60d00d0722e4",
+      "order": 1658,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "徳川しょうぐんについて教えてください。",
+        "kana": "とくがわしょうぐん に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Shogun Tokugawa."
+      },
+      "romaji": "tokugawashougun"
+    },
+    {
+      "jp": "岡本太郎",
+      "kana": "おかもとたろう",
+      "meaning": "Taro Okamoto (seniman)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 3
+        }
+      ],
+      "aliases": [
+        "おかもとたろう"
+      ],
+      "readings": [
+        "おかもとたろう"
+      ],
+      "category": "noun",
+      "subcategory": "Konsep & informasi",
+      "kind": "noun",
+      "id": "kotoba-n4-1bd50667f6c5",
+      "order": 1872,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "岡本太郎について教えてください。",
+        "kana": "おかもとたろう に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Taro Okamoto."
+      },
+      "romaji": "okamototarou"
+    },
+    {
+      "jp": "黒澤明",
+      "kana": "くろさわあきら",
+      "meaning": "Kurosawa Akira (sutradara film)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 7
+        }
+      ],
+      "aliases": [
+        "くろさわあきら"
+      ],
+      "readings": [
+        "くろさわあきら"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-48ccdb9f89cc",
+      "order": 1929,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "黒澤明について教えてください。",
+        "kana": "くろさわあきら に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Kurosawa Akira."
+      },
+      "romaji": "kurosawaakira"
+    },
+    {
+      "jp": "黒柳徹子",
+      "kana": "くろやなぎてつこ",
+      "meaning": "Kuroyanagi Tetsuko (aktris)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 7
+        }
+      ],
+      "aliases": [
+        "くろやなぎてつこ"
+      ],
+      "readings": [
+        "くろやなぎてつこ"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-b3a7911d6cd6",
+      "order": 1930,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "黒柳徹子について教えてください。",
+        "kana": "くろやなぎてつこ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Kuroyanagi Tetsuko."
+      },
+      "romaji": "kuroyanagitetsuko"
+    },
+    {
+      "jp": "津田梅子",
+      "kana": "つだうめこ",
+      "meaning": "Tsuda Umeko (seorang pendidik)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 14
+        }
+      ],
+      "aliases": [
+        "つだうめこ"
+      ],
+      "readings": [
+        "つだうめこ"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-9f6ce98ab55c",
+      "order": 2020,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "津田梅子について教えてください。",
+        "kana": "つだうめこ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Tsuda Umeko."
+      },
+      "romaji": "tsudaumeko"
+    },
+    {
+      "jp": "湯川秀樹",
+      "kana": "ゆかわひでき",
+      "meaning": "Hideki Yukawa (ilmuwan)",
+      "sources": [
+        {
+          "id": 10,
+          "page": 20
+        }
+      ],
+      "aliases": [
+        "ゆかわひでき"
+      ],
+      "readings": [
+        "ゆかわひでき"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-33d844c1ff7c",
+      "order": 2111,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "湯川秀樹について教えてください。",
+        "kana": "ゆかわひでき に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Hideki Yukawa."
+      },
+      "romaji": "yukawahideki"
+    },
+    {
+      "jp": "安室奈美恵",
+      "kana": "あむろなみえ",
+      "meaning": "Amuro Namie (penyanyi berkebangsaan Jepang)",
+      "sources": [
+        {
+          "id": 12,
+          "page": 8
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "あむろなみえ"
+      ],
+      "category": "noun",
+      "subcategory": "Negara & kota",
+      "kind": "noun",
+      "id": "kotoba-n4-1ba263cd8fc7",
+      "order": 2788,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "安室奈美恵について教えてください。",
+        "kana": "あむろなみえ に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Amuro Namie."
+      },
+      "romaji": "amuronamie"
+    },
+    {
+      "jp": "三船敏郎",
+      "kana": "みふねとしろう",
+      "meaning": "Mifune Toshiro (aktor berkebangsaan Jepang)",
+      "sources": [
+        {
+          "id": 12,
+          "page": 8
+        }
+      ],
+      "aliases": [],
+      "readings": [
+        "みふねとしろう"
+      ],
+      "category": "noun",
+      "subcategory": "Pekerjaan & kantor",
+      "kind": "noun",
+      "id": "kotoba-n4-cb593d469c8e",
+      "order": 2789,
+      "level": "N4",
+      "scope": "N4 / A2",
+      "note": "",
+      "example": {
+        "jp": "三船敏郎について教えてください。",
+        "kana": "みふねとしろう に ついて おしえてください。",
+        "meaning": "Tolong jelaskan tentang Mifune Toshiro."
+      },
+      "romaji": "mifunetoshirou"
     }
   ],
   "cleanedCards": {

@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-31",
-  "activeTotal": 3227,
+  "activeTotal": 3215,
   "reviewedBatch": [
     "kotoba-n4-0703a1f66e9e",
     "kotoba-n4-887f84359e74",
@@ -2201,272 +2201,34 @@
     "kotoba-n4-72ffb5cb4c7b",
     "kotoba-n4-313a052b7a8b",
     "kotoba-n4-696b66cd8fa3",
-    "kotoba-n4-53024b948140"
+    "kotoba-n4-53024b948140",
+    "kotoba-n4-a8f9b8613976",
+    "kotoba-n4-640190f83a3f",
+    "kotoba-n4-903a2f97cf46",
+    "kotoba-n4-review-flight-bin",
+    "kotoba-n4-1a700c896e93",
+    "kotoba-n4-f8dd78c72669",
+    "kotoba-n4-review-harvest-toreru",
+    "kotoba-n4-51d52b0f29a9",
+    "kotoba-n4-34884fc30075",
+    "kotoba-n4-6b8ddfaf6de8",
+    "kotoba-n4-75935806ab3e",
+    "kotoba-n4-3aa03b5369b5",
+    "kotoba-n4-review-earthquake-jishin",
+    "kotoba-n4-2db2a426ff71",
+    "kotoba-n4-bbe1f5ab3104",
+    "kotoba-n4-review-attach-tsuku",
+    "kotoba-n4-2dbe20b58f04",
+    "kotoba-n4-d52e976eac84",
+    "kotoba-n4-review-exhibition-ten",
+    "kotoba-n4-e2b95ee7dfe3",
+    "kotoba-n4-f62d138840b2",
+    "kotoba-n4-review-exhaust-nakunaru",
+    "kotoba-n4-636b8721af3e",
+    "kotoba-n4-ad3632f9f9ee",
+    "kotoba-n4-7accd570d853"
   ],
-  "remainingFrameCounts": {
-    "topic-frame": 21,
-    "occasional-frame": 16
-  },
+  "remainingFrameCounts": {},
   "note": "Queue flags repetitive frames, not proven errors. Other examples and all glosses still require editorial review.",
-  "queue": [
-    {
-      "id": "kotoba-n4-a8f9b8613976",
-      "jp": "つゆ",
-      "kana": "つゆ",
-      "meaning": "musim hujan / saus kaldu (saus celup)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-640190f83a3f",
-      "jp": "ぬ",
-      "kana": "にる",
-      "meaning": "mirip",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-dc0ac2925eb7",
-      "jp": "バッハ",
-      "kana": "ばっは",
-      "meaning": "Bach (Johann Sebastian) / Bach, Johann Sebastian",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-903a2f97cf46",
-      "jp": "びん",
-      "kana": "びん",
-      "meaning": "penerbangan / botol kaca / botol (kaca)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-31670e09ed35",
-      "jp": "かいご",
-      "kana": "かいご",
-      "meaning": "perawat/pengasuh",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1a700c896e93",
-      "jp": "しゅうしょく",
-      "kana": "しゅうしょく",
-      "meaning": "pencarian kerja",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f8dd78c72669",
-      "jp": "とれる",
-      "kana": "とれる",
-      "meaning": "untuk melepas lelah/untuk merasa segar / petik; memetik",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-51d52b0f29a9",
-      "jp": "ホーム",
-      "kana": "ほーむ",
-      "meaning": "peron / homepage; laman",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e1a38346f85e",
-      "jp": "モネ",
-      "kana": "もね",
-      "meaning": "Claude Monet",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-34884fc30075",
-      "jp": "こくさい結婚",
-      "kana": "こくさいけっこんする",
-      "meaning": "pernikahan internasional/antarbangsa",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6b8ddfaf6de8",
-      "jp": "たてる",
-      "kana": "たてる",
-      "meaning": "bersuara / mendirikan/membangun / mendirikan / membangun; mendirikan (cth : membangun rumah)",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-0e47e5d6aaad",
-      "jp": "のこする",
-      "kana": "のこす",
-      "meaning": "menyisakan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-75935806ab3e",
-      "jp": "さがする",
-      "kana": "さがす",
-      "meaning": "mencari",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-3aa03b5369b5",
-      "jp": "じしん",
-      "kana": "じしん",
-      "meaning": "percaya diri/kepercayaan atas diri sendiri / gempa bumi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-374954d7531e",
-      "jp": "すごする",
-      "kana": "すごす",
-      "meaning": "menghabiskan waktu",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2db2a426ff71",
-      "jp": "おとする",
-      "kana": "おとす",
-      "meaning": "menjatuhkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-bbe1f5ab3104",
-      "jp": "つく",
-      "kana": "つく",
-      "meaning": "(listrik/lampu) menyala / menyala (lampu menyala) / menempel; terkontaminasi (virus) / disajikan beserta ~ (cth : disajikan beserta sup miso) / memiliki; menyertakan; termasuk (cth : fungsi yang disertakan / memiliki fungsi)",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2dbe20b58f04",
-      "jp": "とりだする",
-      "kana": "とりだす",
-      "meaning": "mengeluarkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-93d5cd5b890f",
-      "jp": "桓武天皇",
-      "kana": "かんむてんのう",
-      "meaning": "Kaisar Kanmu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-60d00d0722e4",
-      "jp": "徳川しょうぐん",
-      "kana": "とくがわしょうぐん",
-      "meaning": "Shogun Tokugawa (Shogun pada era Edo)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d52e976eac84",
-      "jp": "てん",
-      "kana": "てん",
-      "meaning": "pagelaran/ekshibisi / ... koma ... (3,5)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-92ec806ac999",
-      "jp": "ながする",
-      "kana": "ながす",
-      "meaning": "mengalirkan/membuang (cairan)",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6b963f1383f0",
-      "jp": "へらする",
-      "kana": "へらす",
-      "meaning": "mengurangi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e2b95ee7dfe3",
-      "jp": "よごする",
-      "kana": "よごす",
-      "meaning": "mengotori",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-f62d138840b2",
-      "jp": "なくなる",
-      "kana": "なくなる",
-      "meaning": "meninggal dunia / meninggal / habis",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-636b8721af3e",
-      "jp": "EXPO'70大阪",
-      "kana": "えきすぽななじゅうおおさか",
-      "meaning": "EXPO ke-70 Osaka",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1bd50667f6c5",
-      "jp": "岡本太郎",
-      "kana": "おかもとたろう",
-      "meaning": "Taro Okamoto (seniman)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-48ccdb9f89cc",
-      "jp": "黒澤明",
-      "kana": "くろさわあきら",
-      "meaning": "Kurosawa Akira (sutradara film)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b3a7911d6cd6",
-      "jp": "黒柳徹子",
-      "kana": "くろやなぎてつこ",
-      "meaning": "Kuroyanagi Tetsuko (aktris)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-c1c3bcb0a4fe",
-      "jp": "ちがう",
-      "kana": "ちかう",
-      "meaning": "berbeda",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-9f6ce98ab55c",
-      "jp": "津田梅子",
-      "kana": "つだうめこ",
-      "meaning": "Tsuda Umeko (seorang pendidik)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-33d844c1ff7c",
-      "jp": "湯川秀樹",
-      "kana": "ゆかわひでき",
-      "meaning": "Hideki Yukawa (ilmuwan)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ad3632f9f9ee",
-      "jp": "Perfume",
-      "kana": "ぱふゅーむ",
-      "meaning": "Perfume (kelompok musik pop Jepang beraliran",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1ba263cd8fc7",
-      "jp": "安室奈美恵",
-      "kana": "あむろなみえ",
-      "meaning": "Amuro Namie (penyanyi berkebangsaan Jepang)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-cb593d469c8e",
-      "jp": "三船敏郎",
-      "kana": "みふねとしろう",
-      "meaning": "Mifune Toshiro (aktor berkebangsaan Jepang)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a7e6c7e6002e",
-      "jp": "守るま",
-      "kana": "もる",
-      "meaning": "menaati; mematuhi (cth : menaati peraturan)",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-7accd570d853",
-      "jp": "資源",
-      "kana": "しげん",
-      "meaning": "dapat didaur ulang",
-      "reason": "topic-frame"
-    }
-  ]
+  "queue": []
 }

@@ -82,3 +82,16 @@ Seluruh 37 berkas tes lulus; build penuh stabil dan menghasilkan record aktif ya
 
 
 - Batch 7 menjadikan tes context-review hanya baca. Pemeriksaan rebuild/idempotensi dilakukan oleh tes level-policy dalam fixture sementara, agar tes paralel tidak saling menulis berkas kerja. Installer menjalankan tes berurutan dan memverifikasi hash hasil salinan.
+
+
+## 31 Oktober 2026 — Batch 8: 37 masalah leksikal diselesaikan
+
+37 entri tertandai ditangani melalui ledger sumber dan redirect ID: 11 kartu nama/sebutan bernama dihapus, 6 duplikat digabung, 1 duplikat dialihkan ke N5, dan 6 kartu ditambahkan untuk arti berbeda. N4 menjadi 3.215 kartu; N5 tetap 1.791 dan berkas data/bundle N5 identik dengan baseline. Rincian keputusan dan rekaman asal tersimpan di kotoba-n4-lexical-repairs.json serta kotoba-n4-lexical-repair-audit.json.
+
+Perbaikan mencakup 似る (grup 2), 探す, 落とす, 取り出す, 汚す, 国際結婚する; pemisahan 瓶/便, 自信/地震, 取れる/採れる, 点く/付く, 亡くなる/無くなる serta 点/～展. Sumber tiap arti dipisahkan sesuai baris normalisasi yang tersimpan. 建てる dibedakan dari 立てる; ホーム dan 守る menampilkan rincian arti tambahan di detail. EXPO’70 merujuk 1970, Perfume adalah nama kelompok musik, dan 資源 diperjelas sebagai sumber daya/bahan yang dapat dimanfaatkan kembali.
+
+Rujukan verifikasi: daftar kosakata resmi Japan Foundation https://www.irodori.jpf.go.jp/assets/data/wordlist_Z.pdf dan https://www.irodori.jpf.go.jp/assets/data/wordlist_Y.pdf ; entri kamus https://kotobank.jp/word/資源-4129 ; profil resmi https://www.perfume-web.jp/profile/ ; catatan BIE https://site.bie-paris.org/site/en/1970-osaka?layout=bieparis:expo&view=bieexpo . Contoh kalimat ditulis orisinal, bukan kutipan atau sertifikasi penerbit.
+
+25 contoh primer baru ditambahkan; seluruh 2.200 contoh sebelumnya identik. Total 2.225 contoh editorial dengan bacaan berspasi; antrean bingkai berulang 0 dan antrean 37 masalah 0. Ini tidak menyatakan semua arti/bacaan/contoh lain dari 3.215 kartu sudah diaudit, atau Bunpo/Kanji sudah selesai.
+
+Dua build penuh berturut-turut menghasilkan data/bundle identik. Semua 38 berkas tes lulus, termasuk pemisahan arti/sumber, redirect favorit/route, tampilan arti tambahan dan pengecoh kuis homofon. Belum diuji pada perangkat Android fisik. Paket kumulatif mencakup pembaruan terdahulu; pemasang membuat cadangan, menolak konflik dan memulihkan target bila tes gagal. Tidak menerbitkan website otomatis.
