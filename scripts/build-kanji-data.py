@@ -35,6 +35,10 @@ for line in (root/'data/kanji-n5.tsv').read_text().splitlines():
  'pages':[(number-1)//20+2] if core else ref['pages'],'number':number if core else ref['number']},'order':number})
 assert len(rows)==115
 assert set(cat_map)==set(r['char'] for r in rows),(set(cat_map)-set(r['char'] for r in rows),set(r['char'] for r in rows)-set(cat_map))
+import sys
+sys.path.insert(0,str(root/'scripts/lib'))
+from kanji_n5_review import enrich
+rows=enrich(root,rows)
 (root/'dist/kanji-data.js').write_text('/* Reviewed learning dataset from the two user-provided PDFs. Supplementary explanations are editorial. */\nconst KANJI_CATEGORIES = '+json.dumps([{'id':key,'name':label} for key,label,chars in categories],ensure_ascii=False,indent=2)+';\nconst KANJI_DATA = '+json.dumps(rows,ensure_ascii=False,indent=2)+';\n')
 print('Built',len(rows),'kanji in',len(categories),'categories')
 

@@ -1,0 +1,5119 @@
+{
+  "meta": {
+    "total": 115,
+    "reviewed": "2026-11-01",
+    "readingPolicy": "Retain valid beginner meanings, two words and visual mnemonics. KANJIDIC2 fields plus three explicitly documented supplementary/derived readings; no nanori. Additional dictionary readings can be rare."
+  },
+  "entries": [
+    {
+      "id": "kanji-4e00",
+      "char": "一",
+      "category": "numbers",
+      "meaning": "satu",
+      "english": "one",
+      "on": [
+        "イチ",
+        "イツ"
+      ],
+      "kun": [
+        "ひと.つ",
+        "ひと-"
+      ],
+      "strokes": 1,
+      "radical": "一",
+      "mnemonic": "Satu garis mendatar untuk angka satu.",
+      "examples": [
+        {
+          "word": "一つ",
+          "kana": "ひとつ",
+          "meaning": "satu buah"
+        },
+        {
+          "word": "一月",
+          "kana": "いちがつ",
+          "meaning": "Januari"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 1
+      },
+      "order": 1,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 1
+      }
+    },
+    {
+      "id": "kanji-4e8c",
+      "char": "二",
+      "category": "numbers",
+      "meaning": "dua",
+      "english": "two",
+      "on": [
+        "ニ",
+        "ジ"
+      ],
+      "kun": [
+        "ふた.つ",
+        "ふた",
+        "ふたたび"
+      ],
+      "strokes": 2,
+      "radical": "二",
+      "mnemonic": "Dua garis mendatar, dua hitungan.",
+      "examples": [
+        {
+          "word": "二つ",
+          "kana": "ふたつ",
+          "meaning": "dua buah"
+        },
+        {
+          "word": "二月",
+          "kana": "にがつ",
+          "meaning": "Februari"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 2
+      },
+      "order": 2,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 7
+      }
+    },
+    {
+      "id": "kanji-4e09",
+      "char": "三",
+      "category": "numbers",
+      "meaning": "tiga",
+      "english": "three",
+      "on": [
+        "サン",
+        "ゾウ"
+      ],
+      "kun": [
+        "み.つ",
+        "みっ.つ",
+        "み"
+      ],
+      "strokes": 3,
+      "radical": "一",
+      "mnemonic": "Hitung tiga garis yang bertumpuk.",
+      "examples": [
+        {
+          "word": "三つ",
+          "kana": "みっつ",
+          "meaning": "tiga buah"
+        },
+        {
+          "word": "三月",
+          "kana": "さんがつ",
+          "meaning": "Maret"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 3
+      },
+      "order": 3,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 1
+      }
+    },
+    {
+      "id": "kanji-56db",
+      "char": "四",
+      "category": "numbers",
+      "meaning": "empat",
+      "english": "four",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "よ",
+        "よ.つ",
+        "よっ.つ",
+        "よん"
+      ],
+      "strokes": 5,
+      "radical": "囗",
+      "mnemonic": "Bayangkan empat sisi sebuah kotak.",
+      "examples": [
+        {
+          "word": "四つ",
+          "kana": "よっつ",
+          "meaning": "empat buah"
+        },
+        {
+          "word": "四月",
+          "kana": "しがつ",
+          "meaning": "April"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 4
+      },
+      "order": 4,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 31
+      }
+    },
+    {
+      "id": "kanji-4e94",
+      "char": "五",
+      "category": "numbers",
+      "meaning": "lima",
+      "english": "five",
+      "on": [
+        "ゴ"
+      ],
+      "kun": [
+        "いつ.つ",
+        "いつ"
+      ],
+      "strokes": 4,
+      "radical": "二",
+      "mnemonic": "Bayangkan lima jari yang dirapatkan dalam bentuk bersilang.",
+      "examples": [
+        {
+          "word": "五つ",
+          "kana": "いつつ",
+          "meaning": "lima buah"
+        },
+        {
+          "word": "五月",
+          "kana": "ごがつ",
+          "meaning": "Mei"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 5
+      },
+      "order": 5,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 7
+      }
+    },
+    {
+      "id": "kanji-516d",
+      "char": "六",
+      "category": "numbers",
+      "meaning": "enam",
+      "english": "six",
+      "on": [
+        "ロク",
+        "リク"
+      ],
+      "kun": [
+        "む.つ",
+        "むっ.つ",
+        "むい",
+        "む"
+      ],
+      "strokes": 4,
+      "radical": "八",
+      "mnemonic": "Bayangkan atap dan dua kaki sebagai bentuk khas angka enam.",
+      "examples": [
+        {
+          "word": "六つ",
+          "kana": "むっつ",
+          "meaning": "enam buah"
+        },
+        {
+          "word": "六月",
+          "kana": "ろくがつ",
+          "meaning": "Juni"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 6
+      },
+      "order": 6,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 12
+      }
+    },
+    {
+      "id": "kanji-4e03",
+      "char": "七",
+      "category": "numbers",
+      "meaning": "tujuh",
+      "english": "seven",
+      "on": [
+        "シチ"
+      ],
+      "kun": [
+        "なな",
+        "なな.つ",
+        "なの"
+      ],
+      "strokes": 2,
+      "radical": "一",
+      "mnemonic": "Garis panjang bertemu garis yang melengkung: tanda tujuh.",
+      "examples": [
+        {
+          "word": "七つ",
+          "kana": "ななつ",
+          "meaning": "tujuh buah"
+        },
+        {
+          "word": "七月",
+          "kana": "しちがつ",
+          "meaning": "Juli"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 7
+      },
+      "order": 7,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 1
+      }
+    },
+    {
+      "id": "kanji-516b",
+      "char": "八",
+      "category": "numbers",
+      "meaning": "delapan",
+      "english": "eight",
+      "on": [
+        "ハチ",
+        "ハツ"
+      ],
+      "kun": [
+        "や",
+        "や.つ",
+        "やっ.つ",
+        "よう"
+      ],
+      "strokes": 2,
+      "radical": "八",
+      "mnemonic": "Dua garis membuka lebar, seperti tangan menyambut delapan.",
+      "examples": [
+        {
+          "word": "八つ",
+          "kana": "やっつ",
+          "meaning": "delapan buah"
+        },
+        {
+          "word": "八月",
+          "kana": "はちがつ",
+          "meaning": "Agustus"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 8
+      },
+      "order": 8,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 12
+      }
+    },
+    {
+      "id": "kanji-4e5d",
+      "char": "九",
+      "category": "numbers",
+      "meaning": "sembilan",
+      "english": "nine",
+      "on": [
+        "キュウ",
+        "ク"
+      ],
+      "kun": [
+        "ここの.つ",
+        "ここの"
+      ],
+      "strokes": 2,
+      "radical": "乙",
+      "mnemonic": "Perhatikan satu garis yang berbelok dan mengait sebagai ciri sembilan.",
+      "examples": [
+        {
+          "word": "九つ",
+          "kana": "ここのつ",
+          "meaning": "sembilan buah"
+        },
+        {
+          "word": "九月",
+          "kana": "くがつ",
+          "meaning": "September"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 9
+      },
+      "order": 9,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 5
+      }
+    },
+    {
+      "id": "kanji-5341",
+      "char": "十",
+      "category": "numbers",
+      "meaning": "sepuluh",
+      "english": "ten",
+      "on": [
+        "ジュウ",
+        "ジッ",
+        "ジュッ"
+      ],
+      "kun": [
+        "とお",
+        "と",
+        "そ"
+      ],
+      "strokes": 2,
+      "radical": "十",
+      "mnemonic": "Dua garis bersilang, seperti dua tangan dengan sepuluh jari.",
+      "examples": [
+        {
+          "word": "十",
+          "kana": "じゅう",
+          "meaning": "sepuluh"
+        },
+        {
+          "word": "十月",
+          "kana": "じゅうがつ",
+          "meaning": "Oktober"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 10
+      },
+      "order": 10,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 24
+      }
+    },
+    {
+      "id": "kanji-767e",
+      "char": "百",
+      "category": "numbers",
+      "meaning": "seratus",
+      "english": "one hundred",
+      "on": [
+        "ヒャク",
+        "ビャク"
+      ],
+      "kun": [
+        "もも"
+      ],
+      "strokes": 6,
+      "radical": "白",
+      "mnemonic": "Bayangkan satu garis tambahan di atas 白 untuk mengingat seratus.",
+      "examples": [
+        {
+          "word": "百",
+          "kana": "ひゃく",
+          "meaning": "seratus"
+        },
+        {
+          "word": "三百",
+          "kana": "さんびゃく",
+          "meaning": "tiga ratus"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 11
+      },
+      "order": 11,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 106
+      }
+    },
+    {
+      "id": "kanji-5343",
+      "char": "千",
+      "category": "numbers",
+      "meaning": "seribu",
+      "english": "one thousand",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "ち"
+      ],
+      "strokes": 3,
+      "radical": "十",
+      "mnemonic": "Bentuk 十 diberi satu goresan miring: tingkatkan hitungan menjadi seribu.",
+      "examples": [
+        {
+          "word": "千",
+          "kana": "せん",
+          "meaning": "seribu"
+        },
+        {
+          "word": "三千",
+          "kana": "さんぜん",
+          "meaning": "tiga ribu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 12
+      },
+      "order": 12,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 24
+      }
+    },
+    {
+      "id": "kanji-4e07",
+      "char": "万",
+      "category": "numbers",
+      "meaning": "sepuluh ribu",
+      "english": "ten thousand",
+      "on": [
+        "マン",
+        "バン"
+      ],
+      "kun": [
+        "よろず"
+      ],
+      "strokes": 3,
+      "radical": "一",
+      "mnemonic": "Bayangkan angka besar diikat dengan satu kait di bawah garis atas.",
+      "examples": [
+        {
+          "word": "一万",
+          "kana": "いちまん",
+          "meaning": "sepuluh ribu"
+        },
+        {
+          "word": "万年筆",
+          "kana": "まんねんひつ",
+          "meaning": "pena tinta"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 13
+      },
+      "order": 13,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 1
+      }
+    },
+    {
+      "id": "kanji-5186",
+      "char": "円",
+      "category": "numbers",
+      "meaning": "yen; lingkaran",
+      "english": "yen; circle",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "まる.い",
+        "まる",
+        "まど",
+        "まど.か",
+        "まろ.やか"
+      ],
+      "strokes": 4,
+      "radical": "冂",
+      "mnemonic": "Bayangkan sebuah koin yen di dalam bingkai kecil.",
+      "examples": [
+        {
+          "word": "百円",
+          "kana": "ひゃくえん",
+          "meaning": "seratus yen"
+        },
+        {
+          "word": "円い",
+          "kana": "まるい",
+          "meaning": "bulat"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 14
+      },
+      "order": 14,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 13
+      }
+    },
+    {
+      "id": "kanji-5e74",
+      "char": "年",
+      "category": "time",
+      "meaning": "tahun; umur",
+      "english": "year; age",
+      "on": [
+        "ネン"
+      ],
+      "kun": [
+        "とし"
+      ],
+      "strokes": 6,
+      "radical": "干",
+      "mnemonic": "Ingat garis bertingkat sebagai penanda tahun yang terus bertambah.",
+      "examples": [
+        {
+          "word": "今年",
+          "kana": "ことし",
+          "meaning": "tahun ini"
+        },
+        {
+          "word": "一年",
+          "kana": "いちねん",
+          "meaning": "satu tahun"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 15
+      },
+      "order": 15,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 51
+      }
+    },
+    {
+      "id": "kanji-5c71",
+      "char": "山",
+      "category": "nature",
+      "meaning": "gunung",
+      "english": "mountain",
+      "on": [
+        "サン",
+        "セン"
+      ],
+      "kun": [
+        "やま"
+      ],
+      "strokes": 3,
+      "radical": "山",
+      "mnemonic": "Tiga puncak gunung, dengan puncak tengah paling tinggi.",
+      "examples": [
+        {
+          "word": "山",
+          "kana": "やま",
+          "meaning": "gunung"
+        },
+        {
+          "word": "富士山",
+          "kana": "ふじさん",
+          "meaning": "Gunung Fuji"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 16
+      },
+      "order": 16,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 46
+      }
+    },
+    {
+      "id": "kanji-5ddd",
+      "char": "川",
+      "category": "nature",
+      "meaning": "sungai",
+      "english": "river",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "かわ"
+      ],
+      "strokes": 3,
+      "radical": "巛",
+      "mnemonic": "Tiga aliran air memanjang berdampingan.",
+      "examples": [
+        {
+          "word": "川",
+          "kana": "かわ",
+          "meaning": "sungai"
+        },
+        {
+          "word": "小川",
+          "kana": "おがわ",
+          "meaning": "sungai kecil"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 17
+      },
+      "order": 17,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 47
+      }
+    },
+    {
+      "id": "kanji-7530",
+      "char": "田",
+      "category": "nature",
+      "meaning": "sawah; ladang",
+      "english": "rice field",
+      "on": [
+        "デン"
+      ],
+      "kun": [
+        "た"
+      ],
+      "strokes": 5,
+      "radical": "田",
+      "mnemonic": "Kotak dibagi empat seperti petak sawah.",
+      "examples": [
+        {
+          "word": "田んぼ",
+          "kana": "たんぼ",
+          "meaning": "sawah"
+        },
+        {
+          "word": "水田",
+          "kana": "すいでん",
+          "meaning": "sawah"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 18
+      },
+      "order": 18,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 102
+      }
+    },
+    {
+      "id": "kanji-65e5",
+      "char": "日",
+      "category": "nature",
+      "meaning": "hari; matahari",
+      "english": "day; sun",
+      "on": [
+        "ニチ",
+        "ジツ"
+      ],
+      "kun": [
+        "ひ",
+        "-か",
+        "-び"
+      ],
+      "strokes": 4,
+      "radical": "日",
+      "mnemonic": "Bayangkan matahari yang dipadatkan menjadi sebuah kotak.",
+      "examples": [
+        {
+          "word": "日曜日",
+          "kana": "にちようび",
+          "meaning": "Minggu"
+        },
+        {
+          "word": "日本",
+          "kana": "にほん",
+          "meaning": "Jepang"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 19
+      },
+      "order": 19,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 72
+      }
+    },
+    {
+      "id": "kanji-6708",
+      "char": "月",
+      "category": "nature",
+      "meaning": "bulan",
+      "english": "moon; month",
+      "on": [
+        "ゲツ",
+        "ガツ"
+      ],
+      "kun": [
+        "つき"
+      ],
+      "strokes": 4,
+      "radical": "月",
+      "mnemonic": "Bingkai melengkung dengan dua garis di dalamnya mengingatkan bulan.",
+      "examples": [
+        {
+          "word": "月",
+          "kana": "つき",
+          "meaning": "bulan"
+        },
+        {
+          "word": "月曜日",
+          "kana": "げつようび",
+          "meaning": "Senin"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          2
+        ],
+        "number": 20
+      },
+      "order": 20,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 74
+      }
+    },
+    {
+      "id": "kanji-706b",
+      "char": "火",
+      "category": "nature",
+      "meaning": "api",
+      "english": "fire",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "ひ",
+        "ほ-",
+        "-び"
+      ],
+      "strokes": 4,
+      "radical": "火",
+      "mnemonic": "Lidah api naik di tengah dan percikannya menyebar ke samping.",
+      "examples": [
+        {
+          "word": "火",
+          "kana": "ひ",
+          "meaning": "api"
+        },
+        {
+          "word": "火曜日",
+          "kana": "かようび",
+          "meaning": "Selasa"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 21
+      },
+      "order": 21,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 86
+      }
+    },
+    {
+      "id": "kanji-6c34",
+      "char": "水",
+      "category": "nature",
+      "meaning": "air",
+      "english": "water",
+      "on": [
+        "スイ"
+      ],
+      "kun": [
+        "みず",
+        "みず-"
+      ],
+      "strokes": 4,
+      "radical": "水",
+      "mnemonic": "Aliran utama di tengah dengan percikan air di kedua sisi.",
+      "examples": [
+        {
+          "word": "水",
+          "kana": "みず",
+          "meaning": "air"
+        },
+        {
+          "word": "水曜日",
+          "kana": "すいようび",
+          "meaning": "Rabu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 22
+      },
+      "order": 22,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 85
+      }
+    },
+    {
+      "id": "kanji-6728",
+      "char": "木",
+      "category": "nature",
+      "meaning": "pohon; kayu",
+      "english": "tree; wood",
+      "on": [
+        "モク",
+        "ボク"
+      ],
+      "kun": [
+        "き",
+        "こ-"
+      ],
+      "strokes": 4,
+      "radical": "木",
+      "mnemonic": "Batang, cabang, dan akar membentuk sebuah pohon.",
+      "examples": [
+        {
+          "word": "木",
+          "kana": "き",
+          "meaning": "pohon"
+        },
+        {
+          "word": "木曜日",
+          "kana": "もくようび",
+          "meaning": "Kamis"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 23
+      },
+      "order": 23,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 75
+      }
+    },
+    {
+      "id": "kanji-91d1",
+      "char": "金",
+      "category": "nature",
+      "meaning": "emas; uang; logam",
+      "english": "gold; money; metal",
+      "on": [
+        "キン",
+        "コン",
+        "ゴン"
+      ],
+      "kun": [
+        "かね",
+        "かな-",
+        "-がね"
+      ],
+      "strokes": 8,
+      "radical": "金",
+      "mnemonic": "Bayangkan butiran emas tersimpan di bawah sebuah atap.",
+      "examples": [
+        {
+          "word": "お金",
+          "kana": "おかね",
+          "meaning": "uang"
+        },
+        {
+          "word": "金曜日",
+          "kana": "きんようび",
+          "meaning": "Jumat"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 24
+      },
+      "order": 24,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 167
+      }
+    },
+    {
+      "id": "kanji-571f",
+      "char": "土",
+      "category": "nature",
+      "meaning": "tanah",
+      "english": "earth; soil",
+      "on": [
+        "ド",
+        "ト"
+      ],
+      "kun": [
+        "つち"
+      ],
+      "strokes": 3,
+      "radical": "土",
+      "mnemonic": "Tanaman kecil berdiri di atas permukaan tanah yang lebar.",
+      "examples": [
+        {
+          "word": "土",
+          "kana": "つち",
+          "meaning": "tanah"
+        },
+        {
+          "word": "土曜日",
+          "kana": "どようび",
+          "meaning": "Sabtu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 25
+      },
+      "order": 25,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 32
+      }
+    },
+    {
+      "id": "kanji-4e0a",
+      "char": "上",
+      "category": "position",
+      "meaning": "atas; naik",
+      "english": "above; up",
+      "on": [
+        "ジョウ",
+        "ショウ",
+        "シャン"
+      ],
+      "kun": [
+        "うえ",
+        "あ.がる",
+        "あ.げる",
+        "のぼ.る",
+        "-うえ",
+        "うわ-",
+        "かみ",
+        "-あ.げる",
+        "-あ.がる",
+        "あ.がり",
+        "-あ.がり",
+        "のぼ.り",
+        "のぼ.せる",
+        "のぼ.す",
+        "たてまつ.る"
+      ],
+      "strokes": 3,
+      "radical": "一",
+      "mnemonic": "Garis kecil berada di atas garis dasar.",
+      "examples": [
+        {
+          "word": "上",
+          "kana": "うえ",
+          "meaning": "atas"
+        },
+        {
+          "word": "上手",
+          "kana": "じょうず",
+          "meaning": "terampil"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 26
+      },
+      "order": 26,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 1
+      }
+    },
+    {
+      "id": "kanji-4e0b",
+      "char": "下",
+      "category": "position",
+      "meaning": "bawah; turun",
+      "english": "below; down",
+      "on": [
+        "カ",
+        "ゲ"
+      ],
+      "kun": [
+        "した",
+        "さ.がる",
+        "さ.げる",
+        "くだ.る",
+        "しも",
+        "もと",
+        "くだ.り",
+        "くだ.す",
+        "-くだ.す",
+        "くだ.さる",
+        "お.ろす",
+        "お.りる"
+      ],
+      "strokes": 3,
+      "radical": "一",
+      "mnemonic": "Garis kecil menjulur ke bawah garis atas.",
+      "examples": [
+        {
+          "word": "下",
+          "kana": "した",
+          "meaning": "bawah"
+        },
+        {
+          "word": "下手",
+          "kana": "へた",
+          "meaning": "kurang terampil"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 27
+      },
+      "order": 27,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 1
+      }
+    },
+    {
+      "id": "kanji-4e2d",
+      "char": "中",
+      "category": "position",
+      "meaning": "tengah; dalam",
+      "english": "middle; inside",
+      "on": [
+        "チュウ",
+        "ジュウ"
+      ],
+      "kun": [
+        "なか",
+        "うち",
+        "あた.る"
+      ],
+      "strokes": 4,
+      "radical": "丨",
+      "mnemonic": "Satu garis melewati tepat di tengah sebuah kotak.",
+      "examples": [
+        {
+          "word": "中",
+          "kana": "なか",
+          "meaning": "dalam"
+        },
+        {
+          "word": "中国",
+          "kana": "ちゅうごく",
+          "meaning": "Tiongkok"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 28
+      },
+      "order": 28,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 2
+      }
+    },
+    {
+      "id": "kanji-534a",
+      "char": "半",
+      "category": "numbers",
+      "meaning": "setengah",
+      "english": "half",
+      "on": [
+        "ハン"
+      ],
+      "kun": [
+        "なか.ば"
+      ],
+      "strokes": 5,
+      "radical": "十",
+      "mnemonic": "Bayangkan sebuah benda dibagi menjadi dua bagian.",
+      "examples": [
+        {
+          "word": "半分",
+          "kana": "はんぶん",
+          "meaning": "setengah"
+        },
+        {
+          "word": "一時半",
+          "kana": "いちじはん",
+          "meaning": "pukul setengah dua"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 29
+      },
+      "order": 29,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 24
+      }
+    },
+    {
+      "id": "kanji-5206",
+      "char": "分",
+      "category": "numbers",
+      "meaning": "menit; bagian; mengerti",
+      "english": "minute; part; understand",
+      "on": [
+        "フン",
+        "ブン",
+        "ブ"
+      ],
+      "kun": [
+        "わ.かる",
+        "わ.ける",
+        "わ.け",
+        "わ.かれる",
+        "わ.かつ"
+      ],
+      "strokes": 4,
+      "radical": "刀",
+      "mnemonic": "Bayangkan pisau membagi sesuatu menjadi beberapa bagian.",
+      "examples": [
+        {
+          "word": "五分",
+          "kana": "ごふん",
+          "meaning": "lima menit"
+        },
+        {
+          "word": "分かる",
+          "kana": "わかる",
+          "meaning": "mengerti"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 30
+      },
+      "order": 30,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 18
+      }
+    },
+    {
+      "id": "kanji-4eba",
+      "char": "人",
+      "category": "people",
+      "meaning": "orang; manusia",
+      "english": "person; human",
+      "on": [
+        "ジン",
+        "ニン"
+      ],
+      "kun": [
+        "ひと",
+        "-り",
+        "-と"
+      ],
+      "strokes": 2,
+      "radical": "人",
+      "mnemonic": "Dua kaki membentuk siluet orang yang berdiri.",
+      "examples": [
+        {
+          "word": "人",
+          "kana": "ひと",
+          "meaning": "orang"
+        },
+        {
+          "word": "日本人",
+          "kana": "にほんじん",
+          "meaning": "orang Jepang"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 31
+      },
+      "order": 31,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 9
+      }
+    },
+    {
+      "id": "kanji-5b50",
+      "char": "子",
+      "category": "people",
+      "meaning": "anak",
+      "english": "child",
+      "on": [
+        "シ",
+        "ス",
+        "ツ"
+      ],
+      "kun": [
+        "こ",
+        "-こ",
+        "ね"
+      ],
+      "strokes": 3,
+      "radical": "子",
+      "mnemonic": "Bayangkan kepala besar dan kedua tangan seorang anak.",
+      "examples": [
+        {
+          "word": "子ども",
+          "kana": "こども",
+          "meaning": "anak"
+        },
+        {
+          "word": "男の子",
+          "kana": "おとこのこ",
+          "meaning": "anak laki-laki"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 32
+      },
+      "order": 32,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 39
+      }
+    },
+    {
+      "id": "kanji-5973",
+      "char": "女",
+      "category": "people",
+      "meaning": "perempuan",
+      "english": "woman; female",
+      "on": [
+        "ジョ",
+        "ニョ",
+        "ニョウ"
+      ],
+      "kun": [
+        "おんな",
+        "め"
+      ],
+      "strokes": 3,
+      "radical": "女",
+      "mnemonic": "Bayangkan sosok dengan tangan bersilang untuk mengingat bentuknya.",
+      "examples": [
+        {
+          "word": "女の人",
+          "kana": "おんなのひと",
+          "meaning": "perempuan"
+        },
+        {
+          "word": "女の子",
+          "kana": "おんなのこ",
+          "meaning": "anak perempuan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 33
+      },
+      "order": 33,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 38
+      }
+    },
+    {
+      "id": "kanji-7537",
+      "char": "男",
+      "category": "people",
+      "meaning": "laki-laki",
+      "english": "man; male",
+      "on": [
+        "ダン",
+        "ナン"
+      ],
+      "kun": [
+        "おとこ",
+        "お"
+      ],
+      "strokes": 7,
+      "radical": "田",
+      "mnemonic": "Gabungkan sawah 田 dan tenaga 力 sebagai bantuan ingatan visual.",
+      "examples": [
+        {
+          "word": "男の人",
+          "kana": "おとこのひと",
+          "meaning": "laki-laki"
+        },
+        {
+          "word": "男の子",
+          "kana": "おとこのこ",
+          "meaning": "anak laki-laki"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 34
+      },
+      "order": 34,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 102
+      }
+    },
+    {
+      "id": "kanji-76ee",
+      "char": "目",
+      "category": "body",
+      "meaning": "mata",
+      "english": "eye",
+      "on": [
+        "モク",
+        "ボク"
+      ],
+      "kun": [
+        "め",
+        "ま-",
+        "-め"
+      ],
+      "strokes": 5,
+      "radical": "目",
+      "mnemonic": "Kotak tegak dengan garis di dalamnya menyerupai mata yang diputar.",
+      "examples": [
+        {
+          "word": "目",
+          "kana": "め",
+          "meaning": "mata"
+        },
+        {
+          "word": "一日目",
+          "kana": "いちにちめ",
+          "meaning": "hari pertama"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 35
+      },
+      "order": 35,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 109
+      }
+    },
+    {
+      "id": "kanji-53e3",
+      "char": "口",
+      "category": "body",
+      "meaning": "mulut",
+      "english": "mouth",
+      "on": [
+        "コウ",
+        "ク"
+      ],
+      "kun": [
+        "くち"
+      ],
+      "strokes": 3,
+      "radical": "口",
+      "mnemonic": "Bentuk kotak seperti mulut yang terbuka.",
+      "examples": [
+        {
+          "word": "口",
+          "kana": "くち",
+          "meaning": "mulut"
+        },
+        {
+          "word": "入口",
+          "kana": "いりぐち",
+          "meaning": "pintu masuk"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 36
+      },
+      "order": 36,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 30
+      }
+    },
+    {
+      "id": "kanji-8033",
+      "char": "耳",
+      "category": "body",
+      "meaning": "telinga",
+      "english": "ear",
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "みみ"
+      ],
+      "strokes": 6,
+      "radical": "耳",
+      "mnemonic": "Perhatikan bentuk panjang dan garis dalamnya seperti bagian telinga.",
+      "examples": [
+        {
+          "word": "耳",
+          "kana": "みみ",
+          "meaning": "telinga"
+        },
+        {
+          "word": "耳鼻科",
+          "kana": "じびか",
+          "meaning": "poli THT"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 37
+      },
+      "order": 37,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 128
+      }
+    },
+    {
+      "id": "kanji-624b",
+      "char": "手",
+      "category": "body",
+      "meaning": "tangan",
+      "english": "hand",
+      "on": [
+        "シュ",
+        "ズ"
+      ],
+      "kun": [
+        "て",
+        "た-",
+        "て-",
+        "-て"
+      ],
+      "strokes": 4,
+      "radical": "手",
+      "mnemonic": "Beberapa garis kecil bertemu seperti jari pada telapak tangan.",
+      "examples": [
+        {
+          "word": "手",
+          "kana": "て",
+          "meaning": "tangan"
+        },
+        {
+          "word": "上手",
+          "kana": "じょうず",
+          "meaning": "terampil"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 38
+      },
+      "order": 38,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 64
+      }
+    },
+    {
+      "id": "kanji-8db3",
+      "char": "足",
+      "category": "body",
+      "meaning": "kaki; cukup",
+      "english": "foot; leg; enough",
+      "on": [
+        "ソク"
+      ],
+      "kun": [
+        "あし",
+        "た.りる",
+        "た.す",
+        "た.る"
+      ],
+      "strokes": 7,
+      "radical": "足",
+      "mnemonic": "Bayangkan lutut di bagian atas dan telapak yang melangkah di bawah.",
+      "examples": [
+        {
+          "word": "足",
+          "kana": "あし",
+          "meaning": "kaki"
+        },
+        {
+          "word": "足りる",
+          "kana": "たりる",
+          "meaning": "cukup"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 39
+      },
+      "order": 39,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 157
+      }
+    },
+    {
+      "id": "kanji-529b",
+      "char": "力",
+      "category": "body",
+      "meaning": "tenaga; kekuatan",
+      "english": "power; strength",
+      "on": [
+        "リョク",
+        "リキ",
+        "リイ"
+      ],
+      "kun": [
+        "ちから"
+      ],
+      "strokes": 2,
+      "radical": "力",
+      "mnemonic": "Goresan yang menekuk menyerupai lengan yang sedang mengerahkan tenaga.",
+      "examples": [
+        {
+          "word": "力",
+          "kana": "ちから",
+          "meaning": "tenaga"
+        },
+        {
+          "word": "体力",
+          "kana": "たいりょく",
+          "meaning": "stamina"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          3
+        ],
+        "number": 40
+      },
+      "order": 40,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 19
+      }
+    },
+    {
+      "id": "kanji-7236",
+      "char": "父",
+      "category": "people",
+      "meaning": "ayah",
+      "english": "father",
+      "on": [
+        "フ"
+      ],
+      "kun": [
+        "ちち"
+      ],
+      "strokes": 4,
+      "radical": "父",
+      "mnemonic": "Bayangkan dua tangan bersilang yang bekerja untuk keluarga.",
+      "examples": [
+        {
+          "word": "父",
+          "kana": "ちち",
+          "meaning": "ayah sendiri"
+        },
+        {
+          "word": "お父さん",
+          "kana": "おとうさん",
+          "meaning": "ayah"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 41
+      },
+      "order": 41,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 88
+      }
+    },
+    {
+      "id": "kanji-6bcd",
+      "char": "母",
+      "category": "people",
+      "meaning": "ibu",
+      "english": "mother",
+      "on": [
+        "ボ"
+      ],
+      "kun": [
+        "はは",
+        "も"
+      ],
+      "strokes": 5,
+      "radical": "毋",
+      "mnemonic": "Dua titik di dalam bingkai menjadi ciri khas untuk mengingat ibu.",
+      "examples": [
+        {
+          "word": "母",
+          "kana": "はは",
+          "meaning": "ibu sendiri"
+        },
+        {
+          "word": "お母さん",
+          "kana": "おかあさん",
+          "meaning": "ibu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 42
+      },
+      "order": 42,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 80
+      }
+    },
+    {
+      "id": "kanji-5e97",
+      "char": "店",
+      "category": "places",
+      "meaning": "toko; warung",
+      "english": "shop; store",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "みせ",
+        "たな"
+      ],
+      "strokes": 8,
+      "radical": "广",
+      "mnemonic": "Bayangkan sebuah tempat berdagang di bawah atap yang lebar.",
+      "examples": [
+        {
+          "word": "店",
+          "kana": "みせ",
+          "meaning": "toko"
+        },
+        {
+          "word": "店員",
+          "kana": "てんいん",
+          "meaning": "pegawai toko"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 43
+      },
+      "order": 43,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 53
+      }
+    },
+    {
+      "id": "kanji-99c5",
+      "char": "駅",
+      "category": "places",
+      "meaning": "stasiun",
+      "english": "station",
+      "on": [
+        "エキ"
+      ],
+      "kun": [],
+      "strokes": 14,
+      "radical": "馬",
+      "mnemonic": "馬 di kiri menjadi kuda dalam bayangan perjalanan menuju stasiun.",
+      "examples": [
+        {
+          "word": "駅",
+          "kana": "えき",
+          "meaning": "stasiun"
+        },
+        {
+          "word": "駅前",
+          "kana": "えきまえ",
+          "meaning": "depan stasiun"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 44
+      },
+      "order": 44,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 187
+      }
+    },
+    {
+      "id": "kanji-5148",
+      "char": "先",
+      "category": "time",
+      "meaning": "sebelum; lebih dahulu; ujung",
+      "english": "ahead; previous; tip",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "さき",
+        "ま.ず"
+      ],
+      "strokes": 6,
+      "radical": "儿",
+      "mnemonic": "Bayangkan seseorang dengan kaki yang sudah melangkah lebih dahulu.",
+      "examples": [
+        {
+          "word": "先生",
+          "kana": "せんせい",
+          "meaning": "guru"
+        },
+        {
+          "word": "先週",
+          "kana": "せんしゅう",
+          "meaning": "minggu lalu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 45
+      },
+      "order": 45,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 10
+      }
+    },
+    {
+      "id": "kanji-751f",
+      "char": "生",
+      "category": "people",
+      "meaning": "hidup; lahir; mentah",
+      "english": "life; birth; raw",
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "い.きる",
+        "う.まれる",
+        "なま",
+        "い.かす",
+        "い.ける",
+        "うま.れる",
+        "う.まれ",
+        "うまれ",
+        "う.む",
+        "お.う",
+        "は.える",
+        "は.やす",
+        "き",
+        "なま-",
+        "な.る",
+        "な.す",
+        "む.す",
+        "-う"
+      ],
+      "strokes": 5,
+      "radical": "生",
+      "mnemonic": "Bayangkan tunas yang muncul dan tumbuh dari tanah.",
+      "examples": [
+        {
+          "word": "学生",
+          "kana": "がくせい",
+          "meaning": "pelajar"
+        },
+        {
+          "word": "生まれる",
+          "kana": "うまれる",
+          "meaning": "lahir"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 46
+      },
+      "order": 46,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 100
+      }
+    },
+    {
+      "id": "kanji-5b66",
+      "char": "学",
+      "category": "learning",
+      "meaning": "belajar",
+      "english": "study; learning",
+      "on": [
+        "ガク"
+      ],
+      "kun": [
+        "まな.ぶ"
+      ],
+      "strokes": 8,
+      "radical": "子",
+      "mnemonic": "Seorang anak 子 berada di bawah atap tempat belajar.",
+      "examples": [
+        {
+          "word": "学生",
+          "kana": "がくせい",
+          "meaning": "pelajar"
+        },
+        {
+          "word": "学校",
+          "kana": "がっこう",
+          "meaning": "sekolah"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 47
+      },
+      "order": 47,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 39
+      }
+    },
+    {
+      "id": "kanji-6821",
+      "char": "校",
+      "category": "learning",
+      "meaning": "sekolah",
+      "english": "school",
+      "on": [
+        "コウ",
+        "キョウ"
+      ],
+      "kun": [],
+      "strokes": 10,
+      "radical": "木",
+      "mnemonic": "Ingat 木 di kiri dan kaitkan bentuk lengkapnya dengan gedung sekolah.",
+      "examples": [
+        {
+          "word": "学校",
+          "kana": "がっこう",
+          "meaning": "sekolah"
+        },
+        {
+          "word": "校長",
+          "kana": "こうちょう",
+          "meaning": "kepala sekolah"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 48
+      },
+      "order": 48,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 75
+      }
+    },
+    {
+      "id": "kanji-53cb",
+      "char": "友",
+      "category": "people",
+      "meaning": "teman",
+      "english": "friend",
+      "on": [
+        "ユウ"
+      ],
+      "kun": [
+        "とも"
+      ],
+      "strokes": 4,
+      "radical": "又",
+      "mnemonic": "Dua bentuk tangan saling bertemu seperti teman yang membantu.",
+      "examples": [
+        {
+          "word": "友だち",
+          "kana": "ともだち",
+          "meaning": "teman"
+        },
+        {
+          "word": "友人",
+          "kana": "ゆうじん",
+          "meaning": "teman"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 49
+      },
+      "order": 49,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 29
+      }
+    },
+    {
+      "id": "kanji-672c",
+      "char": "本",
+      "category": "learning",
+      "meaning": "buku; asal",
+      "english": "book; origin",
+      "on": [
+        "ホン"
+      ],
+      "kun": [
+        "もと"
+      ],
+      "strokes": 5,
+      "radical": "木",
+      "mnemonic": "Pohon 木 diberi tanda pada pangkalnya untuk mengingat asal.",
+      "examples": [
+        {
+          "word": "本",
+          "kana": "ほん",
+          "meaning": "buku"
+        },
+        {
+          "word": "日本",
+          "kana": "にほん",
+          "meaning": "Jepang"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 50
+      },
+      "order": 50,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 75
+      }
+    },
+    {
+      "id": "kanji-6bce",
+      "char": "毎",
+      "category": "time",
+      "meaning": "setiap",
+      "english": "every; each",
+      "on": [
+        "マイ"
+      ],
+      "kun": [
+        "ごと",
+        "-ごと.に"
+      ],
+      "strokes": 6,
+      "radical": "毋",
+      "mnemonic": "Bayangkan tanda yang terus diulang untuk mengingat kata setiap.",
+      "examples": [
+        {
+          "word": "毎日",
+          "kana": "まいにち",
+          "meaning": "setiap hari"
+        },
+        {
+          "word": "毎週",
+          "kana": "まいしゅう",
+          "meaning": "setiap minggu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 51
+      },
+      "order": 51,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 80
+      }
+    },
+    {
+      "id": "kanji-524d",
+      "char": "前",
+      "category": "position",
+      "meaning": "depan; sebelum",
+      "english": "front; before",
+      "on": [
+        "ゼン"
+      ],
+      "kun": [
+        "まえ",
+        "-まえ"
+      ],
+      "strokes": 9,
+      "radical": "刀",
+      "mnemonic": "Ingat bagian kanan yang seperti pisau sebagai penanda sisi depan.",
+      "examples": [
+        {
+          "word": "前",
+          "kana": "まえ",
+          "meaning": "depan"
+        },
+        {
+          "word": "午前",
+          "kana": "ごぜん",
+          "meaning": "sebelum tengah hari"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 52
+      },
+      "order": 52,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 18
+      }
+    },
+    {
+      "id": "kanji-5f8c",
+      "char": "後",
+      "category": "position",
+      "meaning": "belakang; sesudah",
+      "english": "back; after",
+      "on": [
+        "ゴ",
+        "コウ"
+      ],
+      "kun": [
+        "あと",
+        "うし.ろ",
+        "のち",
+        "うしろ",
+        "おく.れる"
+      ],
+      "strokes": 9,
+      "radical": "彳",
+      "mnemonic": "Bayangkan langkah kecil di kiri mengikuti orang dari belakang.",
+      "examples": [
+        {
+          "word": "後ろ",
+          "kana": "うしろ",
+          "meaning": "belakang"
+        },
+        {
+          "word": "午後",
+          "kana": "ごご",
+          "meaning": "sesudah tengah hari"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 53
+      },
+      "order": 53,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 60
+      }
+    },
+    {
+      "id": "kanji-5de6",
+      "char": "左",
+      "category": "position",
+      "meaning": "kiri",
+      "english": "left",
+      "on": [
+        "サ",
+        "シャ"
+      ],
+      "kun": [
+        "ひだり"
+      ],
+      "strokes": 5,
+      "radical": "工",
+      "mnemonic": "Di bawah bentuk tangan ada 工 untuk membedakannya dari 右.",
+      "examples": [
+        {
+          "word": "左",
+          "kana": "ひだり",
+          "meaning": "kiri"
+        },
+        {
+          "word": "左手",
+          "kana": "ひだりて",
+          "meaning": "tangan kiri"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 54
+      },
+      "order": 54,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 48
+      }
+    },
+    {
+      "id": "kanji-53f3",
+      "char": "右",
+      "category": "position",
+      "meaning": "kanan",
+      "english": "right",
+      "on": [
+        "ウ",
+        "ユウ"
+      ],
+      "kun": [
+        "みぎ"
+      ],
+      "strokes": 5,
+      "radical": "口",
+      "mnemonic": "Di bawah bentuk tangan ada mulut 口; berbeda dengan 左 yang memakai 工.",
+      "examples": [
+        {
+          "word": "右",
+          "kana": "みぎ",
+          "meaning": "kanan"
+        },
+        {
+          "word": "右手",
+          "kana": "みぎて",
+          "meaning": "tangan kanan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 55
+      },
+      "order": 55,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 30
+      }
+    },
+    {
+      "id": "kanji-6771",
+      "char": "東",
+      "category": "position",
+      "meaning": "timur",
+      "english": "east",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "ひがし"
+      ],
+      "strokes": 8,
+      "radical": "木",
+      "mnemonic": "Bayangkan matahari 日 tampak di antara cabang pohon saat terbit di timur.",
+      "examples": [
+        {
+          "word": "東",
+          "kana": "ひがし",
+          "meaning": "timur"
+        },
+        {
+          "word": "東京",
+          "kana": "とうきょう",
+          "meaning": "Tokyo"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 56
+      },
+      "order": 56,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 75
+      }
+    },
+    {
+      "id": "kanji-897f",
+      "char": "西",
+      "category": "position",
+      "meaning": "barat",
+      "english": "west",
+      "on": [
+        "セイ",
+        "サイ",
+        "ス"
+      ],
+      "kun": [
+        "にし"
+      ],
+      "strokes": 6,
+      "radical": "襾",
+      "mnemonic": "Ingat dua goresan di dalam bingkai sebagai bentuk khas barat.",
+      "examples": [
+        {
+          "word": "西",
+          "kana": "にし",
+          "meaning": "barat"
+        },
+        {
+          "word": "西口",
+          "kana": "にしぐち",
+          "meaning": "pintu keluar barat"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 57
+      },
+      "order": 57,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 146
+      }
+    },
+    {
+      "id": "kanji-5357",
+      "char": "南",
+      "category": "position",
+      "meaning": "selatan",
+      "english": "south",
+      "on": [
+        "ナン",
+        "ナ"
+      ],
+      "kun": [
+        "みなみ"
+      ],
+      "strokes": 9,
+      "radical": "十",
+      "mnemonic": "Bayangkan penunjuk arah menggantung ke bawah menuju selatan.",
+      "examples": [
+        {
+          "word": "南",
+          "kana": "みなみ",
+          "meaning": "selatan"
+        },
+        {
+          "word": "南口",
+          "kana": "みなみぐち",
+          "meaning": "pintu keluar selatan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 58
+      },
+      "order": 58,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 24
+      }
+    },
+    {
+      "id": "kanji-5317",
+      "char": "北",
+      "category": "position",
+      "meaning": "utara",
+      "english": "north",
+      "on": [
+        "ホク"
+      ],
+      "kun": [
+        "きた"
+      ],
+      "strokes": 5,
+      "radical": "匕",
+      "mnemonic": "Dua bentuk saling membelakangi menjadi pengingat arah utara.",
+      "examples": [
+        {
+          "word": "北",
+          "kana": "きた",
+          "meaning": "utara"
+        },
+        {
+          "word": "北口",
+          "kana": "きたぐち",
+          "meaning": "pintu keluar utara"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 59
+      },
+      "order": 59,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 21
+      }
+    },
+    {
+      "id": "kanji-540d",
+      "char": "名",
+      "category": "people",
+      "meaning": "nama",
+      "english": "name",
+      "on": [
+        "メイ",
+        "ミョウ"
+      ],
+      "kun": [
+        "な",
+        "-な"
+      ],
+      "strokes": 6,
+      "radical": "口",
+      "mnemonic": "Gabungkan bentuk malam 夕 dan mulut 口 yang menyebut sebuah nama.",
+      "examples": [
+        {
+          "word": "名前",
+          "kana": "なまえ",
+          "meaning": "nama"
+        },
+        {
+          "word": "有名",
+          "kana": "ゆうめい",
+          "meaning": "terkenal"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          4
+        ],
+        "number": 60
+      },
+      "order": 60,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 30
+      }
+    },
+    {
+      "id": "kanji-725b",
+      "char": "牛",
+      "category": "animals",
+      "meaning": "sapi",
+      "english": "cow; cattle",
+      "on": [
+        "ギュウ"
+      ],
+      "kun": [
+        "うし"
+      ],
+      "strokes": 4,
+      "radical": "牛",
+      "mnemonic": "Garis tegak dan dua cabang mengingatkan kepala sapi bertanduk.",
+      "examples": [
+        {
+          "word": "牛",
+          "kana": "うし",
+          "meaning": "sapi"
+        },
+        {
+          "word": "牛肉",
+          "kana": "ぎゅうにく",
+          "meaning": "daging sapi"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 61
+      },
+      "order": 61,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 93
+      }
+    },
+    {
+      "id": "kanji-99ac",
+      "char": "馬",
+      "category": "animals",
+      "meaning": "kuda",
+      "english": "horse",
+      "on": [
+        "バ",
+        "メ",
+        "マ",
+        "ボ",
+        "モ"
+      ],
+      "kun": [
+        "うま",
+        "ま"
+      ],
+      "strokes": 10,
+      "radical": "馬",
+      "mnemonic": "Bayangkan badan kuda dan empat titik kecil sebagai kakinya.",
+      "examples": [
+        {
+          "word": "馬",
+          "kana": "うま",
+          "meaning": "kuda"
+        },
+        {
+          "word": "馬車",
+          "kana": "ばしゃ",
+          "meaning": "kereta kuda"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 62
+      },
+      "order": 62,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 187
+      }
+    },
+    {
+      "id": "kanji-9b5a",
+      "char": "魚",
+      "category": "animals",
+      "meaning": "ikan",
+      "english": "fish",
+      "on": [
+        "ギョ"
+      ],
+      "kun": [
+        "さかな",
+        "うお",
+        "-ざかな"
+      ],
+      "strokes": 11,
+      "radical": "魚",
+      "mnemonic": "Bayangkan kepala, badan bersisik, lalu ekor di bagian bawah.",
+      "examples": [
+        {
+          "word": "魚",
+          "kana": "さかな",
+          "meaning": "ikan"
+        },
+        {
+          "word": "金魚",
+          "kana": "きんぎょ",
+          "meaning": "ikan mas hias"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 63
+      },
+      "order": 63,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 195
+      }
+    },
+    {
+      "id": "kanji-8c9d",
+      "char": "貝",
+      "category": "animals",
+      "meaning": "kerang",
+      "english": "shellfish; shell",
+      "on": [
+        "バイ"
+      ],
+      "kun": [
+        "かい"
+      ],
+      "strokes": 7,
+      "radical": "貝",
+      "mnemonic": "Kotak atas menjadi cangkang, dua goresan bawah menjadi kaki kecil.",
+      "examples": [
+        {
+          "word": "貝",
+          "kana": "かい",
+          "meaning": "kerang"
+        },
+        {
+          "word": "貝殻",
+          "kana": "かいがら",
+          "meaning": "cangkang kerang"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 64
+      },
+      "order": 64,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 154
+      }
+    },
+    {
+      "id": "kanji-96e8",
+      "char": "雨",
+      "category": "nature",
+      "meaning": "hujan",
+      "english": "rain",
+      "on": [
+        "ウ"
+      ],
+      "kun": [
+        "あめ",
+        "あま-",
+        "-さめ"
+      ],
+      "strokes": 8,
+      "radical": "雨",
+      "mnemonic": "Titik-titik di bawah garis atas seperti tetesan hujan dari awan.",
+      "examples": [
+        {
+          "word": "雨",
+          "kana": "あめ",
+          "meaning": "hujan"
+        },
+        {
+          "word": "雨の日",
+          "kana": "あめのひ",
+          "meaning": "hari hujan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 65
+      },
+      "order": 65,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 173
+      }
+    },
+    {
+      "id": "kanji-5929",
+      "char": "天",
+      "category": "nature",
+      "meaning": "langit; surga",
+      "english": "sky; heaven",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "あめ",
+        "あま-",
+        "あまつ"
+      ],
+      "strokes": 4,
+      "radical": "大",
+      "mnemonic": "Satu garis di atas 大 mengingatkan sesuatu di atas kepala: langit.",
+      "examples": [
+        {
+          "word": "天気",
+          "kana": "てんき",
+          "meaning": "cuaca"
+        },
+        {
+          "word": "天国",
+          "kana": "てんごく",
+          "meaning": "surga"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 66
+      },
+      "order": 66,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 37
+      }
+    },
+    {
+      "id": "kanji-6c17",
+      "char": "気",
+      "category": "nature",
+      "meaning": "semangat; perasaan; udara",
+      "english": "spirit; feeling; air",
+      "on": [
+        "キ",
+        "ケ"
+      ],
+      "kun": [
+        "いき",
+        "き"
+      ],
+      "strokes": 6,
+      "radical": "气",
+      "mnemonic": "Bayangkan udara atau semangat bergerak di bawah atap melengkung.",
+      "examples": [
+        {
+          "word": "元気",
+          "kana": "げんき",
+          "meaning": "sehat"
+        },
+        {
+          "word": "天気",
+          "kana": "てんき",
+          "meaning": "cuaca"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 67
+      },
+      "order": 67,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 84
+      }
+    },
+    {
+      "id": "kanji-8eca",
+      "char": "車",
+      "category": "places",
+      "meaning": "mobil; kendaraan",
+      "english": "car; vehicle",
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "くるま"
+      ],
+      "strokes": 7,
+      "radical": "車",
+      "mnemonic": "Bayangkan roda dan poros kendaraan dilihat dari atas.",
+      "examples": [
+        {
+          "word": "車",
+          "kana": "くるま",
+          "meaning": "mobil"
+        },
+        {
+          "word": "電車",
+          "kana": "でんしゃ",
+          "meaning": "kereta listrik"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 68
+      },
+      "order": 68,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 159
+      }
+    },
+    {
+      "id": "kanji-9580",
+      "char": "門",
+      "category": "places",
+      "meaning": "gerbang",
+      "english": "gate",
+      "on": [
+        "モン"
+      ],
+      "kun": [
+        "かど",
+        "と"
+      ],
+      "strokes": 8,
+      "radical": "門",
+      "mnemonic": "Dua daun pintu berdiri berdampingan membentuk gerbang.",
+      "examples": [
+        {
+          "word": "門",
+          "kana": "もん",
+          "meaning": "gerbang"
+        },
+        {
+          "word": "正門",
+          "kana": "せいもん",
+          "meaning": "gerbang utama"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 69
+      },
+      "order": 69,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 169
+      }
+    },
+    {
+      "id": "kanji-5348",
+      "char": "午",
+      "category": "time",
+      "meaning": "tengah hari",
+      "english": "noon",
+      "on": [
+        "ゴ"
+      ],
+      "kun": [
+        "うま"
+      ],
+      "strokes": 4,
+      "radical": "十",
+      "mnemonic": "Gunakan 午 sebagai patokan tengah hari di antara 前 dan 後.",
+      "examples": [
+        {
+          "word": "午前",
+          "kana": "ごぜん",
+          "meaning": "sebelum tengah hari"
+        },
+        {
+          "word": "午後",
+          "kana": "ごご",
+          "meaning": "sesudah tengah hari"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 70
+      },
+      "order": 70,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 24
+      }
+    },
+    {
+      "id": "kanji-5927",
+      "char": "大",
+      "category": "qualities",
+      "meaning": "besar",
+      "english": "big; large",
+      "on": [
+        "ダイ",
+        "タイ"
+      ],
+      "kun": [
+        "おお.きい",
+        "おお-",
+        "-おお.いに"
+      ],
+      "strokes": 3,
+      "radical": "大",
+      "mnemonic": "Seseorang merentangkan tangan untuk menunjukkan ukuran besar.",
+      "examples": [
+        {
+          "word": "大きい",
+          "kana": "おおきい",
+          "meaning": "besar"
+        },
+        {
+          "word": "大学",
+          "kana": "だいがく",
+          "meaning": "universitas"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 71
+      },
+      "order": 71,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 37
+      }
+    },
+    {
+      "id": "kanji-5c0f",
+      "char": "小",
+      "category": "qualities",
+      "meaning": "kecil",
+      "english": "small; little",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "ちい.さい",
+        "こ-",
+        "お-",
+        "さ-"
+      ],
+      "strokes": 3,
+      "radical": "小",
+      "mnemonic": "Tiga goresan pendek mengingatkan benda kecil yang tersebar.",
+      "examples": [
+        {
+          "word": "小さい",
+          "kana": "ちいさい",
+          "meaning": "kecil"
+        },
+        {
+          "word": "小学校",
+          "kana": "しょうがっこう",
+          "meaning": "sekolah dasar"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 72
+      },
+      "order": 72,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 42
+      }
+    },
+    {
+      "id": "kanji-9ad8",
+      "char": "高",
+      "category": "qualities",
+      "meaning": "tinggi; mahal",
+      "english": "high; tall; expensive",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "たか.い",
+        "たか",
+        "-だか",
+        "たか.まる",
+        "たか.める"
+      ],
+      "strokes": 10,
+      "radical": "高",
+      "mnemonic": "Bayangkan gedung bertingkat yang menjulang tinggi.",
+      "examples": [
+        {
+          "word": "高い",
+          "kana": "たかい",
+          "meaning": "tinggi atau mahal"
+        },
+        {
+          "word": "高校",
+          "kana": "こうこう",
+          "meaning": "SMA"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 73
+      },
+      "order": 73,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 189
+      }
+    },
+    {
+      "id": "kanji-5b89",
+      "char": "安",
+      "category": "qualities",
+      "meaning": "murah; tenang",
+      "english": "cheap; peaceful",
+      "on": [
+        "アン"
+      ],
+      "kun": [
+        "やす.い",
+        "やす.まる",
+        "やす",
+        "やす.らか"
+      ],
+      "strokes": 6,
+      "radical": "宀",
+      "mnemonic": "Bayangkan seseorang berlindung nyaman di bawah sebuah atap.",
+      "examples": [
+        {
+          "word": "安い",
+          "kana": "やすい",
+          "meaning": "murah"
+        },
+        {
+          "word": "安心",
+          "kana": "あんしん",
+          "meaning": "rasa tenang"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 74
+      },
+      "order": 74,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 40
+      }
+    },
+    {
+      "id": "kanji-65b0",
+      "char": "新",
+      "category": "qualities",
+      "meaning": "baru",
+      "english": "new",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "あたら.しい",
+        "あら.た",
+        "にい-",
+        "あら-"
+      ],
+      "strokes": 13,
+      "radical": "斤",
+      "mnemonic": "Bayangkan alat di kanan dipakai untuk membuat sesuatu yang baru.",
+      "examples": [
+        {
+          "word": "新しい",
+          "kana": "あたらしい",
+          "meaning": "baru"
+        },
+        {
+          "word": "新聞",
+          "kana": "しんぶん",
+          "meaning": "koran"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 75
+      },
+      "order": 75,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 69
+      }
+    },
+    {
+      "id": "kanji-53e4",
+      "char": "古",
+      "category": "qualities",
+      "meaning": "lama; tua",
+      "english": "old",
+      "on": [
+        "コ"
+      ],
+      "kun": [
+        "ふる.い",
+        "ふる-",
+        "-ふる.す"
+      ],
+      "strokes": 5,
+      "radical": "口",
+      "mnemonic": "Bayangkan cerita dari sepuluh 十 mulut 口 yang sudah sangat lama.",
+      "examples": [
+        {
+          "word": "古い",
+          "kana": "ふるい",
+          "meaning": "lama"
+        },
+        {
+          "word": "中古",
+          "kana": "ちゅうこ",
+          "meaning": "barang bekas"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 76
+      },
+      "order": 76,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 30
+      }
+    },
+    {
+      "id": "kanji-9577",
+      "char": "長",
+      "category": "qualities",
+      "meaning": "panjang; pemimpin",
+      "english": "long; leader",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "なが.い",
+        "おさ"
+      ],
+      "strokes": 8,
+      "radical": "長",
+      "mnemonic": "Garis di bawahnya memanjang seperti rambut atau kain yang panjang.",
+      "examples": [
+        {
+          "word": "長い",
+          "kana": "ながい",
+          "meaning": "panjang"
+        },
+        {
+          "word": "校長",
+          "kana": "こうちょう",
+          "meaning": "kepala sekolah"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 77
+      },
+      "order": 77,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 168
+      }
+    },
+    {
+      "id": "kanji-591a",
+      "char": "多",
+      "category": "qualities",
+      "meaning": "banyak",
+      "english": "many; much",
+      "on": [
+        "タ"
+      ],
+      "kun": [
+        "おお.い",
+        "まさ.に",
+        "まさ.る"
+      ],
+      "strokes": 6,
+      "radical": "夕",
+      "mnemonic": "Bentuk 夕 muncul dua kali: bayangkan jumlah yang bertambah banyak.",
+      "examples": [
+        {
+          "word": "多い",
+          "kana": "おおい",
+          "meaning": "banyak"
+        },
+        {
+          "word": "多分",
+          "kana": "たぶん",
+          "meaning": "mungkin"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 78
+      },
+      "order": 78,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 36
+      }
+    },
+    {
+      "id": "kanji-5c11",
+      "char": "少",
+      "category": "qualities",
+      "meaning": "sedikit",
+      "english": "few; little",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "すく.ない",
+        "すこ.し"
+      ],
+      "strokes": 4,
+      "radical": "小",
+      "mnemonic": "Bentuk 小 diberi satu sapuan kecil: jumlahnya hanya sedikit.",
+      "examples": [
+        {
+          "word": "少ない",
+          "kana": "すくない",
+          "meaning": "sedikit"
+        },
+        {
+          "word": "少し",
+          "kana": "すこし",
+          "meaning": "sedikit"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 79
+      },
+      "order": 79,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 42
+      }
+    },
+    {
+      "id": "kanji-65e9",
+      "char": "早",
+      "category": "time",
+      "meaning": "awal; cepat",
+      "english": "early",
+      "on": [
+        "ソウ",
+        "サッ"
+      ],
+      "kun": [
+        "はや.い",
+        "はや",
+        "はや-",
+        "はや.まる",
+        "はや.める",
+        "さ-"
+      ],
+      "strokes": 6,
+      "radical": "日",
+      "mnemonic": "Matahari 日 muncul lebih awal di atas penanda 十.",
+      "examples": [
+        {
+          "word": "早い",
+          "kana": "はやい",
+          "meaning": "awal atau cepat"
+        },
+        {
+          "word": "早口",
+          "kana": "はやくち",
+          "meaning": "bicara cepat"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          5
+        ],
+        "number": 80
+      },
+      "order": 80,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 72
+      }
+    },
+    {
+      "id": "kanji-884c",
+      "char": "行",
+      "category": "actions",
+      "meaning": "pergi; menjalankan",
+      "english": "go; carry out",
+      "on": [
+        "コウ",
+        "ギョウ",
+        "アン"
+      ],
+      "kun": [
+        "い.く",
+        "ゆ.く",
+        "おこな.う",
+        "-ゆ.き",
+        "-ゆき",
+        "-い.き",
+        "-いき",
+        "おこ.なう"
+      ],
+      "strokes": 6,
+      "radical": "行",
+      "mnemonic": "Bayangkan persimpangan jalan yang dapat dilalui untuk pergi.",
+      "examples": [
+        {
+          "word": "行く",
+          "kana": "いく",
+          "meaning": "pergi"
+        },
+        {
+          "word": "銀行",
+          "kana": "ぎんこう",
+          "meaning": "bank"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 81
+      },
+      "order": 81,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 144
+      }
+    },
+    {
+      "id": "kanji-6765",
+      "char": "来",
+      "category": "actions",
+      "meaning": "datang",
+      "english": "come",
+      "on": [
+        "ライ",
+        "タイ"
+      ],
+      "kun": [
+        "く.る",
+        "き.たる",
+        "き.たす",
+        "きた.る",
+        "きた.す",
+        "き",
+        "こ"
+      ],
+      "strokes": 7,
+      "radical": "木",
+      "mnemonic": "Bayangkan seseorang datang melalui cabang-cabang di tengah jalan.",
+      "examples": [
+        {
+          "word": "来る",
+          "kana": "くる",
+          "meaning": "datang"
+        },
+        {
+          "word": "来年",
+          "kana": "らいねん",
+          "meaning": "tahun depan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 82
+      },
+      "order": 82,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 75
+      }
+    },
+    {
+      "id": "kanji-98df",
+      "char": "食",
+      "category": "actions",
+      "meaning": "makan; makanan",
+      "english": "eat; food",
+      "on": [
+        "ショク",
+        "ジキ"
+      ],
+      "kun": [
+        "た.べる",
+        "く.う",
+        "く.らう",
+        "は.む"
+      ],
+      "strokes": 9,
+      "radical": "食",
+      "mnemonic": "Bayangkan wadah makanan tertutup yang siap dibuka.",
+      "examples": [
+        {
+          "word": "食べる",
+          "kana": "たべる",
+          "meaning": "makan"
+        },
+        {
+          "word": "食堂",
+          "kana": "しょくどう",
+          "meaning": "kantin"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 83
+      },
+      "order": 83,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 184
+      }
+    },
+    {
+      "id": "kanji-898b",
+      "char": "見",
+      "category": "actions",
+      "meaning": "melihat",
+      "english": "see; look",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "み.る",
+        "み.える",
+        "み.せる"
+      ],
+      "strokes": 7,
+      "radical": "見",
+      "mnemonic": "Sebuah mata 目 di atas kaki: pergi untuk melihat.",
+      "examples": [
+        {
+          "word": "見る",
+          "kana": "みる",
+          "meaning": "melihat"
+        },
+        {
+          "word": "見せる",
+          "kana": "みせる",
+          "meaning": "memperlihatkan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 84
+      },
+      "order": 84,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 147
+      }
+    },
+    {
+      "id": "kanji-5165",
+      "char": "入",
+      "category": "actions",
+      "meaning": "masuk; memasukkan",
+      "english": "enter; put in",
+      "on": [
+        "ニュウ",
+        "ジュ"
+      ],
+      "kun": [
+        "はい.る",
+        "い.れる",
+        "い.る",
+        "-い.る",
+        "-い.り",
+        "-い.れ"
+      ],
+      "strokes": 2,
+      "radical": "入",
+      "mnemonic": "Dua garis seperti jalan menyempit menuju pintu masuk.",
+      "examples": [
+        {
+          "word": "入る",
+          "kana": "はいる",
+          "meaning": "masuk"
+        },
+        {
+          "word": "入口",
+          "kana": "いりぐち",
+          "meaning": "pintu masuk"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 85
+      },
+      "order": 85,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 11
+      }
+    },
+    {
+      "id": "kanji-51fa",
+      "char": "出",
+      "category": "actions",
+      "meaning": "keluar; mengeluarkan",
+      "english": "exit; go out",
+      "on": [
+        "シュツ",
+        "スイ"
+      ],
+      "kun": [
+        "で.る",
+        "だ.す",
+        "-で",
+        "-だ.す",
+        "い.でる",
+        "い.だす"
+      ],
+      "strokes": 5,
+      "radical": "凵",
+      "mnemonic": "Bayangkan tunas yang menembus keluar dari dua lapisan tanah.",
+      "examples": [
+        {
+          "word": "出る",
+          "kana": "でる",
+          "meaning": "keluar"
+        },
+        {
+          "word": "出口",
+          "kana": "でぐち",
+          "meaning": "pintu keluar"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 86
+      },
+      "order": 86,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 17
+      }
+    },
+    {
+      "id": "kanji-7acb",
+      "char": "立",
+      "category": "actions",
+      "meaning": "berdiri",
+      "english": "stand",
+      "on": [
+        "リツ",
+        "リュウ",
+        "リットル"
+      ],
+      "kun": [
+        "た.つ",
+        "た.てる",
+        "-た.つ",
+        "た.ち-",
+        "-た.てる",
+        "た.て-",
+        "たて-",
+        "-た.て",
+        "-だ.て",
+        "-だ.てる"
+      ],
+      "strokes": 5,
+      "radical": "立",
+      "mnemonic": "Sosok berdiri tegak dengan kedua kaki di atas lantai.",
+      "examples": [
+        {
+          "word": "立つ",
+          "kana": "たつ",
+          "meaning": "berdiri"
+        },
+        {
+          "word": "立てる",
+          "kana": "たてる",
+          "meaning": "mendirikan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 87
+      },
+      "order": 87,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 117
+      }
+    },
+    {
+      "id": "kanji-66f8",
+      "char": "書",
+      "category": "learning",
+      "meaning": "menulis",
+      "english": "write",
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "か.く",
+        "-が.き",
+        "-がき"
+      ],
+      "strokes": 10,
+      "radical": "曰",
+      "mnemonic": "Bayangkan tangan memegang kuas di atas kertas bergaris.",
+      "examples": [
+        {
+          "word": "書く",
+          "kana": "かく",
+          "meaning": "menulis"
+        },
+        {
+          "word": "図書館",
+          "kana": "としょかん",
+          "meaning": "perpustakaan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 88
+      },
+      "order": 88,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 73
+      }
+    },
+    {
+      "id": "kanji-8a00",
+      "char": "言",
+      "category": "learning",
+      "meaning": "berkata; ucapan",
+      "english": "say; word",
+      "on": [
+        "ゲン",
+        "ゴン"
+      ],
+      "kun": [
+        "い.う",
+        "こと"
+      ],
+      "strokes": 7,
+      "radical": "言",
+      "mnemonic": "Beberapa garis berada di atas mulut 口 yang mengucapkan kata.",
+      "examples": [
+        {
+          "word": "言う",
+          "kana": "いう",
+          "meaning": "berkata"
+        },
+        {
+          "word": "言葉",
+          "kana": "ことば",
+          "meaning": "kata atau bahasa"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 89
+      },
+      "order": 89,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 149
+      }
+    },
+    {
+      "id": "kanji-98f2",
+      "char": "飲",
+      "category": "actions",
+      "meaning": "minum",
+      "english": "drink",
+      "on": [
+        "イン",
+        "オン"
+      ],
+      "kun": [
+        "の.む",
+        "-の.み"
+      ],
+      "strokes": 12,
+      "radical": "食",
+      "mnemonic": "Bayangkan seseorang di kanan menikmati minuman dari wadah di kiri.",
+      "examples": [
+        {
+          "word": "飲む",
+          "kana": "のむ",
+          "meaning": "minum"
+        },
+        {
+          "word": "飲み物",
+          "kana": "のみもの",
+          "meaning": "minuman"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 90
+      },
+      "order": 90,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 184
+      }
+    },
+    {
+      "id": "kanji-8a71",
+      "char": "話",
+      "category": "learning",
+      "meaning": "berbicara; cerita",
+      "english": "speak; talk; story",
+      "on": [
+        "ワ"
+      ],
+      "kun": [
+        "はな.す",
+        "はなし"
+      ],
+      "strokes": 13,
+      "radical": "言",
+      "mnemonic": "Gabungkan ucapan 言 dan lidah 舌 untuk mengingat berbicara.",
+      "examples": [
+        {
+          "word": "話す",
+          "kana": "はなす",
+          "meaning": "berbicara"
+        },
+        {
+          "word": "電話",
+          "kana": "でんわ",
+          "meaning": "telepon"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 91
+      },
+      "order": 91,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 149
+      }
+    },
+    {
+      "id": "kanji-8aad",
+      "char": "読",
+      "category": "learning",
+      "meaning": "membaca",
+      "english": "read",
+      "on": [
+        "ドク",
+        "トク",
+        "トウ"
+      ],
+      "kun": [
+        "よ.む",
+        "-よ.み"
+      ],
+      "strokes": 14,
+      "radical": "言",
+      "mnemonic": "Ucapan 言 di kiri mengingatkan kata-kata yang dibaca.",
+      "examples": [
+        {
+          "word": "読む",
+          "kana": "よむ",
+          "meaning": "membaca"
+        },
+        {
+          "word": "読書",
+          "kana": "どくしょ",
+          "meaning": "membaca buku"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 92
+      },
+      "order": 92,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 149
+      }
+    },
+    {
+      "id": "kanji-8a9e",
+      "char": "語",
+      "category": "learning",
+      "meaning": "bahasa; bercerita",
+      "english": "language; tell",
+      "on": [
+        "ゴ"
+      ],
+      "kun": [
+        "かた.る",
+        "かた.らう"
+      ],
+      "strokes": 14,
+      "radical": "言",
+      "mnemonic": "Bayangkan banyak ucapan 言 tersusun menjadi sebuah bahasa.",
+      "examples": [
+        {
+          "word": "日本語",
+          "kana": "にほんご",
+          "meaning": "bahasa Jepang"
+        },
+        {
+          "word": "英語",
+          "kana": "えいご",
+          "meaning": "bahasa Inggris"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 93
+      },
+      "order": 93,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 149
+      }
+    },
+    {
+      "id": "kanji-9593",
+      "char": "間",
+      "category": "position",
+      "meaning": "antara; sela; waktu",
+      "english": "between; interval",
+      "on": [
+        "カン",
+        "ケン"
+      ],
+      "kun": [
+        "あいだ",
+        "ま",
+        "あい"
+      ],
+      "strokes": 12,
+      "radical": "門",
+      "mnemonic": "Matahari 日 terlihat di antara dua daun gerbang 門.",
+      "examples": [
+        {
+          "word": "間",
+          "kana": "あいだ",
+          "meaning": "antara"
+        },
+        {
+          "word": "時間",
+          "kana": "じかん",
+          "meaning": "waktu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 94
+      },
+      "order": 94,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 169
+      }
+    },
+    {
+      "id": "kanji-805e",
+      "char": "聞",
+      "category": "learning",
+      "meaning": "mendengar; bertanya",
+      "english": "hear; listen; ask",
+      "on": [
+        "ブン",
+        "モン"
+      ],
+      "kun": [
+        "き.く",
+        "き.こえる"
+      ],
+      "strokes": 14,
+      "radical": "耳",
+      "mnemonic": "Telinga 耳 berada di dalam gerbang 門 untuk mendengar.",
+      "examples": [
+        {
+          "word": "聞く",
+          "kana": "きく",
+          "meaning": "mendengar atau bertanya"
+        },
+        {
+          "word": "新聞",
+          "kana": "しんぶん",
+          "meaning": "koran"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 95
+      },
+      "order": 95,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 128
+      }
+    },
+    {
+      "id": "kanji-8cb7",
+      "char": "買",
+      "category": "actions",
+      "meaning": "membeli",
+      "english": "buy",
+      "on": [
+        "バイ"
+      ],
+      "kun": [
+        "か.う"
+      ],
+      "strokes": 12,
+      "radical": "貝",
+      "mnemonic": "Bayangkan keranjang di atas kerang 貝 sebagai alat pembayaran.",
+      "examples": [
+        {
+          "word": "買う",
+          "kana": "かう",
+          "meaning": "membeli"
+        },
+        {
+          "word": "買い物",
+          "kana": "かいもの",
+          "meaning": "belanja"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 96
+      },
+      "order": 96,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 154
+      }
+    },
+    {
+      "id": "kanji-4f11",
+      "char": "休",
+      "category": "actions",
+      "meaning": "beristirahat; libur",
+      "english": "rest; holiday",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "やす.む",
+        "やす.み",
+        "やす.まる",
+        "やす.める"
+      ],
+      "strokes": 6,
+      "radical": "人",
+      "mnemonic": "Seseorang 亻 bersandar pada pohon 木 untuk beristirahat.",
+      "examples": [
+        {
+          "word": "休む",
+          "kana": "やすむ",
+          "meaning": "beristirahat"
+        },
+        {
+          "word": "休み",
+          "kana": "やすみ",
+          "meaning": "libur"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 97
+      },
+      "order": 97,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 9
+      }
+    },
+    {
+      "id": "kanji-6642",
+      "char": "時",
+      "category": "time",
+      "meaning": "waktu; jam",
+      "english": "time; hour",
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "とき",
+        "-どき"
+      ],
+      "strokes": 10,
+      "radical": "日",
+      "mnemonic": "Matahari 日 di kiri menjadi pengingat pengukuran waktu.",
+      "examples": [
+        {
+          "word": "時間",
+          "kana": "じかん",
+          "meaning": "waktu"
+        },
+        {
+          "word": "一時",
+          "kana": "いちじ",
+          "meaning": "pukul satu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 98
+      },
+      "order": 98,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 72
+      }
+    },
+    {
+      "id": "kanji-9031",
+      "char": "週",
+      "category": "time",
+      "meaning": "pekan; minggu",
+      "english": "week",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [],
+      "strokes": 11,
+      "radical": "辵",
+      "mnemonic": "Bayangkan perjalanan 辶 yang berulang setiap pekan.",
+      "examples": [
+        {
+          "word": "今週",
+          "kana": "こんしゅう",
+          "meaning": "minggu ini"
+        },
+        {
+          "word": "毎週",
+          "kana": "まいしゅう",
+          "meaning": "setiap minggu"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 99
+      },
+      "order": 99,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 162
+      }
+    },
+    {
+      "id": "kanji-9053",
+      "char": "道",
+      "category": "places",
+      "meaning": "jalan; cara",
+      "english": "road; way",
+      "on": [
+        "ドウ",
+        "トウ"
+      ],
+      "kun": [
+        "みち",
+        "いう"
+      ],
+      "strokes": 12,
+      "radical": "辵",
+      "mnemonic": "Bagian jalan 辶 membawa kepala 首 menuju tujuan.",
+      "examples": [
+        {
+          "word": "道",
+          "kana": "みち",
+          "meaning": "jalan"
+        },
+        {
+          "word": "歩道",
+          "kana": "ほどう",
+          "meaning": "trotoar"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          6
+        ],
+        "number": 100
+      },
+      "order": 100,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 162
+      }
+    },
+    {
+      "id": "kanji-4eca",
+      "char": "今",
+      "category": "time",
+      "meaning": "sekarang",
+      "english": "now",
+      "on": [
+        "コン",
+        "キン"
+      ],
+      "kun": [
+        "いま"
+      ],
+      "strokes": 4,
+      "radical": "人",
+      "mnemonic": "Bayangkan atap kecil menandai saat yang sedang berlangsung sekarang.",
+      "examples": [
+        {
+          "word": "今",
+          "kana": "いま",
+          "meaning": "sekarang"
+        },
+        {
+          "word": "今日",
+          "kana": "きょう",
+          "meaning": "hari ini"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          7
+        ],
+        "number": 101
+      },
+      "order": 101,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 9
+      }
+    },
+    {
+      "id": "kanji-4f1a",
+      "char": "会",
+      "category": "people",
+      "meaning": "bertemu; pertemuan",
+      "english": "meet; meeting",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": [
+        "あ.う",
+        "あ.わせる",
+        "あつ.まる"
+      ],
+      "strokes": 6,
+      "radical": "人",
+      "mnemonic": "Dua orang berkumpul di bawah satu atap untuk bertemu.",
+      "examples": [
+        {
+          "word": "会う",
+          "kana": "あう",
+          "meaning": "bertemu"
+        },
+        {
+          "word": "会社",
+          "kana": "かいしゃ",
+          "meaning": "perusahaan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          7
+        ],
+        "number": 102
+      },
+      "order": 102,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 9
+      }
+    },
+    {
+      "id": "kanji-793e",
+      "char": "社",
+      "category": "places",
+      "meaning": "perusahaan; kuil Shinto",
+      "english": "company; Shinto shrine",
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "やしろ"
+      ],
+      "strokes": 7,
+      "radical": "示",
+      "mnemonic": "Ingat bentuk 礻 di kiri dan 土 di kanan sebagai ciri 社.",
+      "examples": [
+        {
+          "word": "会社",
+          "kana": "かいしゃ",
+          "meaning": "perusahaan"
+        },
+        {
+          "word": "社員",
+          "kana": "しゃいん",
+          "meaning": "karyawan perusahaan"
+        }
+      ],
+      "source": {
+        "id": "n5-pdf",
+        "label": "PDF utama",
+        "pages": [
+          7
+        ],
+        "number": 103
+      },
+      "order": 103,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 113
+      }
+    },
+    {
+      "id": "kanji-767d",
+      "char": "白",
+      "category": "qualities",
+      "meaning": "putih",
+      "english": "white",
+      "on": [
+        "ハク",
+        "ビャク"
+      ],
+      "kun": [
+        "しろ",
+        "しろ.い",
+        "しら-"
+      ],
+      "strokes": 5,
+      "radical": "白",
+      "mnemonic": "Bayangkan sinar kecil di atas 日 menerangi semuanya menjadi putih.",
+      "examples": [
+        {
+          "word": "白い",
+          "kana": "しろい",
+          "meaning": "putih"
+        },
+        {
+          "word": "白",
+          "kana": "しろ",
+          "meaning": "warna putih"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          21
+        ],
+        "number": 360
+      },
+      "order": 104,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 106
+      }
+    },
+    {
+      "id": "kanji-56fd",
+      "char": "国",
+      "category": "places",
+      "meaning": "negara",
+      "english": "country",
+      "on": [
+        "コク"
+      ],
+      "kun": [
+        "くに"
+      ],
+      "strokes": 8,
+      "radical": "囗",
+      "mnemonic": "Bingkai besar mengelilingi wilayah yang dianggap satu negara.",
+      "examples": [
+        {
+          "word": "国",
+          "kana": "くに",
+          "meaning": "negara"
+        },
+        {
+          "word": "外国",
+          "kana": "がいこく",
+          "meaning": "luar negeri"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          1
+        ],
+        "number": 3
+      },
+      "order": 105,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 31
+      }
+    },
+    {
+      "id": "kanji-79c1",
+      "char": "私",
+      "category": "people",
+      "meaning": "saya; pribadi",
+      "english": "I; me; private",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "わたし",
+        "わたくし"
+      ],
+      "strokes": 7,
+      "radical": "禾",
+      "mnemonic": "Bayangkan seseorang memegang hasil panennya sendiri untuk mengingat pribadi.",
+      "examples": [
+        {
+          "word": "私",
+          "kana": "わたし",
+          "meaning": "saya"
+        },
+        {
+          "word": "私たち",
+          "kana": "わたしたち",
+          "meaning": "kami atau kita"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          1
+        ],
+        "number": 4
+      },
+      "order": 106,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 115
+      }
+    },
+    {
+      "id": "kanji-5916",
+      "char": "外",
+      "category": "position",
+      "meaning": "luar",
+      "english": "outside",
+      "on": [
+        "ガイ",
+        "ゲ"
+      ],
+      "kun": [
+        "そと",
+        "ほか",
+        "はず.す",
+        "はず.れる",
+        "と-"
+      ],
+      "strokes": 5,
+      "radical": "夕",
+      "mnemonic": "Bayangkan penunjuk di kanan mengarah ke luar saat senja 夕.",
+      "examples": [
+        {
+          "word": "外",
+          "kana": "そと",
+          "meaning": "luar"
+        },
+        {
+          "word": "外国",
+          "kana": "がいこく",
+          "meaning": "luar negeri"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          22
+        ],
+        "number": 386
+      },
+      "order": 107,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 36
+      }
+    },
+    {
+      "id": "kanji-7a7a",
+      "char": "空",
+      "category": "nature",
+      "meaning": "langit; kosong",
+      "english": "sky; empty",
+      "on": [
+        "クウ"
+      ],
+      "kun": [
+        "そら",
+        "から",
+        "あ.く",
+        "あ.き",
+        "あ.ける",
+        "す.く",
+        "す.かす",
+        "むな.しい"
+      ],
+      "strokes": 8,
+      "radical": "穴",
+      "mnemonic": "Atap dengan ruang 穴 di bawahnya mengingatkan ruang kosong di langit.",
+      "examples": [
+        {
+          "word": "空",
+          "kana": "そら",
+          "meaning": "langit"
+        },
+        {
+          "word": "空気",
+          "kana": "くうき",
+          "meaning": "udara"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          20
+        ],
+        "number": 325
+      },
+      "order": 108,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 116
+      }
+    },
+    {
+      "id": "kanji-96fb",
+      "char": "電",
+      "category": "places",
+      "meaning": "listrik",
+      "english": "electricity",
+      "on": [
+        "デン"
+      ],
+      "kun": [],
+      "strokes": 13,
+      "radical": "雨",
+      "mnemonic": "Awan 雨 di atas dan kilatan di bawah menjadi pengingat listrik.",
+      "examples": [
+        {
+          "word": "電車",
+          "kana": "でんしゃ",
+          "meaning": "kereta listrik"
+        },
+        {
+          "word": "電話",
+          "kana": "でんわ",
+          "meaning": "telepon"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          11
+        ],
+        "number": 163
+      },
+      "order": 109,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 173
+      }
+    },
+    {
+      "id": "kanji-4f55",
+      "char": "何",
+      "category": "people",
+      "meaning": "apa; berapa",
+      "english": "what; how many",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "なに",
+        "なん",
+        "なに-",
+        "なん-"
+      ],
+      "strokes": 7,
+      "radical": "人",
+      "mnemonic": "Bayangkan seseorang 亻 di kiri sedang mengajukan pertanyaan.",
+      "examples": [
+        {
+          "word": "何",
+          "kana": "なに",
+          "meaning": "apa"
+        },
+        {
+          "word": "何時",
+          "kana": "なんじ",
+          "meaning": "pukul berapa"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          3
+        ],
+        "number": 40
+      },
+      "order": 110,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 9
+      }
+    },
+    {
+      "id": "kanji-82b1",
+      "char": "花",
+      "category": "nature",
+      "meaning": "bunga",
+      "english": "flower",
+      "on": [
+        "カ",
+        "ケ"
+      ],
+      "kun": [
+        "はな"
+      ],
+      "strokes": 7,
+      "radical": "艸",
+      "mnemonic": "Rumput 艹 di atas menjadi pengingat bunga yang sedang tumbuh.",
+      "examples": [
+        {
+          "word": "花",
+          "kana": "はな",
+          "meaning": "bunga"
+        },
+        {
+          "word": "花火",
+          "kana": "はなび",
+          "meaning": "kembang api"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          9
+        ],
+        "number": 122
+      },
+      "order": 111,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 140
+      }
+    },
+    {
+      "id": "kanji-72ac",
+      "char": "犬",
+      "category": "animals",
+      "meaning": "anjing",
+      "english": "dog",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "いぬ",
+        "いぬ-"
+      ],
+      "strokes": 4,
+      "radical": "犬",
+      "mnemonic": "Bentuk 大 diberi satu titik seperti tanda pada kepala seekor anjing.",
+      "examples": [
+        {
+          "word": "犬",
+          "kana": "いぬ",
+          "meaning": "anjing"
+        },
+        {
+          "word": "子犬",
+          "kana": "こいぬ",
+          "meaning": "anak anjing"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          8
+        ],
+        "number": 107
+      },
+      "order": 112,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 94
+      }
+    },
+    {
+      "id": "kanji-5bb6",
+      "char": "家",
+      "category": "places",
+      "meaning": "rumah; keluarga",
+      "english": "house; home; family",
+      "on": [
+        "カ",
+        "ケ"
+      ],
+      "kun": [
+        "いえ",
+        "や",
+        "うち"
+      ],
+      "strokes": 10,
+      "radical": "宀",
+      "mnemonic": "Sebuah atap 宀 menaungi isi rumah dan keluarga.",
+      "examples": [
+        {
+          "word": "家",
+          "kana": "いえ",
+          "meaning": "rumah"
+        },
+        {
+          "word": "家族",
+          "kana": "かぞく",
+          "meaning": "keluarga"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          2
+        ],
+        "number": 16
+      },
+      "order": 113,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 40
+      }
+    },
+    {
+      "id": "kanji-597d",
+      "char": "好",
+      "category": "qualities",
+      "meaning": "suka",
+      "english": "like; fond of",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "す.き",
+        "この.む",
+        "す.く",
+        "よ.い",
+        "い.い"
+      ],
+      "strokes": 6,
+      "radical": "女",
+      "mnemonic": "Bayangkan perempuan 女 dan anak 子 bersama orang yang mereka sukai.",
+      "examples": [
+        {
+          "word": "好き",
+          "kana": "すき",
+          "meaning": "suka"
+        },
+        {
+          "word": "大好き",
+          "kana": "だいすき",
+          "meaning": "sangat suka"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          2
+        ],
+        "number": 15
+      },
+      "order": 114,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 38
+      }
+    },
+    {
+      "id": "kanji-82f1",
+      "char": "英",
+      "category": "learning",
+      "meaning": "Inggris",
+      "english": "England; English",
+      "on": [
+        "エイ"
+      ],
+      "kun": [
+        "はなぶさ"
+      ],
+      "strokes": 8,
+      "radical": "艸",
+      "mnemonic": "Kaitkan bentuk 英 dengan kata yang sering dijumpai: 英語, bahasa Inggris.",
+      "examples": [
+        {
+          "word": "英語",
+          "kana": "えいご",
+          "meaning": "bahasa Inggris"
+        },
+        {
+          "word": "英国",
+          "kana": "えいこく",
+          "meaning": "Britania Raya"
+        }
+      ],
+      "source": {
+        "id": "jft-pdf",
+        "label": "Tambahan dasar",
+        "pages": [
+          9
+        ],
+        "number": 111
+      },
+      "order": 115,
+      "reference": {
+        "source": "KANJIDIC2",
+        "version": "2026-304",
+        "radicalNumber": 140
+      }
+    }
+  ]
+}

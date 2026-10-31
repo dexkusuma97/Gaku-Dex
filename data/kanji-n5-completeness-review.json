@@ -1,0 +1,1067 @@
+{
+  "updated": "2026-11-01",
+  "total": 115,
+  "complete": 115,
+  "examples": 230,
+  "emptyOn": 0,
+  "emptyKun": 4,
+  "referenceVersion": "2026-304",
+  "referenceCreated": "2026-10-31",
+  "referenceArchiveSha256": "8e70bfa3a7a7df640e3ba254a80438201904d95df0fb23c9323476c2676d3346",
+  "supplementaryReadings": [
+    {
+      "char": "中",
+      "group": "on",
+      "reading": "ジュウ",
+      "kind": "attested-variant",
+      "source": "https://www.kanjipedia.jp/kanji/0004721700"
+    },
+    {
+      "char": "休",
+      "group": "kun",
+      "reading": "やす.み",
+      "kind": "derived-word-form",
+      "base": "やす.む",
+      "source": "https://kotobank.jp/word/休み-648363"
+    },
+    {
+      "char": "好",
+      "group": "kun",
+      "reading": "す.き",
+      "kind": "derived-word-form",
+      "base": "す.く",
+      "source": "https://kotobank.jp/word/好き-540943"
+    }
+  ],
+  "note": "Existing complete sections retained after review; dictionary extras are folded in UI. Radical family 毋/母 is standardized to the classical reference. Word forms yasumi/suki and the juu reading of 中 are explicitly supported by complementary sources.",
+  "entries": [
+    {
+      "id": "kanji-4e00",
+      "char": "一",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e8c",
+      "char": "二",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e09",
+      "char": "三",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-56db",
+      "char": "四",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e94",
+      "char": "五",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-516d",
+      "char": "六",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e03",
+      "char": "七",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-516b",
+      "char": "八",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e5d",
+      "char": "九",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5341",
+      "char": "十",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-767e",
+      "char": "百",
+      "fieldsChanged": [
+        "english",
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5343",
+      "char": "千",
+      "fieldsChanged": [
+        "english",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e07",
+      "char": "万",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5186",
+      "char": "円",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5e74",
+      "char": "年",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5c71",
+      "char": "山",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5ddd",
+      "char": "川",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-7530",
+      "char": "田",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-65e5",
+      "char": "日",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6708",
+      "char": "月",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-706b",
+      "char": "火",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6c34",
+      "char": "水",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6728",
+      "char": "木",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-91d1",
+      "char": "金",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-571f",
+      "char": "土",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e0a",
+      "char": "上",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e0b",
+      "char": "下",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4e2d",
+      "char": "中",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-534a",
+      "char": "半",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5206",
+      "char": "分",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4eba",
+      "char": "人",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5b50",
+      "char": "子",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5973",
+      "char": "女",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-7537",
+      "char": "男",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-76ee",
+      "char": "目",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-53e3",
+      "char": "口",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8033",
+      "char": "耳",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-624b",
+      "char": "手",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8db3",
+      "char": "足",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-529b",
+      "char": "力",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-7236",
+      "char": "父",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6bcd",
+      "char": "母",
+      "fieldsChanged": [
+        "kun",
+        "radical",
+        "reference"
+      ],
+      "factChanges": {
+        "radical": {
+          "before": "母",
+          "after": "毋"
+        }
+      }
+    },
+    {
+      "id": "kanji-5e97",
+      "char": "店",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-99c5",
+      "char": "駅",
+      "fieldsChanged": [
+        "mnemonic",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5148",
+      "char": "先",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-751f",
+      "char": "生",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5b66",
+      "char": "学",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6821",
+      "char": "校",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-53cb",
+      "char": "友",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-672c",
+      "char": "本",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6bce",
+      "char": "毎",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-524d",
+      "char": "前",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5f8c",
+      "char": "後",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5de6",
+      "char": "左",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-53f3",
+      "char": "右",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6771",
+      "char": "東",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-897f",
+      "char": "西",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5357",
+      "char": "南",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5317",
+      "char": "北",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-540d",
+      "char": "名",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-725b",
+      "char": "牛",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-99ac",
+      "char": "馬",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-9b5a",
+      "char": "魚",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8c9d",
+      "char": "貝",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-96e8",
+      "char": "雨",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5929",
+      "char": "天",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6c17",
+      "char": "気",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8eca",
+      "char": "車",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-9580",
+      "char": "門",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5348",
+      "char": "午",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5927",
+      "char": "大",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5c0f",
+      "char": "小",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-9ad8",
+      "char": "高",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5b89",
+      "char": "安",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-65b0",
+      "char": "新",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-53e4",
+      "char": "古",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-9577",
+      "char": "長",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-591a",
+      "char": "多",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5c11",
+      "char": "少",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-65e9",
+      "char": "早",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-884c",
+      "char": "行",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6765",
+      "char": "来",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-98df",
+      "char": "食",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-898b",
+      "char": "見",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5165",
+      "char": "入",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-51fa",
+      "char": "出",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-7acb",
+      "char": "立",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-66f8",
+      "char": "書",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8a00",
+      "char": "言",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-98f2",
+      "char": "飲",
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8a71",
+      "char": "話",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8aad",
+      "char": "読",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8a9e",
+      "char": "語",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-9593",
+      "char": "間",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-805e",
+      "char": "聞",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-8cb7",
+      "char": "買",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4f11",
+      "char": "休",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-6642",
+      "char": "時",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-9031",
+      "char": "週",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-9053",
+      "char": "道",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4eca",
+      "char": "今",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4f1a",
+      "char": "会",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-793e",
+      "char": "社",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-767d",
+      "char": "白",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-56fd",
+      "char": "国",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-79c1",
+      "char": "私",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5916",
+      "char": "外",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-7a7a",
+      "char": "空",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-96fb",
+      "char": "電",
+      "fieldsChanged": [
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-4f55",
+      "char": "何",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-82b1",
+      "char": "花",
+      "fieldsChanged": [
+        "on",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-72ac",
+      "char": "犬",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-5bb6",
+      "char": "家",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-597d",
+      "char": "好",
+      "fieldsChanged": [
+        "english",
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    },
+    {
+      "id": "kanji-82f1",
+      "char": "英",
+      "fieldsChanged": [
+        "kun",
+        "reference"
+      ],
+      "factChanges": {}
+    }
+  ]
+}

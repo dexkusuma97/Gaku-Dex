@@ -127,3 +127,10 @@ Enam arti diperjelas: マッチ (makna olahraga yang sudah diajarkan), ステー
 Lengkapi 217 karakter lanjutan A2 dan 70 pengayaan A2/B1 dengan arti Inggris, radikal klasik/guratan utama terverifikasi KANJIDIC2 versi 2026-304, seluruh bacaan ja_on/ja_kun tanpa nanori, 287 mnemonic visual orisinal, serta 1–2 contoh (372 total). Sebanyak 39 grup kun’yomi tetap kosong sesuai rujukan. Bacaan tambahan dilipat agar tampilan awal ringkas; anotasi bacaan terikat dan konsonan rangkap dijelaskan.14 pemakaian contoh konkret/koreksi dicatat sebagai adaptasi dari baris sumber.
 
 Rujukan, editorial dan audit disimpan terpisah; normal build tetap offline. Tambahkan kredit data melalui Pengaturan, catatan lisensi CC BY-SA 4.0 dan prosedur pembaruan rujukan. Ringkasan ada di data/KANJI_N4_REVIEW_20261031.md. Data 115 Kanji N5, ID/cakupan N4, seluruh Kotoba serta desain kartu dipertahankan. Semua 41 berkas tes lulus; kedua jalur build dan ekstraksi rujukan stabil. Pemasang kumulatif diuji dari versi awal/batch 11; belum deploy otomatis atau uji visual Android fisik.
+
+
+## 1 November 2026 — Batch 13: audit seluruh 115 Kanji N5
+
+N5 sebelumnya sudah lengkap secara struktur. Verifikasi 115 guratan terhadap KANJIDIC2, standardisasi keluarga radikal 毋/母, dan lengkapi bacaan kamus tanpa nanori. Pertahankan 中 ジュウ dan bentuk 休み/好き dengan rujukan pelengkap yang eksplisit. Empat kun tetap kosong. Perhalus tiga arti Inggris dan satu mnemonic; seluruh 230 contoh, ID, kategori, sumber serta arti Indonesia tetap. Bacaan tambahan N5 dilipat seperti N4.
+
+Simpan referensi/editorial/hasil/audit N5 dan skrip pembaruan rujukan, dengan atribusi data di Pengaturan. Semua 42 tes lulus; kedua build dan ekstraksi arsip stabil. Seluruh data N4/Kotoba tetap; tidak deploy otomatis atau uji visual Android fisik. Ringkasan: data/KANJI_N5_REVIEW_20261101.md.

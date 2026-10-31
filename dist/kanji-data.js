@@ -57,7 +57,8 @@ const KANJI_DATA = [
       "イツ"
     ],
     "kun": [
-      "ひと.つ"
+      "ひと.つ",
+      "ひと-"
     ],
     "strokes": 1,
     "radical": "一",
@@ -82,7 +83,12 @@ const KANJI_DATA = [
       ],
       "number": 1
     },
-    "order": 1
+    "order": 1,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-4e8c",
@@ -91,10 +97,13 @@ const KANJI_DATA = [
     "meaning": "dua",
     "english": "two",
     "on": [
-      "ニ"
+      "ニ",
+      "ジ"
     ],
     "kun": [
-      "ふた.つ"
+      "ふた.つ",
+      "ふた",
+      "ふたたび"
     ],
     "strokes": 2,
     "radical": "二",
@@ -119,7 +128,12 @@ const KANJI_DATA = [
       ],
       "number": 2
     },
-    "order": 2
+    "order": 2,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 7
+    }
   },
   {
     "id": "kanji-4e09",
@@ -128,11 +142,13 @@ const KANJI_DATA = [
     "meaning": "tiga",
     "english": "three",
     "on": [
-      "サン"
+      "サン",
+      "ゾウ"
     ],
     "kun": [
       "み.つ",
-      "みっ.つ"
+      "みっ.つ",
+      "み"
     ],
     "strokes": 3,
     "radical": "一",
@@ -157,7 +173,12 @@ const KANJI_DATA = [
       ],
       "number": 3
     },
-    "order": 3
+    "order": 3,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-56db",
@@ -197,7 +218,12 @@ const KANJI_DATA = [
       ],
       "number": 4
     },
-    "order": 4
+    "order": 4,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 31
+    }
   },
   {
     "id": "kanji-4e94",
@@ -209,7 +235,8 @@ const KANJI_DATA = [
       "ゴ"
     ],
     "kun": [
-      "いつ.つ"
+      "いつ.つ",
+      "いつ"
     ],
     "strokes": 4,
     "radical": "二",
@@ -234,7 +261,12 @@ const KANJI_DATA = [
       ],
       "number": 5
     },
-    "order": 5
+    "order": 5,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 7
+    }
   },
   {
     "id": "kanji-516d",
@@ -243,12 +275,14 @@ const KANJI_DATA = [
     "meaning": "enam",
     "english": "six",
     "on": [
-      "ロク"
+      "ロク",
+      "リク"
     ],
     "kun": [
       "む.つ",
       "むっ.つ",
-      "むい"
+      "むい",
+      "む"
     ],
     "strokes": 4,
     "radical": "八",
@@ -273,7 +307,12 @@ const KANJI_DATA = [
       ],
       "number": 6
     },
-    "order": 6
+    "order": 6,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 12
+    }
   },
   {
     "id": "kanji-4e03",
@@ -312,7 +351,12 @@ const KANJI_DATA = [
       ],
       "number": 7
     },
-    "order": 7
+    "order": 7,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-516b",
@@ -321,7 +365,8 @@ const KANJI_DATA = [
     "meaning": "delapan",
     "english": "eight",
     "on": [
-      "ハチ"
+      "ハチ",
+      "ハツ"
     ],
     "kun": [
       "や",
@@ -352,7 +397,12 @@ const KANJI_DATA = [
       ],
       "number": 8
     },
-    "order": 8
+    "order": 8,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 12
+    }
   },
   {
     "id": "kanji-4e5d",
@@ -365,7 +415,8 @@ const KANJI_DATA = [
       "ク"
     ],
     "kun": [
-      "ここの.つ"
+      "ここの.つ",
+      "ここの"
     ],
     "strokes": 2,
     "radical": "乙",
@@ -390,7 +441,12 @@ const KANJI_DATA = [
       ],
       "number": 9
     },
-    "order": 9
+    "order": 9,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 5
+    }
   },
   {
     "id": "kanji-5341",
@@ -400,11 +456,13 @@ const KANJI_DATA = [
     "english": "ten",
     "on": [
       "ジュウ",
-      "ジッ"
+      "ジッ",
+      "ジュッ"
     ],
     "kun": [
       "とお",
-      "と"
+      "と",
+      "そ"
     ],
     "strokes": 2,
     "radical": "十",
@@ -429,18 +487,26 @@ const KANJI_DATA = [
       ],
       "number": 10
     },
-    "order": 10
+    "order": 10,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 24
+    }
   },
   {
     "id": "kanji-767e",
     "char": "百",
     "category": "numbers",
     "meaning": "seratus",
-    "english": "hundred",
+    "english": "one hundred",
     "on": [
-      "ヒャク"
+      "ヒャク",
+      "ビャク"
     ],
-    "kun": [],
+    "kun": [
+      "もも"
+    ],
     "strokes": 6,
     "radical": "白",
     "mnemonic": "Bayangkan satu garis tambahan di atas 白 untuk mengingat seratus.",
@@ -464,14 +530,19 @@ const KANJI_DATA = [
       ],
       "number": 11
     },
-    "order": 11
+    "order": 11,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 106
+    }
   },
   {
     "id": "kanji-5343",
     "char": "千",
     "category": "numbers",
     "meaning": "seribu",
-    "english": "thousand",
+    "english": "one thousand",
     "on": [
       "セン"
     ],
@@ -501,7 +572,12 @@ const KANJI_DATA = [
       ],
       "number": 12
     },
-    "order": 12
+    "order": 12,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 24
+    }
   },
   {
     "id": "kanji-4e07",
@@ -513,7 +589,9 @@ const KANJI_DATA = [
       "マン",
       "バン"
     ],
-    "kun": [],
+    "kun": [
+      "よろず"
+    ],
     "strokes": 3,
     "radical": "一",
     "mnemonic": "Bayangkan angka besar diikat dengan satu kait di bawah garis atas.",
@@ -537,7 +615,12 @@ const KANJI_DATA = [
       ],
       "number": 13
     },
-    "order": 13
+    "order": 13,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-5186",
@@ -549,7 +632,11 @@ const KANJI_DATA = [
       "エン"
     ],
     "kun": [
-      "まる.い"
+      "まる.い",
+      "まる",
+      "まど",
+      "まど.か",
+      "まろ.やか"
     ],
     "strokes": 4,
     "radical": "冂",
@@ -574,7 +661,12 @@ const KANJI_DATA = [
       ],
       "number": 14
     },
-    "order": 14
+    "order": 14,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 13
+    }
   },
   {
     "id": "kanji-5e74",
@@ -611,7 +703,12 @@ const KANJI_DATA = [
       ],
       "number": 15
     },
-    "order": 15
+    "order": 15,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 51
+    }
   },
   {
     "id": "kanji-5c71",
@@ -620,7 +717,8 @@ const KANJI_DATA = [
     "meaning": "gunung",
     "english": "mountain",
     "on": [
-      "サン"
+      "サン",
+      "セン"
     ],
     "kun": [
       "やま"
@@ -648,7 +746,12 @@ const KANJI_DATA = [
       ],
       "number": 16
     },
-    "order": 16
+    "order": 16,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 46
+    }
   },
   {
     "id": "kanji-5ddd",
@@ -685,7 +788,12 @@ const KANJI_DATA = [
       ],
       "number": 17
     },
-    "order": 17
+    "order": 17,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 47
+    }
   },
   {
     "id": "kanji-7530",
@@ -722,7 +830,12 @@ const KANJI_DATA = [
       ],
       "number": 18
     },
-    "order": 18
+    "order": 18,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 102
+    }
   },
   {
     "id": "kanji-65e5",
@@ -736,7 +849,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "ひ",
-      "か"
+      "-か",
+      "-び"
     ],
     "strokes": 4,
     "radical": "日",
@@ -761,7 +875,12 @@ const KANJI_DATA = [
       ],
       "number": 19
     },
-    "order": 19
+    "order": 19,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-6708",
@@ -799,7 +918,12 @@ const KANJI_DATA = [
       ],
       "number": 20
     },
-    "order": 20
+    "order": 20,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 74
+    }
   },
   {
     "id": "kanji-706b",
@@ -812,7 +936,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "ひ",
-      "ほ"
+      "ほ-",
+      "-び"
     ],
     "strokes": 4,
     "radical": "火",
@@ -837,7 +962,12 @@ const KANJI_DATA = [
       ],
       "number": 21
     },
-    "order": 21
+    "order": 21,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 86
+    }
   },
   {
     "id": "kanji-6c34",
@@ -849,7 +979,8 @@ const KANJI_DATA = [
       "スイ"
     ],
     "kun": [
-      "みず"
+      "みず",
+      "みず-"
     ],
     "strokes": 4,
     "radical": "水",
@@ -874,7 +1005,12 @@ const KANJI_DATA = [
       ],
       "number": 22
     },
-    "order": 22
+    "order": 22,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6728",
@@ -888,7 +1024,7 @@ const KANJI_DATA = [
     ],
     "kun": [
       "き",
-      "こ"
+      "こ-"
     ],
     "strokes": 4,
     "radical": "木",
@@ -913,7 +1049,12 @@ const KANJI_DATA = [
       ],
       "number": 23
     },
-    "order": 23
+    "order": 23,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-91d1",
@@ -923,11 +1064,13 @@ const KANJI_DATA = [
     "english": "gold; money; metal",
     "on": [
       "キン",
-      "コン"
+      "コン",
+      "ゴン"
     ],
     "kun": [
       "かね",
-      "かな"
+      "かな-",
+      "-がね"
     ],
     "strokes": 8,
     "radical": "金",
@@ -952,7 +1095,12 @@ const KANJI_DATA = [
       ],
       "number": 24
     },
-    "order": 24
+    "order": 24,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 167
+    }
   },
   {
     "id": "kanji-571f",
@@ -990,7 +1138,12 @@ const KANJI_DATA = [
       ],
       "number": 25
     },
-    "order": 25
+    "order": 25,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 32
+    }
   },
   {
     "id": "kanji-4e0a",
@@ -999,13 +1152,26 @@ const KANJI_DATA = [
     "meaning": "atas; naik",
     "english": "above; up",
     "on": [
-      "ジョウ"
+      "ジョウ",
+      "ショウ",
+      "シャン"
     ],
     "kun": [
       "うえ",
       "あ.がる",
       "あ.げる",
-      "のぼ.る"
+      "のぼ.る",
+      "-うえ",
+      "うわ-",
+      "かみ",
+      "-あ.げる",
+      "-あ.がる",
+      "あ.がり",
+      "-あ.がり",
+      "のぼ.り",
+      "のぼ.せる",
+      "のぼ.す",
+      "たてまつ.る"
     ],
     "strokes": 3,
     "radical": "一",
@@ -1030,7 +1196,12 @@ const KANJI_DATA = [
       ],
       "number": 26
     },
-    "order": 26
+    "order": 26,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-4e0b",
@@ -1046,7 +1217,15 @@ const KANJI_DATA = [
       "した",
       "さ.がる",
       "さ.げる",
-      "くだ.る"
+      "くだ.る",
+      "しも",
+      "もと",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
     ],
     "strokes": 3,
     "radical": "一",
@@ -1071,7 +1250,12 @@ const KANJI_DATA = [
       ],
       "number": 27
     },
-    "order": 27
+    "order": 27,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-4e2d",
@@ -1084,7 +1268,9 @@ const KANJI_DATA = [
       "ジュウ"
     ],
     "kun": [
-      "なか"
+      "なか",
+      "うち",
+      "あた.る"
     ],
     "strokes": 4,
     "radical": "丨",
@@ -1109,7 +1295,12 @@ const KANJI_DATA = [
       ],
       "number": 28
     },
-    "order": 28
+    "order": 28,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 2
+    }
   },
   {
     "id": "kanji-534a",
@@ -1146,7 +1337,12 @@ const KANJI_DATA = [
       ],
       "number": 29
     },
-    "order": 29
+    "order": 29,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 24
+    }
   },
   {
     "id": "kanji-5206",
@@ -1161,7 +1357,10 @@ const KANJI_DATA = [
     ],
     "kun": [
       "わ.かる",
-      "わ.ける"
+      "わ.ける",
+      "わ.け",
+      "わ.かれる",
+      "わ.かつ"
     ],
     "strokes": 4,
     "radical": "刀",
@@ -1186,7 +1385,12 @@ const KANJI_DATA = [
       ],
       "number": 30
     },
-    "order": 30
+    "order": 30,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 18
+    }
   },
   {
     "id": "kanji-4eba",
@@ -1199,7 +1403,9 @@ const KANJI_DATA = [
       "ニン"
     ],
     "kun": [
-      "ひと"
+      "ひと",
+      "-り",
+      "-と"
     ],
     "strokes": 2,
     "radical": "人",
@@ -1224,7 +1430,12 @@ const KANJI_DATA = [
       ],
       "number": 31
     },
-    "order": 31
+    "order": 31,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-5b50",
@@ -1234,10 +1445,13 @@ const KANJI_DATA = [
     "english": "child",
     "on": [
       "シ",
-      "ス"
+      "ス",
+      "ツ"
     ],
     "kun": [
-      "こ"
+      "こ",
+      "-こ",
+      "ね"
     ],
     "strokes": 3,
     "radical": "子",
@@ -1262,7 +1476,12 @@ const KANJI_DATA = [
       ],
       "number": 32
     },
-    "order": 32
+    "order": 32,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 39
+    }
   },
   {
     "id": "kanji-5973",
@@ -1271,7 +1490,9 @@ const KANJI_DATA = [
     "meaning": "perempuan",
     "english": "woman; female",
     "on": [
-      "ジョ"
+      "ジョ",
+      "ニョ",
+      "ニョウ"
     ],
     "kun": [
       "おんな",
@@ -1300,7 +1521,12 @@ const KANJI_DATA = [
       ],
       "number": 33
     },
-    "order": 33
+    "order": 33,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 38
+    }
   },
   {
     "id": "kanji-7537",
@@ -1313,7 +1539,8 @@ const KANJI_DATA = [
       "ナン"
     ],
     "kun": [
-      "おとこ"
+      "おとこ",
+      "お"
     ],
     "strokes": 7,
     "radical": "田",
@@ -1338,7 +1565,12 @@ const KANJI_DATA = [
       ],
       "number": 34
     },
-    "order": 34
+    "order": 34,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 102
+    }
   },
   {
     "id": "kanji-76ee",
@@ -1352,7 +1584,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "め",
-      "ま"
+      "ま-",
+      "-め"
     ],
     "strokes": 5,
     "radical": "目",
@@ -1377,7 +1610,12 @@ const KANJI_DATA = [
       ],
       "number": 35
     },
-    "order": 35
+    "order": 35,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 109
+    }
   },
   {
     "id": "kanji-53e3",
@@ -1415,7 +1653,12 @@ const KANJI_DATA = [
       ],
       "number": 36
     },
-    "order": 36
+    "order": 36,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-8033",
@@ -1452,7 +1695,12 @@ const KANJI_DATA = [
       ],
       "number": 37
     },
-    "order": 37
+    "order": 37,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 128
+    }
   },
   {
     "id": "kanji-624b",
@@ -1461,11 +1709,14 @@ const KANJI_DATA = [
     "meaning": "tangan",
     "english": "hand",
     "on": [
-      "シュ"
+      "シュ",
+      "ズ"
     ],
     "kun": [
       "て",
-      "た"
+      "た-",
+      "て-",
+      "-て"
     ],
     "strokes": 4,
     "radical": "手",
@@ -1490,7 +1741,12 @@ const KANJI_DATA = [
       ],
       "number": 38
     },
-    "order": 38
+    "order": 38,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 64
+    }
   },
   {
     "id": "kanji-8db3",
@@ -1504,7 +1760,8 @@ const KANJI_DATA = [
     "kun": [
       "あし",
       "た.りる",
-      "た.す"
+      "た.す",
+      "た.る"
     ],
     "strokes": 7,
     "radical": "足",
@@ -1529,7 +1786,12 @@ const KANJI_DATA = [
       ],
       "number": 39
     },
-    "order": 39
+    "order": 39,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 157
+    }
   },
   {
     "id": "kanji-529b",
@@ -1539,7 +1801,8 @@ const KANJI_DATA = [
     "english": "power; strength",
     "on": [
       "リョク",
-      "リキ"
+      "リキ",
+      "リイ"
     ],
     "kun": [
       "ちから"
@@ -1567,7 +1830,12 @@ const KANJI_DATA = [
       ],
       "number": 40
     },
-    "order": 40
+    "order": 40,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 19
+    }
   },
   {
     "id": "kanji-7236",
@@ -1604,7 +1872,12 @@ const KANJI_DATA = [
       ],
       "number": 41
     },
-    "order": 41
+    "order": 41,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 88
+    }
   },
   {
     "id": "kanji-6bcd",
@@ -1616,10 +1889,11 @@ const KANJI_DATA = [
       "ボ"
     ],
     "kun": [
-      "はは"
+      "はは",
+      "も"
     ],
     "strokes": 5,
-    "radical": "母",
+    "radical": "毋",
     "mnemonic": "Dua titik di dalam bingkai menjadi ciri khas untuk mengingat ibu.",
     "examples": [
       {
@@ -1641,7 +1915,12 @@ const KANJI_DATA = [
       ],
       "number": 42
     },
-    "order": 42
+    "order": 42,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 80
+    }
   },
   {
     "id": "kanji-5e97",
@@ -1653,7 +1932,8 @@ const KANJI_DATA = [
       "テン"
     ],
     "kun": [
-      "みせ"
+      "みせ",
+      "たな"
     ],
     "strokes": 8,
     "radical": "广",
@@ -1678,7 +1958,12 @@ const KANJI_DATA = [
       ],
       "number": 43
     },
-    "order": 43
+    "order": 43,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 53
+    }
   },
   {
     "id": "kanji-99c5",
@@ -1692,7 +1977,7 @@ const KANJI_DATA = [
     "kun": [],
     "strokes": 14,
     "radical": "馬",
-    "mnemonic": "Bagian kiri 馬 mengingatkan perjalanan sebelum adanya kereta.",
+    "mnemonic": "馬 di kiri menjadi kuda dalam bayangan perjalanan menuju stasiun.",
     "examples": [
       {
         "word": "駅",
@@ -1713,7 +1998,12 @@ const KANJI_DATA = [
       ],
       "number": 44
     },
-    "order": 44
+    "order": 44,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 187
+    }
   },
   {
     "id": "kanji-5148",
@@ -1725,7 +2015,8 @@ const KANJI_DATA = [
       "セン"
     ],
     "kun": [
-      "さき"
+      "さき",
+      "ま.ず"
     ],
     "strokes": 6,
     "radical": "儿",
@@ -1750,7 +2041,12 @@ const KANJI_DATA = [
       ],
       "number": 45
     },
-    "order": 45
+    "order": 45,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 10
+    }
   },
   {
     "id": "kanji-751f",
@@ -1765,7 +2061,22 @@ const KANJI_DATA = [
     "kun": [
       "い.きる",
       "う.まれる",
-      "なま"
+      "なま",
+      "い.かす",
+      "い.ける",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
     ],
     "strokes": 5,
     "radical": "生",
@@ -1790,7 +2101,12 @@ const KANJI_DATA = [
       ],
       "number": 46
     },
-    "order": 46
+    "order": 46,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 100
+    }
   },
   {
     "id": "kanji-5b66",
@@ -1827,7 +2143,12 @@ const KANJI_DATA = [
       ],
       "number": 47
     },
-    "order": 47
+    "order": 47,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 39
+    }
   },
   {
     "id": "kanji-6821",
@@ -1836,7 +2157,8 @@ const KANJI_DATA = [
     "meaning": "sekolah",
     "english": "school",
     "on": [
-      "コウ"
+      "コウ",
+      "キョウ"
     ],
     "kun": [],
     "strokes": 10,
@@ -1862,7 +2184,12 @@ const KANJI_DATA = [
       ],
       "number": 48
     },
-    "order": 48
+    "order": 48,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-53cb",
@@ -1899,7 +2226,12 @@ const KANJI_DATA = [
       ],
       "number": 49
     },
-    "order": 49
+    "order": 49,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 29
+    }
   },
   {
     "id": "kanji-672c",
@@ -1936,7 +2268,12 @@ const KANJI_DATA = [
       ],
       "number": 50
     },
-    "order": 50
+    "order": 50,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-6bce",
@@ -1947,7 +2284,10 @@ const KANJI_DATA = [
     "on": [
       "マイ"
     ],
-    "kun": [],
+    "kun": [
+      "ごと",
+      "-ごと.に"
+    ],
     "strokes": 6,
     "radical": "毋",
     "mnemonic": "Bayangkan tanda yang terus diulang untuk mengingat kata setiap.",
@@ -1971,7 +2311,12 @@ const KANJI_DATA = [
       ],
       "number": 51
     },
-    "order": 51
+    "order": 51,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 80
+    }
   },
   {
     "id": "kanji-524d",
@@ -1983,7 +2328,8 @@ const KANJI_DATA = [
       "ゼン"
     ],
     "kun": [
-      "まえ"
+      "まえ",
+      "-まえ"
     ],
     "strokes": 9,
     "radical": "刀",
@@ -2008,7 +2354,12 @@ const KANJI_DATA = [
       ],
       "number": 52
     },
-    "order": 52
+    "order": 52,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 18
+    }
   },
   {
     "id": "kanji-5f8c",
@@ -2023,7 +2374,9 @@ const KANJI_DATA = [
     "kun": [
       "あと",
       "うし.ろ",
-      "のち"
+      "のち",
+      "うしろ",
+      "おく.れる"
     ],
     "strokes": 9,
     "radical": "彳",
@@ -2048,7 +2401,12 @@ const KANJI_DATA = [
       ],
       "number": 53
     },
-    "order": 53
+    "order": 53,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 60
+    }
   },
   {
     "id": "kanji-5de6",
@@ -2057,7 +2415,8 @@ const KANJI_DATA = [
     "meaning": "kiri",
     "english": "left",
     "on": [
-      "サ"
+      "サ",
+      "シャ"
     ],
     "kun": [
       "ひだり"
@@ -2085,7 +2444,12 @@ const KANJI_DATA = [
       ],
       "number": 54
     },
-    "order": 54
+    "order": 54,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 48
+    }
   },
   {
     "id": "kanji-53f3",
@@ -2123,7 +2487,12 @@ const KANJI_DATA = [
       ],
       "number": 55
     },
-    "order": 55
+    "order": 55,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-6771",
@@ -2160,7 +2529,12 @@ const KANJI_DATA = [
       ],
       "number": 56
     },
-    "order": 56
+    "order": 56,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-897f",
@@ -2170,7 +2544,8 @@ const KANJI_DATA = [
     "english": "west",
     "on": [
       "セイ",
-      "サイ"
+      "サイ",
+      "ス"
     ],
     "kun": [
       "にし"
@@ -2198,7 +2573,12 @@ const KANJI_DATA = [
       ],
       "number": 57
     },
-    "order": 57
+    "order": 57,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 146
+    }
   },
   {
     "id": "kanji-5357",
@@ -2207,7 +2587,8 @@ const KANJI_DATA = [
     "meaning": "selatan",
     "english": "south",
     "on": [
-      "ナン"
+      "ナン",
+      "ナ"
     ],
     "kun": [
       "みなみ"
@@ -2235,7 +2616,12 @@ const KANJI_DATA = [
       ],
       "number": 58
     },
-    "order": 58
+    "order": 58,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 24
+    }
   },
   {
     "id": "kanji-5317",
@@ -2272,7 +2658,12 @@ const KANJI_DATA = [
       ],
       "number": 59
     },
-    "order": 59
+    "order": 59,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 21
+    }
   },
   {
     "id": "kanji-540d",
@@ -2285,7 +2676,8 @@ const KANJI_DATA = [
       "ミョウ"
     ],
     "kun": [
-      "な"
+      "な",
+      "-な"
     ],
     "strokes": 6,
     "radical": "口",
@@ -2310,7 +2702,12 @@ const KANJI_DATA = [
       ],
       "number": 60
     },
-    "order": 60
+    "order": 60,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-725b",
@@ -2347,7 +2744,12 @@ const KANJI_DATA = [
       ],
       "number": 61
     },
-    "order": 61
+    "order": 61,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 93
+    }
   },
   {
     "id": "kanji-99ac",
@@ -2356,10 +2758,15 @@ const KANJI_DATA = [
     "meaning": "kuda",
     "english": "horse",
     "on": [
-      "バ"
+      "バ",
+      "メ",
+      "マ",
+      "ボ",
+      "モ"
     ],
     "kun": [
-      "うま"
+      "うま",
+      "ま"
     ],
     "strokes": 10,
     "radical": "馬",
@@ -2384,7 +2791,12 @@ const KANJI_DATA = [
       ],
       "number": 62
     },
-    "order": 62
+    "order": 62,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 187
+    }
   },
   {
     "id": "kanji-9b5a",
@@ -2397,7 +2809,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "さかな",
-      "うお"
+      "うお",
+      "-ざかな"
     ],
     "strokes": 11,
     "radical": "魚",
@@ -2422,7 +2835,12 @@ const KANJI_DATA = [
       ],
       "number": 63
     },
-    "order": 63
+    "order": 63,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 195
+    }
   },
   {
     "id": "kanji-8c9d",
@@ -2459,7 +2877,12 @@ const KANJI_DATA = [
       ],
       "number": 64
     },
-    "order": 64
+    "order": 64,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 154
+    }
   },
   {
     "id": "kanji-96e8",
@@ -2472,7 +2895,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "あめ",
-      "あま"
+      "あま-",
+      "-さめ"
     ],
     "strokes": 8,
     "radical": "雨",
@@ -2497,7 +2921,12 @@ const KANJI_DATA = [
       ],
       "number": 65
     },
-    "order": 65
+    "order": 65,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 173
+    }
   },
   {
     "id": "kanji-5929",
@@ -2510,7 +2939,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "あめ",
-      "あま"
+      "あま-",
+      "あまつ"
     ],
     "strokes": 4,
     "radical": "大",
@@ -2535,7 +2965,12 @@ const KANJI_DATA = [
       ],
       "number": 66
     },
-    "order": 66
+    "order": 66,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 37
+    }
   },
   {
     "id": "kanji-6c17",
@@ -2547,7 +2982,10 @@ const KANJI_DATA = [
       "キ",
       "ケ"
     ],
-    "kun": [],
+    "kun": [
+      "いき",
+      "き"
+    ],
     "strokes": 6,
     "radical": "气",
     "mnemonic": "Bayangkan udara atau semangat bergerak di bawah atap melengkung.",
@@ -2571,7 +3009,12 @@ const KANJI_DATA = [
       ],
       "number": 67
     },
-    "order": 67
+    "order": 67,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 84
+    }
   },
   {
     "id": "kanji-8eca",
@@ -2608,7 +3051,12 @@ const KANJI_DATA = [
       ],
       "number": 68
     },
-    "order": 68
+    "order": 68,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 159
+    }
   },
   {
     "id": "kanji-9580",
@@ -2620,7 +3068,8 @@ const KANJI_DATA = [
       "モン"
     ],
     "kun": [
-      "かど"
+      "かど",
+      "と"
     ],
     "strokes": 8,
     "radical": "門",
@@ -2645,7 +3094,12 @@ const KANJI_DATA = [
       ],
       "number": 69
     },
-    "order": 69
+    "order": 69,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 169
+    }
   },
   {
     "id": "kanji-5348",
@@ -2656,7 +3110,9 @@ const KANJI_DATA = [
     "on": [
       "ゴ"
     ],
-    "kun": [],
+    "kun": [
+      "うま"
+    ],
     "strokes": 4,
     "radical": "十",
     "mnemonic": "Gunakan 午 sebagai patokan tengah hari di antara 前 dan 後.",
@@ -2680,7 +3136,12 @@ const KANJI_DATA = [
       ],
       "number": 70
     },
-    "order": 70
+    "order": 70,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 24
+    }
   },
   {
     "id": "kanji-5927",
@@ -2694,7 +3155,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "おお.きい",
-      "おお"
+      "おお-",
+      "-おお.いに"
     ],
     "strokes": 3,
     "radical": "大",
@@ -2719,7 +3181,12 @@ const KANJI_DATA = [
       ],
       "number": 71
     },
-    "order": 71
+    "order": 71,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 37
+    }
   },
   {
     "id": "kanji-5c0f",
@@ -2732,8 +3199,9 @@ const KANJI_DATA = [
     ],
     "kun": [
       "ちい.さい",
-      "こ",
-      "お"
+      "こ-",
+      "お-",
+      "さ-"
     ],
     "strokes": 3,
     "radical": "小",
@@ -2758,7 +3226,12 @@ const KANJI_DATA = [
       ],
       "number": 72
     },
-    "order": 72
+    "order": 72,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 42
+    }
   },
   {
     "id": "kanji-9ad8",
@@ -2770,7 +3243,11 @@ const KANJI_DATA = [
       "コウ"
     ],
     "kun": [
-      "たか.い"
+      "たか.い",
+      "たか",
+      "-だか",
+      "たか.まる",
+      "たか.める"
     ],
     "strokes": 10,
     "radical": "高",
@@ -2795,7 +3272,12 @@ const KANJI_DATA = [
       ],
       "number": 73
     },
-    "order": 73
+    "order": 73,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 189
+    }
   },
   {
     "id": "kanji-5b89",
@@ -2807,7 +3289,10 @@ const KANJI_DATA = [
       "アン"
     ],
     "kun": [
-      "やす.い"
+      "やす.い",
+      "やす.まる",
+      "やす",
+      "やす.らか"
     ],
     "strokes": 6,
     "radical": "宀",
@@ -2832,7 +3317,12 @@ const KANJI_DATA = [
       ],
       "number": 74
     },
-    "order": 74
+    "order": 74,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 40
+    }
   },
   {
     "id": "kanji-65b0",
@@ -2846,7 +3336,8 @@ const KANJI_DATA = [
     "kun": [
       "あたら.しい",
       "あら.た",
-      "にい"
+      "にい-",
+      "あら-"
     ],
     "strokes": 13,
     "radical": "斤",
@@ -2871,7 +3362,12 @@ const KANJI_DATA = [
       ],
       "number": 75
     },
-    "order": 75
+    "order": 75,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 69
+    }
   },
   {
     "id": "kanji-53e4",
@@ -2883,7 +3379,9 @@ const KANJI_DATA = [
       "コ"
     ],
     "kun": [
-      "ふる.い"
+      "ふる.い",
+      "ふる-",
+      "-ふる.す"
     ],
     "strokes": 5,
     "radical": "口",
@@ -2908,7 +3406,12 @@ const KANJI_DATA = [
       ],
       "number": 76
     },
-    "order": 76
+    "order": 76,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-9577",
@@ -2920,7 +3423,8 @@ const KANJI_DATA = [
       "チョウ"
     ],
     "kun": [
-      "なが.い"
+      "なが.い",
+      "おさ"
     ],
     "strokes": 8,
     "radical": "長",
@@ -2945,7 +3449,12 @@ const KANJI_DATA = [
       ],
       "number": 77
     },
-    "order": 77
+    "order": 77,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 168
+    }
   },
   {
     "id": "kanji-591a",
@@ -2957,7 +3466,9 @@ const KANJI_DATA = [
       "タ"
     ],
     "kun": [
-      "おお.い"
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
     ],
     "strokes": 6,
     "radical": "夕",
@@ -2982,7 +3493,12 @@ const KANJI_DATA = [
       ],
       "number": 78
     },
-    "order": 78
+    "order": 78,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 36
+    }
   },
   {
     "id": "kanji-5c11",
@@ -3020,7 +3536,12 @@ const KANJI_DATA = [
       ],
       "number": 79
     },
-    "order": 79
+    "order": 79,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 42
+    }
   },
   {
     "id": "kanji-65e9",
@@ -3029,10 +3550,16 @@ const KANJI_DATA = [
     "meaning": "awal; cepat",
     "english": "early",
     "on": [
-      "ソウ"
+      "ソウ",
+      "サッ"
     ],
     "kun": [
-      "はや.い"
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
     ],
     "strokes": 6,
     "radical": "日",
@@ -3057,7 +3584,12 @@ const KANJI_DATA = [
       ],
       "number": 80
     },
-    "order": 80
+    "order": 80,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-884c",
@@ -3067,12 +3599,18 @@ const KANJI_DATA = [
     "english": "go; carry out",
     "on": [
       "コウ",
-      "ギョウ"
+      "ギョウ",
+      "アン"
     ],
     "kun": [
       "い.く",
       "ゆ.く",
-      "おこな.う"
+      "おこな.う",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこ.なう"
     ],
     "strokes": 6,
     "radical": "行",
@@ -3097,7 +3635,12 @@ const KANJI_DATA = [
       ],
       "number": 81
     },
-    "order": 81
+    "order": 81,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 144
+    }
   },
   {
     "id": "kanji-6765",
@@ -3106,12 +3649,17 @@ const KANJI_DATA = [
     "meaning": "datang",
     "english": "come",
     "on": [
-      "ライ"
+      "ライ",
+      "タイ"
     ],
     "kun": [
       "く.る",
       "き.たる",
-      "き.たす"
+      "き.たす",
+      "きた.る",
+      "きた.す",
+      "き",
+      "こ"
     ],
     "strokes": 7,
     "radical": "木",
@@ -3136,7 +3684,12 @@ const KANJI_DATA = [
       ],
       "number": 82
     },
-    "order": 82
+    "order": 82,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-98df",
@@ -3150,7 +3703,9 @@ const KANJI_DATA = [
     ],
     "kun": [
       "た.べる",
-      "く.う"
+      "く.う",
+      "く.らう",
+      "は.む"
     ],
     "strokes": 9,
     "radical": "食",
@@ -3175,7 +3730,12 @@ const KANJI_DATA = [
       ],
       "number": 83
     },
-    "order": 83
+    "order": 83,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 184
+    }
   },
   {
     "id": "kanji-898b",
@@ -3214,7 +3774,12 @@ const KANJI_DATA = [
       ],
       "number": 84
     },
-    "order": 84
+    "order": 84,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 147
+    }
   },
   {
     "id": "kanji-5165",
@@ -3223,12 +3788,16 @@ const KANJI_DATA = [
     "meaning": "masuk; memasukkan",
     "english": "enter; put in",
     "on": [
-      "ニュウ"
+      "ニュウ",
+      "ジュ"
     ],
     "kun": [
       "はい.る",
       "い.れる",
-      "い.る"
+      "い.る",
+      "-い.る",
+      "-い.り",
+      "-い.れ"
     ],
     "strokes": 2,
     "radical": "入",
@@ -3253,7 +3822,12 @@ const KANJI_DATA = [
       ],
       "number": 85
     },
-    "order": 85
+    "order": 85,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 11
+    }
   },
   {
     "id": "kanji-51fa",
@@ -3262,11 +3836,16 @@ const KANJI_DATA = [
     "meaning": "keluar; mengeluarkan",
     "english": "exit; go out",
     "on": [
-      "シュツ"
+      "シュツ",
+      "スイ"
     ],
     "kun": [
       "で.る",
-      "だ.す"
+      "だ.す",
+      "-で",
+      "-だ.す",
+      "い.でる",
+      "い.だす"
     ],
     "strokes": 5,
     "radical": "凵",
@@ -3291,7 +3870,12 @@ const KANJI_DATA = [
       ],
       "number": 86
     },
-    "order": 86
+    "order": 86,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 17
+    }
   },
   {
     "id": "kanji-7acb",
@@ -3301,11 +3885,20 @@ const KANJI_DATA = [
     "english": "stand",
     "on": [
       "リツ",
-      "リュウ"
+      "リュウ",
+      "リットル"
     ],
     "kun": [
       "た.つ",
-      "た.てる"
+      "た.てる",
+      "-た.つ",
+      "た.ち-",
+      "-た.てる",
+      "た.て-",
+      "たて-",
+      "-た.て",
+      "-だ.て",
+      "-だ.てる"
     ],
     "strokes": 5,
     "radical": "立",
@@ -3330,7 +3923,12 @@ const KANJI_DATA = [
       ],
       "number": 87
     },
-    "order": 87
+    "order": 87,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 117
+    }
   },
   {
     "id": "kanji-66f8",
@@ -3342,7 +3940,9 @@ const KANJI_DATA = [
       "ショ"
     ],
     "kun": [
-      "か.く"
+      "か.く",
+      "-が.き",
+      "-がき"
     ],
     "strokes": 10,
     "radical": "曰",
@@ -3367,7 +3967,12 @@ const KANJI_DATA = [
       ],
       "number": 88
     },
-    "order": 88
+    "order": 88,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 73
+    }
   },
   {
     "id": "kanji-8a00",
@@ -3406,7 +4011,12 @@ const KANJI_DATA = [
       ],
       "number": 89
     },
-    "order": 89
+    "order": 89,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-98f2",
@@ -3415,10 +4025,12 @@ const KANJI_DATA = [
     "meaning": "minum",
     "english": "drink",
     "on": [
-      "イン"
+      "イン",
+      "オン"
     ],
     "kun": [
-      "の.む"
+      "の.む",
+      "-の.み"
     ],
     "strokes": 12,
     "radical": "食",
@@ -3443,7 +4055,12 @@ const KANJI_DATA = [
       ],
       "number": 90
     },
-    "order": 90
+    "order": 90,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 184
+    }
   },
   {
     "id": "kanji-8a71",
@@ -3481,7 +4098,12 @@ const KANJI_DATA = [
       ],
       "number": 91
     },
-    "order": 91
+    "order": 91,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-8aad",
@@ -3495,7 +4117,8 @@ const KANJI_DATA = [
       "トウ"
     ],
     "kun": [
-      "よ.む"
+      "よ.む",
+      "-よ.み"
     ],
     "strokes": 14,
     "radical": "言",
@@ -3520,7 +4143,12 @@ const KANJI_DATA = [
       ],
       "number": 92
     },
-    "order": 92
+    "order": 92,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-8a9e",
@@ -3532,7 +4160,8 @@ const KANJI_DATA = [
       "ゴ"
     ],
     "kun": [
-      "かた.る"
+      "かた.る",
+      "かた.らう"
     ],
     "strokes": 14,
     "radical": "言",
@@ -3557,7 +4186,12 @@ const KANJI_DATA = [
       ],
       "number": 93
     },
-    "order": 93
+    "order": 93,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-9593",
@@ -3571,7 +4205,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "あいだ",
-      "ま"
+      "ま",
+      "あい"
     ],
     "strokes": 12,
     "radical": "門",
@@ -3596,7 +4231,12 @@ const KANJI_DATA = [
       ],
       "number": 94
     },
-    "order": 94
+    "order": 94,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 169
+    }
   },
   {
     "id": "kanji-805e",
@@ -3635,7 +4275,12 @@ const KANJI_DATA = [
       ],
       "number": 95
     },
-    "order": 95
+    "order": 95,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 128
+    }
   },
   {
     "id": "kanji-8cb7",
@@ -3672,7 +4317,12 @@ const KANJI_DATA = [
       ],
       "number": 96
     },
-    "order": 96
+    "order": 96,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 154
+    }
   },
   {
     "id": "kanji-4f11",
@@ -3685,7 +4335,9 @@ const KANJI_DATA = [
     ],
     "kun": [
       "やす.む",
-      "やす.み"
+      "やす.み",
+      "やす.まる",
+      "やす.める"
     ],
     "strokes": 6,
     "radical": "人",
@@ -3710,7 +4362,12 @@ const KANJI_DATA = [
       ],
       "number": 97
     },
-    "order": 97
+    "order": 97,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-6642",
@@ -3722,7 +4379,8 @@ const KANJI_DATA = [
       "ジ"
     ],
     "kun": [
-      "とき"
+      "とき",
+      "-どき"
     ],
     "strokes": 10,
     "radical": "日",
@@ -3747,7 +4405,12 @@ const KANJI_DATA = [
       ],
       "number": 98
     },
-    "order": 98
+    "order": 98,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-9031",
@@ -3782,7 +4445,12 @@ const KANJI_DATA = [
       ],
       "number": 99
     },
-    "order": 99
+    "order": 99,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-9053",
@@ -3795,7 +4463,8 @@ const KANJI_DATA = [
       "トウ"
     ],
     "kun": [
-      "みち"
+      "みち",
+      "いう"
     ],
     "strokes": 12,
     "radical": "辵",
@@ -3820,7 +4489,12 @@ const KANJI_DATA = [
       ],
       "number": 100
     },
-    "order": 100
+    "order": 100,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-4eca",
@@ -3858,7 +4532,12 @@ const KANJI_DATA = [
       ],
       "number": 101
     },
-    "order": 101
+    "order": 101,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-4f1a",
@@ -3871,7 +4550,9 @@ const KANJI_DATA = [
       "エ"
     ],
     "kun": [
-      "あ.う"
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
     ],
     "strokes": 6,
     "radical": "人",
@@ -3896,7 +4577,12 @@ const KANJI_DATA = [
       ],
       "number": 102
     },
-    "order": 102
+    "order": 102,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-793e",
@@ -3933,7 +4619,12 @@ const KANJI_DATA = [
       ],
       "number": 103
     },
-    "order": 103
+    "order": 103,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 113
+    }
   },
   {
     "id": "kanji-767d",
@@ -3947,7 +4638,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "しろ",
-      "しろ.い"
+      "しろ.い",
+      "しら-"
     ],
     "strokes": 5,
     "radical": "白",
@@ -3972,7 +4664,12 @@ const KANJI_DATA = [
       ],
       "number": 360
     },
-    "order": 104
+    "order": 104,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 106
+    }
   },
   {
     "id": "kanji-56fd",
@@ -4009,7 +4706,12 @@ const KANJI_DATA = [
       ],
       "number": 3
     },
-    "order": 105
+    "order": 105,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 31
+    }
   },
   {
     "id": "kanji-79c1",
@@ -4047,7 +4749,12 @@ const KANJI_DATA = [
       ],
       "number": 4
     },
-    "order": 106
+    "order": 106,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 115
+    }
   },
   {
     "id": "kanji-5916",
@@ -4063,7 +4770,8 @@ const KANJI_DATA = [
       "そと",
       "ほか",
       "はず.す",
-      "はず.れる"
+      "はず.れる",
+      "と-"
     ],
     "strokes": 5,
     "radical": "夕",
@@ -4088,7 +4796,12 @@ const KANJI_DATA = [
       ],
       "number": 386
     },
-    "order": 107
+    "order": 107,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 36
+    }
   },
   {
     "id": "kanji-7a7a",
@@ -4102,7 +4815,12 @@ const KANJI_DATA = [
     "kun": [
       "そら",
       "から",
-      "あ.く"
+      "あ.く",
+      "あ.き",
+      "あ.ける",
+      "す.く",
+      "す.かす",
+      "むな.しい"
     ],
     "strokes": 8,
     "radical": "穴",
@@ -4127,7 +4845,12 @@ const KANJI_DATA = [
       ],
       "number": 325
     },
-    "order": 108
+    "order": 108,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 116
+    }
   },
   {
     "id": "kanji-96fb",
@@ -4162,7 +4885,12 @@ const KANJI_DATA = [
       ],
       "number": 163
     },
-    "order": 109
+    "order": 109,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 173
+    }
   },
   {
     "id": "kanji-4f55",
@@ -4175,7 +4903,9 @@ const KANJI_DATA = [
     ],
     "kun": [
       "なに",
-      "なん"
+      "なん",
+      "なに-",
+      "なん-"
     ],
     "strokes": 7,
     "radical": "人",
@@ -4200,7 +4930,12 @@ const KANJI_DATA = [
       ],
       "number": 40
     },
-    "order": 110
+    "order": 110,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-82b1",
@@ -4209,7 +4944,8 @@ const KANJI_DATA = [
     "meaning": "bunga",
     "english": "flower",
     "on": [
-      "カ"
+      "カ",
+      "ケ"
     ],
     "kun": [
       "はな"
@@ -4237,7 +4973,12 @@ const KANJI_DATA = [
       ],
       "number": 122
     },
-    "order": 111
+    "order": 111,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 140
+    }
   },
   {
     "id": "kanji-72ac",
@@ -4249,7 +4990,8 @@ const KANJI_DATA = [
       "ケン"
     ],
     "kun": [
-      "いぬ"
+      "いぬ",
+      "いぬ-"
     ],
     "strokes": 4,
     "radical": "犬",
@@ -4274,7 +5016,12 @@ const KANJI_DATA = [
       ],
       "number": 107
     },
-    "order": 112
+    "order": 112,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 94
+    }
   },
   {
     "id": "kanji-5bb6",
@@ -4288,7 +5035,8 @@ const KANJI_DATA = [
     ],
     "kun": [
       "いえ",
-      "や"
+      "や",
+      "うち"
     ],
     "strokes": 10,
     "radical": "宀",
@@ -4313,20 +5061,28 @@ const KANJI_DATA = [
       ],
       "number": 16
     },
-    "order": 113
+    "order": 113,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 40
+    }
   },
   {
     "id": "kanji-597d",
     "char": "好",
     "category": "qualities",
     "meaning": "suka",
-    "english": "like; fond",
+    "english": "like; fond of",
     "on": [
       "コウ"
     ],
     "kun": [
       "す.き",
-      "この.む"
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
     ],
     "strokes": 6,
     "radical": "女",
@@ -4351,7 +5107,12 @@ const KANJI_DATA = [
       ],
       "number": 15
     },
-    "order": 114
+    "order": 114,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 38
+    }
   },
   {
     "id": "kanji-82f1",
@@ -4362,7 +5123,9 @@ const KANJI_DATA = [
     "on": [
       "エイ"
     ],
-    "kun": [],
+    "kun": [
+      "はなぶさ"
+    ],
     "strokes": 8,
     "radical": "艸",
     "mnemonic": "Kaitkan bentuk 英 dengan kata yang sering dijumpai: 英語, bahasa Inggris.",
@@ -4386,7 +5149,12 @@ const KANJI_DATA = [
       ],
       "number": 111
     },
-    "order": 115
+    "order": 115,
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 140
+    }
   }
 ];
 
