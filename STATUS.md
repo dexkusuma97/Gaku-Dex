@@ -1125,3 +1125,13 @@ Audit empat PDF (476 halaman fisik). Tambahkan 115 materi N4 dalam 14 kategori, 
 - Installer kumulatif batch 3 menerima ZIP awal, batch 1, batch 2, serta pemasangan ulang batch 3; tanpa deployment otomatis.
 
 - Batch 3 juga memperbaiki romanisasi gabungan katakana asing (misalnya ウォ, ティ, ファ) di helper bersama; grid kana tidak berubah. Tes semua 500 contoh memastikan tidak ada kana tersisa di romaji.
+
+
+## 31 Oktober 2026 — Batch 4: total 1.000 contoh kontekstual
+
+- Tambah tepat 500 contoh ke batch 3, menjadi 1.000 kalimat Jepang unik, masing-masing dengan bacaan berjarak dan arti Indonesia. 500 contoh terdahulu dipertahankan persis.
+- Contoh 結婚式 yang disepakati sudah terpasang: ともだちのけっこんしきにでました。 / ともだち の けっこんしき に でました。 / Saya menghadiri upacara pernikahan teman.
+- Antrean topic-frame/occasional-frame tersisa 1.237. Spasi pada contoh lama di luar 1.000 ini belum ditinjau secara menyeluruh. Catatan masalah leksikal tetap menunggu verifikasi sumber.
+- Dibanding paket 500: tepat 500 field example berubah. Satu romaji kepala entri Perfume diperbarui dari pafuゅumu menjadi pafyuumu setelah rebuild memakai pemetaan フュ yang diperbaiki pada batch 3. ID, arti kepala entri, bacaan kata, kategori, urutan, dan sumber seluruh 3.227 kartu tidak berubah. N5 tetap 1.791.
+- Build penuh dari normalisasi tidak mengubah record aktif hasil koreksi. 37 berkas tes lulus, termasuk konversi romaji penuh semua 1.000 contoh, keunikan kalimat, pemisahan level, dan idempotensi.
+- Paket kumulatif batch 4 berisi BACA-DULU dan installer yang membuat backup serta memeriksa konflik. Belum deployment otomatis. Belum uji Android fisik atau sertifikasi pengajar atas seluruh kalimat.

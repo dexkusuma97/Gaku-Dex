@@ -1,4 +1,6 @@
-# Audit kualitas 31 Oktober 2026 — batch pertama
+# Audit kualitas 31 Oktober 2026
+
+Status terkini: batch 4, total 1.000 contoh kontekstual. Catatan di bawah menyimpan riwayat setiap batch.
 
 138 contoh Kotoba N4 ditulis ulang sesuai pemakaian kata. Contoh Jepang memakai kana untuk membantu pemula; kolom kana sama dengan kalimat contoh. Tidak mengubah arti kepala entri, keanggotaan level, ID, atau audio.
 
@@ -33,3 +35,14 @@ Antrean bingkai berulang tersisa 1.737. Tambahan data/kotoba-n4-lexical-review-p
 Verifikasi: 500 kalimat unik, ID dan jumlah kartu terjaga, penghapusan spasi pada bacaan sama persis dengan Jepang utama, output romaji contoh teruji. Build penuh dari normalisasi menghasilkan record aktif sama persis; 37 berkas tes lulus. Paket kumulatif batch 3 menggantikan kebutuhan memasang batch terdahulu.
 
 - Batch 3 juga memperbaiki romanisasi gabungan katakana asing (misalnya ウォ, ティ, ファ) di helper bersama; grid kana tidak berubah. Tes semua 500 contoh memastikan tidak ada kana tersisa di romaji.
+
+
+## Batch 4 — total 1.000
+
+Tambahan tepat 500 contoh; seluruh 500 contoh batch 3 tetap sama. Kalimat ditulis per entri untuk menggambarkan kegiatan, percakapan, pekerjaan, perjalanan, makanan, belanja, budaya, dan fungsi alat. Kolom kana memakai spasi bantuan; Jepang utama tidak memakai spasi tambahan. Seluruh 1.000 contoh memiliki kalimat Jepang yang berbeda.
+
+Contoh yang dipratinjau kepada pengguna untuk 結婚式 diterapkan sesuai pratinjau: ともだちのけっこんしきにでました。 — Saya menghadiri upacara pernikahan teman.
+
+Pemeriksaan terhadap batch 3 memastikan tepat 500 perubahan pada field example. Rebuild juga mengoreksi satu romaji kepala entri Perfume, dari pafuゅumu menjadi pafyuumu; hal ini mengikuti perbaikan pemetaan フュ dari batch 3. Identitas kartu, arti kata, kategori, urutan dan sumber tidak berubah. Ini bukan klaim seluruh arti kata dan klasifikasi sudah disertifikasi; masalah yang dicatat pada batch 3 masih menunggu perbaikan berbasis sumber.
+
+Antrean bingkai berulang tersisa 1.237. Audit editorial seluruh N4, detail Kanji dan Bunpo belum selesai. Build penuh dari normalisasi menjaga record aktif; seluruh 37 berkas tes lulus. Installer menerima baseline awal dan semua batch sebelumnya yang disertakan dalam manifest.
