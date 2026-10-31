@@ -15,3 +15,10 @@ Referensi tersedia untuk tahap verifikasi selanjutnya: https://www.irodori.jpf.g
 ## Pemasangan patch
 
 Ekstrak ZIP patch ke akar repository Gaku-Dex yang memiliki folder data, scripts, tests, dan dist. Timpa berkas dengan jalur sama. Patch tidak memuat aset lama; jangan hapus repository lama. dist/kotoba-n4-data.js sudah dibangun. Jalankan node --test tests/*.test.cjs bila Node/Python tersedia, lalu unggah perubahan seperti biasa. Belum dipublikasikan otomatis.
+
+
+## Batch 2
+
+Total 173 contoh (138 sebelumnya + 35 baru). Seluruh 173 kolom kana diberi spasi manual; teks Jepang utama tidak berubah karena penambahan spasi. Romanisasi contoh mengikuti spasi tersebut, termasuk は menjadi wa ketika berperan sebagai partikel. Contoh あかちゃん: akachan ga nete imasu.
+
+Antrean tersisa 2.064 contoh. Penambahan spasi belum mencakup seluruh contoh lama di luar batch editorial ini. Pemisahan bersifat bantuan membaca, bukan analisis morfologi otomatis. Paket batch 2 sudah mencakup batch 1; jalankan pasang.sh sesuai BACA-DULU.txt.

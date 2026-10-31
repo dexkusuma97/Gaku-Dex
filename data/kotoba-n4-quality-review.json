@@ -139,10 +139,45 @@
     "kotoba-n4-969ed3fe0463",
     "kotoba-n4-9fa398f806d2",
     "kotoba-n4-7a94413a5341",
-    "kotoba-n4-ac2750cfd4e5"
+    "kotoba-n4-ac2750cfd4e5",
+    "kotoba-n4-d56276d47666",
+    "kotoba-n4-a4f6f1d73f31",
+    "kotoba-n4-df32415eab27",
+    "kotoba-n4-f99729a7faa9",
+    "kotoba-n4-b1efb8a12505",
+    "kotoba-n4-a02939dceab3",
+    "kotoba-n4-a0398bcc8228",
+    "kotoba-n4-f620518199c4",
+    "kotoba-n4-b8376e50be35",
+    "kotoba-n4-50397f6eba08",
+    "kotoba-n4-50da17d58e47",
+    "kotoba-n4-978741973be4",
+    "kotoba-n4-613e3951c583",
+    "kotoba-n4-cc980bc7c486",
+    "kotoba-n4-3c054f9d6b21",
+    "kotoba-n4-9cbc01a96537",
+    "kotoba-n4-f45b7fd7cb28",
+    "kotoba-n4-8b289432f669",
+    "kotoba-n4-a8fb07345d59",
+    "kotoba-n4-d6fe5eaf6b34",
+    "kotoba-n4-3c8a0ad1c792",
+    "kotoba-n4-5a2f7a448dce",
+    "kotoba-n4-961b4a3c0640",
+    "kotoba-n4-1c1844225089",
+    "kotoba-n4-be6546c0ed3d",
+    "kotoba-n4-80baf5dd0124",
+    "kotoba-n4-30f2fd309c19",
+    "kotoba-n4-6811834b54f7",
+    "kotoba-n4-cd0b69f61d68",
+    "kotoba-n4-25591ed9d31d",
+    "kotoba-n4-e40cdc84bef7",
+    "kotoba-n4-b8f9c0af73a9",
+    "kotoba-n4-55feff031f07",
+    "kotoba-n4-48fab10c5595",
+    "kotoba-n4-94bcb332fed6"
   ],
   "remainingFrameCounts": {
-    "topic-frame": 1462,
+    "topic-frame": 1427,
     "occasional-frame": 637
   },
   "note": "Queue flags repetitive frames, not proven errors. Other examples and all glosses still require editorial review.",
@@ -12006,13 +12041,6 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-3c8a0ad1c792",
-      "jp": "煙",
-      "kana": "けむり",
-      "meaning": "asap",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-84b216e22464",
       "jp": "充満する",
       "kana": "じゅうまんする",
@@ -12046,13 +12074,6 @@
       "kana": "こえをかけあう",
       "meaning": "saling berbicara satu sama lain; saling memanggil satu sama lain",
       "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-5a2f7a448dce",
-      "jp": "床",
-      "kana": "ゆか",
-      "meaning": "lantai",
-      "reason": "topic-frame"
     },
     {
       "id": "kotoba-n4-0a9bb794f7fd",
@@ -12139,13 +12160,6 @@
       "reason": "occasional-frame"
     },
     {
-      "id": "kotoba-n4-961b4a3c0640",
-      "jp": "天井",
-      "kana": "てんじょう",
-      "meaning": "atap; langit-langit; plafon",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-ef38e84d267c",
       "jp": "断水する",
       "kana": "だんすいする",
@@ -12181,27 +12195,6 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-80baf5dd0124",
-      "jp": "非常食",
-      "kana": "ひじょうしょく",
-      "meaning": "makanan darurat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-6811834b54f7",
-      "jp": "ろうそく",
-      "kana": "ろうそく",
-      "meaning": "lilin",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-30f2fd309c19",
-      "jp": "寝袋",
-      "kana": "ねぶくろ",
-      "meaning": "kantong tidur",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-925904e7deba",
       "jp": "ポリタンク",
       "kana": "ぽりたんく",
@@ -12213,13 +12206,6 @@
       "jp": "総合福祉センター",
       "kana": "そうごうふくしせんたー",
       "meaning": "pusat kesejahteraan sosial",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b8f9c0af73a9",
-      "jp": "レベル",
-      "kana": "れべる",
-      "meaning": "level; tingkat",
       "reason": "topic-frame"
     },
     {
@@ -12265,13 +12251,6 @@
       "reason": "occasional-frame"
     },
     {
-      "id": "kotoba-n4-55feff031f07",
-      "jp": "貴重品",
-      "kana": "きちょうひん",
-      "meaning": "barang berharga",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-3c5854c4511b",
       "jp": "電灯",
       "kana": "でんとう",
@@ -12293,24 +12272,10 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-e40cdc84bef7",
-      "jp": "下着",
-      "kana": "したぎ",
-      "meaning": "pakaian dalam",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-150f18072c69",
       "jp": "生理用品",
       "kana": "せいりようひん",
       "meaning": "produk kebersihan untuk menstruasi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-48fab10c5595",
-      "jp": "ウェットティッシュ",
-      "kana": "うぇっとてぃっしゅ",
-      "meaning": "tisu basah",
       "reason": "topic-frame"
     },
     {
@@ -12325,20 +12290,6 @@
       "jp": "使い捨てカイロ",
       "kana": "つかいすてかいろ",
       "meaning": "bantalan pemanas / penghangat sekali pakai",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-25591ed9d31d",
-      "jp": "粉ミルク",
-      "kana": "こなみるく",
-      "meaning": "susu bubuk",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-cd0b69f61d68",
-      "jp": "おむつ",
-      "kana": "おむつ",
-      "meaning": "popok",
       "reason": "topic-frame"
     },
     {
@@ -12384,24 +12335,10 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-1c1844225089",
-      "jp": "現金",
-      "kana": "げんきん",
-      "meaning": "uang tunai",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-c79eca037a19",
       "jp": "預金通帳",
       "kana": "よきんつうちょう",
       "meaning": "buku tabungan rekening bank",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-be6546c0ed3d",
-      "jp": "パスポート",
-      "kana": "ぱすぽーと",
-      "meaning": "paspor",
       "reason": "topic-frame"
     },
     {
@@ -12430,13 +12367,6 @@
       "jp": "インスタント食品",
       "kana": "いんすたんとしょくひん",
       "meaning": "makanan instan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-94bcb332fed6",
-      "jp": "サークル",
-      "kana": "さーくる",
-      "meaning": "klub",
       "reason": "topic-frame"
     },
     {
@@ -12748,108 +12678,10 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-d56276d47666",
-      "jp": "喉",
-      "kana": "のど",
-      "meaning": "tenggorokan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a4f6f1d73f31",
-      "jp": "頬",
-      "kana": "ほほ",
-      "meaning": "pipi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-df32415eab27",
-      "jp": "爪",
-      "kana": "つめ",
-      "meaning": "kuku",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f99729a7faa9",
-      "jp": "額",
-      "kana": "ひたい",
-      "meaning": "dahi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b1efb8a12505",
-      "jp": "顎",
-      "kana": "あご",
-      "meaning": "dagu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a02939dceab3",
-      "jp": "唇",
-      "kana": "くちびる",
-      "meaning": "bibir",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a0398bcc8228",
-      "jp": "掌",
-      "kana": "てのひら",
-      "meaning": "telapak tangan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f620518199c4",
-      "jp": "膝",
-      "kana": "ひざ",
-      "meaning": "lutut",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b8376e50be35",
-      "jp": "踵",
-      "kana": "かかと",
-      "meaning": "tumit",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-aa9b09008f5d",
       "jp": "足指",
       "kana": "あしゆび",
       "meaning": "jari kaki",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-50397f6eba08",
-      "jp": "親指",
-      "kana": "おやゆび",
-      "meaning": "jempol",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-50da17d58e47",
-      "jp": "人差し指",
-      "kana": "ひとさしゆび",
-      "meaning": "jari telunjuk",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-978741973be4",
-      "jp": "中指",
-      "kana": "なかゆび",
-      "meaning": "jari tengah",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-613e3951c583",
-      "jp": "薬指",
-      "kana": "くすりゆび",
-      "meaning": "jari manis",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-cc980bc7c486",
-      "jp": "小指",
-      "kana": "こゆび",
-      "meaning": "jari kelingking",
       "reason": "topic-frame"
     },
     {
@@ -12874,13 +12706,6 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-a8fb07345d59",
-      "jp": "皮膚",
-      "kana": "ひふ",
-      "meaning": "kulit",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-6aab04874fed",
       "jp": "血液",
       "kana": "けつえき",
@@ -12895,20 +12720,6 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-3c054f9d6b21",
-      "jp": "眉",
-      "kana": "まゆ",
-      "meaning": "alis",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9cbc01a96537",
-      "jp": "肘",
-      "kana": "ひじ",
-      "meaning": "siku",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-ea5c6b412a41",
       "jp": "臍",
       "kana": "へそ",
@@ -12920,20 +12731,6 @@
       "jp": "腋の下",
       "kana": "わきのした",
       "meaning": "ketiak",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f45b7fd7cb28",
-      "jp": "足首",
-      "kana": "あしくび",
-      "meaning": "pergelangan kaki",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-8b289432f669",
-      "jp": "手首",
-      "kana": "てくび",
-      "meaning": "pergelangan tangan",
       "reason": "topic-frame"
     },
     {
@@ -13004,13 +12801,6 @@
       "jp": "脳",
       "kana": "のう",
       "meaning": "otak",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d6fe5eaf6b34",
-      "jp": "筋肉",
-      "kana": "きんにく",
-      "meaning": "otot",
       "reason": "topic-frame"
     },
     {

@@ -1105,3 +1105,11 @@ Audit empat PDF (476 halaman fisik). Tambahkan 115 materi N4 dalam 14 kategori, 
 - Seluruh 37 berkas tes lulus, termasuk kestabilan koreksi setelah rebuild. Belum uji visual/Android untuk batch ini; hanya data yang berubah.
 - Bunpo lulus pemeriksaan struktur yang sudah tersedia; belum dilakukan peninjauan editorial lengkap pada batch ini. Kanji belum dilengkapi.
 - Langkah berikutnya: lanjutkan contoh per kelompok tema, tangani arti campuran/homonim, lalu tinjau Bunpo per keluarga fungsi. Jangan sebut audit seluruh N4 selesai.
+
+
+## 31 Oktober 2026 — Batch 2: spasi bacaan dan contoh lanjutan
+
+- 138 contoh batch 1 diberi pemisah frasa/kata secara manual pada kolom kana. Teks Jepang utama tetap rapat mengikuti penulisan Jepang. Romaji mengikuti spasi kana lewat renderer yang sudah ada: akachan ga nete imasu.
+- Tambah 35 contoh kontekstual untuk anggota tubuh dan kebutuhan sehari-hari: total 173. Antrean bingkai berulang tersisa 2.064. Belum menyelesaikan audit seluruh N4 atau menambahkan spasi pada seluruh contoh lama di luar 173 ini.
+- Paket kumulatif terhadap ZIP awal, cocok dengan baseline awal atau batch 1. Installer membuat backup, menolak isi file tak dikenal, dan memulihkan file target bila tes gagal.
+- Seluruh 37 berkas tes lulus, termasuk output romaji dengan spasi dan konsistensi teks kana/Jepang. Tidak mengubah audio, gambar, atau workflow deployment.
