@@ -1205,3 +1205,10 @@ Antrean mekanis tersisa 620 (592 identifikasi, 28 waktu+belajar). Bingkai bukan 
 Tambahan 620 contoh, total 1.047 contoh editorial N5 yang berbeda; 427 rekaman batch 10 tetap persis. 542 pengganti ditulis per entri dan 78 pola paralel ditinjau untuk keluarga angka. Antrean identifikasi/waktu+belajar menjadi nol; 744 kartu lain serta audit arti/bacaan menyeluruh tidak dianggap otomatis selesai. N5 1.791 dan N4 3.215; ID, sumber, kategori, desain kartu dan semua contoh N4 dipertahankan.
 
 Enam arti diperjelas: マッチ (makna olahraga yang sudah diajarkan), ステージ, チェックイン, 真っ赤, 真っ白, 中人 (kategori tarif pelajar). Rujukan dan batas lingkup ada di data/KOTOBA_N5_REVIEW_20261031.md. Helper romaji bersama membedakan nominaは sebelum partikel dari partikel topikは, dengan regresi ha o/ha ga/ha wa dan watashi wa. Seluruh 40 berkas tes lulus dan dua rebuild penuh stabil. Paket kumulatif, backup/conflict gate, tanpa deployment otomatis; belum uji Android fisik.
+
+
+## 31 Oktober 2026 — Batch 12: detail lengkap 287 Kanji bagian N4
+
+Lengkapi 217 karakter lanjutan A2 dan 70 pengayaan A2/B1 dengan arti Inggris, radikal klasik/guratan utama terverifikasi KANJIDIC2 versi 2026-304, seluruh bacaan ja_on/ja_kun tanpa nanori, 287 mnemonic visual orisinal, serta 1–2 contoh (372 total). Sebanyak 39 grup kun’yomi tetap kosong sesuai rujukan. Bacaan tambahan dilipat agar tampilan awal ringkas; anotasi bacaan terikat dan konsonan rangkap dijelaskan.14 pemakaian contoh konkret/koreksi dicatat sebagai adaptasi dari baris sumber.
+
+Rujukan, editorial dan audit disimpan terpisah; normal build tetap offline. Tambahkan kredit data melalui Pengaturan, catatan lisensi CC BY-SA 4.0 dan prosedur pembaruan rujukan. Ringkasan ada di data/KANJI_N4_REVIEW_20261031.md. Data 115 Kanji N5, ID/cakupan N4, seluruh Kotoba serta desain kartu dipertahankan. Semua 41 berkas tes lulus; kedua jalur build dan ekstraksi rujukan stabil. Pemasang kumulatif diuji dari versi awal/batch 11; belum deploy otomatis atau uji visual Android fisik.

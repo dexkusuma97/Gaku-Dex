@@ -4399,11 +4399,14 @@ const KANJI_N4_DATA = [
     "on": [
       "リョウ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "てる",
+      "ふたつ"
+    ],
+    "english": "both; two sides",
+    "strokes": 6,
+    "radical": "一",
+    "mnemonic": "Bayangkan dua sisi berada di dalam satu bingkai; keduanya perlu diperhatikan.",
     "level": "N4",
     "scope": "a2",
     "order": 1,
@@ -4440,7 +4443,12 @@ const KANJI_N4_DATA = [
         "word": "両親",
         "kana": "りょうしん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-56de",
@@ -4448,27 +4456,40 @@ const KANJI_N4_DATA = [
     "category": "numbers",
     "meaning": "kali; berputar",
     "on": [
-      "カイ"
+      "カイ",
+      "エ"
     ],
     "kun": [
       "まわ.る",
-      "まわ.す"
+      "まわ.す",
+      "-まわ.る",
+      "-まわ.り",
+      "-まわ.す",
+      "まわ.し-",
+      "-まわ.し",
+      "もとお.る",
+      "か.える"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "turn; times; go around",
+    "strokes": 6,
+    "radical": "囗",
+    "mnemonic": "Dua kotak bersarang mengingatkan gerakan mengelilingi satu putaran.",
     "level": "N4",
     "scope": "a2",
     "order": 2,
     "examples": [
       {
-        "word": "〜回",
-        "kana": "かい",
-        "meaning": "kali",
+        "word": "一回",
+        "kana": "いっかい",
+        "meaning": "satu kali",
         "source": "marugoto-a2-1",
         "page": 2,
-        "number": 154
+        "number": 154,
+        "adaptedFrom": {
+          "word": "〜回",
+          "kana": "かい",
+          "meaning": "kali"
+        }
       }
     ],
     "source": {
@@ -4500,7 +4521,12 @@ const KANJI_N4_DATA = [
         "word": "〜回（2回）",
         "kana": "かい（にかい）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 31
+    }
   },
   {
     "id": "kanji-5ea6",
@@ -4513,12 +4539,13 @@ const KANJI_N4_DATA = [
       "タク"
     ],
     "kun": [
-      "たび"
+      "たび",
+      "-た.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "degree; occasion; times",
+    "strokes": 9,
+    "radical": "广",
+    "mnemonic": "Bayangkan tangan mengukur sesuatu di bawah atap, satu derajat setiap kali.",
     "level": "N4",
     "scope": "a2",
     "order": 3,
@@ -4538,14 +4565,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-b1",
         "page": 5,
         "number": 492
-      },
-      {
-        "word": "〜度",
-        "kana": "ど",
-        "meaning": "derajat",
-        "source": "marugoto-a2-2",
-        "page": 5,
-        "number": 362
       }
     ],
     "source": {
@@ -4592,7 +4611,12 @@ const KANJI_N4_DATA = [
         "word": "もう一度",
         "kana": "もういちど"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 53
+    }
   },
   {
     "id": "kanji-756a",
@@ -4602,22 +4626,29 @@ const KANJI_N4_DATA = [
     "on": [
       "バン"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "つが.い"
+    ],
+    "english": "turn; number in order",
+    "strokes": 12,
+    "radical": "田",
+    "mnemonic": "Bayangkan petak 田 dibagi untuk orang yang menunggu nomor giliran.",
     "level": "N4",
     "scope": "a2",
     "order": 4,
     "examples": [
       {
-        "word": "〜番目",
-        "kana": "ばんめ",
-        "meaning": "urutan ke-",
+        "word": "一番目",
+        "kana": "いちばんめ",
+        "meaning": "urutan pertama",
         "source": "marugoto-a2-2",
         "page": 3,
-        "number": 229
+        "number": 229,
+        "adaptedFrom": {
+          "word": "〜番目",
+          "kana": "ばんめ",
+          "meaning": "urutan ke-"
+        }
       }
     ],
     "source": {
@@ -4642,7 +4673,12 @@ const KANJI_N4_DATA = [
         "word": "〜番目（1番目）",
         "kana": "〜ばんめ（いちばんめ）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 102
+    }
   },
   {
     "id": "kanji-91cf",
@@ -4655,10 +4691,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "はか.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "quantity; measure",
+    "strokes": 12,
+    "radical": "里",
+    "mnemonic": "Bayangkan wadah bertingkat untuk mengukur jumlah beras sampai penuh.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 5,
@@ -4687,7 +4723,12 @@ const KANJI_N4_DATA = [
         "word": "量",
         "kana": "りょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 166
+    }
   },
   {
     "id": "kanji-4ee5",
@@ -4697,30 +4738,42 @@ const KANJI_N4_DATA = [
     "on": [
       "イ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "もっ.て"
+    ],
+    "english": "by means of; from",
+    "strokes": 5,
+    "radical": "人",
+    "mnemonic": "Bayangkan seseorang membawa alat yang dipakai sebagai sarana untuk bekerja.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 6,
     "examples": [
       {
-        "word": "～以上",
+        "word": "以上",
         "kana": "いじょう",
         "meaning": "lebih dari atau sama dengan",
         "source": "marugoto-a2-b1",
         "page": 5,
-        "number": 409
+        "number": 409,
+        "adaptedFrom": {
+          "word": "～以上",
+          "kana": "いじょう",
+          "meaning": "lebih dari atau sama dengan"
+        }
       },
       {
-        "word": "～以下",
+        "word": "以下",
         "kana": "いか",
         "meaning": "kurang dari atau sama dengan",
         "source": "marugoto-a2-b1",
         "page": 5,
-        "number": 410
+        "number": 410,
+        "adaptedFrom": {
+          "word": "～以下",
+          "kana": "いか",
+          "meaning": "kurang dari atau sama dengan"
+        }
       }
     ],
     "source": {
@@ -4745,7 +4798,12 @@ const KANJI_N4_DATA = [
         "word": "～以下（6万円以下）",
         "kana": "～いか（ろくまんえんいか）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-6700",
@@ -4753,15 +4811,17 @@ const KANJI_N4_DATA = [
     "category": "numbers",
     "meaning": "paling",
     "on": [
-      "サイ"
+      "サイ",
+      "シュ"
     ],
     "kun": [
-      "もっと.も"
+      "もっと.も",
+      "つま"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "most; utmost",
+    "strokes": 12,
+    "radical": "曰",
+    "mnemonic": "Bayangkan bagian teratas diberi tanda karena nilainya paling tinggi.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 7,
@@ -4805,7 +4865,12 @@ const KANJI_N4_DATA = [
         "word": "最高",
         "kana": "さいこう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 73
+    }
   },
   {
     "id": "kanji-70b9",
@@ -4815,22 +4880,35 @@ const KANJI_N4_DATA = [
     "on": [
       "テン"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "english": "point; mark; score",
+    "strokes": 9,
+    "radical": "火",
+    "mnemonic": "Empat titik di bawah mengingatkan titik-titik kecil pada lembar penilaian.",
     "level": "N4",
     "scope": "a2",
     "order": 8,
     "examples": [
       {
-        "word": "〜点",
-        "kana": "てん",
-        "meaning": "poin; nilai",
+        "word": "一点",
+        "kana": "いってん",
+        "meaning": "satu poin",
         "source": "marugoto-a2-2",
         "page": 5,
-        "number": 363
+        "number": 363,
+        "adaptedFrom": {
+          "word": "〜点",
+          "kana": "てん",
+          "meaning": "poin; nilai"
+        }
       }
     ],
     "source": {
@@ -4856,7 +4934,12 @@ const KANJI_N4_DATA = [
         "word": "〜点（100点）",
         "kana": "〜てん（ひゃくてん）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 86
+    }
   },
   {
     "id": "kanji-7d04",
@@ -4866,22 +4949,31 @@ const KANJI_N4_DATA = [
     "on": [
       "ヤク"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "つづ.まる",
+      "つづ.める",
+      "つづま.やか"
+    ],
+    "english": "promise; approximately",
+    "strokes": 9,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri menjadi benang pengikat janji; ukurannya hanya kira-kira.",
     "level": "N4",
     "scope": "a2",
     "order": 9,
     "examples": [
       {
-        "word": "約～",
+        "word": "約",
         "kana": "やく",
         "meaning": "kira-kira",
         "source": "marugoto-a2-b1",
         "page": 5,
-        "number": 431
+        "number": 431,
+        "adaptedFrom": {
+          "word": "約～",
+          "kana": "やく",
+          "meaning": "kira-kira"
+        }
       },
       {
         "word": "予約します",
@@ -4923,7 +5015,12 @@ const KANJI_N4_DATA = [
         "word": "約～（約６年間）",
         "kana": "やく～（やくろくねんかん）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-5149",
@@ -4937,10 +5034,10 @@ const KANJI_N4_DATA = [
       "ひかり",
       "ひか.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "light; ray",
+    "strokes": 6,
+    "radical": "儿",
+    "mnemonic": "Bayangkan sinar di atas menyebar ke dua arah seperti kaki yang terbuka.",
     "level": "N4",
     "scope": "a2",
     "order": 10,
@@ -4977,7 +5074,12 @@ const KANJI_N4_DATA = [
         "word": "観光地",
         "kana": "かんこうち"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 10
+    }
   },
   {
     "id": "kanji-51ac",
@@ -4990,10 +5092,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "ふゆ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "winter",
+    "strokes": 5,
+    "radical": "冫",
+    "mnemonic": "Dua titik di bawah seperti butiran es yang jatuh pada musim dingin.",
     "level": "N4",
     "scope": "a2",
     "order": 11,
@@ -5037,7 +5139,12 @@ const KANJI_N4_DATA = [
         "word": "冬",
         "kana": "ふゆ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 15
+    }
   },
   {
     "id": "kanji-590f",
@@ -5046,15 +5153,16 @@ const KANJI_N4_DATA = [
     "meaning": "musim panas",
     "on": [
       "カ",
-      "ゲ"
+      "ゲ",
+      "ガ"
     ],
     "kun": [
       "なつ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "summer",
+    "strokes": 10,
+    "radical": "夊",
+    "mnemonic": "Bayangkan orang berjalan pelan di bawah matahari musim panas yang terik.",
     "level": "N4",
     "scope": "a2",
     "order": 12,
@@ -5098,7 +5206,12 @@ const KANJI_N4_DATA = [
         "word": "夏",
         "kana": "なつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 35
+    }
   },
   {
     "id": "kanji-5cf6",
@@ -5111,10 +5224,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "しま"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "island",
+    "strokes": 10,
+    "radical": "山",
+    "mnemonic": "山 di bagian bawah menjadi gunung yang muncul dari laut sebagai pulau.",
     "level": "N4",
     "scope": "a2",
     "order": 13,
@@ -5151,7 +5264,12 @@ const KANJI_N4_DATA = [
         "word": "島",
         "kana": "しま"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 46
+    }
   },
   {
     "id": "kanji-68ee",
@@ -5164,10 +5282,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "もり"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "forest; woods",
+    "strokes": 12,
+    "radical": "木",
+    "mnemonic": "Tiga 木 berkumpul menjadi hutan yang penuh pohon.",
     "level": "N4",
     "scope": "a2",
     "order": 14,
@@ -5204,7 +5322,12 @@ const KANJI_N4_DATA = [
         "word": "森",
         "kana": "もり"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-6625",
@@ -5217,10 +5340,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "はる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "spring",
+    "strokes": 9,
+    "radical": "日",
+    "mnemonic": "Bayangkan 日 menghangatkan tunas yang mulai tumbuh pada musim semi.",
     "level": "N4",
     "scope": "a2",
     "order": 15,
@@ -5264,7 +5387,12 @@ const KANJI_N4_DATA = [
         "word": "春",
         "kana": "はる"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-6674",
@@ -5275,12 +5403,16 @@ const KANJI_N4_DATA = [
       "セイ"
     ],
     "kun": [
-      "は.れる"
+      "は.れる",
+      "は.れ",
+      "は.れ-",
+      "-ば.れ",
+      "は.らす"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "clear weather",
+    "strokes": 12,
+    "radical": "日",
+    "mnemonic": "日 di kiri adalah matahari yang muncul saat langit kembali cerah.",
     "level": "N4",
     "scope": "a2",
     "order": 16,
@@ -5323,7 +5455,12 @@ const KANJI_N4_DATA = [
         "word": "晴れ",
         "kana": "はれ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-6691",
@@ -5336,10 +5473,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "あつ.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "hot weather",
+    "strokes": 12,
+    "radical": "日",
+    "mnemonic": "Bayangkan matahari 日 menekan dari atas hingga udara terasa panas.",
     "level": "N4",
     "scope": "a2",
     "order": 17,
@@ -5376,7 +5513,12 @@ const KANJI_N4_DATA = [
         "word": "暑い",
         "kana": "あつい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-6cb9",
@@ -5384,15 +5526,16 @@ const KANJI_N4_DATA = [
     "category": "nature",
     "meaning": "minyak",
     "on": [
-      "ユ"
+      "ユ",
+      "ユウ"
     ],
     "kun": [
       "あぶら"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "oil",
+    "strokes": 8,
+    "radical": "水",
+    "mnemonic": "Titik-titik air di kiri mengingatkan cairan; bayangkan botol minyak di kanan.",
     "level": "N4",
     "scope": "a2",
     "order": 18,
@@ -5429,7 +5572,12 @@ const KANJI_N4_DATA = [
         "word": "油",
         "kana": "あぶら"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6d0b",
@@ -5440,10 +5588,10 @@ const KANJI_N4_DATA = [
       "ヨウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "ocean; Western style",
+    "strokes": 9,
+    "radical": "水",
+    "mnemonic": "Air di kiri menjadi samudra luas menuju negeri-negeri di seberang.",
     "level": "N4",
     "scope": "a2",
     "order": 19,
@@ -5480,7 +5628,12 @@ const KANJI_N4_DATA = [
         "word": "洋食",
         "kana": "ようしょく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6d77",
@@ -5493,10 +5646,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "うみ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "sea; ocean",
+    "strokes": 9,
+    "radical": "水",
+    "mnemonic": "Air di kiri menjadi ombak yang datang setiap hari ke tepi laut.",
     "level": "N4",
     "scope": "a2",
     "order": 20,
@@ -5555,7 +5708,12 @@ const KANJI_N4_DATA = [
         "word": "海外",
         "kana": "かいがい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6e29",
@@ -5567,12 +5725,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "あたた.かい",
-      "あたた.める"
+      "あたた.める",
+      "あたた.か",
+      "あたた.まる",
+      "ぬく"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "warm",
+    "strokes": 12,
+    "radical": "水",
+    "mnemonic": "Air di kiri dan wadah di bawah mengingatkan air hangat untuk berendam.",
     "level": "N4",
     "scope": "a2",
     "order": 21,
@@ -5609,7 +5770,12 @@ const KANJI_N4_DATA = [
         "word": "温度",
         "kana": "おんど"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6e2f",
@@ -5622,10 +5788,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "みなと"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "harbor; port",
+    "strokes": 12,
+    "radical": "水",
+    "mnemonic": "Air di kiri mengingatkan tempat kapal berkumpul dan berlabuh.",
     "level": "N4",
     "scope": "a2",
     "order": 22,
@@ -5669,7 +5835,12 @@ const KANJI_N4_DATA = [
         "word": "空港",
         "kana": "くうこう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-7136",
@@ -5680,11 +5851,16 @@ const KANJI_N4_DATA = [
       "ゼン",
       "ネン"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "しか",
+      "しか.り",
+      "しか.し",
+      "さ"
+    ],
+    "english": "so; naturally",
+    "strokes": 12,
+    "radical": "火",
+    "mnemonic": "Empat titik di bawah seperti bara; bayangkan api yang menyala secara alami.",
     "level": "N4",
     "scope": "a2",
     "order": 23,
@@ -5721,7 +5897,12 @@ const KANJI_N4_DATA = [
         "word": "自然",
         "kana": "しぜん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 86
+    }
   },
   {
     "id": "kanji-79cb",
@@ -5732,12 +5913,13 @@ const KANJI_N4_DATA = [
       "シュウ"
     ],
     "kun": [
-      "あき"
+      "あき",
+      "とき"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "autumn",
+    "strokes": 9,
+    "radical": "禾",
+    "mnemonic": "禾 dan 火 mengingatkan tanaman berwarna seperti api saat musim gugur.",
     "level": "N4",
     "scope": "a2",
     "order": 24,
@@ -5781,7 +5963,12 @@ const KANJI_N4_DATA = [
         "word": "秋",
         "kana": "あき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 115
+    }
   },
   {
     "id": "kanji-96ea",
@@ -5794,10 +5981,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "ゆき"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "snow",
+    "strokes": 11,
+    "radical": "雨",
+    "mnemonic": "雨 di atas seperti langit yang menurunkan serpihan salju.",
     "level": "N4",
     "scope": "a2",
     "order": 25,
@@ -5840,7 +6027,12 @@ const KANJI_N4_DATA = [
         "word": "雪",
         "kana": "ゆき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 173
+    }
   },
   {
     "id": "kanji-96f2",
@@ -5851,12 +6043,13 @@ const KANJI_N4_DATA = [
       "ウン"
     ],
     "kun": [
-      "くも"
+      "くも",
+      "-ぐも"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "cloud",
+    "strokes": 12,
+    "radical": "雨",
+    "mnemonic": "雨 di atas mengingatkan langit lembap yang dipenuhi awan.",
     "level": "N4",
     "scope": "a2",
     "order": 26,
@@ -5899,7 +6092,12 @@ const KANJI_N4_DATA = [
         "word": "雲",
         "kana": "くも"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 173
+    }
   },
   {
     "id": "kanji-98a8",
@@ -5911,12 +6109,13 @@ const KANJI_N4_DATA = [
       "フ"
     ],
     "kun": [
-      "かぜ"
+      "かぜ",
+      "かざ-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "wind; style",
+    "strokes": 9,
+    "radical": "風",
+    "mnemonic": "Bayangkan bentuk luar melingkar seperti pusaran angin yang membawa benda kecil.",
     "level": "N4",
     "scope": "a2",
     "order": 27,
@@ -5959,7 +6158,12 @@ const KANJI_N4_DATA = [
         "word": "風",
         "kana": "かぜ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 182
+    }
   },
   {
     "id": "kanji-5bd2",
@@ -5972,10 +6176,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "さむ.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "cold weather",
+    "strokes": 12,
+    "radical": "宀",
+    "mnemonic": "Atap menutupi orang yang menggigil; dua titik bawah menjadi butiran es.",
     "level": "N4",
     "scope": "a2",
     "order": 28,
@@ -6012,7 +6216,12 @@ const KANJI_N4_DATA = [
         "word": "寒い",
         "kana": "さむい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 40
+    }
   },
   {
     "id": "kanji-91ce",
@@ -6020,15 +6229,17 @@ const KANJI_N4_DATA = [
     "category": "nature",
     "meaning": "padang; lapangan",
     "on": [
-      "ヤ"
+      "ヤ",
+      "ショ"
     ],
     "kun": [
-      "の"
+      "の",
+      "の-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "field; plains",
+    "strokes": 11,
+    "radical": "里",
+    "mnemonic": "里 di kiri seperti lahan yang membentang sampai ke padang terbuka.",
     "level": "N4",
     "scope": "a2",
     "order": 29,
@@ -6072,7 +6283,12 @@ const KANJI_N4_DATA = [
         "word": "野菜",
         "kana": "やさい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 166
+    }
   },
   {
     "id": "kanji-4ea4",
@@ -6084,12 +6300,20 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "まじ.わる",
-      "か.わす"
+      "か.わす",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
+      "-か.う",
+      "かわ.す",
+      "こもごも"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "intersect; exchange",
+    "strokes": 6,
+    "radical": "亠",
+    "mnemonic": "Garis yang menyilang mengingatkan dua orang bertemu dan saling bertukar kabar.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 30,
@@ -6118,7 +6342,12 @@ const KANJI_N4_DATA = [
         "word": "交通",
         "kana": "こうつう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 8
+    }
   },
   {
     "id": "kanji-4ecb",
@@ -6129,10 +6358,10 @@ const KANJI_N4_DATA = [
       "カイ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "mediate; introduce",
+    "strokes": 4,
+    "radical": "人",
+    "mnemonic": "Bayangkan seseorang di tengah menjadi perantara antara dua pihak.",
     "level": "N4",
     "scope": "a2",
     "order": 31,
@@ -6168,7 +6397,12 @@ const KANJI_N4_DATA = [
         "word": "自己紹介",
         "kana": "じこしょうかい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-5144",
@@ -6182,10 +6416,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "あに"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "elder brother",
+    "strokes": 5,
+    "radical": "儿",
+    "mnemonic": "口 di atas dua kaki mengingatkan kakak laki-laki yang sedang memanggil.",
     "level": "N4",
     "scope": "a2",
     "order": 32,
@@ -6243,7 +6477,12 @@ const KANJI_N4_DATA = [
         "word": "お兄さん",
         "kana": "おにいさん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 10
+    }
   },
   {
     "id": "kanji-5408",
@@ -6257,12 +6496,19 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "あ.う",
-      "あ.わせる"
+      "あ.わせる",
+      "-あ.う",
+      "あ.い",
+      "あい-",
+      "-あ.い",
+      "-あい",
+      "あ.わす",
+      "-あ.わせる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "fit; join",
+    "strokes": 6,
+    "radical": "口",
+    "mnemonic": "Bayangkan dua sisi atap bertemu tepat di atas sebuah mulut 口.",
     "level": "N4",
     "scope": "a2",
     "order": 33,
@@ -6282,14 +6528,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-b1",
         "page": 4,
         "number": 393
-      },
-      {
-        "word": "～合う",
-        "kana": "あう",
-        "meaning": "saling melakukan",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 452
       }
     ],
     "source": {
@@ -6329,7 +6567,12 @@ const KANJI_N4_DATA = [
         "word": "～合う（知り合う）",
         "kana": "～あう（しりあう）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-54e1",
@@ -6340,10 +6583,10 @@ const KANJI_N4_DATA = [
       "イン"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "member; employee",
+    "strokes": 10,
+    "radical": "口",
+    "mnemonic": "口 di atas 貝 mengingatkan pegawai yang berbicara sambil mengurus transaksi.",
     "level": "N4",
     "scope": "a2",
     "order": 34,
@@ -6380,7 +6623,12 @@ const KANJI_N4_DATA = [
         "word": "店員",
         "kana": "てんいん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-592b",
@@ -6389,15 +6637,17 @@ const KANJI_N4_DATA = [
     "meaning": "suami",
     "on": [
       "フ",
-      "フウ"
+      "フウ",
+      "ブ"
     ],
     "kun": [
-      "おっと"
+      "おっと",
+      "それ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "husband",
+    "strokes": 4,
+    "radical": "大",
+    "mnemonic": "Bayangkan sosok 大 yang mengenakan tanda di atas sebagai suami dalam keluarga.",
     "level": "N4",
     "scope": "a2",
     "order": 35,
@@ -6434,7 +6684,12 @@ const KANJI_N4_DATA = [
         "word": "夫",
         "kana": "おっと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 37
+    }
   },
   {
     "id": "kanji-59b9",
@@ -6447,10 +6702,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "いもうと"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "younger sister",
+    "strokes": 8,
+    "radical": "女",
+    "mnemonic": "女 di kiri mengingatkan adik perempuan yang masih tumbuh besar.",
     "level": "N4",
     "scope": "a2",
     "order": 36,
@@ -6486,7 +6741,12 @@ const KANJI_N4_DATA = [
         "word": "妹",
         "kana": "いもうと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 38
+    }
   },
   {
     "id": "kanji-59bb",
@@ -6499,10 +6759,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "つま"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "wife",
+    "strokes": 8,
+    "radical": "女",
+    "mnemonic": "女 di bawah menjadi pusat bayangan tentang seorang istri dalam keluarga.",
     "level": "N4",
     "scope": "a2",
     "order": 37,
@@ -6539,7 +6799,12 @@ const KANJI_N4_DATA = [
         "word": "妻",
         "kana": "つま"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 38
+    }
   },
   {
     "id": "kanji-59c9",
@@ -6550,12 +6815,13 @@ const KANJI_N4_DATA = [
       "シ"
     ],
     "kun": [
-      "あね"
+      "あね",
+      "はは"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "elder sister",
+    "strokes": 8,
+    "radical": "女",
+    "mnemonic": "女 di kiri berdiri di dekat pasar; bayangkan kakak perempuan sedang berbelanja.",
     "level": "N4",
     "scope": "a2",
     "order": 38,
@@ -6613,7 +6879,12 @@ const KANJI_N4_DATA = [
         "word": "お姉さん",
         "kana": "おねえさん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 38
+    }
   },
   {
     "id": "kanji-5a5a",
@@ -6624,10 +6895,10 @@ const KANJI_N4_DATA = [
       "コン"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "marriage",
+    "strokes": 11,
+    "radical": "女",
+    "mnemonic": "女 di kiri mengingatkan seseorang yang merayakan pernikahan bersama pasangannya.",
     "level": "N4",
     "scope": "a2",
     "order": 39,
@@ -6670,7 +6941,12 @@ const KANJI_N4_DATA = [
         "word": "結婚",
         "kana": "けっこん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 38
+    }
   },
   {
     "id": "kanji-5df1",
@@ -6682,12 +6958,14 @@ const KANJI_N4_DATA = [
       "キ"
     ],
     "kun": [
-      "おのれ"
+      "おのれ",
+      "つちのと",
+      "な"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "self",
+    "strokes": 3,
+    "radical": "己",
+    "mnemonic": "Bentuknya seperti jalan yang melingkar kembali kepada diri sendiri.",
     "level": "N4",
     "scope": "a2",
     "order": 40,
@@ -6723,7 +7001,12 @@ const KANJI_N4_DATA = [
         "word": "自己紹介",
         "kana": "じこしょうかい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 49
+    }
   },
   {
     "id": "kanji-5f1f",
@@ -6738,10 +7021,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "おとうと"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "younger brother",
+    "strokes": 7,
+    "radical": "弓",
+    "mnemonic": "Bayangkan adik laki-laki membawa busur 弓 sambil mengikuti kakaknya.",
     "level": "N4",
     "scope": "a2",
     "order": 41,
@@ -6777,7 +7060,12 @@ const KANJI_N4_DATA = [
         "word": "弟",
         "kana": "おとうと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 57
+    }
   },
   {
     "id": "kanji-604b",
@@ -6789,12 +7077,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "こい",
-      "こい.しい"
+      "こい.しい",
+      "こ.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "romantic love; longing",
+    "strokes": 10,
+    "radical": "心",
+    "mnemonic": "心 di bawah menyimpan rasa cinta dan rindu kepada seseorang.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 42,
@@ -6838,7 +7127,12 @@ const KANJI_N4_DATA = [
         "word": "恋愛",
         "kana": "れんあい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-611b",
@@ -6848,11 +7142,17 @@ const KANJI_N4_DATA = [
     "on": [
       "アイ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "いと.しい",
+      "かな.しい",
+      "め.でる",
+      "お.しむ",
+      "まな"
+    ],
+    "english": "love; affection",
+    "strokes": 13,
+    "radical": "心",
+    "mnemonic": "Bayangkan tangan melindungi hati 心 dengan penuh kasih sayang.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 43,
@@ -6881,7 +7181,12 @@ const KANJI_N4_DATA = [
         "word": "恋愛",
         "kana": "れんあい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-65cf",
@@ -6892,10 +7197,10 @@ const KANJI_N4_DATA = [
       "ゾク"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "family; group",
+    "strokes": 11,
+    "radical": "方",
+    "mnemonic": "Bayangkan sekelompok keluarga berkumpul di bawah sebuah bendera.",
     "level": "N4",
     "scope": "a2",
     "order": 44,
@@ -6931,7 +7236,12 @@ const KANJI_N4_DATA = [
         "word": "家族",
         "kana": "かぞく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 70
+    }
   },
   {
     "id": "kanji-89aa",
@@ -6943,12 +7253,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "おや",
-      "した.しい"
+      "した.しい",
+      "おや-",
+      "した.しむ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "parent; close relationship",
+    "strokes": 16,
+    "radical": "見",
+    "mnemonic": "見 di kanan mengingatkan orang tua yang memperhatikan anaknya tumbuh.",
     "level": "N4",
     "scope": "a2",
     "order": 45,
@@ -6968,14 +7280,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 388
-      },
-      {
-        "word": "親切",
-        "kana": "しんせつ",
-        "meaning": "baik hati; ramah",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 427
       }
     ],
     "source": {
@@ -7029,7 +7333,12 @@ const KANJI_N4_DATA = [
         "word": "親友",
         "kana": "しんゆう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 147
+    }
   },
   {
     "id": "kanji-8005",
@@ -7042,10 +7351,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "もの"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "person; someone who does",
+    "strokes": 8,
+    "radical": "老",
+    "mnemonic": "Bayangkan seseorang berdiri di bawah sinar 日 dan menjalankan tugasnya.",
     "level": "N4",
     "scope": "a2",
     "order": 46,
@@ -7082,7 +7391,12 @@ const KANJI_N4_DATA = [
         "word": "参加者",
         "kana": "さんかしゃ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 125
+    }
   },
   {
     "id": "kanji-69d8",
@@ -7090,15 +7404,17 @@ const KANJI_N4_DATA = [
     "category": "people",
     "meaning": "keadaan; sapaan hormat",
     "on": [
-      "ヨウ"
+      "ヨウ",
+      "ショウ"
     ],
     "kun": [
-      "さま"
+      "さま",
+      "さん"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "manner; respectful title",
+    "strokes": 14,
+    "radical": "木",
+    "mnemonic": "木 di kiri menjadi tiang penanda tempat menyambut tamu dengan hormat.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 47,
@@ -7127,7 +7443,12 @@ const KANJI_N4_DATA = [
         "word": "お客様",
         "kana": "おきゃくさま"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-76f8",
@@ -7139,12 +7460,12 @@ const KANJI_N4_DATA = [
       "ショウ"
     ],
     "kun": [
-      "あい"
+      "あい-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "mutual; appearance",
+    "strokes": 9,
+    "radical": "目",
+    "mnemonic": "目 memandang 木; bayangkan dua pihak saling memperhatikan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 48,
@@ -7188,7 +7509,12 @@ const KANJI_N4_DATA = [
         "word": "相談",
         "kana": "そうだん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 109
+    }
   },
   {
     "id": "kanji-53c2",
@@ -7196,15 +7522,19 @@ const KANJI_N4_DATA = [
     "category": "people",
     "meaning": "ikut serta; datang dengan rendah hati",
     "on": [
-      "サン"
+      "サン",
+      "シン"
     ],
     "kun": [
-      "まい.る"
+      "まい.る",
+      "まい-",
+      "まじわる",
+      "みつ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "participate; visit humbly",
+    "strokes": 8,
+    "radical": "厶",
+    "mnemonic": "Tiga guratan bawah menjadi langkah orang-orang yang datang ikut serta.",
     "level": "N4",
     "scope": "a2",
     "order": 49,
@@ -7241,7 +7571,12 @@ const KANJI_N4_DATA = [
         "word": "参加者",
         "kana": "さんかしゃ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 28
+    }
   },
   {
     "id": "kanji-81ea",
@@ -7253,12 +7588,14 @@ const KANJI_N4_DATA = [
       "シ"
     ],
     "kun": [
-      "みずか.ら"
+      "みずか.ら",
+      "おの.ずから",
+      "おの.ずと"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "oneself",
+    "strokes": 6,
+    "radical": "自",
+    "mnemonic": "Bayangkan seseorang menunjuk bagian tengah wajahnya ketika menyebut dirinya sendiri.",
     "level": "N4",
     "scope": "a2",
     "order": 50,
@@ -7278,14 +7615,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 4,
         "number": 263
-      },
-      {
-        "word": "自信",
-        "kana": "じしん",
-        "meaning": "percaya diri",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 433
       }
     ],
     "source": {
@@ -7383,7 +7712,12 @@ const KANJI_N4_DATA = [
         "word": "自信",
         "kana": "じしん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 132
+    }
   },
   {
     "id": "kanji-7d61",
@@ -7397,10 +7731,10 @@ const KANJI_N4_DATA = [
       "から.む",
       "から.まる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "entwine; connect",
+    "strokes": 12,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri menjadi benang yang melilit dan menghubungkan dua benda.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 51,
@@ -7429,7 +7763,12 @@ const KANJI_N4_DATA = [
         "word": "連絡",
         "kana": "れんらく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-8a2a",
@@ -7441,12 +7780,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "たず.ねる",
-      "おとず.れる"
+      "おとず.れる",
+      "と.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "visit",
+    "strokes": 11,
+    "radical": "言",
+    "mnemonic": "言 di kiri mengingatkan tamu yang datang sambil mengucapkan salam.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 52,
@@ -7475,7 +7815,12 @@ const KANJI_N4_DATA = [
         "word": "訪問",
         "kana": "ほうもん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-4f53",
@@ -7483,15 +7828,17 @@ const KANJI_N4_DATA = [
     "category": "body",
     "meaning": "tubuh",
     "on": [
-      "タイ"
+      "タイ",
+      "テイ"
     ],
     "kun": [
-      "からだ"
+      "からだ",
+      "かたち"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "body",
+    "strokes": 7,
+    "radical": "人",
+    "mnemonic": "Orang di kiri berdiri dekat 本; bayangkan tubuh sebagai dasar gerakan.",
     "level": "N4",
     "scope": "a2",
     "order": 53,
@@ -7551,7 +7898,12 @@ const KANJI_N4_DATA = [
         "word": "体力",
         "kana": "たいりょく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-5065",
@@ -7564,10 +7916,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "すこ.やか"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "healthy; strong",
+    "strokes": 11,
+    "radical": "人",
+    "mnemonic": "Orang di kiri berjalan tegap untuk menjaga tubuh tetap sehat.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 54,
@@ -7596,7 +7948,12 @@ const KANJI_N4_DATA = [
         "word": "健康",
         "kana": "けんこう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-5eb7",
@@ -7607,10 +7964,10 @@ const KANJI_N4_DATA = [
       "コウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "health; peace",
+    "strokes": 11,
+    "radical": "广",
+    "mnemonic": "Bayangkan rumah beratap luas tempat tubuh beristirahat dengan sehat dan tenteram.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 55,
@@ -7639,7 +7996,12 @@ const KANJI_N4_DATA = [
         "word": "健康",
         "kana": "けんこう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 53
+    }
   },
   {
     "id": "kanji-75c5",
@@ -7647,16 +8009,18 @@ const KANJI_N4_DATA = [
     "category": "body",
     "meaning": "sakit; penyakit",
     "on": [
-      "ビョウ"
+      "ビョウ",
+      "ヘイ"
     ],
     "kun": [
       "やまい",
-      "や.む"
+      "や.む",
+      "-や.み"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "illness; sick",
+    "strokes": 10,
+    "radical": "疒",
+    "mnemonic": "Bingkai 疒 mengingatkan tempat beristirahat saat seseorang sedang sakit.",
     "level": "N4",
     "scope": "a2",
     "order": 56,
@@ -7708,7 +8072,12 @@ const KANJI_N4_DATA = [
         "word": "病院",
         "kana": "びょういん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 104
+    }
   },
   {
     "id": "kanji-982d",
@@ -7717,16 +8086,19 @@ const KANJI_N4_DATA = [
     "meaning": "kepala",
     "on": [
       "トウ",
-      "ズ"
+      "ズ",
+      "ト"
     ],
     "kun": [
       "あたま",
-      "かしら"
+      "かしら",
+      "-がしら",
+      "かぶり"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "head",
+    "strokes": 16,
+    "radical": "頁",
+    "mnemonic": "頁 di kanan menjadi kepala; bayangkan kepala sedang mengingat bentuk 豆 di kiri.",
     "level": "N4",
     "scope": "a2",
     "order": 57,
@@ -7770,7 +8142,12 @@ const KANJI_N4_DATA = [
         "word": "頭",
         "kana": "あたま"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 181
+    }
   },
   {
     "id": "kanji-71b1",
@@ -7783,10 +8160,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "あつ.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "heat; fever",
+    "strokes": 15,
+    "radical": "火",
+    "mnemonic": "Empat titik di bawah seperti api yang menimbulkan panas dan demam.",
     "level": "N4",
     "scope": "a2",
     "order": 58,
@@ -7823,7 +8200,12 @@ const KANJI_N4_DATA = [
         "word": "熱い",
         "kana": "あつい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 86
+    }
   },
   {
     "id": "kanji-6240",
@@ -7834,12 +8216,15 @@ const KANJI_N4_DATA = [
       "ショ"
     ],
     "kun": [
-      "ところ"
+      "ところ",
+      "-ところ",
+      "どころ",
+      "とこ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "place",
+    "strokes": 8,
+    "radical": "戶",
+    "mnemonic": "Bayangkan pintu di kiri menuju suatu tempat yang ingin kamu datangi.",
     "level": "N4",
     "scope": "a2",
     "order": 59,
@@ -7898,7 +8283,12 @@ const KANJI_N4_DATA = [
         "word": "住所",
         "kana": "じゅうしょ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 63
+    }
   },
   {
     "id": "kanji-65b9",
@@ -7909,12 +8299,14 @@ const KANJI_N4_DATA = [
       "ホウ"
     ],
     "kun": [
-      "かた"
+      "かた",
+      "-かた",
+      "-がた"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "direction; way; person",
+    "strokes": 4,
+    "radical": "方",
+    "mnemonic": "Bentuknya seperti penunjuk yang mengarahkan kita ke suatu sisi.",
     "level": "N4",
     "scope": "a2",
     "order": 60,
@@ -7922,10 +8314,15 @@ const KANJI_N4_DATA = [
       {
         "word": "方",
         "kana": "ほう",
-        "meaning": "cara",
+        "meaning": "arah; pihak",
         "source": "marugoto-a2-2",
         "page": 5,
-        "number": 334
+        "number": 334,
+        "adaptedFrom": {
+          "word": "方",
+          "kana": "ほう",
+          "meaning": "cara"
+        }
       },
       {
         "word": "地方",
@@ -7934,14 +8331,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 4,
         "number": 248
-      },
-      {
-        "word": "方法",
-        "kana": "ほうほう",
-        "meaning": "cara; metode",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 434
       }
     ],
     "source": {
@@ -8017,7 +8406,12 @@ const KANJI_N4_DATA = [
         "word": "方法",
         "kana": "ほうほう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 70
+    }
   },
   {
     "id": "kanji-8fd1",
@@ -8025,15 +8419,16 @@ const KANJI_N4_DATA = [
     "category": "position",
     "meaning": "dekat",
     "on": [
-      "キン"
+      "キン",
+      "コン"
     ],
     "kun": [
       "ちか.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "near",
+    "strokes": 7,
+    "radical": "辵",
+    "mnemonic": "Bagian jalan di bawah mengingatkan perjalanan pendek ke tempat yang dekat.",
     "level": "N4",
     "scope": "a2",
     "order": 61,
@@ -8085,7 +8480,12 @@ const KANJI_N4_DATA = [
         "word": "最近",
         "kana": "さいきん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-9060",
@@ -8099,10 +8499,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "とお.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "far",
+    "strokes": 13,
+    "radical": "辵",
+    "mnemonic": "Bagian jalan di bawah membentang panjang menuju tempat yang masih jauh.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 62,
@@ -8131,7 +8531,12 @@ const KANJI_N4_DATA = [
         "word": "遠い",
         "kana": "とおい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-5bfe",
@@ -8142,22 +8547,34 @@ const KANJI_N4_DATA = [
       "タイ",
       "ツイ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "あいて",
+      "こた.える",
+      "そろ.い",
+      "つれあ.い",
+      "なら.ぶ",
+      "むか.う"
+    ],
+    "english": "opposite; toward",
+    "strokes": 7,
+    "radical": "寸",
+    "mnemonic": "Bayangkan dua pihak berhadapan, masing-masing menjaga jarak dengan tangannya.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 63,
     "examples": [
       {
-        "word": "〜対〜",
-        "kana": "たい",
-        "meaning": "lawan; berbanding",
+        "word": "一対一",
+        "kana": "いったいいち",
+        "meaning": "satu lawan satu",
         "source": "marugoto-a2-b1",
         "page": 4,
-        "number": 399
+        "number": 399,
+        "adaptedFrom": {
+          "word": "〜対〜",
+          "kana": "たい",
+          "meaning": "lawan; berbanding"
+        }
       }
     ],
     "source": {
@@ -8175,7 +8592,12 @@ const KANJI_N4_DATA = [
         "word": "〜対〜（２対１）",
         "kana": "〜たい〜（にたいいち）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 41
+    }
   },
   {
     "id": "kanji-4e88",
@@ -8183,13 +8605,16 @@ const KANJI_N4_DATA = [
     "category": "time",
     "meaning": "sebelumnya",
     "on": [
-      "ヨ"
+      "ヨ",
+      "シャ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "あらかじ.め"
+    ],
+    "english": "beforehand; previous",
+    "strokes": 4,
+    "radical": "亅",
+    "mnemonic": "Bayangkan penunjuk yang sudah disiapkan sebelum kegiatan dimulai.",
     "level": "N4",
     "scope": "a2",
     "order": 64,
@@ -8242,7 +8667,12 @@ const KANJI_N4_DATA = [
         "word": "予定",
         "kana": "よてい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 6
+    }
   },
   {
     "id": "kanji-5143",
@@ -8256,10 +8686,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "もと"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "origin; former",
+    "strokes": 4,
+    "radical": "儿",
+    "mnemonic": "Dua garis atas menjadi titik awal sebelum dua kaki melangkah.",
     "level": "N4",
     "scope": "a2",
     "order": 65,
@@ -8302,7 +8732,12 @@ const KANJI_N4_DATA = [
         "word": "元気",
         "kana": "げんき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 10
+    }
   },
   {
     "id": "kanji-521d",
@@ -8314,12 +8749,17 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "はじ.め",
-      "はつ"
+      "はつ",
+      "はじ.めて",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "first; beginning",
+    "strokes": 7,
+    "radical": "刀",
+    "mnemonic": "刀 di kanan menjadi gunting yang memotong pita saat awal acara.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 66,
@@ -8348,7 +8788,12 @@ const KANJI_N4_DATA = [
         "word": "初級",
         "kana": "しょきゅう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 18
+    }
   },
   {
     "id": "kanji-5915",
@@ -8361,10 +8806,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "ゆう"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "evening",
+    "strokes": 3,
+    "radical": "夕",
+    "mnemonic": "Bentuknya seperti bulan kecil yang mulai terlihat menjelang malam.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 67,
@@ -8393,7 +8838,12 @@ const KANJI_N4_DATA = [
         "word": "夕食",
         "kana": "ゆうしょく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 36
+    }
   },
   {
     "id": "kanji-591c",
@@ -8407,10 +8857,10 @@ const KANJI_N4_DATA = [
       "よる",
       "よ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "night",
+    "strokes": 8,
+    "radical": "夕",
+    "mnemonic": "Bayangkan orang beristirahat di bawah penutup gelap ketika malam tiba.",
     "level": "N4",
     "scope": "a2",
     "order": 68,
@@ -8453,7 +8903,12 @@ const KANJI_N4_DATA = [
         "word": "夜",
         "kana": "よる"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 36
+    }
   },
   {
     "id": "kanji-59cb",
@@ -8465,12 +8920,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "はじ.まる",
-      "はじ.める"
+      "はじ.める",
+      "-はじ.める"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "begin",
+    "strokes": 8,
+    "radical": "女",
+    "mnemonic": "Bayangkan seseorang di kiri memberi aba-aba agar kegiatan mulai berjalan.",
     "level": "N4",
     "scope": "a2",
     "order": 69,
@@ -8529,7 +8985,12 @@ const KANJI_N4_DATA = [
         "word": "年始",
         "kana": "ねんし"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 38
+    }
   },
   {
     "id": "kanji-5e30",
@@ -8541,12 +9002,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "かえ.る",
-      "かえ.す"
+      "かえ.す",
+      "おく.る",
+      "とつ.ぐ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "return home",
+    "strokes": 10,
+    "radical": "巾",
+    "mnemonic": "Bayangkan orang pulang membawa sapu untuk merapikan rumahnya.",
     "level": "N4",
     "scope": "a2",
     "order": 70,
@@ -8605,7 +9068,12 @@ const KANJI_N4_DATA = [
         "word": "帰国",
         "kana": "きこく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 50
+    }
   },
   {
     "id": "kanji-663c",
@@ -8618,10 +9086,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "ひる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "daytime; noon",
+    "strokes": 9,
+    "radical": "日",
+    "mnemonic": "日 dekat garis dasar mengingatkan matahari yang terang pada siang hari.",
     "level": "N4",
     "scope": "a2",
     "order": 71,
@@ -8680,7 +9148,12 @@ const KANJI_N4_DATA = [
         "word": "昼食",
         "kana": "ちゅうしょく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-66dc",
@@ -8691,10 +9164,10 @@ const KANJI_N4_DATA = [
       "ヨウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "weekday",
+    "strokes": 18,
+    "radical": "日",
+    "mnemonic": "日 di kiri mengingatkan matahari yang muncul setiap hari dalam sepekan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 72,
@@ -8723,7 +9196,12 @@ const KANJI_N4_DATA = [
         "word": "日曜日",
         "kana": "にちようび"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-671d",
@@ -8736,10 +9214,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "あさ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "morning",
+    "strokes": 12,
+    "radical": "月",
+    "mnemonic": "日 dan 月 berdampingan; bayangkan bulan memudar ketika pagi datang.",
     "level": "N4",
     "scope": "a2",
     "order": 73,
@@ -8759,14 +9237,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-1",
         "page": 3,
         "number": 196
-      },
-      {
-        "word": "朝食",
-        "kana": "ちょうしょく",
-        "meaning": "sarapan",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 419
       }
     ],
     "source": {
@@ -8828,7 +9298,12 @@ const KANJI_N4_DATA = [
         "word": "朝食",
         "kana": "ちょうしょく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 74
+    }
   },
   {
     "id": "kanji-672b",
@@ -8840,12 +9315,14 @@ const KANJI_N4_DATA = [
       "バツ"
     ],
     "kun": [
-      "すえ"
+      "すえ",
+      "うら",
+      "うれ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "end; tip",
+    "strokes": 5,
+    "radical": "木",
+    "mnemonic": "Garis atas pada pohon 木 dibuat panjang untuk menandai ujung paling akhir.",
     "level": "N4",
     "scope": "a2",
     "order": 74,
@@ -8911,7 +9388,12 @@ const KANJI_N4_DATA = [
         "word": "年末",
         "kana": "ねんまつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-6b62",
@@ -8923,12 +9405,24 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "と.まる",
-      "と.める"
+      "と.める",
+      "-ど.まり",
+      "-と.める",
+      "-ど.め",
+      "とど.める",
+      "とど.め",
+      "とど.まる",
+      "や.める",
+      "や.む",
+      "-や.む",
+      "よ.す",
+      "-さ.す",
+      "-さ.し"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "stop",
+    "strokes": 4,
+    "radical": "止",
+    "mnemonic": "Bayangkan kaki yang diletakkan tegak sebagai tanda untuk berhenti.",
     "level": "N4",
     "scope": "a2",
     "order": 75,
@@ -8948,14 +9442,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-1",
         "page": 2,
         "number": 129
-      },
-      {
-        "word": "中止します",
-        "kana": "ちゅうしします",
-        "meaning": "menghentikan",
-        "source": "marugoto-a2-2",
-        "page": 4,
-        "number": 289
       }
     ],
     "source": {
@@ -9018,7 +9504,12 @@ const KANJI_N4_DATA = [
         "word": "禁止",
         "kana": "きんし"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 77
+    }
   },
   {
     "id": "kanji-7d42",
@@ -9030,12 +9521,16 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "お.わる",
-      "お.える"
+      "お.える",
+      "-お.わる",
+      "おわ.る",
+      "つい",
+      "つい.に"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "end; finish",
+    "strokes": 11,
+    "radical": "糸",
+    "mnemonic": "糸 bertemu 冬; bayangkan benang kalender berakhir pada musim dingin.",
     "level": "N4",
     "scope": "a2",
     "order": 76,
@@ -9072,7 +9567,12 @@ const KANJI_N4_DATA = [
         "word": "終わります",
         "kana": "おわります"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-53bb",
@@ -9084,12 +9584,13 @@ const KANJI_N4_DATA = [
       "コ"
     ],
     "kun": [
-      "さ.る"
+      "さ.る",
+      "-さ.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "leave; past",
+    "strokes": 5,
+    "radical": "厶",
+    "mnemonic": "Bayangkan seseorang meninggalkan tanah tempatnya berdiri dan terus pergi.",
     "level": "N4",
     "scope": "a2",
     "order": 77,
@@ -9132,7 +9633,12 @@ const KANJI_N4_DATA = [
         "word": "去年",
         "kana": "きょねん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 28
+    }
   },
   {
     "id": "kanji-7d9a",
@@ -9140,16 +9646,20 @@ const KANJI_N4_DATA = [
     "category": "time",
     "meaning": "berlanjut",
     "on": [
-      "ゾク"
+      "ゾク",
+      "ショク",
+      "コウ",
+      "キョウ"
     ],
     "kun": [
       "つづ.く",
-      "つづ.ける"
+      "つづ.ける",
+      "つぐ.ない"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "continue",
+    "strokes": 13,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri menjadi benang panjang yang terus disambung agar tidak terputus.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 78,
@@ -9178,7 +9688,12 @@ const KANJI_N4_DATA = [
         "word": "手続き",
         "kana": "てつづき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-4f8b",
@@ -9191,10 +9706,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "たと.える"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "example",
+    "strokes": 8,
+    "radical": "人",
+    "mnemonic": "Orang di kiri berdiri sebagai contoh yang bisa ditiru orang lain.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 79,
@@ -9223,7 +9738,12 @@ const KANJI_N4_DATA = [
         "word": "例",
         "kana": "れい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-52c9",
@@ -9233,11 +9753,13 @@ const KANJI_N4_DATA = [
     "on": [
       "ベン"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "つと.める"
+    ],
+    "english": "effort; endeavor",
+    "strokes": 10,
+    "radical": "力",
+    "mnemonic": "力 di kanan mengingatkan tenaga yang dipakai untuk terus berusaha belajar.",
     "level": "N4",
     "scope": "a2",
     "order": 80,
@@ -9280,7 +9802,12 @@ const KANJI_N4_DATA = [
         "word": "勉強",
         "kana": "べんきょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 19
+    }
   },
   {
     "id": "kanji-5316",
@@ -9292,12 +9819,15 @@ const KANJI_N4_DATA = [
       "ケ"
     ],
     "kun": [
-      "ば.ける"
+      "ば.ける",
+      "ば.かす",
+      "ふ.ける",
+      "け.する"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "change; transform",
+    "strokes": 4,
+    "radical": "匕",
+    "mnemonic": "Bayangkan dua sosok menghadap arah berbeda untuk menunjukkan perubahan.",
     "level": "N4",
     "scope": "a2",
     "order": 81,
@@ -9340,7 +9870,12 @@ const KANJI_N4_DATA = [
         "word": "文化",
         "kana": "ぶんか"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 21
+    }
   },
   {
     "id": "kanji-5352",
@@ -9348,13 +9883,20 @@ const KANJI_N4_DATA = [
     "category": "learning",
     "meaning": "lulus; selesai",
     "on": [
-      "ソツ"
+      "ソツ",
+      "シュツ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "english": "graduate; finish",
+    "strokes": 8,
+    "radical": "十",
+    "mnemonic": "Bayangkan orang-orang berkumpul di atas 十 untuk merayakan kelulusan.",
     "level": "N4",
     "scope": "a2",
     "order": 82,
@@ -9391,7 +9933,12 @@ const KANJI_N4_DATA = [
         "word": "卒業",
         "kana": "そつぎょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 24
+    }
   },
   {
     "id": "kanji-535a",
@@ -9399,13 +9946,14 @@ const KANJI_N4_DATA = [
     "category": "learning",
     "meaning": "luas pengetahuan",
     "on": [
-      "ハク"
+      "ハク",
+      "バク"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "broad knowledge; doctor",
+    "strokes": 12,
+    "radical": "十",
+    "mnemonic": "Bayangkan meja luas yang penuh catatan milik orang berpengetahuan luas.",
     "level": "N4",
     "scope": "a2",
     "order": 83,
@@ -9442,7 +9990,12 @@ const KANJI_N4_DATA = [
         "word": "博物館",
         "kana": "はくぶつかん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 24
+    }
   },
   {
     "id": "kanji-53f2",
@@ -9453,10 +10006,10 @@ const KANJI_N4_DATA = [
       "シ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "history",
+    "strokes": 5,
+    "radical": "口",
+    "mnemonic": "Bayangkan tangan memegang catatan tentang kejadian yang sudah berlalu.",
     "level": "N4",
     "scope": "a2",
     "order": 84,
@@ -9515,7 +10068,12 @@ const KANJI_N4_DATA = [
         "word": "歴史的",
         "kana": "れきしてき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-554f",
@@ -9527,12 +10085,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "と.う",
-      "と.い"
+      "と.い",
+      "とん"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "question; ask",
+    "strokes": 11,
+    "radical": "口",
+    "mnemonic": "口 di dalam 門 seperti orang mengetuk pintu untuk bertanya.",
     "level": "N4",
     "scope": "a2",
     "order": 85,
@@ -9552,14 +10111,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-b1",
         "page": 5,
         "number": 425
-      },
-      {
-        "word": "質問",
-        "kana": "しつもん",
-        "meaning": "pertanyaan",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 485
       }
     ],
     "source": {
@@ -9600,7 +10151,12 @@ const KANJI_N4_DATA = [
         "word": "質問",
         "kana": "しつもん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-5b57",
@@ -9611,12 +10167,14 @@ const KANJI_N4_DATA = [
       "ジ"
     ],
     "kun": [
-      "あざ"
+      "あざ",
+      "あざな",
+      "-な"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "character; letter",
+    "strokes": 6,
+    "radical": "子",
+    "mnemonic": "子 berada di bawah atap; bayangkan anak belajar menulis huruf di rumah.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 86,
@@ -9645,7 +10203,12 @@ const KANJI_N4_DATA = [
         "word": "漢字",
         "kana": "かんじ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 39
+    }
   },
   {
     "id": "kanji-5f0f",
@@ -9656,21 +10219,26 @@ const KANJI_N4_DATA = [
       "シキ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "style; ceremony; formula",
+    "strokes": 6,
+    "radical": "弋",
+    "mnemonic": "Bayangkan alat ukur berbentuk 工 yang digunakan mengikuti tata cara tertentu.",
     "level": "N4",
     "scope": "a2",
     "order": 87,
     "examples": [
       {
-        "word": "〜式",
-        "kana": "しき",
-        "meaning": "upacara",
+        "word": "結婚式",
+        "kana": "けっこんしき",
+        "meaning": "upacara pernikahan",
         "source": "marugoto-a2-2",
         "page": 4,
-        "number": 314
+        "number": 314,
+        "adaptedFrom": {
+          "word": "〜式",
+          "kana": "しき",
+          "meaning": "upacara"
+        }
       }
     ],
     "source": {
@@ -9695,7 +10263,12 @@ const KANJI_N4_DATA = [
         "word": "〜式（成人式）",
         "kana": "〜しき（せいじんしき）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 56
+    }
   },
   {
     "id": "kanji-5f62",
@@ -9708,12 +10281,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "かたち",
-      "かた"
+      "かた",
+      "-がた",
+      "なり"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "shape; form",
+    "strokes": 7,
+    "radical": "彡",
+    "mnemonic": "Tiga garis di kanan seperti bayangan yang menampilkan bentuk suatu benda.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 88,
@@ -9742,7 +10317,12 @@ const KANJI_N4_DATA = [
         "word": "形",
         "kana": "かたち"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 59
+    }
   },
   {
     "id": "kanji-6559",
@@ -9756,10 +10336,10 @@ const KANJI_N4_DATA = [
       "おし.える",
       "おそ.わる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "teach",
+    "strokes": 11,
+    "radical": "攴",
+    "mnemonic": "Bayangkan anak 子 menerima arahan dari tangan guru di sebelah kanan.",
     "level": "N4",
     "scope": "a2",
     "order": 89,
@@ -9819,7 +10399,12 @@ const KANJI_N4_DATA = [
         "word": "仏教",
         "kana": "ぶっきょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 66
+    }
   },
   {
     "id": "kanji-6587",
@@ -9831,12 +10416,13 @@ const KANJI_N4_DATA = [
       "モン"
     ],
     "kun": [
-      "ふみ"
+      "ふみ",
+      "あや"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "writing; sentence",
+    "strokes": 4,
+    "radical": "文",
+    "mnemonic": "Garis-garis bersilang seperti coretan yang disusun menjadi sebuah tulisan.",
     "level": "N4",
     "scope": "a2",
     "order": 90,
@@ -9856,14 +10442,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-1",
         "page": 2,
         "number": 147
-      },
-      {
-        "word": "注文",
-        "kana": "ちゅうもん",
-        "meaning": "pesanan",
-        "source": "marugoto-a2-2",
-        "page": 4,
-        "number": 244
       }
     ],
     "source": {
@@ -9933,7 +10511,12 @@ const KANJI_N4_DATA = [
         "word": "文法",
         "kana": "ぶんぽう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 67
+    }
   },
   {
     "id": "kanji-6f22",
@@ -9944,10 +10527,10 @@ const KANJI_N4_DATA = [
       "カン"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "Chinese; Han characters",
+    "strokes": 13,
+    "radical": "水",
+    "mnemonic": "Air di kiri mengingatkan aliran tinta untuk menulis aksara Han.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 91,
@@ -9976,7 +10559,12 @@ const KANJI_N4_DATA = [
         "word": "漢字",
         "kana": "かんじ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-77e5",
@@ -9987,12 +10575,13 @@ const KANJI_N4_DATA = [
       "チ"
     ],
     "kun": [
-      "し.る"
+      "し.る",
+      "し.らせる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "know",
+    "strokes": 8,
+    "radical": "矢",
+    "mnemonic": "矢 dan 口 mengingatkan jawaban yang keluar tepat sasaran karena sudah tahu.",
     "level": "N4",
     "scope": "a2",
     "order": 92,
@@ -10029,7 +10618,12 @@ const KANJI_N4_DATA = [
         "word": "知ります",
         "kana": "しります"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 111
+    }
   },
   {
     "id": "kanji-7b54",
@@ -10043,10 +10637,10 @@ const KANJI_N4_DATA = [
       "こた.える",
       "こた.え"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "answer; reply",
+    "strokes": 12,
+    "radical": "竹",
+    "mnemonic": "竹 di atas seperti alat tulis; 合 di bawah mengingatkan jawaban yang cocok.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 93,
@@ -10075,7 +10669,12 @@ const KANJI_N4_DATA = [
         "word": "答え",
         "kana": "こたえ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 118
+    }
   },
   {
     "id": "kanji-7d19",
@@ -10088,10 +10687,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "かみ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "paper",
+    "strokes": 10,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri menjadi serat yang diratakan menjadi lembar kertas.",
     "level": "N4",
     "scope": "a2",
     "order": 94,
@@ -10128,7 +10727,12 @@ const KANJI_N4_DATA = [
         "word": "紙",
         "kana": "かみ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-7d1a",
@@ -10139,10 +10743,10 @@ const KANJI_N4_DATA = [
       "キュウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "class; rank",
+    "strokes": 9,
+    "radical": "糸",
+    "mnemonic": "糸 menjadi tali yang menghubungkan anak-anak tangga tingkat kelas.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 95,
@@ -10162,14 +10766,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-b1",
         "page": 5,
         "number": 442
-      },
-      {
-        "word": "上級",
-        "kana": "じょうきゅう",
-        "meaning": "tingkat mahir",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 443
       }
     ],
     "source": {
@@ -10208,7 +10804,12 @@ const KANJI_N4_DATA = [
         "word": "上級",
         "kana": "じょうきゅう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-7d39",
@@ -10219,10 +10820,10 @@ const KANJI_N4_DATA = [
       "ショウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "introduce; connect",
+    "strokes": 11,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri menyambungkan orang baru melalui sebuah perkenalan.",
     "level": "N4",
     "scope": "a2",
     "order": 96,
@@ -10258,7 +10859,12 @@ const KANJI_N4_DATA = [
         "word": "自己紹介",
         "kana": "じこしょうかい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-7df4",
@@ -10269,12 +10875,13 @@ const KANJI_N4_DATA = [
       "レン"
     ],
     "kun": [
-      "ね.る"
+      "ね.る",
+      "ね.り"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "practice; refine",
+    "strokes": 14,
+    "radical": "糸",
+    "mnemonic": "糸 menjadi benang yang terus dirapikan berulang kali seperti latihan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 97,
@@ -10303,7 +10910,12 @@ const KANJI_N4_DATA = [
         "word": "練習",
         "kana": "れんしゅう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-7fd2",
@@ -10311,15 +10923,17 @@ const KANJI_N4_DATA = [
     "category": "learning",
     "meaning": "belajar; berlatih",
     "on": [
-      "シュウ"
+      "シュウ",
+      "ジュ"
     ],
     "kun": [
-      "なら.う"
+      "なら.う",
+      "なら.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "learn; practice",
+    "strokes": 11,
+    "radical": "羽",
+    "mnemonic": "羽 di atas mengingatkan sayap yang dilatih berulang sebelum bisa terbang.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 98,
@@ -10363,7 +10977,12 @@ const KANJI_N4_DATA = [
         "word": "練習",
         "kana": "れんしゅう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 124
+    }
   },
   {
     "id": "kanji-8003",
@@ -10374,12 +10993,13 @@ const KANJI_N4_DATA = [
       "コウ"
     ],
     "kun": [
-      "かんが.える"
+      "かんが.える",
+      "かんが.え"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "think; consider",
+    "strokes": 6,
+    "radical": "老",
+    "mnemonic": "Bayangkan orang menunduk sambil memikirkan langkah berikutnya dengan saksama.",
     "level": "N4",
     "scope": "a2",
     "order": 99,
@@ -10416,7 +11036,12 @@ const KANJI_N4_DATA = [
         "word": "考えます",
         "kana": "かんがえます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 125
+    }
   },
   {
     "id": "kanji-89b3",
@@ -10426,11 +11051,14 @@ const KANJI_N4_DATA = [
     "on": [
       "カン"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "み.る",
+      "しめ.す"
+    ],
+    "english": "view; observe",
+    "strokes": 18,
+    "radical": "見",
+    "mnemonic": "見 di kanan mengingatkan mata yang mengamati pemandangan dengan teliti.",
     "level": "N4",
     "scope": "a2",
     "order": 100,
@@ -10442,14 +11070,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 4,
         "number": 271
-      },
-      {
-        "word": "～観",
-        "kana": "かん",
-        "meaning": "pandangan",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 430
       }
     ],
     "source": {
@@ -10483,7 +11103,12 @@ const KANJI_N4_DATA = [
         "word": "～観（人生観）",
         "kana": "～かん（じんせいかん）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 147
+    }
   },
   {
     "id": "kanji-89e3",
@@ -10496,12 +11121,17 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "と.く",
-      "と.ける"
+      "と.ける",
+      "と.かす",
+      "ほど.く",
+      "ほぐ.す",
+      "わか.る",
+      "さと.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "untie; solve; understand",
+    "strokes": 13,
+    "radical": "角",
+    "mnemonic": "角 dan 刀 di kiri seperti alat untuk membuka simpul masalah.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 101,
@@ -10530,7 +11160,12 @@ const KANJI_N4_DATA = [
         "word": "読解",
         "kana": "どっかい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 148
+    }
   },
   {
     "id": "kanji-8a08",
@@ -10541,12 +11176,13 @@ const KANJI_N4_DATA = [
       "ケイ"
     ],
     "kun": [
-      "はか.る"
+      "はか.る",
+      "はか.らう"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "calculate; plan",
+    "strokes": 9,
+    "radical": "言",
+    "mnemonic": "言 dan 十 mengingatkan angka yang disebut sambil menghitung dan menyusun rencana.",
     "level": "N4",
     "scope": "a2",
     "order": 102,
@@ -10605,7 +11241,12 @@ const KANJI_N4_DATA = [
         "word": "計画",
         "kana": "けいかく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-8a66",
@@ -10619,10 +11260,10 @@ const KANJI_N4_DATA = [
       "ため.す",
       "こころ.みる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "try; test",
+    "strokes": 13,
+    "radical": "言",
+    "mnemonic": "言 di kiri mengingatkan pertanyaan yang dicoba dijawab dalam ujian.",
     "level": "N4",
     "scope": "a2",
     "order": 103,
@@ -10673,7 +11314,12 @@ const KANJI_N4_DATA = [
         "word": "試合",
         "kana": "しあい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-8aac",
@@ -10687,10 +11333,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "と.く"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "explain; theory",
+    "strokes": 14,
+    "radical": "言",
+    "mnemonic": "言 di kiri menjadi kata-kata untuk menjelaskan sesuatu sampai orang memahami.",
     "level": "N4",
     "scope": "a2",
     "order": 104,
@@ -10727,7 +11373,12 @@ const KANJI_N4_DATA = [
         "word": "説明",
         "kana": "せつめい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-8abf",
@@ -10739,12 +11390,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "しら.べる",
-      "ととの.える"
+      "ととの.える",
+      "しら.べ",
+      "ととの.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "investigate; tune",
+    "strokes": 15,
+    "radical": "言",
+    "mnemonic": "言 di kiri mengingatkan bertanya dan memeriksa keadaan sebelum menyesuaikannya.",
     "level": "N4",
     "scope": "a2",
     "order": 105,
@@ -10781,7 +11434,12 @@ const KANJI_N4_DATA = [
         "word": "調子",
         "kana": "ちょうし"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-8ac7",
@@ -10792,10 +11450,10 @@ const KANJI_N4_DATA = [
       "ダン"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "talk; discuss",
+    "strokes": 15,
+    "radical": "言",
+    "mnemonic": "言 berdampingan dengan dua 火; bayangkan percakapan hangat di dekat api.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 106,
@@ -10824,7 +11482,12 @@ const KANJI_N4_DATA = [
         "word": "相談",
         "kana": "そうだん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-8b70",
@@ -10835,10 +11498,10 @@ const KANJI_N4_DATA = [
       "ギ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "discuss; deliberate",
+    "strokes": 20,
+    "radical": "言",
+    "mnemonic": "言 di kiri mengingatkan banyak pendapat yang dibahas dalam musyawarah.",
     "level": "N4",
     "scope": "a2",
     "order": 107,
@@ -10875,7 +11538,12 @@ const KANJI_N4_DATA = [
         "word": "会議室",
         "kana": "かいぎしつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-8cea",
@@ -10884,13 +11552,19 @@ const KANJI_N4_DATA = [
     "meaning": "kualitas; sifat",
     "on": [
       "シツ",
-      "シチ"
+      "シチ",
+      "チ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "たち",
+      "ただ.す",
+      "もと",
+      "わりふ"
+    ],
+    "english": "quality; nature",
+    "strokes": 15,
+    "radical": "貝",
+    "mnemonic": "貝 di bawah mengingatkan barang berharga yang perlu diperiksa kualitasnya.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 108,
@@ -10919,7 +11593,12 @@ const KANJI_N4_DATA = [
         "word": "質問",
         "kana": "しつもん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 154
+    }
   },
   {
     "id": "kanji-984c",
@@ -10930,10 +11609,10 @@ const KANJI_N4_DATA = [
       "ダイ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "topic; title; question",
+    "strokes": 18,
+    "radical": "頁",
+    "mnemonic": "頁 di kanan menjadi halaman yang diberi judul atau topik pembahasan.",
     "level": "N4",
     "scope": "a2",
     "order": 109,
@@ -10970,7 +11649,12 @@ const KANJI_N4_DATA = [
         "word": "問題",
         "kana": "もんだい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 181
+    }
   },
   {
     "id": "kanji-9a13",
@@ -10981,11 +11665,16 @@ const KANJI_N4_DATA = [
       "ケン",
       "ゲン"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "あかし",
+      "しるし",
+      "ため.す",
+      "ためし"
+    ],
+    "english": "test; experience",
+    "strokes": 18,
+    "radical": "馬",
+    "mnemonic": "馬 di kiri mengingatkan perjalanan yang memberi pengalaman dan menguji kemampuan.",
     "level": "N4",
     "scope": "a2",
     "order": 110,
@@ -11037,7 +11726,12 @@ const KANJI_N4_DATA = [
         "word": "経験",
         "kana": "けいけん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 187
+    }
   },
   {
     "id": "kanji-4e57",
@@ -11045,16 +11739,18 @@ const KANJI_N4_DATA = [
     "category": "places",
     "meaning": "naik kendaraan",
     "on": [
-      "ジョウ"
+      "ジョウ",
+      "ショウ"
     ],
     "kun": [
       "の.る",
-      "の.せる"
+      "の.せる",
+      "-の.り"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "ride; board",
+    "strokes": 9,
+    "radical": "丿",
+    "mnemonic": "Bayangkan seseorang duduk di atas kendaraan dengan kaki di kedua sisi.",
     "level": "N4",
     "scope": "a2",
     "order": 111,
@@ -11097,7 +11793,12 @@ const KANJI_N4_DATA = [
         "word": "乗ります",
         "kana": "のります"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 4
+    }
   },
   {
     "id": "kanji-4eac",
@@ -11106,13 +11807,16 @@ const KANJI_N4_DATA = [
     "meaning": "ibu kota",
     "on": [
       "キョウ",
-      "ケイ"
+      "ケイ",
+      "キン"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "みやこ"
+    ],
+    "english": "capital city",
+    "strokes": 8,
+    "radical": "亠",
+    "mnemonic": "Bentuknya seperti bangunan tinggi yang menjadi pusat sebuah ibu kota.",
     "level": "N4",
     "scope": "a2",
     "order": 112,
@@ -11179,7 +11883,12 @@ const KANJI_N4_DATA = [
         "word": "京都",
         "kana": "きょうと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 8
+    }
   },
   {
     "id": "kanji-4f4f",
@@ -11187,15 +11896,19 @@ const KANJI_N4_DATA = [
     "category": "places",
     "meaning": "tinggal",
     "on": [
-      "ジュウ"
+      "ジュウ",
+      "ヂュウ",
+      "チュウ"
     ],
     "kun": [
-      "す.む"
+      "す.む",
+      "す.まう",
+      "-ず.まい"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "reside; live",
+    "strokes": 7,
+    "radical": "人",
+    "mnemonic": "Orang di kiri berdiri di dekat 主; bayangkan penghuni utama sebuah rumah.",
     "level": "N4",
     "scope": "a2",
     "order": 113,
@@ -11247,7 +11960,12 @@ const KANJI_N4_DATA = [
         "word": "住所",
         "kana": "じゅうしょ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-516c",
@@ -11255,15 +11973,16 @@ const KANJI_N4_DATA = [
     "category": "places",
     "meaning": "umum; publik",
     "on": [
-      "コウ"
+      "コウ",
+      "ク"
     ],
     "kun": [
       "おおやけ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "public; official",
+    "strokes": 4,
+    "radical": "八",
+    "mnemonic": "Bagian atas terbuka ke dua arah seperti tempat yang bisa dipakai umum.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 114,
@@ -11292,7 +12011,12 @@ const KANJI_N4_DATA = [
         "word": "公園",
         "kana": "こうえん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 12
+    }
   },
   {
     "id": "kanji-5712",
@@ -11305,10 +12029,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "その"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "garden; park",
+    "strokes": 13,
+    "radical": "囗",
+    "mnemonic": "Bingkai besar 囗 menjadi pagar yang mengelilingi taman.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 115,
@@ -11337,7 +12061,12 @@ const KANJI_N4_DATA = [
         "word": "公園",
         "kana": "こうえん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 31
+    }
   },
   {
     "id": "kanji-5730",
@@ -11349,10 +12078,10 @@ const KANJI_N4_DATA = [
       "ジ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "ground; land",
+    "strokes": 6,
+    "radical": "土",
+    "mnemonic": "土 di kiri mengingatkan tanah tempat kita berdiri.",
     "level": "N4",
     "scope": "a2",
     "order": 116,
@@ -11411,7 +12140,12 @@ const KANJI_N4_DATA = [
         "word": "観光地",
         "kana": "かんこうち"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 32
+    }
   },
   {
     "id": "kanji-5834",
@@ -11419,15 +12153,16 @@ const KANJI_N4_DATA = [
     "category": "places",
     "meaning": "tempat",
     "on": [
-      "ジョウ"
+      "ジョウ",
+      "チョウ"
     ],
     "kun": [
       "ば"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "place; area",
+    "strokes": 12,
+    "radical": "土",
+    "mnemonic": "土 di kiri menjadi lahan yang disiapkan untuk suatu kegiatan.",
     "level": "N4",
     "scope": "a2",
     "order": 117,
@@ -11447,14 +12182,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 4,
         "number": 283
-      },
-      {
-        "word": "会場",
-        "kana": "かいじょう",
-        "meaning": "tempat acara",
-        "source": "marugoto-a2-2",
-        "page": 4,
-        "number": 293
       }
     ],
     "source": {
@@ -11545,7 +12272,12 @@ const KANJI_N4_DATA = [
         "word": "職場",
         "kana": "しょくば"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 32
+    }
   },
   {
     "id": "kanji-5ba2",
@@ -11557,10 +12289,10 @@ const KANJI_N4_DATA = [
       "カク"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "guest; customer",
+    "strokes": 9,
+    "radical": "宀",
+    "mnemonic": "Atap di atas menjadi tempat berlindung bagi tamu yang datang berkunjung.",
     "level": "N4",
     "scope": "a2",
     "order": 118,
@@ -11613,7 +12345,12 @@ const KANJI_N4_DATA = [
         "word": "お客様",
         "kana": "おきゃくさま"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 40
+    }
   },
   {
     "id": "kanji-5ba4",
@@ -11626,10 +12363,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "むろ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "room",
+    "strokes": 9,
+    "radical": "宀",
+    "mnemonic": "Atap di atas dan dasar di bawah membentuk bayangan sebuah ruangan.",
     "level": "N4",
     "scope": "a2",
     "order": 119,
@@ -11666,7 +12403,12 @@ const KANJI_N4_DATA = [
         "word": "会議室",
         "kana": "かいぎしつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 40
+    }
   },
   {
     "id": "kanji-5bfa",
@@ -11679,10 +12421,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "てら"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "Buddhist temple",
+    "strokes": 6,
+    "radical": "寸",
+    "mnemonic": "Bayangkan bangunan di atas tanah yang tenang sebagai sebuah kuil Buddha.",
     "level": "N4",
     "scope": "a2",
     "order": 120,
@@ -11719,7 +12461,12 @@ const KANJI_N4_DATA = [
         "word": "お寺",
         "kana": "おてら"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 41
+    }
   },
   {
     "id": "kanji-5c4b",
@@ -11732,10 +12479,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "や"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "house; shop; roof",
+    "strokes": 9,
+    "radical": "尸",
+    "mnemonic": "Bagian atas seperti atap yang menutupi sebuah rumah atau toko.",
     "level": "N4",
     "scope": "a2",
     "order": 121,
@@ -11771,7 +12518,12 @@ const KANJI_N4_DATA = [
         "word": "本屋",
         "kana": "ほんや"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 44
+    }
   },
   {
     "id": "kanji-5e02",
@@ -11784,21 +12536,26 @@ const KANJI_N4_DATA = [
     "kun": [
       "いち"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "city; market",
+    "strokes": 5,
+    "radical": "巾",
+    "mnemonic": "Bayangkan sebuah papan di atas kios-kios pasar yang ramai di kota.",
     "level": "N4",
     "scope": "a2",
     "order": 122,
     "examples": [
       {
-        "word": "〜市",
-        "kana": "し",
-        "meaning": "kota",
+        "word": "京都市",
+        "kana": "きょうとし",
+        "meaning": "Kota Kyoto",
         "source": "marugoto-a2-2",
         "page": 4,
-        "number": 315
+        "number": 315,
+        "adaptedFrom": {
+          "word": "〜市",
+          "kana": "し",
+          "meaning": "kota"
+        }
       }
     ],
     "source": {
@@ -11823,7 +12580,12 @@ const KANJI_N4_DATA = [
         "word": "〜市（さいたま市）",
         "kana": "〜し"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 50
+    }
   },
   {
     "id": "kanji-5e2d",
@@ -11833,11 +12595,13 @@ const KANJI_N4_DATA = [
     "on": [
       "セキ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "むしろ"
+    ],
+    "english": "seat; place",
+    "strokes": 10,
+    "radical": "巾",
+    "mnemonic": "Atap lebar menaungi kain 巾 yang dibentangkan sebagai tempat duduk.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 123,
@@ -11866,7 +12630,12 @@ const KANJI_N4_DATA = [
         "word": "出席",
         "kana": "しゅっせき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 50
+    }
   },
   {
     "id": "kanji-5ea7",
@@ -11879,10 +12648,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "すわ.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "sit; seat",
+    "strokes": 10,
+    "radical": "广",
+    "mnemonic": "Dua 人 berada di atas 土 di bawah atap, seperti orang duduk berdampingan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 124,
@@ -11911,7 +12680,12 @@ const KANJI_N4_DATA = [
         "word": "座る",
         "kana": "すわる"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 53
+    }
   },
   {
     "id": "kanji-5ead",
@@ -11924,10 +12698,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "にわ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "garden; courtyard",
+    "strokes": 10,
+    "radical": "广",
+    "mnemonic": "Atap lebar mengingatkan sisi rumah yang menghadap halaman.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 125,
@@ -11972,7 +12746,12 @@ const KANJI_N4_DATA = [
         "word": "家庭料理",
         "kana": "かていりょうり"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 53
+    }
   },
   {
     "id": "kanji-65c5",
@@ -11985,10 +12764,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "たび"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "travel; trip",
+    "strokes": 10,
+    "radical": "方",
+    "mnemonic": "Bayangkan orang membawa bekal sambil berjalan mengikuti sebuah bendera perjalanan.",
     "level": "N4",
     "scope": "a2",
     "order": 126,
@@ -12055,7 +12834,12 @@ const KANJI_N4_DATA = [
         "word": "旅行中",
         "kana": "りょこうちゅう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 70
+    }
   },
   {
     "id": "kanji-6a5f",
@@ -12068,10 +12852,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "はた"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "machine; opportunity",
+    "strokes": 16,
+    "radical": "木",
+    "mnemonic": "木 di kiri menjadi rangka mesin dengan banyak bagian kecil di kanan.",
     "level": "N4",
     "scope": "a2",
     "order": 127,
@@ -12091,14 +12875,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-b1",
         "page": 5,
         "number": 465
-      },
-      {
-        "word": "〜機",
-        "kana": "き",
-        "meaning": "satuan untuk pesawat atau mesin",
-        "source": "marugoto-a2-2",
-        "page": 4,
-        "number": 319
       }
     ],
     "source": {
@@ -12145,7 +12921,12 @@ const KANJI_N4_DATA = [
         "word": "飛行機",
         "kana": "ひこうき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-6b69",
@@ -12161,10 +12942,10 @@ const KANJI_N4_DATA = [
       "ある.く",
       "あゆ.む"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "walk; steps",
+    "strokes": 8,
+    "radical": "止",
+    "mnemonic": "止 di atas mengingatkan kaki yang bergerak sedikit demi sedikit saat berjalan.",
     "level": "N4",
     "scope": "a2",
     "order": 128,
@@ -12207,7 +12988,12 @@ const KANJI_N4_DATA = [
         "word": "歩きます",
         "kana": "あるきます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 77
+    }
   },
   {
     "id": "kanji-753a",
@@ -12220,10 +13006,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "まち"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "town; neighborhood",
+    "strokes": 7,
+    "radical": "田",
+    "mnemonic": "田 di kiri menjadi petak-petak tempat tinggal dalam sebuah kota kecil.",
     "level": "N4",
     "scope": "a2",
     "order": 129,
@@ -12266,7 +13052,12 @@ const KANJI_N4_DATA = [
         "word": "町",
         "kana": "まち"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 102
+    }
   },
   {
     "id": "kanji-754c",
@@ -12277,10 +13068,10 @@ const KANJI_N4_DATA = [
       "カイ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "world; boundary",
+    "strokes": 9,
+    "radical": "田",
+    "mnemonic": "田 di atas dibagi menjadi wilayah-wilayah yang mempunyai batas.",
     "level": "N4",
     "scope": "a2",
     "order": 130,
@@ -12317,7 +13108,12 @@ const KANJI_N4_DATA = [
         "word": "世界",
         "kana": "せかい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 102
+    }
   },
   {
     "id": "kanji-7559",
@@ -12330,12 +13126,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "と.める",
-      "と.まる"
+      "と.まる",
+      "とど.める",
+      "とど.まる",
+      "るうぶる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "stay; hold",
+    "strokes": 10,
+    "radical": "田",
+    "mnemonic": "Bayangkan sesuatu ditahan di atas petak 田 agar tetap tinggal di sana.",
     "level": "N4",
     "scope": "a2",
     "order": 131,
@@ -12378,7 +13177,12 @@ const KANJI_N4_DATA = [
         "word": "留学",
         "kana": "りゅうがく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 102
+    }
   },
   {
     "id": "kanji-767a",
@@ -12389,11 +13193,17 @@ const KANJI_N4_DATA = [
       "ハツ",
       "ホツ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "た.つ",
+      "あば.く",
+      "おこ.る",
+      "つか.わす",
+      "はな.つ"
+    ],
+    "english": "depart; emit",
+    "strokes": 9,
+    "radical": "癶",
+    "mnemonic": "Bagian atas seperti kaki yang siap melangkah saat perjalanan dimulai.",
     "level": "N4",
     "scope": "a2",
     "order": 132,
@@ -12437,7 +13247,12 @@ const KANJI_N4_DATA = [
         "word": "出発",
         "kana": "しゅっぱつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 105
+    }
   },
   {
     "id": "kanji-822a",
@@ -12448,21 +13263,26 @@ const KANJI_N4_DATA = [
       "コウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "navigate; sail",
+    "strokes": 10,
+    "radical": "舟",
+    "mnemonic": "舟 di kiri adalah kapal yang sedang melakukan pelayaran.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 133,
     "examples": [
       {
-        "word": "～航空",
+        "word": "航空",
         "kana": "こうくう",
         "meaning": "penerbangan",
         "source": "marugoto-a2-b1",
         "page": 5,
-        "number": 471
+        "number": 471,
+        "adaptedFrom": {
+          "word": "～航空",
+          "kana": "こうくう",
+          "meaning": "penerbangan"
+        }
       }
     ],
     "source": {
@@ -12480,7 +13300,12 @@ const KANJI_N4_DATA = [
         "word": "～航空（JF航空）",
         "kana": "～こうくう（JFこうくう）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 137
+    }
   },
   {
     "id": "kanji-8239",
@@ -12492,12 +13317,12 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "ふね",
-      "ふな"
+      "ふな-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "ship; boat",
+    "strokes": 11,
+    "radical": "舟",
+    "mnemonic": "舟 di kiri mengingatkan perahu; bayangkan penumpang berdiri di sisi kanan.",
     "level": "N4",
     "scope": "a2",
     "order": 134,
@@ -12534,7 +13359,12 @@ const KANJI_N4_DATA = [
         "word": "船",
         "kana": "ふね"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 137
+    }
   },
   {
     "id": "kanji-8ee2",
@@ -12546,12 +13376,18 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "ころ.ぶ",
-      "ころ.がる"
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.がす",
+      "まろ.ぶ",
+      "うたた",
+      "うつ.る",
+      "くる.めく"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "turn; change",
+    "strokes": 11,
+    "radical": "車",
+    "mnemonic": "車 di kiri menjadi roda kendaraan yang terus berputar.",
     "level": "N4",
     "scope": "a2",
     "order": 135,
@@ -12611,7 +13447,12 @@ const KANJI_N4_DATA = [
         "word": "自転車",
         "kana": "じてんしゃ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 159
+    }
   },
   {
     "id": "kanji-8f38",
@@ -12619,13 +13460,14 @@ const KANJI_N4_DATA = [
     "category": "places",
     "meaning": "mengangkut; ekspor-impor",
     "on": [
-      "ユ"
+      "ユ",
+      "シュ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "transport; export; import",
+    "strokes": 16,
+    "radical": "車",
+    "mnemonic": "車 di kiri menjadi kendaraan pengangkut barang dari satu tempat ke tempat lain.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 136,
@@ -12669,7 +13511,12 @@ const KANJI_N4_DATA = [
         "word": "輸入",
         "kana": "ゆにゅう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 159
+    }
   },
   {
     "id": "kanji-8fd4",
@@ -12681,12 +13528,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "かえ.す",
-      "かえ.る"
+      "かえ.る",
+      "-かえ.す",
+      "-かえ.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "return; give back",
+    "strokes": 7,
+    "radical": "辵",
+    "mnemonic": "Jalan di bawah membawa sebuah barang kembali kepada pemiliknya.",
     "level": "N4",
     "scope": "a2",
     "order": 137,
@@ -12723,7 +13572,12 @@ const KANJI_N4_DATA = [
         "word": "返します",
         "kana": "かえします"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-9001",
@@ -12736,10 +13590,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "おく.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "send; escort",
+    "strokes": 9,
+    "radical": "辵",
+    "mnemonic": "Jalan di bawah menjadi jalur pengiriman paket atau perjalanan mengantar teman.",
     "level": "N4",
     "scope": "a2",
     "order": 138,
@@ -12783,7 +13637,12 @@ const KANJI_N4_DATA = [
         "word": "送ります",
         "kana": "おくります"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-901a",
@@ -12796,12 +13655,18 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "とお.る",
-      "かよ.う"
+      "かよ.う",
+      "とお.り",
+      "-とお.り",
+      "-どお.り",
+      "とお.す",
+      "とお.し",
+      "-どお.し"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "pass through; communicate",
+    "strokes": 10,
+    "radical": "辵",
+    "mnemonic": "Jalan di bawah mengingatkan jalur yang bisa dilewati dan menghubungkan tempat.",
     "level": "N4",
     "scope": "a2",
     "order": 139,
@@ -12821,14 +13686,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-b1",
         "page": 5,
         "number": 403
-      },
-      {
-        "word": "通勤",
-        "kana": "つうきん",
-        "meaning": "perjalanan ke tempat kerja",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 404
       }
     ],
     "source": {
@@ -12882,7 +13739,12 @@ const KANJI_N4_DATA = [
         "word": "通じる",
         "kana": "つうじる"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-9023",
@@ -12894,12 +13756,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "つ.れる",
-      "つら.なる"
+      "つら.なる",
+      "つら.ねる",
+      "-づ.れ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "connect; take along",
+    "strokes": 10,
+    "radical": "辵",
+    "mnemonic": "車 di atas jalan seperti kendaraan yang membawa orang-orang bersama.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 140,
@@ -12928,7 +13792,12 @@ const KANJI_N4_DATA = [
         "word": "連絡",
         "kana": "れんらく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-904b",
@@ -12941,10 +13810,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "はこ.ぶ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "carry; luck",
+    "strokes": 12,
+    "radical": "辵",
+    "mnemonic": "Jalan dan kendaraan mengingatkan barang yang dibawa menuju tujuannya.",
     "level": "N4",
     "scope": "a2",
     "order": 141,
@@ -12981,7 +13850,12 @@ const KANJI_N4_DATA = [
         "word": "運転します",
         "kana": "うんてんします"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-90e8",
@@ -12991,11 +13865,13 @@ const KANJI_N4_DATA = [
     "on": [
       "ブ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "-べ"
+    ],
+    "english": "section; department",
+    "strokes": 11,
+    "radical": "邑",
+    "mnemonic": "Bagian kanan seperti penanda wilayah untuk satu bagian dari organisasi.",
     "level": "N4",
     "scope": "a2",
     "order": 142,
@@ -13032,7 +13908,12 @@ const KANJI_N4_DATA = [
         "word": "全部",
         "kana": "ぜんぶ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 163
+    }
   },
   {
     "id": "kanji-90fd",
@@ -13046,10 +13927,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "みやこ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "capital; metropolis",
+    "strokes": 11,
+    "radical": "邑",
+    "mnemonic": "Bayangkan kawasan di kanan sebagai pusat kota besar yang ramai.",
     "level": "N4",
     "scope": "a2",
     "order": 143,
@@ -13086,7 +13967,12 @@ const KANJI_N4_DATA = [
         "word": "京都",
         "kana": "きょうと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 163
+    }
   },
   {
     "id": "kanji-9662",
@@ -13097,10 +13983,10 @@ const KANJI_N4_DATA = [
       "イン"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "institution; building",
+    "strokes": 10,
+    "radical": "阜",
+    "mnemonic": "Atap di kanan mengingatkan gedung lembaga yang berdiri di suatu kawasan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 144,
@@ -13129,7 +14015,12 @@ const KANJI_N4_DATA = [
         "word": "病院",
         "kana": "びょういん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 170
+    }
   },
   {
     "id": "kanji-968e",
@@ -13139,22 +14030,29 @@ const KANJI_N4_DATA = [
     "on": [
       "カイ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "きざはし"
+    ],
+    "english": "floor; stairs",
+    "strokes": 12,
+    "radical": "阜",
+    "mnemonic": "Bagian kiri seperti tangga yang menghubungkan lantai-lantai bangunan.",
     "level": "N4",
     "scope": "a2",
     "order": 145,
     "examples": [
       {
-        "word": "〜階",
-        "kana": "かい",
-        "meaning": "lantai; tingkat",
+        "word": "一階",
+        "kana": "いっかい",
+        "meaning": "lantai satu",
         "source": "marugoto-a2-2",
         "page": 5,
-        "number": 354
+        "number": 354,
+        "adaptedFrom": {
+          "word": "〜階",
+          "kana": "かい",
+          "meaning": "lantai; tingkat"
+        }
       }
     ],
     "source": {
@@ -13180,7 +14078,12 @@ const KANJI_N4_DATA = [
         "word": "〜階（2階）",
         "kana": "〜かい（にかい）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 170
+    }
   },
   {
     "id": "kanji-98db",
@@ -13192,12 +14095,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "と.ぶ",
-      "と.ばす"
+      "と.ばす",
+      "-と.ばす"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "fly",
+    "strokes": 9,
+    "radical": "飛",
+    "mnemonic": "Garis-garis yang terbuka ke samping seperti dua sayap sedang mengepak.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 146,
@@ -13226,7 +14130,12 @@ const KANJI_N4_DATA = [
         "word": "飛行機",
         "kana": "ひこうき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 183
+    }
   },
   {
     "id": "kanji-9928",
@@ -13237,12 +14146,13 @@ const KANJI_N4_DATA = [
       "カン"
     ],
     "kun": [
-      "やかた"
+      "やかた",
+      "たて"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "building; hall",
+    "strokes": 16,
+    "radical": "食",
+    "mnemonic": "食 di kiri mengingatkan tempat singgah yang menyediakan makanan dalam gedung.",
     "level": "N4",
     "scope": "a2",
     "order": 147,
@@ -13279,7 +14189,12 @@ const KANJI_N4_DATA = [
         "word": "博物館",
         "kana": "はくぶつかん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 184
+    }
   },
   {
     "id": "kanji-4e0d",
@@ -13291,10 +14206,10 @@ const KANJI_N4_DATA = [
       "ブ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "not; non-",
+    "strokes": 4,
+    "radical": "一",
+    "mnemonic": "Bayangkan garis penghalang di atas yang menolak sesuatu lewat.",
     "level": "N4",
     "scope": "a2",
     "order": 148,
@@ -13346,7 +14261,12 @@ const KANJI_N4_DATA = [
         "word": "不安",
         "kana": "ふあん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-4f4e",
@@ -13357,12 +14277,14 @@ const KANJI_N4_DATA = [
       "テイ"
     ],
     "kun": [
-      "ひく.い"
+      "ひく.い",
+      "ひく.める",
+      "ひく.まる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "low; short",
+    "strokes": 7,
+    "radical": "人",
+    "mnemonic": "Orang di kiri membungkuk agar posisinya menjadi rendah.",
     "level": "N4",
     "scope": "a2",
     "order": 149,
@@ -13399,7 +14321,12 @@ const KANJI_N4_DATA = [
         "word": "低い",
         "kana": "ひくい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-5168",
@@ -13413,10 +14340,10 @@ const KANJI_N4_DATA = [
       "すべ.て",
       "まった.く"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "all; whole",
+    "strokes": 6,
+    "radical": "入",
+    "mnemonic": "Atap kecil seperti penutup yang menaungi seluruh bagian di bawahnya.",
     "level": "N4",
     "scope": "a2",
     "order": 150,
@@ -13469,7 +14396,12 @@ const KANJI_N4_DATA = [
         "word": "安全",
         "kana": "あんぜん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 11
+    }
   },
   {
     "id": "kanji-51b7",
@@ -13482,12 +14414,17 @@ const KANJI_N4_DATA = [
     "kun": [
       "つめ.たい",
       "ひ.える",
-      "さ.める"
+      "さ.める",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.ます"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "cold; cool",
+    "strokes": 7,
+    "radical": "冫",
+    "mnemonic": "Dua titik di kiri seperti es yang membuat benda menjadi dingin.",
     "level": "N4",
     "scope": "a2",
     "order": 151,
@@ -13524,7 +14461,12 @@ const KANJI_N4_DATA = [
         "word": "冷たい",
         "kana": "つめたい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 15
+    }
   },
   {
     "id": "kanji-5225",
@@ -13535,12 +14477,13 @@ const KANJI_N4_DATA = [
       "ベツ"
     ],
     "kun": [
-      "わか.れる"
+      "わか.れる",
+      "わ.ける"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "separate; different",
+    "strokes": 7,
+    "radical": "刀",
+    "mnemonic": "刀 di kanan seperti pisau yang memisahkan dua bagian berbeda.",
     "level": "N4",
     "scope": "a2",
     "order": 152,
@@ -13576,7 +14519,12 @@ const KANJI_N4_DATA = [
         "word": "特別",
         "kana": "とくべつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 18
+    }
   },
   {
     "id": "kanji-5371",
@@ -13588,12 +14536,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "あぶ.ない",
-      "あや.うい"
+      "あや.うい",
+      "あや.ぶむ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "danger; risky",
+    "strokes": 6,
+    "radical": "卩",
+    "mnemonic": "Bayangkan seseorang berada di tepi tempat tinggi sehingga perlu waspada.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 153,
@@ -13622,7 +14571,12 @@ const KANJI_N4_DATA = [
         "word": "危ない",
         "kana": "あぶない"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 26
+    }
   },
   {
     "id": "kanji-540c",
@@ -13635,10 +14589,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "おな.じ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "same; equal",
+    "strokes": 6,
+    "radical": "口",
+    "mnemonic": "Bayangkan dua benda dalam satu bingkai yang mempunyai bentuk sama.",
     "level": "N4",
     "scope": "a2",
     "order": 154,
@@ -13675,7 +14629,12 @@ const KANJI_N4_DATA = [
         "word": "同じ",
         "kana": "おなじ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-5909",
@@ -13687,12 +14646,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "か.わる",
-      "か.える"
+      "か.える",
+      "か.わり"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "change; unusual",
+    "strokes": 9,
+    "radical": "夂",
+    "mnemonic": "Bayangkan bagian atas dipindahkan oleh langkah di bawah sehingga bentuknya berubah.",
     "level": "N4",
     "scope": "a2",
     "order": 155,
@@ -13744,7 +14704,12 @@ const KANJI_N4_DATA = [
         "word": "変更",
         "kana": "へんこう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 34
+    }
   },
   {
     "id": "kanji-5e78",
@@ -13756,12 +14721,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "しあわ.せ",
-      "さいわ.い"
+      "さいわ.い",
+      "さち"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "happiness; good fortune",
+    "strokes": 8,
+    "radical": "干",
+    "mnemonic": "Bayangkan susunan garis sebagai bingkai hadiah yang membawa kebahagiaan.",
     "level": "N4",
     "scope": "a2",
     "order": 156,
@@ -13797,7 +14763,12 @@ const KANJI_N4_DATA = [
         "word": "幸せ",
         "kana": "しあわせ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 51
+    }
   },
   {
     "id": "kanji-5e83",
@@ -13809,12 +14780,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "ひろ.い",
-      "ひろ.がる"
+      "ひろ.がる",
+      "ひろ.まる",
+      "ひろ.める",
+      "ひろ.げる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "wide; spacious",
+    "strokes": 5,
+    "radical": "广",
+    "mnemonic": "Atap yang melebar memberi ruang luas untuk bergerak di bawahnya.",
     "level": "N4",
     "scope": "a2",
     "order": 157,
@@ -13881,7 +14855,12 @@ const KANJI_N4_DATA = [
         "word": "広場",
         "kana": "ひろば"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 53
+    }
   },
   {
     "id": "kanji-5f31",
@@ -13893,12 +14872,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "よわ.い",
-      "よわ.る"
+      "よわ.る",
+      "よわ.まる",
+      "よわ.める"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "weak",
+    "strokes": 10,
+    "radical": "弓",
+    "mnemonic": "Dua 弓 tampak lentur; bayangkan busur yang kurang kuat saat ditarik.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 158,
@@ -13927,7 +14908,12 @@ const KANJI_N4_DATA = [
         "word": "弱い",
         "kana": "よわい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 57
+    }
   },
   {
     "id": "kanji-5f37",
@@ -13940,12 +14926,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "つよ.い",
-      "つよ.める"
+      "つよ.める",
+      "つよ.まる",
+      "し.いる",
+      "こわ.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "strong",
+    "strokes": 11,
+    "radical": "弓",
+    "mnemonic": "弓 di kiri menjadi busur yang kuat untuk melontarkan anak panah jauh.",
     "level": "N4",
     "scope": "a2",
     "order": 159,
@@ -14004,7 +14993,12 @@ const KANJI_N4_DATA = [
         "word": "強い",
         "kana": "つよい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 57
+    }
   },
   {
     "id": "kanji-5fc5",
@@ -14017,10 +15011,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "かなら.ず"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "certain; must",
+    "strokes": 5,
+    "radical": "心",
+    "mnemonic": "Guratan yang menembus 心 mengingatkan tekad hati yang pasti dilakukan.",
     "level": "N4",
     "scope": "a2",
     "order": 160,
@@ -14057,7 +15051,12 @@ const KANJI_N4_DATA = [
         "word": "必要",
         "kana": "ひつよう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-5fd9",
@@ -14065,15 +15064,19 @@ const KANJI_N4_DATA = [
     "category": "qualities",
     "meaning": "sibuk",
     "on": [
-      "ボウ"
+      "ボウ",
+      "モウ"
     ],
     "kun": [
-      "いそが.しい"
+      "いそが.しい",
+      "せわ.しい",
+      "おそ.れる",
+      "うれえるさま"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "busy",
+    "strokes": 6,
+    "radical": "心",
+    "mnemonic": "Hati di kiri terasa penuh karena banyak kegiatan yang harus dikerjakan.",
     "level": "N4",
     "scope": "a2",
     "order": 161,
@@ -14109,7 +15112,12 @@ const KANJI_N4_DATA = [
         "word": "忙しい",
         "kana": "いそがしい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-6025",
@@ -14120,12 +15128,14 @@ const KANJI_N4_DATA = [
       "キュウ"
     ],
     "kun": [
-      "いそ.ぐ"
+      "いそ.ぐ",
+      "いそ.ぎ",
+      "せ.く"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "hurry; urgent",
+    "strokes": 9,
+    "radical": "心",
+    "mnemonic": "心 di bawah berdebar saat seseorang harus segera bergegas.",
     "level": "N4",
     "scope": "a2",
     "order": 162,
@@ -14162,7 +15172,12 @@ const KANJI_N4_DATA = [
         "word": "急ぎます",
         "kana": "いそぎます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-6027",
@@ -14173,11 +15188,13 @@ const KANJI_N4_DATA = [
       "セイ",
       "ショウ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "さが"
+    ],
+    "english": "nature; gender",
+    "strokes": 8,
+    "radical": "心",
+    "mnemonic": "Hati di kiri dan 生 di kanan mengingatkan sifat yang tampak dalam hidup.",
     "level": "N4",
     "scope": "a2",
     "order": 163,
@@ -14236,7 +15253,12 @@ const KANJI_N4_DATA = [
         "word": "男性",
         "kana": "だんせい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-60aa",
@@ -14248,12 +15270,20 @@ const KANJI_N4_DATA = [
       "オ"
     ],
     "kun": [
-      "わる.い"
+      "わる.い",
+      "わる-",
+      "あ.し",
+      "にく.い",
+      "-にく.い",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.む"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "bad; evil",
+    "strokes": 11,
+    "radical": "心",
+    "mnemonic": "心 di bawah menyimpan pikiran buruk yang perlu dijauhi.",
     "level": "N4",
     "scope": "a2",
     "order": 164,
@@ -14290,7 +15320,12 @@ const KANJI_N4_DATA = [
         "word": "悪い",
         "kana": "わるい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-610f",
@@ -14301,10 +15336,10 @@ const KANJI_N4_DATA = [
       "イ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "idea; intention",
+    "strokes": 13,
+    "radical": "心",
+    "mnemonic": "音 di atas 心 seperti suara hati yang menyatakan sebuah maksud.",
     "level": "N4",
     "scope": "a2",
     "order": 165,
@@ -14340,7 +15375,12 @@ const KANJI_N4_DATA = [
         "word": "意味",
         "kana": "いみ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-6210",
@@ -14353,12 +15393,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "な.る",
-      "な.す"
+      "な.す",
+      "-な.す"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "become; achieve",
+    "strokes": 6,
+    "radical": "戈",
+    "mnemonic": "Bayangkan rangka yang hampir selesai dibangun menjadi hasil yang utuh.",
     "level": "N4",
     "scope": "a2",
     "order": 166,
@@ -14394,7 +15435,12 @@ const KANJI_N4_DATA = [
         "word": "成長",
         "kana": "せいちょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 62
+    }
   },
   {
     "id": "kanji-660e",
@@ -14403,16 +15449,25 @@ const KANJI_N4_DATA = [
     "meaning": "terang; jelas",
     "on": [
       "メイ",
-      "ミョウ"
+      "ミョウ",
+      "ミン"
     ],
     "kun": [
       "あか.るい",
-      "あ.ける"
+      "あ.ける",
+      "あ.かり",
+      "あか.るむ",
+      "あか.らむ",
+      "あき.らか",
+      "-あ.け",
+      "あ.く",
+      "あ.くる",
+      "あ.かす"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "bright; clear",
+    "strokes": 8,
+    "radical": "日",
+    "mnemonic": "日 dan 月 bersama-sama membuat bayangan cahaya yang terang.",
     "level": "N4",
     "scope": "a2",
     "order": 167,
@@ -14472,7 +15527,12 @@ const KANJI_N4_DATA = [
         "word": "説明",
         "kana": "せつめい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-66f4",
@@ -14484,12 +15544,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "さら",
-      "ふ.ける"
+      "ふ.ける",
+      "さら.に",
+      "ふ.かす"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "renew; further",
+    "strokes": 7,
+    "radical": "曰",
+    "mnemonic": "Bayangkan tangan membalik lembar lama untuk memperbarui keadaan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 168,
@@ -14518,7 +15580,12 @@ const KANJI_N4_DATA = [
         "word": "変更",
         "kana": "へんこう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 73
+    }
   },
   {
     "id": "kanji-6709",
@@ -14532,10 +15599,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "あ.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "have; exist",
+    "strokes": 6,
+    "radical": "月",
+    "mnemonic": "Bayangkan tangan di atas memegang sesuatu yang memang ada dan dimiliki.",
     "level": "N4",
     "scope": "a2",
     "order": 169,
@@ -14572,7 +15639,12 @@ const KANJI_N4_DATA = [
         "word": "有名",
         "kana": "ゆうめい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 74
+    }
   },
   {
     "id": "kanji-683c",
@@ -14581,13 +15653,15 @@ const KANJI_N4_DATA = [
     "meaning": "standar; kualifikasi",
     "on": [
       "カク",
-      "コウ"
+      "コウ",
+      "キャク",
+      "ゴウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "standard; qualification",
+    "strokes": 10,
+    "radical": "木",
+    "mnemonic": "木 di kiri menjadi batang ukur untuk memeriksa apakah sesuatu memenuhi standar.",
     "level": "N4",
     "scope": "a2",
     "order": 170,
@@ -14623,7 +15697,12 @@ const KANJI_N4_DATA = [
         "word": "合格",
         "kana": "ごうかく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-697d",
@@ -14632,16 +15711,18 @@ const KANJI_N4_DATA = [
     "meaning": "menyenangkan; nyaman; musik",
     "on": [
       "ガク",
-      "ラク"
+      "ラク",
+      "ゴウ"
     ],
     "kun": [
       "たの.しい",
-      "たの.しむ"
+      "たの.しむ",
+      "この.む"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "music; comfort; pleasure",
+    "strokes": 13,
+    "radical": "木",
+    "mnemonic": "Bagian atas seperti alat musik yang diletakkan pada rangka 木 dan menyenangkan hati.",
     "level": "N4",
     "scope": "a2",
     "order": 171,
@@ -14713,7 +15794,12 @@ const KANJI_N4_DATA = [
         "word": "楽しい",
         "kana": "たのしい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-6b63",
@@ -14726,12 +15812,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "ただ.しい",
-      "まさ"
+      "まさ",
+      "ただ.す",
+      "まさ.に"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "correct; right",
+    "strokes": 5,
+    "radical": "止",
+    "mnemonic": "Kaki 止 berhenti tepat pada garis sebagai tanda posisi yang benar.",
     "level": "N4",
     "scope": "a2",
     "order": 172,
@@ -14783,7 +15871,12 @@ const KANJI_N4_DATA = [
         "word": "正しい",
         "kana": "ただしい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 77
+    }
   },
   {
     "id": "kanji-6e80",
@@ -14791,16 +15884,18 @@ const KANJI_N4_DATA = [
     "category": "qualities",
     "meaning": "penuh; puas",
     "on": [
-      "マン"
+      "マン",
+      "バン"
     ],
     "kun": [
       "み.ちる",
-      "み.たす"
+      "み.たす",
+      "み.つ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "full; satisfied",
+    "strokes": 12,
+    "radical": "水",
+    "mnemonic": "Air di kiri mengingatkan wadah yang diisi sampai penuh.",
     "level": "N4",
     "scope": "a2",
     "order": 173,
@@ -14837,7 +15932,12 @@ const KANJI_N4_DATA = [
         "word": "満足します",
         "kana": "まんぞくします"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-7121",
@@ -14851,10 +15951,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "な.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "none; nothing",
+    "strokes": 12,
+    "radical": "火",
+    "mnemonic": "Bayangkan empat titik bawah padam sehingga tidak ada api yang tersisa.",
     "level": "N4",
     "scope": "a2",
     "order": 174,
@@ -14891,7 +15991,12 @@ const KANJI_N4_DATA = [
         "word": "無料",
         "kana": "むりょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 86
+    }
   },
   {
     "id": "kanji-7279",
@@ -14902,10 +16007,10 @@ const KANJI_N4_DATA = [
       "トク"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "special",
+    "strokes": 10,
+    "radical": "牛",
+    "mnemonic": "牛 di kiri mengingatkan seekor hewan yang diberi tempat khusus.",
     "level": "N4",
     "scope": "a2",
     "order": 175,
@@ -14941,7 +16046,12 @@ const KANJI_N4_DATA = [
         "word": "特別",
         "kana": "とくべつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 93
+    }
   },
   {
     "id": "kanji-73fe",
@@ -14953,12 +16063,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "あらわ.れる",
-      "あらわ.す"
+      "あらわ.す",
+      "うつつ",
+      "うつ.つ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "appear; present",
+    "strokes": 11,
+    "radical": "玉",
+    "mnemonic": "見 di kanan mengingatkan sesuatu yang mulai tampak di depan mata.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 176,
@@ -14987,7 +16099,12 @@ const KANJI_N4_DATA = [
         "word": "表現",
         "kana": "ひょうげん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 96
+    }
   },
   {
     "id": "kanji-7406",
@@ -14997,11 +16114,13 @@ const KANJI_N4_DATA = [
     "on": [
       "リ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "ことわり"
+    ],
+    "english": "reason; principle",
+    "strokes": 11,
+    "radical": "玉",
+    "mnemonic": "Bayangkan petak 里 disusun rapi agar setiap bagian mempunyai alasan dan aturan.",
     "level": "N4",
     "scope": "a2",
     "order": 177,
@@ -15061,7 +16180,12 @@ const KANJI_N4_DATA = [
         "word": "家庭料理",
         "kana": "かていりょうり"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 96
+    }
   },
   {
     "id": "kanji-7684",
@@ -15074,10 +16198,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "まと"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "target; characteristic",
+    "strokes": 8,
+    "radical": "白",
+    "mnemonic": "Bayangkan sasaran putih 白 yang diberi tanda di sebelah kanan.",
     "level": "N4",
     "scope": "a2",
     "order": 178,
@@ -15097,14 +16221,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 346
-      },
-      {
-        "word": "歴史的",
-        "kana": "れきしてき",
-        "meaning": "bersejarah",
-        "source": "marugoto-a2-2",
-        "page": 5,
-        "number": 347
       }
     ],
     "source": {
@@ -15165,7 +16281,12 @@ const KANJI_N4_DATA = [
         "word": "目的",
         "kana": "もくてき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 106
+    }
   },
   {
     "id": "kanji-7701",
@@ -15180,10 +16301,10 @@ const KANJI_N4_DATA = [
       "はぶ.く",
       "かえり.みる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "save; omit; reflect",
+    "strokes": 9,
+    "radical": "目",
+    "mnemonic": "目 di bawah memeriksa bagian kecil agar tidak ada yang terbuang sia-sia.",
     "level": "N4",
     "scope": "a2",
     "order": 179,
@@ -15220,7 +16341,12 @@ const KANJI_N4_DATA = [
         "word": "省エネ",
         "kana": "しょうエネ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 109
+    }
   },
   {
     "id": "kanji-771f",
@@ -15231,12 +16357,14 @@ const KANJI_N4_DATA = [
       "シン"
     ],
     "kun": [
-      "ま"
+      "ま",
+      "ま-",
+      "まこと"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "true; genuine",
+    "strokes": 10,
+    "radical": "目",
+    "mnemonic": "Bayangkan kotak di tengah dibuka untuk memeriksa isi yang sebenarnya.",
     "level": "N4",
     "scope": "a2",
     "order": 180,
@@ -15279,7 +16407,12 @@ const KANJI_N4_DATA = [
         "word": "写真",
         "kana": "しゃしん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 109
+    }
   },
   {
     "id": "kanji-77ed",
@@ -15292,10 +16425,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "みじか.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "short",
+    "strokes": 12,
+    "radical": "矢",
+    "mnemonic": "矢 di kiri menjadi anak panah yang lebih pendek dari ukuran biasa.",
     "level": "N4",
     "scope": "a2",
     "order": 181,
@@ -15331,7 +16464,12 @@ const KANJI_N4_DATA = [
         "word": "短い",
         "kana": "みじかい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 111
+    }
   },
   {
     "id": "kanji-80fd",
@@ -15341,11 +16479,14 @@ const KANJI_N4_DATA = [
     "on": [
       "ノウ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "よ.く",
+      "あた.う"
+    ],
+    "english": "ability; skill",
+    "strokes": 10,
+    "radical": "肉",
+    "mnemonic": "Bayangkan dua kait di kanan sebagai alat yang membantu seseorang menunjukkan kemampuannya.",
     "level": "N4",
     "scope": "a2",
     "order": 182,
@@ -15382,7 +16523,12 @@ const KANJI_N4_DATA = [
         "word": "機能",
         "kana": "きのう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 130
+    }
   },
   {
     "id": "kanji-8272",
@@ -15396,10 +16542,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "いろ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "color",
+    "strokes": 6,
+    "radical": "色",
+    "mnemonic": "Bentuk berlekuk seperti palet kecil yang diisi berbagai warna.",
     "level": "N4",
     "scope": "a2",
     "order": 183,
@@ -15443,7 +16589,12 @@ const KANJI_N4_DATA = [
         "word": "色",
         "kana": "いろ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 139
+    }
   },
   {
     "id": "kanji-82e5",
@@ -15451,15 +16602,22 @@ const KANJI_N4_DATA = [
     "category": "qualities",
     "meaning": "muda",
     "on": [
-      "ジャク"
+      "ジャク",
+      "ニャク",
+      "ニャ"
     ],
     "kun": [
-      "わか.い"
+      "わか.い",
+      "わか-",
+      "も.しくわ",
+      "も.し",
+      "も.しくは",
+      "ごと.し"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "young",
+    "strokes": 8,
+    "radical": "艸",
+    "mnemonic": "Tunas 艹 di atas mengingatkan tanaman yang masih muda.",
     "level": "N4",
     "scope": "a2",
     "order": 184,
@@ -15496,7 +16654,12 @@ const KANJI_N4_DATA = [
         "word": "若い",
         "kana": "わかい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 140
+    }
   },
   {
     "id": "kanji-82e6",
@@ -15508,12 +16671,16 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "にが.い",
-      "くる.しい"
+      "くる.しい",
+      "-ぐる.しい",
+      "くる.しむ",
+      "くる.しめる",
+      "にが.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "bitter; suffer",
+    "strokes": 8,
+    "radical": "艸",
+    "mnemonic": "艹 di atas 口 seperti tanaman pahit yang terasa di mulut.",
     "level": "N4",
     "scope": "a2",
     "order": 185,
@@ -15550,7 +16717,12 @@ const KANJI_N4_DATA = [
         "word": "苦手",
         "kana": "にがて"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 140
+    }
   },
   {
     "id": "kanji-8981",
@@ -15564,10 +16736,10 @@ const KANJI_N4_DATA = [
       "い.る",
       "かなめ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "need; main point",
+    "strokes": 9,
+    "radical": "襾",
+    "mnemonic": "Bayangkan bagian tengah diberi penanda karena itulah inti yang diperlukan.",
     "level": "N4",
     "scope": "a2",
     "order": 186,
@@ -15604,7 +16776,12 @@ const KANJI_N4_DATA = [
         "word": "必要",
         "kana": "ひつよう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 146
+    }
   },
   {
     "id": "kanji-91cd",
@@ -15617,12 +16794,17 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "おも.い",
-      "かさ.なる"
+      "かさ.なる",
+      "え",
+      "おも.り",
+      "おも.なう",
+      "かさ.ねる",
+      "おも"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "heavy; pile up",
+    "strokes": 9,
+    "radical": "里",
+    "mnemonic": "Bayangkan lapisan-lapisan tersusun tinggi sehingga beban menjadi berat.",
     "level": "N4",
     "scope": "a2",
     "order": 187,
@@ -15659,7 +16841,12 @@ const KANJI_N4_DATA = [
         "word": "重い",
         "kana": "おもい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 166
+    }
   },
   {
     "id": "kanji-8efd",
@@ -15667,15 +16854,19 @@ const KANJI_N4_DATA = [
     "category": "qualities",
     "meaning": "ringan",
     "on": [
-      "ケイ"
+      "ケイ",
+      "キョウ",
+      "キン"
     ],
     "kun": [
-      "かる.い"
+      "かる.い",
+      "かろ.やか",
+      "かろ.んじる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "light in weight",
+    "strokes": 12,
+    "radical": "車",
+    "mnemonic": "車 di kiri menjadi kendaraan kecil yang bebannya ringan.",
     "level": "N4",
     "scope": "a2",
     "order": 188,
@@ -15712,7 +16903,12 @@ const KANJI_N4_DATA = [
         "word": "軽い",
         "kana": "かるい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 159
+    }
   },
   {
     "id": "kanji-96e3",
@@ -15723,12 +16919,17 @@ const KANJI_N4_DATA = [
       "ナン"
     ],
     "kun": [
-      "むずか.しい"
+      "むずか.しい",
+      "かた.い",
+      "-がた.い",
+      "むづか.しい",
+      "むつか.しい",
+      "-にく.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "difficult",
+    "strokes": 18,
+    "radical": "隹",
+    "mnemonic": "Bayangkan bentuk yang rapat dan rumit sebagai tantangan yang sulit diselesaikan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 189,
@@ -15757,7 +16958,12 @@ const KANJI_N4_DATA = [
         "word": "難しい",
         "kana": "むずかしい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 172
+    }
   },
   {
     "id": "kanji-9752",
@@ -15770,12 +16976,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "あお",
-      "あお.い"
+      "あお.い",
+      "あお-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "blue; green in some uses",
+    "strokes": 8,
+    "radical": "靑",
+    "mnemonic": "Bayangkan bagian bawah seperti wadah warna biru untuk melukis langit.",
     "level": "N4",
     "scope": "a2",
     "order": 190,
@@ -15818,7 +17025,12 @@ const KANJI_N4_DATA = [
         "word": "青い",
         "kana": "あおい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 174
+    }
   },
   {
     "id": "kanji-9759",
@@ -15831,12 +17043,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "しず.か",
-      "しず.まる"
+      "しず.まる",
+      "しず-",
+      "しず.める"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "quiet; calm",
+    "strokes": 14,
+    "radical": "靑",
+    "mnemonic": "Bayangkan warna 青 yang menenangkan hingga keributan di kanan mereda.",
     "level": "N4",
     "scope": "a2",
     "order": 191,
@@ -15873,7 +17087,12 @@ const KANJI_N4_DATA = [
         "word": "静か",
         "kana": "しずか"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 174
+    }
   },
   {
     "id": "kanji-8d64",
@@ -15886,12 +17105,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "あか",
-      "あか.い"
+      "あか.い",
+      "あか-",
+      "あか.らむ",
+      "あか.らめる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "red",
+    "strokes": 7,
+    "radical": "赤",
+    "mnemonic": "Bayangkan percikan di bawah bersinar merah seperti bara yang panas.",
     "level": "N4",
     "scope": "a2",
     "order": 192,
@@ -15934,7 +17156,12 @@ const KANJI_N4_DATA = [
         "word": "赤い",
         "kana": "あかい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 155
+    }
   },
   {
     "id": "kanji-9ed2",
@@ -15946,12 +17173,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "くろ",
-      "くろ.い"
+      "くろ.い",
+      "くろ.ずむ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "black",
+    "strokes": 11,
+    "radical": "黑",
+    "mnemonic": "Empat titik di bawah seperti api yang meninggalkan jelaga hitam.",
     "level": "N4",
     "scope": "a2",
     "order": 193,
@@ -15994,7 +17222,12 @@ const KANJI_N4_DATA = [
         "word": "黒い",
         "kana": "くろい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 203
+    }
   },
   {
     "id": "kanji-4f5c",
@@ -16006,12 +17239,14 @@ const KANJI_N4_DATA = [
       "サ"
     ],
     "kun": [
-      "つく.る"
+      "つく.る",
+      "つく.り",
+      "-づく.り"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "make; create",
+    "strokes": 7,
+    "radical": "人",
+    "mnemonic": "Orang di kiri menggerakkan alat di kanan untuk membuat sesuatu.",
     "level": "N4",
     "scope": "a2",
     "order": 194,
@@ -16079,7 +17314,12 @@ const KANJI_N4_DATA = [
         "word": "作家",
         "kana": "さっか"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-4f7f",
@@ -16090,12 +17330,15 @@ const KANJI_N4_DATA = [
       "シ"
     ],
     "kun": [
-      "つか.う"
+      "つか.う",
+      "つか.い",
+      "-つか.い",
+      "-づか.い"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "use; employ",
+    "strokes": 8,
+    "radical": "人",
+    "mnemonic": "Orang di kiri memegang alat untuk digunakan menyelesaikan tugas.",
     "level": "N4",
     "scope": "a2",
     "order": 195,
@@ -16139,7 +17382,12 @@ const KANJI_N4_DATA = [
         "word": "使います",
         "kana": "つかいます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-4ed8",
@@ -16151,12 +17399,25 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "つ.く",
-      "つ.ける"
+      "つ.ける",
+      "-つ.ける",
+      "-づ.ける",
+      "つ.け",
+      "つ.け-",
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "attach; stick",
+    "strokes": 5,
+    "radical": "人",
+    "mnemonic": "Orang di kiri mengulurkan tangan 寸 untuk menempelkan sesuatu.",
     "level": "N4",
     "scope": "a2",
     "order": 196,
@@ -16193,7 +17454,12 @@ const KANJI_N4_DATA = [
         "word": "受付",
         "kana": "うけつけ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-5207",
@@ -16201,16 +17467,25 @@ const KANJI_N4_DATA = [
     "category": "actions",
     "meaning": "memotong",
     "on": [
-      "セツ"
+      "セツ",
+      "サイ"
     ],
     "kun": [
       "き.る",
-      "き.れる"
+      "き.れる",
+      "-き.る",
+      "き.り",
+      "-き.り",
+      "-ぎ.り",
+      "-き.れる",
+      "き.れ",
+      "-き.れ",
+      "-ぎ.れ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "cut",
+    "strokes": 4,
+    "radical": "刀",
+    "mnemonic": "刀 di kanan seperti pisau yang memotong benda kecil di kiri.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 197,
@@ -16239,7 +17514,12 @@ const KANJI_N4_DATA = [
         "word": "親切",
         "kana": "しんせつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 18
+    }
   },
   {
     "id": "kanji-5230",
@@ -16249,11 +17529,13 @@ const KANJI_N4_DATA = [
     "on": [
       "トウ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "いた.る"
+    ],
+    "english": "arrive; reach",
+    "strokes": 8,
+    "radical": "刀",
+    "mnemonic": "Bayangkan seseorang akhirnya berhenti pada tanda batas setelah tiba di tujuan.",
     "level": "N4",
     "scope": "a2",
     "order": 198,
@@ -16297,7 +17579,12 @@ const KANJI_N4_DATA = [
         "word": "到着",
         "kana": "とうちゃく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 18
+    }
   },
   {
     "id": "kanji-52a0",
@@ -16311,10 +17598,10 @@ const KANJI_N4_DATA = [
       "くわ.える",
       "くわ.わる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "add; increase",
+    "strokes": 5,
+    "radical": "力",
+    "mnemonic": "力 dan 口 mengingatkan tambahan tenaga dan suara agar hasilnya bertambah.",
     "level": "N4",
     "scope": "a2",
     "order": 199,
@@ -16351,7 +17638,12 @@ const KANJI_N4_DATA = [
         "word": "参加者",
         "kana": "さんかしゃ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 19
+    }
   },
   {
     "id": "kanji-52a9",
@@ -16363,12 +17655,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "たす.ける",
-      "たす.かる"
+      "たす.かる",
+      "す.ける",
+      "すけ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "help; assist",
+    "strokes": 7,
+    "radical": "力",
+    "mnemonic": "力 di kanan menjadi tenaga tambahan untuk menolong orang lain.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 200,
@@ -16397,7 +17691,12 @@ const KANJI_N4_DATA = [
         "word": "助ける",
         "kana": "たすける"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 19
+    }
   },
   {
     "id": "kanji-52d5",
@@ -16411,10 +17710,10 @@ const KANJI_N4_DATA = [
       "うご.く",
       "うご.かす"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "move; motion",
+    "strokes": 11,
+    "radical": "力",
+    "mnemonic": "重 dan 力 mengingatkan tenaga yang diperlukan untuk menggerakkan beban berat.",
     "level": "N4",
     "scope": "a2",
     "order": 201,
@@ -16434,14 +17733,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 358
-      },
-      {
-        "word": "自動車",
-        "kana": "じどうしゃ",
-        "meaning": "mobil",
-        "source": "marugoto-a2-2",
-        "page": 5,
-        "number": 366
       }
     ],
     "source": {
@@ -16510,7 +17801,12 @@ const KANJI_N4_DATA = [
         "word": "自動車",
         "kana": "じどうしゃ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 19
+    }
   },
   {
     "id": "kanji-53d7",
@@ -16522,12 +17818,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "う.ける",
-      "う.かる"
+      "う.かる",
+      "-う.け"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "receive; accept",
+    "strokes": 8,
+    "radical": "又",
+    "mnemonic": "Bayangkan tangan di atas menyerahkan sesuatu kepada tangan di bawah.",
     "level": "N4",
     "scope": "a2",
     "order": 202,
@@ -16564,7 +17861,12 @@ const KANJI_N4_DATA = [
         "word": "受付",
         "kana": "うけつけ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 29
+    }
   },
   {
     "id": "kanji-544a",
@@ -16577,10 +17879,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "つ.げる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "tell; inform",
+    "strokes": 7,
+    "radical": "口",
+    "mnemonic": "口 di bawah menjadi mulut yang menyampaikan pengumuman kepada orang lain.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 203,
@@ -16609,7 +17911,12 @@ const KANJI_N4_DATA = [
         "word": "報告",
         "kana": "ほうこく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-5bdd",
@@ -16621,12 +17928,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "ね.る",
-      "ね.かす"
+      "ね.かす",
+      "い.ぬ",
+      "みたまや",
+      "や.める"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "sleep; lie down",
+    "strokes": 13,
+    "radical": "宀",
+    "mnemonic": "Atap di atas melindungi orang yang sedang berbaring untuk tidur.",
     "level": "N4",
     "scope": "a2",
     "order": 204,
@@ -16663,7 +17973,12 @@ const KANJI_N4_DATA = [
         "word": "寝ます",
         "kana": "ねます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 40
+    }
   },
   {
     "id": "kanji-5f85",
@@ -16674,12 +17989,13 @@ const KANJI_N4_DATA = [
       "タイ"
     ],
     "kun": [
-      "ま.つ"
+      "ま.つ",
+      "-ま.ち"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "wait",
+    "strokes": 9,
+    "radical": "彳",
+    "mnemonic": "Langkah kecil di kiri berhenti di depan 寺 sambil menunggu teman.",
     "level": "N4",
     "scope": "a2",
     "order": 205,
@@ -16738,7 +18054,12 @@ const KANJI_N4_DATA = [
         "word": "招待",
         "kana": "しょうたい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 60
+    }
   },
   {
     "id": "kanji-5fc3",
@@ -16749,12 +18070,13 @@ const KANJI_N4_DATA = [
       "シン"
     ],
     "kun": [
-      "こころ"
+      "こころ",
+      "-ごころ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "heart; mind",
+    "strokes": 4,
+    "radical": "心",
+    "mnemonic": "Garis melengkung dan titik-titik seperti hati yang sedang berdenyut.",
     "level": "N4",
     "scope": "a2",
     "order": 206,
@@ -16774,14 +18096,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 343
-      },
-      {
-        "word": "心配",
-        "kana": "しんぱい",
-        "meaning": "khawatir",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 461
       }
     ],
     "source": {
@@ -16821,7 +18135,12 @@ const KANJI_N4_DATA = [
         "word": "心配",
         "kana": "しんぱい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-5fd8",
@@ -16834,10 +18153,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "わす.れる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "forget",
+    "strokes": 7,
+    "radical": "心",
+    "mnemonic": "Bayangkan sesuatu hilang dari 心 sehingga tidak lagi teringat.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 207,
@@ -16866,7 +18185,12 @@ const KANJI_N4_DATA = [
         "word": "忘れ物",
         "kana": "わすれもの"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-601d",
@@ -16877,12 +18201,14 @@ const KANJI_N4_DATA = [
       "シ"
     ],
     "kun": [
-      "おも.う"
+      "おも.う",
+      "おもえら.く",
+      "おぼ.す"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "think; feel",
+    "strokes": 9,
+    "radical": "心",
+    "mnemonic": "田 di atas 心 seperti banyak kotak pikiran yang dipikirkan dalam hati.",
     "level": "N4",
     "scope": "a2",
     "order": 208,
@@ -16949,7 +18275,12 @@ const KANJI_N4_DATA = [
         "word": "思い出",
         "kana": "おもいで"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 61
+    }
   },
   {
     "id": "kanji-62db",
@@ -16962,10 +18293,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "まね.く"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "invite; beckon",
+    "strokes": 8,
+    "radical": "手",
+    "mnemonic": "Tangan di kiri memberi isyarat sambil mulut di kanan mengundang orang datang.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 209,
@@ -16994,7 +18325,12 @@ const KANJI_N4_DATA = [
         "word": "招待",
         "kana": "しょうたい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 64
+    }
   },
   {
     "id": "kanji-6301",
@@ -17005,12 +18341,14 @@ const KANJI_N4_DATA = [
       "ジ"
     ],
     "kun": [
-      "も.つ"
+      "も.つ",
+      "-も.ち",
+      "も.てる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "hold; carry",
+    "strokes": 9,
+    "radical": "手",
+    "mnemonic": "Tangan di kiri memegang sesuatu dengan erat agar bisa dibawa.",
     "level": "N4",
     "scope": "a2",
     "order": 210,
@@ -17070,7 +18408,12 @@ const KANJI_N4_DATA = [
         "word": "気持ち",
         "kana": "きもち"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 64
+    }
   },
   {
     "id": "kanji-6c7a",
@@ -17082,12 +18425,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "き.める",
-      "き.まる"
+      "き.まる",
+      "-ぎ.め",
+      "さ.く"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "decide; settle",
+    "strokes": 7,
+    "radical": "水",
+    "mnemonic": "Bayangkan aliran air di kiri akhirnya dipilihkan satu jalur yang pasti.",
     "level": "N4",
     "scope": "a2",
     "order": 211,
@@ -17124,7 +18469,12 @@ const KANJI_N4_DATA = [
         "word": "決めます",
         "kana": "きめます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6cf3",
@@ -17137,10 +18487,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "およ.ぐ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "swim",
+    "strokes": 8,
+    "radical": "水",
+    "mnemonic": "Air di kiri mengalir terus; bayangkan orang menggerakkan tangan untuk berenang.",
     "level": "N4",
     "scope": "a2",
     "order": 212,
@@ -17183,7 +18533,12 @@ const KANJI_N4_DATA = [
         "word": "泳ぎます",
         "kana": "およぎます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6d17",
@@ -17196,10 +18551,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "あら.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "wash",
+    "strokes": 9,
+    "radical": "水",
+    "mnemonic": "Air di kiri digunakan untuk mencuci sampai bersih sebelum kegiatan dimulai.",
     "level": "N4",
     "scope": "a2",
     "order": 213,
@@ -17236,7 +18591,12 @@ const KANJI_N4_DATA = [
         "word": "洗います",
         "kana": "あらいます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6d3b",
@@ -17246,11 +18606,15 @@ const KANJI_N4_DATA = [
     "on": [
       "カツ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "い.きる",
+      "い.かす",
+      "い.ける"
+    ],
+    "english": "live; active",
+    "strokes": 9,
+    "radical": "水",
+    "mnemonic": "Air di kiri menyegarkan 舌 sehingga tubuh kembali hidup dan aktif.",
     "level": "N4",
     "scope": "a2",
     "order": 214,
@@ -17270,14 +18634,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 384
-      },
-      {
-        "word": "食生活",
-        "kana": "しょくせいかつ",
-        "meaning": "pola makan",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 412
       }
     ],
     "source": {
@@ -17324,7 +18680,12 @@ const KANJI_N4_DATA = [
         "word": "食生活",
         "kana": "しょくせいかつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-7528",
@@ -17337,10 +18698,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "もち.いる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "use; purpose",
+    "strokes": 5,
+    "radical": "用",
+    "mnemonic": "Bentuknya seperti alat dengan pegangan yang siap dipakai untuk suatu keperluan.",
     "level": "N4",
     "scope": "a2",
     "order": 215,
@@ -17360,14 +18721,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 372
-      },
-      {
-        "word": "〜用",
-        "kana": "よう",
-        "meaning": "untuk; keperluan",
-        "source": "marugoto-a2-2",
-        "page": 5,
-        "number": 371
       }
     ],
     "source": {
@@ -17414,7 +18767,12 @@ const KANJI_N4_DATA = [
         "word": "利用",
         "kana": "りよう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 101
+    }
   },
   {
     "id": "kanji-7740",
@@ -17427,12 +18785,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "き.る",
-      "つ.く"
+      "つ.く",
+      "き.せる",
+      "つ.ける"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "wear; arrive",
+    "strokes": 12,
+    "radical": "目",
+    "mnemonic": "Bayangkan mata 目 memeriksa pakaian yang sudah dikenakan sebelum tiba di tujuan.",
     "level": "N4",
     "scope": "a2",
     "order": 216,
@@ -17505,7 +18865,12 @@ const KANJI_N4_DATA = [
         "word": "着ます",
         "kana": "きます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 109
+    }
   },
   {
     "id": "kanji-8d70",
@@ -17518,10 +18883,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "はし.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "run",
+    "strokes": 7,
+    "radical": "走",
+    "mnemonic": "Bayangkan sosok di atas kaki yang bergerak cepat untuk berlari.",
     "level": "N4",
     "scope": "a2",
     "order": 217,
@@ -17564,7 +18929,12 @@ const KANJI_N4_DATA = [
         "word": "走ります",
         "kana": "はしります"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 156
+    }
   },
   {
     "id": "kanji-8d77",
@@ -17576,12 +18946,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "お.きる",
-      "お.こる"
+      "お.こる",
+      "お.こす",
+      "おこ.す",
+      "た.つ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "get up; happen",
+    "strokes": 10,
+    "radical": "走",
+    "mnemonic": "走 di kiri mengingatkan tubuh yang bangun lalu mulai bergerak.",
     "level": "N4",
     "scope": "a2",
     "order": 218,
@@ -17624,7 +18997,12 @@ const KANJI_N4_DATA = [
         "word": "起きます",
         "kana": "おきます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 156
+    }
   },
   {
     "id": "kanji-9078",
@@ -17635,12 +19013,14 @@ const KANJI_N4_DATA = [
       "セン"
     ],
     "kun": [
-      "えら.ぶ"
+      "えら.ぶ",
+      "え.る",
+      "よ.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "choose; select",
+    "strokes": 15,
+    "radical": "辵",
+    "mnemonic": "Jalan di bawah mengingatkan seseorang memilih satu dari beberapa jalur.",
     "level": "N4",
     "scope": "a2",
     "order": 219,
@@ -17699,7 +19079,12 @@ const KANJI_N4_DATA = [
         "word": "選びます",
         "kana": "えらびます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 162
+    }
   },
   {
     "id": "kanji-914d",
@@ -17712,10 +19097,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "くば.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "distribute; arrange",
+    "strokes": 10,
+    "radical": "酉",
+    "mnemonic": "Bayangkan wadah di kiri dibagikan satu demi satu kepada orang-orang.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 220,
@@ -17744,7 +19129,12 @@ const KANJI_N4_DATA = [
         "word": "心配",
         "kana": "しんぱい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 164
+    }
   },
   {
     "id": "kanji-96c6",
@@ -17756,12 +19146,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "あつ.まる",
-      "あつ.める"
+      "あつ.める",
+      "つど.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "gather; collect",
+    "strokes": 12,
+    "radical": "隹",
+    "mnemonic": "隹 di atas 木 mengingatkan burung-burung yang berkumpul pada sebuah pohon.",
     "level": "N4",
     "scope": "a2",
     "order": 221,
@@ -17814,7 +19205,12 @@ const KANJI_N4_DATA = [
         "word": "募集",
         "kana": "ぼしゅう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 172
+    }
   },
   {
     "id": "kanji-5375",
@@ -17827,10 +19223,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "たまご"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "egg",
+    "strokes": 7,
+    "radical": "卩",
+    "mnemonic": "Dua bentuk berdampingan seperti telur yang dibelah dan memperlihatkan isinya.",
     "level": "N4",
     "scope": "a2",
     "order": 222,
@@ -17873,7 +19269,12 @@ const KANJI_N4_DATA = [
         "word": "卵",
         "kana": "たまご"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 26
+    }
   },
   {
     "id": "kanji-5473",
@@ -17887,10 +19288,10 @@ const KANJI_N4_DATA = [
       "あじ",
       "あじ.わう"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "taste; flavor",
+    "strokes": 8,
+    "radical": "口",
+    "mnemonic": "口 di kiri mengingatkan mulut yang mencicipi rasa makanan.",
     "level": "N4",
     "scope": "a2",
     "order": 223,
@@ -17956,7 +19357,12 @@ const KANJI_N4_DATA = [
         "word": "意味",
         "kana": "いみ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-5869",
@@ -17969,10 +19375,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "しお"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "salt",
+    "strokes": 13,
+    "radical": "土",
+    "mnemonic": "皿 di bawah menjadi wadah berisi butiran garam.",
     "level": "N4",
     "scope": "a2",
     "order": 224,
@@ -18009,7 +19415,12 @@ const KANJI_N4_DATA = [
         "word": "塩",
         "kana": "しお"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 32
+    }
   },
   {
     "id": "kanji-6599",
@@ -18020,10 +19431,10 @@ const KANJI_N4_DATA = [
       "リョウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "materials; fee",
+    "strokes": 10,
+    "radical": "斗",
+    "mnemonic": "米 di kiri seperti bahan yang ditakar, lalu dihitung biayanya.",
     "level": "N4",
     "scope": "a2",
     "order": 225,
@@ -18043,14 +19454,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 4,
         "number": 276
-      },
-      {
-        "word": "無料",
-        "kana": "むりょう",
-        "meaning": "gratis; bebas biaya",
-        "source": "marugoto-a2-2",
-        "page": 4,
-        "number": 277
       }
     ],
     "source": {
@@ -18148,7 +19551,12 @@ const KANJI_N4_DATA = [
         "word": "給料",
         "kana": "きゅうりょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 68
+    }
   },
   {
     "id": "kanji-6750",
@@ -18159,10 +19567,10 @@ const KANJI_N4_DATA = [
       "ザイ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "material; timber",
+    "strokes": 7,
+    "radical": "木",
+    "mnemonic": "木 di kiri mengingatkan kayu yang dipakai sebagai bahan membuat benda.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 226,
@@ -18191,7 +19599,12 @@ const KANJI_N4_DATA = [
         "word": "材料",
         "kana": "ざいりょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-7269",
@@ -18203,12 +19616,13 @@ const KANJI_N4_DATA = [
       "モツ"
     ],
     "kun": [
-      "もの"
+      "もの",
+      "もの-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "thing; object",
+    "strokes": 8,
+    "radical": "牛",
+    "mnemonic": "牛 di kiri mengingatkan benda atau makhluk yang bisa diamati di sekitar kita.",
     "level": "N4",
     "scope": "a2",
     "order": 227,
@@ -18228,14 +19642,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-1",
         "page": 2,
         "number": 155
-      },
-      {
-        "word": "飲み物",
-        "kana": "のみもの",
-        "meaning": "minuman",
-        "source": "marugoto-a2-1",
-        "page": 2,
-        "number": 156
       }
     ],
     "source": {
@@ -18326,7 +19732,12 @@ const KANJI_N4_DATA = [
         "word": "忘れ物",
         "kana": "わすれもの"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 93
+    }
   },
   {
     "id": "kanji-7c73",
@@ -18335,15 +19746,17 @@ const KANJI_N4_DATA = [
     "meaning": "beras",
     "on": [
       "ベイ",
-      "マイ"
+      "マイ",
+      "メエトル"
     ],
     "kun": [
-      "こめ"
+      "こめ",
+      "よね"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "rice grain",
+    "strokes": 6,
+    "radical": "米",
+    "mnemonic": "Garis-garis menyebar dari tengah seperti butiran beras yang ditaburkan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 228,
@@ -18372,7 +19785,12 @@ const KANJI_N4_DATA = [
         "word": "米",
         "kana": "こめ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 119
+    }
   },
   {
     "id": "kanji-8089",
@@ -18382,11 +19800,13 @@ const KANJI_N4_DATA = [
     "on": [
       "ニク"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "しし"
+    ],
+    "english": "meat",
+    "strokes": 6,
+    "radical": "肉",
+    "mnemonic": "Bayangkan potongan daging dengan lapisan-lapisan serat di dalam bingkainya.",
     "level": "N4",
     "scope": "a2",
     "order": 229,
@@ -18453,7 +19873,12 @@ const KANJI_N4_DATA = [
         "word": "牛肉",
         "kana": "ぎゅうにく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 130
+    }
   },
   {
     "id": "kanji-8336",
@@ -18465,10 +19890,10 @@ const KANJI_N4_DATA = [
       "サ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "tea",
+    "strokes": 9,
+    "radical": "艸",
+    "mnemonic": "艹 di atas menjadi daun yang dipetik untuk membuat teh.",
     "level": "N4",
     "scope": "a2",
     "order": 230,
@@ -18511,7 +19936,12 @@ const KANJI_N4_DATA = [
         "word": "お茶",
         "kana": "おちゃ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 140
+    }
   },
   {
     "id": "kanji-83dc",
@@ -18524,10 +19954,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "な"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "vegetable; greens",
+    "strokes": 11,
+    "radical": "艸",
+    "mnemonic": "艹 di atas mengingatkan daun sayur yang dipetik dengan tangan.",
     "level": "N4",
     "scope": "a2",
     "order": 231,
@@ -18571,7 +20001,12 @@ const KANJI_N4_DATA = [
         "word": "野菜",
         "kana": "やさい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 140
+    }
   },
   {
     "id": "kanji-9152",
@@ -18583,12 +20018,12 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "さけ",
-      "さか"
+      "さか-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "alcohol; sake",
+    "strokes": 10,
+    "radical": "酉",
+    "mnemonic": "Air di kiri dan wadah 酉 di kanan mengingatkan minuman hasil fermentasi.",
     "level": "N4",
     "scope": "a2",
     "order": 232,
@@ -18632,7 +20067,12 @@ const KANJI_N4_DATA = [
         "word": "お酒",
         "kana": "おさけ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 164
+    }
   },
   {
     "id": "kanji-98ef",
@@ -18645,10 +20085,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "めし"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "cooked rice; meal",
+    "strokes": 12,
+    "radical": "食",
+    "mnemonic": "食 di kiri langsung mengingatkan nasi dan makanan siap disantap.",
     "level": "N4",
     "scope": "a2",
     "order": 233,
@@ -18685,7 +20125,12 @@ const KANJI_N4_DATA = [
         "word": "ご飯",
         "kana": "ごはん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 184
+    }
   },
   {
     "id": "kanji-54c1",
@@ -18693,15 +20138,16 @@ const KANJI_N4_DATA = [
     "category": "food",
     "meaning": "barang; mutu",
     "on": [
-      "ヒン"
+      "ヒン",
+      "ホン"
     ],
     "kun": [
       "しな"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "goods; quality",
+    "strokes": 9,
+    "radical": "口",
+    "mnemonic": "Tiga 口 seperti kotak-kotak barang yang disusun untuk diperiksa mutunya.",
     "level": "N4",
     "scope": "a2",
     "order": 234,
@@ -18759,7 +20205,12 @@ const KANJI_N4_DATA = [
         "word": "電気製品",
         "kana": "でんきせいひん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-4e8b",
@@ -18767,15 +20218,18 @@ const KANJI_N4_DATA = [
     "category": "work",
     "meaning": "hal; urusan",
     "on": [
-      "ジ"
+      "ジ",
+      "ズ"
     ],
     "kun": [
-      "こと"
+      "こと",
+      "つか.う",
+      "つか.える"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "matter; business",
+    "strokes": 8,
+    "radical": "亅",
+    "mnemonic": "Bayangkan tangan di tengah memegang banyak catatan urusan yang harus dibereskan.",
     "level": "N4",
     "scope": "a2",
     "order": 235,
@@ -18795,14 +20249,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-1",
         "page": 2,
         "number": 131
-      },
-      {
-        "word": "願い事",
-        "kana": "ねがいごと",
-        "meaning": "harapan; keinginan",
-        "source": "marugoto-a2-2",
-        "page": 4,
-        "number": 310
       }
     ],
     "source": {
@@ -18870,7 +20316,12 @@ const KANJI_N4_DATA = [
         "word": "願い事",
         "kana": "ねがいごと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 6
+    }
   },
   {
     "id": "kanji-4ed5",
@@ -18878,15 +20329,16 @@ const KANJI_N4_DATA = [
     "category": "work",
     "meaning": "melayani; bekerja",
     "on": [
-      "シ"
+      "シ",
+      "ジ"
     ],
     "kun": [
       "つか.える"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "serve; work",
+    "strokes": 5,
+    "radical": "人",
+    "mnemonic": "Orang di kiri berdiri tegap untuk melayani dan bekerja.",
     "level": "N4",
     "scope": "a2",
     "order": 236,
@@ -18929,7 +20381,12 @@ const KANJI_N4_DATA = [
         "word": "仕事",
         "kana": "しごと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-4fbf",
@@ -18943,10 +20400,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "たよ.り"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "convenience; delivery",
+    "strokes": 9,
+    "radical": "人",
+    "mnemonic": "Orang di kiri membawa kiriman agar kebutuhan orang lain menjadi lebih mudah.",
     "level": "N4",
     "scope": "a2",
     "order": 237,
@@ -18966,14 +20423,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 389
-      },
-      {
-        "word": "～便",
-        "kana": "びん",
-        "meaning": "nomor penerbangan; layanan pengiriman",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 472
       }
     ],
     "source": {
@@ -19021,7 +20470,12 @@ const KANJI_N4_DATA = [
         "word": "～便（115便）",
         "kana": "～びん（いちいちごびん）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-4fc2",
@@ -19033,12 +20487,14 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "かかり",
-      "かか.る"
+      "かか.る",
+      "-がかり",
+      "かか.わる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "person in charge; connection",
+    "strokes": 9,
+    "radical": "人",
+    "mnemonic": "Orang di kiri memegang rangkaian benang yang menghubungkan tugas-tugasnya.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 238,
@@ -19067,7 +20523,12 @@ const KANJI_N4_DATA = [
         "word": "人間関係",
         "kana": "にんげんかんけい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-4fe1",
@@ -19078,10 +20539,10 @@ const KANJI_N4_DATA = [
       "シン"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "trust; message",
+    "strokes": 9,
+    "radical": "人",
+    "mnemonic": "Orang di kiri berdiri di samping 言; bayangkan kata-kata yang bisa dipercaya.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 239,
@@ -19110,7 +20571,12 @@ const KANJI_N4_DATA = [
         "word": "自信",
         "kana": "じしん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-501f",
@@ -19123,10 +20589,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "か.りる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "borrow",
+    "strokes": 10,
+    "radical": "人",
+    "mnemonic": "Orang di kiri membawa benda yang akan dikembalikan setelah dipinjam.",
     "level": "N4",
     "scope": "a2",
     "order": 240,
@@ -19170,7 +20636,12 @@ const KANJI_N4_DATA = [
         "word": "借ります",
         "kana": "かります"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-50cd",
@@ -19183,10 +20654,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "はたら.く"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "work",
+    "strokes": 13,
+    "radical": "人",
+    "mnemonic": "Orang di kiri memakai tenaga 動 untuk menjalankan pekerjaan.",
     "level": "N4",
     "scope": "a2",
     "order": 241,
@@ -19222,7 +20693,12 @@ const KANJI_N4_DATA = [
         "word": "働きます",
         "kana": "はたらきます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-5177",
@@ -19232,11 +20708,14 @@ const KANJI_N4_DATA = [
     "on": [
       "グ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "そな.える",
+      "つぶさ.に"
+    ],
+    "english": "tool; equipment",
+    "strokes": 8,
+    "radical": "八",
+    "mnemonic": "Bayangkan sebuah kotak alat yang diletakkan di atas dua penyangga.",
     "level": "N4",
     "scope": "a2",
     "order": 242,
@@ -19273,7 +20752,12 @@ const KANJI_N4_DATA = [
         "word": "道具",
         "kana": "どうぐ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 12
+    }
   },
   {
     "id": "kanji-5229",
@@ -19286,10 +20770,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "き.く"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "benefit; advantage",
+    "strokes": 7,
+    "radical": "刀",
+    "mnemonic": "禾 dan 刀 mengingatkan hasil panen yang memberi manfaat setelah dipotong.",
     "level": "N4",
     "scope": "a2",
     "order": 243,
@@ -19342,7 +20826,12 @@ const KANJI_N4_DATA = [
         "word": "利用",
         "kana": "りよう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 18
+    }
   },
   {
     "id": "kanji-52df",
@@ -19355,10 +20844,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "つの.る"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "recruit; gather contributions",
+    "strokes": 12,
+    "radical": "力",
+    "mnemonic": "力 di bawah mengingatkan tenaga yang dikumpulkan melalui perekrutan orang baru.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 244,
@@ -19387,7 +20876,12 @@ const KANJI_N4_DATA = [
         "word": "募集",
         "kana": "ぼしゅう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 19
+    }
   },
   {
     "id": "kanji-52e4",
@@ -19395,16 +20889,19 @@ const KANJI_N4_DATA = [
     "category": "work",
     "meaning": "bekerja; bertugas",
     "on": [
-      "キン"
+      "キン",
+      "ゴン"
     ],
     "kun": [
       "つと.める",
-      "つと.まる"
+      "つと.まる",
+      "-づと.め",
+      "いそ.しむ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "work; serve diligently",
+    "strokes": 12,
+    "radical": "力",
+    "mnemonic": "力 di kanan mengingatkan usaha tekun untuk menjalankan pekerjaan setiap hari.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 245,
@@ -19448,7 +20945,12 @@ const KANJI_N4_DATA = [
         "word": "勤める",
         "kana": "つとめる"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 19
+    }
   },
   {
     "id": "kanji-5354",
@@ -19459,10 +20961,10 @@ const KANJI_N4_DATA = [
       "キョウ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "cooperate",
+    "strokes": 8,
+    "radical": "十",
+    "mnemonic": "Tiga 力 bekerja bersama sehingga tugas besar menjadi lebih ringan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 246,
@@ -19491,7 +20993,12 @@ const KANJI_N4_DATA = [
         "word": "協力",
         "kana": "きょうりょく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 24
+    }
   },
   {
     "id": "kanji-5546",
@@ -19504,10 +21011,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "あきな.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "commerce; trade",
+    "strokes": 11,
+    "radical": "口",
+    "mnemonic": "Bayangkan bangunan toko yang terbuka untuk kegiatan jual beli.",
     "level": "N4",
     "scope": "a2",
     "order": 247,
@@ -19543,7 +21050,12 @@ const KANJI_N4_DATA = [
         "word": "商品",
         "kana": "しょうひん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-5831",
@@ -19556,10 +21068,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "むく.いる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "report; news",
+    "strokes": 12,
+    "radical": "土",
+    "mnemonic": "Bayangkan petugas membawa catatan untuk melaporkan kabar kepada orang lain.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 248,
@@ -19588,7 +21100,12 @@ const KANJI_N4_DATA = [
         "word": "報告",
         "kana": "ほうこく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 32
+    }
   },
   {
     "id": "kanji-58f2",
@@ -19602,10 +21119,10 @@ const KANJI_N4_DATA = [
       "う.る",
       "う.れる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "sell",
+    "strokes": 7,
+    "radical": "士",
+    "mnemonic": "Bayangkan barang diletakkan di atas meja sementara penjual berdiri di bawahnya.",
     "level": "N4",
     "scope": "a2",
     "order": 249,
@@ -19642,7 +21159,12 @@ const KANJI_N4_DATA = [
         "word": "売ります",
         "kana": "うります"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 33
+    }
   },
   {
     "id": "kanji-5b9a",
@@ -19655,12 +21177,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "さだ.める",
-      "さだ.まる"
+      "さだ.まる",
+      "さだ.か"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "fixed; determine",
+    "strokes": 8,
+    "radical": "宀",
+    "mnemonic": "Bayangkan sesuatu diletakkan tetap di bawah atap agar tidak bergeser lagi.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 250,
@@ -19704,7 +21227,12 @@ const KANJI_N4_DATA = [
         "word": "予定",
         "kana": "よてい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 40
+    }
   },
   {
     "id": "kanji-5f35",
@@ -19715,12 +21243,14 @@ const KANJI_N4_DATA = [
       "チョウ"
     ],
     "kun": [
-      "は.る"
+      "は.る",
+      "-は.り",
+      "-ば.り"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "stretch; spread",
+    "strokes": 11,
+    "radical": "弓",
+    "mnemonic": "弓 di kiri menjadi busur yang dibentangkan hingga talinya tegang.",
     "level": "N4",
     "scope": "a2",
     "order": 251,
@@ -19764,7 +21294,12 @@ const KANJI_N4_DATA = [
         "word": "出張",
         "kana": "しゅっちょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 57
+    }
   },
   {
     "id": "kanji-5f53",
@@ -19776,12 +21311,16 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "あ.たる",
-      "あ.てる"
+      "あ.てる",
+      "あ.たり",
+      "あ.て",
+      "まさ.に",
+      "まさ.にべし"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "hit; appropriate; on duty",
+    "strokes": 6,
+    "radical": "彐",
+    "mnemonic": "Bayangkan benda kecil dari atas jatuh tepat mengenai wadah di bawah.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 252,
@@ -19810,7 +21349,12 @@ const KANJI_N4_DATA = [
         "word": "担当",
         "kana": "たんとう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 58
+    }
   },
   {
     "id": "kanji-62c5",
@@ -19824,10 +21368,10 @@ const KANJI_N4_DATA = [
       "かつ.ぐ",
       "にな.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "carry; take responsibility",
+    "strokes": 8,
+    "radical": "手",
+    "mnemonic": "Tangan di kiri memikul tugas dari pagi ketika 日 mulai muncul.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 253,
@@ -19856,7 +21400,12 @@ const KANJI_N4_DATA = [
         "word": "担当",
         "kana": "たんとう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 64
+    }
   },
   {
     "id": "kanji-652f",
@@ -19867,12 +21416,14 @@ const KANJI_N4_DATA = [
       "シ"
     ],
     "kun": [
-      "ささ.える"
+      "ささ.える",
+      "つか.える",
+      "か.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "support; branch",
+    "strokes": 4,
+    "radical": "支",
+    "mnemonic": "Bayangkan tangan di bawah menopang sebuah cabang agar tidak jatuh.",
     "level": "N4",
     "scope": "a2",
     "order": 254,
@@ -19916,7 +21467,12 @@ const KANJI_N4_DATA = [
         "word": "支社",
         "kana": "ししゃ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 65
+    }
   },
   {
     "id": "kanji-696d",
@@ -19930,10 +21486,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "わざ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "work; business",
+    "strokes": 13,
+    "radical": "木",
+    "mnemonic": "Bayangkan alat-alat tersusun di atas rangka 木 untuk menjalankan sebuah usaha.",
     "level": "N4",
     "scope": "a2",
     "order": 255,
@@ -19970,7 +21526,12 @@ const KANJI_N4_DATA = [
         "word": "卒業",
         "kana": "そつぎょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 75
+    }
   },
   {
     "id": "kanji-7d66",
@@ -19980,11 +21541,15 @@ const KANJI_N4_DATA = [
     "on": [
       "キュウ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "たま.う",
+      "たも.う",
+      "-たま.え"
+    ],
+    "english": "give; salary",
+    "strokes": 12,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri mengikat paket upah yang diberikan kepada pekerja.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 256,
@@ -20013,7 +21578,12 @@ const KANJI_N4_DATA = [
         "word": "給料",
         "kana": "きゅうりょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-7d4c",
@@ -20022,15 +21592,20 @@ const KANJI_N4_DATA = [
     "meaning": "melewati; mengelola",
     "on": [
       "ケイ",
-      "キョウ"
+      "キョウ",
+      "キン"
     ],
     "kun": [
-      "へ.る"
+      "へ.る",
+      "た.つ",
+      "たていと",
+      "はか.る",
+      "のり"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "pass through; manage",
+    "strokes": 11,
+    "radical": "糸",
+    "mnemonic": "糸 menjadi benang panjang yang melewati banyak tahap perjalanan dan pengelolaan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 257,
@@ -20059,7 +21634,12 @@ const KANJI_N4_DATA = [
         "word": "経験",
         "kana": "けいけん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-8077",
@@ -20067,13 +21647,14 @@ const KANJI_N4_DATA = [
     "category": "work",
     "meaning": "pekerjaan; jabatan",
     "on": [
-      "ショク"
+      "ショク",
+      "ソク"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "job; occupation",
+    "strokes": 18,
+    "radical": "耳",
+    "mnemonic": "耳 di kiri mendengar arahan yang perlu diikuti dalam pekerjaan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 258,
@@ -20102,7 +21683,12 @@ const KANJI_N4_DATA = [
         "word": "職場",
         "kana": "しょくば"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 128
+    }
   },
   {
     "id": "kanji-88fd",
@@ -20113,10 +21699,10 @@ const KANJI_N4_DATA = [
       "セイ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "manufacture; made in",
+    "strokes": 14,
+    "radical": "衣",
+    "mnemonic": "衣 di bawah mengingatkan pakaian yang sedang dibuat di pabrik.",
     "level": "N4",
     "scope": "a2",
     "order": 259,
@@ -20175,7 +21761,12 @@ const KANJI_N4_DATA = [
         "word": "日本製",
         "kana": "にほんせい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 145
+    }
   },
   {
     "id": "kanji-8cb8",
@@ -20186,12 +21777,14 @@ const KANJI_N4_DATA = [
       "タイ"
     ],
     "kun": [
-      "か.す"
+      "か.す",
+      "か.し-",
+      "かし-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "lend",
+    "strokes": 12,
+    "radical": "貝",
+    "mnemonic": "Bayangkan orang di atas menyerahkan benda berharga 貝 untuk dipinjam sementara.",
     "level": "N4",
     "scope": "a2",
     "order": 260,
@@ -20228,7 +21821,12 @@ const KANJI_N4_DATA = [
         "word": "貸します",
         "kana": "かします"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 154
+    }
   },
   {
     "id": "kanji-95a2",
@@ -20240,12 +21838,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "かか.わる",
-      "せき"
+      "せき",
+      "-ぜき",
+      "からくり",
+      "かんぬき"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "connection; barrier",
+    "strokes": 14,
+    "radical": "門",
+    "mnemonic": "門 di luar seperti gerbang yang menghubungkan satu kawasan dengan kawasan lain.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 261,
@@ -20274,7 +21875,12 @@ const KANJI_N4_DATA = [
         "word": "人間関係",
         "kana": "にんげんかんけい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 169
+    }
   },
   {
     "id": "kanji-4e16",
@@ -20283,15 +21889,16 @@ const KANJI_N4_DATA = [
     "meaning": "dunia; generasi",
     "on": [
       "セイ",
-      "セ"
+      "セ",
+      "ソウ"
     ],
     "kun": [
       "よ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "world; generation",
+    "strokes": 5,
+    "radical": "一",
+    "mnemonic": "Tiga bagian yang tersambung mengingatkan generasi yang hidup berurutan di dunia.",
     "level": "N4",
     "scope": "a2",
     "order": 262,
@@ -20305,12 +21912,17 @@ const KANJI_N4_DATA = [
         "number": 342
       },
       {
-        "word": "〜世紀",
+        "word": "世紀",
         "kana": "せいき",
         "meaning": "abad",
         "source": "marugoto-a2-2",
         "page": 5,
-        "number": 344
+        "number": 344,
+        "adaptedFrom": {
+          "word": "〜世紀",
+          "kana": "せいき",
+          "meaning": "abad"
+        }
       }
     ],
     "source": {
@@ -20350,7 +21962,12 @@ const KANJI_N4_DATA = [
         "word": "〜世紀（8世紀）",
         "kana": "〜せいき（はっせいき）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 1
+    }
   },
   {
     "id": "kanji-4ecf",
@@ -20358,15 +21975,16 @@ const KANJI_N4_DATA = [
     "category": "culture",
     "meaning": "Buddha",
     "on": [
-      "ブツ"
+      "ブツ",
+      "フツ"
     ],
     "kun": [
       "ほとけ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "Buddha",
+    "strokes": 4,
+    "radical": "人",
+    "mnemonic": "Orang di kiri berdiri tenang seperti sosok yang sedang bermeditasi.",
     "level": "N4",
     "scope": "a2",
     "order": 263,
@@ -20403,7 +22021,12 @@ const KANJI_N4_DATA = [
         "word": "仏教",
         "kana": "ぶっきょう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 9
+    }
   },
   {
     "id": "kanji-548c",
@@ -20411,16 +22034,21 @@ const KANJI_N4_DATA = [
     "category": "culture",
     "meaning": "harmoni; Jepang",
     "on": [
-      "ワ"
+      "ワ",
+      "オ",
+      "カ"
     ],
     "kun": [
       "やわ.らぐ",
-      "なご.む"
+      "なご.む",
+      "やわ.らげる",
+      "なご.やか",
+      "あ.える"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "harmony; Japanese style",
+    "strokes": 8,
+    "radical": "口",
+    "mnemonic": "禾 dan 口 mengingatkan orang makan bersama dalam suasana rukun.",
     "level": "N4",
     "scope": "a2",
     "order": 264,
@@ -20457,7 +22085,12 @@ const KANJI_N4_DATA = [
         "word": "和食",
         "kana": "わしょく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-5199",
@@ -20465,16 +22098,19 @@ const KANJI_N4_DATA = [
     "category": "culture",
     "meaning": "menyalin; memotret",
     "on": [
-      "シャ"
+      "シャ",
+      "ジャ"
     ],
     "kun": [
       "うつ.す",
-      "うつ.る"
+      "うつ.る",
+      "うつ-",
+      "うつ.し"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "copy; photograph",
+    "strokes": 5,
+    "radical": "冖",
+    "mnemonic": "Bayangkan sebuah gambar di bawah penutup yang sedang disalin ke lembar lain.",
     "level": "N4",
     "scope": "a2",
     "order": 265,
@@ -20517,7 +22153,12 @@ const KANJI_N4_DATA = [
         "word": "写真",
         "kana": "しゃしん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 14
+    }
   },
   {
     "id": "kanji-795e",
@@ -20529,12 +22170,14 @@ const KANJI_N4_DATA = [
       "ジン"
     ],
     "kun": [
-      "かみ"
+      "かみ",
+      "かん-",
+      "こう-"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "deity; god",
+    "strokes": 9,
+    "radical": "示",
+    "mnemonic": "Bagian kiri mengingatkan tempat berdoa; bayangkan orang menghormati dewa di sana.",
     "level": "N4",
     "scope": "a2",
     "order": 266,
@@ -20571,7 +22214,12 @@ const KANJI_N4_DATA = [
         "word": "神社",
         "kana": "じんじゃ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 113
+    }
   },
   {
     "id": "kanji-796d",
@@ -20583,12 +22231,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "まつ.り",
-      "まつ.る"
+      "まつ.る",
+      "まつり"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "festival; ritual",
+    "strokes": 11,
+    "radical": "示",
+    "mnemonic": "Bayangkan tangan menyiapkan persembahan di atas 示 untuk sebuah upacara.",
     "level": "N4",
     "scope": "a2",
     "order": 267,
@@ -20647,7 +22296,12 @@ const KANJI_N4_DATA = [
         "word": "日本祭",
         "kana": "にほんまつり"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 113
+    }
   },
   {
     "id": "kanji-795d",
@@ -20661,10 +22315,10 @@ const KANJI_N4_DATA = [
     "kun": [
       "いわ.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "celebrate; congratulate",
+    "strokes": 9,
+    "radical": "示",
+    "mnemonic": "Bayangkan seseorang berdiri dekat tempat doa sambil mengucapkan selamat.",
     "level": "N4",
     "scope": "a2",
     "order": 268,
@@ -20707,7 +22361,12 @@ const KANJI_N4_DATA = [
         "word": "お祝い",
         "kana": "おいわい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 113
+    }
   },
   {
     "id": "kanji-6b4c",
@@ -20721,10 +22380,10 @@ const KANJI_N4_DATA = [
       "うた",
       "うた.う"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "song; sing",
+    "strokes": 14,
+    "radical": "欠",
+    "mnemonic": "Dua bentuk 可 seperti panggilan yang diulang menjadi nyanyian.",
     "level": "N4",
     "scope": "a2",
     "order": 269,
@@ -20744,14 +22403,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 374
-      },
-      {
-        "word": "歌います",
-        "kana": "うたいます",
-        "meaning": "menyanyikan",
-        "source": "marugoto-a2-2",
-        "page": 4,
-        "number": 242
       }
     ],
     "source": {
@@ -20806,7 +22457,12 @@ const KANJI_N4_DATA = [
         "word": "歌手",
         "kana": "かしゅ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 76
+    }
   },
   {
     "id": "kanji-6620",
@@ -20819,12 +22475,13 @@ const KANJI_N4_DATA = [
     "kun": [
       "うつ.る",
       "うつ.す",
-      "は.える"
+      "は.える",
+      "-ば.え"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "reflect; project",
+    "strokes": 9,
+    "radical": "日",
+    "mnemonic": "日 di kiri menjadi cahaya yang memproyeksikan gambar ke layar.",
     "level": "N4",
     "scope": "a2",
     "order": 270,
@@ -20861,7 +22518,12 @@ const KANJI_N4_DATA = [
         "word": "映画",
         "kana": "えいが"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 72
+    }
   },
   {
     "id": "kanji-753b",
@@ -20870,13 +22532,21 @@ const KANJI_N4_DATA = [
     "meaning": "gambar; rencana",
     "on": [
       "ガ",
-      "カク"
+      "カク",
+      "エ",
+      "カイ"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "えが.く",
+      "かく.する",
+      "かぎ.る",
+      "はかりごと",
+      "はか.る"
+    ],
+    "english": "picture; plan",
+    "strokes": 8,
+    "radical": "田",
+    "mnemonic": "Bayangkan bingkai persegi yang memuat sebuah gambar atau rancangan.",
     "level": "N4",
     "scope": "a2",
     "order": 271,
@@ -20896,14 +22566,6 @@ const KANJI_N4_DATA = [
         "source": "marugoto-a2-2",
         "page": 5,
         "number": 385
-      },
-      {
-        "word": "計画",
-        "kana": "けいかく",
-        "meaning": "rencana",
-        "source": "marugoto-a2-b1",
-        "page": 5,
-        "number": 432
       }
     ],
     "source": {
@@ -20950,7 +22612,12 @@ const KANJI_N4_DATA = [
         "word": "計画",
         "kana": "けいかく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 102
+    }
   },
   {
     "id": "kanji-6b74",
@@ -20958,13 +22625,14 @@ const KANJI_N4_DATA = [
     "category": "culture",
     "meaning": "riwayat; perjalanan waktu",
     "on": [
-      "レキ"
+      "レキ",
+      "レッキ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "history; passage of time",
+    "strokes": 14,
+    "radical": "止",
+    "mnemonic": "Bayangkan langkah 止 melewati deretan pohon dan meninggalkan jejak sejarah.",
     "level": "N4",
     "scope": "a2",
     "order": 272,
@@ -21023,7 +22691,12 @@ const KANJI_N4_DATA = [
         "word": "歴史的",
         "kana": "れきしてき"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 77
+    }
   },
   {
     "id": "kanji-7d00",
@@ -21034,21 +22707,26 @@ const KANJI_N4_DATA = [
       "キ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "chronicle; era",
+    "strokes": 9,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri menjadi benang waktu yang menghubungkan catatan dari berbagai zaman.",
     "level": "N4",
     "scope": "a2",
     "order": 273,
     "examples": [
       {
-        "word": "〜世紀",
+        "word": "世紀",
         "kana": "せいき",
         "meaning": "abad",
         "source": "marugoto-a2-2",
         "page": 5,
-        "number": 344
+        "number": 344,
+        "adaptedFrom": {
+          "word": "〜世紀",
+          "kana": "せいき",
+          "meaning": "abad"
+        }
       }
     ],
     "source": {
@@ -21074,7 +22752,12 @@ const KANJI_N4_DATA = [
         "word": "〜世紀（8世紀）",
         "kana": "〜せいき（はっせいき）"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-7d50",
@@ -21082,16 +22765,18 @@ const KANJI_N4_DATA = [
     "category": "culture",
     "meaning": "mengikat; menyimpulkan",
     "on": [
-      "ケツ"
+      "ケツ",
+      "ケチ"
     ],
     "kun": [
       "むす.ぶ",
-      "ゆ.う"
+      "ゆ.う",
+      "ゆ.わえる"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "tie; conclude",
+    "strokes": 12,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri menjadi benang yang diikat menjadi simpul untuk menyatukan sesuatu.",
     "level": "N4",
     "scope": "a2",
     "order": 274,
@@ -21134,7 +22819,12 @@ const KANJI_N4_DATA = [
         "word": "結婚",
         "kana": "けっこん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-7d75",
@@ -21146,10 +22836,10 @@ const KANJI_N4_DATA = [
       "エ"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "picture; drawing",
+    "strokes": 12,
+    "radical": "糸",
+    "mnemonic": "糸 di kiri menjadi garis-garis yang bertemu membentuk sebuah gambar.",
     "level": "N4",
     "scope": "a2",
     "order": 275,
@@ -21192,7 +22882,12 @@ const KANJI_N4_DATA = [
         "word": "絵",
         "kana": "え"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 120
+    }
   },
   {
     "id": "kanji-8868",
@@ -21204,12 +22899,15 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "おもて",
-      "あらわ.す"
+      "あらわ.す",
+      "-おもて",
+      "あらわ.れる",
+      "あら.わす"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "surface; express",
+    "strokes": 8,
+    "radical": "衣",
+    "mnemonic": "Bayangkan bagian luar 衣 sebagai permukaan yang menampilkan sesuatu kepada orang lain.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 276,
@@ -21238,7 +22936,12 @@ const KANJI_N4_DATA = [
         "word": "表現",
         "kana": "ひょうげん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 145
+    }
   },
   {
     "id": "kanji-97f3",
@@ -21247,16 +22950,17 @@ const KANJI_N4_DATA = [
     "meaning": "bunyi; suara",
     "on": [
       "オン",
-      "イン"
+      "イン",
+      "-ノン"
     ],
     "kun": [
       "おと",
       "ね"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "sound; tone",
+    "strokes": 9,
+    "radical": "音",
+    "mnemonic": "Bayangkan seseorang berdiri mengeluarkan bunyi yang terdengar sepanjang hari.",
     "level": "N4",
     "scope": "a2",
     "order": 277,
@@ -21323,7 +23027,12 @@ const KANJI_N4_DATA = [
         "word": "音",
         "kana": "おと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 180
+    }
   },
   {
     "id": "kanji-52dd",
@@ -21334,12 +23043,16 @@ const KANJI_N4_DATA = [
       "ショウ"
     ],
     "kun": [
-      "か.つ"
+      "か.つ",
+      "-が.ち",
+      "まさ.る",
+      "すぐ.れる",
+      "かつ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "win; victory",
+    "strokes": 12,
+    "radical": "力",
+    "mnemonic": "力 di kanan mengingatkan tenaga yang dipakai sampai meraih kemenangan.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 278,
@@ -21368,7 +23081,12 @@ const KANJI_N4_DATA = [
         "word": "勝つ",
         "kana": "かつ"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 19
+    }
   },
   {
     "id": "kanji-8ca0",
@@ -21380,12 +23098,13 @@ const KANJI_N4_DATA = [
     ],
     "kun": [
       "ま.ける",
-      "お.う"
+      "お.う",
+      "ま.かす"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "lose; bear a burden",
+    "strokes": 9,
+    "radical": "貝",
+    "mnemonic": "貝 di bawah mengingatkan nilai yang hilang ketika seseorang kalah.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 279,
@@ -21414,7 +23133,12 @@ const KANJI_N4_DATA = [
         "word": "負ける",
         "kana": "まける"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 154
+    }
   },
   {
     "id": "kanji-559c",
@@ -21425,12 +23149,13 @@ const KANJI_N4_DATA = [
       "キ"
     ],
     "kun": [
-      "よろこ.ぶ"
+      "よろこ.ぶ",
+      "よろこ.ばす"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "joy; rejoice",
+    "strokes": 12,
+    "radical": "口",
+    "mnemonic": "Bayangkan dua mulut yang tersenyum karena mendengar kabar gembira.",
     "level": "N4",
     "scope": "a2",
     "order": 280,
@@ -21466,7 +23191,12 @@ const KANJI_N4_DATA = [
         "word": "喜びます",
         "kana": "よろこびます"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 30
+    }
   },
   {
     "id": "kanji-8a95",
@@ -21477,10 +23207,10 @@ const KANJI_N4_DATA = [
       "タン"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "birth",
+    "strokes": 15,
+    "radical": "言",
+    "mnemonic": "言 di kiri mengingatkan pengumuman gembira bahwa seorang bayi telah lahir.",
     "level": "N4",
     "scope": "a2",
     "order": 281,
@@ -21523,7 +23253,12 @@ const KANJI_N4_DATA = [
         "word": "誕生日",
         "kana": "たんじょうび"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 149
+    }
   },
   {
     "id": "kanji-9858",
@@ -21534,12 +23269,13 @@ const KANJI_N4_DATA = [
       "ガン"
     ],
     "kun": [
-      "ねが.う"
+      "ねが.う",
+      "-ねがい"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "wish; request",
+    "strokes": 19,
+    "radical": "頁",
+    "mnemonic": "頁 di kanan seperti kepala yang menunduk sambil mengajukan permohonan.",
     "level": "N4",
     "scope": "a2",
     "order": 282,
@@ -21606,7 +23342,12 @@ const KANJI_N4_DATA = [
         "word": "願い事",
         "kana": "ねがいごと"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 181
+    }
   },
   {
     "id": "kanji-670d",
@@ -21617,10 +23358,10 @@ const KANJI_N4_DATA = [
       "フク"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "clothing",
+    "strokes": 8,
+    "radical": "月",
+    "mnemonic": "Bayangkan tangan melipat kain pakaian lalu menyimpannya dengan rapi.",
     "level": "N4",
     "scope": "a2",
     "order": 283,
@@ -21657,7 +23398,12 @@ const KANJI_N4_DATA = [
         "word": "服",
         "kana": "ふく"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 74
+    }
   },
   {
     "id": "kanji-578b",
@@ -21668,12 +23414,13 @@ const KANJI_N4_DATA = [
       "ケイ"
     ],
     "kun": [
-      "かた"
+      "かた",
+      "-がた"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "type; mold; pattern",
+    "strokes": 9,
+    "radical": "土",
+    "mnemonic": "土 di bawah menjadi tanah cetakan untuk membentuk pola yang sama berulang kali.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 284,
@@ -21702,7 +23449,12 @@ const KANJI_N4_DATA = [
         "word": "文型",
         "kana": "ぶんけい"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 32
+    }
   },
   {
     "id": "kanji-6cd5",
@@ -21711,13 +23463,17 @@ const KANJI_N4_DATA = [
     "meaning": "hukum; cara",
     "on": [
       "ホウ",
-      "ハッ"
+      "ハッ",
+      "ホッ",
+      "フラン"
     ],
-    "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "kun": [
+      "のり"
+    ],
+    "english": "law; method",
+    "strokes": 8,
+    "radical": "水",
+    "mnemonic": "Air di kiri mengalir melalui jalur yang diatur seperti hukum atau tata cara.",
     "level": "N4",
     "scope": "a2-b1",
     "order": 285,
@@ -21761,7 +23517,12 @@ const KANJI_N4_DATA = [
         "word": "文法",
         "kana": "ぶんぽう"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-6ce8",
@@ -21772,12 +23533,14 @@ const KANJI_N4_DATA = [
       "チュウ"
     ],
     "kun": [
-      "そそ.ぐ"
+      "そそ.ぐ",
+      "さ.す",
+      "つ.ぐ"
     ],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "pour; pay attention",
+    "strokes": 8,
+    "radical": "水",
+    "mnemonic": "Air di kiri dituangkan menuju satu titik utama 主 agar tidak tumpah.",
     "level": "N4",
     "scope": "a2",
     "order": 286,
@@ -21814,7 +23577,12 @@ const KANJI_N4_DATA = [
         "word": "注文",
         "kana": "ちゅうもん"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 85
+    }
   },
   {
     "id": "kanji-7981",
@@ -21825,10 +23593,10 @@ const KANJI_N4_DATA = [
       "キン"
     ],
     "kun": [],
-    "english": "",
-    "strokes": null,
-    "radical": "",
-    "mnemonic": "",
+    "english": "prohibit; ban",
+    "strokes": 13,
+    "radical": "示",
+    "mnemonic": "Dua 木 di atas menjadi pagar; 示 di bawah mengingatkan tanda larangan.",
     "level": "N4",
     "scope": "a2",
     "order": 287,
@@ -21865,7 +23633,12 @@ const KANJI_N4_DATA = [
         "word": "禁止",
         "kana": "きんし"
       }
-    ]
+    ],
+    "reference": {
+      "source": "KANJIDIC2",
+      "version": "2026-304",
+      "radicalNumber": 113
+    }
   }
 ];
 const KANJI_N4_CATEGORIES = [{"id": "numbers", "name": "Angka & hitungan"}, {"id": "nature", "name": "Alam & cuaca"}, {"id": "people", "name": "Orang & keluarga"}, {"id": "body", "name": "Tubuh & kesehatan"}, {"id": "position", "name": "Letak & arah"}, {"id": "time", "name": "Waktu & urutan"}, {"id": "learning", "name": "Belajar & bahasa"}, {"id": "places", "name": "Tempat & kendaraan"}, {"id": "qualities", "name": "Ukuran & sifat"}, {"id": "actions", "name": "Kegiatan sehari-hari"}, {"id": "food", "name": "Makanan & minuman"}, {"id": "work", "name": "Pekerjaan & layanan"}, {"id": "culture", "name": "Budaya & hiburan"}, {"id": "clothes", "name": "Pakaian"}, {"id": "society", "name": "Aturan & masyarakat"}];

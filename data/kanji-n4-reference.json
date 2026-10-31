@@ -1,0 +1,5583 @@
+{
+  "source": "KANJIDIC2",
+  "copyright": "James William Breen and the Electronic Dictionary Research and Development Group",
+  "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+  "documentation": "https://www.edrdg.org/wiki/KANJIDIC_Project.html",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://www.edrdg.org/edrdg/licence.html",
+  "retrieved": "2026-10-31",
+  "header": {
+    "file_version": "4",
+    "database_version": "2026-304",
+    "date_of_creation": "2026-10-31"
+  },
+  "archiveSha256": "8e70bfa3a7a7df640e3ba254a80438201904d95df0fb23c9323476c2676d3346",
+  "policy": "Primary stroke count; classical Kangxi radical; ja_on and ja_kun only, excluding nanori.",
+  "entries": {
+    "愛": {
+      "char": "愛",
+      "strokes": 13,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "アイ"
+      ],
+      "kun": [
+        "いと.しい",
+        "かな.しい",
+        "め.でる",
+        "お.しむ",
+        "まな"
+      ],
+      "english": [
+        "love",
+        "affection",
+        "favourite"
+      ]
+    },
+    "悪": {
+      "char": "悪",
+      "strokes": 11,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "アク",
+        "オ"
+      ],
+      "kun": [
+        "わる.い",
+        "わる-",
+        "あ.し",
+        "にく.い",
+        "-にく.い",
+        "ああ",
+        "いずくに",
+        "いずくんぞ",
+        "にく.む"
+      ],
+      "english": [
+        "bad",
+        "vice",
+        "rascal",
+        "false",
+        "evil",
+        "wrong"
+      ]
+    },
+    "以": {
+      "char": "以",
+      "strokes": 5,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "イ"
+      ],
+      "kun": [
+        "もっ.て"
+      ],
+      "english": [
+        "by means of",
+        "because",
+        "in view of",
+        "compared with"
+      ]
+    },
+    "意": {
+      "char": "意",
+      "strokes": 13,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "イ"
+      ],
+      "kun": [],
+      "english": [
+        "idea",
+        "mind",
+        "heart",
+        "taste",
+        "thought",
+        "desire",
+        "care",
+        "liking"
+      ]
+    },
+    "員": {
+      "char": "員",
+      "strokes": 10,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "イン"
+      ],
+      "kun": [],
+      "english": [
+        "employee",
+        "member",
+        "number",
+        "the one in charge"
+      ]
+    },
+    "院": {
+      "char": "院",
+      "strokes": 10,
+      "radicalNumber": 170,
+      "radical": "阜",
+      "on": [
+        "イン"
+      ],
+      "kun": [],
+      "english": [
+        "Inst.",
+        "institution",
+        "temple",
+        "mansion",
+        "school"
+      ]
+    },
+    "運": {
+      "char": "運",
+      "strokes": 12,
+      "radicalNumber": 162,
+      "radical": "辵",
+      "on": [
+        "ウン"
+      ],
+      "kun": [
+        "はこ.ぶ"
+      ],
+      "english": [
+        "carry",
+        "luck",
+        "destiny",
+        "fate",
+        "lot",
+        "transport",
+        "progress",
+        "advance"
+      ]
+    },
+    "雲": {
+      "char": "雲",
+      "strokes": 12,
+      "radicalNumber": 173,
+      "radical": "雨",
+      "on": [
+        "ウン"
+      ],
+      "kun": [
+        "くも",
+        "-ぐも"
+      ],
+      "english": [
+        "cloud"
+      ]
+    },
+    "映": {
+      "char": "映",
+      "strokes": 9,
+      "radicalNumber": 72,
+      "radical": "日",
+      "on": [
+        "エイ"
+      ],
+      "kun": [
+        "うつ.る",
+        "うつ.す",
+        "は.える",
+        "-ば.え"
+      ],
+      "english": [
+        "reflect",
+        "reflection",
+        "projection"
+      ]
+    },
+    "泳": {
+      "char": "泳",
+      "strokes": 8,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "エイ"
+      ],
+      "kun": [
+        "およ.ぐ"
+      ],
+      "english": [
+        "swim"
+      ]
+    },
+    "園": {
+      "char": "園",
+      "strokes": 13,
+      "radicalNumber": 31,
+      "radical": "囗",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "その"
+      ],
+      "english": [
+        "park",
+        "garden",
+        "yard",
+        "farm"
+      ]
+    },
+    "遠": {
+      "char": "遠",
+      "strokes": 13,
+      "radicalNumber": 162,
+      "radical": "辵",
+      "on": [
+        "エン",
+        "オン"
+      ],
+      "kun": [
+        "とお.い"
+      ],
+      "english": [
+        "distant",
+        "far"
+      ]
+    },
+    "塩": {
+      "char": "塩",
+      "strokes": 13,
+      "radicalNumber": 32,
+      "radical": "土",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "しお"
+      ],
+      "english": [
+        "salt"
+      ]
+    },
+    "屋": {
+      "char": "屋",
+      "strokes": 9,
+      "radicalNumber": 44,
+      "radical": "尸",
+      "on": [
+        "オク"
+      ],
+      "kun": [
+        "や"
+      ],
+      "english": [
+        "roof",
+        "house",
+        "shop",
+        "dealer",
+        "seller"
+      ]
+    },
+    "温": {
+      "char": "温",
+      "strokes": 12,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "オン"
+      ],
+      "kun": [
+        "あたた.か",
+        "あたた.かい",
+        "あたた.まる",
+        "あたた.める",
+        "ぬく"
+      ],
+      "english": [
+        "warm"
+      ]
+    },
+    "音": {
+      "char": "音",
+      "strokes": 9,
+      "radicalNumber": 180,
+      "radical": "音",
+      "on": [
+        "オン",
+        "イン",
+        "-ノン"
+      ],
+      "kun": [
+        "おと",
+        "ね"
+      ],
+      "english": [
+        "sound",
+        "noise"
+      ]
+    },
+    "化": {
+      "char": "化",
+      "strokes": 4,
+      "radicalNumber": 21,
+      "radical": "匕",
+      "on": [
+        "カ",
+        "ケ"
+      ],
+      "kun": [
+        "ば.ける",
+        "ば.かす",
+        "ふ.ける",
+        "け.する"
+      ],
+      "english": [
+        "change",
+        "take the form of",
+        "influence",
+        "enchant",
+        "delude",
+        "-ization"
+      ]
+    },
+    "加": {
+      "char": "加",
+      "strokes": 5,
+      "radicalNumber": 19,
+      "radical": "力",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "くわ.える",
+        "くわ.わる"
+      ],
+      "english": [
+        "add",
+        "addition",
+        "increase",
+        "join",
+        "include",
+        "Canada"
+      ]
+    },
+    "夏": {
+      "char": "夏",
+      "strokes": 10,
+      "radicalNumber": 35,
+      "radical": "夊",
+      "on": [
+        "カ",
+        "ガ",
+        "ゲ"
+      ],
+      "kun": [
+        "なつ"
+      ],
+      "english": [
+        "summer"
+      ]
+    },
+    "歌": {
+      "char": "歌",
+      "strokes": 14,
+      "radicalNumber": 76,
+      "radical": "欠",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "うた",
+        "うた.う"
+      ],
+      "english": [
+        "song",
+        "sing"
+      ]
+    },
+    "画": {
+      "char": "画",
+      "strokes": 8,
+      "radicalNumber": 102,
+      "radical": "田",
+      "on": [
+        "ガ",
+        "カク",
+        "エ",
+        "カイ"
+      ],
+      "kun": [
+        "えが.く",
+        "かく.する",
+        "かぎ.る",
+        "はかりごと",
+        "はか.る"
+      ],
+      "english": [
+        "brush-stroke",
+        "picture"
+      ]
+    },
+    "介": {
+      "char": "介",
+      "strokes": 4,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "カイ"
+      ],
+      "kun": [],
+      "english": [
+        "jammed in",
+        "shellfish",
+        "mediate",
+        "concern oneself with"
+      ]
+    },
+    "解": {
+      "char": "解",
+      "strokes": 13,
+      "radicalNumber": 148,
+      "radical": "角",
+      "on": [
+        "カイ",
+        "ゲ"
+      ],
+      "kun": [
+        "と.く",
+        "と.かす",
+        "と.ける",
+        "ほど.く",
+        "ほぐ.す",
+        "わか.る",
+        "さと.る"
+      ],
+      "english": [
+        "unravel",
+        "notes",
+        "key",
+        "explanation",
+        "understanding",
+        "untie",
+        "undo",
+        "solve",
+        "answer",
+        "cancel",
+        "absolve",
+        "explain",
+        "minute"
+      ]
+    },
+    "回": {
+      "char": "回",
+      "strokes": 6,
+      "radicalNumber": 31,
+      "radical": "囗",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": [
+        "まわ.る",
+        "-まわ.る",
+        "-まわ.り",
+        "まわ.す",
+        "-まわ.す",
+        "まわ.し-",
+        "-まわ.し",
+        "もとお.る",
+        "か.える"
+      ],
+      "english": [
+        "-times",
+        "round",
+        "game",
+        "revolve",
+        "counter for occurrences"
+      ]
+    },
+    "海": {
+      "char": "海",
+      "strokes": 9,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "カイ"
+      ],
+      "kun": [
+        "うみ"
+      ],
+      "english": [
+        "sea",
+        "ocean"
+      ]
+    },
+    "界": {
+      "char": "界",
+      "strokes": 9,
+      "radicalNumber": 102,
+      "radical": "田",
+      "on": [
+        "カイ"
+      ],
+      "kun": [],
+      "english": [
+        "world",
+        "boundary"
+      ]
+    },
+    "絵": {
+      "char": "絵",
+      "strokes": 12,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": [],
+      "english": [
+        "picture",
+        "drawing",
+        "painting",
+        "sketch"
+      ]
+    },
+    "階": {
+      "char": "階",
+      "strokes": 12,
+      "radicalNumber": 170,
+      "radical": "阜",
+      "on": [
+        "カイ"
+      ],
+      "kun": [
+        "きざはし"
+      ],
+      "english": [
+        "storey",
+        "stair",
+        "counter for storeys of a building"
+      ]
+    },
+    "格": {
+      "char": "格",
+      "strokes": 10,
+      "radicalNumber": 75,
+      "radical": "木",
+      "on": [
+        "カク",
+        "コウ",
+        "キャク",
+        "ゴウ"
+      ],
+      "kun": [],
+      "english": [
+        "status",
+        "rank",
+        "capacity",
+        "character",
+        "case (law, grammar)"
+      ]
+    },
+    "楽": {
+      "char": "楽",
+      "strokes": 13,
+      "radicalNumber": 75,
+      "radical": "木",
+      "on": [
+        "ガク",
+        "ラク",
+        "ゴウ"
+      ],
+      "kun": [
+        "たの.しい",
+        "たの.しむ",
+        "この.む"
+      ],
+      "english": [
+        "music",
+        "comfort",
+        "ease"
+      ]
+    },
+    "活": {
+      "char": "活",
+      "strokes": 9,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "カツ"
+      ],
+      "kun": [
+        "い.きる",
+        "い.かす",
+        "い.ける"
+      ],
+      "english": [
+        "lively",
+        "resuscitation",
+        "being helped",
+        "living"
+      ]
+    },
+    "寒": {
+      "char": "寒",
+      "strokes": 12,
+      "radicalNumber": 40,
+      "radical": "宀",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "さむ.い"
+      ],
+      "english": [
+        "cold"
+      ]
+    },
+    "漢": {
+      "char": "漢",
+      "strokes": 13,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "カン"
+      ],
+      "kun": [],
+      "english": [
+        "Sino-",
+        "China"
+      ]
+    },
+    "観": {
+      "char": "観",
+      "strokes": 18,
+      "radicalNumber": 147,
+      "radical": "見",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "み.る",
+        "しめ.す"
+      ],
+      "english": [
+        "outlook",
+        "look",
+        "appearance",
+        "condition",
+        "view"
+      ]
+    },
+    "関": {
+      "char": "関",
+      "strokes": 14,
+      "radicalNumber": 169,
+      "radical": "門",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "せき",
+        "-ぜき",
+        "かか.わる",
+        "からくり",
+        "かんぬき"
+      ],
+      "english": [
+        "connection",
+        "barrier",
+        "gateway",
+        "involve",
+        "concerning"
+      ]
+    },
+    "館": {
+      "char": "館",
+      "strokes": 16,
+      "radicalNumber": 184,
+      "radical": "食",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "やかた",
+        "たて"
+      ],
+      "english": [
+        "building",
+        "mansion",
+        "large building",
+        "palace"
+      ]
+    },
+    "願": {
+      "char": "願",
+      "strokes": 19,
+      "radicalNumber": 181,
+      "radical": "頁",
+      "on": [
+        "ガン"
+      ],
+      "kun": [
+        "ねが.う",
+        "-ねがい"
+      ],
+      "english": [
+        "petition",
+        "request",
+        "vow",
+        "wish",
+        "hope"
+      ]
+    },
+    "危": {
+      "char": "危",
+      "strokes": 6,
+      "radicalNumber": 26,
+      "radical": "卩",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "あぶ.ない",
+        "あや.うい",
+        "あや.ぶむ"
+      ],
+      "english": [
+        "dangerous",
+        "fear",
+        "uneasy"
+      ]
+    },
+    "喜": {
+      "char": "喜",
+      "strokes": 12,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "よろこ.ぶ",
+        "よろこ.ばす"
+      ],
+      "english": [
+        "rejoice",
+        "take pleasure in"
+      ]
+    },
+    "機": {
+      "char": "機",
+      "strokes": 16,
+      "radicalNumber": 75,
+      "radical": "木",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "はた"
+      ],
+      "english": [
+        "loom",
+        "mechanism",
+        "machine",
+        "airplane",
+        "opportunity",
+        "potency",
+        "efficacy",
+        "occasion"
+      ]
+    },
+    "帰": {
+      "char": "帰",
+      "strokes": 10,
+      "radicalNumber": 50,
+      "radical": "巾",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "かえ.る",
+        "かえ.す",
+        "おく.る",
+        "とつ.ぐ"
+      ],
+      "english": [
+        "homecoming",
+        "arrive at",
+        "lead to",
+        "result in"
+      ]
+    },
+    "紀": {
+      "char": "紀",
+      "strokes": 9,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "キ"
+      ],
+      "kun": [],
+      "english": [
+        "chronicle",
+        "account",
+        "narrative",
+        "history",
+        "annals",
+        "geologic period"
+      ]
+    },
+    "起": {
+      "char": "起",
+      "strokes": 10,
+      "radicalNumber": 156,
+      "radical": "走",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "お.きる",
+        "お.こる",
+        "お.こす",
+        "おこ.す",
+        "た.つ"
+      ],
+      "english": [
+        "rouse",
+        "wake up",
+        "get up"
+      ]
+    },
+    "議": {
+      "char": "議",
+      "strokes": 20,
+      "radicalNumber": 149,
+      "radical": "言",
+      "on": [
+        "ギ"
+      ],
+      "kun": [],
+      "english": [
+        "deliberation",
+        "consultation",
+        "debate",
+        "consideration"
+      ]
+    },
+    "客": {
+      "char": "客",
+      "strokes": 9,
+      "radicalNumber": 40,
+      "radical": "宀",
+      "on": [
+        "キャク",
+        "カク"
+      ],
+      "kun": [],
+      "english": [
+        "guest",
+        "visitor",
+        "customer",
+        "client"
+      ]
+    },
+    "急": {
+      "char": "急",
+      "strokes": 9,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "いそ.ぐ",
+        "いそ.ぎ",
+        "せ.く"
+      ],
+      "english": [
+        "hurry",
+        "emergency",
+        "sudden",
+        "steep"
+      ]
+    },
+    "級": {
+      "char": "級",
+      "strokes": 9,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [],
+      "english": [
+        "class",
+        "rank",
+        "grade"
+      ]
+    },
+    "給": {
+      "char": "給",
+      "strokes": 12,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "たま.う",
+        "たも.う",
+        "-たま.え"
+      ],
+      "english": [
+        "salary",
+        "wage",
+        "gift",
+        "allow",
+        "grant",
+        "bestow on"
+      ]
+    },
+    "去": {
+      "char": "去",
+      "strokes": 5,
+      "radicalNumber": 28,
+      "radical": "厶",
+      "on": [
+        "キョ",
+        "コ"
+      ],
+      "kun": [
+        "さ.る",
+        "-さ.る"
+      ],
+      "english": [
+        "gone",
+        "past",
+        "quit",
+        "leave",
+        "elapse",
+        "eliminate",
+        "divorce"
+      ]
+    },
+    "京": {
+      "char": "京",
+      "strokes": 8,
+      "radicalNumber": 8,
+      "radical": "亠",
+      "on": [
+        "キョウ",
+        "ケイ",
+        "キン"
+      ],
+      "kun": [
+        "みやこ"
+      ],
+      "english": [
+        "capital",
+        "10**16"
+      ]
+    },
+    "協": {
+      "char": "協",
+      "strokes": 8,
+      "radicalNumber": 24,
+      "radical": "十",
+      "on": [
+        "キョウ"
+      ],
+      "kun": [],
+      "english": [
+        "co-",
+        "cooperation"
+      ]
+    },
+    "強": {
+      "char": "強",
+      "strokes": 11,
+      "radicalNumber": 57,
+      "radical": "弓",
+      "on": [
+        "キョウ",
+        "ゴウ"
+      ],
+      "kun": [
+        "つよ.い",
+        "つよ.まる",
+        "つよ.める",
+        "し.いる",
+        "こわ.い"
+      ],
+      "english": [
+        "strong"
+      ]
+    },
+    "教": {
+      "char": "教",
+      "strokes": 11,
+      "radicalNumber": 66,
+      "radical": "攴",
+      "on": [
+        "キョウ"
+      ],
+      "kun": [
+        "おし.える",
+        "おそ.わる"
+      ],
+      "english": [
+        "teach",
+        "faith",
+        "doctrine"
+      ]
+    },
+    "業": {
+      "char": "業",
+      "strokes": 13,
+      "radicalNumber": 75,
+      "radical": "木",
+      "on": [
+        "ギョウ",
+        "ゴウ"
+      ],
+      "kun": [
+        "わざ"
+      ],
+      "english": [
+        "business",
+        "vocation",
+        "arts",
+        "performance"
+      ]
+    },
+    "勤": {
+      "char": "勤",
+      "strokes": 12,
+      "radicalNumber": 19,
+      "radical": "力",
+      "on": [
+        "キン",
+        "ゴン"
+      ],
+      "kun": [
+        "つと.める",
+        "-づと.め",
+        "つと.まる",
+        "いそ.しむ"
+      ],
+      "english": [
+        "diligence",
+        "become employed",
+        "serve"
+      ]
+    },
+    "禁": {
+      "char": "禁",
+      "strokes": 13,
+      "radicalNumber": 113,
+      "radical": "示",
+      "on": [
+        "キン"
+      ],
+      "kun": [],
+      "english": [
+        "prohibition",
+        "ban",
+        "forbid"
+      ]
+    },
+    "近": {
+      "char": "近",
+      "strokes": 7,
+      "radicalNumber": 162,
+      "radical": "辵",
+      "on": [
+        "キン",
+        "コン"
+      ],
+      "kun": [
+        "ちか.い"
+      ],
+      "english": [
+        "near",
+        "early",
+        "akin",
+        "tantamount"
+      ]
+    },
+    "苦": {
+      "char": "苦",
+      "strokes": 8,
+      "radicalNumber": 140,
+      "radical": "艸",
+      "on": [
+        "ク"
+      ],
+      "kun": [
+        "くる.しい",
+        "-ぐる.しい",
+        "くる.しむ",
+        "くる.しめる",
+        "にが.い",
+        "にが.る"
+      ],
+      "english": [
+        "suffering",
+        "trial",
+        "worry",
+        "hardship",
+        "feel bitter",
+        "scowl"
+      ]
+    },
+    "具": {
+      "char": "具",
+      "strokes": 8,
+      "radicalNumber": 12,
+      "radical": "八",
+      "on": [
+        "グ"
+      ],
+      "kun": [
+        "そな.える",
+        "つぶさ.に"
+      ],
+      "english": [
+        "tool",
+        "utensil",
+        "means",
+        "possess",
+        "ingredients",
+        "counter for armor, suits, sets of furniture"
+      ]
+    },
+    "係": {
+      "char": "係",
+      "strokes": 9,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "かか.る",
+        "かかり",
+        "-がかり",
+        "かか.わる"
+      ],
+      "english": [
+        "person in charge",
+        "connection",
+        "duty",
+        "concern oneself"
+      ]
+    },
+    "兄": {
+      "char": "兄",
+      "strokes": 5,
+      "radicalNumber": 10,
+      "radical": "儿",
+      "on": [
+        "ケイ",
+        "キョウ"
+      ],
+      "kun": [
+        "あに"
+      ],
+      "english": [
+        "elder brother",
+        "big brother"
+      ]
+    },
+    "型": {
+      "char": "型",
+      "strokes": 9,
+      "radicalNumber": 32,
+      "radical": "土",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "かた",
+        "-がた"
+      ],
+      "english": [
+        "mould",
+        "type",
+        "model"
+      ]
+    },
+    "形": {
+      "char": "形",
+      "strokes": 7,
+      "radicalNumber": 59,
+      "radical": "彡",
+      "on": [
+        "ケイ",
+        "ギョウ"
+      ],
+      "kun": [
+        "かた",
+        "-がた",
+        "かたち",
+        "なり"
+      ],
+      "english": [
+        "shape",
+        "form",
+        "style"
+      ]
+    },
+    "経": {
+      "char": "経",
+      "strokes": 11,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "ケイ",
+        "キョウ",
+        "キン"
+      ],
+      "kun": [
+        "へ.る",
+        "た.つ",
+        "たていと",
+        "はか.る",
+        "のり"
+      ],
+      "english": [
+        "sutra",
+        "longitude",
+        "pass thru",
+        "expire",
+        "warp"
+      ]
+    },
+    "計": {
+      "char": "計",
+      "strokes": 9,
+      "radicalNumber": 149,
+      "radical": "言",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "はか.る",
+        "はか.らう"
+      ],
+      "english": [
+        "plot",
+        "plan",
+        "scheme",
+        "measure"
+      ]
+    },
+    "軽": {
+      "char": "軽",
+      "strokes": 12,
+      "radicalNumber": 159,
+      "radical": "車",
+      "on": [
+        "ケイ",
+        "キョウ",
+        "キン"
+      ],
+      "kun": [
+        "かる.い",
+        "かろ.やか",
+        "かろ.んじる"
+      ],
+      "english": [
+        "lightly",
+        "trifling",
+        "unimportant"
+      ]
+    },
+    "決": {
+      "char": "決",
+      "strokes": 7,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "ケツ"
+      ],
+      "kun": [
+        "き.める",
+        "-ぎ.め",
+        "き.まる",
+        "さ.く"
+      ],
+      "english": [
+        "decide",
+        "fix",
+        "agree upon",
+        "appoint"
+      ]
+    },
+    "結": {
+      "char": "結",
+      "strokes": 12,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "ケツ",
+        "ケチ"
+      ],
+      "kun": [
+        "むす.ぶ",
+        "ゆ.う",
+        "ゆ.わえる"
+      ],
+      "english": [
+        "tie",
+        "bind",
+        "contract",
+        "join",
+        "organize",
+        "do up hair",
+        "fasten"
+      ]
+    },
+    "健": {
+      "char": "健",
+      "strokes": 11,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "すこ.やか"
+      ],
+      "english": [
+        "healthy",
+        "health",
+        "strength",
+        "persistence"
+      ]
+    },
+    "験": {
+      "char": "験",
+      "strokes": 18,
+      "radicalNumber": 187,
+      "radical": "馬",
+      "on": [
+        "ケン",
+        "ゲン"
+      ],
+      "kun": [
+        "あかし",
+        "しるし",
+        "ため.す",
+        "ためし"
+      ],
+      "english": [
+        "verification",
+        "effect",
+        "testing"
+      ]
+    },
+    "元": {
+      "char": "元",
+      "strokes": 4,
+      "radicalNumber": 10,
+      "radical": "儿",
+      "on": [
+        "ゲン",
+        "ガン"
+      ],
+      "kun": [
+        "もと"
+      ],
+      "english": [
+        "beginning",
+        "former time",
+        "origin"
+      ]
+    },
+    "現": {
+      "char": "現",
+      "strokes": 11,
+      "radicalNumber": 96,
+      "radical": "玉",
+      "on": [
+        "ゲン"
+      ],
+      "kun": [
+        "あらわ.れる",
+        "あらわ.す",
+        "うつつ",
+        "うつ.つ"
+      ],
+      "english": [
+        "present",
+        "existing",
+        "actual"
+      ]
+    },
+    "己": {
+      "char": "己",
+      "strokes": 3,
+      "radicalNumber": 49,
+      "radical": "己",
+      "on": [
+        "コ",
+        "キ"
+      ],
+      "kun": [
+        "おのれ",
+        "つちのと",
+        "な"
+      ],
+      "english": [
+        "self"
+      ]
+    },
+    "交": {
+      "char": "交",
+      "strokes": 6,
+      "radicalNumber": 8,
+      "radical": "亠",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "まじ.わる",
+        "まじ.える",
+        "ま.じる",
+        "まじ.る",
+        "ま.ざる",
+        "ま.ぜる",
+        "-か.う",
+        "か.わす",
+        "かわ.す",
+        "こもごも"
+      ],
+      "english": [
+        "mingle",
+        "mixing",
+        "association",
+        "coming & going"
+      ]
+    },
+    "光": {
+      "char": "光",
+      "strokes": 6,
+      "radicalNumber": 10,
+      "radical": "儿",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "ひか.る",
+        "ひかり"
+      ],
+      "english": [
+        "ray",
+        "light"
+      ]
+    },
+    "公": {
+      "char": "公",
+      "strokes": 4,
+      "radicalNumber": 12,
+      "radical": "八",
+      "on": [
+        "コウ",
+        "ク"
+      ],
+      "kun": [
+        "おおやけ"
+      ],
+      "english": [
+        "public",
+        "prince",
+        "official",
+        "governmental"
+      ]
+    },
+    "幸": {
+      "char": "幸",
+      "strokes": 8,
+      "radicalNumber": 51,
+      "radical": "干",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "さいわ.い",
+        "さち",
+        "しあわ.せ"
+      ],
+      "english": [
+        "happiness",
+        "blessing",
+        "fortune"
+      ]
+    },
+    "広": {
+      "char": "広",
+      "strokes": 5,
+      "radicalNumber": 53,
+      "radical": "广",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "ひろ.い",
+        "ひろ.まる",
+        "ひろ.める",
+        "ひろ.がる",
+        "ひろ.げる"
+      ],
+      "english": [
+        "wide",
+        "broad",
+        "spacious"
+      ]
+    },
+    "康": {
+      "char": "康",
+      "strokes": 11,
+      "radicalNumber": 53,
+      "radical": "广",
+      "on": [
+        "コウ"
+      ],
+      "kun": [],
+      "english": [
+        "ease",
+        "peace"
+      ]
+    },
+    "更": {
+      "char": "更",
+      "strokes": 7,
+      "radicalNumber": 73,
+      "radical": "曰",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "さら",
+        "さら.に",
+        "ふ.ける",
+        "ふ.かす"
+      ],
+      "english": [
+        "grow late",
+        "night watch",
+        "sit up late",
+        "of course",
+        "renew",
+        "renovate",
+        "again",
+        "more and more",
+        "further"
+      ]
+    },
+    "港": {
+      "char": "港",
+      "strokes": 12,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "みなと"
+      ],
+      "english": [
+        "harbor"
+      ]
+    },
+    "考": {
+      "char": "考",
+      "strokes": 6,
+      "radicalNumber": 125,
+      "radical": "老",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "かんが.える",
+        "かんが.え"
+      ],
+      "english": [
+        "consider",
+        "think over"
+      ]
+    },
+    "航": {
+      "char": "航",
+      "strokes": 10,
+      "radicalNumber": 137,
+      "radical": "舟",
+      "on": [
+        "コウ"
+      ],
+      "kun": [],
+      "english": [
+        "navigate",
+        "sail",
+        "cruise",
+        "fly"
+      ]
+    },
+    "合": {
+      "char": "合",
+      "strokes": 6,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "ゴウ",
+        "ガッ",
+        "カッ"
+      ],
+      "kun": [
+        "あ.う",
+        "-あ.う",
+        "あ.い",
+        "あい-",
+        "-あ.い",
+        "-あい",
+        "あ.わす",
+        "あ.わせる",
+        "-あ.わせる"
+      ],
+      "english": [
+        "fit",
+        "suit",
+        "join",
+        "0.1"
+      ]
+    },
+    "告": {
+      "char": "告",
+      "strokes": 7,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "コク"
+      ],
+      "kun": [
+        "つ.げる"
+      ],
+      "english": [
+        "revelation",
+        "tell",
+        "inform",
+        "announce"
+      ]
+    },
+    "黒": {
+      "char": "黒",
+      "strokes": 11,
+      "radicalNumber": 203,
+      "radical": "黑",
+      "on": [
+        "コク"
+      ],
+      "kun": [
+        "くろ",
+        "くろ.ずむ",
+        "くろ.い"
+      ],
+      "english": [
+        "black"
+      ]
+    },
+    "婚": {
+      "char": "婚",
+      "strokes": 11,
+      "radicalNumber": 38,
+      "radical": "女",
+      "on": [
+        "コン"
+      ],
+      "kun": [],
+      "english": [
+        "marriage"
+      ]
+    },
+    "座": {
+      "char": "座",
+      "strokes": 10,
+      "radicalNumber": 53,
+      "radical": "广",
+      "on": [
+        "ザ"
+      ],
+      "kun": [
+        "すわ.る"
+      ],
+      "english": [
+        "squat",
+        "seat",
+        "cushion",
+        "gathering",
+        "sit"
+      ]
+    },
+    "最": {
+      "char": "最",
+      "strokes": 12,
+      "radicalNumber": 73,
+      "radical": "曰",
+      "on": [
+        "サイ",
+        "シュ"
+      ],
+      "kun": [
+        "もっと.も",
+        "つま"
+      ],
+      "english": [
+        "utmost",
+        "most",
+        "extreme"
+      ]
+    },
+    "妻": {
+      "char": "妻",
+      "strokes": 8,
+      "radicalNumber": 38,
+      "radical": "女",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "つま"
+      ],
+      "english": [
+        "wife",
+        "spouse"
+      ]
+    },
+    "祭": {
+      "char": "祭",
+      "strokes": 11,
+      "radicalNumber": 113,
+      "radical": "示",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "まつ.る",
+        "まつ.り",
+        "まつり"
+      ],
+      "english": [
+        "ritual",
+        "offer prayers",
+        "celebrate",
+        "deify",
+        "enshrine",
+        "worship"
+      ]
+    },
+    "菜": {
+      "char": "菜",
+      "strokes": 11,
+      "radicalNumber": 140,
+      "radical": "艸",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "な"
+      ],
+      "english": [
+        "vegetable",
+        "side dish",
+        "greens"
+      ]
+    },
+    "材": {
+      "char": "材",
+      "strokes": 7,
+      "radicalNumber": 75,
+      "radical": "木",
+      "on": [
+        "ザイ"
+      ],
+      "kun": [],
+      "english": [
+        "lumber",
+        "log",
+        "timber",
+        "wood",
+        "materials",
+        "ingredients",
+        "talent"
+      ]
+    },
+    "作": {
+      "char": "作",
+      "strokes": 7,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "サク",
+        "サ"
+      ],
+      "kun": [
+        "つく.る",
+        "つく.り",
+        "-づく.り"
+      ],
+      "english": [
+        "make",
+        "production",
+        "prepare",
+        "build"
+      ]
+    },
+    "参": {
+      "char": "参",
+      "strokes": 8,
+      "radicalNumber": 28,
+      "radical": "厶",
+      "on": [
+        "サン",
+        "シン"
+      ],
+      "kun": [
+        "まい.る",
+        "まい-",
+        "まじわる",
+        "みつ"
+      ],
+      "english": [
+        "nonplussed",
+        "three (in documents)",
+        "going",
+        "coming",
+        "visiting",
+        "visit",
+        "be defeated",
+        "die",
+        "be madly in love",
+        "participate",
+        "take part in"
+      ]
+    },
+    "仕": {
+      "char": "仕",
+      "strokes": 5,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "シ",
+        "ジ"
+      ],
+      "kun": [
+        "つか.える"
+      ],
+      "english": [
+        "attend",
+        "doing",
+        "official",
+        "serve"
+      ]
+    },
+    "使": {
+      "char": "使",
+      "strokes": 8,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "つか.う",
+        "つか.い",
+        "-つか.い",
+        "-づか.い"
+      ],
+      "english": [
+        "use",
+        "send on a mission",
+        "order",
+        "messenger",
+        "envoy",
+        "ambassador",
+        "cause"
+      ]
+    },
+    "史": {
+      "char": "史",
+      "strokes": 5,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "シ"
+      ],
+      "kun": [],
+      "english": [
+        "history",
+        "chronicle"
+      ]
+    },
+    "始": {
+      "char": "始",
+      "strokes": 8,
+      "radicalNumber": 38,
+      "radical": "女",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "はじ.める",
+        "-はじ.める",
+        "はじ.まる"
+      ],
+      "english": [
+        "commence",
+        "begin"
+      ]
+    },
+    "姉": {
+      "char": "姉",
+      "strokes": 8,
+      "radicalNumber": 38,
+      "radical": "女",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "あね",
+        "はは"
+      ],
+      "english": [
+        "elder sister"
+      ]
+    },
+    "市": {
+      "char": "市",
+      "strokes": 5,
+      "radicalNumber": 50,
+      "radical": "巾",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "いち"
+      ],
+      "english": [
+        "market",
+        "city",
+        "town"
+      ]
+    },
+    "思": {
+      "char": "思",
+      "strokes": 9,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "おも.う",
+        "おもえら.く",
+        "おぼ.す"
+      ],
+      "english": [
+        "think"
+      ]
+    },
+    "支": {
+      "char": "支",
+      "strokes": 4,
+      "radicalNumber": 65,
+      "radical": "支",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "ささ.える",
+        "つか.える",
+        "か.う"
+      ],
+      "english": [
+        "branch",
+        "support",
+        "sustain",
+        "branch radical (no. 65)"
+      ]
+    },
+    "止": {
+      "char": "止",
+      "strokes": 4,
+      "radicalNumber": 77,
+      "radical": "止",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "と.まる",
+        "-ど.まり",
+        "と.める",
+        "-と.める",
+        "-ど.め",
+        "とど.める",
+        "とど.め",
+        "とど.まる",
+        "や.める",
+        "や.む",
+        "-や.む",
+        "よ.す",
+        "-さ.す",
+        "-さ.し"
+      ],
+      "english": [
+        "stop",
+        "halt"
+      ]
+    },
+    "紙": {
+      "char": "紙",
+      "strokes": 10,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "かみ"
+      ],
+      "english": [
+        "paper"
+      ]
+    },
+    "試": {
+      "char": "試",
+      "strokes": 13,
+      "radicalNumber": 149,
+      "radical": "言",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "こころ.みる",
+        "ため.す"
+      ],
+      "english": [
+        "test",
+        "try",
+        "attempt",
+        "experiment",
+        "ordeal"
+      ]
+    },
+    "事": {
+      "char": "事",
+      "strokes": 8,
+      "radicalNumber": 6,
+      "radical": "亅",
+      "on": [
+        "ジ",
+        "ズ"
+      ],
+      "kun": [
+        "こと",
+        "つか.う",
+        "つか.える"
+      ],
+      "english": [
+        "matter",
+        "thing",
+        "fact",
+        "business",
+        "reason",
+        "possibly"
+      ]
+    },
+    "字": {
+      "char": "字",
+      "strokes": 6,
+      "radicalNumber": 39,
+      "radical": "子",
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "あざ",
+        "あざな",
+        "-な"
+      ],
+      "english": [
+        "character",
+        "letter",
+        "word",
+        "section of village"
+      ]
+    },
+    "寺": {
+      "char": "寺",
+      "strokes": 6,
+      "radicalNumber": 41,
+      "radical": "寸",
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "てら"
+      ],
+      "english": [
+        "Buddhist temple"
+      ]
+    },
+    "持": {
+      "char": "持",
+      "strokes": 9,
+      "radicalNumber": 64,
+      "radical": "手",
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "も.つ",
+        "-も.ち",
+        "も.てる"
+      ],
+      "english": [
+        "hold",
+        "have"
+      ]
+    },
+    "自": {
+      "char": "自",
+      "strokes": 6,
+      "radicalNumber": 132,
+      "radical": "自",
+      "on": [
+        "ジ",
+        "シ"
+      ],
+      "kun": [
+        "みずか.ら",
+        "おの.ずから",
+        "おの.ずと"
+      ],
+      "english": [
+        "oneself"
+      ]
+    },
+    "式": {
+      "char": "式",
+      "strokes": 6,
+      "radicalNumber": 56,
+      "radical": "弋",
+      "on": [
+        "シキ"
+      ],
+      "kun": [],
+      "english": [
+        "style",
+        "ceremony",
+        "rite",
+        "function",
+        "method",
+        "system",
+        "form",
+        "expression"
+      ]
+    },
+    "室": {
+      "char": "室",
+      "strokes": 9,
+      "radicalNumber": 40,
+      "radical": "宀",
+      "on": [
+        "シツ"
+      ],
+      "kun": [
+        "むろ"
+      ],
+      "english": [
+        "room",
+        "apartment",
+        "chamber",
+        "greenhouse",
+        "cellar"
+      ]
+    },
+    "質": {
+      "char": "質",
+      "strokes": 15,
+      "radicalNumber": 154,
+      "radical": "貝",
+      "on": [
+        "シツ",
+        "シチ",
+        "チ"
+      ],
+      "kun": [
+        "たち",
+        "ただ.す",
+        "もと",
+        "わりふ"
+      ],
+      "english": [
+        "substance",
+        "quality",
+        "matter",
+        "temperament"
+      ]
+    },
+    "写": {
+      "char": "写",
+      "strokes": 5,
+      "radicalNumber": 14,
+      "radical": "冖",
+      "on": [
+        "シャ",
+        "ジャ"
+      ],
+      "kun": [
+        "うつ.す",
+        "うつ.る",
+        "うつ-",
+        "うつ.し"
+      ],
+      "english": [
+        "copy",
+        "be photographed",
+        "describe"
+      ]
+    },
+    "者": {
+      "char": "者",
+      "strokes": 8,
+      "radicalNumber": 125,
+      "radical": "老",
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "もの"
+      ],
+      "english": [
+        "someone",
+        "person"
+      ]
+    },
+    "借": {
+      "char": "借",
+      "strokes": 10,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "シャク"
+      ],
+      "kun": [
+        "か.りる"
+      ],
+      "english": [
+        "borrow",
+        "rent"
+      ]
+    },
+    "若": {
+      "char": "若",
+      "strokes": 8,
+      "radicalNumber": 140,
+      "radical": "艸",
+      "on": [
+        "ジャク",
+        "ニャク",
+        "ニャ"
+      ],
+      "kun": [
+        "わか.い",
+        "わか-",
+        "も.しくわ",
+        "も.し",
+        "も.しくは",
+        "ごと.し"
+      ],
+      "english": [
+        "young",
+        "if",
+        "perhaps",
+        "possibly",
+        "low number",
+        "immature"
+      ]
+    },
+    "弱": {
+      "char": "弱",
+      "strokes": 10,
+      "radicalNumber": 57,
+      "radical": "弓",
+      "on": [
+        "ジャク"
+      ],
+      "kun": [
+        "よわ.い",
+        "よわ.る",
+        "よわ.まる",
+        "よわ.める"
+      ],
+      "english": [
+        "weak",
+        "frail"
+      ]
+    },
+    "酒": {
+      "char": "酒",
+      "strokes": 10,
+      "radicalNumber": 164,
+      "radical": "酉",
+      "on": [
+        "シュ"
+      ],
+      "kun": [
+        "さけ",
+        "さか-"
+      ],
+      "english": [
+        "sake",
+        "alcohol"
+      ]
+    },
+    "受": {
+      "char": "受",
+      "strokes": 8,
+      "radicalNumber": 29,
+      "radical": "又",
+      "on": [
+        "ジュ"
+      ],
+      "kun": [
+        "う.ける",
+        "-う.け",
+        "う.かる"
+      ],
+      "english": [
+        "accept",
+        "undergo",
+        "answer (phone)",
+        "take",
+        "get",
+        "catch",
+        "receive"
+      ]
+    },
+    "秋": {
+      "char": "秋",
+      "strokes": 9,
+      "radicalNumber": 115,
+      "radical": "禾",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "あき",
+        "とき"
+      ],
+      "english": [
+        "autumn"
+      ]
+    },
+    "終": {
+      "char": "終",
+      "strokes": 11,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "お.わる",
+        "-お.わる",
+        "おわ.る",
+        "お.える",
+        "つい",
+        "つい.に"
+      ],
+      "english": [
+        "end",
+        "finish"
+      ]
+    },
+    "習": {
+      "char": "習",
+      "strokes": 11,
+      "radicalNumber": 124,
+      "radical": "羽",
+      "on": [
+        "シュウ",
+        "ジュ"
+      ],
+      "kun": [
+        "なら.う",
+        "なら.い"
+      ],
+      "english": [
+        "learn"
+      ]
+    },
+    "集": {
+      "char": "集",
+      "strokes": 12,
+      "radicalNumber": 172,
+      "radical": "隹",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "あつ.まる",
+        "あつ.める",
+        "つど.う"
+      ],
+      "english": [
+        "gather",
+        "meet",
+        "congregate",
+        "swarm",
+        "flock"
+      ]
+    },
+    "住": {
+      "char": "住",
+      "strokes": 7,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "ジュウ",
+        "ヂュウ",
+        "チュウ"
+      ],
+      "kun": [
+        "す.む",
+        "す.まう",
+        "-ず.まい"
+      ],
+      "english": [
+        "dwell",
+        "reside",
+        "live",
+        "inhabit"
+      ]
+    },
+    "重": {
+      "char": "重",
+      "strokes": 9,
+      "radicalNumber": 166,
+      "radical": "里",
+      "on": [
+        "ジュウ",
+        "チョウ"
+      ],
+      "kun": [
+        "え",
+        "おも.い",
+        "おも.り",
+        "おも.なう",
+        "かさ.ねる",
+        "かさ.なる",
+        "おも"
+      ],
+      "english": [
+        "heavy",
+        "important",
+        "esteem",
+        "respect",
+        "heap up",
+        "pile up",
+        "nest of boxes",
+        "-fold"
+      ]
+    },
+    "祝": {
+      "char": "祝",
+      "strokes": 9,
+      "radicalNumber": 113,
+      "radical": "示",
+      "on": [
+        "シュク",
+        "シュウ"
+      ],
+      "kun": [
+        "いわ.う"
+      ],
+      "english": [
+        "celebrate",
+        "congratulate"
+      ]
+    },
+    "春": {
+      "char": "春",
+      "strokes": 9,
+      "radicalNumber": 72,
+      "radical": "日",
+      "on": [
+        "シュン"
+      ],
+      "kun": [
+        "はる"
+      ],
+      "english": [
+        "springtime",
+        "spring (season)"
+      ]
+    },
+    "初": {
+      "char": "初",
+      "strokes": 7,
+      "radicalNumber": 18,
+      "radical": "刀",
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "はじ.め",
+        "はじ.めて",
+        "はつ",
+        "はつ-",
+        "うい-",
+        "-そ.める",
+        "-ぞ.め"
+      ],
+      "english": [
+        "first time",
+        "beginning"
+      ]
+    },
+    "所": {
+      "char": "所",
+      "strokes": 8,
+      "radicalNumber": 63,
+      "radical": "戶",
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "ところ",
+        "-ところ",
+        "どころ",
+        "とこ"
+      ],
+      "english": [
+        "place",
+        "extent"
+      ]
+    },
+    "暑": {
+      "char": "暑",
+      "strokes": 12,
+      "radicalNumber": 72,
+      "radical": "日",
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "あつ.い"
+      ],
+      "english": [
+        "sultry",
+        "hot",
+        "summer heat"
+      ]
+    },
+    "助": {
+      "char": "助",
+      "strokes": 7,
+      "radicalNumber": 19,
+      "radical": "力",
+      "on": [
+        "ジョ"
+      ],
+      "kun": [
+        "たす.ける",
+        "たす.かる",
+        "す.ける",
+        "すけ"
+      ],
+      "english": [
+        "help",
+        "rescue",
+        "assist"
+      ]
+    },
+    "勝": {
+      "char": "勝",
+      "strokes": 12,
+      "radicalNumber": 19,
+      "radical": "力",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "か.つ",
+        "-が.ち",
+        "まさ.る",
+        "すぐ.れる",
+        "かつ"
+      ],
+      "english": [
+        "victory",
+        "win",
+        "prevail",
+        "excel"
+      ]
+    },
+    "商": {
+      "char": "商",
+      "strokes": 11,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "あきな.う"
+      ],
+      "english": [
+        "make a deal",
+        "selling",
+        "dealing in",
+        "merchant"
+      ]
+    },
+    "招": {
+      "char": "招",
+      "strokes": 8,
+      "radicalNumber": 64,
+      "radical": "手",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "まね.く"
+      ],
+      "english": [
+        "beckon",
+        "invite",
+        "summon",
+        "engage"
+      ]
+    },
+    "省": {
+      "char": "省",
+      "strokes": 9,
+      "radicalNumber": 109,
+      "radical": "目",
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "かえり.みる",
+        "はぶ.く"
+      ],
+      "english": [
+        "government ministry",
+        "conserve",
+        "omit"
+      ]
+    },
+    "紹": {
+      "char": "紹",
+      "strokes": 11,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [],
+      "english": [
+        "introduce",
+        "inherit",
+        "help"
+      ]
+    },
+    "乗": {
+      "char": "乗",
+      "strokes": 9,
+      "radicalNumber": 4,
+      "radical": "丿",
+      "on": [
+        "ジョウ",
+        "ショウ"
+      ],
+      "kun": [
+        "の.る",
+        "-の.り",
+        "の.せる"
+      ],
+      "english": [
+        "ride",
+        "power",
+        "multiplication",
+        "record",
+        "counter for vehicles",
+        "board",
+        "mount",
+        "join"
+      ]
+    },
+    "場": {
+      "char": "場",
+      "strokes": 12,
+      "radicalNumber": 32,
+      "radical": "土",
+      "on": [
+        "ジョウ",
+        "チョウ"
+      ],
+      "kun": [
+        "ば"
+      ],
+      "english": [
+        "location",
+        "place"
+      ]
+    },
+    "職": {
+      "char": "職",
+      "strokes": 18,
+      "radicalNumber": 128,
+      "radical": "耳",
+      "on": [
+        "ショク",
+        "ソク"
+      ],
+      "kun": [],
+      "english": [
+        "post",
+        "employment",
+        "work"
+      ]
+    },
+    "色": {
+      "char": "色",
+      "strokes": 6,
+      "radicalNumber": 139,
+      "radical": "色",
+      "on": [
+        "ショク",
+        "シキ"
+      ],
+      "kun": [
+        "いろ"
+      ],
+      "english": [
+        "color"
+      ]
+    },
+    "信": {
+      "char": "信",
+      "strokes": 9,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "シン"
+      ],
+      "kun": [],
+      "english": [
+        "faith",
+        "truth",
+        "fidelity",
+        "trust"
+      ]
+    },
+    "寝": {
+      "char": "寝",
+      "strokes": 13,
+      "radicalNumber": 40,
+      "radical": "宀",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "ね.る",
+        "ね.かす",
+        "い.ぬ",
+        "みたまや",
+        "や.める"
+      ],
+      "english": [
+        "lie down",
+        "sleep",
+        "rest",
+        "bed",
+        "remain unsold"
+      ]
+    },
+    "心": {
+      "char": "心",
+      "strokes": 4,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "こころ",
+        "-ごころ"
+      ],
+      "english": [
+        "heart",
+        "mind",
+        "spirit",
+        "heart radical (no. 61)"
+      ]
+    },
+    "森": {
+      "char": "森",
+      "strokes": 12,
+      "radicalNumber": 75,
+      "radical": "木",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "もり"
+      ],
+      "english": [
+        "forest",
+        "woods"
+      ]
+    },
+    "真": {
+      "char": "真",
+      "strokes": 10,
+      "radicalNumber": 109,
+      "radical": "目",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "ま",
+        "ま-",
+        "まこと"
+      ],
+      "english": [
+        "true",
+        "reality",
+        "Buddhist sect"
+      ]
+    },
+    "神": {
+      "char": "神",
+      "strokes": 9,
+      "radicalNumber": 113,
+      "radical": "示",
+      "on": [
+        "シン",
+        "ジン"
+      ],
+      "kun": [
+        "かみ",
+        "かん-",
+        "こう-"
+      ],
+      "english": [
+        "gods",
+        "mind",
+        "soul"
+      ]
+    },
+    "親": {
+      "char": "親",
+      "strokes": 16,
+      "radicalNumber": 147,
+      "radical": "見",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "おや",
+        "おや-",
+        "した.しい",
+        "した.しむ"
+      ],
+      "english": [
+        "parent",
+        "intimacy",
+        "relative",
+        "familiarity",
+        "dealer (cards)"
+      ]
+    },
+    "世": {
+      "char": "世",
+      "strokes": 5,
+      "radicalNumber": 1,
+      "radical": "一",
+      "on": [
+        "セイ",
+        "セ",
+        "ソウ"
+      ],
+      "kun": [
+        "よ"
+      ],
+      "english": [
+        "generation",
+        "world",
+        "society",
+        "public"
+      ]
+    },
+    "性": {
+      "char": "性",
+      "strokes": 8,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "さが"
+      ],
+      "english": [
+        "sex",
+        "gender",
+        "nature"
+      ]
+    },
+    "成": {
+      "char": "成",
+      "strokes": 6,
+      "radicalNumber": 62,
+      "radical": "戈",
+      "on": [
+        "セイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "な.る",
+        "な.す",
+        "-な.す"
+      ],
+      "english": [
+        "turn into",
+        "become",
+        "get",
+        "grow",
+        "elapse",
+        "reach"
+      ]
+    },
+    "晴": {
+      "char": "晴",
+      "strokes": 12,
+      "radicalNumber": 72,
+      "radical": "日",
+      "on": [
+        "セイ"
+      ],
+      "kun": [
+        "は.れる",
+        "は.れ",
+        "は.れ-",
+        "-ば.れ",
+        "は.らす"
+      ],
+      "english": [
+        "clear up"
+      ]
+    },
+    "正": {
+      "char": "正",
+      "strokes": 5,
+      "radicalNumber": 77,
+      "radical": "止",
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "ただ.しい",
+        "ただ.す",
+        "まさ",
+        "まさ.に"
+      ],
+      "english": [
+        "correct",
+        "justice",
+        "righteous",
+        "10**40"
+      ]
+    },
+    "製": {
+      "char": "製",
+      "strokes": 14,
+      "radicalNumber": 145,
+      "radical": "衣",
+      "on": [
+        "セイ"
+      ],
+      "kun": [],
+      "english": [
+        "made in...",
+        "manufacture"
+      ]
+    },
+    "青": {
+      "char": "青",
+      "strokes": 8,
+      "radicalNumber": 174,
+      "radical": "靑",
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "あお",
+        "あお-",
+        "あお.い"
+      ],
+      "english": [
+        "blue",
+        "green"
+      ]
+    },
+    "静": {
+      "char": "静",
+      "strokes": 14,
+      "radicalNumber": 174,
+      "radical": "靑",
+      "on": [
+        "セイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "しず-",
+        "しず.か",
+        "しず.まる",
+        "しず.める"
+      ],
+      "english": [
+        "quiet"
+      ]
+    },
+    "席": {
+      "char": "席",
+      "strokes": 10,
+      "radicalNumber": 50,
+      "radical": "巾",
+      "on": [
+        "セキ"
+      ],
+      "kun": [
+        "むしろ"
+      ],
+      "english": [
+        "seat",
+        "mat",
+        "occasion",
+        "place"
+      ]
+    },
+    "赤": {
+      "char": "赤",
+      "strokes": 7,
+      "radicalNumber": 155,
+      "radical": "赤",
+      "on": [
+        "セキ",
+        "シャク"
+      ],
+      "kun": [
+        "あか",
+        "あか-",
+        "あか.い",
+        "あか.らむ",
+        "あか.らめる"
+      ],
+      "english": [
+        "red"
+      ]
+    },
+    "切": {
+      "char": "切",
+      "strokes": 4,
+      "radicalNumber": 18,
+      "radical": "刀",
+      "on": [
+        "セツ",
+        "サイ"
+      ],
+      "kun": [
+        "き.る",
+        "-き.る",
+        "き.り",
+        "-き.り",
+        "-ぎ.り",
+        "き.れる",
+        "-き.れる",
+        "き.れ",
+        "-き.れ",
+        "-ぎ.れ"
+      ],
+      "english": [
+        "cut",
+        "cutoff",
+        "be sharp"
+      ]
+    },
+    "説": {
+      "char": "説",
+      "strokes": 14,
+      "radicalNumber": 149,
+      "radical": "言",
+      "on": [
+        "セツ",
+        "ゼイ"
+      ],
+      "kun": [
+        "と.く"
+      ],
+      "english": [
+        "opinion",
+        "theory",
+        "explanation",
+        "rumor"
+      ]
+    },
+    "雪": {
+      "char": "雪",
+      "strokes": 11,
+      "radicalNumber": 173,
+      "radical": "雨",
+      "on": [
+        "セツ"
+      ],
+      "kun": [
+        "ゆき"
+      ],
+      "english": [
+        "snow"
+      ]
+    },
+    "洗": {
+      "char": "洗",
+      "strokes": 9,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "あら.う"
+      ],
+      "english": [
+        "wash",
+        "inquire into",
+        "probe"
+      ]
+    },
+    "船": {
+      "char": "船",
+      "strokes": 11,
+      "radicalNumber": 137,
+      "radical": "舟",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "ふね",
+        "ふな-"
+      ],
+      "english": [
+        "ship",
+        "boat"
+      ]
+    },
+    "選": {
+      "char": "選",
+      "strokes": 15,
+      "radicalNumber": 162,
+      "radical": "辵",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "えら.ぶ",
+        "え.る",
+        "よ.る"
+      ],
+      "english": [
+        "elect",
+        "select",
+        "choose",
+        "prefer"
+      ]
+    },
+    "然": {
+      "char": "然",
+      "strokes": 12,
+      "radicalNumber": 86,
+      "radical": "火",
+      "on": [
+        "ゼン",
+        "ネン"
+      ],
+      "kun": [
+        "しか",
+        "しか.り",
+        "しか.し",
+        "さ"
+      ],
+      "english": [
+        "sort of thing",
+        "so",
+        "if so",
+        "in that case",
+        "well"
+      ]
+    },
+    "全": {
+      "char": "全",
+      "strokes": 6,
+      "radicalNumber": 11,
+      "radical": "入",
+      "on": [
+        "ゼン"
+      ],
+      "kun": [
+        "まった.く",
+        "すべ.て"
+      ],
+      "english": [
+        "whole",
+        "entire",
+        "all",
+        "complete",
+        "fulfill"
+      ]
+    },
+    "相": {
+      "char": "相",
+      "strokes": 9,
+      "radicalNumber": 109,
+      "radical": "目",
+      "on": [
+        "ソウ",
+        "ショウ"
+      ],
+      "kun": [
+        "あい-"
+      ],
+      "english": [
+        "inter-",
+        "mutual",
+        "together",
+        "each other",
+        "minister of state",
+        "councillor",
+        "aspect",
+        "phase",
+        "physiognomy"
+      ]
+    },
+    "走": {
+      "char": "走",
+      "strokes": 7,
+      "radicalNumber": 156,
+      "radical": "走",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "はし.る"
+      ],
+      "english": [
+        "run"
+      ]
+    },
+    "送": {
+      "char": "送",
+      "strokes": 9,
+      "radicalNumber": 162,
+      "radical": "辵",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "おく.る"
+      ],
+      "english": [
+        "escort",
+        "send"
+      ]
+    },
+    "族": {
+      "char": "族",
+      "strokes": 11,
+      "radicalNumber": 70,
+      "radical": "方",
+      "on": [
+        "ゾク"
+      ],
+      "kun": [],
+      "english": [
+        "tribe",
+        "family"
+      ]
+    },
+    "続": {
+      "char": "続",
+      "strokes": 13,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "ゾク",
+        "ショク",
+        "コウ",
+        "キョウ"
+      ],
+      "kun": [
+        "つづ.く",
+        "つづ.ける",
+        "つぐ.ない"
+      ],
+      "english": [
+        "continue",
+        "series",
+        "sequel"
+      ]
+    },
+    "卒": {
+      "char": "卒",
+      "strokes": 8,
+      "radicalNumber": 24,
+      "radical": "十",
+      "on": [
+        "ソツ",
+        "シュツ"
+      ],
+      "kun": [
+        "そっ.する",
+        "お.える",
+        "お.わる",
+        "ついに",
+        "にわか"
+      ],
+      "english": [
+        "graduate",
+        "soldier",
+        "private",
+        "die"
+      ]
+    },
+    "体": {
+      "char": "体",
+      "strokes": 7,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "タイ",
+        "テイ"
+      ],
+      "kun": [
+        "からだ",
+        "かたち"
+      ],
+      "english": [
+        "body",
+        "substance",
+        "object",
+        "reality",
+        "counter for images"
+      ]
+    },
+    "対": {
+      "char": "対",
+      "strokes": 7,
+      "radicalNumber": 41,
+      "radical": "寸",
+      "on": [
+        "タイ",
+        "ツイ"
+      ],
+      "kun": [
+        "あいて",
+        "こた.える",
+        "そろ.い",
+        "つれあ.い",
+        "なら.ぶ",
+        "むか.う"
+      ],
+      "english": [
+        "vis-a-vis",
+        "opposite",
+        "even",
+        "equal",
+        "versus",
+        "anti-",
+        "compare"
+      ]
+    },
+    "待": {
+      "char": "待",
+      "strokes": 9,
+      "radicalNumber": 60,
+      "radical": "彳",
+      "on": [
+        "タイ"
+      ],
+      "kun": [
+        "ま.つ",
+        "-ま.ち"
+      ],
+      "english": [
+        "wait",
+        "depend on"
+      ]
+    },
+    "貸": {
+      "char": "貸",
+      "strokes": 12,
+      "radicalNumber": 154,
+      "radical": "貝",
+      "on": [
+        "タイ"
+      ],
+      "kun": [
+        "か.す",
+        "か.し-",
+        "かし-"
+      ],
+      "english": [
+        "lend"
+      ]
+    },
+    "題": {
+      "char": "題",
+      "strokes": 18,
+      "radicalNumber": 181,
+      "radical": "頁",
+      "on": [
+        "ダイ"
+      ],
+      "kun": [],
+      "english": [
+        "topic",
+        "subject"
+      ]
+    },
+    "担": {
+      "char": "担",
+      "strokes": 8,
+      "radicalNumber": 64,
+      "radical": "手",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "かつ.ぐ",
+        "にな.う"
+      ],
+      "english": [
+        "shouldering",
+        "carry",
+        "raise",
+        "bear"
+      ]
+    },
+    "短": {
+      "char": "短",
+      "strokes": 12,
+      "radicalNumber": 111,
+      "radical": "矢",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "みじか.い"
+      ],
+      "english": [
+        "short",
+        "brevity",
+        "fault",
+        "defect",
+        "weak point"
+      ]
+    },
+    "誕": {
+      "char": "誕",
+      "strokes": 15,
+      "radicalNumber": 149,
+      "radical": "言",
+      "on": [
+        "タン"
+      ],
+      "kun": [],
+      "english": [
+        "nativity",
+        "be born",
+        "declension",
+        "lie",
+        "be arbitrary"
+      ]
+    },
+    "談": {
+      "char": "談",
+      "strokes": 15,
+      "radicalNumber": 149,
+      "radical": "言",
+      "on": [
+        "ダン"
+      ],
+      "kun": [],
+      "english": [
+        "discuss",
+        "talk"
+      ]
+    },
+    "知": {
+      "char": "知",
+      "strokes": 8,
+      "radicalNumber": 111,
+      "radical": "矢",
+      "on": [
+        "チ"
+      ],
+      "kun": [
+        "し.る",
+        "し.らせる"
+      ],
+      "english": [
+        "know",
+        "wisdom"
+      ]
+    },
+    "地": {
+      "char": "地",
+      "strokes": 6,
+      "radicalNumber": 32,
+      "radical": "土",
+      "on": [
+        "チ",
+        "ジ"
+      ],
+      "kun": [],
+      "english": [
+        "ground",
+        "earth"
+      ]
+    },
+    "茶": {
+      "char": "茶",
+      "strokes": 9,
+      "radicalNumber": 140,
+      "radical": "艸",
+      "on": [
+        "チャ",
+        "サ"
+      ],
+      "kun": [],
+      "english": [
+        "tea"
+      ]
+    },
+    "着": {
+      "char": "着",
+      "strokes": 12,
+      "radicalNumber": 109,
+      "radical": "目",
+      "on": [
+        "チャク",
+        "ジャク"
+      ],
+      "kun": [
+        "き.る",
+        "き.せる",
+        "つ.く",
+        "つ.ける"
+      ],
+      "english": [
+        "don",
+        "arrive",
+        "wear",
+        "counter for suits of clothing"
+      ]
+    },
+    "昼": {
+      "char": "昼",
+      "strokes": 9,
+      "radicalNumber": 72,
+      "radical": "日",
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "ひる"
+      ],
+      "english": [
+        "daytime",
+        "noon"
+      ]
+    },
+    "注": {
+      "char": "注",
+      "strokes": 8,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "そそ.ぐ",
+        "さ.す",
+        "つ.ぐ"
+      ],
+      "english": [
+        "pour",
+        "irrigate",
+        "shed (tears)",
+        "flow into",
+        "concentrate on",
+        "notes",
+        "comment",
+        "annotate"
+      ]
+    },
+    "張": {
+      "char": "張",
+      "strokes": 11,
+      "radicalNumber": 57,
+      "radical": "弓",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "は.る",
+        "-は.り",
+        "-ば.り"
+      ],
+      "english": [
+        "counter for bows & stringed instruments",
+        "stretch",
+        "spread",
+        "put up (tent)"
+      ]
+    },
+    "朝": {
+      "char": "朝",
+      "strokes": 12,
+      "radicalNumber": 74,
+      "radical": "月",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "あさ"
+      ],
+      "english": [
+        "morning",
+        "dynasty",
+        "regime",
+        "epoch",
+        "period",
+        "(North) Korea"
+      ]
+    },
+    "町": {
+      "char": "町",
+      "strokes": 7,
+      "radicalNumber": 102,
+      "radical": "田",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "まち"
+      ],
+      "english": [
+        "town",
+        "village",
+        "block",
+        "street"
+      ]
+    },
+    "調": {
+      "char": "調",
+      "strokes": 15,
+      "radicalNumber": 149,
+      "radical": "言",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "しら.べる",
+        "しら.べ",
+        "ととの.う",
+        "ととの.える"
+      ],
+      "english": [
+        "tune",
+        "tone",
+        "meter",
+        "key (music)",
+        "writing style",
+        "prepare",
+        "exorcise",
+        "investigate",
+        "harmonize",
+        "mediate"
+      ]
+    },
+    "通": {
+      "char": "通",
+      "strokes": 10,
+      "radicalNumber": 162,
+      "radical": "辵",
+      "on": [
+        "ツウ",
+        "ツ"
+      ],
+      "kun": [
+        "とお.る",
+        "とお.り",
+        "-とお.り",
+        "-どお.り",
+        "とお.す",
+        "とお.し",
+        "-どお.し",
+        "かよ.う"
+      ],
+      "english": [
+        "traffic",
+        "pass through",
+        "avenue",
+        "commute",
+        "counter for letters, notes, documents, etc."
+      ]
+    },
+    "低": {
+      "char": "低",
+      "strokes": 7,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "テイ"
+      ],
+      "kun": [
+        "ひく.い",
+        "ひく.める",
+        "ひく.まる"
+      ],
+      "english": [
+        "lower",
+        "short",
+        "humble"
+      ]
+    },
+    "定": {
+      "char": "定",
+      "strokes": 8,
+      "radicalNumber": 40,
+      "radical": "宀",
+      "on": [
+        "テイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "さだ.める",
+        "さだ.まる",
+        "さだ.か"
+      ],
+      "english": [
+        "determine",
+        "fix",
+        "establish",
+        "decide"
+      ]
+    },
+    "庭": {
+      "char": "庭",
+      "strokes": 10,
+      "radicalNumber": 53,
+      "radical": "广",
+      "on": [
+        "テイ"
+      ],
+      "kun": [
+        "にわ"
+      ],
+      "english": [
+        "courtyard",
+        "garden",
+        "yard"
+      ]
+    },
+    "弟": {
+      "char": "弟",
+      "strokes": 7,
+      "radicalNumber": 57,
+      "radical": "弓",
+      "on": [
+        "テイ",
+        "ダイ",
+        "デ"
+      ],
+      "kun": [
+        "おとうと"
+      ],
+      "english": [
+        "younger brother",
+        "faithful service to elders"
+      ]
+    },
+    "的": {
+      "char": "的",
+      "strokes": 8,
+      "radicalNumber": 106,
+      "radical": "白",
+      "on": [
+        "テキ"
+      ],
+      "kun": [
+        "まと"
+      ],
+      "english": [
+        "bull's eye",
+        "mark",
+        "target",
+        "object",
+        "adjective ending"
+      ]
+    },
+    "転": {
+      "char": "転",
+      "strokes": 11,
+      "radicalNumber": 159,
+      "radical": "車",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "ころ.がる",
+        "ころ.げる",
+        "ころ.がす",
+        "ころ.ぶ",
+        "まろ.ぶ",
+        "うたた",
+        "うつ.る",
+        "くる.めく"
+      ],
+      "english": [
+        "revolve",
+        "turn around",
+        "change"
+      ]
+    },
+    "点": {
+      "char": "点",
+      "strokes": 9,
+      "radicalNumber": 86,
+      "radical": "火",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "つ.ける",
+        "つ.く",
+        "た.てる",
+        "さ.す",
+        "とぼ.す",
+        "とも.す",
+        "ぼち"
+      ],
+      "english": [
+        "spot",
+        "point",
+        "mark",
+        "speck",
+        "decimal point"
+      ]
+    },
+    "都": {
+      "char": "都",
+      "strokes": 11,
+      "radicalNumber": 163,
+      "radical": "邑",
+      "on": [
+        "ト",
+        "ツ"
+      ],
+      "kun": [
+        "みやこ"
+      ],
+      "english": [
+        "metropolis",
+        "capital",
+        "all",
+        "everything"
+      ]
+    },
+    "度": {
+      "char": "度",
+      "strokes": 9,
+      "radicalNumber": 53,
+      "radical": "广",
+      "on": [
+        "ド",
+        "ト",
+        "タク"
+      ],
+      "kun": [
+        "たび",
+        "-た.い"
+      ],
+      "english": [
+        "degrees",
+        "occurrence",
+        "time",
+        "counter for occurrences",
+        "consider",
+        "attitude"
+      ]
+    },
+    "冬": {
+      "char": "冬",
+      "strokes": 5,
+      "radicalNumber": 15,
+      "radical": "冫",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "ふゆ"
+      ],
+      "english": [
+        "winter"
+      ]
+    },
+    "島": {
+      "char": "島",
+      "strokes": 10,
+      "radicalNumber": 46,
+      "radical": "山",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "しま"
+      ],
+      "english": [
+        "island"
+      ]
+    },
+    "当": {
+      "char": "当",
+      "strokes": 6,
+      "radicalNumber": 58,
+      "radical": "彐",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "あ.たる",
+        "あ.たり",
+        "あ.てる",
+        "あ.て",
+        "まさ.に",
+        "まさ.にべし"
+      ],
+      "english": [
+        "hit",
+        "right",
+        "appropriate",
+        "himself"
+      ]
+    },
+    "答": {
+      "char": "答",
+      "strokes": 12,
+      "radicalNumber": 118,
+      "radical": "竹",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "こた.える",
+        "こた.え"
+      ],
+      "english": [
+        "solution",
+        "answer"
+      ]
+    },
+    "到": {
+      "char": "到",
+      "strokes": 8,
+      "radicalNumber": 18,
+      "radical": "刀",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "いた.る"
+      ],
+      "english": [
+        "arrival",
+        "proceed",
+        "reach",
+        "attain",
+        "result in"
+      ]
+    },
+    "頭": {
+      "char": "頭",
+      "strokes": 16,
+      "radicalNumber": 181,
+      "radical": "頁",
+      "on": [
+        "トウ",
+        "ズ",
+        "ト"
+      ],
+      "kun": [
+        "あたま",
+        "かしら",
+        "-がしら",
+        "かぶり"
+      ],
+      "english": [
+        "head",
+        "counter for large animals"
+      ]
+    },
+    "働": {
+      "char": "働",
+      "strokes": 13,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "ドウ"
+      ],
+      "kun": [
+        "はたら.く"
+      ],
+      "english": [
+        "work",
+        "(kokuji)"
+      ]
+    },
+    "動": {
+      "char": "動",
+      "strokes": 11,
+      "radicalNumber": 19,
+      "radical": "力",
+      "on": [
+        "ドウ"
+      ],
+      "kun": [
+        "うご.く",
+        "うご.かす"
+      ],
+      "english": [
+        "move",
+        "motion",
+        "change",
+        "confusion",
+        "shift",
+        "shake"
+      ]
+    },
+    "同": {
+      "char": "同",
+      "strokes": 6,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "ドウ"
+      ],
+      "kun": [
+        "おな.じ"
+      ],
+      "english": [
+        "same",
+        "agree",
+        "equal"
+      ]
+    },
+    "特": {
+      "char": "特",
+      "strokes": 10,
+      "radicalNumber": 93,
+      "radical": "牛",
+      "on": [
+        "トク"
+      ],
+      "kun": [],
+      "english": [
+        "special"
+      ]
+    },
+    "難": {
+      "char": "難",
+      "strokes": 18,
+      "radicalNumber": 172,
+      "radical": "隹",
+      "on": [
+        "ナン"
+      ],
+      "kun": [
+        "かた.い",
+        "-がた.い",
+        "むずか.しい",
+        "むづか.しい",
+        "むつか.しい",
+        "-にく.い"
+      ],
+      "english": [
+        "difficult",
+        "impossible",
+        "trouble",
+        "accident",
+        "defect"
+      ]
+    },
+    "肉": {
+      "char": "肉",
+      "strokes": 6,
+      "radicalNumber": 130,
+      "radical": "肉",
+      "on": [
+        "ニク"
+      ],
+      "kun": [
+        "しし"
+      ],
+      "english": [
+        "meat"
+      ]
+    },
+    "熱": {
+      "char": "熱",
+      "strokes": 15,
+      "radicalNumber": 86,
+      "radical": "火",
+      "on": [
+        "ネツ"
+      ],
+      "kun": [
+        "あつ.い"
+      ],
+      "english": [
+        "heat",
+        "temperature",
+        "fever",
+        "mania",
+        "passion"
+      ]
+    },
+    "能": {
+      "char": "能",
+      "strokes": 10,
+      "radicalNumber": 130,
+      "radical": "肉",
+      "on": [
+        "ノウ"
+      ],
+      "kun": [
+        "よ.く",
+        "あた.う"
+      ],
+      "english": [
+        "ability",
+        "talent",
+        "skill",
+        "capacity"
+      ]
+    },
+    "配": {
+      "char": "配",
+      "strokes": 10,
+      "radicalNumber": 164,
+      "radical": "酉",
+      "on": [
+        "ハイ"
+      ],
+      "kun": [
+        "くば.る"
+      ],
+      "english": [
+        "distribute",
+        "spouse",
+        "exile",
+        "rationing"
+      ]
+    },
+    "売": {
+      "char": "売",
+      "strokes": 7,
+      "radicalNumber": 33,
+      "radical": "士",
+      "on": [
+        "バイ"
+      ],
+      "kun": [
+        "う.る",
+        "う.れる"
+      ],
+      "english": [
+        "sell"
+      ]
+    },
+    "博": {
+      "char": "博",
+      "strokes": 12,
+      "radicalNumber": 24,
+      "radical": "十",
+      "on": [
+        "ハク",
+        "バク"
+      ],
+      "kun": [],
+      "english": [
+        "Dr.",
+        "command",
+        "esteem",
+        "win acclaim",
+        "Ph.D.",
+        "exposition",
+        "fair"
+      ]
+    },
+    "発": {
+      "char": "発",
+      "strokes": 9,
+      "radicalNumber": 105,
+      "radical": "癶",
+      "on": [
+        "ハツ",
+        "ホツ"
+      ],
+      "kun": [
+        "た.つ",
+        "あば.く",
+        "おこ.る",
+        "つか.わす",
+        "はな.つ"
+      ],
+      "english": [
+        "departure",
+        "discharge",
+        "publish",
+        "emit",
+        "start from",
+        "disclose",
+        "counter for gunshots"
+      ]
+    },
+    "飯": {
+      "char": "飯",
+      "strokes": 12,
+      "radicalNumber": 184,
+      "radical": "食",
+      "on": [
+        "ハン"
+      ],
+      "kun": [
+        "めし"
+      ],
+      "english": [
+        "meal",
+        "boiled rice"
+      ]
+    },
+    "番": {
+      "char": "番",
+      "strokes": 12,
+      "radicalNumber": 102,
+      "radical": "田",
+      "on": [
+        "バン"
+      ],
+      "kun": [
+        "つが.い"
+      ],
+      "english": [
+        "turn",
+        "number in a series"
+      ]
+    },
+    "飛": {
+      "char": "飛",
+      "strokes": 9,
+      "radicalNumber": 183,
+      "radical": "飛",
+      "on": [
+        "ヒ"
+      ],
+      "kun": [
+        "と.ぶ",
+        "と.ばす",
+        "-と.ばす"
+      ],
+      "english": [
+        "fly",
+        "skip (pages)",
+        "scatter"
+      ]
+    },
+    "必": {
+      "char": "必",
+      "strokes": 5,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "ヒツ"
+      ],
+      "kun": [
+        "かなら.ず"
+      ],
+      "english": [
+        "invariably",
+        "certain",
+        "inevitable"
+      ]
+    },
+    "表": {
+      "char": "表",
+      "strokes": 8,
+      "radicalNumber": 145,
+      "radical": "衣",
+      "on": [
+        "ヒョウ"
+      ],
+      "kun": [
+        "おもて",
+        "-おもて",
+        "あらわ.す",
+        "あらわ.れる",
+        "あら.わす"
+      ],
+      "english": [
+        "surface",
+        "table",
+        "chart",
+        "diagram"
+      ]
+    },
+    "病": {
+      "char": "病",
+      "strokes": 10,
+      "radicalNumber": 104,
+      "radical": "疒",
+      "on": [
+        "ビョウ",
+        "ヘイ"
+      ],
+      "kun": [
+        "や.む",
+        "-や.み",
+        "やまい"
+      ],
+      "english": [
+        "ill",
+        "sick"
+      ]
+    },
+    "品": {
+      "char": "品",
+      "strokes": 9,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "ヒン",
+        "ホン"
+      ],
+      "kun": [
+        "しな"
+      ],
+      "english": [
+        "goods",
+        "refinement",
+        "dignity",
+        "article",
+        "counter for meal courses"
+      ]
+    },
+    "不": {
+      "char": "不",
+      "strokes": 4,
+      "radicalNumber": 1,
+      "radical": "一",
+      "on": [
+        "フ",
+        "ブ"
+      ],
+      "kun": [],
+      "english": [
+        "negative",
+        "non-",
+        "bad",
+        "ugly",
+        "clumsy"
+      ]
+    },
+    "付": {
+      "char": "付",
+      "strokes": 5,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "フ"
+      ],
+      "kun": [
+        "つ.ける",
+        "-つ.ける",
+        "-づ.ける",
+        "つ.け",
+        "つ.け-",
+        "-つ.け",
+        "-づ.け",
+        "-づけ",
+        "つ.く",
+        "-づ.く",
+        "つ.き",
+        "-つ.き",
+        "-つき",
+        "-づ.き",
+        "-づき"
+      ],
+      "english": [
+        "adhere",
+        "attach",
+        "refer to",
+        "append"
+      ]
+    },
+    "夫": {
+      "char": "夫",
+      "strokes": 4,
+      "radicalNumber": 37,
+      "radical": "大",
+      "on": [
+        "フ",
+        "フウ",
+        "ブ"
+      ],
+      "kun": [
+        "おっと",
+        "それ"
+      ],
+      "english": [
+        "husband",
+        "man"
+      ]
+    },
+    "負": {
+      "char": "負",
+      "strokes": 9,
+      "radicalNumber": 154,
+      "radical": "貝",
+      "on": [
+        "フ"
+      ],
+      "kun": [
+        "ま.ける",
+        "ま.かす",
+        "お.う"
+      ],
+      "english": [
+        "defeat",
+        "negative",
+        "-",
+        "minus",
+        "bear",
+        "owe",
+        "assume a responsibility"
+      ]
+    },
+    "部": {
+      "char": "部",
+      "strokes": 11,
+      "radicalNumber": 163,
+      "radical": "邑",
+      "on": [
+        "ブ"
+      ],
+      "kun": [
+        "-べ"
+      ],
+      "english": [
+        "section",
+        "bureau",
+        "dept",
+        "class",
+        "copy",
+        "part",
+        "portion",
+        "counter for copies of a newspaper or magazine"
+      ]
+    },
+    "風": {
+      "char": "風",
+      "strokes": 9,
+      "radicalNumber": 182,
+      "radical": "風",
+      "on": [
+        "フウ",
+        "フ"
+      ],
+      "kun": [
+        "かぜ",
+        "かざ-"
+      ],
+      "english": [
+        "wind",
+        "air",
+        "style",
+        "manner"
+      ]
+    },
+    "服": {
+      "char": "服",
+      "strokes": 8,
+      "radicalNumber": 74,
+      "radical": "月",
+      "on": [
+        "フク"
+      ],
+      "kun": [],
+      "english": [
+        "clothing",
+        "admit",
+        "obey",
+        "discharge"
+      ]
+    },
+    "仏": {
+      "char": "仏",
+      "strokes": 4,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "ブツ",
+        "フツ"
+      ],
+      "kun": [
+        "ほとけ"
+      ],
+      "english": [
+        "Buddha",
+        "the dead",
+        "France"
+      ]
+    },
+    "物": {
+      "char": "物",
+      "strokes": 8,
+      "radicalNumber": 93,
+      "radical": "牛",
+      "on": [
+        "ブツ",
+        "モツ"
+      ],
+      "kun": [
+        "もの",
+        "もの-"
+      ],
+      "english": [
+        "thing",
+        "object",
+        "matter"
+      ]
+    },
+    "文": {
+      "char": "文",
+      "strokes": 4,
+      "radicalNumber": 67,
+      "radical": "文",
+      "on": [
+        "ブン",
+        "モン"
+      ],
+      "kun": [
+        "ふみ",
+        "あや"
+      ],
+      "english": [
+        "sentence",
+        "literature",
+        "style",
+        "art",
+        "decoration",
+        "figures",
+        "plan",
+        "literary radical (no. 67)"
+      ]
+    },
+    "米": {
+      "char": "米",
+      "strokes": 6,
+      "radicalNumber": 119,
+      "radical": "米",
+      "on": [
+        "ベイ",
+        "マイ",
+        "メエトル"
+      ],
+      "kun": [
+        "こめ",
+        "よね"
+      ],
+      "english": [
+        "rice",
+        "USA",
+        "metre"
+      ]
+    },
+    "別": {
+      "char": "別",
+      "strokes": 7,
+      "radicalNumber": 18,
+      "radical": "刀",
+      "on": [
+        "ベツ"
+      ],
+      "kun": [
+        "わか.れる",
+        "わ.ける"
+      ],
+      "english": [
+        "separate",
+        "branch off",
+        "diverge",
+        "fork",
+        "another",
+        "extra",
+        "specially"
+      ]
+    },
+    "変": {
+      "char": "変",
+      "strokes": 9,
+      "radicalNumber": 34,
+      "radical": "夂",
+      "on": [
+        "ヘン"
+      ],
+      "kun": [
+        "か.わる",
+        "か.わり",
+        "か.える"
+      ],
+      "english": [
+        "unusual",
+        "change",
+        "strange"
+      ]
+    },
+    "返": {
+      "char": "返",
+      "strokes": 7,
+      "radicalNumber": 162,
+      "radical": "辵",
+      "on": [
+        "ヘン"
+      ],
+      "kun": [
+        "かえ.す",
+        "-かえ.す",
+        "かえ.る",
+        "-かえ.る"
+      ],
+      "english": [
+        "return",
+        "answer",
+        "fade",
+        "repay"
+      ]
+    },
+    "便": {
+      "char": "便",
+      "strokes": 9,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "ベン",
+        "ビン"
+      ],
+      "kun": [
+        "たよ.り"
+      ],
+      "english": [
+        "convenience",
+        "facility",
+        "excrement",
+        "feces",
+        "letter",
+        "chance"
+      ]
+    },
+    "勉": {
+      "char": "勉",
+      "strokes": 10,
+      "radicalNumber": 19,
+      "radical": "力",
+      "on": [
+        "ベン"
+      ],
+      "kun": [
+        "つと.める"
+      ],
+      "english": [
+        "exertion",
+        "endeavour",
+        "encourage",
+        "strive",
+        "make effort",
+        "diligent"
+      ]
+    },
+    "歩": {
+      "char": "歩",
+      "strokes": 8,
+      "radicalNumber": 77,
+      "radical": "止",
+      "on": [
+        "ホ",
+        "ブ",
+        "フ"
+      ],
+      "kun": [
+        "ある.く",
+        "あゆ.む"
+      ],
+      "english": [
+        "walk",
+        "counter for steps"
+      ]
+    },
+    "募": {
+      "char": "募",
+      "strokes": 12,
+      "radicalNumber": 19,
+      "radical": "力",
+      "on": [
+        "ボ"
+      ],
+      "kun": [
+        "つの.る"
+      ],
+      "english": [
+        "recruit",
+        "campaign",
+        "gather (contributions)",
+        "enlist",
+        "grow violent"
+      ]
+    },
+    "報": {
+      "char": "報",
+      "strokes": 12,
+      "radicalNumber": 32,
+      "radical": "土",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "むく.いる"
+      ],
+      "english": [
+        "report",
+        "news",
+        "reward",
+        "retribution"
+      ]
+    },
+    "方": {
+      "char": "方",
+      "strokes": 4,
+      "radicalNumber": 70,
+      "radical": "方",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "かた",
+        "-かた",
+        "-がた"
+      ],
+      "english": [
+        "direction",
+        "person",
+        "alternative"
+      ]
+    },
+    "法": {
+      "char": "法",
+      "strokes": 8,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "ホウ",
+        "ハッ",
+        "ホッ",
+        "フラン"
+      ],
+      "kun": [
+        "のり"
+      ],
+      "english": [
+        "method",
+        "law",
+        "rule",
+        "principle",
+        "model",
+        "system"
+      ]
+    },
+    "訪": {
+      "char": "訪",
+      "strokes": 11,
+      "radicalNumber": 149,
+      "radical": "言",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "おとず.れる",
+        "たず.ねる",
+        "と.う"
+      ],
+      "english": [
+        "call on",
+        "visit",
+        "look up",
+        "offer sympathy"
+      ]
+    },
+    "忘": {
+      "char": "忘",
+      "strokes": 7,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "ボウ"
+      ],
+      "kun": [
+        "わす.れる"
+      ],
+      "english": [
+        "forget"
+      ]
+    },
+    "忙": {
+      "char": "忙",
+      "strokes": 6,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "ボウ",
+        "モウ"
+      ],
+      "kun": [
+        "いそが.しい",
+        "せわ.しい",
+        "おそ.れる",
+        "うれえるさま"
+      ],
+      "english": [
+        "busy",
+        "occupied",
+        "restless"
+      ]
+    },
+    "妹": {
+      "char": "妹",
+      "strokes": 8,
+      "radicalNumber": 38,
+      "radical": "女",
+      "on": [
+        "マイ"
+      ],
+      "kun": [
+        "いもうと"
+      ],
+      "english": [
+        "younger sister"
+      ]
+    },
+    "末": {
+      "char": "末",
+      "strokes": 5,
+      "radicalNumber": 75,
+      "radical": "木",
+      "on": [
+        "マツ",
+        "バツ"
+      ],
+      "kun": [
+        "すえ",
+        "うら",
+        "うれ"
+      ],
+      "english": [
+        "end",
+        "close",
+        "tip",
+        "powder",
+        "posterity"
+      ]
+    },
+    "満": {
+      "char": "満",
+      "strokes": 12,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "マン",
+        "バン"
+      ],
+      "kun": [
+        "み.ちる",
+        "み.つ",
+        "み.たす"
+      ],
+      "english": [
+        "full",
+        "fullness",
+        "enough",
+        "satisfy"
+      ]
+    },
+    "味": {
+      "char": "味",
+      "strokes": 8,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "ミ"
+      ],
+      "kun": [
+        "あじ",
+        "あじ.わう"
+      ],
+      "english": [
+        "flavor",
+        "taste"
+      ]
+    },
+    "無": {
+      "char": "無",
+      "strokes": 12,
+      "radicalNumber": 86,
+      "radical": "火",
+      "on": [
+        "ム",
+        "ブ"
+      ],
+      "kun": [
+        "な.い"
+      ],
+      "english": [
+        "nothingness",
+        "none",
+        "ain't",
+        "nothing",
+        "nil",
+        "not"
+      ]
+    },
+    "明": {
+      "char": "明",
+      "strokes": 8,
+      "radicalNumber": 72,
+      "radical": "日",
+      "on": [
+        "メイ",
+        "ミョウ",
+        "ミン"
+      ],
+      "kun": [
+        "あ.かり",
+        "あか.るい",
+        "あか.るむ",
+        "あか.らむ",
+        "あき.らか",
+        "あ.ける",
+        "-あ.け",
+        "あ.く",
+        "あ.くる",
+        "あ.かす"
+      ],
+      "english": [
+        "bright",
+        "light"
+      ]
+    },
+    "問": {
+      "char": "問",
+      "strokes": 11,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "モン"
+      ],
+      "kun": [
+        "と.う",
+        "と.い",
+        "とん"
+      ],
+      "english": [
+        "question",
+        "ask",
+        "problem"
+      ]
+    },
+    "夜": {
+      "char": "夜",
+      "strokes": 8,
+      "radicalNumber": 36,
+      "radical": "夕",
+      "on": [
+        "ヤ"
+      ],
+      "kun": [
+        "よ",
+        "よる"
+      ],
+      "english": [
+        "night",
+        "evening"
+      ]
+    },
+    "野": {
+      "char": "野",
+      "strokes": 11,
+      "radicalNumber": 166,
+      "radical": "里",
+      "on": [
+        "ヤ",
+        "ショ"
+      ],
+      "kun": [
+        "の",
+        "の-"
+      ],
+      "english": [
+        "plains",
+        "field",
+        "rustic",
+        "civilian life"
+      ]
+    },
+    "約": {
+      "char": "約",
+      "strokes": 9,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "ヤク"
+      ],
+      "kun": [
+        "つづ.まる",
+        "つづ.める",
+        "つづま.やか"
+      ],
+      "english": [
+        "promise",
+        "approximately",
+        "shrink"
+      ]
+    },
+    "油": {
+      "char": "油",
+      "strokes": 8,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "ユ",
+        "ユウ"
+      ],
+      "kun": [
+        "あぶら"
+      ],
+      "english": [
+        "oil",
+        "fat"
+      ]
+    },
+    "輸": {
+      "char": "輸",
+      "strokes": 16,
+      "radicalNumber": 159,
+      "radical": "車",
+      "on": [
+        "ユ",
+        "シュ"
+      ],
+      "kun": [],
+      "english": [
+        "transport",
+        "send",
+        "be inferior"
+      ]
+    },
+    "有": {
+      "char": "有",
+      "strokes": 6,
+      "radicalNumber": 74,
+      "radical": "月",
+      "on": [
+        "ユウ",
+        "ウ"
+      ],
+      "kun": [
+        "あ.る"
+      ],
+      "english": [
+        "possess",
+        "have",
+        "exist",
+        "happen",
+        "occur",
+        "approx"
+      ]
+    },
+    "夕": {
+      "char": "夕",
+      "strokes": 3,
+      "radicalNumber": 36,
+      "radical": "夕",
+      "on": [
+        "セキ"
+      ],
+      "kun": [
+        "ゆう"
+      ],
+      "english": [
+        "evening"
+      ]
+    },
+    "予": {
+      "char": "予",
+      "strokes": 4,
+      "radicalNumber": 6,
+      "radical": "亅",
+      "on": [
+        "ヨ",
+        "シャ"
+      ],
+      "kun": [
+        "あらかじ.め"
+      ],
+      "english": [
+        "beforehand",
+        "previous",
+        "myself",
+        "I"
+      ]
+    },
+    "曜": {
+      "char": "曜",
+      "strokes": 18,
+      "radicalNumber": 72,
+      "radical": "日",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [],
+      "english": [
+        "weekday"
+      ]
+    },
+    "様": {
+      "char": "様",
+      "strokes": 14,
+      "radicalNumber": 75,
+      "radical": "木",
+      "on": [
+        "ヨウ",
+        "ショウ"
+      ],
+      "kun": [
+        "さま",
+        "さん"
+      ],
+      "english": [
+        "Esq.",
+        "way",
+        "manner",
+        "situation",
+        "polite suffix"
+      ]
+    },
+    "洋": {
+      "char": "洋",
+      "strokes": 9,
+      "radicalNumber": 85,
+      "radical": "水",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [],
+      "english": [
+        "ocean",
+        "sea",
+        "foreign",
+        "Western style"
+      ]
+    },
+    "用": {
+      "char": "用",
+      "strokes": 5,
+      "radicalNumber": 101,
+      "radical": "用",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "もち.いる"
+      ],
+      "english": [
+        "utilize",
+        "business",
+        "service",
+        "use",
+        "employ"
+      ]
+    },
+    "要": {
+      "char": "要",
+      "strokes": 9,
+      "radicalNumber": 146,
+      "radical": "襾",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "い.る",
+        "かなめ"
+      ],
+      "english": [
+        "need",
+        "main point",
+        "essence",
+        "pivot",
+        "key to"
+      ]
+    },
+    "絡": {
+      "char": "絡",
+      "strokes": 12,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "ラク"
+      ],
+      "kun": [
+        "から.む",
+        "から.まる"
+      ],
+      "english": [
+        "entwine",
+        "coil around",
+        "get caught in"
+      ]
+    },
+    "卵": {
+      "char": "卵",
+      "strokes": 7,
+      "radicalNumber": 26,
+      "radical": "卩",
+      "on": [
+        "ラン"
+      ],
+      "kun": [
+        "たまご"
+      ],
+      "english": [
+        "egg",
+        "ovum",
+        "spawn",
+        "roe"
+      ]
+    },
+    "利": {
+      "char": "利",
+      "strokes": 7,
+      "radicalNumber": 18,
+      "radical": "刀",
+      "on": [
+        "リ"
+      ],
+      "kun": [
+        "き.く"
+      ],
+      "english": [
+        "profit",
+        "advantage",
+        "benefit"
+      ]
+    },
+    "理": {
+      "char": "理",
+      "strokes": 11,
+      "radicalNumber": 96,
+      "radical": "玉",
+      "on": [
+        "リ"
+      ],
+      "kun": [
+        "ことわり"
+      ],
+      "english": [
+        "logic",
+        "arrangement",
+        "reason",
+        "justice",
+        "truth"
+      ]
+    },
+    "留": {
+      "char": "留",
+      "strokes": 10,
+      "radicalNumber": 102,
+      "radical": "田",
+      "on": [
+        "リュウ",
+        "ル"
+      ],
+      "kun": [
+        "と.める",
+        "と.まる",
+        "とど.める",
+        "とど.まる",
+        "るうぶる"
+      ],
+      "english": [
+        "detain",
+        "fasten",
+        "halt",
+        "stop"
+      ]
+    },
+    "旅": {
+      "char": "旅",
+      "strokes": 10,
+      "radicalNumber": 70,
+      "radical": "方",
+      "on": [
+        "リョ"
+      ],
+      "kun": [
+        "たび"
+      ],
+      "english": [
+        "trip",
+        "travel"
+      ]
+    },
+    "両": {
+      "char": "両",
+      "strokes": 6,
+      "radicalNumber": 1,
+      "radical": "一",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "てる",
+        "ふたつ"
+      ],
+      "english": [
+        "both",
+        "old Japanese coin",
+        "counter for carriages (e.g., in a train)",
+        "two"
+      ]
+    },
+    "料": {
+      "char": "料",
+      "strokes": 10,
+      "radicalNumber": 68,
+      "radical": "斗",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [],
+      "english": [
+        "fee",
+        "materials"
+      ]
+    },
+    "量": {
+      "char": "量",
+      "strokes": 12,
+      "radicalNumber": 166,
+      "radical": "里",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "はか.る"
+      ],
+      "english": [
+        "quantity",
+        "measure",
+        "weight",
+        "amount",
+        "consider",
+        "estimate",
+        "surmise"
+      ]
+    },
+    "例": {
+      "char": "例",
+      "strokes": 8,
+      "radicalNumber": 9,
+      "radical": "人",
+      "on": [
+        "レイ"
+      ],
+      "kun": [
+        "たと.える"
+      ],
+      "english": [
+        "example",
+        "custom",
+        "usage",
+        "precedent"
+      ]
+    },
+    "冷": {
+      "char": "冷",
+      "strokes": 7,
+      "radicalNumber": 15,
+      "radical": "冫",
+      "on": [
+        "レイ"
+      ],
+      "kun": [
+        "つめ.たい",
+        "ひ.える",
+        "ひ.や",
+        "ひ.ややか",
+        "ひ.やす",
+        "ひ.やかす",
+        "さ.める",
+        "さ.ます"
+      ],
+      "english": [
+        "cool",
+        "cold (beer, person)",
+        "chill"
+      ]
+    },
+    "歴": {
+      "char": "歴",
+      "strokes": 14,
+      "radicalNumber": 77,
+      "radical": "止",
+      "on": [
+        "レキ",
+        "レッキ"
+      ],
+      "kun": [],
+      "english": [
+        "curriculum",
+        "continuation",
+        "passage of time"
+      ]
+    },
+    "恋": {
+      "char": "恋",
+      "strokes": 10,
+      "radicalNumber": 61,
+      "radical": "心",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "こ.う",
+        "こい",
+        "こい.しい"
+      ],
+      "english": [
+        "romance",
+        "in love",
+        "yearn for",
+        "miss",
+        "darling"
+      ]
+    },
+    "練": {
+      "char": "練",
+      "strokes": 14,
+      "radicalNumber": 120,
+      "radical": "糸",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "ね.る",
+        "ね.り"
+      ],
+      "english": [
+        "practice",
+        "gloss",
+        "train",
+        "drill",
+        "polish",
+        "refine"
+      ]
+    },
+    "連": {
+      "char": "連",
+      "strokes": 10,
+      "radicalNumber": 162,
+      "radical": "辵",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "つら.なる",
+        "つら.ねる",
+        "つ.れる",
+        "-づ.れ"
+      ],
+      "english": [
+        "take along",
+        "lead",
+        "join",
+        "connect",
+        "party",
+        "gang",
+        "clique"
+      ]
+    },
+    "和": {
+      "char": "和",
+      "strokes": 8,
+      "radicalNumber": 30,
+      "radical": "口",
+      "on": [
+        "ワ",
+        "オ",
+        "カ"
+      ],
+      "kun": [
+        "やわ.らぐ",
+        "やわ.らげる",
+        "なご.む",
+        "なご.やか",
+        "あ.える"
+      ],
+      "english": [
+        "harmony",
+        "Japanese style",
+        "peace",
+        "soften",
+        "Japan"
+      ]
+    }
+  }
+}

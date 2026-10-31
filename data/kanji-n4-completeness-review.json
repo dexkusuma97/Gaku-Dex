@@ -1,0 +1,5256 @@
+{
+  "updated": "2026-10-31",
+  "total": 287,
+  "complete": 287,
+  "emptyOn": 0,
+  "emptyKun": 39,
+  "referenceDate": "2026-10-31",
+  "referenceArchiveSha256": "8e70bfa3a7a7df640e3ba254a80438201904d95df0fb23c9323476c2676d3346",
+  "dictionaryLicense": "CC BY-SA 4.0",
+  "adaptedPatternsUsed": [
+    {
+      "word": "〜世紀",
+      "kana": "せいき"
+    },
+    {
+      "word": "〜回",
+      "kana": "かい"
+    },
+    {
+      "word": "〜対〜",
+      "kana": "たい"
+    },
+    {
+      "word": "〜市",
+      "kana": "し"
+    },
+    {
+      "word": "〜式",
+      "kana": "しき"
+    },
+    {
+      "word": "〜点",
+      "kana": "てん"
+    },
+    {
+      "word": "〜番目",
+      "kana": "ばんめ"
+    },
+    {
+      "word": "〜階",
+      "kana": "かい"
+    },
+    {
+      "word": "方",
+      "kana": "ほう"
+    },
+    {
+      "word": "約～",
+      "kana": "やく"
+    },
+    {
+      "word": "～以上",
+      "kana": "いじょう"
+    },
+    {
+      "word": "～以下",
+      "kana": "いか"
+    },
+    {
+      "word": "～航空",
+      "kana": "こうくう"
+    }
+  ],
+  "note": "Meaning/English/mnemonic/radical/strokes and 1–2 source-backed or explicitly adapted words are complete. Empty reading groups are allowed when the dictionary has none. All dictionary readings are available; the UI folds additional readings. This is not an official JLPT syllabus or a historical etymology study.",
+  "entries": [
+    {
+      "id": "kanji-4e21",
+      "char": "両",
+      "strokes": 6,
+      "radical": "一",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-56de",
+      "char": "回",
+      "strokes": 6,
+      "radical": "囗",
+      "onCount": 2,
+      "kunCount": 9,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "一回",
+          "fromWord": "〜回"
+        }
+      ]
+    },
+    {
+      "id": "kanji-5ea6",
+      "char": "度",
+      "strokes": 9,
+      "radical": "广",
+      "onCount": 3,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-756a",
+      "char": "番",
+      "strokes": 12,
+      "radical": "田",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "一番目",
+          "fromWord": "〜番目"
+        }
+      ]
+    },
+    {
+      "id": "kanji-91cf",
+      "char": "量",
+      "strokes": 12,
+      "radical": "里",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4ee5",
+      "char": "以",
+      "strokes": 5,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "以上",
+          "fromWord": "～以上"
+        },
+        {
+          "word": "以下",
+          "fromWord": "～以下"
+        }
+      ]
+    },
+    {
+      "id": "kanji-6700",
+      "char": "最",
+      "strokes": 12,
+      "radical": "曰",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-70b9",
+      "char": "点",
+      "strokes": 9,
+      "radical": "火",
+      "onCount": 1,
+      "kunCount": 7,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "一点",
+          "fromWord": "〜点"
+        }
+      ]
+    },
+    {
+      "id": "kanji-7d04",
+      "char": "約",
+      "strokes": 9,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "約",
+          "fromWord": "約～"
+        }
+      ]
+    },
+    {
+      "id": "kanji-5149",
+      "char": "光",
+      "strokes": 6,
+      "radical": "儿",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-51ac",
+      "char": "冬",
+      "strokes": 5,
+      "radical": "冫",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-590f",
+      "char": "夏",
+      "strokes": 10,
+      "radical": "夊",
+      "onCount": 3,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5cf6",
+      "char": "島",
+      "strokes": 10,
+      "radical": "山",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-68ee",
+      "char": "森",
+      "strokes": 12,
+      "radical": "木",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6625",
+      "char": "春",
+      "strokes": 9,
+      "radical": "日",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6674",
+      "char": "晴",
+      "strokes": 12,
+      "radical": "日",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6691",
+      "char": "暑",
+      "strokes": 12,
+      "radical": "日",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6cb9",
+      "char": "油",
+      "strokes": 8,
+      "radical": "水",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6d0b",
+      "char": "洋",
+      "strokes": 9,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6d77",
+      "char": "海",
+      "strokes": 9,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6e29",
+      "char": "温",
+      "strokes": 12,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6e2f",
+      "char": "港",
+      "strokes": 12,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7136",
+      "char": "然",
+      "strokes": 12,
+      "radical": "火",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-79cb",
+      "char": "秋",
+      "strokes": 9,
+      "radical": "禾",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-96ea",
+      "char": "雪",
+      "strokes": 11,
+      "radical": "雨",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-96f2",
+      "char": "雲",
+      "strokes": 12,
+      "radical": "雨",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-98a8",
+      "char": "風",
+      "strokes": 9,
+      "radical": "風",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5bd2",
+      "char": "寒",
+      "strokes": 12,
+      "radical": "宀",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-91ce",
+      "char": "野",
+      "strokes": 11,
+      "radical": "里",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4ea4",
+      "char": "交",
+      "strokes": 6,
+      "radical": "亠",
+      "onCount": 1,
+      "kunCount": 10,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4ecb",
+      "char": "介",
+      "strokes": 4,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5144",
+      "char": "兄",
+      "strokes": 5,
+      "radical": "儿",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5408",
+      "char": "合",
+      "strokes": 6,
+      "radical": "口",
+      "onCount": 3,
+      "kunCount": 9,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-54e1",
+      "char": "員",
+      "strokes": 10,
+      "radical": "口",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-592b",
+      "char": "夫",
+      "strokes": 4,
+      "radical": "大",
+      "onCount": 3,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-59b9",
+      "char": "妹",
+      "strokes": 8,
+      "radical": "女",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-59bb",
+      "char": "妻",
+      "strokes": 8,
+      "radical": "女",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-59c9",
+      "char": "姉",
+      "strokes": 8,
+      "radical": "女",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5a5a",
+      "char": "婚",
+      "strokes": 11,
+      "radical": "女",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5df1",
+      "char": "己",
+      "strokes": 3,
+      "radical": "己",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5f1f",
+      "char": "弟",
+      "strokes": 7,
+      "radical": "弓",
+      "onCount": 3,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-604b",
+      "char": "恋",
+      "strokes": 10,
+      "radical": "心",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-611b",
+      "char": "愛",
+      "strokes": 13,
+      "radical": "心",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-65cf",
+      "char": "族",
+      "strokes": 11,
+      "radical": "方",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-89aa",
+      "char": "親",
+      "strokes": 16,
+      "radical": "見",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8005",
+      "char": "者",
+      "strokes": 8,
+      "radical": "老",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-69d8",
+      "char": "様",
+      "strokes": 14,
+      "radical": "木",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-76f8",
+      "char": "相",
+      "strokes": 9,
+      "radical": "目",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-53c2",
+      "char": "参",
+      "strokes": 8,
+      "radical": "厶",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-81ea",
+      "char": "自",
+      "strokes": 6,
+      "radical": "自",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d61",
+      "char": "絡",
+      "strokes": 12,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8a2a",
+      "char": "訪",
+      "strokes": 11,
+      "radical": "言",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4f53",
+      "char": "体",
+      "strokes": 7,
+      "radical": "人",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5065",
+      "char": "健",
+      "strokes": 11,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5eb7",
+      "char": "康",
+      "strokes": 11,
+      "radical": "广",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-75c5",
+      "char": "病",
+      "strokes": 10,
+      "radical": "疒",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-982d",
+      "char": "頭",
+      "strokes": 16,
+      "radical": "頁",
+      "onCount": 3,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-71b1",
+      "char": "熱",
+      "strokes": 15,
+      "radical": "火",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6240",
+      "char": "所",
+      "strokes": 8,
+      "radical": "戶",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-65b9",
+      "char": "方",
+      "strokes": 4,
+      "radical": "方",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "方",
+          "fromWord": "方"
+        }
+      ]
+    },
+    {
+      "id": "kanji-8fd1",
+      "char": "近",
+      "strokes": 7,
+      "radical": "辵",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9060",
+      "char": "遠",
+      "strokes": 13,
+      "radical": "辵",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5bfe",
+      "char": "対",
+      "strokes": 7,
+      "radical": "寸",
+      "onCount": 2,
+      "kunCount": 6,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "一対一",
+          "fromWord": "〜対〜"
+        }
+      ]
+    },
+    {
+      "id": "kanji-4e88",
+      "char": "予",
+      "strokes": 4,
+      "radical": "亅",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5143",
+      "char": "元",
+      "strokes": 4,
+      "radical": "儿",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-521d",
+      "char": "初",
+      "strokes": 7,
+      "radical": "刀",
+      "onCount": 1,
+      "kunCount": 7,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5915",
+      "char": "夕",
+      "strokes": 3,
+      "radical": "夕",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-591c",
+      "char": "夜",
+      "strokes": 8,
+      "radical": "夕",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-59cb",
+      "char": "始",
+      "strokes": 8,
+      "radical": "女",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5e30",
+      "char": "帰",
+      "strokes": 10,
+      "radical": "巾",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-663c",
+      "char": "昼",
+      "strokes": 9,
+      "radical": "日",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-66dc",
+      "char": "曜",
+      "strokes": 18,
+      "radical": "日",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-671d",
+      "char": "朝",
+      "strokes": 12,
+      "radical": "月",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-672b",
+      "char": "末",
+      "strokes": 5,
+      "radical": "木",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6b62",
+      "char": "止",
+      "strokes": 4,
+      "radical": "止",
+      "onCount": 1,
+      "kunCount": 14,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d42",
+      "char": "終",
+      "strokes": 11,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 6,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-53bb",
+      "char": "去",
+      "strokes": 5,
+      "radical": "厶",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d9a",
+      "char": "続",
+      "strokes": 13,
+      "radical": "糸",
+      "onCount": 4,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4f8b",
+      "char": "例",
+      "strokes": 8,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-52c9",
+      "char": "勉",
+      "strokes": 10,
+      "radical": "力",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5316",
+      "char": "化",
+      "strokes": 4,
+      "radical": "匕",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5352",
+      "char": "卒",
+      "strokes": 8,
+      "radical": "十",
+      "onCount": 2,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-535a",
+      "char": "博",
+      "strokes": 12,
+      "radical": "十",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-53f2",
+      "char": "史",
+      "strokes": 5,
+      "radical": "口",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-554f",
+      "char": "問",
+      "strokes": 11,
+      "radical": "口",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5b57",
+      "char": "字",
+      "strokes": 6,
+      "radical": "子",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5f0f",
+      "char": "式",
+      "strokes": 6,
+      "radical": "弋",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "結婚式",
+          "fromWord": "〜式"
+        }
+      ]
+    },
+    {
+      "id": "kanji-5f62",
+      "char": "形",
+      "strokes": 7,
+      "radical": "彡",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6559",
+      "char": "教",
+      "strokes": 11,
+      "radical": "攴",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6587",
+      "char": "文",
+      "strokes": 4,
+      "radical": "文",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6f22",
+      "char": "漢",
+      "strokes": 13,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-77e5",
+      "char": "知",
+      "strokes": 8,
+      "radical": "矢",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7b54",
+      "char": "答",
+      "strokes": 12,
+      "radical": "竹",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d19",
+      "char": "紙",
+      "strokes": 10,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d1a",
+      "char": "級",
+      "strokes": 9,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d39",
+      "char": "紹",
+      "strokes": 11,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7df4",
+      "char": "練",
+      "strokes": 14,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7fd2",
+      "char": "習",
+      "strokes": 11,
+      "radical": "羽",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8003",
+      "char": "考",
+      "strokes": 6,
+      "radical": "老",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-89b3",
+      "char": "観",
+      "strokes": 18,
+      "radical": "見",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-89e3",
+      "char": "解",
+      "strokes": 13,
+      "radical": "角",
+      "onCount": 2,
+      "kunCount": 7,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8a08",
+      "char": "計",
+      "strokes": 9,
+      "radical": "言",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8a66",
+      "char": "試",
+      "strokes": 13,
+      "radical": "言",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8aac",
+      "char": "説",
+      "strokes": 14,
+      "radical": "言",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8abf",
+      "char": "調",
+      "strokes": 15,
+      "radical": "言",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8ac7",
+      "char": "談",
+      "strokes": 15,
+      "radical": "言",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8b70",
+      "char": "議",
+      "strokes": 20,
+      "radical": "言",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8cea",
+      "char": "質",
+      "strokes": 15,
+      "radical": "貝",
+      "onCount": 3,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-984c",
+      "char": "題",
+      "strokes": 18,
+      "radical": "頁",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9a13",
+      "char": "験",
+      "strokes": 18,
+      "radical": "馬",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4e57",
+      "char": "乗",
+      "strokes": 9,
+      "radical": "丿",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4eac",
+      "char": "京",
+      "strokes": 8,
+      "radical": "亠",
+      "onCount": 3,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4f4f",
+      "char": "住",
+      "strokes": 7,
+      "radical": "人",
+      "onCount": 3,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-516c",
+      "char": "公",
+      "strokes": 4,
+      "radical": "八",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5712",
+      "char": "園",
+      "strokes": 13,
+      "radical": "囗",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5730",
+      "char": "地",
+      "strokes": 6,
+      "radical": "土",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5834",
+      "char": "場",
+      "strokes": 12,
+      "radical": "土",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5ba2",
+      "char": "客",
+      "strokes": 9,
+      "radical": "宀",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5ba4",
+      "char": "室",
+      "strokes": 9,
+      "radical": "宀",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5bfa",
+      "char": "寺",
+      "strokes": 6,
+      "radical": "寸",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5c4b",
+      "char": "屋",
+      "strokes": 9,
+      "radical": "尸",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5e02",
+      "char": "市",
+      "strokes": 5,
+      "radical": "巾",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "京都市",
+          "fromWord": "〜市"
+        }
+      ]
+    },
+    {
+      "id": "kanji-5e2d",
+      "char": "席",
+      "strokes": 10,
+      "radical": "巾",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5ea7",
+      "char": "座",
+      "strokes": 10,
+      "radical": "广",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5ead",
+      "char": "庭",
+      "strokes": 10,
+      "radical": "广",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-65c5",
+      "char": "旅",
+      "strokes": 10,
+      "radical": "方",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6a5f",
+      "char": "機",
+      "strokes": 16,
+      "radical": "木",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6b69",
+      "char": "歩",
+      "strokes": 8,
+      "radical": "止",
+      "onCount": 3,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-753a",
+      "char": "町",
+      "strokes": 7,
+      "radical": "田",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-754c",
+      "char": "界",
+      "strokes": 9,
+      "radical": "田",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7559",
+      "char": "留",
+      "strokes": 10,
+      "radical": "田",
+      "onCount": 2,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-767a",
+      "char": "発",
+      "strokes": 9,
+      "radical": "癶",
+      "onCount": 2,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-822a",
+      "char": "航",
+      "strokes": 10,
+      "radical": "舟",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "航空",
+          "fromWord": "～航空"
+        }
+      ]
+    },
+    {
+      "id": "kanji-8239",
+      "char": "船",
+      "strokes": 11,
+      "radical": "舟",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8ee2",
+      "char": "転",
+      "strokes": 11,
+      "radical": "車",
+      "onCount": 1,
+      "kunCount": 8,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8f38",
+      "char": "輸",
+      "strokes": 16,
+      "radical": "車",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8fd4",
+      "char": "返",
+      "strokes": 7,
+      "radical": "辵",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9001",
+      "char": "送",
+      "strokes": 9,
+      "radical": "辵",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-901a",
+      "char": "通",
+      "strokes": 10,
+      "radical": "辵",
+      "onCount": 2,
+      "kunCount": 8,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9023",
+      "char": "連",
+      "strokes": 10,
+      "radical": "辵",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-904b",
+      "char": "運",
+      "strokes": 12,
+      "radical": "辵",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-90e8",
+      "char": "部",
+      "strokes": 11,
+      "radical": "邑",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-90fd",
+      "char": "都",
+      "strokes": 11,
+      "radical": "邑",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9662",
+      "char": "院",
+      "strokes": 10,
+      "radical": "阜",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-968e",
+      "char": "階",
+      "strokes": 12,
+      "radical": "阜",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "一階",
+          "fromWord": "〜階"
+        }
+      ]
+    },
+    {
+      "id": "kanji-98db",
+      "char": "飛",
+      "strokes": 9,
+      "radical": "飛",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9928",
+      "char": "館",
+      "strokes": 16,
+      "radical": "食",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4e0d",
+      "char": "不",
+      "strokes": 4,
+      "radical": "一",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4f4e",
+      "char": "低",
+      "strokes": 7,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5168",
+      "char": "全",
+      "strokes": 6,
+      "radical": "入",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-51b7",
+      "char": "冷",
+      "strokes": 7,
+      "radical": "冫",
+      "onCount": 1,
+      "kunCount": 8,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5225",
+      "char": "別",
+      "strokes": 7,
+      "radical": "刀",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5371",
+      "char": "危",
+      "strokes": 6,
+      "radical": "卩",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-540c",
+      "char": "同",
+      "strokes": 6,
+      "radical": "口",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5909",
+      "char": "変",
+      "strokes": 9,
+      "radical": "夂",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5e78",
+      "char": "幸",
+      "strokes": 8,
+      "radical": "干",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5e83",
+      "char": "広",
+      "strokes": 5,
+      "radical": "广",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5f31",
+      "char": "弱",
+      "strokes": 10,
+      "radical": "弓",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5f37",
+      "char": "強",
+      "strokes": 11,
+      "radical": "弓",
+      "onCount": 2,
+      "kunCount": 5,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5fc5",
+      "char": "必",
+      "strokes": 5,
+      "radical": "心",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5fd9",
+      "char": "忙",
+      "strokes": 6,
+      "radical": "心",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6025",
+      "char": "急",
+      "strokes": 9,
+      "radical": "心",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6027",
+      "char": "性",
+      "strokes": 8,
+      "radical": "心",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-60aa",
+      "char": "悪",
+      "strokes": 11,
+      "radical": "心",
+      "onCount": 2,
+      "kunCount": 9,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-610f",
+      "char": "意",
+      "strokes": 13,
+      "radical": "心",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6210",
+      "char": "成",
+      "strokes": 6,
+      "radical": "戈",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-660e",
+      "char": "明",
+      "strokes": 8,
+      "radical": "日",
+      "onCount": 3,
+      "kunCount": 10,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-66f4",
+      "char": "更",
+      "strokes": 7,
+      "radical": "曰",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6709",
+      "char": "有",
+      "strokes": 6,
+      "radical": "月",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-683c",
+      "char": "格",
+      "strokes": 10,
+      "radical": "木",
+      "onCount": 4,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-697d",
+      "char": "楽",
+      "strokes": 13,
+      "radical": "木",
+      "onCount": 3,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6b63",
+      "char": "正",
+      "strokes": 5,
+      "radical": "止",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6e80",
+      "char": "満",
+      "strokes": 12,
+      "radical": "水",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7121",
+      "char": "無",
+      "strokes": 12,
+      "radical": "火",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7279",
+      "char": "特",
+      "strokes": 10,
+      "radical": "牛",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-73fe",
+      "char": "現",
+      "strokes": 11,
+      "radical": "玉",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7406",
+      "char": "理",
+      "strokes": 11,
+      "radical": "玉",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7684",
+      "char": "的",
+      "strokes": 8,
+      "radical": "白",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7701",
+      "char": "省",
+      "strokes": 9,
+      "radical": "目",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-771f",
+      "char": "真",
+      "strokes": 10,
+      "radical": "目",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-77ed",
+      "char": "短",
+      "strokes": 12,
+      "radical": "矢",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-80fd",
+      "char": "能",
+      "strokes": 10,
+      "radical": "肉",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8272",
+      "char": "色",
+      "strokes": 6,
+      "radical": "色",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-82e5",
+      "char": "若",
+      "strokes": 8,
+      "radical": "艸",
+      "onCount": 3,
+      "kunCount": 6,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-82e6",
+      "char": "苦",
+      "strokes": 8,
+      "radical": "艸",
+      "onCount": 1,
+      "kunCount": 6,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8981",
+      "char": "要",
+      "strokes": 9,
+      "radical": "襾",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-91cd",
+      "char": "重",
+      "strokes": 9,
+      "radical": "里",
+      "onCount": 2,
+      "kunCount": 7,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8efd",
+      "char": "軽",
+      "strokes": 12,
+      "radical": "車",
+      "onCount": 3,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-96e3",
+      "char": "難",
+      "strokes": 18,
+      "radical": "隹",
+      "onCount": 1,
+      "kunCount": 6,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9752",
+      "char": "青",
+      "strokes": 8,
+      "radical": "靑",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9759",
+      "char": "静",
+      "strokes": 14,
+      "radical": "靑",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8d64",
+      "char": "赤",
+      "strokes": 7,
+      "radical": "赤",
+      "onCount": 2,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9ed2",
+      "char": "黒",
+      "strokes": 11,
+      "radical": "黑",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4f5c",
+      "char": "作",
+      "strokes": 7,
+      "radical": "人",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4f7f",
+      "char": "使",
+      "strokes": 8,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4ed8",
+      "char": "付",
+      "strokes": 5,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 15,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5207",
+      "char": "切",
+      "strokes": 4,
+      "radical": "刀",
+      "onCount": 2,
+      "kunCount": 10,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5230",
+      "char": "到",
+      "strokes": 8,
+      "radical": "刀",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-52a0",
+      "char": "加",
+      "strokes": 5,
+      "radical": "力",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-52a9",
+      "char": "助",
+      "strokes": 7,
+      "radical": "力",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-52d5",
+      "char": "動",
+      "strokes": 11,
+      "radical": "力",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-53d7",
+      "char": "受",
+      "strokes": 8,
+      "radical": "又",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-544a",
+      "char": "告",
+      "strokes": 7,
+      "radical": "口",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5bdd",
+      "char": "寝",
+      "strokes": 13,
+      "radical": "宀",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5f85",
+      "char": "待",
+      "strokes": 9,
+      "radical": "彳",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5fc3",
+      "char": "心",
+      "strokes": 4,
+      "radical": "心",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5fd8",
+      "char": "忘",
+      "strokes": 7,
+      "radical": "心",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-601d",
+      "char": "思",
+      "strokes": 9,
+      "radical": "心",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-62db",
+      "char": "招",
+      "strokes": 8,
+      "radical": "手",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6301",
+      "char": "持",
+      "strokes": 9,
+      "radical": "手",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6c7a",
+      "char": "決",
+      "strokes": 7,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6cf3",
+      "char": "泳",
+      "strokes": 8,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6d17",
+      "char": "洗",
+      "strokes": 9,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6d3b",
+      "char": "活",
+      "strokes": 9,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7528",
+      "char": "用",
+      "strokes": 5,
+      "radical": "用",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7740",
+      "char": "着",
+      "strokes": 12,
+      "radical": "目",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8d70",
+      "char": "走",
+      "strokes": 7,
+      "radical": "走",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8d77",
+      "char": "起",
+      "strokes": 10,
+      "radical": "走",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9078",
+      "char": "選",
+      "strokes": 15,
+      "radical": "辵",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-914d",
+      "char": "配",
+      "strokes": 10,
+      "radical": "酉",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-96c6",
+      "char": "集",
+      "strokes": 12,
+      "radical": "隹",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5375",
+      "char": "卵",
+      "strokes": 7,
+      "radical": "卩",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5473",
+      "char": "味",
+      "strokes": 8,
+      "radical": "口",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5869",
+      "char": "塩",
+      "strokes": 13,
+      "radical": "土",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6599",
+      "char": "料",
+      "strokes": 10,
+      "radical": "斗",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6750",
+      "char": "材",
+      "strokes": 7,
+      "radical": "木",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7269",
+      "char": "物",
+      "strokes": 8,
+      "radical": "牛",
+      "onCount": 2,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7c73",
+      "char": "米",
+      "strokes": 6,
+      "radical": "米",
+      "onCount": 3,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8089",
+      "char": "肉",
+      "strokes": 6,
+      "radical": "肉",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8336",
+      "char": "茶",
+      "strokes": 9,
+      "radical": "艸",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-83dc",
+      "char": "菜",
+      "strokes": 11,
+      "radical": "艸",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9152",
+      "char": "酒",
+      "strokes": 10,
+      "radical": "酉",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-98ef",
+      "char": "飯",
+      "strokes": 12,
+      "radical": "食",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-54c1",
+      "char": "品",
+      "strokes": 9,
+      "radical": "口",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4e8b",
+      "char": "事",
+      "strokes": 8,
+      "radical": "亅",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4ed5",
+      "char": "仕",
+      "strokes": 5,
+      "radical": "人",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4fbf",
+      "char": "便",
+      "strokes": 9,
+      "radical": "人",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4fc2",
+      "char": "係",
+      "strokes": 9,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4fe1",
+      "char": "信",
+      "strokes": 9,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-501f",
+      "char": "借",
+      "strokes": 10,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-50cd",
+      "char": "働",
+      "strokes": 13,
+      "radical": "人",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5177",
+      "char": "具",
+      "strokes": 8,
+      "radical": "八",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5229",
+      "char": "利",
+      "strokes": 7,
+      "radical": "刀",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-52df",
+      "char": "募",
+      "strokes": 12,
+      "radical": "力",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-52e4",
+      "char": "勤",
+      "strokes": 12,
+      "radical": "力",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5354",
+      "char": "協",
+      "strokes": 8,
+      "radical": "十",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5546",
+      "char": "商",
+      "strokes": 11,
+      "radical": "口",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5831",
+      "char": "報",
+      "strokes": 12,
+      "radical": "土",
+      "onCount": 1,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-58f2",
+      "char": "売",
+      "strokes": 7,
+      "radical": "士",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5b9a",
+      "char": "定",
+      "strokes": 8,
+      "radical": "宀",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5f35",
+      "char": "張",
+      "strokes": 11,
+      "radical": "弓",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5f53",
+      "char": "当",
+      "strokes": 6,
+      "radical": "彐",
+      "onCount": 1,
+      "kunCount": 6,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-62c5",
+      "char": "担",
+      "strokes": 8,
+      "radical": "手",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-652f",
+      "char": "支",
+      "strokes": 4,
+      "radical": "支",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-696d",
+      "char": "業",
+      "strokes": 13,
+      "radical": "木",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d66",
+      "char": "給",
+      "strokes": 12,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d4c",
+      "char": "経",
+      "strokes": 11,
+      "radical": "糸",
+      "onCount": 3,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8077",
+      "char": "職",
+      "strokes": 18,
+      "radical": "耳",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-88fd",
+      "char": "製",
+      "strokes": 14,
+      "radical": "衣",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8cb8",
+      "char": "貸",
+      "strokes": 12,
+      "radical": "貝",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-95a2",
+      "char": "関",
+      "strokes": 14,
+      "radical": "門",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-4e16",
+      "char": "世",
+      "strokes": 5,
+      "radical": "一",
+      "onCount": 3,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "世紀",
+          "fromWord": "〜世紀"
+        }
+      ]
+    },
+    {
+      "id": "kanji-4ecf",
+      "char": "仏",
+      "strokes": 4,
+      "radical": "人",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-548c",
+      "char": "和",
+      "strokes": 8,
+      "radical": "口",
+      "onCount": 3,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-5199",
+      "char": "写",
+      "strokes": 5,
+      "radical": "冖",
+      "onCount": 2,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-795e",
+      "char": "神",
+      "strokes": 9,
+      "radical": "示",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-796d",
+      "char": "祭",
+      "strokes": 11,
+      "radical": "示",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-795d",
+      "char": "祝",
+      "strokes": 9,
+      "radical": "示",
+      "onCount": 2,
+      "kunCount": 1,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6b4c",
+      "char": "歌",
+      "strokes": 14,
+      "radical": "欠",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6620",
+      "char": "映",
+      "strokes": 9,
+      "radical": "日",
+      "onCount": 1,
+      "kunCount": 4,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-753b",
+      "char": "画",
+      "strokes": 8,
+      "radical": "田",
+      "onCount": 4,
+      "kunCount": 5,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6b74",
+      "char": "歴",
+      "strokes": 14,
+      "radical": "止",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d00",
+      "char": "紀",
+      "strokes": 9,
+      "radical": "糸",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "examples",
+        "reference"
+      ],
+      "adaptedExamples": [
+        {
+          "word": "世紀",
+          "fromWord": "〜世紀"
+        }
+      ]
+    },
+    {
+      "id": "kanji-7d50",
+      "char": "結",
+      "strokes": 12,
+      "radical": "糸",
+      "onCount": 2,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7d75",
+      "char": "絵",
+      "strokes": 12,
+      "radical": "糸",
+      "onCount": 2,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8868",
+      "char": "表",
+      "strokes": 8,
+      "radical": "衣",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-97f3",
+      "char": "音",
+      "strokes": 9,
+      "radical": "音",
+      "onCount": 3,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-52dd",
+      "char": "勝",
+      "strokes": 12,
+      "radical": "力",
+      "onCount": 1,
+      "kunCount": 5,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8ca0",
+      "char": "負",
+      "strokes": 9,
+      "radical": "貝",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-559c",
+      "char": "喜",
+      "strokes": 12,
+      "radical": "口",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-8a95",
+      "char": "誕",
+      "strokes": 15,
+      "radical": "言",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-9858",
+      "char": "願",
+      "strokes": 19,
+      "radical": "頁",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-670d",
+      "char": "服",
+      "strokes": 8,
+      "radical": "月",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-578b",
+      "char": "型",
+      "strokes": 9,
+      "radical": "土",
+      "onCount": 1,
+      "kunCount": 2,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6cd5",
+      "char": "法",
+      "strokes": 8,
+      "radical": "水",
+      "onCount": 4,
+      "kunCount": 1,
+      "exampleCount": 2,
+      "fieldsChanged": [
+        "on",
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-6ce8",
+      "char": "注",
+      "strokes": 8,
+      "radical": "水",
+      "onCount": 1,
+      "kunCount": 3,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "kun",
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    },
+    {
+      "id": "kanji-7981",
+      "char": "禁",
+      "strokes": 13,
+      "radical": "示",
+      "onCount": 1,
+      "kunCount": 0,
+      "exampleCount": 1,
+      "fieldsChanged": [
+        "english",
+        "strokes",
+        "radical",
+        "mnemonic",
+        "reference"
+      ],
+      "adaptedExamples": []
+    }
+  ]
+}

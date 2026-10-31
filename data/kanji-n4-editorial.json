@@ -1,0 +1,3460 @@
+{
+  "version": 1,
+  "updated": "2026-10-31",
+  "total": 287,
+  "note": "Original memory aids are visual associations, not historical etymology. Dictionary ja_on/ja_kun only; name readings excluded. Existing familiar readings ordered first. Concrete word examples are adapted from source patterns where necessary.",
+  "entries": {
+    "両": {
+      "english": "both; two sides",
+      "mnemonic": "Bayangkan dua sisi berada di dalam satu bingkai; keduanya perlu diperhatikan.",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "てる",
+        "ふたつ"
+      ]
+    },
+    "回": {
+      "english": "turn; times; go around",
+      "mnemonic": "Dua kotak bersarang mengingatkan gerakan mengelilingi satu putaran.",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": [
+        "まわ.る",
+        "まわ.す",
+        "-まわ.る",
+        "-まわ.り",
+        "-まわ.す",
+        "まわ.し-",
+        "-まわ.し",
+        "もとお.る",
+        "か.える"
+      ]
+    },
+    "度": {
+      "english": "degree; occasion; times",
+      "mnemonic": "Bayangkan tangan mengukur sesuatu di bawah atap, satu derajat setiap kali.",
+      "on": [
+        "ド",
+        "ト",
+        "タク"
+      ],
+      "kun": [
+        "たび",
+        "-た.い"
+      ]
+    },
+    "番": {
+      "english": "turn; number in order",
+      "mnemonic": "Bayangkan petak 田 dibagi untuk orang yang menunggu nomor giliran.",
+      "on": [
+        "バン"
+      ],
+      "kun": [
+        "つが.い"
+      ]
+    },
+    "量": {
+      "english": "quantity; measure",
+      "mnemonic": "Bayangkan wadah bertingkat untuk mengukur jumlah beras sampai penuh.",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "はか.る"
+      ]
+    },
+    "以": {
+      "english": "by means of; from",
+      "mnemonic": "Bayangkan seseorang membawa alat yang dipakai sebagai sarana untuk bekerja.",
+      "on": [
+        "イ"
+      ],
+      "kun": [
+        "もっ.て"
+      ]
+    },
+    "最": {
+      "english": "most; utmost",
+      "mnemonic": "Bayangkan bagian teratas diberi tanda karena nilainya paling tinggi.",
+      "on": [
+        "サイ",
+        "シュ"
+      ],
+      "kun": [
+        "もっと.も",
+        "つま"
+      ]
+    },
+    "点": {
+      "english": "point; mark; score",
+      "mnemonic": "Empat titik di bawah mengingatkan titik-titik kecil pada lembar penilaian.",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "つ.ける",
+        "つ.く",
+        "た.てる",
+        "さ.す",
+        "とぼ.す",
+        "とも.す",
+        "ぼち"
+      ]
+    },
+    "約": {
+      "english": "promise; approximately",
+      "mnemonic": "糸 di kiri menjadi benang pengikat janji; ukurannya hanya kira-kira.",
+      "on": [
+        "ヤク"
+      ],
+      "kun": [
+        "つづ.まる",
+        "つづ.める",
+        "つづま.やか"
+      ]
+    },
+    "光": {
+      "english": "light; ray",
+      "mnemonic": "Bayangkan sinar di atas menyebar ke dua arah seperti kaki yang terbuka.",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "ひかり",
+        "ひか.る"
+      ]
+    },
+    "冬": {
+      "english": "winter",
+      "mnemonic": "Dua titik di bawah seperti butiran es yang jatuh pada musim dingin.",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "ふゆ"
+      ]
+    },
+    "夏": {
+      "english": "summer",
+      "mnemonic": "Bayangkan orang berjalan pelan di bawah matahari musim panas yang terik.",
+      "on": [
+        "カ",
+        "ゲ",
+        "ガ"
+      ],
+      "kun": [
+        "なつ"
+      ]
+    },
+    "島": {
+      "english": "island",
+      "mnemonic": "山 di bagian bawah menjadi gunung yang muncul dari laut sebagai pulau.",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "しま"
+      ]
+    },
+    "森": {
+      "english": "forest; woods",
+      "mnemonic": "Tiga 木 berkumpul menjadi hutan yang penuh pohon.",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "もり"
+      ]
+    },
+    "春": {
+      "english": "spring",
+      "mnemonic": "Bayangkan 日 menghangatkan tunas yang mulai tumbuh pada musim semi.",
+      "on": [
+        "シュン"
+      ],
+      "kun": [
+        "はる"
+      ]
+    },
+    "晴": {
+      "english": "clear weather",
+      "mnemonic": "日 di kiri adalah matahari yang muncul saat langit kembali cerah.",
+      "on": [
+        "セイ"
+      ],
+      "kun": [
+        "は.れる",
+        "は.れ",
+        "は.れ-",
+        "-ば.れ",
+        "は.らす"
+      ]
+    },
+    "暑": {
+      "english": "hot weather",
+      "mnemonic": "Bayangkan matahari 日 menekan dari atas hingga udara terasa panas.",
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "あつ.い"
+      ]
+    },
+    "油": {
+      "english": "oil",
+      "mnemonic": "Titik-titik air di kiri mengingatkan cairan; bayangkan botol minyak di kanan.",
+      "on": [
+        "ユ",
+        "ユウ"
+      ],
+      "kun": [
+        "あぶら"
+      ]
+    },
+    "洋": {
+      "english": "ocean; Western style",
+      "mnemonic": "Air di kiri menjadi samudra luas menuju negeri-negeri di seberang.",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": []
+    },
+    "海": {
+      "english": "sea; ocean",
+      "mnemonic": "Air di kiri menjadi ombak yang datang setiap hari ke tepi laut.",
+      "on": [
+        "カイ"
+      ],
+      "kun": [
+        "うみ"
+      ]
+    },
+    "温": {
+      "english": "warm",
+      "mnemonic": "Air di kiri dan wadah di bawah mengingatkan air hangat untuk berendam.",
+      "on": [
+        "オン"
+      ],
+      "kun": [
+        "あたた.かい",
+        "あたた.める",
+        "あたた.か",
+        "あたた.まる",
+        "ぬく"
+      ]
+    },
+    "港": {
+      "english": "harbor; port",
+      "mnemonic": "Air di kiri mengingatkan tempat kapal berkumpul dan berlabuh.",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "みなと"
+      ]
+    },
+    "然": {
+      "english": "so; naturally",
+      "mnemonic": "Empat titik di bawah seperti bara; bayangkan api yang menyala secara alami.",
+      "on": [
+        "ゼン",
+        "ネン"
+      ],
+      "kun": [
+        "しか",
+        "しか.り",
+        "しか.し",
+        "さ"
+      ]
+    },
+    "秋": {
+      "english": "autumn",
+      "mnemonic": "禾 dan 火 mengingatkan tanaman berwarna seperti api saat musim gugur.",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "あき",
+        "とき"
+      ]
+    },
+    "雪": {
+      "english": "snow",
+      "mnemonic": "雨 di atas seperti langit yang menurunkan serpihan salju.",
+      "on": [
+        "セツ"
+      ],
+      "kun": [
+        "ゆき"
+      ]
+    },
+    "雲": {
+      "english": "cloud",
+      "mnemonic": "雨 di atas mengingatkan langit lembap yang dipenuhi awan.",
+      "on": [
+        "ウン"
+      ],
+      "kun": [
+        "くも",
+        "-ぐも"
+      ]
+    },
+    "風": {
+      "english": "wind; style",
+      "mnemonic": "Bayangkan bentuk luar melingkar seperti pusaran angin yang membawa benda kecil.",
+      "on": [
+        "フウ",
+        "フ"
+      ],
+      "kun": [
+        "かぜ",
+        "かざ-"
+      ]
+    },
+    "寒": {
+      "english": "cold weather",
+      "mnemonic": "Atap menutupi orang yang menggigil; dua titik bawah menjadi butiran es.",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "さむ.い"
+      ]
+    },
+    "野": {
+      "english": "field; plains",
+      "mnemonic": "里 di kiri seperti lahan yang membentang sampai ke padang terbuka.",
+      "on": [
+        "ヤ",
+        "ショ"
+      ],
+      "kun": [
+        "の",
+        "の-"
+      ]
+    },
+    "交": {
+      "english": "intersect; exchange",
+      "mnemonic": "Garis yang menyilang mengingatkan dua orang bertemu dan saling bertukar kabar.",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "まじ.わる",
+        "か.わす",
+        "まじ.える",
+        "ま.じる",
+        "まじ.る",
+        "ま.ざる",
+        "ま.ぜる",
+        "-か.う",
+        "かわ.す",
+        "こもごも"
+      ]
+    },
+    "介": {
+      "english": "mediate; introduce",
+      "mnemonic": "Bayangkan seseorang di tengah menjadi perantara antara dua pihak.",
+      "on": [
+        "カイ"
+      ],
+      "kun": []
+    },
+    "兄": {
+      "english": "elder brother",
+      "mnemonic": "口 di atas dua kaki mengingatkan kakak laki-laki yang sedang memanggil.",
+      "on": [
+        "ケイ",
+        "キョウ"
+      ],
+      "kun": [
+        "あに"
+      ]
+    },
+    "合": {
+      "english": "fit; join",
+      "mnemonic": "Bayangkan dua sisi atap bertemu tepat di atas sebuah mulut 口.",
+      "on": [
+        "ゴウ",
+        "ガッ",
+        "カッ"
+      ],
+      "kun": [
+        "あ.う",
+        "あ.わせる",
+        "-あ.う",
+        "あ.い",
+        "あい-",
+        "-あ.い",
+        "-あい",
+        "あ.わす",
+        "-あ.わせる"
+      ]
+    },
+    "員": {
+      "english": "member; employee",
+      "mnemonic": "口 di atas 貝 mengingatkan pegawai yang berbicara sambil mengurus transaksi.",
+      "on": [
+        "イン"
+      ],
+      "kun": []
+    },
+    "夫": {
+      "english": "husband",
+      "mnemonic": "Bayangkan sosok 大 yang mengenakan tanda di atas sebagai suami dalam keluarga.",
+      "on": [
+        "フ",
+        "フウ",
+        "ブ"
+      ],
+      "kun": [
+        "おっと",
+        "それ"
+      ]
+    },
+    "妹": {
+      "english": "younger sister",
+      "mnemonic": "女 di kiri mengingatkan adik perempuan yang masih tumbuh besar.",
+      "on": [
+        "マイ"
+      ],
+      "kun": [
+        "いもうと"
+      ]
+    },
+    "妻": {
+      "english": "wife",
+      "mnemonic": "女 di bawah menjadi pusat bayangan tentang seorang istri dalam keluarga.",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "つま"
+      ]
+    },
+    "姉": {
+      "english": "elder sister",
+      "mnemonic": "女 di kiri berdiri di dekat pasar; bayangkan kakak perempuan sedang berbelanja.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "あね",
+        "はは"
+      ]
+    },
+    "婚": {
+      "english": "marriage",
+      "mnemonic": "女 di kiri mengingatkan seseorang yang merayakan pernikahan bersama pasangannya.",
+      "on": [
+        "コン"
+      ],
+      "kun": []
+    },
+    "己": {
+      "english": "self",
+      "mnemonic": "Bentuknya seperti jalan yang melingkar kembali kepada diri sendiri.",
+      "on": [
+        "コ",
+        "キ"
+      ],
+      "kun": [
+        "おのれ",
+        "つちのと",
+        "な"
+      ]
+    },
+    "弟": {
+      "english": "younger brother",
+      "mnemonic": "Bayangkan adik laki-laki membawa busur 弓 sambil mengikuti kakaknya.",
+      "on": [
+        "テイ",
+        "ダイ",
+        "デ"
+      ],
+      "kun": [
+        "おとうと"
+      ]
+    },
+    "恋": {
+      "english": "romantic love; longing",
+      "mnemonic": "心 di bawah menyimpan rasa cinta dan rindu kepada seseorang.",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "こい",
+        "こい.しい",
+        "こ.う"
+      ]
+    },
+    "愛": {
+      "english": "love; affection",
+      "mnemonic": "Bayangkan tangan melindungi hati 心 dengan penuh kasih sayang.",
+      "on": [
+        "アイ"
+      ],
+      "kun": [
+        "いと.しい",
+        "かな.しい",
+        "め.でる",
+        "お.しむ",
+        "まな"
+      ]
+    },
+    "族": {
+      "english": "family; group",
+      "mnemonic": "Bayangkan sekelompok keluarga berkumpul di bawah sebuah bendera.",
+      "on": [
+        "ゾク"
+      ],
+      "kun": []
+    },
+    "親": {
+      "english": "parent; close relationship",
+      "mnemonic": "見 di kanan mengingatkan orang tua yang memperhatikan anaknya tumbuh.",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "おや",
+        "した.しい",
+        "おや-",
+        "した.しむ"
+      ]
+    },
+    "者": {
+      "english": "person; someone who does",
+      "mnemonic": "Bayangkan seseorang berdiri di bawah sinar 日 dan menjalankan tugasnya.",
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "もの"
+      ]
+    },
+    "様": {
+      "english": "manner; respectful title",
+      "mnemonic": "木 di kiri menjadi tiang penanda tempat menyambut tamu dengan hormat.",
+      "on": [
+        "ヨウ",
+        "ショウ"
+      ],
+      "kun": [
+        "さま",
+        "さん"
+      ]
+    },
+    "相": {
+      "english": "mutual; appearance",
+      "mnemonic": "目 memandang 木; bayangkan dua pihak saling memperhatikan.",
+      "on": [
+        "ソウ",
+        "ショウ"
+      ],
+      "kun": [
+        "あい-"
+      ]
+    },
+    "参": {
+      "english": "participate; visit humbly",
+      "mnemonic": "Tiga guratan bawah menjadi langkah orang-orang yang datang ikut serta.",
+      "on": [
+        "サン",
+        "シン"
+      ],
+      "kun": [
+        "まい.る",
+        "まい-",
+        "まじわる",
+        "みつ"
+      ]
+    },
+    "自": {
+      "english": "oneself",
+      "mnemonic": "Bayangkan seseorang menunjuk bagian tengah wajahnya ketika menyebut dirinya sendiri.",
+      "on": [
+        "ジ",
+        "シ"
+      ],
+      "kun": [
+        "みずか.ら",
+        "おの.ずから",
+        "おの.ずと"
+      ]
+    },
+    "絡": {
+      "english": "entwine; connect",
+      "mnemonic": "糸 di kiri menjadi benang yang melilit dan menghubungkan dua benda.",
+      "on": [
+        "ラク"
+      ],
+      "kun": [
+        "から.む",
+        "から.まる"
+      ]
+    },
+    "訪": {
+      "english": "visit",
+      "mnemonic": "言 di kiri mengingatkan tamu yang datang sambil mengucapkan salam.",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "たず.ねる",
+        "おとず.れる",
+        "と.う"
+      ]
+    },
+    "体": {
+      "english": "body",
+      "mnemonic": "Orang di kiri berdiri dekat 本; bayangkan tubuh sebagai dasar gerakan.",
+      "on": [
+        "タイ",
+        "テイ"
+      ],
+      "kun": [
+        "からだ",
+        "かたち"
+      ]
+    },
+    "健": {
+      "english": "healthy; strong",
+      "mnemonic": "Orang di kiri berjalan tegap untuk menjaga tubuh tetap sehat.",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "すこ.やか"
+      ]
+    },
+    "康": {
+      "english": "health; peace",
+      "mnemonic": "Bayangkan rumah beratap luas tempat tubuh beristirahat dengan sehat dan tenteram.",
+      "on": [
+        "コウ"
+      ],
+      "kun": []
+    },
+    "病": {
+      "english": "illness; sick",
+      "mnemonic": "Bingkai 疒 mengingatkan tempat beristirahat saat seseorang sedang sakit.",
+      "on": [
+        "ビョウ",
+        "ヘイ"
+      ],
+      "kun": [
+        "やまい",
+        "や.む",
+        "-や.み"
+      ]
+    },
+    "頭": {
+      "english": "head",
+      "mnemonic": "頁 di kanan menjadi kepala; bayangkan kepala sedang mengingat bentuk 豆 di kiri.",
+      "on": [
+        "トウ",
+        "ズ",
+        "ト"
+      ],
+      "kun": [
+        "あたま",
+        "かしら",
+        "-がしら",
+        "かぶり"
+      ]
+    },
+    "熱": {
+      "english": "heat; fever",
+      "mnemonic": "Empat titik di bawah seperti api yang menimbulkan panas dan demam.",
+      "on": [
+        "ネツ"
+      ],
+      "kun": [
+        "あつ.い"
+      ]
+    },
+    "所": {
+      "english": "place",
+      "mnemonic": "Bayangkan pintu di kiri menuju suatu tempat yang ingin kamu datangi.",
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "ところ",
+        "-ところ",
+        "どころ",
+        "とこ"
+      ]
+    },
+    "方": {
+      "english": "direction; way; person",
+      "mnemonic": "Bentuknya seperti penunjuk yang mengarahkan kita ke suatu sisi.",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "かた",
+        "-かた",
+        "-がた"
+      ]
+    },
+    "近": {
+      "english": "near",
+      "mnemonic": "Bagian jalan di bawah mengingatkan perjalanan pendek ke tempat yang dekat.",
+      "on": [
+        "キン",
+        "コン"
+      ],
+      "kun": [
+        "ちか.い"
+      ]
+    },
+    "遠": {
+      "english": "far",
+      "mnemonic": "Bagian jalan di bawah membentang panjang menuju tempat yang masih jauh.",
+      "on": [
+        "エン",
+        "オン"
+      ],
+      "kun": [
+        "とお.い"
+      ]
+    },
+    "対": {
+      "english": "opposite; toward",
+      "mnemonic": "Bayangkan dua pihak berhadapan, masing-masing menjaga jarak dengan tangannya.",
+      "on": [
+        "タイ",
+        "ツイ"
+      ],
+      "kun": [
+        "あいて",
+        "こた.える",
+        "そろ.い",
+        "つれあ.い",
+        "なら.ぶ",
+        "むか.う"
+      ]
+    },
+    "予": {
+      "english": "beforehand; previous",
+      "mnemonic": "Bayangkan penunjuk yang sudah disiapkan sebelum kegiatan dimulai.",
+      "on": [
+        "ヨ",
+        "シャ"
+      ],
+      "kun": [
+        "あらかじ.め"
+      ]
+    },
+    "元": {
+      "english": "origin; former",
+      "mnemonic": "Dua garis atas menjadi titik awal sebelum dua kaki melangkah.",
+      "on": [
+        "ゲン",
+        "ガン"
+      ],
+      "kun": [
+        "もと"
+      ]
+    },
+    "初": {
+      "english": "first; beginning",
+      "mnemonic": "刀 di kanan menjadi gunting yang memotong pita saat awal acara.",
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "はじ.め",
+        "はつ",
+        "はじ.めて",
+        "はつ-",
+        "うい-",
+        "-そ.める",
+        "-ぞ.め"
+      ]
+    },
+    "夕": {
+      "english": "evening",
+      "mnemonic": "Bentuknya seperti bulan kecil yang mulai terlihat menjelang malam.",
+      "on": [
+        "セキ"
+      ],
+      "kun": [
+        "ゆう"
+      ]
+    },
+    "夜": {
+      "english": "night",
+      "mnemonic": "Bayangkan orang beristirahat di bawah penutup gelap ketika malam tiba.",
+      "on": [
+        "ヤ"
+      ],
+      "kun": [
+        "よる",
+        "よ"
+      ]
+    },
+    "始": {
+      "english": "begin",
+      "mnemonic": "Bayangkan seseorang di kiri memberi aba-aba agar kegiatan mulai berjalan.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "はじ.まる",
+        "はじ.める",
+        "-はじ.める"
+      ]
+    },
+    "帰": {
+      "english": "return home",
+      "mnemonic": "Bayangkan orang pulang membawa sapu untuk merapikan rumahnya.",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "かえ.る",
+        "かえ.す",
+        "おく.る",
+        "とつ.ぐ"
+      ]
+    },
+    "昼": {
+      "english": "daytime; noon",
+      "mnemonic": "日 dekat garis dasar mengingatkan matahari yang terang pada siang hari.",
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "ひる"
+      ]
+    },
+    "曜": {
+      "english": "weekday",
+      "mnemonic": "日 di kiri mengingatkan matahari yang muncul setiap hari dalam sepekan.",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": []
+    },
+    "朝": {
+      "english": "morning",
+      "mnemonic": "日 dan 月 berdampingan; bayangkan bulan memudar ketika pagi datang.",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "あさ"
+      ]
+    },
+    "末": {
+      "english": "end; tip",
+      "mnemonic": "Garis atas pada pohon 木 dibuat panjang untuk menandai ujung paling akhir.",
+      "on": [
+        "マツ",
+        "バツ"
+      ],
+      "kun": [
+        "すえ",
+        "うら",
+        "うれ"
+      ]
+    },
+    "止": {
+      "english": "stop",
+      "mnemonic": "Bayangkan kaki yang diletakkan tegak sebagai tanda untuk berhenti.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "と.まる",
+        "と.める",
+        "-ど.まり",
+        "-と.める",
+        "-ど.め",
+        "とど.める",
+        "とど.め",
+        "とど.まる",
+        "や.める",
+        "や.む",
+        "-や.む",
+        "よ.す",
+        "-さ.す",
+        "-さ.し"
+      ]
+    },
+    "終": {
+      "english": "end; finish",
+      "mnemonic": "糸 bertemu 冬; bayangkan benang kalender berakhir pada musim dingin.",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "お.わる",
+        "お.える",
+        "-お.わる",
+        "おわ.る",
+        "つい",
+        "つい.に"
+      ]
+    },
+    "去": {
+      "english": "leave; past",
+      "mnemonic": "Bayangkan seseorang meninggalkan tanah tempatnya berdiri dan terus pergi.",
+      "on": [
+        "キョ",
+        "コ"
+      ],
+      "kun": [
+        "さ.る",
+        "-さ.る"
+      ]
+    },
+    "続": {
+      "english": "continue",
+      "mnemonic": "糸 di kiri menjadi benang panjang yang terus disambung agar tidak terputus.",
+      "on": [
+        "ゾク",
+        "ショク",
+        "コウ",
+        "キョウ"
+      ],
+      "kun": [
+        "つづ.く",
+        "つづ.ける",
+        "つぐ.ない"
+      ]
+    },
+    "例": {
+      "english": "example",
+      "mnemonic": "Orang di kiri berdiri sebagai contoh yang bisa ditiru orang lain.",
+      "on": [
+        "レイ"
+      ],
+      "kun": [
+        "たと.える"
+      ]
+    },
+    "勉": {
+      "english": "effort; endeavor",
+      "mnemonic": "力 di kanan mengingatkan tenaga yang dipakai untuk terus berusaha belajar.",
+      "on": [
+        "ベン"
+      ],
+      "kun": [
+        "つと.める"
+      ]
+    },
+    "化": {
+      "english": "change; transform",
+      "mnemonic": "Bayangkan dua sosok menghadap arah berbeda untuk menunjukkan perubahan.",
+      "on": [
+        "カ",
+        "ケ"
+      ],
+      "kun": [
+        "ば.ける",
+        "ば.かす",
+        "ふ.ける",
+        "け.する"
+      ]
+    },
+    "卒": {
+      "english": "graduate; finish",
+      "mnemonic": "Bayangkan orang-orang berkumpul di atas 十 untuk merayakan kelulusan.",
+      "on": [
+        "ソツ",
+        "シュツ"
+      ],
+      "kun": [
+        "そっ.する",
+        "お.える",
+        "お.わる",
+        "ついに",
+        "にわか"
+      ]
+    },
+    "博": {
+      "english": "broad knowledge; doctor",
+      "mnemonic": "Bayangkan meja luas yang penuh catatan milik orang berpengetahuan luas.",
+      "on": [
+        "ハク",
+        "バク"
+      ],
+      "kun": []
+    },
+    "史": {
+      "english": "history",
+      "mnemonic": "Bayangkan tangan memegang catatan tentang kejadian yang sudah berlalu.",
+      "on": [
+        "シ"
+      ],
+      "kun": []
+    },
+    "問": {
+      "english": "question; ask",
+      "mnemonic": "口 di dalam 門 seperti orang mengetuk pintu untuk bertanya.",
+      "on": [
+        "モン"
+      ],
+      "kun": [
+        "と.う",
+        "と.い",
+        "とん"
+      ]
+    },
+    "字": {
+      "english": "character; letter",
+      "mnemonic": "子 berada di bawah atap; bayangkan anak belajar menulis huruf di rumah.",
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "あざ",
+        "あざな",
+        "-な"
+      ]
+    },
+    "式": {
+      "english": "style; ceremony; formula",
+      "mnemonic": "Bayangkan alat ukur berbentuk 工 yang digunakan mengikuti tata cara tertentu.",
+      "on": [
+        "シキ"
+      ],
+      "kun": []
+    },
+    "形": {
+      "english": "shape; form",
+      "mnemonic": "Tiga garis di kanan seperti bayangan yang menampilkan bentuk suatu benda.",
+      "on": [
+        "ケイ",
+        "ギョウ"
+      ],
+      "kun": [
+        "かたち",
+        "かた",
+        "-がた",
+        "なり"
+      ]
+    },
+    "教": {
+      "english": "teach",
+      "mnemonic": "Bayangkan anak 子 menerima arahan dari tangan guru di sebelah kanan.",
+      "on": [
+        "キョウ"
+      ],
+      "kun": [
+        "おし.える",
+        "おそ.わる"
+      ]
+    },
+    "文": {
+      "english": "writing; sentence",
+      "mnemonic": "Garis-garis bersilang seperti coretan yang disusun menjadi sebuah tulisan.",
+      "on": [
+        "ブン",
+        "モン"
+      ],
+      "kun": [
+        "ふみ",
+        "あや"
+      ]
+    },
+    "漢": {
+      "english": "Chinese; Han characters",
+      "mnemonic": "Air di kiri mengingatkan aliran tinta untuk menulis aksara Han.",
+      "on": [
+        "カン"
+      ],
+      "kun": []
+    },
+    "知": {
+      "english": "know",
+      "mnemonic": "矢 dan 口 mengingatkan jawaban yang keluar tepat sasaran karena sudah tahu.",
+      "on": [
+        "チ"
+      ],
+      "kun": [
+        "し.る",
+        "し.らせる"
+      ]
+    },
+    "答": {
+      "english": "answer; reply",
+      "mnemonic": "竹 di atas seperti alat tulis; 合 di bawah mengingatkan jawaban yang cocok.",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "こた.える",
+        "こた.え"
+      ]
+    },
+    "紙": {
+      "english": "paper",
+      "mnemonic": "糸 di kiri menjadi serat yang diratakan menjadi lembar kertas.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "かみ"
+      ]
+    },
+    "級": {
+      "english": "class; rank",
+      "mnemonic": "糸 menjadi tali yang menghubungkan anak-anak tangga tingkat kelas.",
+      "on": [
+        "キュウ"
+      ],
+      "kun": []
+    },
+    "紹": {
+      "english": "introduce; connect",
+      "mnemonic": "糸 di kiri menyambungkan orang baru melalui sebuah perkenalan.",
+      "on": [
+        "ショウ"
+      ],
+      "kun": []
+    },
+    "練": {
+      "english": "practice; refine",
+      "mnemonic": "糸 menjadi benang yang terus dirapikan berulang kali seperti latihan.",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "ね.る",
+        "ね.り"
+      ]
+    },
+    "習": {
+      "english": "learn; practice",
+      "mnemonic": "羽 di atas mengingatkan sayap yang dilatih berulang sebelum bisa terbang.",
+      "on": [
+        "シュウ",
+        "ジュ"
+      ],
+      "kun": [
+        "なら.う",
+        "なら.い"
+      ]
+    },
+    "考": {
+      "english": "think; consider",
+      "mnemonic": "Bayangkan orang menunduk sambil memikirkan langkah berikutnya dengan saksama.",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "かんが.える",
+        "かんが.え"
+      ]
+    },
+    "観": {
+      "english": "view; observe",
+      "mnemonic": "見 di kanan mengingatkan mata yang mengamati pemandangan dengan teliti.",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "み.る",
+        "しめ.す"
+      ]
+    },
+    "解": {
+      "english": "untie; solve; understand",
+      "mnemonic": "角 dan 刀 di kiri seperti alat untuk membuka simpul masalah.",
+      "on": [
+        "カイ",
+        "ゲ"
+      ],
+      "kun": [
+        "と.く",
+        "と.ける",
+        "と.かす",
+        "ほど.く",
+        "ほぐ.す",
+        "わか.る",
+        "さと.る"
+      ]
+    },
+    "計": {
+      "english": "calculate; plan",
+      "mnemonic": "言 dan 十 mengingatkan angka yang disebut sambil menghitung dan menyusun rencana.",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "はか.る",
+        "はか.らう"
+      ]
+    },
+    "試": {
+      "english": "try; test",
+      "mnemonic": "言 di kiri mengingatkan pertanyaan yang dicoba dijawab dalam ujian.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "ため.す",
+        "こころ.みる"
+      ]
+    },
+    "説": {
+      "english": "explain; theory",
+      "mnemonic": "言 di kiri menjadi kata-kata untuk menjelaskan sesuatu sampai orang memahami.",
+      "on": [
+        "セツ",
+        "ゼイ"
+      ],
+      "kun": [
+        "と.く"
+      ]
+    },
+    "調": {
+      "english": "investigate; tune",
+      "mnemonic": "言 di kiri mengingatkan bertanya dan memeriksa keadaan sebelum menyesuaikannya.",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "しら.べる",
+        "ととの.える",
+        "しら.べ",
+        "ととの.う"
+      ]
+    },
+    "談": {
+      "english": "talk; discuss",
+      "mnemonic": "言 berdampingan dengan dua 火; bayangkan percakapan hangat di dekat api.",
+      "on": [
+        "ダン"
+      ],
+      "kun": []
+    },
+    "議": {
+      "english": "discuss; deliberate",
+      "mnemonic": "言 di kiri mengingatkan banyak pendapat yang dibahas dalam musyawarah.",
+      "on": [
+        "ギ"
+      ],
+      "kun": []
+    },
+    "質": {
+      "english": "quality; nature",
+      "mnemonic": "貝 di bawah mengingatkan barang berharga yang perlu diperiksa kualitasnya.",
+      "on": [
+        "シツ",
+        "シチ",
+        "チ"
+      ],
+      "kun": [
+        "たち",
+        "ただ.す",
+        "もと",
+        "わりふ"
+      ]
+    },
+    "題": {
+      "english": "topic; title; question",
+      "mnemonic": "頁 di kanan menjadi halaman yang diberi judul atau topik pembahasan.",
+      "on": [
+        "ダイ"
+      ],
+      "kun": []
+    },
+    "験": {
+      "english": "test; experience",
+      "mnemonic": "馬 di kiri mengingatkan perjalanan yang memberi pengalaman dan menguji kemampuan.",
+      "on": [
+        "ケン",
+        "ゲン"
+      ],
+      "kun": [
+        "あかし",
+        "しるし",
+        "ため.す",
+        "ためし"
+      ]
+    },
+    "乗": {
+      "english": "ride; board",
+      "mnemonic": "Bayangkan seseorang duduk di atas kendaraan dengan kaki di kedua sisi.",
+      "on": [
+        "ジョウ",
+        "ショウ"
+      ],
+      "kun": [
+        "の.る",
+        "の.せる",
+        "-の.り"
+      ]
+    },
+    "京": {
+      "english": "capital city",
+      "mnemonic": "Bentuknya seperti bangunan tinggi yang menjadi pusat sebuah ibu kota.",
+      "on": [
+        "キョウ",
+        "ケイ",
+        "キン"
+      ],
+      "kun": [
+        "みやこ"
+      ]
+    },
+    "住": {
+      "english": "reside; live",
+      "mnemonic": "Orang di kiri berdiri di dekat 主; bayangkan penghuni utama sebuah rumah.",
+      "on": [
+        "ジュウ",
+        "ヂュウ",
+        "チュウ"
+      ],
+      "kun": [
+        "す.む",
+        "す.まう",
+        "-ず.まい"
+      ]
+    },
+    "公": {
+      "english": "public; official",
+      "mnemonic": "Bagian atas terbuka ke dua arah seperti tempat yang bisa dipakai umum.",
+      "on": [
+        "コウ",
+        "ク"
+      ],
+      "kun": [
+        "おおやけ"
+      ]
+    },
+    "園": {
+      "english": "garden; park",
+      "mnemonic": "Bingkai besar 囗 menjadi pagar yang mengelilingi taman.",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "その"
+      ]
+    },
+    "地": {
+      "english": "ground; land",
+      "mnemonic": "土 di kiri mengingatkan tanah tempat kita berdiri.",
+      "on": [
+        "チ",
+        "ジ"
+      ],
+      "kun": []
+    },
+    "場": {
+      "english": "place; area",
+      "mnemonic": "土 di kiri menjadi lahan yang disiapkan untuk suatu kegiatan.",
+      "on": [
+        "ジョウ",
+        "チョウ"
+      ],
+      "kun": [
+        "ば"
+      ]
+    },
+    "客": {
+      "english": "guest; customer",
+      "mnemonic": "Atap di atas menjadi tempat berlindung bagi tamu yang datang berkunjung.",
+      "on": [
+        "キャク",
+        "カク"
+      ],
+      "kun": []
+    },
+    "室": {
+      "english": "room",
+      "mnemonic": "Atap di atas dan dasar di bawah membentuk bayangan sebuah ruangan.",
+      "on": [
+        "シツ"
+      ],
+      "kun": [
+        "むろ"
+      ]
+    },
+    "寺": {
+      "english": "Buddhist temple",
+      "mnemonic": "Bayangkan bangunan di atas tanah yang tenang sebagai sebuah kuil Buddha.",
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "てら"
+      ]
+    },
+    "屋": {
+      "english": "house; shop; roof",
+      "mnemonic": "Bagian atas seperti atap yang menutupi sebuah rumah atau toko.",
+      "on": [
+        "オク"
+      ],
+      "kun": [
+        "や"
+      ]
+    },
+    "市": {
+      "english": "city; market",
+      "mnemonic": "Bayangkan sebuah papan di atas kios-kios pasar yang ramai di kota.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "いち"
+      ]
+    },
+    "席": {
+      "english": "seat; place",
+      "mnemonic": "Atap lebar menaungi kain 巾 yang dibentangkan sebagai tempat duduk.",
+      "on": [
+        "セキ"
+      ],
+      "kun": [
+        "むしろ"
+      ]
+    },
+    "座": {
+      "english": "sit; seat",
+      "mnemonic": "Dua 人 berada di atas 土 di bawah atap, seperti orang duduk berdampingan.",
+      "on": [
+        "ザ"
+      ],
+      "kun": [
+        "すわ.る"
+      ]
+    },
+    "庭": {
+      "english": "garden; courtyard",
+      "mnemonic": "Atap lebar mengingatkan sisi rumah yang menghadap halaman.",
+      "on": [
+        "テイ"
+      ],
+      "kun": [
+        "にわ"
+      ]
+    },
+    "旅": {
+      "english": "travel; trip",
+      "mnemonic": "Bayangkan orang membawa bekal sambil berjalan mengikuti sebuah bendera perjalanan.",
+      "on": [
+        "リョ"
+      ],
+      "kun": [
+        "たび"
+      ]
+    },
+    "機": {
+      "english": "machine; opportunity",
+      "mnemonic": "木 di kiri menjadi rangka mesin dengan banyak bagian kecil di kanan.",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "はた"
+      ]
+    },
+    "歩": {
+      "english": "walk; steps",
+      "mnemonic": "止 di atas mengingatkan kaki yang bergerak sedikit demi sedikit saat berjalan.",
+      "on": [
+        "ホ",
+        "ブ",
+        "フ"
+      ],
+      "kun": [
+        "ある.く",
+        "あゆ.む"
+      ]
+    },
+    "町": {
+      "english": "town; neighborhood",
+      "mnemonic": "田 di kiri menjadi petak-petak tempat tinggal dalam sebuah kota kecil.",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "まち"
+      ]
+    },
+    "界": {
+      "english": "world; boundary",
+      "mnemonic": "田 di atas dibagi menjadi wilayah-wilayah yang mempunyai batas.",
+      "on": [
+        "カイ"
+      ],
+      "kun": []
+    },
+    "留": {
+      "english": "stay; hold",
+      "mnemonic": "Bayangkan sesuatu ditahan di atas petak 田 agar tetap tinggal di sana.",
+      "on": [
+        "リュウ",
+        "ル"
+      ],
+      "kun": [
+        "と.める",
+        "と.まる",
+        "とど.める",
+        "とど.まる",
+        "るうぶる"
+      ]
+    },
+    "発": {
+      "english": "depart; emit",
+      "mnemonic": "Bagian atas seperti kaki yang siap melangkah saat perjalanan dimulai.",
+      "on": [
+        "ハツ",
+        "ホツ"
+      ],
+      "kun": [
+        "た.つ",
+        "あば.く",
+        "おこ.る",
+        "つか.わす",
+        "はな.つ"
+      ]
+    },
+    "航": {
+      "english": "navigate; sail",
+      "mnemonic": "舟 di kiri adalah kapal yang sedang melakukan pelayaran.",
+      "on": [
+        "コウ"
+      ],
+      "kun": []
+    },
+    "船": {
+      "english": "ship; boat",
+      "mnemonic": "舟 di kiri mengingatkan perahu; bayangkan penumpang berdiri di sisi kanan.",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "ふね",
+        "ふな-"
+      ]
+    },
+    "転": {
+      "english": "turn; change",
+      "mnemonic": "車 di kiri menjadi roda kendaraan yang terus berputar.",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "ころ.ぶ",
+        "ころ.がる",
+        "ころ.げる",
+        "ころ.がす",
+        "まろ.ぶ",
+        "うたた",
+        "うつ.る",
+        "くる.めく"
+      ]
+    },
+    "輸": {
+      "english": "transport; export; import",
+      "mnemonic": "車 di kiri menjadi kendaraan pengangkut barang dari satu tempat ke tempat lain.",
+      "on": [
+        "ユ",
+        "シュ"
+      ],
+      "kun": []
+    },
+    "返": {
+      "english": "return; give back",
+      "mnemonic": "Jalan di bawah membawa sebuah barang kembali kepada pemiliknya.",
+      "on": [
+        "ヘン"
+      ],
+      "kun": [
+        "かえ.す",
+        "かえ.る",
+        "-かえ.す",
+        "-かえ.る"
+      ]
+    },
+    "送": {
+      "english": "send; escort",
+      "mnemonic": "Jalan di bawah menjadi jalur pengiriman paket atau perjalanan mengantar teman.",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "おく.る"
+      ]
+    },
+    "通": {
+      "english": "pass through; communicate",
+      "mnemonic": "Jalan di bawah mengingatkan jalur yang bisa dilewati dan menghubungkan tempat.",
+      "on": [
+        "ツウ",
+        "ツ"
+      ],
+      "kun": [
+        "とお.る",
+        "かよ.う",
+        "とお.り",
+        "-とお.り",
+        "-どお.り",
+        "とお.す",
+        "とお.し",
+        "-どお.し"
+      ]
+    },
+    "連": {
+      "english": "connect; take along",
+      "mnemonic": "車 di atas jalan seperti kendaraan yang membawa orang-orang bersama.",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "つ.れる",
+        "つら.なる",
+        "つら.ねる",
+        "-づ.れ"
+      ]
+    },
+    "運": {
+      "english": "carry; luck",
+      "mnemonic": "Jalan dan kendaraan mengingatkan barang yang dibawa menuju tujuannya.",
+      "on": [
+        "ウン"
+      ],
+      "kun": [
+        "はこ.ぶ"
+      ]
+    },
+    "部": {
+      "english": "section; department",
+      "mnemonic": "Bagian kanan seperti penanda wilayah untuk satu bagian dari organisasi.",
+      "on": [
+        "ブ"
+      ],
+      "kun": [
+        "-べ"
+      ]
+    },
+    "都": {
+      "english": "capital; metropolis",
+      "mnemonic": "Bayangkan kawasan di kanan sebagai pusat kota besar yang ramai.",
+      "on": [
+        "ト",
+        "ツ"
+      ],
+      "kun": [
+        "みやこ"
+      ]
+    },
+    "院": {
+      "english": "institution; building",
+      "mnemonic": "Atap di kanan mengingatkan gedung lembaga yang berdiri di suatu kawasan.",
+      "on": [
+        "イン"
+      ],
+      "kun": []
+    },
+    "階": {
+      "english": "floor; stairs",
+      "mnemonic": "Bagian kiri seperti tangga yang menghubungkan lantai-lantai bangunan.",
+      "on": [
+        "カイ"
+      ],
+      "kun": [
+        "きざはし"
+      ]
+    },
+    "飛": {
+      "english": "fly",
+      "mnemonic": "Garis-garis yang terbuka ke samping seperti dua sayap sedang mengepak.",
+      "on": [
+        "ヒ"
+      ],
+      "kun": [
+        "と.ぶ",
+        "と.ばす",
+        "-と.ばす"
+      ]
+    },
+    "館": {
+      "english": "building; hall",
+      "mnemonic": "食 di kiri mengingatkan tempat singgah yang menyediakan makanan dalam gedung.",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "やかた",
+        "たて"
+      ]
+    },
+    "不": {
+      "english": "not; non-",
+      "mnemonic": "Bayangkan garis penghalang di atas yang menolak sesuatu lewat.",
+      "on": [
+        "フ",
+        "ブ"
+      ],
+      "kun": []
+    },
+    "低": {
+      "english": "low; short",
+      "mnemonic": "Orang di kiri membungkuk agar posisinya menjadi rendah.",
+      "on": [
+        "テイ"
+      ],
+      "kun": [
+        "ひく.い",
+        "ひく.める",
+        "ひく.まる"
+      ]
+    },
+    "全": {
+      "english": "all; whole",
+      "mnemonic": "Atap kecil seperti penutup yang menaungi seluruh bagian di bawahnya.",
+      "on": [
+        "ゼン"
+      ],
+      "kun": [
+        "すべ.て",
+        "まった.く"
+      ]
+    },
+    "冷": {
+      "english": "cold; cool",
+      "mnemonic": "Dua titik di kiri seperti es yang membuat benda menjadi dingin.",
+      "on": [
+        "レイ"
+      ],
+      "kun": [
+        "つめ.たい",
+        "ひ.える",
+        "さ.める",
+        "ひ.や",
+        "ひ.ややか",
+        "ひ.やす",
+        "ひ.やかす",
+        "さ.ます"
+      ]
+    },
+    "別": {
+      "english": "separate; different",
+      "mnemonic": "刀 di kanan seperti pisau yang memisahkan dua bagian berbeda.",
+      "on": [
+        "ベツ"
+      ],
+      "kun": [
+        "わか.れる",
+        "わ.ける"
+      ]
+    },
+    "危": {
+      "english": "danger; risky",
+      "mnemonic": "Bayangkan seseorang berada di tepi tempat tinggi sehingga perlu waspada.",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "あぶ.ない",
+        "あや.うい",
+        "あや.ぶむ"
+      ]
+    },
+    "同": {
+      "english": "same; equal",
+      "mnemonic": "Bayangkan dua benda dalam satu bingkai yang mempunyai bentuk sama.",
+      "on": [
+        "ドウ"
+      ],
+      "kun": [
+        "おな.じ"
+      ]
+    },
+    "変": {
+      "english": "change; unusual",
+      "mnemonic": "Bayangkan bagian atas dipindahkan oleh langkah di bawah sehingga bentuknya berubah.",
+      "on": [
+        "ヘン"
+      ],
+      "kun": [
+        "か.わる",
+        "か.える",
+        "か.わり"
+      ]
+    },
+    "幸": {
+      "english": "happiness; good fortune",
+      "mnemonic": "Bayangkan susunan garis sebagai bingkai hadiah yang membawa kebahagiaan.",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "しあわ.せ",
+        "さいわ.い",
+        "さち"
+      ]
+    },
+    "広": {
+      "english": "wide; spacious",
+      "mnemonic": "Atap yang melebar memberi ruang luas untuk bergerak di bawahnya.",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "ひろ.い",
+        "ひろ.がる",
+        "ひろ.まる",
+        "ひろ.める",
+        "ひろ.げる"
+      ]
+    },
+    "弱": {
+      "english": "weak",
+      "mnemonic": "Dua 弓 tampak lentur; bayangkan busur yang kurang kuat saat ditarik.",
+      "on": [
+        "ジャク"
+      ],
+      "kun": [
+        "よわ.い",
+        "よわ.る",
+        "よわ.まる",
+        "よわ.める"
+      ]
+    },
+    "強": {
+      "english": "strong",
+      "mnemonic": "弓 di kiri menjadi busur yang kuat untuk melontarkan anak panah jauh.",
+      "on": [
+        "キョウ",
+        "ゴウ"
+      ],
+      "kun": [
+        "つよ.い",
+        "つよ.める",
+        "つよ.まる",
+        "し.いる",
+        "こわ.い"
+      ]
+    },
+    "必": {
+      "english": "certain; must",
+      "mnemonic": "Guratan yang menembus 心 mengingatkan tekad hati yang pasti dilakukan.",
+      "on": [
+        "ヒツ"
+      ],
+      "kun": [
+        "かなら.ず"
+      ]
+    },
+    "忙": {
+      "english": "busy",
+      "mnemonic": "Hati di kiri terasa penuh karena banyak kegiatan yang harus dikerjakan.",
+      "on": [
+        "ボウ",
+        "モウ"
+      ],
+      "kun": [
+        "いそが.しい",
+        "せわ.しい",
+        "おそ.れる",
+        "うれえるさま"
+      ]
+    },
+    "急": {
+      "english": "hurry; urgent",
+      "mnemonic": "心 di bawah berdebar saat seseorang harus segera bergegas.",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "いそ.ぐ",
+        "いそ.ぎ",
+        "せ.く"
+      ]
+    },
+    "性": {
+      "english": "nature; gender",
+      "mnemonic": "Hati di kiri dan 生 di kanan mengingatkan sifat yang tampak dalam hidup.",
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "さが"
+      ]
+    },
+    "悪": {
+      "english": "bad; evil",
+      "mnemonic": "心 di bawah menyimpan pikiran buruk yang perlu dijauhi.",
+      "on": [
+        "アク",
+        "オ"
+      ],
+      "kun": [
+        "わる.い",
+        "わる-",
+        "あ.し",
+        "にく.い",
+        "-にく.い",
+        "ああ",
+        "いずくに",
+        "いずくんぞ",
+        "にく.む"
+      ]
+    },
+    "意": {
+      "english": "idea; intention",
+      "mnemonic": "音 di atas 心 seperti suara hati yang menyatakan sebuah maksud.",
+      "on": [
+        "イ"
+      ],
+      "kun": []
+    },
+    "成": {
+      "english": "become; achieve",
+      "mnemonic": "Bayangkan rangka yang hampir selesai dibangun menjadi hasil yang utuh.",
+      "on": [
+        "セイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "な.る",
+        "な.す",
+        "-な.す"
+      ]
+    },
+    "明": {
+      "english": "bright; clear",
+      "mnemonic": "日 dan 月 bersama-sama membuat bayangan cahaya yang terang.",
+      "on": [
+        "メイ",
+        "ミョウ",
+        "ミン"
+      ],
+      "kun": [
+        "あか.るい",
+        "あ.ける",
+        "あ.かり",
+        "あか.るむ",
+        "あか.らむ",
+        "あき.らか",
+        "-あ.け",
+        "あ.く",
+        "あ.くる",
+        "あ.かす"
+      ]
+    },
+    "更": {
+      "english": "renew; further",
+      "mnemonic": "Bayangkan tangan membalik lembar lama untuk memperbarui keadaan.",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "さら",
+        "ふ.ける",
+        "さら.に",
+        "ふ.かす"
+      ]
+    },
+    "有": {
+      "english": "have; exist",
+      "mnemonic": "Bayangkan tangan di atas memegang sesuatu yang memang ada dan dimiliki.",
+      "on": [
+        "ユウ",
+        "ウ"
+      ],
+      "kun": [
+        "あ.る"
+      ]
+    },
+    "格": {
+      "english": "standard; qualification",
+      "mnemonic": "木 di kiri menjadi batang ukur untuk memeriksa apakah sesuatu memenuhi standar.",
+      "on": [
+        "カク",
+        "コウ",
+        "キャク",
+        "ゴウ"
+      ],
+      "kun": []
+    },
+    "楽": {
+      "english": "music; comfort; pleasure",
+      "mnemonic": "Bagian atas seperti alat musik yang diletakkan pada rangka 木 dan menyenangkan hati.",
+      "on": [
+        "ガク",
+        "ラク",
+        "ゴウ"
+      ],
+      "kun": [
+        "たの.しい",
+        "たの.しむ",
+        "この.む"
+      ]
+    },
+    "正": {
+      "english": "correct; right",
+      "mnemonic": "Kaki 止 berhenti tepat pada garis sebagai tanda posisi yang benar.",
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "ただ.しい",
+        "まさ",
+        "ただ.す",
+        "まさ.に"
+      ]
+    },
+    "満": {
+      "english": "full; satisfied",
+      "mnemonic": "Air di kiri mengingatkan wadah yang diisi sampai penuh.",
+      "on": [
+        "マン",
+        "バン"
+      ],
+      "kun": [
+        "み.ちる",
+        "み.たす",
+        "み.つ"
+      ]
+    },
+    "無": {
+      "english": "none; nothing",
+      "mnemonic": "Bayangkan empat titik bawah padam sehingga tidak ada api yang tersisa.",
+      "on": [
+        "ム",
+        "ブ"
+      ],
+      "kun": [
+        "な.い"
+      ]
+    },
+    "特": {
+      "english": "special",
+      "mnemonic": "牛 di kiri mengingatkan seekor hewan yang diberi tempat khusus.",
+      "on": [
+        "トク"
+      ],
+      "kun": []
+    },
+    "現": {
+      "english": "appear; present",
+      "mnemonic": "見 di kanan mengingatkan sesuatu yang mulai tampak di depan mata.",
+      "on": [
+        "ゲン"
+      ],
+      "kun": [
+        "あらわ.れる",
+        "あらわ.す",
+        "うつつ",
+        "うつ.つ"
+      ]
+    },
+    "理": {
+      "english": "reason; principle",
+      "mnemonic": "Bayangkan petak 里 disusun rapi agar setiap bagian mempunyai alasan dan aturan.",
+      "on": [
+        "リ"
+      ],
+      "kun": [
+        "ことわり"
+      ]
+    },
+    "的": {
+      "english": "target; characteristic",
+      "mnemonic": "Bayangkan sasaran putih 白 yang diberi tanda di sebelah kanan.",
+      "on": [
+        "テキ"
+      ],
+      "kun": [
+        "まと"
+      ]
+    },
+    "省": {
+      "english": "save; omit; reflect",
+      "mnemonic": "目 di bawah memeriksa bagian kecil agar tidak ada yang terbuang sia-sia.",
+      "on": [
+        "ショウ",
+        "セイ"
+      ],
+      "kun": [
+        "はぶ.く",
+        "かえり.みる"
+      ]
+    },
+    "真": {
+      "english": "true; genuine",
+      "mnemonic": "Bayangkan kotak di tengah dibuka untuk memeriksa isi yang sebenarnya.",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "ま",
+        "ま-",
+        "まこと"
+      ]
+    },
+    "短": {
+      "english": "short",
+      "mnemonic": "矢 di kiri menjadi anak panah yang lebih pendek dari ukuran biasa.",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "みじか.い"
+      ]
+    },
+    "能": {
+      "english": "ability; skill",
+      "mnemonic": "Bayangkan dua kait di kanan sebagai alat yang membantu seseorang menunjukkan kemampuannya.",
+      "on": [
+        "ノウ"
+      ],
+      "kun": [
+        "よ.く",
+        "あた.う"
+      ]
+    },
+    "色": {
+      "english": "color",
+      "mnemonic": "Bentuk berlekuk seperti palet kecil yang diisi berbagai warna.",
+      "on": [
+        "ショク",
+        "シキ"
+      ],
+      "kun": [
+        "いろ"
+      ]
+    },
+    "若": {
+      "english": "young",
+      "mnemonic": "Tunas 艹 di atas mengingatkan tanaman yang masih muda.",
+      "on": [
+        "ジャク",
+        "ニャク",
+        "ニャ"
+      ],
+      "kun": [
+        "わか.い",
+        "わか-",
+        "も.しくわ",
+        "も.し",
+        "も.しくは",
+        "ごと.し"
+      ]
+    },
+    "苦": {
+      "english": "bitter; suffer",
+      "mnemonic": "艹 di atas 口 seperti tanaman pahit yang terasa di mulut.",
+      "on": [
+        "ク"
+      ],
+      "kun": [
+        "にが.い",
+        "くる.しい",
+        "-ぐる.しい",
+        "くる.しむ",
+        "くる.しめる",
+        "にが.る"
+      ]
+    },
+    "要": {
+      "english": "need; main point",
+      "mnemonic": "Bayangkan bagian tengah diberi penanda karena itulah inti yang diperlukan.",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "い.る",
+        "かなめ"
+      ]
+    },
+    "重": {
+      "english": "heavy; pile up",
+      "mnemonic": "Bayangkan lapisan-lapisan tersusun tinggi sehingga beban menjadi berat.",
+      "on": [
+        "ジュウ",
+        "チョウ"
+      ],
+      "kun": [
+        "おも.い",
+        "かさ.なる",
+        "え",
+        "おも.り",
+        "おも.なう",
+        "かさ.ねる",
+        "おも"
+      ]
+    },
+    "軽": {
+      "english": "light in weight",
+      "mnemonic": "車 di kiri menjadi kendaraan kecil yang bebannya ringan.",
+      "on": [
+        "ケイ",
+        "キョウ",
+        "キン"
+      ],
+      "kun": [
+        "かる.い",
+        "かろ.やか",
+        "かろ.んじる"
+      ]
+    },
+    "難": {
+      "english": "difficult",
+      "mnemonic": "Bayangkan bentuk yang rapat dan rumit sebagai tantangan yang sulit diselesaikan.",
+      "on": [
+        "ナン"
+      ],
+      "kun": [
+        "むずか.しい",
+        "かた.い",
+        "-がた.い",
+        "むづか.しい",
+        "むつか.しい",
+        "-にく.い"
+      ]
+    },
+    "青": {
+      "english": "blue; green in some uses",
+      "mnemonic": "Bayangkan bagian bawah seperti wadah warna biru untuk melukis langit.",
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "あお",
+        "あお.い",
+        "あお-"
+      ]
+    },
+    "静": {
+      "english": "quiet; calm",
+      "mnemonic": "Bayangkan warna 青 yang menenangkan hingga keributan di kanan mereda.",
+      "on": [
+        "セイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "しず.か",
+        "しず.まる",
+        "しず-",
+        "しず.める"
+      ]
+    },
+    "赤": {
+      "english": "red",
+      "mnemonic": "Bayangkan percikan di bawah bersinar merah seperti bara yang panas.",
+      "on": [
+        "セキ",
+        "シャク"
+      ],
+      "kun": [
+        "あか",
+        "あか.い",
+        "あか-",
+        "あか.らむ",
+        "あか.らめる"
+      ]
+    },
+    "黒": {
+      "english": "black",
+      "mnemonic": "Empat titik di bawah seperti api yang meninggalkan jelaga hitam.",
+      "on": [
+        "コク"
+      ],
+      "kun": [
+        "くろ",
+        "くろ.い",
+        "くろ.ずむ"
+      ]
+    },
+    "作": {
+      "english": "make; create",
+      "mnemonic": "Orang di kiri menggerakkan alat di kanan untuk membuat sesuatu.",
+      "on": [
+        "サク",
+        "サ"
+      ],
+      "kun": [
+        "つく.る",
+        "つく.り",
+        "-づく.り"
+      ]
+    },
+    "使": {
+      "english": "use; employ",
+      "mnemonic": "Orang di kiri memegang alat untuk digunakan menyelesaikan tugas.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "つか.う",
+        "つか.い",
+        "-つか.い",
+        "-づか.い"
+      ]
+    },
+    "付": {
+      "english": "attach; stick",
+      "mnemonic": "Orang di kiri mengulurkan tangan 寸 untuk menempelkan sesuatu.",
+      "on": [
+        "フ"
+      ],
+      "kun": [
+        "つ.く",
+        "つ.ける",
+        "-つ.ける",
+        "-づ.ける",
+        "つ.け",
+        "つ.け-",
+        "-つ.け",
+        "-づ.け",
+        "-づけ",
+        "-づ.く",
+        "つ.き",
+        "-つ.き",
+        "-つき",
+        "-づ.き",
+        "-づき"
+      ]
+    },
+    "切": {
+      "english": "cut",
+      "mnemonic": "刀 di kanan seperti pisau yang memotong benda kecil di kiri.",
+      "on": [
+        "セツ",
+        "サイ"
+      ],
+      "kun": [
+        "き.る",
+        "き.れる",
+        "-き.る",
+        "き.り",
+        "-き.り",
+        "-ぎ.り",
+        "-き.れる",
+        "き.れ",
+        "-き.れ",
+        "-ぎ.れ"
+      ]
+    },
+    "到": {
+      "english": "arrive; reach",
+      "mnemonic": "Bayangkan seseorang akhirnya berhenti pada tanda batas setelah tiba di tujuan.",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "いた.る"
+      ]
+    },
+    "加": {
+      "english": "add; increase",
+      "mnemonic": "力 dan 口 mengingatkan tambahan tenaga dan suara agar hasilnya bertambah.",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "くわ.える",
+        "くわ.わる"
+      ]
+    },
+    "助": {
+      "english": "help; assist",
+      "mnemonic": "力 di kanan menjadi tenaga tambahan untuk menolong orang lain.",
+      "on": [
+        "ジョ"
+      ],
+      "kun": [
+        "たす.ける",
+        "たす.かる",
+        "す.ける",
+        "すけ"
+      ]
+    },
+    "動": {
+      "english": "move; motion",
+      "mnemonic": "重 dan 力 mengingatkan tenaga yang diperlukan untuk menggerakkan beban berat.",
+      "on": [
+        "ドウ"
+      ],
+      "kun": [
+        "うご.く",
+        "うご.かす"
+      ]
+    },
+    "受": {
+      "english": "receive; accept",
+      "mnemonic": "Bayangkan tangan di atas menyerahkan sesuatu kepada tangan di bawah.",
+      "on": [
+        "ジュ"
+      ],
+      "kun": [
+        "う.ける",
+        "う.かる",
+        "-う.け"
+      ]
+    },
+    "告": {
+      "english": "tell; inform",
+      "mnemonic": "口 di bawah menjadi mulut yang menyampaikan pengumuman kepada orang lain.",
+      "on": [
+        "コク"
+      ],
+      "kun": [
+        "つ.げる"
+      ]
+    },
+    "寝": {
+      "english": "sleep; lie down",
+      "mnemonic": "Atap di atas melindungi orang yang sedang berbaring untuk tidur.",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "ね.る",
+        "ね.かす",
+        "い.ぬ",
+        "みたまや",
+        "や.める"
+      ]
+    },
+    "待": {
+      "english": "wait",
+      "mnemonic": "Langkah kecil di kiri berhenti di depan 寺 sambil menunggu teman.",
+      "on": [
+        "タイ"
+      ],
+      "kun": [
+        "ま.つ",
+        "-ま.ち"
+      ]
+    },
+    "心": {
+      "english": "heart; mind",
+      "mnemonic": "Garis melengkung dan titik-titik seperti hati yang sedang berdenyut.",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "こころ",
+        "-ごころ"
+      ]
+    },
+    "忘": {
+      "english": "forget",
+      "mnemonic": "Bayangkan sesuatu hilang dari 心 sehingga tidak lagi teringat.",
+      "on": [
+        "ボウ"
+      ],
+      "kun": [
+        "わす.れる"
+      ]
+    },
+    "思": {
+      "english": "think; feel",
+      "mnemonic": "田 di atas 心 seperti banyak kotak pikiran yang dipikirkan dalam hati.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "おも.う",
+        "おもえら.く",
+        "おぼ.す"
+      ]
+    },
+    "招": {
+      "english": "invite; beckon",
+      "mnemonic": "Tangan di kiri memberi isyarat sambil mulut di kanan mengundang orang datang.",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "まね.く"
+      ]
+    },
+    "持": {
+      "english": "hold; carry",
+      "mnemonic": "Tangan di kiri memegang sesuatu dengan erat agar bisa dibawa.",
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "も.つ",
+        "-も.ち",
+        "も.てる"
+      ]
+    },
+    "決": {
+      "english": "decide; settle",
+      "mnemonic": "Bayangkan aliran air di kiri akhirnya dipilihkan satu jalur yang pasti.",
+      "on": [
+        "ケツ"
+      ],
+      "kun": [
+        "き.める",
+        "き.まる",
+        "-ぎ.め",
+        "さ.く"
+      ]
+    },
+    "泳": {
+      "english": "swim",
+      "mnemonic": "Air di kiri mengalir terus; bayangkan orang menggerakkan tangan untuk berenang.",
+      "on": [
+        "エイ"
+      ],
+      "kun": [
+        "およ.ぐ"
+      ]
+    },
+    "洗": {
+      "english": "wash",
+      "mnemonic": "Air di kiri digunakan untuk mencuci sampai bersih sebelum kegiatan dimulai.",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "あら.う"
+      ]
+    },
+    "活": {
+      "english": "live; active",
+      "mnemonic": "Air di kiri menyegarkan 舌 sehingga tubuh kembali hidup dan aktif.",
+      "on": [
+        "カツ"
+      ],
+      "kun": [
+        "い.きる",
+        "い.かす",
+        "い.ける"
+      ]
+    },
+    "用": {
+      "english": "use; purpose",
+      "mnemonic": "Bentuknya seperti alat dengan pegangan yang siap dipakai untuk suatu keperluan.",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "もち.いる"
+      ]
+    },
+    "着": {
+      "english": "wear; arrive",
+      "mnemonic": "Bayangkan mata 目 memeriksa pakaian yang sudah dikenakan sebelum tiba di tujuan.",
+      "on": [
+        "チャク",
+        "ジャク"
+      ],
+      "kun": [
+        "き.る",
+        "つ.く",
+        "き.せる",
+        "つ.ける"
+      ]
+    },
+    "走": {
+      "english": "run",
+      "mnemonic": "Bayangkan sosok di atas kaki yang bergerak cepat untuk berlari.",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "はし.る"
+      ]
+    },
+    "起": {
+      "english": "get up; happen",
+      "mnemonic": "走 di kiri mengingatkan tubuh yang bangun lalu mulai bergerak.",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "お.きる",
+        "お.こる",
+        "お.こす",
+        "おこ.す",
+        "た.つ"
+      ]
+    },
+    "選": {
+      "english": "choose; select",
+      "mnemonic": "Jalan di bawah mengingatkan seseorang memilih satu dari beberapa jalur.",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "えら.ぶ",
+        "え.る",
+        "よ.る"
+      ]
+    },
+    "配": {
+      "english": "distribute; arrange",
+      "mnemonic": "Bayangkan wadah di kiri dibagikan satu demi satu kepada orang-orang.",
+      "on": [
+        "ハイ"
+      ],
+      "kun": [
+        "くば.る"
+      ]
+    },
+    "集": {
+      "english": "gather; collect",
+      "mnemonic": "隹 di atas 木 mengingatkan burung-burung yang berkumpul pada sebuah pohon.",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "あつ.まる",
+        "あつ.める",
+        "つど.う"
+      ]
+    },
+    "卵": {
+      "english": "egg",
+      "mnemonic": "Dua bentuk berdampingan seperti telur yang dibelah dan memperlihatkan isinya.",
+      "on": [
+        "ラン"
+      ],
+      "kun": [
+        "たまご"
+      ]
+    },
+    "味": {
+      "english": "taste; flavor",
+      "mnemonic": "口 di kiri mengingatkan mulut yang mencicipi rasa makanan.",
+      "on": [
+        "ミ"
+      ],
+      "kun": [
+        "あじ",
+        "あじ.わう"
+      ]
+    },
+    "塩": {
+      "english": "salt",
+      "mnemonic": "皿 di bawah menjadi wadah berisi butiran garam.",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "しお"
+      ]
+    },
+    "料": {
+      "english": "materials; fee",
+      "mnemonic": "米 di kiri seperti bahan yang ditakar, lalu dihitung biayanya.",
+      "on": [
+        "リョウ"
+      ],
+      "kun": []
+    },
+    "材": {
+      "english": "material; timber",
+      "mnemonic": "木 di kiri mengingatkan kayu yang dipakai sebagai bahan membuat benda.",
+      "on": [
+        "ザイ"
+      ],
+      "kun": []
+    },
+    "物": {
+      "english": "thing; object",
+      "mnemonic": "牛 di kiri mengingatkan benda atau makhluk yang bisa diamati di sekitar kita.",
+      "on": [
+        "ブツ",
+        "モツ"
+      ],
+      "kun": [
+        "もの",
+        "もの-"
+      ]
+    },
+    "米": {
+      "english": "rice grain",
+      "mnemonic": "Garis-garis menyebar dari tengah seperti butiran beras yang ditaburkan.",
+      "on": [
+        "ベイ",
+        "マイ",
+        "メエトル"
+      ],
+      "kun": [
+        "こめ",
+        "よね"
+      ]
+    },
+    "肉": {
+      "english": "meat",
+      "mnemonic": "Bayangkan potongan daging dengan lapisan-lapisan serat di dalam bingkainya.",
+      "on": [
+        "ニク"
+      ],
+      "kun": [
+        "しし"
+      ]
+    },
+    "茶": {
+      "english": "tea",
+      "mnemonic": "艹 di atas menjadi daun yang dipetik untuk membuat teh.",
+      "on": [
+        "チャ",
+        "サ"
+      ],
+      "kun": []
+    },
+    "菜": {
+      "english": "vegetable; greens",
+      "mnemonic": "艹 di atas mengingatkan daun sayur yang dipetik dengan tangan.",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "な"
+      ]
+    },
+    "酒": {
+      "english": "alcohol; sake",
+      "mnemonic": "Air di kiri dan wadah 酉 di kanan mengingatkan minuman hasil fermentasi.",
+      "on": [
+        "シュ"
+      ],
+      "kun": [
+        "さけ",
+        "さか-"
+      ]
+    },
+    "飯": {
+      "english": "cooked rice; meal",
+      "mnemonic": "食 di kiri langsung mengingatkan nasi dan makanan siap disantap.",
+      "on": [
+        "ハン"
+      ],
+      "kun": [
+        "めし"
+      ]
+    },
+    "品": {
+      "english": "goods; quality",
+      "mnemonic": "Tiga 口 seperti kotak-kotak barang yang disusun untuk diperiksa mutunya.",
+      "on": [
+        "ヒン",
+        "ホン"
+      ],
+      "kun": [
+        "しな"
+      ]
+    },
+    "事": {
+      "english": "matter; business",
+      "mnemonic": "Bayangkan tangan di tengah memegang banyak catatan urusan yang harus dibereskan.",
+      "on": [
+        "ジ",
+        "ズ"
+      ],
+      "kun": [
+        "こと",
+        "つか.う",
+        "つか.える"
+      ]
+    },
+    "仕": {
+      "english": "serve; work",
+      "mnemonic": "Orang di kiri berdiri tegap untuk melayani dan bekerja.",
+      "on": [
+        "シ",
+        "ジ"
+      ],
+      "kun": [
+        "つか.える"
+      ]
+    },
+    "便": {
+      "english": "convenience; delivery",
+      "mnemonic": "Orang di kiri membawa kiriman agar kebutuhan orang lain menjadi lebih mudah.",
+      "on": [
+        "ベン",
+        "ビン"
+      ],
+      "kun": [
+        "たよ.り"
+      ]
+    },
+    "係": {
+      "english": "person in charge; connection",
+      "mnemonic": "Orang di kiri memegang rangkaian benang yang menghubungkan tugas-tugasnya.",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "かかり",
+        "かか.る",
+        "-がかり",
+        "かか.わる"
+      ]
+    },
+    "信": {
+      "english": "trust; message",
+      "mnemonic": "Orang di kiri berdiri di samping 言; bayangkan kata-kata yang bisa dipercaya.",
+      "on": [
+        "シン"
+      ],
+      "kun": []
+    },
+    "借": {
+      "english": "borrow",
+      "mnemonic": "Orang di kiri membawa benda yang akan dikembalikan setelah dipinjam.",
+      "on": [
+        "シャク"
+      ],
+      "kun": [
+        "か.りる"
+      ]
+    },
+    "働": {
+      "english": "work",
+      "mnemonic": "Orang di kiri memakai tenaga 動 untuk menjalankan pekerjaan.",
+      "on": [
+        "ドウ"
+      ],
+      "kun": [
+        "はたら.く"
+      ]
+    },
+    "具": {
+      "english": "tool; equipment",
+      "mnemonic": "Bayangkan sebuah kotak alat yang diletakkan di atas dua penyangga.",
+      "on": [
+        "グ"
+      ],
+      "kun": [
+        "そな.える",
+        "つぶさ.に"
+      ]
+    },
+    "利": {
+      "english": "benefit; advantage",
+      "mnemonic": "禾 dan 刀 mengingatkan hasil panen yang memberi manfaat setelah dipotong.",
+      "on": [
+        "リ"
+      ],
+      "kun": [
+        "き.く"
+      ]
+    },
+    "募": {
+      "english": "recruit; gather contributions",
+      "mnemonic": "力 di bawah mengingatkan tenaga yang dikumpulkan melalui perekrutan orang baru.",
+      "on": [
+        "ボ"
+      ],
+      "kun": [
+        "つの.る"
+      ]
+    },
+    "勤": {
+      "english": "work; serve diligently",
+      "mnemonic": "力 di kanan mengingatkan usaha tekun untuk menjalankan pekerjaan setiap hari.",
+      "on": [
+        "キン",
+        "ゴン"
+      ],
+      "kun": [
+        "つと.める",
+        "つと.まる",
+        "-づと.め",
+        "いそ.しむ"
+      ]
+    },
+    "協": {
+      "english": "cooperate",
+      "mnemonic": "Tiga 力 bekerja bersama sehingga tugas besar menjadi lebih ringan.",
+      "on": [
+        "キョウ"
+      ],
+      "kun": []
+    },
+    "商": {
+      "english": "commerce; trade",
+      "mnemonic": "Bayangkan bangunan toko yang terbuka untuk kegiatan jual beli.",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "あきな.う"
+      ]
+    },
+    "報": {
+      "english": "report; news",
+      "mnemonic": "Bayangkan petugas membawa catatan untuk melaporkan kabar kepada orang lain.",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "むく.いる"
+      ]
+    },
+    "売": {
+      "english": "sell",
+      "mnemonic": "Bayangkan barang diletakkan di atas meja sementara penjual berdiri di bawahnya.",
+      "on": [
+        "バイ"
+      ],
+      "kun": [
+        "う.る",
+        "う.れる"
+      ]
+    },
+    "定": {
+      "english": "fixed; determine",
+      "mnemonic": "Bayangkan sesuatu diletakkan tetap di bawah atap agar tidak bergeser lagi.",
+      "on": [
+        "テイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "さだ.める",
+        "さだ.まる",
+        "さだ.か"
+      ]
+    },
+    "張": {
+      "english": "stretch; spread",
+      "mnemonic": "弓 di kiri menjadi busur yang dibentangkan hingga talinya tegang.",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "は.る",
+        "-は.り",
+        "-ば.り"
+      ]
+    },
+    "当": {
+      "english": "hit; appropriate; on duty",
+      "mnemonic": "Bayangkan benda kecil dari atas jatuh tepat mengenai wadah di bawah.",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "あ.たる",
+        "あ.てる",
+        "あ.たり",
+        "あ.て",
+        "まさ.に",
+        "まさ.にべし"
+      ]
+    },
+    "担": {
+      "english": "carry; take responsibility",
+      "mnemonic": "Tangan di kiri memikul tugas dari pagi ketika 日 mulai muncul.",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "かつ.ぐ",
+        "にな.う"
+      ]
+    },
+    "支": {
+      "english": "support; branch",
+      "mnemonic": "Bayangkan tangan di bawah menopang sebuah cabang agar tidak jatuh.",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "ささ.える",
+        "つか.える",
+        "か.う"
+      ]
+    },
+    "業": {
+      "english": "work; business",
+      "mnemonic": "Bayangkan alat-alat tersusun di atas rangka 木 untuk menjalankan sebuah usaha.",
+      "on": [
+        "ギョウ",
+        "ゴウ"
+      ],
+      "kun": [
+        "わざ"
+      ]
+    },
+    "給": {
+      "english": "give; salary",
+      "mnemonic": "糸 di kiri mengikat paket upah yang diberikan kepada pekerja.",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "たま.う",
+        "たも.う",
+        "-たま.え"
+      ]
+    },
+    "経": {
+      "english": "pass through; manage",
+      "mnemonic": "糸 menjadi benang panjang yang melewati banyak tahap perjalanan dan pengelolaan.",
+      "on": [
+        "ケイ",
+        "キョウ",
+        "キン"
+      ],
+      "kun": [
+        "へ.る",
+        "た.つ",
+        "たていと",
+        "はか.る",
+        "のり"
+      ]
+    },
+    "職": {
+      "english": "job; occupation",
+      "mnemonic": "耳 di kiri mendengar arahan yang perlu diikuti dalam pekerjaan.",
+      "on": [
+        "ショク",
+        "ソク"
+      ],
+      "kun": []
+    },
+    "製": {
+      "english": "manufacture; made in",
+      "mnemonic": "衣 di bawah mengingatkan pakaian yang sedang dibuat di pabrik.",
+      "on": [
+        "セイ"
+      ],
+      "kun": []
+    },
+    "貸": {
+      "english": "lend",
+      "mnemonic": "Bayangkan orang di atas menyerahkan benda berharga 貝 untuk dipinjam sementara.",
+      "on": [
+        "タイ"
+      ],
+      "kun": [
+        "か.す",
+        "か.し-",
+        "かし-"
+      ]
+    },
+    "関": {
+      "english": "connection; barrier",
+      "mnemonic": "門 di luar seperti gerbang yang menghubungkan satu kawasan dengan kawasan lain.",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "かか.わる",
+        "せき",
+        "-ぜき",
+        "からくり",
+        "かんぬき"
+      ]
+    },
+    "世": {
+      "english": "world; generation",
+      "mnemonic": "Tiga bagian yang tersambung mengingatkan generasi yang hidup berurutan di dunia.",
+      "on": [
+        "セイ",
+        "セ",
+        "ソウ"
+      ],
+      "kun": [
+        "よ"
+      ]
+    },
+    "仏": {
+      "english": "Buddha",
+      "mnemonic": "Orang di kiri berdiri tenang seperti sosok yang sedang bermeditasi.",
+      "on": [
+        "ブツ",
+        "フツ"
+      ],
+      "kun": [
+        "ほとけ"
+      ]
+    },
+    "和": {
+      "english": "harmony; Japanese style",
+      "mnemonic": "禾 dan 口 mengingatkan orang makan bersama dalam suasana rukun.",
+      "on": [
+        "ワ",
+        "オ",
+        "カ"
+      ],
+      "kun": [
+        "やわ.らぐ",
+        "なご.む",
+        "やわ.らげる",
+        "なご.やか",
+        "あ.える"
+      ]
+    },
+    "写": {
+      "english": "copy; photograph",
+      "mnemonic": "Bayangkan sebuah gambar di bawah penutup yang sedang disalin ke lembar lain.",
+      "on": [
+        "シャ",
+        "ジャ"
+      ],
+      "kun": [
+        "うつ.す",
+        "うつ.る",
+        "うつ-",
+        "うつ.し"
+      ]
+    },
+    "神": {
+      "english": "deity; god",
+      "mnemonic": "Bagian kiri mengingatkan tempat berdoa; bayangkan orang menghormati dewa di sana.",
+      "on": [
+        "シン",
+        "ジン"
+      ],
+      "kun": [
+        "かみ",
+        "かん-",
+        "こう-"
+      ]
+    },
+    "祭": {
+      "english": "festival; ritual",
+      "mnemonic": "Bayangkan tangan menyiapkan persembahan di atas 示 untuk sebuah upacara.",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "まつ.り",
+        "まつ.る",
+        "まつり"
+      ]
+    },
+    "祝": {
+      "english": "celebrate; congratulate",
+      "mnemonic": "Bayangkan seseorang berdiri dekat tempat doa sambil mengucapkan selamat.",
+      "on": [
+        "シュク",
+        "シュウ"
+      ],
+      "kun": [
+        "いわ.う"
+      ]
+    },
+    "歌": {
+      "english": "song; sing",
+      "mnemonic": "Dua bentuk 可 seperti panggilan yang diulang menjadi nyanyian.",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "うた",
+        "うた.う"
+      ]
+    },
+    "映": {
+      "english": "reflect; project",
+      "mnemonic": "日 di kiri menjadi cahaya yang memproyeksikan gambar ke layar.",
+      "on": [
+        "エイ"
+      ],
+      "kun": [
+        "うつ.る",
+        "うつ.す",
+        "は.える",
+        "-ば.え"
+      ]
+    },
+    "画": {
+      "english": "picture; plan",
+      "mnemonic": "Bayangkan bingkai persegi yang memuat sebuah gambar atau rancangan.",
+      "on": [
+        "ガ",
+        "カク",
+        "エ",
+        "カイ"
+      ],
+      "kun": [
+        "えが.く",
+        "かく.する",
+        "かぎ.る",
+        "はかりごと",
+        "はか.る"
+      ]
+    },
+    "歴": {
+      "english": "history; passage of time",
+      "mnemonic": "Bayangkan langkah 止 melewati deretan pohon dan meninggalkan jejak sejarah.",
+      "on": [
+        "レキ",
+        "レッキ"
+      ],
+      "kun": []
+    },
+    "紀": {
+      "english": "chronicle; era",
+      "mnemonic": "糸 di kiri menjadi benang waktu yang menghubungkan catatan dari berbagai zaman.",
+      "on": [
+        "キ"
+      ],
+      "kun": []
+    },
+    "結": {
+      "english": "tie; conclude",
+      "mnemonic": "糸 di kiri menjadi benang yang diikat menjadi simpul untuk menyatukan sesuatu.",
+      "on": [
+        "ケツ",
+        "ケチ"
+      ],
+      "kun": [
+        "むす.ぶ",
+        "ゆ.う",
+        "ゆ.わえる"
+      ]
+    },
+    "絵": {
+      "english": "picture; drawing",
+      "mnemonic": "糸 di kiri menjadi garis-garis yang bertemu membentuk sebuah gambar.",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": []
+    },
+    "表": {
+      "english": "surface; express",
+      "mnemonic": "Bayangkan bagian luar 衣 sebagai permukaan yang menampilkan sesuatu kepada orang lain.",
+      "on": [
+        "ヒョウ"
+      ],
+      "kun": [
+        "おもて",
+        "あらわ.す",
+        "-おもて",
+        "あらわ.れる",
+        "あら.わす"
+      ]
+    },
+    "音": {
+      "english": "sound; tone",
+      "mnemonic": "Bayangkan seseorang berdiri mengeluarkan bunyi yang terdengar sepanjang hari.",
+      "on": [
+        "オン",
+        "イン",
+        "-ノン"
+      ],
+      "kun": [
+        "おと",
+        "ね"
+      ]
+    },
+    "勝": {
+      "english": "win; victory",
+      "mnemonic": "力 di kanan mengingatkan tenaga yang dipakai sampai meraih kemenangan.",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "か.つ",
+        "-が.ち",
+        "まさ.る",
+        "すぐ.れる",
+        "かつ"
+      ]
+    },
+    "負": {
+      "english": "lose; bear a burden",
+      "mnemonic": "貝 di bawah mengingatkan nilai yang hilang ketika seseorang kalah.",
+      "on": [
+        "フ"
+      ],
+      "kun": [
+        "ま.ける",
+        "お.う",
+        "ま.かす"
+      ]
+    },
+    "喜": {
+      "english": "joy; rejoice",
+      "mnemonic": "Bayangkan dua mulut yang tersenyum karena mendengar kabar gembira.",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "よろこ.ぶ",
+        "よろこ.ばす"
+      ]
+    },
+    "誕": {
+      "english": "birth",
+      "mnemonic": "言 di kiri mengingatkan pengumuman gembira bahwa seorang bayi telah lahir.",
+      "on": [
+        "タン"
+      ],
+      "kun": []
+    },
+    "願": {
+      "english": "wish; request",
+      "mnemonic": "頁 di kanan seperti kepala yang menunduk sambil mengajukan permohonan.",
+      "on": [
+        "ガン"
+      ],
+      "kun": [
+        "ねが.う",
+        "-ねがい"
+      ]
+    },
+    "服": {
+      "english": "clothing",
+      "mnemonic": "Bayangkan tangan melipat kain pakaian lalu menyimpannya dengan rapi.",
+      "on": [
+        "フク"
+      ],
+      "kun": []
+    },
+    "型": {
+      "english": "type; mold; pattern",
+      "mnemonic": "土 di bawah menjadi tanah cetakan untuk membentuk pola yang sama berulang kali.",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "かた",
+        "-がた"
+      ]
+    },
+    "法": {
+      "english": "law; method",
+      "mnemonic": "Air di kiri mengalir melalui jalur yang diatur seperti hukum atau tata cara.",
+      "on": [
+        "ホウ",
+        "ハッ",
+        "ホッ",
+        "フラン"
+      ],
+      "kun": [
+        "のり"
+      ]
+    },
+    "注": {
+      "english": "pour; pay attention",
+      "mnemonic": "Air di kiri dituangkan menuju satu titik utama 主 agar tidak tumpah.",
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "そそ.ぐ",
+        "さ.す",
+        "つ.ぐ"
+      ]
+    },
+    "禁": {
+      "english": "prohibit; ban",
+      "mnemonic": "Dua 木 di atas menjadi pagar; 示 di bawah mengingatkan tanda larangan.",
+      "on": [
+        "キン"
+      ],
+      "kun": []
+    }
+  },
+  "exampleCorrections": [
+    {
+      "sourceWord": "〜回",
+      "sourceKana": "かい",
+      "word": "一回",
+      "kana": "いっかい",
+      "meaning": "satu kali"
+    },
+    {
+      "sourceWord": "〜番目",
+      "sourceKana": "ばんめ",
+      "word": "一番目",
+      "kana": "いちばんめ",
+      "meaning": "urutan pertama"
+    },
+    {
+      "sourceWord": "〜点",
+      "sourceKana": "てん",
+      "word": "一点",
+      "kana": "いってん",
+      "meaning": "satu poin"
+    },
+    {
+      "sourceWord": "～以上",
+      "sourceKana": "いじょう",
+      "word": "以上",
+      "kana": "いじょう",
+      "meaning": "lebih dari atau sama dengan"
+    },
+    {
+      "sourceWord": "～以下",
+      "sourceKana": "いか",
+      "word": "以下",
+      "kana": "いか",
+      "meaning": "kurang dari atau sama dengan"
+    },
+    {
+      "sourceWord": "約～",
+      "sourceKana": "やく",
+      "word": "約",
+      "kana": "やく",
+      "meaning": "kira-kira"
+    },
+    {
+      "sourceWord": "〜対〜",
+      "sourceKana": "たい",
+      "word": "一対一",
+      "kana": "いったいいち",
+      "meaning": "satu lawan satu"
+    },
+    {
+      "sourceWord": "〜式",
+      "sourceKana": "しき",
+      "word": "結婚式",
+      "kana": "けっこんしき",
+      "meaning": "upacara pernikahan"
+    },
+    {
+      "sourceWord": "〜市",
+      "sourceKana": "し",
+      "word": "京都市",
+      "kana": "きょうとし",
+      "meaning": "Kota Kyoto"
+    },
+    {
+      "sourceWord": "～航空",
+      "sourceKana": "こうくう",
+      "word": "航空",
+      "kana": "こうくう",
+      "meaning": "penerbangan"
+    },
+    {
+      "sourceWord": "〜階",
+      "sourceKana": "かい",
+      "word": "一階",
+      "kana": "いっかい",
+      "meaning": "lantai satu"
+    },
+    {
+      "sourceWord": "〜世紀",
+      "sourceKana": "せいき",
+      "word": "世紀",
+      "kana": "せいき",
+      "meaning": "abad"
+    },
+    {
+      "sourceWord": "方",
+      "sourceKana": "ほう",
+      "word": "方",
+      "kana": "ほう",
+      "meaning": "arah; pihak"
+    }
+  ]
+}
