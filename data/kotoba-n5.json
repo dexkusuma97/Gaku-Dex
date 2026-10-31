@@ -10,7 +10,9 @@
     "taxonomyVersion": 2,
     "taxonomyPolicy": "Enam jenis kata utama. Subkategori benda memakai tema kehidupan sehari-hari; verba menurut grup, sifat menurut jenis, serta angka dan ungkapan menurut fungsi.",
     "levelPolicyVersion": 2,
-    "examplesMissing": 0
+    "examplesMissing": 0,
+    "contextReviewDate": "2026-10-31",
+    "contextReviewCount": 427
   },
   "sources": [
     {
@@ -259,9 +261,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは青いです。",
-        "kana": "この かばん は あおいです。",
-        "meaning": "Tas ini biru."
+        "jp": "あおいシャツをきています。",
+        "kana": "あおい シャツ を きて います。",
+        "meaning": "Saya memakai kemeja biru."
       },
       "level": "N5",
       "scope": "N5"
@@ -325,9 +327,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは赤いです。",
-        "kana": "この かばん は あかいです。",
-        "meaning": "Tas ini merah."
+        "jp": "あかいはながさいています。",
+        "kana": "あかい はな が さいて います。",
+        "meaning": "Bunga merah sedang mekar."
       },
       "level": "N5",
       "scope": "N5"
@@ -395,9 +397,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "秋、勉強します。",
-        "kana": "あき、べんきょうします。",
-        "meaning": "Musim gugur, saya belajar."
+        "jp": "あきにはがきいろくなります。",
+        "kana": "あき に は が きいろく なります。",
+        "meaning": "Pada musim gugur daun menjadi kuning."
       },
       "level": "N5",
       "scope": "N5"
@@ -509,9 +511,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は上げます。",
-        "kana": "わたし は あげます。",
-        "meaning": "Saya mengangkat."
+        "jp": "てをあげてください。",
+        "kana": "て を あげて ください。",
+        "meaning": "Tolong angkat tangan."
       },
       "level": "N5",
       "scope": "N5"
@@ -550,9 +552,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "朝、勉強します。",
-        "kana": "あさ、べんきょうします。",
-        "meaning": "Pagi, saya belajar."
+        "jp": "あさはパンをたべます。",
+        "kana": "あさ は パン を たべます。",
+        "meaning": "Saya makan roti pada pagi hari."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -626,9 +628,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "これはあさってです。",
-        "kana": "これ は あさって です。",
-        "meaning": "Ini lusa."
+        "jp": "あさって、ともだちとあいます。",
+        "kana": "あさって、ともだち と あいます。",
+        "meaning": "Lusa saya bertemu teman."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -815,9 +817,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは暖かいです。",
-        "kana": "この かばん は あたたかいです。",
-        "meaning": "Tas ini hangat."
+        "jp": "きょうはあたたかいですね。",
+        "kana": "きょう は あたたかい です ね。",
+        "meaning": "Hari ini hangat, ya."
       },
       "level": "N5",
       "scope": "N5"
@@ -1000,9 +1002,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは熱いです。",
-        "kana": "この かばん は あついです。",
-        "meaning": "Tas ini panas."
+        "jp": "このおちゃはあついです。",
+        "kana": "この おちゃ は あつい です。",
+        "meaning": "Teh ini panas."
       },
       "level": "N5",
       "scope": "N5"
@@ -1037,9 +1039,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは厚いです。",
-        "kana": "この かばん は あついです。",
-        "meaning": "Tas ini tebal."
+        "jp": "あついほんをよんでいます。",
+        "kana": "あつい ほん を よんで います。",
+        "meaning": "Saya sedang membaca buku tebal."
       },
       "level": "N5",
       "scope": "N5"
@@ -1099,9 +1101,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "これは後です。",
-        "kana": "これ は あと です。",
-        "meaning": "Ini setelah itu."
+        "jp": "じゅぎょうのあとでとしょかんにいきます。",
+        "kana": "じゅぎょう の あと で としょかん に いきます。",
+        "meaning": "Saya pergi ke perpustakaan setelah pelajaran."
       },
       "level": "N5",
       "scope": "N5"
@@ -1173,9 +1175,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "この人は兄です。",
-        "kana": "この ひと は あに です。",
-        "meaning": "Orang ini kakak."
+        "jp": "あにはだいがくせいです。",
+        "kana": "あに は だいがくせい です。",
+        "meaning": "Kakak laki-laki saya mahasiswa."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -1210,9 +1212,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "この人は姉です。",
-        "kana": "この ひと は あね です。",
-        "meaning": "Orang ini kakak."
+        "jp": "あねはびょういんではたらいています。",
+        "kana": "あね は びょういん で はたらいて います。",
+        "meaning": "Kakak perempuan saya bekerja di rumah sakit."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -1322,9 +1324,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は浴びます。",
-        "kana": "わたし は あびます。",
-        "meaning": "Saya mandi."
+        "jp": "あさ、シャワーをあびます。",
+        "kana": "あさ、シャワー を あびます。",
+        "meaning": "Saya mandi dengan pancuran pada pagi hari."
       },
       "level": "N5",
       "scope": "N5"
@@ -1359,9 +1361,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは危ないです。",
-        "kana": "この かばん は あぶないです。",
-        "meaning": "Tas ini berbahaya."
+        "jp": "ここであそぶとあぶないです。",
+        "kana": "ここ で あそぶ と あぶない です。",
+        "meaning": "Bermain di sini berbahaya."
       },
       "level": "N5",
       "scope": "N5"
@@ -1729,9 +1731,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはいいです。",
-        "kana": "この かばん は いいです。",
-        "meaning": "Tas ini bagus."
+        "jp": "それはいいかんがえですね。",
+        "kana": "それ は いい かんがえ です ね。",
+        "meaning": "Itu ide yang bagus, ya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -2192,9 +2194,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは痛いです。",
-        "kana": "この かばん は いたいです。",
-        "meaning": "Tas ini menyakitkan."
+        "jp": "はがいたいです。",
+        "kana": "は が いたい です。",
+        "meaning": "Gigi saya sakit."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -2275,9 +2277,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "一日に友達に会います。",
-        "kana": "いちにち に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada satu hari."
+        "jp": "きのうはいちにちいえにいました。",
+        "kana": "きのう は いちにち いえ に いました。",
+        "meaning": "Kemarin saya berada di rumah sepanjang hari."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -2308,9 +2310,9 @@
       "category": "adverb",
       "subcategory": "Jumlah & tingkat",
       "example": {
-        "jp": "いちばん勉強します。",
-        "kana": "いちばん べんきょうします。",
-        "meaning": "Saya belajar terbaik."
+        "jp": "このケーキがいちばんおいしいです。",
+        "kana": "この ケーキ が いちばん おいしい です。",
+        "meaning": "Kue ini yang paling enak."
       },
       "level": "N5",
       "scope": "N5"
@@ -2345,9 +2347,9 @@
       "category": "expression",
       "subcategory": "Kata tanya",
       "example": {
-        "jp": "いつでも来てください。",
-        "kana": "いつでも きて ください。",
-        "meaning": "Silakan datang kapan saja."
+        "jp": "いつにほんにいきますか。",
+        "kana": "いつ にほん に いきます か。",
+        "meaning": "Kapan kamu pergi ke Jepang?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -2388,9 +2390,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "五日に友達に会います。",
-        "kana": "いつか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada lima hari."
+        "jp": "いつかにともだちとあいます。",
+        "kana": "いつか に ともだち と あいます。",
+        "meaning": "Saya bertemu teman pada tanggal lima."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -2604,9 +2606,9 @@
       "category": "noun",
       "subcategory": "Konsep & informasi",
       "example": {
-        "jp": "これは意味です。",
-        "kana": "これ は いみ です。",
-        "meaning": "Ini arti."
+        "jp": "このことばのいみをおしえてください。",
+        "kana": "この ことば の いみ を おしえて ください。",
+        "meaning": "Tolong beri tahu arti kata ini."
       },
       "level": "N5",
       "scope": "N5"
@@ -2641,9 +2643,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "この人は妹です。",
-        "kana": "この ひと は いもうと です。",
-        "meaning": "Orang ini adik."
+        "jp": "いもうとといっしょにかいものにいきます。",
+        "kana": "いもうと と いっしょに かいもの に いきます。",
+        "meaning": "Saya pergi berbelanja bersama adik perempuan saya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -2678,9 +2680,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは嫌です。",
-        "kana": "この かばん は いやです。",
-        "meaning": "Tas ini tidak mau."
+        "jp": "あめのひはいやです。",
+        "kana": "あめ の ひ は いや です。",
+        "meaning": "Saya tidak suka hari hujan."
       },
       "level": "N5",
       "scope": "N5"
@@ -2852,9 +2854,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は入れます。",
-        "kana": "わたし は いれます。",
-        "meaning": "Saya memasukkan."
+        "jp": "はこにほんをいれます。",
+        "kana": "はこ に ほん を いれます。",
+        "meaning": "Saya memasukkan buku ke kotak."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -2885,9 +2887,9 @@
       "category": "noun",
       "subcategory": "Warna, ukuran & bentuk",
       "example": {
-        "jp": "これは色です。",
-        "kana": "これ は いろ です。",
-        "meaning": "Ini warna."
+        "jp": "どのいろがすきですか。",
+        "kana": "どの いろ が すき です か。",
+        "meaning": "Kamu suka warna yang mana?"
       },
       "level": "N5",
       "scope": "N5"
@@ -2924,9 +2926,9 @@
       "category": "noun",
       "subcategory": "Konsep & informasi",
       "example": {
-        "jp": "これはいろいろです。",
-        "kana": "これ は いろいろ です。",
-        "meaning": "Ini berbagai."
+        "jp": "このみせにはいろいろなくだものがあります。",
+        "kana": "この みせ に は いろいろな くだもの が あります。",
+        "meaning": "Di toko ini ada bermacam-macam buah."
       },
       "level": "N5",
       "scope": "N5"
@@ -3041,9 +3043,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは薄いです。",
-        "kana": "この かばん は うすいです。",
-        "meaning": "Tas ini tipis."
+        "jp": "このスープはあじがうすいです。",
+        "kana": "この スープ は あじ が うすい です。",
+        "meaning": "Rasa sup ini kurang kuat."
       },
       "level": "N5",
       "scope": "N5"
@@ -3115,9 +3117,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は歌います。",
-        "kana": "わたし は うたいます。",
-        "meaning": "Saya menyanyikan."
+        "jp": "みんなでうたをうたいます。",
+        "kana": "みんな で うた を うたいます。",
+        "meaning": "Kami menyanyikan lagu bersama-sama."
       },
       "level": "N5",
       "scope": "N5"
@@ -3234,9 +3236,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は売ります。",
-        "kana": "わたし は うります。",
-        "meaning": "Saya menjual."
+        "jp": "このみせではパンをうっています。",
+        "kana": "この みせ で は パン を うって います。",
+        "meaning": "Toko ini menjual roti."
       },
       "level": "N5",
       "scope": "N5"
@@ -3277,9 +3279,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは煩いです。",
-        "kana": "この かばん は うるさいです。",
-        "meaning": "Tas ini berisik."
+        "jp": "そとがうるさくて、ねられません。",
+        "kana": "そと が うるさくて、ねられません。",
+        "meaning": "Di luar berisik sehingga saya tidak bisa tidur."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -3992,9 +3994,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は置きます。",
-        "kana": "わたし は おきます。",
-        "meaning": "Saya meletakkan."
+        "jp": "つくえのうえにかぎをおきます。",
+        "kana": "つくえ の うえ に かぎ を おきます。",
+        "meaning": "Saya meletakkan kunci di atas meja."
       },
       "level": "N5",
       "scope": "N5"
@@ -4175,9 +4177,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は教えます。",
-        "kana": "わたし は おしえます。",
-        "meaning": "Saya mengajar."
+        "jp": "せんせいがにほんごをおしえます。",
+        "kana": "せんせい が にほんご を おしえます。",
+        "meaning": "Guru mengajarkan bahasa Jepang."
       },
       "level": "N5",
       "scope": "N5"
@@ -4255,9 +4257,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は押します。",
-        "kana": "わたし は おします。",
-        "meaning": "Saya mendorong."
+        "jp": "このボタンをおしてください。",
+        "kana": "この ボタン を おして ください。",
+        "meaning": "Tolong tekan tombol ini."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -4296,9 +4298,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは遅いです。",
-        "kana": "この かばん は おそいです。",
-        "meaning": "Tas ini terlambat."
+        "jp": "このバスはおそいですね。",
+        "kana": "この バス は おそい です ね。",
+        "meaning": "Bus ini lambat, ya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -4366,9 +4368,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはお手洗いです。",
-        "kana": "この かばん は おてあらいです。",
-        "meaning": "Tas ini toilet."
+        "jp": "おてあらいはどこですか。",
+        "kana": "おてあらい は どこ です か。",
+        "meaning": "Toilet ada di mana?"
       },
       "level": "N5",
       "scope": "N5"
@@ -4432,9 +4434,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "この人は弟です。",
-        "kana": "この ひと は おとうと です。",
-        "meaning": "Orang ini adik."
+        "jp": "おとうとはサッカーがすきです。",
+        "kana": "おとうと は サッカー が すき です。",
+        "meaning": "Adik laki-laki saya suka sepak bola."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -4598,9 +4600,9 @@
       "category": "noun",
       "subcategory": "Orang & identitas",
       "example": {
-        "jp": "これは大人です。",
-        "kana": "これ は おとな です。",
-        "meaning": "Ini dewasa."
+        "jp": "おとなはにゅうじょうりょうがひつようです。",
+        "kana": "おとな は にゅうじょうりょう が ひつよう です。",
+        "meaning": "Orang dewasa perlu membayar biaya masuk."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -4987,9 +4989,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは重いです。",
-        "kana": "この かばん は おもいです。",
-        "meaning": "Tas ini berat."
+        "jp": "このはこはおもいです。",
+        "kana": "この はこ は おもい です。",
+        "meaning": "Kotak ini berat."
       },
       "level": "N5",
       "scope": "N5"
@@ -5079,9 +5081,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は泳ぎます。",
-        "kana": "わたし は およぎます。",
-        "meaning": "Saya berenang."
+        "jp": "なつはうみでおよぎます。",
+        "kana": "なつ は うみ で およぎます。",
+        "meaning": "Pada musim panas saya berenang di laut."
       },
       "level": "N5",
       "scope": "N5"
@@ -5122,9 +5124,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は降ります。",
-        "kana": "わたし は おります。",
-        "meaning": "Saya turun."
+        "jp": "つぎのえきでおります。",
+        "kana": "つぎ の えき で おります。",
+        "meaning": "Saya turun di stasiun berikutnya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -5163,9 +5165,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は終わります。",
-        "kana": "わたし は おわります。",
-        "meaning": "Saya selesai."
+        "jp": "じゅぎょうはさんじにおわります。",
+        "kana": "じゅぎょう は さんじ に おわります。",
+        "meaning": "Pelajaran berakhir pukul tiga."
       },
       "level": "N5",
       "scope": "N5"
@@ -5266,9 +5268,9 @@
       "category": "noun",
       "subcategory": "Orang & identitas",
       "example": {
-        "jp": "これは女の子です。",
-        "kana": "これ は おんなのこ です。",
-        "meaning": "Ini gadis."
+        "jp": "あのおんなのこはわたしのいもうとです。",
+        "kana": "あの おんなのこ は わたし の いもうと です。",
+        "meaning": "Anak perempuan itu adik saya."
       },
       "level": "N5",
       "scope": "N5"
@@ -5332,9 +5334,9 @@
       "category": "noun",
       "subcategory": "Orang & identitas",
       "example": {
-        "jp": "これは外国人です。",
-        "kana": "これ は がいこくじん です。",
-        "meaning": "Ini orang asing."
+        "jp": "このがっこうにはがいこくじんのせいとがいます。",
+        "kana": "この がっこう に は がいこくじん の せいと が います。",
+        "meaning": "Di sekolah ini ada murid dari luar negeri."
       },
       "level": "N5",
       "scope": "N5"
@@ -5533,9 +5535,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は返します。",
-        "kana": "わたし は かえします。",
-        "meaning": "Saya mengembalikan."
+        "jp": "としょかんにほんをかえします。",
+        "kana": "としょかん に ほん を かえします。",
+        "meaning": "Saya mengembalikan buku ke perpustakaan."
       },
       "level": "N5",
       "scope": "N5"
@@ -5574,9 +5576,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は帰ります。",
-        "kana": "わたし は かえります。",
-        "meaning": "Saya pulang."
+        "jp": "しごとのあとでうちにかえります。",
+        "kana": "しごと の あと で うち に かえります。",
+        "meaning": "Saya pulang ke rumah setelah bekerja."
       },
       "level": "N5",
       "scope": "N5"
@@ -5695,9 +5697,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は書きます。",
-        "kana": "わたし は かきます。",
-        "meaning": "Saya menulis."
+        "jp": "ノートにかんじをかきます。",
+        "kana": "ノート に かんじ を かきます。",
+        "meaning": "Saya menulis kanji di buku catatan."
       },
       "level": "N5",
       "scope": "N5"
@@ -5770,9 +5772,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は掛けます。",
-        "kana": "わたし は かけます。",
-        "meaning": "Saya menelepon."
+        "jp": "ははにでんわをかけます。",
+        "kana": "はは に でんわ を かけます。",
+        "meaning": "Saya menelepon ibu."
       },
       "level": "N5",
       "scope": "N5"
@@ -5856,9 +5858,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は貸します。",
-        "kana": "わたし は かします。",
-        "meaning": "Saya meminjamkan."
+        "jp": "ともだちにかさをかします。",
+        "kana": "ともだち に かさ を かします。",
+        "meaning": "Saya meminjamkan payung kepada teman."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -6160,9 +6162,9 @@
       "category": "noun",
       "subcategory": "Pakaian & aksesori",
       "example": {
-        "jp": "このかばんはいいです。",
-        "kana": "この かばん は いいです。",
-        "meaning": "Tas ini bagus."
+        "jp": "かばんにノートをいれます。",
+        "kana": "かばん に ノート を いれます。",
+        "meaning": "Saya memasukkan buku catatan ke tas."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -6422,9 +6424,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は借ります。",
-        "kana": "わたし は かります。",
-        "meaning": "Saya meminjam."
+        "jp": "としょかんでほんをかります。",
+        "kana": "としょかん で ほん を かります。",
+        "meaning": "Saya meminjam buku di perpustakaan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -6459,9 +6461,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは軽いです。",
-        "kana": "この かばん は かるいです。",
-        "meaning": "Tas ini ringan."
+        "jp": "このくつはかるいです。",
+        "kana": "この くつ は かるい です。",
+        "meaning": "Sepatu ini ringan."
       },
       "level": "N5",
       "scope": "N5"
@@ -6611,9 +6613,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはかわいいです。",
-        "kana": "この かばん は かわいいです。",
-        "meaning": "Tas ini imut."
+        "jp": "いもうとのねこはかわいいです。",
+        "kana": "いもうと の ねこ は かわいい です。",
+        "meaning": "Kucing adik perempuan saya lucu."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -6735,9 +6737,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは黄色いです。",
-        "kana": "この かばん は きいろいです。",
-        "meaning": "Tas ini kuning."
+        "jp": "きいろいかさをかいました。",
+        "kana": "きいろい かさ を かいました。",
+        "meaning": "Saya membeli payung kuning."
       },
       "level": "N5",
       "scope": "N5"
@@ -6927,9 +6929,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは汚いです。",
-        "kana": "この かばん は きたないです。",
-        "meaning": "Tas ini kotor."
+        "jp": "このタオルはきたないです。",
+        "kana": "この タオル は きたない です。",
+        "meaning": "Handuk ini kotor."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -6960,9 +6962,9 @@
       "category": "noun",
       "subcategory": "Tempat & fasilitas",
       "example": {
-        "jp": "喫茶店を飲みます。",
-        "kana": "きっさてん を のみます。",
-        "meaning": "Saya minum kafe."
+        "jp": "きっさてんでコーヒーをのみます。",
+        "kana": "きっさてん で コーヒー を のみます。",
+        "meaning": "Saya minum kopi di kafe."
       },
       "level": "N5",
       "scope": "N5"
@@ -7286,9 +7288,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "この人は兄弟です。",
-        "kana": "この ひと は きょうだい です。",
-        "meaning": "Orang ini kakak-beradik."
+        "jp": "わたしにはきょうだいがふたりいます。",
+        "kana": "わたし に は きょうだい が ふたり います。",
+        "meaning": "Saya mempunyai dua saudara kandung."
       },
       "level": "N5",
       "scope": "N5"
@@ -7356,9 +7358,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは嫌いです。",
-        "kana": "この かばん は きらいです。",
-        "meaning": "Tas ini tidak suka."
+        "jp": "わたしはなっとうがきらいです。",
+        "kana": "わたし は なっとう が きらい です。",
+        "meaning": "Saya tidak suka natto."
       },
       "level": "N5",
       "scope": "N5"
@@ -7527,9 +7529,9 @@
       "category": "number",
       "subcategory": "Ukuran & satuan",
       "example": {
-        "jp": "これはキログラムです。",
-        "kana": "これ は キログラム です。",
-        "meaning": "Ini kilogram."
+        "jp": "このにもつはにキログラムです。",
+        "kana": "この にもつ は に キログラム です。",
+        "meaning": "Berat barang ini dua kilogram."
       },
       "level": "N5",
       "scope": "N5"
@@ -7561,9 +7563,9 @@
       "category": "number",
       "subcategory": "Ukuran & satuan",
       "example": {
-        "jp": "これはキロメートルです。",
-        "kana": "これ は キロメートル です。",
-        "meaning": "Ini kilometer."
+        "jp": "えきまでさんキロメートルあります。",
+        "kana": "えき まで さん キロメートル あります。",
+        "meaning": "Jarak ke stasiun tiga kilometer."
       },
       "level": "N5",
       "scope": "N5"
@@ -7911,9 +7913,9 @@
       "category": "noun",
       "subcategory": "Negara & kota",
       "example": {
-        "jp": "国へ行きます。",
-        "kana": "くに へ いきます。",
-        "meaning": "Saya pergi ke negara."
+        "jp": "いつかいろいろなくににいきたいです。",
+        "kana": "いつか いろいろな くに に いきたい です。",
+        "meaning": "Suatu hari saya ingin pergi ke berbagai negara."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -7978,9 +7980,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は曇ります。",
-        "kana": "わたし は くもります。",
-        "meaning": "Saya menjadi berawan."
+        "jp": "ごごからそらがくもります。",
+        "kana": "ごご から そら が くもります。",
+        "meaning": "Langit akan mulai berawan pada sore hari."
       },
       "level": "N5",
       "scope": "N5"
@@ -8015,9 +8017,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは暗いです。",
-        "kana": "この かばん は くらいです。",
-        "meaning": "Tas ini suram."
+        "jp": "このへやはくらいです。",
+        "kana": "この へや は くらい です。",
+        "meaning": "Kamar ini gelap."
       },
       "level": "N5",
       "scope": "N5"
@@ -8081,9 +8083,9 @@
       "category": "number",
       "subcategory": "Ukuran & satuan",
       "example": {
-        "jp": "これはグラムです。",
-        "kana": "これ は グラム です。",
-        "meaning": "Ini gram."
+        "jp": "さとうをごじゅうグラムつかいます。",
+        "kana": "さとう を ごじゅう グラム つかいます。",
+        "meaning": "Saya menggunakan gula sebanyak lima puluh gram."
       },
       "level": "N5",
       "scope": "N5"
@@ -8229,9 +8231,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは黒いです。",
-        "kana": "この かばん は くろいです。",
-        "meaning": "Tas ini hitam."
+        "jp": "ちちはくろいコートをきています。",
+        "kana": "ちち は くろい コート を きて います。",
+        "meaning": "Ayah saya memakai mantel hitam."
       },
       "level": "N5",
       "scope": "N5"
@@ -8336,9 +8338,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は消します。",
-        "kana": "わたし は けします。",
-        "meaning": "Saya menghapus."
+        "jp": "へやのでんきをけします。",
+        "kana": "へや の でんき を けします。",
+        "meaning": "Saya mematikan lampu kamar."
       },
       "level": "N5",
       "scope": "N5"
@@ -8365,9 +8367,9 @@
       "category": "noun",
       "subcategory": "Konsep & informasi",
       "example": {
-        "jp": "これは結構です。",
-        "kana": "これ は けっこう です。",
-        "meaning": "Ini cukup."
+        "jp": "おかわりはけっこうです。",
+        "kana": "おかわり は けっこう です。",
+        "meaning": "Saya tidak perlu tambah lagi, terima kasih."
       },
       "level": "N5",
       "scope": "N5"
@@ -8398,9 +8400,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "これは結婚です。",
-        "kana": "これ は けっこん です。",
-        "meaning": "Ini pernikahan."
+        "jp": "あねのけっこんをいわいます。",
+        "kana": "あね の けっこん を いわいます。",
+        "meaning": "Kami merayakan pernikahan kakak perempuan saya."
       },
       "level": "N5",
       "scope": "N5"
@@ -8679,9 +8681,9 @@
       "category": "noun",
       "subcategory": "Tempat & fasilitas",
       "example": {
-        "jp": "この人は交番です。",
-        "kana": "この ひと は こうばん です。",
-        "meaning": "Orang ini pos polisi."
+        "jp": "こうばんでみちをききます。",
+        "kana": "こうばん で みち を ききます。",
+        "meaning": "Saya menanyakan jalan di pos polisi."
       },
       "level": "N5",
       "scope": "N5"
@@ -8852,9 +8854,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "これは午後です。",
-        "kana": "これ は ごご です。",
-        "meaning": "Ini sore."
+        "jp": "ごごさんじにともだちとあいます。",
+        "kana": "ごご さんじ に ともだち と あいます。",
+        "meaning": "Saya bertemu teman pukul tiga sore."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -8885,9 +8887,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "九日に友達に会います。",
-        "kana": "ここのか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada sembilan hari."
+        "jp": "ここのかにりょこうにいきます。",
+        "kana": "ここのか に りょこう に いきます。",
+        "meaning": "Saya bepergian pada tanggal sembilan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -8991,9 +8993,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は答えます。",
-        "kana": "わたし は こたえます。",
-        "meaning": "Saya menjawab."
+        "jp": "せんせいのしつもんにこたえます。",
+        "kana": "せんせい の しつもん に こたえます。",
+        "meaning": "Saya menjawab pertanyaan guru."
       },
       "level": "N5",
       "scope": "N5"
@@ -9061,9 +9063,9 @@
       "category": "expression",
       "subcategory": "Penunjuk",
       "example": {
-        "jp": "こっちに座ってください。",
-        "kana": "こっち に すわって ください。",
-        "meaning": "Silakan duduk yang ini."
+        "jp": "こっちにきてください。",
+        "kana": "こっち に きて ください。",
+        "meaning": "Silakan datang ke sini."
       },
       "level": "N5",
       "scope": "N5"
@@ -9304,9 +9306,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私はコピーします。",
-        "kana": "わたし は コピーします。",
-        "meaning": "Saya menyalin."
+        "jp": "このしょるいをコピーします。",
+        "kana": "この しょるい を コピー します。",
+        "meaning": "Saya memfotokopi dokumen ini."
       },
       "level": "N5",
       "scope": "N5"
@@ -9338,9 +9340,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は困ります。",
-        "kana": "わたし は こまります。",
-        "meaning": "Saya mengalami kesulitan."
+        "jp": "さいふをなくして、こまっています。",
+        "kana": "さいふ を なくして、こまって います。",
+        "meaning": "Saya kesulitan karena kehilangan dompet."
       },
       "level": "N5",
       "scope": "N5"
@@ -9490,9 +9492,9 @@
       "category": "expression",
       "subcategory": "Penunjuk",
       "example": {
-        "jp": "こんな本が好きです。",
-        "kana": "こんな ほん が すき です。",
-        "meaning": "Saya suka buku seperti itu."
+        "jp": "こんなほんをさがしていました。",
+        "kana": "こんな ほん を さがして いました。",
+        "meaning": "Saya mencari buku seperti ini."
       },
       "level": "N5",
       "scope": "N5"
@@ -9711,7 +9713,7 @@
     {
       "jp": "差す",
       "kana": "さす",
-      "meaning": "mengulurkan tangan, memberikan",
+      "meaning": "memakai (payung); mengulurkan (tangan)",
       "sources": [
         {
           "id": 4,
@@ -9735,9 +9737,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は差します。",
-        "kana": "わたし は さします。",
-        "meaning": "Saya mengulurkan tangan."
+        "jp": "あめがふっているので、かさをさします。",
+        "kana": "あめ が ふって いる ので、かさ を さします。",
+        "meaning": "Saya membuka payung karena sedang hujan."
       },
       "level": "N5",
       "scope": "N5"
@@ -9842,9 +9844,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは寒いです。",
-        "kana": "この かばん は さむいです。",
-        "meaning": "Tas ini dingin."
+        "jp": "けさはとてもさむかったです。",
+        "kana": "けさ は とても さむかった です。",
+        "meaning": "Pagi ini sangat dingin."
       },
       "level": "N5",
       "scope": "N5"
@@ -9950,9 +9952,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "散歩へ行きます。",
-        "kana": "さんぽする へ いきます。",
-        "meaning": "Saya pergi ke berjalan-jalan."
+        "jp": "あさのさんぽはきもちがいいです。",
+        "kana": "あさ の さんぽ は きもち が いい です。",
+        "meaning": "Jalan-jalan pagi terasa menyenangkan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -10566,9 +10568,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は閉めます。",
-        "kana": "わたし は しめます。",
-        "meaning": "Saya menutup sesuatu."
+        "jp": "さむいので、まどをしめます。",
+        "kana": "さむい ので、まど を しめます。",
+        "meaning": "Saya menutup jendela karena dingin."
       },
       "level": "N5",
       "scope": "N5"
@@ -10600,9 +10602,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は締めます。",
-        "kana": "わたし は しめます。",
-        "meaning": "Saya mengikat."
+        "jp": "ネクタイをしめてから、かいしゃにいきます。",
+        "kana": "ネクタイ を しめて から、かいしゃ に いきます。",
+        "meaning": "Saya mengenakan dasi lalu pergi ke kantor."
       },
       "level": "N5",
       "scope": "N5"
@@ -10739,9 +10741,9 @@
       "category": "noun",
       "subcategory": "Tubuh & kesehatan",
       "example": {
-        "jp": "これはシャワーです。",
-        "kana": "これ は シャワー です。",
-        "meaning": "Ini mandi."
+        "jp": "ねるまえにシャワーをあびます。",
+        "kana": "ねる まえ に シャワー を あびます。",
+        "meaning": "Saya mandi dengan pancuran sebelum tidur."
       },
       "level": "N5",
       "scope": "N5"
@@ -10908,9 +10910,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは丈夫です。",
-        "kana": "この かばん は じょうぶです。",
-        "meaning": "Tas ini kuat."
+        "jp": "このつくえはじょうぶです。",
+        "kana": "この つくえ は じょうぶ です。",
+        "meaning": "Meja ini kokoh."
       },
       "level": "N5",
       "scope": "N5"
@@ -11093,9 +11095,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは白いです。",
-        "kana": "この かばん は しろいです。",
-        "meaning": "Tas ini putih."
+        "jp": "しろいくつしたをはきます。",
+        "kana": "しろい くつした を はきます。",
+        "meaning": "Saya memakai kaus kaki putih."
       },
       "level": "N5",
       "scope": "N5"
@@ -11209,9 +11211,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は吸います。",
-        "kana": "わたし は すいます。",
-        "meaning": "Saya mengisap."
+        "jp": "そとでしんせんなくうきをすいます。",
+        "kana": "そと で しんせんな くうき を すいます。",
+        "meaning": "Saya menghirup udara segar di luar."
       },
       "level": "N5",
       "scope": "N5"
@@ -11427,9 +11429,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは涼しいです。",
-        "kana": "この かばん は すずしいです。",
-        "meaning": "Tas ini segar."
+        "jp": "ゆうがたはすずしいです。",
+        "kana": "ゆうがた は すずしい です。",
+        "meaning": "Menjelang malam udaranya sejuk."
       },
       "level": "N5",
       "scope": "N5"
@@ -11501,9 +11503,9 @@
       "category": "noun",
       "subcategory": "Dapur & alat makan",
       "example": {
-        "jp": "これはスプーンです。",
-        "kana": "これ は スプーン です。",
-        "meaning": "Ini spoon."
+        "jp": "スープをスプーンでのみます。",
+        "kana": "スープ を スプーン で のみます。",
+        "meaning": "Saya menyantap sup dengan sendok."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -11538,9 +11540,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "これはスポーツです。",
-        "kana": "これ は スポーツ です。",
-        "meaning": "Ini sports."
+        "jp": "どんなスポーツがすきですか。",
+        "kana": "どんな スポーツ が すき です か。",
+        "meaning": "Olahraga seperti apa yang kamu sukai?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -11735,9 +11737,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は座ります。",
-        "kana": "わたし は すわります。",
-        "meaning": "Saya duduk."
+        "jp": "このいすにすわってください。",
+        "kana": "この いす に すわって ください。",
+        "meaning": "Silakan duduk di kursi ini."
       },
       "level": "N5",
       "scope": "N5"
@@ -11764,9 +11766,9 @@
       "category": "noun",
       "subcategory": "Tubuh & kesehatan",
       "example": {
-        "jp": "これは背です。",
-        "kana": "これ は せ です。",
-        "meaning": "Ini tinggi badan."
+        "jp": "あにはせがたかいです。",
+        "kana": "あに は せ が たかい です。",
+        "meaning": "Kakak laki-laki saya bertubuh tinggi."
       },
       "level": "N5",
       "scope": "N5"
@@ -11797,9 +11799,9 @@
       "category": "noun",
       "subcategory": "Sekolah & bahasa",
       "example": {
-        "jp": "これは生徒です。",
-        "kana": "これ は せいと です。",
-        "meaning": "Ini murid."
+        "jp": "このクラスのせいとはにじゅうにんです。",
+        "kana": "この クラス の せいと は にじゅうにん です。",
+        "meaning": "Murid di kelas ini berjumlah dua puluh orang."
       },
       "level": "N5",
       "scope": "N5"
@@ -11941,9 +11943,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは狭いです。",
-        "kana": "この かばん は せまいです。",
-        "meaning": "Tas ini sempit."
+        "jp": "このみちはせまいです。",
+        "kana": "この みち は せまい です。",
+        "meaning": "Jalan ini sempit."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -12297,9 +12299,9 @@
       "category": "expression",
       "subcategory": "Penunjuk",
       "example": {
-        "jp": "そこに座ってください。",
+        "jp": "そこにすわってください。",
         "kana": "そこ に すわって ください。",
-        "meaning": "Silakan duduk ."
+        "meaning": "Silakan duduk di situ."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -12425,9 +12427,9 @@
       "category": "expression",
       "subcategory": "Penunjuk",
       "example": {
-        "jp": "その本が好きです。",
-        "kana": "その ほん が すき です。",
-        "meaning": "Saya suka buku bahwa."
+        "jp": "そのほんをかしてください。",
+        "kana": "その ほん を かして ください。",
+        "meaning": "Tolong pinjamkan buku itu kepada saya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -12528,9 +12530,9 @@
       "category": "expression",
       "subcategory": "Penunjuk",
       "example": {
-        "jp": "六時に起きました。それから、散歩しました。",
-        "kana": "ろくじ に おきました。それから、さんぽしました。",
-        "meaning": "Saya bangun pukul enam. Setelah itu saya berjalan-jalan."
+        "jp": "それはわたしのかさです。",
+        "kana": "それ は わたし の かさ です。",
+        "meaning": "Itu payung saya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -12705,9 +12707,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは大丈夫です。",
-        "kana": "この かばん は だいじょうぶです。",
-        "meaning": "Tas ini baik-baik saja."
+        "jp": "けがはありません。だいじょうぶです。",
+        "kana": "けが は ありません。だいじょうぶ です。",
+        "meaning": "Saya tidak terluka. Saya baik-baik saja."
       },
       "level": "N5",
       "scope": "N5"
@@ -12746,9 +12748,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは大好きです。",
-        "kana": "この かばん は だいすきです。",
-        "meaning": "Tas ini sangat suka."
+        "jp": "いもうとはアニメがだいすきです。",
+        "kana": "いもうと は アニメ が だいすき です。",
+        "meaning": "Adik perempuan saya sangat menyukai anime."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -12779,9 +12781,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは大切です。",
-        "kana": "この かばん は たいせつです。",
-        "meaning": "Tas ini sangat menghargai."
+        "jp": "かぞくはわたしにとってたいせつです。",
+        "kana": "かぞく は わたし に とって たいせつ です。",
+        "meaning": "Keluarga penting bagi saya."
       },
       "level": "N5",
       "scope": "N5"
@@ -13005,9 +13007,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は出します。",
-        "kana": "わたし は だします。",
-        "meaning": "Saya mengeluarkan."
+        "jp": "かばんからさいふをだします。",
+        "kana": "かばん から さいふ を だします。",
+        "meaning": "Saya mengeluarkan dompet dari tas."
       },
       "level": "N5",
       "scope": "N5"
@@ -13046,9 +13048,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は立ちます。",
-        "kana": "わたし は たちます。",
-        "meaning": "Saya berdiri."
+        "jp": "せんせいのまえにたちます。",
+        "kana": "せんせい の まえ に たちます。",
+        "meaning": "Saya berdiri di depan guru."
       },
       "level": "N5",
       "scope": "N5"
@@ -13153,9 +13155,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは楽しいです。",
-        "kana": "この かばん は たのしいです。",
-        "meaning": "Tas ini nikmat."
+        "jp": "ともだちとはなすのはたのしいです。",
+        "kana": "ともだち と はなす の は たのしい です。",
+        "meaning": "Berbicara dengan teman itu menyenangkan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -13187,9 +13189,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は頼みます。",
-        "kana": "わたし は たのみます。",
-        "meaning": "Saya meminta."
+        "jp": "ともだちにてつだいをたのみます。",
+        "kana": "ともだち に てつだい を たのみます。",
+        "meaning": "Saya meminta bantuan teman."
       },
       "level": "N5",
       "scope": "N5"
@@ -13535,9 +13537,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは小さいです。",
-        "kana": "この かばん は ちいさいです。",
-        "meaning": "Tas ini kecil."
+        "jp": "ちいさいはこにはいっています。",
+        "kana": "ちいさい はこ に はいって います。",
+        "meaning": "Bendanya ada di dalam kotak kecil."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -13643,9 +13645,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は違います。",
-        "kana": "わたし は ちがいます。",
-        "meaning": "Saya berbeda."
+        "jp": "このこたえはちがいます。",
+        "kana": "この こたえ は ちがいます。",
+        "meaning": "Jawaban ini salah."
       },
       "level": "N5",
       "scope": "N5"
@@ -13997,9 +13999,9 @@
       "category": "noun",
       "subcategory": "Konsep & informasi",
       "example": {
-        "jp": "これは次です。",
-        "kana": "これ は つぎ です。",
-        "meaning": "Ini berikutnya."
+        "jp": "つぎのバスにのります。",
+        "kana": "つぎ の バス に のります。",
+        "meaning": "Saya naik bus berikutnya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -14042,9 +14044,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は着きます。",
-        "kana": "わたし は つきます。",
-        "meaning": "Saya tiba."
+        "jp": "バスはくじにえきにつきます。",
+        "kana": "バス は くじ に えき に つきます。",
+        "meaning": "Bus tiba di stasiun pukul sembilan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -14124,9 +14126,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は作ります。",
-        "kana": "わたし は つくります。",
-        "meaning": "Saya membuat."
+        "jp": "ばんごはんをつくります。",
+        "kana": "ばんごはん を つくります。",
+        "meaning": "Saya menyiapkan makan malam."
       },
       "level": "N5",
       "scope": "N5"
@@ -14165,9 +14167,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私はつけます。",
-        "kana": "わたし は つけます。",
-        "meaning": "Saya mengaktifkan."
+        "jp": "くらいので、でんきをつけます。",
+        "kana": "くらい ので、でんき を つけます。",
+        "meaning": "Saya menyalakan lampu karena gelap."
       },
       "level": "N5",
       "scope": "N5"
@@ -14199,9 +14201,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は勤めます。",
-        "kana": "わたし は つとめます。",
-        "meaning": "Saya bekerja."
+        "jp": "あねはぎんこうにつとめています。",
+        "kana": "あね は ぎんこう に つとめて います。",
+        "meaning": "Kakak perempuan saya bekerja di bank."
       },
       "level": "N5",
       "scope": "N5"
@@ -14240,9 +14242,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはつまらないです。",
-        "kana": "この かばん は つまらないです。",
-        "meaning": "Tas ini membosankan."
+        "jp": "このえいがはつまらないです。",
+        "kana": "この えいが は つまらない です。",
+        "meaning": "Film ini membosankan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -14277,9 +14279,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは冷たいです。",
-        "kana": "この かばん は つめたいです。",
-        "meaning": "Tas ini dingin."
+        "jp": "つめたいみずをのみたいです。",
+        "kana": "つめたい みず を のみたい です。",
+        "meaning": "Saya ingin minum air dingin."
       },
       "level": "N5",
       "scope": "N5"
@@ -14314,9 +14316,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは強いです。",
-        "kana": "この かばん は つよいです。",
-        "meaning": "Tas ini kuat."
+        "jp": "きょうはかぜがつよいです。",
+        "kana": "きょう は かぜ が つよい です。",
+        "meaning": "Hari ini anginnya kencang."
       },
       "level": "N5",
       "scope": "N5"
@@ -14384,9 +14386,9 @@
       "category": "noun",
       "subcategory": "Teknologi & komunikasi",
       "example": {
-        "jp": "これはテープです。",
-        "kana": "これ は テープ です。",
-        "meaning": "Ini tape."
+        "jp": "このはこをテープでとめます。",
+        "kana": "この はこ を テープ で とめます。",
+        "meaning": "Saya merekatkan kotak ini dengan selotip."
       },
       "level": "N5",
       "scope": "N5"
@@ -14487,9 +14489,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は出かけます。",
-        "kana": "わたし は でかけます。",
-        "meaning": "Saya pergi keluar."
+        "jp": "ごご、ともだちとでかけます。",
+        "kana": "ごご、ともだち と でかけます。",
+        "meaning": "Sore nanti saya pergi keluar bersama teman."
       },
       "level": "N5",
       "scope": "N5"
@@ -14567,9 +14569,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は出来ます。",
-        "kana": "わたし は できます。",
-        "meaning": "Saya bisa."
+        "jp": "わたしはひとりでりょうりができます。",
+        "kana": "わたし は ひとり で りょうり が できます。",
+        "meaning": "Saya bisa memasak sendiri."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -14755,9 +14757,9 @@
       "category": "expression",
       "subcategory": "Penghubung",
       "example": {
-        "jp": "何でも食べます。",
-        "kana": "なんでも たべます。",
-        "meaning": "Saya makan apa saja."
+        "jp": "このほんはむずかしいです。でも、おもしろいです。",
+        "kana": "この ほん は むずかしい です。でも、おもしろい です。",
+        "meaning": "Buku ini sulit. Tetapi menarik."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -14796,9 +14798,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は出ます。",
-        "kana": "わたし は でます。",
-        "meaning": "Saya muncul."
+        "jp": "あさはちじにいえをでます。",
+        "kana": "あさ はちじ に いえ を でます。",
+        "meaning": "Saya berangkat dari rumah pukul delapan pagi."
       },
       "level": "N5",
       "scope": "N5"
@@ -14906,9 +14908,9 @@
       "category": "noun",
       "subcategory": "Teknologi & komunikasi",
       "example": {
-        "jp": "この人は電気です。",
-        "kana": "この ひと は でんき です。",
-        "meaning": "Orang ini listrik."
+        "jp": "ねるまえにでんきをけします。",
+        "kana": "ねる まえ に でんき を けします。",
+        "meaning": "Saya mematikan lampu sebelum tidur."
       },
       "level": "N5",
       "scope": "N5"
@@ -15293,9 +15295,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは遠いです。",
-        "kana": "この かばん は とおいです。",
-        "meaning": "Tas ini jauh."
+        "jp": "えきはここからとおいです。",
+        "kana": "えき は ここ から とおい です。",
+        "meaning": "Stasiun jauh dari sini."
       },
       "level": "N5",
       "scope": "N5"
@@ -15326,9 +15328,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "十日に友達に会います。",
-        "kana": "とおか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada sepuluh hari."
+        "jp": "とおかにテストがあります。",
+        "kana": "とおか に テスト が あります。",
+        "meaning": "Ada ujian pada tanggal sepuluh."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -15468,9 +15470,9 @@
       "category": "noun",
       "subcategory": "Tempat & fasilitas",
       "example": {
-        "jp": "所へ行きます。",
-        "kana": "ところ へ いきます。",
-        "meaning": "Saya pergi ke tempat."
+        "jp": "しずかなところでべんきょうしたいです。",
+        "kana": "しずかな ところ で べんきょう したい です。",
+        "meaning": "Saya ingin belajar di tempat yang tenang."
       },
       "level": "N5",
       "scope": "N5"
@@ -15502,9 +15504,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "年、勉強します。",
-        "kana": "とし、べんきょうします。",
-        "meaning": "Tahun, saya belajar."
+        "jp": "ことしはどんなとしでしたか。",
+        "kana": "ことし は どんな とし でした か。",
+        "meaning": "Seperti apa tahun ini bagimu?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -15755,9 +15757,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は飛びます。",
-        "kana": "わたし は とびます。",
-        "meaning": "Saya terbang."
+        "jp": "とりがそらをとんでいます。",
+        "kana": "とり が そら を とんで います。",
+        "meaning": "Burung sedang terbang di langit."
       },
       "level": "N5",
       "scope": "N5"
@@ -15796,9 +15798,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は止まります。",
-        "kana": "わたし は とまります。",
-        "meaning": "Saya berhenti."
+        "jp": "このでんしゃはつぎのえきにとまります。",
+        "kana": "この でんしゃ は つぎ の えき に とまります。",
+        "meaning": "Kereta ini berhenti di stasiun berikutnya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -15972,9 +15974,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は取ります。",
-        "kana": "わたし は とります。",
-        "meaning": "Saya mengambil sesuatu."
+        "jp": "つくえのうえのほんをとってください。",
+        "kana": "つくえ の うえ の ほん を とって ください。",
+        "meaning": "Tolong ambil buku di atas meja."
       },
       "level": "N5",
       "scope": "N5"
@@ -16006,9 +16008,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は撮ります。",
-        "kana": "わたし は とります。",
-        "meaning": "Saya mengambil foto atau merekam film."
+        "jp": "ともだちのしゃしんをとります。",
+        "kana": "ともだち の しゃしん を とります。",
+        "meaning": "Saya memotret teman."
       },
       "level": "N5",
       "scope": "N5"
@@ -16142,9 +16144,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは長いです。",
-        "kana": "この かばん は ながいです。",
-        "meaning": "Tas ini panjang."
+        "jp": "あねはかみがながいです。",
+        "kana": "あね は かみ が ながい です。",
+        "meaning": "Rambut kakak perempuan saya panjang."
       },
       "level": "N5",
       "scope": "N5"
@@ -16217,9 +16219,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私はなくします。",
-        "kana": "わたし は なくします。",
-        "meaning": "Saya kehilangan sesuatu."
+        "jp": "きのう、いえのかぎをなくしました。",
+        "kana": "きのう、いえ の かぎ を なくしました。",
+        "meaning": "Kemarin saya kehilangan kunci rumah."
       },
       "level": "N5",
       "scope": "N5"
@@ -16320,9 +16322,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "この人は夏休みです。",
-        "kana": "この ひと は なつやすみ です。",
-        "meaning": "Orang ini liburan musim panas."
+        "jp": "なつやすみにうみにいきます。",
+        "kana": "なつやすみ に うみ に いきます。",
+        "meaning": "Saya pergi ke laut saat liburan musim panas."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -16421,9 +16423,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "七日に友達に会います。",
-        "kana": "なのか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada tujuh hari."
+        "jp": "なのかにくににかえります。",
+        "kana": "なのか に くに に かえります。",
+        "meaning": "Saya pulang ke negara asal pada tanggal tujuh."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -16506,9 +16508,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は習います。",
-        "kana": "わたし は ならいます。",
-        "meaning": "Saya mempelajari."
+        "jp": "まいしゅうピアノをならっています。",
+        "kana": "まいしゅう ピアノ を ならって います。",
+        "meaning": "Saya belajar piano setiap minggu."
       },
       "level": "N5",
       "scope": "N5"
@@ -16540,9 +16542,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は並びます。",
-        "kana": "わたし は ならびます。",
-        "meaning": "Saya berbaris."
+        "jp": "レジのまえにならびます。",
+        "kana": "レジ の まえ に ならびます。",
+        "meaning": "Saya mengantre di depan kasir."
       },
       "level": "N5",
       "scope": "N5"
@@ -16574,9 +16576,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は並べます。",
-        "kana": "わたし は ならべます。",
-        "meaning": "Saya berbaris."
+        "jp": "つくえのうえにおさらをならべます。",
+        "kana": "つくえ の うえ に おさら を ならべます。",
+        "meaning": "Saya menata piring di atas meja."
       },
       "level": "N5",
       "scope": "N5"
@@ -16725,9 +16727,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは賑やかです。",
-        "kana": "この かばん は にぎやかです。",
-        "meaning": "Tas ini ramai."
+        "jp": "このまちはよるもにぎやかです。",
+        "kana": "この まち は よる も にぎやか です。",
+        "meaning": "Kota ini juga ramai pada malam hari."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -16985,9 +16987,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は脱ぎます。",
-        "kana": "わたし は ぬぎます。",
-        "meaning": "Saya menanggalkan pakaian."
+        "jp": "いえにはいるまえにくつをぬぎます。",
+        "kana": "いえ に はいる まえ に くつ を ぬぎます。",
+        "meaning": "Saya melepas sepatu sebelum masuk rumah."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -17014,9 +17016,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは温いです。",
-        "kana": "この かばん は ぬるいです。",
-        "meaning": "Tas ini hangat."
+        "jp": "このおふろのおゆはぬるいです。",
+        "kana": "この おふろ の おゆ は ぬるい です。",
+        "meaning": "Air bak mandi ini kurang panas."
       },
       "level": "N5",
       "scope": "N5"
@@ -17162,9 +17164,9 @@
       "category": "noun",
       "subcategory": "Sekolah & bahasa",
       "example": {
-        "jp": "これはノートです。",
-        "kana": "これ は ノート です。",
-        "meaning": "Ini notebook."
+        "jp": "ノートにあたらしいことばをかきます。",
+        "kana": "ノート に あたらしい ことば を かきます。",
+        "meaning": "Saya menulis kosakata baru di buku catatan."
       },
       "level": "N5",
       "scope": "N5"
@@ -17203,9 +17205,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は登ります。",
-        "kana": "わたし は のぼります。",
-        "meaning": "Saya memanjat."
+        "jp": "にちようびにやまにのぼります。",
+        "kana": "にちようび に やま に のぼります。",
+        "meaning": "Saya mendaki gunung pada hari Minggu."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -17338,9 +17340,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は乗ります。",
-        "kana": "わたし は のります。",
-        "meaning": "Saya naik."
+        "jp": "えきでバスにのります。",
+        "kana": "えき で バス に のります。",
+        "meaning": "Saya naik bus di stasiun."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -17445,9 +17447,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "このかばんはいいです。",
-        "kana": "この かばん は いいです。",
-        "meaning": "Tas ini bagus."
+        "jp": "はい、わたしがたなかです。",
+        "kana": "はい、わたし が たなか です。",
+        "meaning": "Ya, saya Tanaka."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -17527,9 +17529,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は入ります。",
-        "kana": "わたし は はいります。",
-        "meaning": "Saya masuk."
+        "jp": "ノックをしてから、へやにはいります。",
+        "kana": "ノック を して から、へや に はいります。",
+        "meaning": "Saya mengetuk pintu lalu masuk kamar."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -17601,9 +17603,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は履きます。",
-        "kana": "わたし は はきます。",
-        "meaning": "Saya memakai."
+        "jp": "あたらしいくつをはきます。",
+        "kana": "あたらしい くつ を はきます。",
+        "meaning": "Saya memakai sepatu baru."
       },
       "level": "N5",
       "scope": "N5"
@@ -17638,9 +17640,9 @@
       "category": "noun",
       "subcategory": "Rumah & perabot",
       "example": {
-        "jp": "箱へ行きます。",
-        "kana": "はこ へ いきます。",
-        "meaning": "Saya pergi ke kotak."
+        "jp": "はこのなかにおもちゃがあります。",
+        "kana": "はこ の なか に おもちゃ が あります。",
+        "meaning": "Ada mainan di dalam kotak."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -17745,9 +17747,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は始まります。",
-        "kana": "わたし は はじまります。",
-        "meaning": "Saya memulai."
+        "jp": "えいがはしちじにはじまります。",
+        "kana": "えいが は しちじ に はじまります。",
+        "meaning": "Film dimulai pukul tujuh."
       },
       "level": "N5",
       "scope": "N5"
@@ -17961,9 +17963,9 @@
       "category": "number",
       "subcategory": "Orang & usia",
       "example": {
-        "jp": "二十歳、勉強します。",
-        "kana": "はたち、べんきょうします。",
-        "meaning": "20 tahun, saya belajar."
+        "jp": "あねはことしはたちになります。",
+        "kana": "あね は ことし はたち に なります。",
+        "meaning": "Kakak perempuan saya berusia dua puluh tahun tahun ini."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -18068,9 +18070,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "二十日に友達に会います。",
-        "kana": "はつか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada dua puluh hari."
+        "jp": "はつかはがっこうがやすみです。",
+        "kana": "はつか は がっこう が やすみ です。",
+        "meaning": "Sekolah libur pada tanggal dua puluh."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -18175,9 +18177,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "話を食べます。",
-        "kana": "はなし を たべます。",
-        "meaning": "Saya makan bicara."
+        "jp": "ともだちのはなしをききます。",
+        "kana": "ともだち の はなし を ききます。",
+        "meaning": "Saya mendengarkan cerita teman."
       },
       "level": "N5",
       "scope": "N5"
@@ -18220,9 +18222,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は話します。",
-        "kana": "わたし は はなします。",
-        "meaning": "Saya berbicara."
+        "jp": "ともだちとにほんごではなします。",
+        "kana": "ともだち と にほんご で はなします。",
+        "meaning": "Saya berbicara dalam bahasa Jepang dengan teman."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -18261,9 +18263,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは早いです。",
-        "kana": "この かばん は はやいです。",
-        "meaning": "Tas ini awal."
+        "jp": "きょうはいつもよりはやいですね。",
+        "kana": "きょう は いつも より はやい です ね。",
+        "meaning": "Hari ini kamu lebih awal dari biasanya, ya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -18361,9 +18363,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は貼ります。",
-        "kana": "わたし は はります。",
-        "meaning": "Saya menempelkan."
+        "jp": "てがみにきってをはります。",
+        "kana": "てがみ に きって を はります。",
+        "meaning": "Saya menempelkan perangko pada surat."
       },
       "level": "N5",
       "scope": "N5"
@@ -18424,9 +18426,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は晴れます。",
-        "kana": "わたし は はれます。",
-        "meaning": "Saya menjadi cerah."
+        "jp": "あしたははれるといいですね。",
+        "kana": "あした は はれる と いい です ね。",
+        "meaning": "Semoga besok cerah, ya."
       },
       "level": "N5",
       "scope": "N5"
@@ -18457,9 +18459,9 @@
       "category": "number",
       "subcategory": "Pecahan & jumlah",
       "example": {
-        "jp": "これは半です。",
-        "kana": "これ は はん です。",
-        "meaning": "Ini setengah."
+        "jp": "いまはしちじはんです。",
+        "kana": "いま は しちじ はん です。",
+        "meaning": "Sekarang pukul setengah delapan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -18636,7 +18638,7 @@
     {
       "jp": "半分",
       "kana": "はんぶん",
-      "meaning": "setengah menit",
+      "meaning": "setengah; separuh",
       "sources": [
         {
           "id": 4,
@@ -18659,9 +18661,9 @@
       "category": "number",
       "subcategory": "Pecahan & jumlah",
       "example": {
-        "jp": "これは半分です。",
-        "kana": "これ は はんぶん です。",
-        "meaning": "Ini setengah menit."
+        "jp": "このケーキをはんぶんにきります。",
+        "kana": "この ケーキ を はんぶん に きります。",
+        "meaning": "Saya memotong kue ini menjadi dua bagian sama besar."
       },
       "level": "N5",
       "scope": "N5"
@@ -18737,9 +18739,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は引きます。",
-        "kana": "わたし は ひきます。",
-        "meaning": "Saya menarik."
+        "jp": "ドアをひいてください。",
+        "kana": "ドア を ひいて ください。",
+        "meaning": "Tolong tarik pintunya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -18771,9 +18773,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は弾きます。",
-        "kana": "わたし は ひきます。",
-        "meaning": "Saya memainkan alat musik."
+        "jp": "あにはギターをひきます。",
+        "kana": "あに は ギター を ひきます。",
+        "meaning": "Kakak laki-laki saya bermain gitar."
       },
       "level": "N5",
       "scope": "N5"
@@ -18812,9 +18814,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは低いです。",
-        "kana": "この かばん は ひくいです。",
-        "meaning": "Tas ini pendek."
+        "jp": "このいすはひくいです。",
+        "kana": "この いす は ひくい です。",
+        "meaning": "Kursi ini rendah."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -18990,9 +18992,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "一月に友達に会います。",
-        "kana": "ひとつき に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada satu bulan."
+        "jp": "このしごとはひとつきかかります。",
+        "kana": "この しごと は ひとつき かかります。",
+        "meaning": "Pekerjaan ini memerlukan waktu satu bulan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -19023,9 +19025,9 @@
       "category": "number",
       "subcategory": "Orang & usia",
       "example": {
-        "jp": "これは一人です。",
-        "kana": "これ は ひとり です。",
-        "meaning": "Ini satu orang."
+        "jp": "へやにひとりいます。",
+        "kana": "へや に ひとり います。",
+        "meaning": "Ada satu orang di kamar."
       },
       "level": "N5",
       "scope": "N5"
@@ -19056,9 +19058,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは暇です。",
-        "kana": "この かばん は ひまです。",
-        "meaning": "Tas ini waktu luang."
+        "jp": "あしたのごごはひまです。",
+        "kana": "あした の ごご は ひま です。",
+        "meaning": "Besok sore saya senggang."
       },
       "level": "N5",
       "scope": "N5"
@@ -19093,9 +19095,9 @@
       "category": "number",
       "subcategory": "Bilangan dasar",
       "example": {
-        "jp": "答えは百です。",
-        "kana": "こたえ は ひゃく です。",
-        "meaning": "Jawabannya ratus."
+        "jp": "このパンはひゃくえんです。",
+        "kana": "この パン は ひゃくえん です。",
+        "meaning": "Roti ini harganya seratus yen."
       },
       "level": "N5",
       "scope": "N5"
@@ -19262,9 +19264,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは広いです。",
-        "kana": "この かばん は ひろいです。",
-        "meaning": "Tas ini luas."
+        "jp": "あたらしいへやはひろいです。",
+        "kana": "あたらしい へや は ひろい です。",
+        "meaning": "Kamar baru ini luas."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -19436,9 +19438,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は吹きます。",
-        "kana": "わたし は ふきます。",
-        "meaning": "Saya meniup."
+        "jp": "ふえをふきます。",
+        "kana": "ふえ を ふきます。",
+        "meaning": "Saya meniup seruling."
       },
       "level": "N5",
       "scope": "N5"
@@ -19582,9 +19584,9 @@
       "category": "number",
       "subcategory": "Orang & usia",
       "example": {
-        "jp": "これは二人です。",
-        "kana": "これ は ふたり です。",
-        "meaning": "Ini dua orang."
+        "jp": "ともだちがふたりきました。",
+        "kana": "ともだち が ふたり きました。",
+        "meaning": "Dua orang teman datang."
       },
       "level": "N5",
       "scope": "N5"
@@ -19615,9 +19617,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "二日に友達に会います。",
-        "kana": "ふつか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada dua hari."
+        "jp": "ふつかにともだちがきます。",
+        "kana": "ふつか に ともだち が きます。",
+        "meaning": "Teman saya datang pada tanggal dua."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -19652,9 +19654,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは太いです。",
-        "kana": "この かばん は ふといです。",
-        "meaning": "Tas ini gemuk."
+        "jp": "あのきのえだはふといです。",
+        "kana": "あの き の えだ は ふとい です。",
+        "meaning": "Dahan pohon itu tebal."
       },
       "level": "N5",
       "scope": "N5"
@@ -19771,9 +19773,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは古いです。",
-        "kana": "この かばん は ふるいです。",
-        "meaning": "Tas ini lama."
+        "jp": "ふるいしゃしんをみつけました。",
+        "kana": "ふるい しゃしん を みつけました。",
+        "meaning": "Saya menemukan foto lama."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -19895,9 +19897,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは下手です。",
-        "kana": "この かばん は へたです。",
-        "meaning": "Tas ini tidak terampil."
+        "jp": "わたしはえをかくのがへたです。",
+        "kana": "わたし は え を かく の が へた です。",
+        "meaning": "Saya kurang pandai menggambar."
       },
       "level": "N5",
       "scope": "N5"
@@ -19965,9 +19967,9 @@
       "category": "noun",
       "subcategory": "Hewan & tumbuhan",
       "example": {
-        "jp": "あそこにペットがいます。",
-        "kana": "あそこ に ペット が います。",
-        "meaning": "Di sana ada pets."
+        "jp": "うちのペットはいぬです。",
+        "kana": "うち の ペット は いぬ です。",
+        "meaning": "Hewan peliharaan kami seekor anjing."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -20114,9 +20116,9 @@
       "category": "noun",
       "subcategory": "Sekolah & bahasa",
       "example": {
-        "jp": "これは勉強です。",
-        "kana": "これ は べんきょうする です。",
-        "meaning": "Ini belajar."
+        "jp": "にほんごのべんきょうはたのしいです。",
+        "kana": "にほんご の べんきょう は たのしい です。",
+        "meaning": "Belajar bahasa Jepang menyenangkan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -20147,9 +20149,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは便利です。",
-        "kana": "この かばん は べんりです。",
-        "meaning": "Tas ini berguna."
+        "jp": "このアプリはべんりです。",
+        "kana": "この アプリ は べんり です。",
+        "meaning": "Aplikasi ini praktis."
       },
       "level": "N5",
       "scope": "N5"
@@ -20330,9 +20332,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは欲しいです。",
-        "kana": "この かばん は ほしいです。",
-        "meaning": "Tas ini ingin."
+        "jp": "あたらしいじてんしゃがほしいです。",
+        "kana": "あたらしい じてんしゃ が ほしい です。",
+        "meaning": "Saya ingin sepeda baru."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -20396,9 +20398,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは細いです。",
-        "kana": "この かばん は ほそいです。",
-        "meaning": "Tas ini tipis."
+        "jp": "ほそいペンでなまえをかきます。",
+        "kana": "ほそい ペン で なまえ を かきます。",
+        "meaning": "Saya menulis nama dengan pena berujung tipis."
       },
       "level": "N5",
       "scope": "N5"
@@ -20877,9 +20879,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は曲がります。",
-        "kana": "わたし は まがります。",
-        "meaning": "Saya berbelok."
+        "jp": "つぎのかどをみぎにまがります。",
+        "kana": "つぎ の かど を みぎ に まがります。",
+        "meaning": "Saya berbelok ke kanan di sudut berikutnya."
       },
       "level": "N5",
       "scope": "N5"
@@ -20914,9 +20916,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはまずいです。",
-        "kana": "この かばん は まずいです。",
-        "meaning": "Tas ini buruk."
+        "jp": "このパンはまずいです。",
+        "kana": "この パン は まずい です。",
+        "meaning": "Roti ini tidak enak."
       },
       "level": "N5",
       "scope": "N5"
@@ -21066,9 +21068,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は待ちます。",
-        "kana": "わたし は まちます。",
-        "meaning": "Saya menunggu."
+        "jp": "えきのまえでともだちをまちます。",
+        "kana": "えき の まえ で ともだち を まちます。",
+        "meaning": "Saya menunggu teman di depan stasiun."
       },
       "level": "N5",
       "scope": "N5"
@@ -21204,9 +21206,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは丸いです。",
-        "kana": "この かばん は まるいです。",
-        "meaning": "Tas ini bulat."
+        "jp": "まるいテーブルをかいました。",
+        "kana": "まるい テーブル を かいました。",
+        "meaning": "Saya membeli meja bundar."
       },
       "level": "N5",
       "scope": "N5"
@@ -21304,9 +21306,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は磨きます。",
-        "kana": "わたし は みがきます。",
-        "meaning": "Saya memoles."
+        "jp": "まいあさはをみがきます。",
+        "kana": "まいあさ は を みがきます。",
+        "meaning": "Saya menyikat gigi setiap pagi."
       },
       "level": "N5",
       "scope": "N5"
@@ -21370,9 +21372,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは短いです。",
-        "kana": "この かばん は みじかいです。",
-        "meaning": "Tas ini pendek."
+        "jp": "みじかいぶんをよみます。",
+        "kana": "みじかい ぶん を よみます。",
+        "meaning": "Saya membaca kalimat pendek."
       },
       "level": "N5",
       "scope": "N5"
@@ -21488,9 +21490,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は見せます。",
-        "kana": "わたし は みせます。",
-        "meaning": "Saya memperlihatkan."
+        "jp": "パスポートをみせてください。",
+        "kana": "パスポート を みせて ください。",
+        "meaning": "Tolong tunjukkan paspor Anda."
       },
       "level": "N5",
       "scope": "N5"
@@ -21554,9 +21556,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "三日に友達に会います。",
-        "kana": "みっか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada tiga hari."
+        "jp": "みっかにははとでかけます。",
+        "kana": "みっか に はは と でかけます。",
+        "meaning": "Saya pergi bersama ibu pada tanggal tiga."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -21851,9 +21853,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "六日に友達に会います。",
-        "kana": "むいか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada enam hari."
+        "jp": "むいかにあたらしいしごとがはじまります。",
+        "kana": "むいか に あたらしい しごと が はじまります。",
+        "meaning": "Pekerjaan baru saya dimulai pada tanggal enam."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -22235,9 +22237,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は持ちます。",
-        "kana": "わたし は もちます。",
-        "meaning": "Saya memiliki."
+        "jp": "このにもつをもちます。",
+        "kana": "この にもつ を もちます。",
+        "meaning": "Saya membawa barang ini."
       },
       "level": "N5",
       "scope": "N5"
@@ -22404,9 +22406,9 @@
       "category": "noun",
       "subcategory": "Belanja & uang",
       "example": {
-        "jp": "八百屋を食べます。",
-        "kana": "やおや を たべます。",
-        "meaning": "Saya makan penjual sayur."
+        "jp": "やおやでやさいをかいます。",
+        "kana": "やおや で やさい を かいます。",
+        "meaning": "Saya membeli sayuran di toko sayur."
       },
       "level": "N5",
       "scope": "N5"
@@ -22474,9 +22476,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは易しいです。",
-        "kana": "この かばん は やさしいです。",
-        "meaning": "Tas ini mudah."
+        "jp": "このもんだいはやさしいです。",
+        "kana": "この もんだい は やさしい です。",
+        "meaning": "Soal ini mudah."
       },
       "level": "N5",
       "scope": "N5"
@@ -22515,9 +22517,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは安いです。",
-        "kana": "この かばん は やすいです。",
-        "meaning": "Tas ini murah."
+        "jp": "あのみせのやさいはやすいです。",
+        "kana": "あの みせ の やさい は やすい です。",
+        "meaning": "Sayuran di toko itu murah."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -22597,9 +22599,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は休みます。",
-        "kana": "わたし は やすみます。",
-        "meaning": "Saya beristirahat."
+        "jp": "つかれたので、すこしやすみます。",
+        "kana": "つかれた ので、すこし やすみます。",
+        "meaning": "Saya beristirahat sebentar karena lelah."
       },
       "level": "N5",
       "scope": "N5"
@@ -22699,9 +22701,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私はやります。",
-        "kana": "わたし は やります。",
-        "meaning": "Saya melakukan."
+        "jp": "ばんごはんのまえにしゅくだいをやります。",
+        "kana": "ばんごはん の まえ に しゅくだい を やります。",
+        "meaning": "Saya mengerjakan PR sebelum makan malam."
       },
       "level": "N5",
       "scope": "N5"
@@ -22728,9 +22730,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "夕方、勉強します。",
-        "kana": "ゆうがた、べんきょうします。",
-        "meaning": "Malam, saya belajar."
+        "jp": "ゆうがた、いぬとさんぽします。",
+        "kana": "ゆうがた、いぬ と さんぽ します。",
+        "meaning": "Saya berjalan-jalan dengan anjing menjelang malam."
       },
       "level": "N5",
       "scope": "N5"
@@ -22852,9 +22854,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは有名です。",
-        "kana": "この かばん は ゆうめいです。",
-        "meaning": "Tas ini terkenal."
+        "jp": "このおてらはゆうめいです。",
+        "kana": "この おてら は ゆうめい です。",
+        "meaning": "Kuil Buddha ini terkenal."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -22947,9 +22949,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "八日に友達に会います。",
-        "kana": "ようか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada delapan hari."
+        "jp": "ようかにえいがをみにいきます。",
+        "kana": "ようか に えいが を みに いきます。",
+        "meaning": "Saya pergi menonton film pada tanggal delapan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -23091,9 +23093,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "四日に友達に会います。",
-        "kana": "よっか に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada empat hari."
+        "jp": "よっかにびょういんにいきます。",
+        "kana": "よっか に びょういん に いきます。",
+        "meaning": "Saya pergi ke rumah sakit pada tanggal empat."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -23167,9 +23169,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は呼びます。",
-        "kana": "わたし は よびます。",
-        "meaning": "Saya memanggil."
+        "jp": "せんせいをよんでください。",
+        "kana": "せんせい を よんで ください。",
+        "meaning": "Tolong panggil guru."
       },
       "level": "N5",
       "scope": "N5"
@@ -23282,9 +23284,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは弱いです。",
-        "kana": "この かばん は よわいです。",
-        "meaning": "Tas ini lemah."
+        "jp": "きょうはかぜがよわいです。",
+        "kana": "きょう は かぜ が よわい です。",
+        "meaning": "Hari ini anginnya lemah."
       },
       "level": "N5",
       "scope": "N5"
@@ -23487,9 +23489,9 @@
       "category": "noun",
       "subcategory": "Konsep & informasi",
       "example": {
-        "jp": "これはりっぱです。",
-        "kana": "これ は りっぱ です。",
-        "meaning": "Ini megah."
+        "jp": "りっぱなたてものですね。",
+        "kana": "りっぱな たてもの です ね。",
+        "meaning": "Bangunan yang megah, ya."
       },
       "level": "N5",
       "scope": "N5"
@@ -23520,9 +23522,9 @@
       "category": "noun",
       "subcategory": "Sekolah & bahasa",
       "example": {
-        "jp": "留学生を食べます。",
-        "kana": "りゅうがくせい を たべます。",
-        "meaning": "Saya makan siswa internasional."
+        "jp": "わたしはインドネシアからきたりゅうがくせいです。",
+        "kana": "わたし は インドネシア から きた りゅうがくせい です。",
+        "meaning": "Saya pelajar dari Indonesia yang belajar di luar negeri."
       },
       "level": "N5",
       "scope": "N5"
@@ -23553,9 +23555,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "この人は両親です。",
-        "kana": "この ひと は りょうしん です。",
-        "meaning": "Orang ini kedua orang tua."
+        "jp": "りょうしんはいまインドネシアにいます。",
+        "kana": "りょうしん は いま インドネシア に います。",
+        "meaning": "Kedua orang tua saya sekarang berada di Indonesia."
       },
       "level": "N5",
       "scope": "N5"
@@ -23789,9 +23791,9 @@
       "category": "noun",
       "subcategory": "Sekolah & bahasa",
       "example": {
-        "jp": "これは練習です。",
-        "kana": "これ は れんしゅうする です。",
-        "meaning": "Ini berlatih."
+        "jp": "まいにちのれんしゅうがたいせつです。",
+        "kana": "まいにち の れんしゅう が たいせつ です。",
+        "meaning": "Latihan setiap hari itu penting."
       },
       "level": "N5",
       "scope": "N5"
@@ -23913,9 +23915,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは若いです。",
-        "kana": "この かばん は わかいです。",
-        "meaning": "Tas ini muda."
+        "jp": "あのわかいひとはせんせいです。",
+        "kana": "あの わかい ひと は せんせい です。",
+        "meaning": "Orang muda itu guru."
       },
       "level": "N5",
       "scope": "N5"
@@ -24000,9 +24002,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は忘れます。",
-        "kana": "わたし は わすれます。",
-        "meaning": "Saya melupakan."
+        "jp": "きのう、かさをわすれました。",
+        "kana": "きのう、かさ を わすれました。",
+        "meaning": "Kemarin saya lupa membawa payung."
       },
       "level": "N5",
       "scope": "N5"
@@ -24076,9 +24078,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は渡します。",
-        "kana": "わたし は わたします。",
-        "meaning": "Saya memberikan."
+        "jp": "うけつけのひとにしょるいをわたします。",
+        "kana": "うけつけ の ひと に しょるい を わたします。",
+        "meaning": "Saya menyerahkan dokumen kepada petugas resepsionis."
       },
       "level": "N5",
       "scope": "N5"
@@ -24150,9 +24152,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは悪いです。",
-        "kana": "この かばん は わるいです。",
-        "meaning": "Tas ini buruk."
+        "jp": "きょうはてんきがわるいです。",
+        "kana": "きょう は てんき が わるい です。",
+        "meaning": "Cuaca hari ini buruk."
       },
       "level": "N5",
       "scope": "N5"
@@ -24246,9 +24248,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは柔らかいです。",
-        "kana": "この かばん は やわらかいです。",
-        "meaning": "Tas ini lembut."
+        "jp": "このパンはやわらかいです。",
+        "kana": "この パン は やわらかい です。",
+        "meaning": "Roti ini lembut."
       },
       "level": "N5",
       "scope": "N5"
@@ -24285,9 +24287,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは素晴らしいです。",
-        "kana": "この かばん は すばらしいです。",
-        "meaning": "Tas ini luar biasa."
+        "jp": "やまからのけしきはすばらしいです。",
+        "kana": "やま から の けしき は すばらしい です。",
+        "meaning": "Pemandangan dari gunung luar biasa."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -24653,9 +24655,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は話を聞きます。",
-        "kana": "わたし は はなしをききます。",
-        "meaning": "Saya mendengarkan cerita."
+        "jp": "そふのはなしをききます。",
+        "kana": "そふ の はなし を ききます。",
+        "meaning": "Saya mendengarkan cerita kakek."
       },
       "level": "N5",
       "scope": "N5"
@@ -24687,9 +24689,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は窓を閉めます。",
-        "kana": "わたし は まどをしめます。",
-        "meaning": "Saya menutup jendela."
+        "jp": "ねるまえにまどをしめます。",
+        "kana": "ねる まえ に まど を しめます。",
+        "meaning": "Saya menutup jendela sebelum tidur."
       },
       "level": "N5",
       "scope": "N5"
@@ -24721,9 +24723,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は水を飲みます。",
-        "kana": "わたし は みずをのみます。",
-        "meaning": "Saya minum air."
+        "jp": "うんどうのあとでみずをのみます。",
+        "kana": "うんどう の あと で みず を のみます。",
+        "meaning": "Saya minum air setelah berolahraga."
       },
       "level": "N5",
       "scope": "N5"
@@ -24779,9 +24781,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "本当の話を食べます。",
-        "kana": "ほんとうのはなし を たべます。",
-        "meaning": "Saya makan cerita yang benar."
+        "jp": "これはほんとうのはなしです。",
+        "kana": "これ は ほんとう の はなし です。",
+        "meaning": "Ini kisah nyata."
       },
       "level": "N5",
       "scope": "N5"
@@ -25201,9 +25203,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は急ぎます。",
-        "kana": "わたし は いそぎます。",
-        "meaning": "Saya terburu-buru."
+        "jp": "でんしゃにまにあうようにいそぎます。",
+        "kana": "でんしゃ に まにあう ように いそぎます。",
+        "meaning": "Saya bergegas agar tidak ketinggalan kereta."
       },
       "level": "N5",
       "scope": "N5"
@@ -25238,9 +25240,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は動きます。",
-        "kana": "わたし は うごきます。",
-        "meaning": "Saya bergerak."
+        "jp": "このとけいはまだうごいています。",
+        "kana": "この とけい は まだ うごいて います。",
+        "meaning": "Jam ini masih berjalan."
       },
       "level": "N5",
       "scope": "N5"
@@ -25275,9 +25277,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は送ります。",
-        "kana": "わたし は おくります。",
-        "meaning": "Saya mengirim."
+        "jp": "ともだちにメールをおくります。",
+        "kana": "ともだち に メール を おくります。",
+        "meaning": "Saya mengirim surel kepada teman."
       },
       "level": "N5",
       "scope": "N5"
@@ -25316,9 +25318,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は思います。",
-        "kana": "わたし は おもいます。",
-        "meaning": "Saya mengira."
+        "jp": "あしたはあめだとおもいます。",
+        "kana": "あした は あめ だ と おもいます。",
+        "meaning": "Saya rasa besok akan hujan."
       },
       "level": "N5",
       "scope": "N5"
@@ -25357,9 +25359,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は思い出します。",
-        "kana": "わたし は おもいだします。",
-        "meaning": "Saya teringat."
+        "jp": "このしゃしんをみると、ふるいともだちをおもいだします。",
+        "kana": "この しゃしん を みる と、ふるい ともだち を おもいだします。",
+        "meaning": "Melihat foto ini mengingatkan saya pada teman lama."
       },
       "level": "N5",
       "scope": "N5"
@@ -25394,9 +25396,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は勝ちます。",
-        "kana": "わたし は かちます。",
-        "meaning": "Saya menang."
+        "jp": "わたしたちのチームがしあいにかちました。",
+        "kana": "わたしたち の チーム が しあい に かちました。",
+        "meaning": "Tim kami memenangkan pertandingan."
       },
       "level": "N5",
       "scope": "N5"
@@ -25435,9 +25437,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は被ります。",
-        "kana": "わたし は かぶります。",
-        "meaning": "Saya memakai."
+        "jp": "そとにでるとき、ぼうしをかぶります。",
+        "kana": "そと に でる とき、ぼうし を かぶります。",
+        "meaning": "Saya memakai topi saat keluar rumah."
       },
       "level": "N5",
       "scope": "N5"
@@ -25472,9 +25474,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は触ります。",
-        "kana": "わたし は さわります。",
-        "meaning": "Saya menyentuh."
+        "jp": "このきかいにさわらないでください。",
+        "kana": "この きかい に さわらないで ください。",
+        "meaning": "Tolong jangan sentuh mesin ini."
       },
       "level": "N5",
       "scope": "N5"
@@ -25509,9 +25511,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は連れていきます。",
-        "kana": "わたし は つれていきます。",
-        "meaning": "Saya pergi mengantar."
+        "jp": "こどもをこうえんにつれていきます。",
+        "kana": "こども を こうえん に つれて いきます。",
+        "meaning": "Saya mengajak anak pergi ke taman."
       },
       "level": "N5",
       "scope": "N5"
@@ -25546,9 +25548,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は手伝います。",
-        "kana": "わたし は てつだいます。",
-        "meaning": "Saya membantu."
+        "jp": "ははのりょうりをてつだいます。",
+        "kana": "はは の りょうり を てつだいます。",
+        "meaning": "Saya membantu ibu memasak."
       },
       "level": "N5",
       "scope": "N5"
@@ -25581,9 +25583,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は泊まります。",
-        "kana": "わたし は とまります。",
-        "meaning": "Saya menginap."
+        "jp": "きょうはホテルにとまります。",
+        "kana": "きょう は ホテル に とまります。",
+        "meaning": "Hari ini saya menginap di hotel."
       },
       "level": "N5",
       "scope": "N5"
@@ -25618,9 +25620,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は直します。",
-        "kana": "わたし は なおします。",
-        "meaning": "Saya memperbaiki."
+        "jp": "こわれたいすをなおします。",
+        "kana": "こわれた いす を なおします。",
+        "meaning": "Saya memperbaiki kursi yang rusak."
       },
       "level": "N5",
       "scope": "N5"
@@ -25655,9 +25657,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は上ります。",
-        "kana": "わたし は のぼります。",
-        "meaning": "Saya mendaki."
+        "jp": "かいだんをのぼります。",
+        "kana": "かいだん を のぼります。",
+        "meaning": "Saya menaiki tangga."
       },
       "level": "N5",
       "scope": "N5"
@@ -25692,9 +25694,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は払います。",
-        "kana": "わたし は はらいます。",
-        "meaning": "Saya membayar."
+        "jp": "レジでおかねをはらいます。",
+        "kana": "レジ で おかね を はらいます。",
+        "meaning": "Saya membayar di kasir."
       },
       "level": "N5",
       "scope": "N5"
@@ -25733,9 +25735,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は回します。",
-        "kana": "わたし は まわします。",
-        "meaning": "Saya memutar."
+        "jp": "このつまみをみぎにまわします。",
+        "kana": "この つまみ を みぎ に まわします。",
+        "meaning": "Saya memutar kenop ini ke kanan."
       },
       "level": "N5",
       "scope": "N5"
@@ -25770,9 +25772,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は持っていきます。",
-        "kana": "わたし は もっていきます。",
-        "meaning": "Saya pergi membawa."
+        "jp": "あした、おべんとうをもっていきます。",
+        "kana": "あした、おべんとう を もって いきます。",
+        "meaning": "Besok saya membawa bekal."
       },
       "level": "N5",
       "scope": "N5"
@@ -25811,9 +25813,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は貰います。",
-        "kana": "わたし は もらいます。",
-        "meaning": "Saya menerima."
+        "jp": "たんじょうびにともだちからほんをもらいました。",
+        "kana": "たんじょうび に ともだち から ほん を もらいました。",
+        "meaning": "Saya menerima buku dari teman pada hari ulang tahun saya."
       },
       "level": "N5",
       "scope": "N5"
@@ -25920,9 +25922,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は集めます。",
-        "kana": "わたし は あつめます。",
-        "meaning": "Saya mengumpulkan."
+        "jp": "おとうとはきってをあつめています。",
+        "kana": "おとうと は きって を あつめて います。",
+        "meaning": "Adik laki-laki saya mengumpulkan perangko."
       },
       "level": "N5",
       "scope": "N5"
@@ -25957,9 +25959,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は変えます。",
-        "kana": "わたし は かえます。",
-        "meaning": "Saya mengganti."
+        "jp": "かいぎのじかんをかえます。",
+        "kana": "かいぎ の じかん を かえます。",
+        "meaning": "Kami mengubah waktu rapat."
       },
       "level": "N5",
       "scope": "N5"
@@ -25994,9 +25996,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は考えます。",
-        "kana": "わたし は かんがえます。",
-        "meaning": "Saya memikirkan."
+        "jp": "あしたのよていをかんがえます。",
+        "kana": "あした の よてい を かんがえます。",
+        "meaning": "Saya memikirkan rencana untuk besok."
       },
       "level": "N5",
       "scope": "N5"
@@ -26068,9 +26070,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私はくれます。",
-        "kana": "わたし は くれます。",
-        "meaning": "Saya memberi."
+        "jp": "あねがわたしにマフラーをくれました。",
+        "kana": "あね が わたし に マフラー を くれました。",
+        "meaning": "Kakak perempuan saya memberi saya syal."
       },
       "level": "N5",
       "scope": "N5"
@@ -26105,9 +26107,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は調べます。",
-        "kana": "わたし は しらべます。",
-        "meaning": "Saya memeriksa."
+        "jp": "じしょでことばのいみをしらべます。",
+        "kana": "じしょ で ことば の いみ を しらべます。",
+        "meaning": "Saya mencari arti kata di kamus."
       },
       "level": "N5",
       "scope": "N5"
@@ -26142,9 +26144,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は捨てます。",
-        "kana": "わたし は すてます。",
-        "meaning": "Saya membuang."
+        "jp": "ごみをごみばこにすてます。",
+        "kana": "ごみ を ごみばこ に すてます。",
+        "meaning": "Saya membuang sampah ke tempat sampah."
       },
       "level": "N5",
       "scope": "N5"
@@ -26216,9 +26218,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は止めます。",
-        "kana": "わたし は とめます。",
-        "meaning": "Saya menghentikan."
+        "jp": "ちゅうしゃじょうにくるまをとめます。",
+        "kana": "ちゅうしゃじょう に くるま を とめます。",
+        "meaning": "Saya memarkir mobil di tempat parkir."
       },
       "level": "N5",
       "scope": "N5"
@@ -26257,9 +26259,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は乗り換えます。",
-        "kana": "わたし は のりかえます。",
-        "meaning": "Saya ganti kendaraan."
+        "jp": "つぎのえきでちかてつにのりかえます。",
+        "kana": "つぎ の えき で ちかてつ に のりかえます。",
+        "meaning": "Saya berganti ke kereta bawah tanah di stasiun berikutnya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -26294,9 +26296,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は始めます。",
-        "kana": "わたし は はじめます。",
-        "meaning": "Saya memulai."
+        "jp": "あしたからにほんごのべんきょうをはじめます。",
+        "kana": "あした から にほんご の べんきょう を はじめます。",
+        "meaning": "Saya mulai belajar bahasa Jepang besok."
       },
       "level": "N5",
       "scope": "N5"
@@ -26331,9 +26333,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は負けます。",
-        "kana": "わたし は まけます。",
-        "meaning": "Saya kalah."
+        "jp": "わたしたちのチームはしあいにまけました。",
+        "kana": "わたしたち の チーム は しあい に まけました。",
+        "meaning": "Tim kami kalah dalam pertandingan."
       },
       "level": "N5",
       "scope": "N5"
@@ -26368,9 +26370,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は迎えます。",
-        "kana": "わたし は むかえます。",
-        "meaning": "Saya menjemput."
+        "jp": "くうこうでともだちをむかえます。",
+        "kana": "くうこう で ともだち を むかえます。",
+        "meaning": "Saya menjemput teman di bandara."
       },
       "level": "N5",
       "scope": "N5"
@@ -26409,9 +26411,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は辞めます。",
-        "kana": "わたし は やめます。",
-        "meaning": "Saya berhenti."
+        "jp": "らいげつ、いまのしごとをやめます。",
+        "kana": "らいげつ、いま の しごと を やめます。",
+        "meaning": "Bulan depan saya berhenti dari pekerjaan saya sekarang."
       },
       "level": "N5",
       "scope": "N5"
@@ -26446,9 +26448,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は案内します。",
-        "kana": "わたし は あんないします。",
-        "meaning": "Saya mengantarkan untuk melihat-lihat."
+        "jp": "おきゃくさんをかいぎしつにあんないします。",
+        "kana": "おきゃくさん を かいぎしつ に あんない します。",
+        "meaning": "Saya mengantar tamu ke ruang rapat."
       },
       "level": "N5",
       "scope": "N5"
@@ -26487,9 +26489,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は運転します。",
-        "kana": "わたし は うんてんします。",
-        "meaning": "Saya mengemudikan."
+        "jp": "ちちはまいにちくるまをうんてんします。",
+        "kana": "ちち は まいにち くるま を うんてん します。",
+        "meaning": "Ayah mengemudikan mobil setiap hari."
       },
       "level": "N5",
       "scope": "N5"
@@ -26524,9 +26526,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は買い物します。",
-        "kana": "わたし は かいものします。",
-        "meaning": "Saya berbelanja."
+        "jp": "しゅうまつにスーパーでかいものします。",
+        "kana": "しゅうまつ に スーパー で かいもの します。",
+        "meaning": "Saya berbelanja di supermarket pada akhir pekan."
       },
       "level": "N5",
       "scope": "N5"
@@ -26561,9 +26563,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は結婚します。",
-        "kana": "わたし は けっこんします。",
-        "meaning": "Saya menikah."
+        "jp": "あねはらいねんけっこんします。",
+        "kana": "あね は らいねん けっこん します。",
+        "meaning": "Kakak perempuan saya akan menikah tahun depan."
       },
       "level": "N5",
       "scope": "N5"
@@ -26598,9 +26600,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は見学します。",
-        "kana": "わたし は けんがくします。",
-        "meaning": "Saya meninjau."
+        "jp": "がっこうのみんなでこうじょうをけんがくします。",
+        "kana": "がっこう の みんな で こうじょう を けんがく します。",
+        "meaning": "Kami mengunjungi pabrik bersama teman-teman sekolah untuk belajar."
       },
       "level": "N5",
       "scope": "N5"
@@ -26635,9 +26637,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は研究します。",
-        "kana": "わたし は けんきゅうします。",
-        "meaning": "Saya meneliti."
+        "jp": "だいがくでにほんのれきしをけんきゅうします。",
+        "kana": "だいがく で にほん の れきし を けんきゅう します。",
+        "meaning": "Saya meneliti sejarah Jepang di universitas."
       },
       "level": "N5",
       "scope": "N5"
@@ -26676,9 +26678,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は散歩します。",
-        "kana": "わたし は さんぽします。",
-        "meaning": "Saya berjalan-jalan."
+        "jp": "まいあさいぬとさんぽします。",
+        "kana": "まいあさ いぬ と さんぽ します。",
+        "meaning": "Saya berjalan-jalan bersama anjing setiap pagi."
       },
       "level": "N5",
       "scope": "N5"
@@ -26713,9 +26715,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は残業します。",
-        "kana": "わたし は ざんぎょうします。",
-        "meaning": "Saya lembur."
+        "jp": "きょうはいちじかんざんぎょうします。",
+        "kana": "きょう は いちじかん ざんぎょう します。",
+        "meaning": "Hari ini saya lembur satu jam."
       },
       "level": "N5",
       "scope": "N5"
@@ -26754,9 +26756,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は修理します。",
-        "kana": "わたし は しゅうりします。",
-        "meaning": "Saya memperbaiki."
+        "jp": "こわれたじてんしゃをしゅうりします。",
+        "kana": "こわれた じてんしゃ を しゅうり します。",
+        "meaning": "Saya memperbaiki sepeda yang rusak."
       },
       "level": "N5",
       "scope": "N5"
@@ -26795,9 +26797,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は出張します。",
-        "kana": "わたし は しゅっちょうします。",
-        "meaning": "Saya dinas keluar kota."
+        "jp": "らいしゅう、おおさかにしゅっちょうします。",
+        "kana": "らいしゅう、おおさか に しゅっちょう します。",
+        "meaning": "Minggu depan saya melakukan perjalanan dinas ke Osaka."
       },
       "level": "N5",
       "scope": "N5"
@@ -26836,9 +26838,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は紹介します。",
-        "kana": "わたし は しょうかいします。",
-        "meaning": "Saya memperkenalkan."
+        "jp": "あたらしいともだちをしょうかいします。",
+        "kana": "あたらしい ともだち を しょうかい します。",
+        "meaning": "Saya memperkenalkan teman baru."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -26873,9 +26875,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は食事します。",
-        "kana": "わたし は しょくじします。",
-        "meaning": "Saya makan."
+        "jp": "ともだちとレストランでしょくじします。",
+        "kana": "ともだち と レストラン で しょくじ します。",
+        "meaning": "Saya makan bersama teman di restoran."
       },
       "level": "N5",
       "scope": "N5"
@@ -26914,9 +26916,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は心配します。",
-        "kana": "わたし は しんぱいします。",
-        "meaning": "Saya khawatir."
+        "jp": "はははわたしのからだをしんぱいしています。",
+        "kana": "はは は わたし の からだ を しんぱい して います。",
+        "meaning": "Ibu mengkhawatirkan kesehatan saya."
       },
       "level": "N5",
       "scope": "N5"
@@ -26955,9 +26957,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は説明します。",
-        "kana": "わたし は せつめいします。",
-        "meaning": "Saya menjelaskan."
+        "jp": "せんせいがやりかたをせつめいします。",
+        "kana": "せんせい が やりかた を せつめい します。",
+        "meaning": "Guru menjelaskan caranya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -26992,9 +26994,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は洗濯します。",
-        "kana": "わたし は せんたくします。",
-        "meaning": "Saya mencuci."
+        "jp": "にちようびにふくをせんたくします。",
+        "kana": "にちようび に ふく を せんたく します。",
+        "meaning": "Saya mencuci pakaian pada hari Minggu."
       },
       "level": "N5",
       "scope": "N5"
@@ -27037,9 +27039,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は掃除します。",
-        "kana": "わたし は そうじします。",
-        "meaning": "Saya membersihkan."
+        "jp": "まいあさへやをそうじします。",
+        "kana": "まいあさ へや を そうじ します。",
+        "meaning": "Saya membersihkan kamar setiap pagi."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -27074,9 +27076,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は連れてきます。",
-        "kana": "わたし は つれてきます。",
-        "meaning": "Saya membawa."
+        "jp": "ともだちがいもうとをつれてきました。",
+        "kana": "ともだち が いもうと を つれて きました。",
+        "meaning": "Teman saya datang bersama adik perempuannya."
       },
       "level": "N5",
       "scope": "N5"
@@ -27152,9 +27154,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は引っ越しします。",
-        "kana": "わたし は ひっこしします。",
-        "meaning": "Saya pindah rumah."
+        "jp": "らいげつ、とうきょうにひっこしします。",
+        "kana": "らいげつ、とうきょう に ひっこし します。",
+        "meaning": "Bulan depan saya pindah ke Tokyo."
       },
       "level": "N5",
       "scope": "N5"
@@ -27238,9 +27240,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は持ってきます。",
-        "kana": "わたし は もってきます。",
-        "meaning": "Saya membawa."
+        "jp": "あした、じしょをもってきてください。",
+        "kana": "あした、じしょ を もって きて ください。",
+        "meaning": "Tolong bawa kamus ke sini besok."
       },
       "level": "N5",
       "scope": "N5"
@@ -27275,9 +27277,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は予約します。",
-        "kana": "わたし は よやくします。",
-        "meaning": "Saya memesan."
+        "jp": "でんわでレストランをよやくします。",
+        "kana": "でんわ で レストラン を よやく します。",
+        "meaning": "Saya memesan tempat di restoran melalui telepon."
       },
       "level": "N5",
       "scope": "N5"
@@ -27316,9 +27318,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は留学します。",
-        "kana": "わたし は りゅうがくします。",
-        "meaning": "Saya belajar di luar negeri."
+        "jp": "らいねん、にほんにりゅうがくします。",
+        "kana": "らいねん、にほん に りゅうがく します。",
+        "meaning": "Tahun depan saya akan belajar di Jepang."
       },
       "level": "N5",
       "scope": "N5"
@@ -27357,9 +27359,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は練習します。",
-        "kana": "わたし は れんしゅうします。",
-        "meaning": "Saya berlatih."
+        "jp": "まいにちピアノをれんしゅうします。",
+        "kana": "まいにち ピアノ を れんしゅう します。",
+        "meaning": "Saya berlatih piano setiap hari."
       },
       "level": "N5",
       "scope": "N5"
@@ -27709,9 +27711,9 @@
       "category": "expression",
       "subcategory": "Terima kasih & maaf",
       "example": {
-        "jp": "すみません。",
-        "kana": "すみません。",
-        "meaning": "permisi; maaf; terima kasih (sesuai konteks)."
+        "jp": "すみません、えきはどこですか。",
+        "kana": "すみません、えき は どこ です か。",
+        "meaning": "Permisi, stasiun ada di mana?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -27828,9 +27830,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "おめでとうございます。",
-        "kana": "おめでとうございます。",
-        "meaning": "selamat!."
+        "jp": "おたんじょうびおめでとうございます。",
+        "kana": "おたんじょうび おめでとう ございます。",
+        "meaning": "Selamat ulang tahun."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -28214,9 +28216,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "わかりますか。",
-        "kana": "わかりますか。",
-        "meaning": "apakah Anda paham/mengerti?."
+        "jp": "このことばのいみがわかりますか。",
+        "kana": "この ことば の いみ が わかります か。",
+        "meaning": "Apakah Anda memahami arti kata ini?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -28243,9 +28245,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "できますか。",
-        "kana": "できますか。",
-        "meaning": "apakah Anda bisa?."
+        "jp": "にほんごではなすことができますか。",
+        "kana": "にほんご で はなす こと が できます か。",
+        "meaning": "Apakah Anda bisa berbicara dalam bahasa Jepang?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -28446,9 +28448,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "何ですか。",
-        "kana": "なんですか。",
-        "meaning": "apa?."
+        "jp": "これはなんですか。",
+        "kana": "これ は なん です か。",
+        "meaning": "Ini apa?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -28475,9 +28477,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "何と言いますか。",
-        "kana": "なんといいますか。",
-        "meaning": "apakah penyebutannya?."
+        "jp": "これはにほんごでなんといいますか。",
+        "kana": "これ は にほんご で なん と いいます か。",
+        "meaning": "Apa sebutan benda ini dalam bahasa Jepang?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -28678,9 +28680,9 @@
       "category": "expression",
       "subcategory": "Sapaan & perkenalan",
       "example": {
-        "jp": "これははじめましてです。",
-        "kana": "これ は はじめまして です。",
-        "meaning": "Ini halo."
+        "jp": "はじめまして。わたしはアリです。",
+        "kana": "はじめまして。わたし は アリ です。",
+        "meaning": "Salam kenal. Saya Ali."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -28979,8 +28981,8 @@
       "subcategory": "Sapaan & perkenalan",
       "example": {
         "jp": "どちらからですか。",
-        "kana": "どちらからですか。",
-        "meaning": "anda berasal dari mana?."
+        "kana": "どちら から です か。",
+        "meaning": "Anda berasal dari mana?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -29036,9 +29038,9 @@
       "category": "noun",
       "subcategory": "Orang & identitas",
       "example": {
-        "jp": "国籍へ行きます。",
-        "kana": "こくせき へ いきます。",
-        "meaning": "Saya pergi ke kewarganegaraan."
+        "jp": "こくせきをかいてください。",
+        "kana": "こくせき を かいて ください。",
+        "meaning": "Tolong tuliskan kewarganegaraan Anda."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -29363,9 +29365,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "夫を食べます。",
-        "kana": "おっと を たべます。",
-        "meaning": "Saya makan suami."
+        "jp": "おっとはかいしゃではたらいています。",
+        "kana": "おっと は かいしゃ で はたらいて います。",
+        "meaning": "Suami saya bekerja di perusahaan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -29519,9 +29521,9 @@
       "category": "number",
       "subcategory": "Orang & usia",
       "example": {
-        "jp": "これは何歳です。",
-        "kana": "これ は なんさい です。",
-        "meaning": "Ini berapa usianya?."
+        "jp": "おこさんはなんさいですか。",
+        "kana": "おこさん は なんさい です か。",
+        "meaning": "Berapa usia anak Anda?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -30189,9 +30191,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはすごいです。",
-        "kana": "この かばん は すごいです。",
-        "meaning": "Tas ini wah."
+        "jp": "このえはすごいですね。",
+        "kana": "この え は すごい です ね。",
+        "meaning": "Lukisan ini hebat, ya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -30247,9 +30249,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "だいじょうぶですか。",
-        "kana": "だいじょうぶですか。",
-        "meaning": "apa Anda bisa (makan)?."
+        "jp": "からだはだいじょうぶですか。",
+        "kana": "からだ は だいじょうぶ です か。",
+        "meaning": "Apakah kondisi badan Anda baik-baik saja?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -30554,9 +30556,9 @@
       "category": "noun",
       "subcategory": "Makanan & bahan masak",
       "example": {
-        "jp": "これはサラダです。",
-        "kana": "これ は サラダ です。",
-        "meaning": "Ini selada."
+        "jp": "サラダにトマトをいれます。",
+        "kana": "サラダ に トマト を いれます。",
+        "meaning": "Saya memasukkan tomat ke salad."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -31603,8 +31605,8 @@
       "subcategory": "Tanggapan & perasaan",
       "example": {
         "jp": "ここ、いいですか。",
-        "kana": "ここ、いいですか。",
-        "meaning": "bolehkah saya duduk di sini?."
+        "kana": "ここ、いい です か。",
+        "meaning": "Bolehkah saya duduk di sini?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -32101,9 +32103,9 @@
       "category": "noun",
       "subcategory": "Makanan & bahan masak",
       "example": {
-        "jp": "おつまみを飲みます。",
-        "kana": "おつまみ を のみます。",
-        "meaning": "Saya minum makanan pendamping minuman beralkohol."
+        "jp": "おつまみをたのみました。",
+        "kana": "おつまみ を たのみました。",
+        "meaning": "Saya memesan makanan pendamping minuman."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -32246,9 +32248,9 @@
       "category": "noun",
       "subcategory": "Minuman",
       "example": {
-        "jp": "この人は日本酒です。",
-        "kana": "この ひと は にほんしゅ です。",
-        "meaning": "Orang ini sake."
+        "jp": "このみせにはにほんしゅがあります。",
+        "kana": "この みせ に は にほんしゅ が あります。",
+        "meaning": "Di toko ini ada sake Jepang."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -32747,9 +32749,9 @@
       "category": "noun",
       "subcategory": "Dapur & alat makan",
       "example": {
-        "jp": "取り皿を食べます。",
-        "kana": "とりざら を たべます。",
-        "meaning": "Saya makan piring kecil."
+        "jp": "とりざらをにまいください。",
+        "kana": "とりざら を にまい ください。",
+        "meaning": "Tolong beri dua piring kecil untuk membagi hidangan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -32809,9 +32811,9 @@
       "category": "noun",
       "subcategory": "Tempat & fasilitas",
       "example": {
-        "jp": "居酒屋を飲みます。",
-        "kana": "いざかや を のみます。",
-        "meaning": "Saya minum izakaya."
+        "jp": "ともだちといざかやにいきました。",
+        "kana": "ともだち と いざかや に いきました。",
+        "meaning": "Saya pergi ke kedai makan dan minum bersama teman."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -33231,9 +33233,9 @@
       "category": "noun",
       "subcategory": "Dapur & alat makan",
       "example": {
-        "jp": "炊飯器を食べます。",
-        "kana": "すいはんき を たべます。",
-        "meaning": "Saya makan penanak nasi."
+        "jp": "すいはんきでごはんをたきます。",
+        "kana": "すいはんき で ごはん を たきます。",
+        "meaning": "Saya menanak nasi dengan penanak nasi."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -33260,9 +33262,9 @@
       "category": "noun",
       "subcategory": "Dapur & alat makan",
       "example": {
-        "jp": "トースターを食べます。",
-        "kana": "トースター を たべます。",
-        "meaning": "Saya makan pemanggang roti."
+        "jp": "トースターでパンをやきます。",
+        "kana": "トースター で パン を やきます。",
+        "meaning": "Saya memanggang roti dengan pemanggang roti."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -33347,9 +33349,9 @@
       "category": "adverb",
       "subcategory": "Cara & keadaan",
       "example": {
-        "jp": "みんなで勉強します。",
-        "kana": "みんなで べんきょうします。",
-        "meaning": "Saya belajar bersama-sama."
+        "jp": "みんなでへやをそうじしましょう。",
+        "kana": "みんな で へや を そうじ しましょう。",
+        "meaning": "Ayo bersihkan kamar bersama-sama."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -33887,9 +33889,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは手洗いです。",
-        "kana": "この かばん は てあらいです。",
-        "meaning": "Tas ini mode pencucian hand wash."
+        "jp": "このセーターはてあらいであらいます。",
+        "kana": "この セーター は てあらい で あらいます。",
+        "meaning": "Saya mencuci sweter ini dengan tangan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -34538,9 +34540,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は着替えます。",
-        "kana": "わたし は きがえる。",
-        "meaning": "Saya berganti pakaian."
+        "jp": "しごとのまえにせいふくにきがえます。",
+        "kana": "しごと の まえ に せいふく に きがえます。",
+        "meaning": "Saya berganti ke seragam sebelum bekerja."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -34573,9 +34575,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "肉は食べますが、魚は食べません。",
-        "kana": "にく は たべます が、さかな は たべません。",
-        "meaning": "Daging saya makan, tetapi ikan tidak."
+        "jp": "まいあさしちじにごはんをたべます。",
+        "kana": "まいあさ しちじ に ごはん を たべます。",
+        "meaning": "Saya makan setiap pagi pukul tujuh."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -34610,9 +34612,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私はいれます。",
-        "kana": "わたし は いれます。",
-        "meaning": "Saya membuat/menyeduh teh."
+        "jp": "おきゃくさんにおちゃをいれます。",
+        "kana": "おきゃくさん に おちゃ を いれます。",
+        "meaning": "Saya menyeduh teh untuk tamu."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -34645,9 +34647,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "今日は勉強します。",
-        "kana": "きょう は べんきょうします。",
-        "meaning": "Hari ini saya belajar."
+        "jp": "あしたのあさ、うちあわせをします。",
+        "kana": "あした の あさ、うちあわせ を します。",
+        "meaning": "Kami mengadakan rapat koordinasi besok pagi."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -34881,9 +34883,9 @@
       "category": "noun",
       "subcategory": "Pekerjaan & kantor",
       "example": {
-        "jp": "コピー機を飲みます。",
-        "kana": "コピーき を のみます。",
-        "meaning": "Saya minum mesin fotokopi."
+        "jp": "コピーきでしょるいをコピーします。",
+        "kana": "コピーき で しょるい を コピー します。",
+        "meaning": "Saya memfotokopi dokumen dengan mesin fotokopi."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -35480,7 +35482,7 @@
     {
       "jp": "15分",
       "kana": "じゅうごふん",
-      "meaning": "~ :15 / ~ lewat seperempat",
+      "meaning": "15 menit; lewat lima belas menit",
       "sources": [
         {
           "id": 3,
@@ -35499,9 +35501,9 @@
       "category": "number",
       "subcategory": "Jam & durasi",
       "example": {
-        "jp": "これは15分です。",
-        "kana": "これ は じゅうごふん です。",
-        "meaning": "Ini ~ :15 / ~ lewat seperempat."
+        "jp": "いまはくじじゅうごふんです。",
+        "kana": "いま は くじ じゅうごふん です。",
+        "meaning": "Sekarang pukul sembilan lewat lima belas menit."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -35509,7 +35511,7 @@
     {
       "jp": "30分",
       "kana": "さんじゅっぷん",
-      "meaning": "~ :30 / setengah ~",
+      "meaning": "30 menit; lewat tiga puluh menit",
       "sources": [
         {
           "id": 3,
@@ -35532,9 +35534,9 @@
       "category": "number",
       "subcategory": "Jam & durasi",
       "example": {
-        "jp": "これは30分です。",
-        "kana": "これ は さんじゅっぷん です。",
-        "meaning": "Ini ~ :30 / setengah ~."
+        "jp": "じゅぎょうはじゅうじさんじゅっぷんからです。",
+        "kana": "じゅぎょう は じゅうじ さんじゅっぷん から です。",
+        "meaning": "Pelajaran dimulai pukul setengah sebelas."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -35542,7 +35544,7 @@
     {
       "jp": "45分",
       "kana": "よんじゅうごふん",
-      "meaning": "~ :45 / ~ kurang lima belas menit",
+      "meaning": "45 menit; lewat empat puluh lima menit",
       "sources": [
         {
           "id": 3,
@@ -35561,9 +35563,9 @@
       "category": "number",
       "subcategory": "Jam & durasi",
       "example": {
-        "jp": "45分勉強します。",
-        "kana": "よんじゅうごふん べんきょうします。",
-        "meaning": "Saya belajar selama ~ :45 / ~ kurang lima belas menit."
+        "jp": "よんじゅうごふんべんきょうしました。",
+        "kana": "よんじゅうごふん べんきょう しました。",
+        "meaning": "Saya belajar selama empat puluh lima menit."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -35619,9 +35621,9 @@
       "category": "adverb",
       "subcategory": "Frekuensi",
       "example": {
-        "jp": "だいたい勉強します。",
-        "kana": "だいたい べんきょうします。",
-        "meaning": "Saya belajar biasanya."
+        "jp": "しごとはだいたいおわりました。",
+        "kana": "しごと は だいたい おわりました。",
+        "meaning": "Pekerjaannya sudah hampir selesai."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -35826,9 +35828,9 @@
       "category": "noun",
       "subcategory": "Pekerjaan & kantor",
       "example": {
-        "jp": "朝礼を食べます。",
-        "kana": "ちょうれい を たべます。",
-        "meaning": "Saya makan apel pagi."
+        "jp": "くじからちょうれいがあります。",
+        "kana": "くじ から ちょうれい が あります。",
+        "meaning": "Ada pengarahan pagi mulai pukul sembilan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -36232,9 +36234,9 @@
       "category": "expression",
       "subcategory": "Kata tanya",
       "example": {
-        "jp": "何曜日に友達に会います。",
-        "kana": "なんようび に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada hari apa."
+        "jp": "きょうはなんようびですか。",
+        "kana": "きょう は なんようび です か。",
+        "meaning": "Hari ini hari apa?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -36261,9 +36263,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんはだいじょうぶです。",
-        "kana": "この かばん は だいじょうぶです。",
-        "meaning": "Tas ini bisa."
+        "jp": "このじかんでだいじょうぶですか。",
+        "kana": "この じかん で だいじょうぶ です か。",
+        "meaning": "Apakah waktu ini cocok?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -36296,9 +36298,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんはだめです。",
-        "kana": "この かばん は だめです。",
-        "meaning": "Tas ini tidak bisa."
+        "jp": "ここではしゃしんをとってはだめです。",
+        "kana": "ここ で は しゃしん を とって は だめ です。",
+        "meaning": "Tidak boleh mengambil foto di sini."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -36598,9 +36600,9 @@
       "category": "expression",
       "subcategory": "Permintaan & instruksi",
       "example": {
-        "jp": "片付けてください。",
-        "kana": "かたづけてください。",
-        "meaning": ")(Tolong) rapikan."
+        "jp": "このへやをかたづけてください。",
+        "kana": "この へや を かたづけて ください。",
+        "meaning": "Tolong rapikan kamar ini."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -36758,9 +36760,9 @@
       "category": "expression",
       "subcategory": "Permintaan & instruksi",
       "example": {
-        "jp": "手伝ってください。",
-        "kana": "てつだってください。",
-        "meaning": ")(Tolong) bantu."
+        "jp": "このにもつをはこぶのをてつだってください。",
+        "kana": "この にもつ を はこぶ の を てつだって ください。",
+        "meaning": "Tolong bantu saya membawa barang ini."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -36816,9 +36818,9 @@
       "category": "noun",
       "subcategory": "Pekerjaan & kantor",
       "example": {
-        "jp": "コピーを飲みます。",
-        "kana": "コピー を のみます。",
-        "meaning": "Saya minum fotokopi."
+        "jp": "このしょるいのコピーをとります。",
+        "kana": "この しょるい の コピー を とります。",
+        "meaning": "Saya membuat salinan dokumen ini."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -37643,9 +37645,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "これはありますよです。",
-        "kana": "これ は ありますよ です。",
-        "meaning": "Ini saya punya/ ada."
+        "jp": "ペンなら、ここにありますよ。",
+        "kana": "ペン なら、ここ に あります よ。",
+        "meaning": "Kalau pena, ada di sini, lho."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -38252,9 +38254,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "これはそうですねえです。",
-        "kana": "これ は そうですねえ です。",
-        "meaning": "Ini apa."
+        "jp": "そうですねえ、すこしかんがえます。",
+        "kana": "そうです ねえ、すこし かんがえます。",
+        "meaning": "Hmm, saya pikirkan sebentar."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -38426,9 +38428,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "この人はミステリーです。",
-        "kana": "この ひと は ミステリー です。",
-        "meaning": "Orang ini misteri."
+        "jp": "ミステリーのしょうせつをよむのがすきです。",
+        "kana": "ミステリー の しょうせつ を よむ の が すき です。",
+        "meaning": "Saya suka membaca novel misteri."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -38757,9 +38759,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私はゆっくりします。",
-        "kana": "わたし は ゆっくりします。",
-        "meaning": "Saya bersantai."
+        "jp": "しゅうまつはいえでゆっくりします。",
+        "kana": "しゅうまつ は いえ で ゆっくり します。",
+        "meaning": "Saya bersantai di rumah pada akhir pekan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -38815,9 +38817,9 @@
       "category": "adverb",
       "subcategory": "Frekuensi",
       "example": {
-        "jp": "たいてい勉強します。",
-        "kana": "たいてい べんきょうします。",
-        "meaning": "Saya belajar umumnya."
+        "jp": "にちようびはたいていいえにいます。",
+        "kana": "にちようび は たいてい いえ に います。",
+        "meaning": "Biasanya saya berada di rumah pada hari Minggu."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -38931,9 +38933,9 @@
       "category": "adverb",
       "subcategory": "Cara & keadaan",
       "example": {
-        "jp": "これは1人でです。",
-        "kana": "これ は ひとりで です。",
-        "meaning": "Ini sendirian."
+        "jp": "ひとりでえいがをみにいきました。",
+        "kana": "ひとり で えいが を みに いきました。",
+        "meaning": "Saya pergi menonton film sendirian."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -38970,9 +38972,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私はごろごろします。",
-        "kana": "わたし は ごろごろします。",
-        "meaning": "Saya bermalas-malasan."
+        "jp": "やすみのひはいえでごろごろします。",
+        "kana": "やすみ の ひ は いえ で ごろごろ します。",
+        "meaning": "Saya bermalas-malasan di rumah pada hari libur."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -39231,9 +39233,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "夏祭り、勉強します。",
-        "kana": "なつまつり、べんきょうします。",
-        "meaning": "Festival musim panas, saya belajar."
+        "jp": "なつまつりでゆかたをきます。",
+        "kana": "なつまつり で ゆかた を きます。",
+        "meaning": "Saya memakai yukata di festival musim panas."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -40396,9 +40398,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "何月に友達に会います。",
-        "kana": "なんがつ に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada bulan apa."
+        "jp": "たんじょうびはなんがつですか。",
+        "kana": "たんじょうび は なんがつ です か。",
+        "meaning": "Ulang tahunmu bulan apa?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41005,9 +41007,9 @@
       "category": "number",
       "subcategory": "Tanggal & kalender",
       "example": {
-        "jp": "これは何日です。",
-        "kana": "これ は なんにち です。",
-        "meaning": "Ini tanggal berapa."
+        "jp": "きょうはなんにちですか。",
+        "kana": "きょう は なんにち です か。",
+        "meaning": "Hari ini tanggal berapa?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41092,9 +41094,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "忘年会、勉強します。",
-        "kana": "ぼうねんかい、べんきょうします。",
-        "meaning": "Pesta akhir tahun, saya belajar."
+        "jp": "らいしゅう、かいしゃのぼうねんかいがあります。",
+        "kana": "らいしゅう、かいしゃ の ぼうねんかい が あります。",
+        "meaning": "Minggu depan ada pesta akhir tahun kantor."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41328,9 +41330,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "飲み会を飲みます。",
-        "kana": "のみかい を のみます。",
-        "meaning": "Saya minum pesta minum."
+        "jp": "きんようびにのみかいがあります。",
+        "kana": "きんようび に のみかい が あります。",
+        "meaning": "Ada acara minum bersama pada hari Jumat."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41386,9 +41388,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "これはまた今度です。",
-        "kana": "これ は またこんど です。",
-        "meaning": "Ini mungkin lain kali."
+        "jp": "きょうはいけません。またこんどおねがいします。",
+        "kana": "きょう は いけません。また こんど おねがい します。",
+        "meaning": "Hari ini saya tidak bisa pergi. Lain kali saja, ya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41415,9 +41417,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "この人は男はつらいよです。",
-        "kana": "この ひと は おとこはつらいよ です。",
-        "meaning": "Orang ini otoko wa tsurai yo."
+        "jp": "「おとこはつらいよ」というえいがをみました。",
+        "kana": "「おとこ は つらい よ」 という えいが を みました。",
+        "meaning": "Saya menonton film berjudul Otoko wa Tsurai yo."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41445,8 +41447,8 @@
       "subcategory": "Tanggapan & perasaan",
       "example": {
         "jp": "いいね。",
-        "kana": "いいね。",
-        "meaning": "boleh!."
+        "kana": "いい ね。",
+        "meaning": "Boleh juga!"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41477,9 +41479,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは残念です。",
-        "kana": "この かばん は ざんねんです。",
-        "meaning": "Tas ini sayang sekali."
+        "jp": "ともだちがこられなくて、ざんねんです。",
+        "kana": "ともだち が こられなくて、ざんねん です。",
+        "meaning": "Sayang sekali teman saya tidak bisa datang."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41767,9 +41769,9 @@
       "category": "noun",
       "subcategory": "Transportasi & perjalanan",
       "example": {
-        "jp": "これは快速です。",
-        "kana": "これ は かいそく です。",
-        "meaning": "Ini ."
+        "jp": "このかいそくはつぎのえきにはとまりません。",
+        "kana": "この かいそく は つぎ の えき に は とまりません。",
+        "meaning": "Kereta cepat ini tidak berhenti di stasiun berikutnya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41799,9 +41801,9 @@
       "category": "noun",
       "subcategory": "Transportasi & perjalanan",
       "example": {
-        "jp": "これは各駅停車です。",
-        "kana": "これ は かくえきていしゃ です。",
-        "meaning": "Ini ."
+        "jp": "かくえきていしゃはすべてのえきにとまります。",
+        "kana": "かくえきていしゃ は すべて の えき に とまります。",
+        "meaning": "Kereta lokal berhenti di semua stasiun."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -41857,9 +41859,9 @@
       "category": "number",
       "subcategory": "Nomor & urutan",
       "example": {
-        "jp": "これは何番線です。",
-        "kana": "これ は なんばんせん です。",
-        "meaning": "Ini peron berapa."
+        "jp": "つぎのでんしゃはなんばんせんですか。",
+        "kana": "つぎ の でんしゃ は なんばんせん です か。",
+        "meaning": "Kereta berikutnya berangkat dari peron berapa?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -42154,9 +42156,9 @@
       "category": "number",
       "subcategory": "Jam & durasi",
       "example": {
-        "jp": "これは1時間半です。",
-        "kana": "これ は いちじかんはん です。",
-        "meaning": "Ini 1."
+        "jp": "ここからくうこうまでいちじかんはんかかります。",
+        "kana": "ここ から くうこう まで いちじかんはん かかります。",
+        "meaning": "Dari sini ke bandara diperlukan waktu satu setengah jam."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -42653,9 +42655,9 @@
       "category": "noun",
       "subcategory": "Transportasi & perjalanan",
       "example": {
-        "jp": "歩いてへ行きます。",
-        "kana": "あるいて へ いきます。",
-        "meaning": "Saya pergi ke jalan kaki."
+        "jp": "まいにちがっこうまであるいていきます。",
+        "kana": "まいにち がっこう まで あるいて いきます。",
+        "meaning": "Saya berjalan kaki ke sekolah setiap hari."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -42682,9 +42684,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはどのぐらいです。",
-        "kana": "この かばん は どのぐらいです。",
-        "meaning": "Tas ini berapa lama."
+        "jp": "えきまでどのぐらいかかりますか。",
+        "kana": "えき まで どのぐらい かかります か。",
+        "meaning": "Berapa lama waktu yang diperlukan sampai stasiun?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -42711,9 +42713,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "雨の日に友達に会います。",
-        "kana": "あめのひ に ともだち に あいます。",
-        "meaning": "Saya bertemu teman pada ketika hujan."
+        "jp": "あめのひはバスでいきます。",
+        "kana": "あめ の ひ は バス で いきます。",
+        "meaning": "Pada hari hujan saya pergi dengan bus."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -43593,9 +43595,9 @@
       "category": "expression",
       "subcategory": "Permintaan & instruksi",
       "example": {
-        "jp": "これは見てです。",
-        "kana": "これ は みて です。",
-        "meaning": "Ini lihat itu!."
+        "jp": "あのとりをみて。",
+        "kana": "あの とり を みて。",
+        "meaning": "Lihat burung itu."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -43655,9 +43657,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは危険です。",
-        "kana": "この かばん は きけんです。",
-        "meaning": "Tas ini bahaya."
+        "jp": "ここでおよぐのはきけんです。",
+        "kana": "ここ で およぐ の は きけん です。",
+        "meaning": "Berenang di sini berbahaya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -43684,9 +43686,9 @@
       "category": "expression",
       "subcategory": "Permintaan & instruksi",
       "example": {
-        "jp": "これは注意です。",
-        "kana": "これ は ちゅうい です。",
-        "meaning": "Ini perhatian!."
+        "jp": "あしもとにちゅういしてください。",
+        "kana": "あしもと に ちゅうい して ください。",
+        "meaning": "Tolong perhatikan langkah Anda."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -43713,9 +43715,9 @@
       "category": "noun",
       "subcategory": "Transportasi & perjalanan",
       "example": {
-        "jp": "通行止へ行きます。",
-        "kana": "つうこうどめ へ いきます。",
-        "meaning": "Saya pergi ke jalan ditutup."
+        "jp": "このみちはつうこうどめです。",
+        "kana": "この みち は つうこうどめ です。",
+        "meaning": "Jalan ini ditutup untuk lalu lintas."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -43804,9 +43806,9 @@
       "category": "noun",
       "subcategory": "Belanja & uang",
       "example": {
-        "jp": "この人は定休日です。",
-        "kana": "この ひと は ていきゅうび です。",
-        "meaning": "Orang ini hari libur tetap."
+        "jp": "このみせのていきゅうびはげつようびです。",
+        "kana": "この みせ の ていきゅうび は げつようび です。",
+        "meaning": "Hari tutup tetap toko ini adalah Senin."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -43926,9 +43928,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "祝日を食べます。",
-        "kana": "しゅくじつ を たべます。",
-        "meaning": "Saya makan hari libur nasional."
+        "jp": "しゅくじつはがっこうがやすみです。",
+        "kana": "しゅくじつ は がっこう が やすみ です。",
+        "meaning": "Sekolah libur pada hari libur nasional."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -43984,9 +43986,9 @@
       "category": "noun",
       "subcategory": "Belanja & uang",
       "example": {
-        "jp": "年中無休、勉強します。",
-        "kana": "ねんじゅうむきゅう、べんきょうします。",
-        "meaning": "Buka sepanjang tahun, saya belajar."
+        "jp": "このコンビニはねんじゅうむきゅうです。",
+        "kana": "この コンビニ は ねんじゅうむきゅう です。",
+        "meaning": "Minimarket ini buka setiap hari sepanjang tahun."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44137,9 +44139,9 @@
       "category": "noun",
       "subcategory": "Belanja & uang",
       "example": {
-        "jp": "この人は休です。",
-        "kana": "この ひと は やすみ です。",
-        "meaning": "Orang ini libur."
+        "jp": "カレンダーのこのひには「やすみ」とかいてあります。",
+        "kana": "カレンダー の この ひ に は 「やすみ」 と かいて あります。",
+        "meaning": "Pada tanggal ini di kalender tertulis “libur”."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44398,9 +44400,9 @@
       "category": "noun",
       "subcategory": "Pakaian & aksesori",
       "example": {
-        "jp": "浴衣、勉強します。",
-        "kana": "ゆかた、べんきょうします。",
-        "meaning": "Yukata, saya belajar."
+        "jp": "なつまつりにゆかたをきていきます。",
+        "kana": "なつまつり に ゆかた を きて いきます。",
+        "meaning": "Saya mengenakan yukata ke festival musim panas."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44459,9 +44461,9 @@
       "category": "noun",
       "subcategory": "Dapur & alat makan",
       "example": {
-        "jp": "弁当箱へ行きます。",
-        "kana": "べんとうばこ へ いきます。",
-        "meaning": "Saya pergi ke kotak bekal."
+        "jp": "べんとうばこにごはんをいれます。",
+        "kana": "べんとうばこ に ごはん を いれます。",
+        "meaning": "Saya memasukkan nasi ke kotak bekal."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44517,9 +44519,9 @@
       "category": "noun",
       "subcategory": "Arah & posisi",
       "example": {
-        "jp": "駅前へ行きます。",
-        "kana": "えきまえ へ いきます。",
-        "meaning": "Saya pergi ke di depan stasiun."
+        "jp": "えきまえでともだちにあいます。",
+        "kana": "えきまえ で ともだち に あいます。",
+        "meaning": "Saya bertemu teman di depan stasiun."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44575,9 +44577,9 @@
       "category": "expression",
       "subcategory": "Makan & berbelanja",
       "example": {
-        "jp": "どこで買えますか。",
-        "kana": "どこでかえますか。",
-        "meaning": "di mana saya bisa membelinya?."
+        "jp": "どこでかえますか。",
+        "kana": "どこ で かえます か。",
+        "meaning": "Di mana saya bisa membelinya?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44691,9 +44693,9 @@
       "category": "noun",
       "subcategory": "Rumah & perabot",
       "example": {
-        "jp": "これは暮らしです。",
-        "kana": "これ は くらし です。",
-        "meaning": "Ini ."
+        "jp": "さんかいは「くらし」のフロアです。",
+        "kana": "さんかい は 「くらし」 の フロア です。",
+        "meaning": "Lantai tiga adalah bagian kebutuhan rumah tangga."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44749,9 +44751,9 @@
       "category": "noun",
       "subcategory": "Orang & identitas",
       "example": {
-        "jp": "この人はメンズです。",
-        "kana": "この ひと は メンズ です。",
-        "meaning": "Orang ini pria."
+        "jp": "メンズのふくはにかいにあります。",
+        "kana": "メンズ の ふく は にかい に あります。",
+        "meaning": "Pakaian pria ada di lantai dua."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44807,9 +44809,9 @@
       "category": "noun",
       "subcategory": "Orang & identitas",
       "example": {
-        "jp": "この人はレディースです。",
-        "kana": "この ひと は レディース です。",
-        "meaning": "Orang ini wanita."
+        "jp": "レディースのくつをさがしています。",
+        "kana": "レディース の くつ を さがして います。",
+        "meaning": "Saya sedang mencari sepatu wanita."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -44923,9 +44925,9 @@
       "category": "noun",
       "subcategory": "Rumah & perabot",
       "example": {
-        "jp": "生活用品、勉強します。",
-        "kana": "せいかつようひん、べんきょうします。",
-        "meaning": "Kebutuhan sehari-hari, saya belajar."
+        "jp": "スーパーでせいかつようひんをかいます。",
+        "kana": "スーパー で せいかつようひん を かいます。",
+        "meaning": "Saya membeli kebutuhan sehari-hari di supermarket."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -45391,9 +45393,9 @@
       "category": "noun",
       "subcategory": "Rumah & perabot",
       "example": {
-        "jp": "この人は延長コードです。",
-        "kana": "この ひと は えんちょうコード です。",
-        "meaning": "Orang ini kabel sambungan listrik."
+        "jp": "えんちょうコードをつかって、でんげんにつなぎます。",
+        "kana": "えんちょうコード を つかって、でんげん に つなぎます。",
+        "meaning": "Saya menyambungkannya ke sumber listrik dengan kabel ekstensi."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -45421,9 +45423,9 @@
       "category": "number",
       "subcategory": "Nomor & urutan",
       "example": {
-        "jp": "これは何階です。",
-        "kana": "これ は なんかい です。",
-        "meaning": "Ini lantai berapa."
+        "jp": "レストランはなんがいですか。",
+        "kana": "レストラン は なんがい です か。",
+        "meaning": "Restorannya di lantai berapa?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -45778,9 +45780,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはかっこいいです。",
-        "kana": "この かばん は かっこいいです。",
-        "meaning": "Tas ini keren."
+        "jp": "そのジャケットはかっこいいですね。",
+        "kana": "その ジャケット は かっこいい です ね。",
+        "meaning": "Jaket itu keren, ya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -45813,9 +45815,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんはすてきです。",
-        "kana": "この かばん は すてきです。",
-        "meaning": "Tas ini sangat bagus."
+        "jp": "すてきなプレゼントをもらいました。",
+        "kana": "すてきな プレゼント を もらいました。",
+        "meaning": "Saya menerima hadiah yang bagus."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -45846,9 +45848,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんはおしゃれです。",
-        "kana": "この かばん は おしゃれです。",
-        "meaning": "Tas ini modis."
+        "jp": "あねはいつもおしゃれです。",
+        "kana": "あね は いつも おしゃれ です。",
+        "meaning": "Kakak perempuan saya selalu tampil modis."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -45879,9 +45881,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは変です。",
-        "kana": "この かばん は へんです。",
-        "meaning": "Tas ini aneh."
+        "jp": "となりのへやからへんなおとがします。",
+        "kana": "となり の へや から へんな おと が します。",
+        "meaning": "Terdengar suara aneh dari kamar sebelah."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46065,9 +46067,9 @@
       "category": "expression",
       "subcategory": "Penghubung",
       "example": {
-        "jp": "朝ご飯を食べました。それに、学校へ行きました。",
-        "kana": "あさごはん を たべました。それに、がっこう へ いきました。",
-        "meaning": "Saya sarapan. Setelah itu, saya pergi ke sekolah."
+        "jp": "このみせはやすいです。それに、えきからちかいです。",
+        "kana": "この みせ は やすい です。それに、えき から ちかい です。",
+        "meaning": "Toko ini murah. Selain itu, dekat dari stasiun."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46190,9 +46192,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は閉じます。",
-        "kana": "わたし は とじます。",
-        "meaning": "Saya tutup."
+        "jp": "ほんをとじてください。",
+        "kana": "ほん を とじて ください。",
+        "meaning": "Tolong tutup bukunya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46654,9 +46656,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは1,000円です。",
-        "kana": "これ は せんえん です。",
-        "meaning": "Ini 1."
+        "jp": "このほんはせんえんです。",
+        "kana": "この ほん は せんえん です。",
+        "meaning": "Harga buku ini 1.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46683,9 +46685,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは2,000円です。",
-        "kana": "これ は にせんえん です。",
-        "meaning": "Ini 2."
+        "jp": "このほんはにせんえんです。",
+        "kana": "この ほん は にせんえん です。",
+        "meaning": "Harga buku ini 2.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46712,9 +46714,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは3,000円です。",
-        "kana": "これ は さんぜんえん です。",
-        "meaning": "Ini 3."
+        "jp": "このほんはさんぜんえんです。",
+        "kana": "この ほん は さんぜんえん です。",
+        "meaning": "Harga buku ini 3.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46741,9 +46743,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは4,000円です。",
-        "kana": "これ は よんせんえん です。",
-        "meaning": "Ini 4."
+        "jp": "このほんはよんせんえんです。",
+        "kana": "この ほん は よんせんえん です。",
+        "meaning": "Harga buku ini 4.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46770,9 +46772,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは5,000円です。",
-        "kana": "これ は ごせんえん です。",
-        "meaning": "Ini 5."
+        "jp": "このほんはごせんえんです。",
+        "kana": "この ほん は ごせんえん です。",
+        "meaning": "Harga buku ini 5.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46799,9 +46801,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは6,000円です。",
-        "kana": "これ は ろくせんえん です。",
-        "meaning": "Ini 6."
+        "jp": "このほんはろくせんえんです。",
+        "kana": "この ほん は ろくせんえん です。",
+        "meaning": "Harga buku ini 6.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46828,9 +46830,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは7,000円です。",
-        "kana": "これ は ななせんえん です。",
-        "meaning": "Ini 7."
+        "jp": "このほんはななせんえんです。",
+        "kana": "この ほん は ななせんえん です。",
+        "meaning": "Harga buku ini 7.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46857,9 +46859,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは8,000円です。",
-        "kana": "これ は はっせんえん です。",
-        "meaning": "Ini 8."
+        "jp": "このほんははっせんえんです。",
+        "kana": "この ほん は はっせんえん です。",
+        "meaning": "Harga buku ini 8.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46886,9 +46888,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは9,000円です。",
-        "kana": "これ は きゅうせんえん です。",
-        "meaning": "Ini 9."
+        "jp": "このほんはきゅうせんえんです。",
+        "kana": "この ほん は きゅうせんえん です。",
+        "meaning": "Harga buku ini 9.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46915,9 +46917,9 @@
       "category": "number",
       "subcategory": "Uang & harga",
       "example": {
-        "jp": "これは10,000円です。",
-        "kana": "これ は いちまんえん です。",
-        "meaning": "Ini 10."
+        "jp": "このほんはいちまんえんです。",
+        "kana": "この ほん は いちまんえん です。",
+        "meaning": "Harga buku ini 10.000 yen."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46944,9 +46946,9 @@
       "category": "noun",
       "subcategory": "Rumah & perabot",
       "example": {
-        "jp": "あそこに招き猫がいます。",
-        "kana": "あそこ に まねきねこ が います。",
-        "meaning": "Di sana ada maneki-neko."
+        "jp": "みせのいりぐちにまねきねこがあります。",
+        "kana": "みせ の いりぐち に まねきねこ が あります。",
+        "meaning": "Ada patung maneki-neko di pintu masuk toko."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -46973,9 +46975,9 @@
       "category": "expression",
       "subcategory": "Tanggapan & perasaan",
       "example": {
-        "jp": "このかばんはいいです。",
-        "kana": "この かばん は いいです。",
-        "meaning": "Tas ini bagus."
+        "jp": "このせきにすわってもいいですか。",
+        "kana": "この せき に すわって も いい です か。",
+        "meaning": "Bolehkah saya duduk di kursi ini?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -47645,9 +47647,9 @@
       "category": "number",
       "subcategory": "Satuan benda",
       "example": {
-        "jp": "何個を食べます。",
-        "kana": "なんこ を たべます。",
-        "meaning": "Saya makan berapa buah."
+        "jp": "りんごをなんこかいますか。",
+        "kana": "りんご を なんこ かいます か。",
+        "meaning": "Kamu membeli berapa buah apel?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -47682,9 +47684,9 @@
       "category": "verb",
       "subcategory": "Grup 2",
       "example": {
-        "jp": "私は温めます。",
-        "kana": "わたし は あたためます。",
-        "meaning": "Saya menghangatkan."
+        "jp": "でんしレンジでおべんとうをあたためます。",
+        "kana": "でんしレンジ で おべんとう を あたためます。",
+        "meaning": "Saya menghangatkan bekal dengan microwave."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -47748,9 +47750,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私はタッチします。",
-        "kana": "わたし は タッチします。",
-        "meaning": "Saya menempelkan."
+        "jp": "ここにカードをタッチします。",
+        "kana": "ここ に カード を タッチ します。",
+        "meaning": "Saya menempelkan kartu di sini."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -48096,9 +48098,9 @@
       "category": "noun",
       "subcategory": "Belanja & uang",
       "example": {
-        "jp": "これは表示価格よりです。",
-        "kana": "これ は ひょうじかかくより です。",
-        "meaning": "Ini dari harga tertera."
+        "jp": "このシャツはひょうじかかくよりやすいです。",
+        "kana": "この シャツ は ひょうじかかく より やすい です。",
+        "meaning": "Kemeja ini lebih murah daripada harga yang tertera."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -48361,9 +48363,9 @@
       "category": "expression",
       "subcategory": "Penghubung",
       "example": {
-        "jp": "朝ご飯を食べました。さらに、学校へ行きました。",
-        "kana": "あさごはん を たべました。さらに、がっこう へ いきました。",
-        "meaning": "Saya sarapan. Setelah itu, saya pergi ke sekolah."
+        "jp": "このパンはやすいです。さらに、きょうはわりびきがあります。",
+        "kana": "この パン は やすい です。さらに、きょう は わりびき が あります。",
+        "meaning": "Roti ini murah. Terlebih lagi, hari ini ada diskon."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -48593,9 +48595,9 @@
       "category": "noun",
       "subcategory": "Belanja & uang",
       "example": {
-        "jp": "これはレジにてです。",
-        "kana": "これ は レジにて です。",
-        "meaning": "Ini di kasir."
+        "jp": "レジにておしはらいください。",
+        "kana": "レジ にて おしはらい ください。",
+        "meaning": "Silakan membayar di kasir."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -48750,9 +48752,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は運動します。",
-        "kana": "わたし は うんどうします。",
-        "meaning": "Saya berolahraga."
+        "jp": "まいあささんじゅっぷんうんどうします。",
+        "kana": "まいあさ さんじゅっぷん うんどう します。",
+        "meaning": "Saya berolahraga tiga puluh menit setiap pagi."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -48787,9 +48789,9 @@
       "category": "verb",
       "subcategory": "Grup 1",
       "example": {
-        "jp": "私は飲みに行きます。",
-        "kana": "わたし は のみにいきます。",
-        "meaning": "Saya pergi minum."
+        "jp": "しごとのあと、ともだちとのみにいきます。",
+        "kana": "しごと の あと、ともだち と のみ に いきます。",
+        "meaning": "Saya pergi minum bersama teman setelah bekerja."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -48990,9 +48992,9 @@
       "category": "noun",
       "subcategory": "Teknologi & komunikasi",
       "example": {
-        "jp": "これはネットでです。",
-        "kana": "これ は ネットで です。",
-        "meaning": "Ini online."
+        "jp": "ネットでチケットをかいました。",
+        "kana": "ネット で チケット を かいました。",
+        "meaning": "Saya membeli tiket melalui internet."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -49019,9 +49021,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "国際フェスティバルを食べます。",
-        "kana": "こくさいフェスティバル を たべます。",
-        "meaning": "Saya makan festival internasional."
+        "jp": "こくさいフェスティバルでいろいろなりょうりをたべました。",
+        "kana": "こくさいフェスティバル で いろいろな りょうり を たべました。",
+        "meaning": "Saya menyantap berbagai masakan di festival internasional."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -49229,9 +49231,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんはいまいちです。",
-        "kana": "この かばん は いまいちです。",
-        "meaning": "Tas ini tidak begitu bagus."
+        "jp": "このスープのあじはいまいちです。",
+        "kana": "この スープ の あじ は いまいち です。",
+        "meaning": "Rasa sup ini kurang memuaskan."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -49258,9 +49260,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "この人は家族でです。",
-        "kana": "この ひと は かぞくで です。",
-        "meaning": "Orang ini dengan keluarga."
+        "jp": "かぞくでどうぶつえんにいきました。",
+        "kana": "かぞく で どうぶつえん に いきました。",
+        "meaning": "Kami sekeluarga pergi ke kebun binatang."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -49374,9 +49376,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは気持ちいいです。",
-        "kana": "この かばん は きもちいいです。",
-        "meaning": "Tas ini nyaman."
+        "jp": "そとのかぜがきもちいいです。",
+        "kana": "そと の かぜ が きもちいい です。",
+        "meaning": "Angin di luar terasa nyaman."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -49464,9 +49466,9 @@
       "category": "adverb",
       "subcategory": "Waktu & urutan",
       "example": {
-        "jp": "まだまだ勉強します。",
-        "kana": "まだまだ べんきょうします。",
-        "meaning": "Saya belajar masih."
+        "jp": "まだまだれんしゅうがひつようです。",
+        "kana": "まだまだ れんしゅう が ひつよう です。",
+        "meaning": "Saya masih perlu banyak berlatih."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -49551,9 +49553,9 @@
       "category": "adverb",
       "subcategory": "Cara & keadaan",
       "example": {
-        "jp": "これは二人でです。",
-        "kana": "これ は ふたりで です。",
-        "meaning": "Ini berdua."
+        "jp": "ともだちとふたりでりょうりをつくります。",
+        "kana": "ともだち と ふたり で りょうり を つくります。",
+        "meaning": "Saya memasak berdua dengan teman."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -49841,9 +49843,9 @@
       "category": "expression",
       "subcategory": "Makan & berbelanja",
       "example": {
-        "jp": "つり銭のお取り忘れに注意。",
-        "kana": "つりせんのおとりわすれにちゅうい。",
-        "meaning": "jangan lupa mengambil kembalian Anda!."
+        "jp": "つりせんのおとりわすれにちゅうい。",
+        "kana": "つりせん の おとりわすれ に ちゅうい。",
+        "meaning": "Jangan lupa mengambil uang kembalian Anda."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -49957,9 +49959,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "この人は休業日です。",
-        "kana": "この ひと は きゅうぎょうび です。",
-        "meaning": "Orang ini hari libur."
+        "jp": "あしたはこのみせのきゅうぎょうびです。",
+        "kana": "あした は この みせ の きゅうぎょうび です。",
+        "meaning": "Besok toko ini tutup."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -50073,9 +50075,9 @@
       "category": "noun",
       "subcategory": "Makanan & bahan masak",
       "example": {
-        "jp": "食べ放題を食べます。",
-        "kana": "たべほうだい を たべます。",
-        "meaning": "Saya makan makan sepuasnya."
+        "jp": "このレストランはたべほうだいです。",
+        "kana": "この レストラン は たべほうだい です。",
+        "meaning": "Restoran ini menyediakan makan sepuasnya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -50102,9 +50104,9 @@
       "category": "noun",
       "subcategory": "Minuman",
       "example": {
-        "jp": "飲み放題を飲みます。",
-        "kana": "のみほうだい を のみます。",
-        "meaning": "Saya minum minum sepuasnya."
+        "jp": "のみほうだいのコースをえらびました。",
+        "kana": "のみほうだい の コース を えらびました。",
+        "meaning": "Saya memilih paket minum sepuasnya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -50566,9 +50568,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは完全です。",
-        "kana": "この かばん は かんぜんです。",
-        "meaning": "Tas ini benar-benar."
+        "jp": "このへやはかんぜんにくらくなりました。",
+        "kana": "この へや は かんぜんに くらく なりました。",
+        "meaning": "Kamar ini menjadi gelap sepenuhnya."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -50632,9 +50634,9 @@
       "category": "verb",
       "subcategory": "Grup 3",
       "example": {
-        "jp": "私は旅行します。",
-        "kana": "わたし は りょこうします。",
-        "meaning": "Saya berwisata."
+        "jp": "なつやすみにかぞくとりょこうします。",
+        "kana": "なつやすみ に かぞく と りょこう します。",
+        "meaning": "Saya berwisata bersama keluarga saat liburan musim panas."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -50719,9 +50721,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "この人は連休です。",
-        "kana": "この ひと は れんきゅう です。",
-        "meaning": "Orang ini libur panjang."
+        "jp": "れんきゅうにかぞくとでかけます。",
+        "kana": "れんきゅう に かぞく と でかけます。",
+        "meaning": "Saya pergi bersama keluarga saat libur beberapa hari berturut-turut."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -51067,9 +51069,9 @@
       "category": "noun",
       "subcategory": "Belanja & uang",
       "example": {
-        "jp": "お土産を食べます。",
-        "kana": "おみやげ を たべます。",
-        "meaning": "Saya makan oleh-oleh."
+        "jp": "かぞくにおみやげをかいました。",
+        "kana": "かぞく に おみやげ を かいました。",
+        "meaning": "Saya membeli oleh-oleh untuk keluarga."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -51125,9 +51127,9 @@
       "category": "adverb",
       "subcategory": "Kepastian & penekanan",
       "example": {
-        "jp": "ほかに勉強します。",
-        "kana": "ほかに べんきょうします。",
-        "meaning": "Saya belajar selain itu."
+        "jp": "ほかにしつもんはありますか。",
+        "kana": "ほか に しつもん は あります か。",
+        "meaning": "Apakah ada pertanyaan lain?"
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -51154,9 +51156,9 @@
       "category": "expression",
       "subcategory": "Permintaan & instruksi",
       "example": {
-        "jp": "これは行ってです。",
-        "kana": "これ は いって です。",
-        "meaning": "Ini anda harus pergi."
+        "jp": "あのみせにいってみてください。",
+        "kana": "あの みせ に いって みて ください。",
+        "meaning": "Cobalah pergi ke toko itu."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -51241,9 +51243,9 @@
       "category": "noun",
       "subcategory": "Hobi, olahraga & budaya",
       "example": {
-        "jp": "君の名はを食べます。",
-        "kana": "きみのなは を たべます。",
-        "meaning": "Saya makan kimi no na wa."
+        "jp": "「きみのなは」をえいがかんでみました。",
+        "kana": "「きみ の な は」 を えいがかん で みました。",
+        "meaning": "Saya menonton Kimi no Na wa di bioskop."
       },
       "level": "N5",
       "scope": "N5 / A1"
@@ -51589,9 +51591,9 @@
       "category": "noun",
       "subcategory": "Waktu & kalender",
       "example": {
-        "jp": "この人は冬休みです。",
-        "kana": "この ひと は ふゆやすみ です。",
-        "meaning": "Orang ini libur musim dingin."
+        "jp": "ふゆやすみにくににかえります。",
+        "kana": "ふゆやすみ に くに に かえります。",
+        "meaning": "Saya pulang ke negara asal saat liburan musim dingin."
       },
       "level": "N5",
       "scope": "N5"
@@ -51738,9 +51740,9 @@
       "category": "noun",
       "subcategory": "Keluarga & hubungan",
       "example": {
-        "jp": "ご主人を食べます。",
-        "kana": "ごしゅじん を たべます。",
-        "meaning": "Saya makan suami."
+        "jp": "ごしゅじんはおげんきですか。",
+        "kana": "ごしゅじん は おげんき です か。",
+        "meaning": "Apakah suami Anda sehat?"
       },
       "level": "N5",
       "scope": "N5"
@@ -51831,9 +51833,9 @@
       "category": "noun",
       "subcategory": "Makanan & bahan masak",
       "example": {
-        "jp": "苺を食べます。",
-        "kana": "いちご を たべます。",
-        "meaning": "Saya makan strawberry."
+        "jp": "デザートにいちごをたべました。",
+        "kana": "デザート に いちご を たべました。",
+        "meaning": "Saya makan stroberi sebagai pencuci mulut."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -52916,9 +52918,9 @@
       "category": "noun",
       "subcategory": "Makanan & bahan masak",
       "example": {
-        "jp": "オリーブを食べます。",
-        "kana": "オリーブ を たべます。",
-        "meaning": "Saya makan buah jaitun."
+        "jp": "サラダにオリーブをいれました。",
+        "kana": "サラダ に オリーブ を いれました。",
+        "meaning": "Saya menambahkan buah zaitun ke salad."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56419,9 +56421,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは固いです。",
-        "kana": "この かばん は かたいです。",
-        "meaning": "Tas ini keras."
+        "jp": "このパンはかたいです。",
+        "kana": "この パン は かたい です。",
+        "meaning": "Roti ini keras."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56450,9 +56452,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは細かいです。",
-        "kana": "この かばん は こまかいです。",
-        "meaning": "Tas ini kecil."
+        "jp": "こまかいおかねがありません。",
+        "kana": "こまかい おかね が ありません。",
+        "meaning": "Saya tidak punya uang kecil."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56481,9 +56483,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは粗いです。",
-        "kana": "この かばん は あらいです。",
-        "meaning": "Tas ini kasar."
+        "jp": "このぬのはめがあらいです。",
+        "kana": "この ぬの は め が あらい です。",
+        "meaning": "Tenunan kain ini renggang."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56512,9 +56514,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは温かいです。",
-        "kana": "この かばん は あたたかいです。",
-        "meaning": "Tas ini hangat."
+        "jp": "あたたかいスープをのみます。",
+        "kana": "あたたかい スープ を のみます。",
+        "meaning": "Saya minum sup hangat."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56543,9 +56545,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはぬるいです。",
-        "kana": "この かばん は ぬるいです。",
-        "meaning": "Tas ini kurang panas. tidak panas dan tidak dingin juga."
+        "jp": "このコーヒーはぬるいです。",
+        "kana": "この コーヒー は ぬるい です。",
+        "meaning": "Kopi ini suam-suam kuku."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56729,9 +56731,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは詳しいです。",
-        "kana": "この かばん は くわしいです。",
-        "meaning": "Tas ini detail."
+        "jp": "せんせいはにほんのれきしにくわしいです。",
+        "kana": "せんせい は にほん の れきし に くわしい です。",
+        "meaning": "Guru saya mengetahui banyak hal tentang sejarah Jepang."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56760,9 +56762,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは珍しいです。",
-        "kana": "この かばん は めずらしいです。",
-        "meaning": "Tas ini langka."
+        "jp": "どうぶつえんでめずらしいとりをみました。",
+        "kana": "どうぶつえん で めずらしい とり を みました。",
+        "meaning": "Saya melihat burung langka di kebun binatang."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56791,9 +56793,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはおかしいです。",
-        "kana": "この かばん は おかしいです。",
-        "meaning": "Tas ini aneh."
+        "jp": "このとけいはおかしいです。",
+        "kana": "この とけい は おかしい です。",
+        "meaning": "Ada yang tidak beres dengan jam ini."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56853,9 +56855,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんはひどいです。",
-        "kana": "この かばん は ひどいです。",
-        "meaning": "Tas ini kejam."
+        "jp": "きのうはひどいあめでした。",
+        "kana": "きのう は ひどい あめ でした。",
+        "meaning": "Kemarin hujannya sangat deras."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56884,9 +56886,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは正しいです。",
-        "kana": "この かばん は ただしいです。",
-        "meaning": "Tas ini benar."
+        "jp": "ただしいこたえをえらんでください。",
+        "kana": "ただしい こたえ を えらんで ください。",
+        "meaning": "Tolong pilih jawaban yang benar."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56946,9 +56948,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは仲がいいです。",
-        "kana": "この かばん は なかがいいです。",
-        "meaning": "Tas ini rukun."
+        "jp": "わたしとあねはなかがいいです。",
+        "kana": "わたし と あね は なか が いい です。",
+        "meaning": "Saya dan kakak perempuan saya akrab."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -56977,9 +56979,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは親しいです。",
-        "kana": "この かばん は したしいです。",
-        "meaning": "Tas ini akrab."
+        "jp": "したしいともだちとりょこうします。",
+        "kana": "したしい ともだち と りょこう します。",
+        "meaning": "Saya bepergian bersama teman dekat."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57039,9 +57041,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは美しいです。",
-        "kana": "この かばん は うつくしいです。",
-        "meaning": "Tas ini indah."
+        "jp": "あきのやまはうつくしいです。",
+        "kana": "あき の やま は うつくしい です。",
+        "meaning": "Gunung pada musim gugur indah."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57070,9 +57072,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは厳しいです。",
-        "kana": "この かばん は きびしいです。",
-        "meaning": "Tas ini tegas."
+        "jp": "このがっこうのきそくはきびしいです。",
+        "kana": "この がっこう の きそく は きびしい です。",
+        "meaning": "Peraturan sekolah ini ketat."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57101,9 +57103,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは大人しいです。",
-        "kana": "この かばん は おとなしいです。",
-        "meaning": "Tas ini tenang."
+        "jp": "このいぬはおとなしいです。",
+        "kana": "この いぬ は おとなしい です。",
+        "meaning": "Anjing ini tenang dan tidak agresif."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57194,9 +57196,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは怖いです。",
-        "kana": "この かばん は こわいです。",
-        "meaning": "Tas ini takut."
+        "jp": "くらいみちをひとりであるくのはこわいです。",
+        "kana": "くらい みち を ひとり で あるく の は こわい です。",
+        "meaning": "Saya takut berjalan sendirian di jalan gelap."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57287,9 +57289,9 @@
       "category": "adjective",
       "subcategory": "Sifat-i",
       "example": {
-        "jp": "このかばんは懐かしいです。",
-        "kana": "この かばん は なつかしいです。",
-        "meaning": "Tas ini terkenang."
+        "jp": "このうたをきくと、こどものころがなつかしいです。",
+        "kana": "この うた を きく と、こども の ころ が なつかしい です。",
+        "meaning": "Mendengar lagu ini membuat saya rindu masa kecil."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57411,9 +57413,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは大嫌いです。",
-        "kana": "この かばん は だいきらいです。",
-        "meaning": "Tas ini benci sekali."
+        "jp": "おとうとはむしがだいきらいです。",
+        "kana": "おとうと は むし が だいきらい です。",
+        "meaning": "Adik laki-laki saya sangat membenci serangga."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57442,9 +57444,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは複雑です。",
-        "kana": "この かばん は ふくざつです。",
-        "meaning": "Tas ini rumit."
+        "jp": "このまちのみちはふくざつです。",
+        "kana": "この まち の みち は ふくざつ です。",
+        "meaning": "Jalan-jalan di kota ini rumit."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57504,9 +57506,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは不便です。",
-        "kana": "この かばん は ふべんです。",
-        "meaning": "Tas ini tidak praktis."
+        "jp": "このむらはバスがすくなくて、ふべんです。",
+        "kana": "この むら は バス が すくなくて、ふべん です。",
+        "meaning": "Desa ini kurang praktis untuk ditinggali karena busnya sedikit."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57566,9 +57568,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは安全です。",
-        "kana": "この かばん は あんぜんです。",
-        "meaning": "Tas ini aman."
+        "jp": "ここはあんぜんなばしょです。",
+        "kana": "ここ は あんぜんな ばしょ です。",
+        "meaning": "Ini tempat yang aman."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57597,9 +57599,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは大事です。",
-        "kana": "この かばん は だいじです。",
-        "meaning": "Tas ini penting."
+        "jp": "これはだいじなしょるいです。",
+        "kana": "これは だいじな しょるい です。",
+        "meaning": "Ini dokumen penting."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57628,9 +57630,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは無駄です。",
-        "kana": "この かばん は むだです。",
-        "meaning": "Tas ini sia-sia."
+        "jp": "みずをむだにしないでください。",
+        "kana": "みず を むだ に しないで ください。",
+        "meaning": "Tolong jangan membuang-buang air."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57659,9 +57661,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは急です。",
-        "kana": "この かばん は きゅうです。",
-        "meaning": "Tas ini mendadak."
+        "jp": "きゅうなしごとがはいりました。",
+        "kana": "きゅうな しごと が はいりました。",
+        "meaning": "Saya mendapat pekerjaan mendadak."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57721,9 +57723,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは苦手です。",
-        "kana": "この かばん は にがてです。",
-        "meaning": "Tas ini tidak begitu suka."
+        "jp": "わたしはおよぐのがにがてです。",
+        "kana": "わたし は およぐ の が にがて です。",
+        "meaning": "Saya kurang pandai berenang."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57752,9 +57754,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんはかわいそうです。",
-        "kana": "この かばん は かわいそうです。",
-        "meaning": "Tas ini kasihan."
+        "jp": "けがをしたねこがかわいそうです。",
+        "kana": "けが を した ねこ が かわいそう です。",
+        "meaning": "Saya kasihan kepada kucing yang terluka itu."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57783,9 +57785,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは楽です。",
-        "kana": "この かばん は らくです。",
-        "meaning": "Tas ini enteng."
+        "jp": "このいすにすわるとらくです。",
+        "kana": "この いす に すわる と らく です。",
+        "meaning": "Duduk di kursi ini terasa nyaman."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57814,9 +57816,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは無理です。",
-        "kana": "この かばん は むりです。",
-        "meaning": "Tas ini mustahil."
+        "jp": "きょうじゅうにぜんぶおわるのはむりです。",
+        "kana": "きょう じゅう に ぜんぶ おわる の は むり です。",
+        "meaning": "Mustahil menyelesaikan semuanya hari ini."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -57938,9 +57940,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは真面目です。",
-        "kana": "この かばん は まじめです。",
-        "meaning": "Tas ini rajin."
+        "jp": "あにはまじめにべんきょうします。",
+        "kana": "あに は まじめに べんきょう します。",
+        "meaning": "Kakak laki-laki saya belajar dengan tekun."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58000,9 +58002,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは盛んです。",
-        "kana": "この かばん は さかんです。",
-        "meaning": "Tas ini popular."
+        "jp": "このまちではサッカーがさかんです。",
+        "kana": "この まち で は サッカー が さかん です。",
+        "meaning": "Sepak bola populer dan banyak dimainkan di kota ini."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58031,9 +58033,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは邪魔です。",
-        "kana": "この かばん は じゃまです。",
-        "meaning": "Tas ini mengganggu."
+        "jp": "このはこはじゃまですから、うごかしてください。",
+        "kana": "この はこ は じゃま です から、うごかして ください。",
+        "meaning": "Kotak ini menghalangi jalan, jadi tolong pindahkan."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58062,9 +58064,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは適当です。",
-        "kana": "この かばん は てきとうです。",
-        "meaning": "Tas ini tepat."
+        "jp": "このしごとにてきとうなひとをさがしています。",
+        "kana": "この しごと に てきとうな ひと を さがして います。",
+        "meaning": "Kami sedang mencari orang yang cocok untuk pekerjaan ini."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58093,9 +58095,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは特別です。",
-        "kana": "この かばん は とくべつです。",
-        "meaning": "Tas ini khusus."
+        "jp": "きょうはわたしにとってとくべつなひです。",
+        "kana": "きょう は わたし に とって とくべつな ひ です。",
+        "meaning": "Hari ini istimewa bagi saya."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58124,9 +58126,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは自由です。",
-        "kana": "この かばん は じゆうです。",
-        "meaning": "Tas ini bebas."
+        "jp": "にちようびはじゆうなじかんがあります。",
+        "kana": "にちようび は じゆうな じかん が あります。",
+        "meaning": "Pada hari Minggu saya punya waktu luang."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58155,9 +58157,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは熱心です。",
-        "kana": "この かばん は ねっしんです。",
-        "meaning": "Tas ini dng sungguh hati."
+        "jp": "せんせいはねっしんにおしえてくれます。",
+        "kana": "せんせい は ねっしんに おしえて くれます。",
+        "meaning": "Guru mengajar kami dengan sungguh-sungguh."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58186,9 +58188,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは必要です。",
-        "kana": "この かばん は ひつようです。",
-        "meaning": "Tas ini perlu."
+        "jp": "もういちまいかみがひつようです。",
+        "kana": "もう いちまい かみ が ひつよう です。",
+        "meaning": "Saya memerlukan satu lembar kertas lagi."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58217,9 +58219,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは別です。",
-        "kana": "この かばん は べつです。",
-        "meaning": "Tas ini lain."
+        "jp": "べつのみせにいきましょう。",
+        "kana": "べつ の みせ に いきましょう。",
+        "meaning": "Ayo pergi ke toko lain."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58248,9 +58250,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは不思議です。",
-        "kana": "この かばん は ふしぎです。",
-        "meaning": "Tas ini ajaib."
+        "jp": "このはなしはふしぎですね。",
+        "kana": "この はなし は ふしぎ です ね。",
+        "meaning": "Cerita ini terasa misterius, ya."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58279,9 +58281,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは豪華です。",
-        "kana": "この かばん は ごうかです。",
-        "meaning": "Tas ini mewah."
+        "jp": "このホテルのへやはごうかです。",
+        "kana": "この ホテル の へや は ごうか です。",
+        "meaning": "Kamar hotel ini mewah."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58310,9 +58312,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは伝統的です。",
-        "kana": "この かばん は でんとうてきです。",
-        "meaning": "Tas ini tradisional."
+        "jp": "にほんのでんとうてきなおまつりをみました。",
+        "kana": "にほん の でんとうてきな おまつり を みました。",
+        "meaning": "Saya menyaksikan festival tradisional Jepang."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58341,9 +58343,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは活発です。",
-        "kana": "この かばん は かっぱつです。",
-        "meaning": "Tas ini aktif."
+        "jp": "いもうとはかっぱつなこどもです。",
+        "kana": "いもうと は かっぱつな こども です。",
+        "meaning": "Adik perempuan saya anak yang aktif."
       },
       "level": "N5",
       "scope": "Pengayaan"
@@ -58496,9 +58498,9 @@
       "category": "adjective",
       "subcategory": "Sifat-na",
       "example": {
-        "jp": "このかばんは意地悪です。",
-        "kana": "この かばん は いじわるです。",
-        "meaning": "Tas ini bersifat tega."
+        "jp": "ともだちにいじわるをしないでください。",
+        "kana": "ともだち に いじわる を しないで ください。",
+        "meaning": "Tolong jangan berbuat jahat kepada teman."
       },
       "level": "N5",
       "scope": "Pengayaan"

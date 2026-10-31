@@ -4,7 +4,7 @@ const fs=require('node:fs'),assert=require('node:assert/strict'),cp=require('nod
 const os=require('node:os'),path=require('node:path');
 const originalCwd=process.cwd(),fixture=fs.mkdtempSync(path.join(os.tmpdir(),'gaku-policy-test-'));
 fs.mkdirSync(path.join(fixture,'data'));
-for(const name of ['kotoba-n5.json','kotoba-n4.json','kotoba-level-policy-audit.json','kotoba-duplicate-review.json','kotoba-n4-context-examples.json','kotoba-n4-quality-review.json','kotoba-n4-lexical-repairs.json'])fs.copyFileSync('data/'+name,path.join(fixture,'data',name));
+for(const name of ['kotoba-n5.json','kotoba-n4.json','kotoba-level-policy-audit.json','kotoba-duplicate-review.json','kotoba-n4-context-examples.json','kotoba-n4-quality-review.json','kotoba-n4-lexical-repairs.json','kotoba-n5-context-examples.json'])fs.copyFileSync('data/'+name,path.join(fixture,'data',name));
 fs.mkdirSync(path.join(fixture,'scripts'),{recursive:true});
 fs.cpSync('scripts/lib',path.join(fixture,'scripts/lib'),{recursive:true});
 fs.copyFileSync('scripts/build-kotoba-data.py',path.join(fixture,'scripts/build-kotoba-data.py'));

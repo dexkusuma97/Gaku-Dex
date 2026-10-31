@@ -11,6 +11,8 @@ from kotoba_context_review import apply_context_review
 print('Context examples:',apply_context_review(root))
 from kotoba_lexical_review import finalize_lexical_review
 finalize_lexical_review(root)
+from kotoba_n5_review import apply_n5_review
+print('N5 examples:',apply_n5_review(root))
 data=json.loads((root/'data/kotoba-n5.json').read_text())
 assert len({e['id'] for e in data['entries']})==len(data['entries'])
 out='/* Source: data/kotoba-n5.json. Build: python scripts/build-kotoba-data.py */\n'

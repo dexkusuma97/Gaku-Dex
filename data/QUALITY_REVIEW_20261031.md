@@ -106,3 +106,10 @@ Daftar memilih arti pertama berdasarkan pemisah slash/titik koma di luar tanda k
 39 field meaning N4 dibersihkan dari potongan berulang meskipun spasi slash berbeda. Aksesori/aksesoris dianggap varian ejaan yang sama untuk deduplikasi; アクセサリー menjadi perhiasan / aksesoris. Tanda kurung dan keterangan dalam <...> dilindungi. Seluruh ID, urutan, bacaan, sumber, 2.225 contoh editorial dan jumlah kartu tetap; data/bundle N5 identik dengan baseline. N4 3.215; N5 1.791.
 
 39 rangkaian tes lulus; dua build penuh menghasilkan data/bundle dan audit identik. Tes baru memeriksa arti tunggal, pencarian arti sekunder, escaping teks, deduplikasi dan ID pembukaan kartu. Browser lokal tidak tersedia dan unduhan runtime tidak berhasil; belum ada verifikasi visual browser/Android untuk batch ini. Pemasang diuji pada salinan baseline awal dan batch 8; backup/conflict gate dipertahankan. Paket kumulatif mencakup batch 1–8 dan tidak melakukan push/deploy otomatis.
+
+
+## 31 Oktober 2026 — Batch 10: contoh Kotoba N5
+
+Pemeriksaan struktur seluruh 1.791 kartu N5 dan pembenahan 427 contoh orisinal dengan bacaan berspasi/romaji teruji. Termasuk 118 bingkai tas, 132 kata kerja, kesalahan makan/minum objek yang tidak sesuai, pemberi/penerimaくれる, tanggal versus durasi, serta nilai yen yang terpotong. Lima arti diperjelas: 半分, 差す, 15分, 30分, 45分. Rincian, contoh sebelum/sesudah dan sumber ada di data/KOTOBA_N5_REVIEW_20261031.md; rekaman sebelum dan patch ada di data/kotoba-n5-context-examples.json.
+
+Antrean mekanis tersisa 620 (592 identifikasi, 28 waktu+belajar). Bingkai bukan vonis salah; 744 kartu di luar koreksi dan antrean juga tidak dianggap tersertifikasi. Empat kata majemuk/ambigu dicatat untuk audit leksikal berikutnya. N5 tetap 1.791; N4 3.215; seluruh data N4, 2.225 contoh N4 dan desain kartu batch 9 dipertahankan. Semua 40 berkas tes lulus dan rebuild penuh stabil; belum uji Android fisik. Paket kumulatif menerima versi dikenal sebelumnya, membuat cadangan dan tidak melakukan deployment otomatis.
