@@ -1,6 +1,6 @@
 # Audit kualitas 31 Oktober 2026
 
-Status terkini: batch 6, total 2.000 contoh kontekstual. Catatan di bawah menyimpan riwayat setiap batch.
+Status terkini: batch 7, total 2.200 contoh kontekstual; 37 entri masih menunggu perbaikan leksikal. Catatan di bawah menyimpan riwayat setiap batch.
 
 138 contoh Kotoba N4 ditulis ulang sesuai pemakaian kata. Contoh Jepang memakai kana untuk membantu pemula; kolom kana sama dengan kalimat contoh. Tidak mengubah arti kepala entri, keanggotaan level, ID, atau audio.
 
@@ -66,3 +66,19 @@ Tambahan 500 contoh meliputi layanan umum, transaksi, pengiriman, lingkungan, tr
 Perbandingan terhadap batch 5 menunjukkan tepat 500 field example berubah, tanpa perubahan ID, kepala entri, arti kata, kategori, urutan, atau sumber. Jumlah N4 tetap 3.227, N5 1.791. Build penuh teruji stabil; seluruh 37 berkas tes lulus.
 
 Antrean bingkai berulang tersisa 237. Audit makna ambigu, bacaan bermasalah, nama orang yang terlewat, serta contoh di luar antrean belum selesai. Panduan pemasangan ada dalam BACA-DULU paket kumulatif batch 6.
+
+
+## Batch 7 — total 2.200, antrean tersisa 37
+
+200 contoh tambahan dipasang, sementara 2.000 contoh lama dipertahankan. Sebagian besar tambahan kali ini kata kerja dengan konteks yang memperjelas objek, pelaku, dan hasil tindakan. Jepang utama tetap tanpa spasi bantuan; kolom bacaan memakai pemisah. Seluruh contoh editorial sekarang memiliki 2.200 kalimat berbeda.
+
+旅券 berarti paspor, bukan tiket transportasi. Verifikasi istilah memakai halaman resmi Kedutaan Jepang di Indonesia: https://www.id.emb-japan.go.jp/itpr_ja/visaj_01.html ; halaman Kementerian Luar Negeri Jepang: https://www.mofa.go.jp/mofaj/toko/passport/page22_004056.html . Hanya arti kata yang diambil sebagai dasar; tidak menyusun nasihat atau aturan pengurusan paspor.
+
+Perbandingan batch 6: 200 field example dan satu field meaning 旅券 berubah. ID dan semua field kartu lain tetap. Arti paspor terpasang melalui layer cleanup yang bertahan saat build ulang.
+
+37 entri yang tersisa dicatat lengkap di lexical-review-pending. Kartu itu masih aktif, belum dihapus/merge dan masih berada dalam antrean bingkai berulang. Ini sengaja tidak ditutupi dengan contoh baru yang dapat mengesankan kata utamanya sudah benar. Tahap berikutnya memerlukan normalisasi kepala entri, penanganan arti berbeda, penghapusan nama yang sesuai kebijakan, dan redirect ID favorit. Audit Kotoba belum selesai.
+
+Seluruh 37 berkas tes lulus; build penuh stabil dan menghasilkan record aktif yang sama. Paket kumulatif batch 7 mencakup koreksi terdahulu.
+
+
+- Batch 7 menjadikan tes context-review hanya baca. Pemeriksaan rebuild/idempotensi dilakukan oleh tes level-policy dalam fixture sementara, agar tes paralel tidak saling menulis berkas kerja. Installer menjalankan tes berurutan dan memverifikasi hash hasil salinan.

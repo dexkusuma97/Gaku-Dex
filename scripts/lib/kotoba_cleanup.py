@@ -40,6 +40,7 @@ def clean(e,level,report):
         e['jp']='そうね';e['meaning']='begitu, ya; coba saya pikir';e['category']=e['kind']='expression';e['subcategory']='Tanggapan & perasaan'
         e['example']={'jp':'そうね、明日にしましょう。','kana':'そうね、あした に しましょう。','meaning':'Begitu, ya. Kita jadwalkan besok saja.'}
     fixes={
+      '旅券':('paspor','りょけんをかばんにいれました。','りょけん を かばん に いれました。','Saya memasukkan paspor ke tas.'),
       '予約':('pemesanan; reservasi','レストランの予約をします。','れすとらん の よやく を します。','Saya membuat reservasi restoran。'.replace('。','.')),
       'レコード':('piringan hitam; rekaman','レコードで音楽を聞きます。','れこーど で おんがく を ききます。','Saya mendengarkan musik dari piringan hitam.'),
       'ストーブ':('pemanas ruangan','冬はストーブを使います。','ふゆ は すとーぶ を つかいます。','Pada musim dingin, saya menggunakan pemanas ruangan.'),

@@ -1,6 +1,7 @@
 {
-  "status": "pending-source-verification",
-  "note": "Observed during contextual example review; not corrected or certified by this batch. No guessed sense splits.",
+  "status": "pending-lexical-repair",
+  "remainingCount": 37,
+  "note": "These 37 records are still active and still in the repetitive-example queue. No claim that the queue is complete. Name removal, spelling repairs and sense merges require explicit redirects and rebuild checks.",
   "entries": [
     {
       "id": "kotoba-n4-a8f9b8613976",
@@ -8,7 +9,7 @@
       "kana": "つゆ",
       "meaning": "musim hujan / saus kaldu (saus celup)",
       "reason": "topic-frame",
-      "reviewNote": "Makna musim hujan dan saus celup tercampur; perlu pemisahan makna dengan sumber."
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
     },
     {
       "id": "kotoba-n4-640190f83a3f",
@@ -16,7 +17,7 @@
       "kana": "にる",
       "meaning": "mirip",
       "reason": "occasional-frame",
-      "reviewNote": "Kepala entri ぬ tidak cocok dengan bacaan にる; verifikasi sumber sebelum koreksi."
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
     },
     {
       "id": "kotoba-n4-dc0ac2925eb7",
@@ -24,7 +25,7 @@
       "kana": "ばっは",
       "meaning": "Bach (Johann Sebastian) / Bach, Johann Sebastian",
       "reason": "topic-frame",
-      "reviewNote": "Nama Bach masih lolos aturan tanpa kartu nama orang."
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
     },
     {
       "id": "kotoba-n4-903a2f97cf46",
@@ -32,7 +33,7 @@
       "kana": "びん",
       "meaning": "penerbangan / botol kaca / botol (kaca)",
       "reason": "topic-frame",
-      "reviewNote": "Makna penerbangan dan botol bercampur."
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
     },
     {
       "id": "kotoba-n4-31670e09ed35",
@@ -40,7 +41,7 @@
       "kana": "かいご",
       "meaning": "perawat/pengasuh",
       "reason": "topic-frame",
-      "reviewNote": "かいご diterjemahkan profesi; perlu cek antara kegiatan perawatan dan pekerja."
+      "reviewNote": "Perawatan/pengasuhan adalah kegiatan, bukan otomatis nama profesi; tinjau bersama kartu 介護."
     },
     {
       "id": "kotoba-n4-1a700c896e93",
@@ -48,7 +49,7 @@
       "kana": "しゅうしょく",
       "meaning": "pencarian kerja",
       "reason": "topic-frame",
-      "reviewNote": "しゅうしょく perlu cek arti mendapat pekerjaan versus kegiatan mencari pekerjaan."
+      "reviewNote": "Perlu bedakan memperoleh pekerjaan dari aktivitas mencari pekerjaan."
     },
     {
       "id": "kotoba-n4-f8dd78c72669",
@@ -56,7 +57,7 @@
       "kana": "とれる",
       "meaning": "untuk melepas lelah/untuk merasa segar / petik; memetik",
       "reason": "occasional-frame",
-      "reviewNote": "とれる memiliki makna berbeda yang perlu ditinjau per konteks."
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
     },
     {
       "id": "kotoba-n4-51d52b0f29a9",
@@ -64,7 +65,7 @@
       "kana": "ほーむ",
       "meaning": "peron / homepage; laman",
       "reason": "topic-frame",
-      "reviewNote": "ホーム mencampurkan peron dan homepage."
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
     },
     {
       "id": "kotoba-n4-e1a38346f85e",
@@ -72,7 +73,7 @@
       "kana": "もね",
       "meaning": "Claude Monet",
       "reason": "topic-frame",
-      "reviewNote": "Nama Monet masih lolos aturan tanpa kartu nama orang."
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
     },
     {
       "id": "kotoba-n4-34884fc30075",
@@ -80,7 +81,15 @@
       "kana": "こくさいけっこんする",
       "meaning": "pernikahan internasional/antarbangsa",
       "reason": "occasional-frame",
-      "reviewNote": "Bacaan nominal berakhiran する perlu ditinjau."
+      "reviewNote": "Bacaan nominal berakhiran する perlu dikoreksi bersama bentuk kata."
+    },
+    {
+      "id": "kotoba-n4-6b8ddfaf6de8",
+      "jp": "たてる",
+      "kana": "たてる",
+      "meaning": "bersuara / mendirikan/membangun / mendirikan / membangun; mendirikan (cth : membangun rumah)",
+      "reason": "occasional-frame",
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
     },
     {
       "id": "kotoba-n4-0e47e5d6aaad",
@@ -88,7 +97,7 @@
       "kana": "のこす",
       "meaning": "menyisakan",
       "reason": "occasional-frame",
-      "reviewNote": "Kepala entri のこする berbeda dari bacaan のこす."
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
     },
     {
       "id": "kotoba-n4-75935806ab3e",
@@ -96,7 +105,7 @@
       "kana": "さがす",
       "meaning": "mencari",
       "reason": "occasional-frame",
-      "reviewNote": "Kepala entri さがする berbeda dari bacaan さがす."
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
     },
     {
       "id": "kotoba-n4-3aa03b5369b5",
@@ -104,7 +113,7 @@
       "kana": "じしん",
       "meaning": "percaya diri/kepercayaan atas diri sendiri / gempa bumi",
       "reason": "topic-frame",
-      "reviewNote": "Makna percaya diri dan gempa bercampur."
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
     },
     {
       "id": "kotoba-n4-374954d7531e",
@@ -112,7 +121,183 @@
       "kana": "すごす",
       "meaning": "menghabiskan waktu",
       "reason": "occasional-frame",
-      "reviewNote": "Kepala entri すごする berbeda dari bacaan すごす."
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
+    },
+    {
+      "id": "kotoba-n4-2db2a426ff71",
+      "jp": "おとする",
+      "kana": "おとす",
+      "meaning": "menjatuhkan",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
+    },
+    {
+      "id": "kotoba-n4-bbe1f5ab3104",
+      "jp": "つく",
+      "kana": "つく",
+      "meaning": "(listrik/lampu) menyala / menyala (lampu menyala) / menempel; terkontaminasi (virus) / disajikan beserta ~ (cth : disajikan beserta sup miso) / memiliki; menyertakan; termasuk (cth : fungsi yang disertakan / memiliki fungsi)",
+      "reason": "occasional-frame",
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
+    },
+    {
+      "id": "kotoba-n4-2dbe20b58f04",
+      "jp": "とりだする",
+      "kana": "とりだす",
+      "meaning": "mengeluarkan",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
+    },
+    {
+      "id": "kotoba-n4-93d5cd5b890f",
+      "jp": "桓武天皇",
+      "kana": "かんむてんのう",
+      "meaning": "Kaisar Kanmu",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-60d00d0722e4",
+      "jp": "徳川しょうぐん",
+      "kana": "とくがわしょうぐん",
+      "meaning": "Shogun Tokugawa (Shogun pada era Edo)",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-d52e976eac84",
+      "jp": "てん",
+      "kana": "てん",
+      "meaning": "pagelaran/ekshibisi / ... koma ... (3,5)",
+      "reason": "topic-frame",
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
+    },
+    {
+      "id": "kotoba-n4-92ec806ac999",
+      "jp": "ながする",
+      "kana": "ながす",
+      "meaning": "mengalirkan/membuang (cairan)",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
+    },
+    {
+      "id": "kotoba-n4-6b963f1383f0",
+      "jp": "へらする",
+      "kana": "へらす",
+      "meaning": "mengurangi",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
+    },
+    {
+      "id": "kotoba-n4-e2b95ee7dfe3",
+      "jp": "よごする",
+      "kana": "よごす",
+      "meaning": "mengotori",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
+    },
+    {
+      "id": "kotoba-n4-f62d138840b2",
+      "jp": "なくなる",
+      "kana": "なくなる",
+      "meaning": "meninggal dunia / meninggal / habis",
+      "reason": "occasional-frame",
+      "reviewNote": "Makna berbeda tercampur; perlu pemisahan fungsi/sense dan tinjauan duplikat."
+    },
+    {
+      "id": "kotoba-n4-636b8721af3e",
+      "jp": "EXPO'70大阪",
+      "kana": "えきすぽななじゅうおおさか",
+      "meaning": "EXPO ke-70 Osaka",
+      "reason": "topic-frame",
+      "reviewNote": "Angka 70 merujuk tahun pada nama acara, bukan otomatis urutan ke-70; perlu verifikasi identitas sumber."
+    },
+    {
+      "id": "kotoba-n4-1bd50667f6c5",
+      "jp": "岡本太郎",
+      "kana": "おかもとたろう",
+      "meaning": "Taro Okamoto (seniman)",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-48ccdb9f89cc",
+      "jp": "黒澤明",
+      "kana": "くろさわあきら",
+      "meaning": "Kurosawa Akira (sutradara film)",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-b3a7911d6cd6",
+      "jp": "黒柳徹子",
+      "kana": "くろやなぎてつこ",
+      "meaning": "Kuroyanagi Tetsuko (aktris)",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-c1c3bcb0a4fe",
+      "jp": "ちがう",
+      "kana": "ちかう",
+      "meaning": "berbeda",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
+    },
+    {
+      "id": "kotoba-n4-9f6ce98ab55c",
+      "jp": "津田梅子",
+      "kana": "つだうめこ",
+      "meaning": "Tsuda Umeko (seorang pendidik)",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-33d844c1ff7c",
+      "jp": "湯川秀樹",
+      "kana": "ゆかわひでき",
+      "meaning": "Hideki Yukawa (ilmuwan)",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-ad3632f9f9ee",
+      "jp": "Perfume",
+      "kana": "ぱふゅーむ",
+      "meaning": "Perfume (kelompok musik pop Jepang beraliran",
+      "reason": "topic-frame",
+      "reviewNote": "Arti terpotong; judul kelompok musik dipertahankan terpisah dari aturan nama orang."
+    },
+    {
+      "id": "kotoba-n4-1ba263cd8fc7",
+      "jp": "安室奈美恵",
+      "kana": "あむろなみえ",
+      "meaning": "Amuro Namie (penyanyi berkebangsaan Jepang)",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-cb593d469c8e",
+      "jp": "三船敏郎",
+      "kana": "みふねとしろう",
+      "meaning": "Mifune Toshiro (aktor berkebangsaan Jepang)",
+      "reason": "topic-frame",
+      "reviewNote": "Nama orang atau sebutan bernama yang lolos penyaringan; perlu hapus/redirect dengan ledger."
+    },
+    {
+      "id": "kotoba-n4-a7e6c7e6002e",
+      "jp": "守るま",
+      "kana": "もる",
+      "meaning": "menaati; mematuhi (cth : menaati peraturan)",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri atau bacaan tampak salah ketik; cocokkan sumber dan kartu tujuan sebelum merge."
+    },
+    {
+      "id": "kotoba-n4-7accd570d853",
+      "jp": "資源",
+      "kana": "しげん",
+      "meaning": "dapat didaur ulang",
+      "reason": "topic-frame",
+      "reviewNote": "Arti kepala entri sumber daya perlu dibedakan dari label sampah daur ulang."
     }
   ]
 }

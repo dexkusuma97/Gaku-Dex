@@ -1154,3 +1154,16 @@ Audit empat PDF (476 halaman fisik). Tambahkan 115 materi N4 dalam 14 kategori, 
 - Contoh 炊ける menggunakan ごはんがたけました。untuk menunjukkan keadaan nasi telah matang. Contoh istilah bencana berupa pengalaman, berita, dan kegiatan latihan; tidak mengganti panduan keselamatan resmi.
 - Build penuh dari normalisasi menjaga record aktif. 37 berkas tes lulus, mencakup 2.000 kalimat unik, konversi romaji, spasi, pemisahan level, dan idempotensi.
 - Paket kumulatif batch 6 mencakup batch 1–5. Installer membuat cadangan dan menolak file berbeda dari versi dikenal. Audio/gambar/workflow/Cloudflare tidak diubah. Belum deployment otomatis atau uji Android fisik.
+
+
+## 31 Oktober 2026 — Batch 7: total 2.200 contoh, 37 entri leksikal tersisa
+
+- Dari 237 entri antrean batch 6, 200 contoh ditulis ulang dengan bacaan berjarak. Total 2.200 kalimat unik; seluruh 2.000 contoh terdahulu tetap identik.
+- Arti 旅券 dikoreksi dari tiket transportasi menjadi paspor; rujukan resmi Kedutaan Jepang di Indonesia: https://www.id.emb-japan.go.jp/itpr_ja/visaj_01.html . Koreksi masuk scripts/lib/kotoba_cleanup.py agar bertahan saat rebuild, dan tercatat di ledger pembersihan yang sudah ada.
+- Tepat 200 field example berubah dan satu field meaning 旅券 berubah dibanding batch 6. Jumlah N4 3.227 dan N5 1.791 tetap; tidak mengubah ID, kategori, sumber, audio, gambar, atau workflow.
+- Antrean belum kosong: 37 kartu masih aktif dengan contoh bingkai lama karena memerlukan perbaikan kata utama. Daftar lengkap dan alasan ada di data/kotoba-n4-lexical-review-pending.json. Termasuk nama orang/sebutan bernama yang lolos filter, salah ketik, makna campuran dan deskripsi terpotong. Jangan melaporkan tahap ini sebagai selesai seluruh Kotoba.
+- Build penuh dari normalisasi stabil. Seluruh 37 berkas tes lulus, mencakup 2.200 contoh, romaji/spasi dan arti paspor yang sudah dikoreksi.
+- Paket kumulatif batch 7 mencakup batch 1–6, dengan backup/conflict gate. Langkah berikutnya: perbaiki 37 kartu memakai ledger dan redirect ID sebelum mengosongkan antrean. Audit contoh lain, arti, bacaan, dan Bunpo belum selesai menyeluruh.
+
+
+- Batch 7 menjadikan tes context-review hanya baca. Pemeriksaan rebuild/idempotensi dilakukan oleh tes level-policy dalam fixture sementara, agar tes paralel tidak saling menulis berkas kerja. Installer menjalankan tes berurutan dan memverifikasi hash hasil salinan.

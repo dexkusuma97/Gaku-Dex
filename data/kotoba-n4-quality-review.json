@@ -2001,21 +2001,214 @@
     "kotoba-n4-ea4acebf5319",
     "kotoba-n4-3c94eb9faf55",
     "kotoba-n4-ae440bbeb556",
-    "kotoba-n4-38b1eaf39251"
+    "kotoba-n4-38b1eaf39251",
+    "kotoba-n4-038be006c682",
+    "kotoba-n4-d899eaf57e77",
+    "kotoba-n4-27a1e5704b38",
+    "kotoba-n4-4d32dfd46b1c",
+    "kotoba-n4-bdedde649fcf",
+    "kotoba-n4-b4c49b1aaea3",
+    "kotoba-n4-dd545595f62f",
+    "kotoba-n4-29548cef3523",
+    "kotoba-n4-a4f0315d6a23",
+    "kotoba-n4-6e7e50de54b4",
+    "kotoba-n4-62a97062d15e",
+    "kotoba-n4-66c3a397bae6",
+    "kotoba-n4-02c0ea4f37c4",
+    "kotoba-n4-de2767f0ad92",
+    "kotoba-n4-4bdeb60982ca",
+    "kotoba-n4-1d469fc53d51",
+    "kotoba-n4-eaff2d476394",
+    "kotoba-n4-af6c7157c67c",
+    "kotoba-n4-5b4105ddf87b",
+    "kotoba-n4-76125b439488",
+    "kotoba-n4-438a1dcc0015",
+    "kotoba-n4-dc0f5f81175e",
+    "kotoba-n4-b9d654b5e4b5",
+    "kotoba-n4-1a35d424f4f3",
+    "kotoba-n4-e57785ac9cda",
+    "kotoba-n4-8a35019c4da9",
+    "kotoba-n4-83f1f3c282cc",
+    "kotoba-n4-af859d4c5567",
+    "kotoba-n4-396063087c2a",
+    "kotoba-n4-b1f0369f49d5",
+    "kotoba-n4-016ecf4e6430",
+    "kotoba-n4-20e4bad55bba",
+    "kotoba-n4-069d9ba21780",
+    "kotoba-n4-b6f059cea4a6",
+    "kotoba-n4-a70d7be6b28c",
+    "kotoba-n4-03477956a680",
+    "kotoba-n4-a9fdd01c19da",
+    "kotoba-n4-b69eb22e5307",
+    "kotoba-n4-d2af7f49eea9",
+    "kotoba-n4-9796a98fc01a",
+    "kotoba-n4-cffde7d805d0",
+    "kotoba-n4-4d479e465f3f",
+    "kotoba-n4-71939b443057",
+    "kotoba-n4-ce37e013bcf5",
+    "kotoba-n4-8e5db474cb35",
+    "kotoba-n4-bdb40242aff8",
+    "kotoba-n4-edffe2989893",
+    "kotoba-n4-aa6a200453ad",
+    "kotoba-n4-c4f39d4aa931",
+    "kotoba-n4-b1ca7aea6876",
+    "kotoba-n4-028152c18571",
+    "kotoba-n4-0c6701091550",
+    "kotoba-n4-bab032f45b99",
+    "kotoba-n4-96c42c5e937a",
+    "kotoba-n4-dd860477f195",
+    "kotoba-n4-d3a4c5ceb135",
+    "kotoba-n4-7b276eece855",
+    "kotoba-n4-83ef2d8df825",
+    "kotoba-n4-cd9b11163915",
+    "kotoba-n4-e7e9383d261a",
+    "kotoba-n4-eddf2745707b",
+    "kotoba-n4-11b473ad1c6f",
+    "kotoba-n4-664e81d60792",
+    "kotoba-n4-6f03ec00a2cb",
+    "kotoba-n4-bef1e7d7f955",
+    "kotoba-n4-53c0ea172355",
+    "kotoba-n4-9a81dd4f1ad4",
+    "kotoba-n4-17384862ae8d",
+    "kotoba-n4-377742bf8d27",
+    "kotoba-n4-d1bb7430aadc",
+    "kotoba-n4-f6d605c457f8",
+    "kotoba-n4-26ea63d018fd",
+    "kotoba-n4-da7e48cc7fe8",
+    "kotoba-n4-5458dbcf47a7",
+    "kotoba-n4-77c8f6663d8a",
+    "kotoba-n4-a72580bb7a90",
+    "kotoba-n4-118685d720c7",
+    "kotoba-n4-c84f0eb0622e",
+    "kotoba-n4-5593dea91c47",
+    "kotoba-n4-5175bb07b74d",
+    "kotoba-n4-feb9709d0f13",
+    "kotoba-n4-6049be1204de",
+    "kotoba-n4-e02f467e4cc1",
+    "kotoba-n4-d4b52dd59883",
+    "kotoba-n4-7798a880eb39",
+    "kotoba-n4-78cdd59a6378",
+    "kotoba-n4-2ed24159917e",
+    "kotoba-n4-421903c76464",
+    "kotoba-n4-622fd46ed12f",
+    "kotoba-n4-2b385f71a38e",
+    "kotoba-n4-4663a8074508",
+    "kotoba-n4-fa34a3a38c0c",
+    "kotoba-n4-0de2e958de02",
+    "kotoba-n4-64d916eb9a83",
+    "kotoba-n4-4cf47b98f6fe",
+    "kotoba-n4-2aa9bc731fa8",
+    "kotoba-n4-628823e3d50f",
+    "kotoba-n4-ad2d0caa1514",
+    "kotoba-n4-f2e00863587d",
+    "kotoba-n4-177970d61c1d",
+    "kotoba-n4-77399d83f955",
+    "kotoba-n4-1c771da9f5c1",
+    "kotoba-n4-76734361a849",
+    "kotoba-n4-d6541978177e",
+    "kotoba-n4-f7a36a65cb31",
+    "kotoba-n4-e22061f5ca8f",
+    "kotoba-n4-84425da31b83",
+    "kotoba-n4-a22007533cf5",
+    "kotoba-n4-bed64e8235d2",
+    "kotoba-n4-fc88e5bc16b8",
+    "kotoba-n4-2b1780311f06",
+    "kotoba-n4-b3a17a2b115e",
+    "kotoba-n4-8e511bf47d9d",
+    "kotoba-n4-b3714b99fb66",
+    "kotoba-n4-4daec8acd648",
+    "kotoba-n4-d2db16cd16bd",
+    "kotoba-n4-319c4ae8a14e",
+    "kotoba-n4-4c359ff59dd6",
+    "kotoba-n4-03fa97d23044",
+    "kotoba-n4-1164a4a45851",
+    "kotoba-n4-1f93e25618f5",
+    "kotoba-n4-1ef896263f5a",
+    "kotoba-n4-12ff808b02d6",
+    "kotoba-n4-31a0eb26b088",
+    "kotoba-n4-455b430dc080",
+    "kotoba-n4-b549394c03cc",
+    "kotoba-n4-92fc46c67f9f",
+    "kotoba-n4-e8d752682a25",
+    "kotoba-n4-7f4ac2e81f69",
+    "kotoba-n4-4edb72a77f50",
+    "kotoba-n4-2c766d604a24",
+    "kotoba-n4-430014cd4cb5",
+    "kotoba-n4-c5fb8a7f4cc0",
+    "kotoba-n4-5f2cc908a95c",
+    "kotoba-n4-66d789a26dc6",
+    "kotoba-n4-09b381a203dc",
+    "kotoba-n4-2ebe464dcd95",
+    "kotoba-n4-9a456b581a0a",
+    "kotoba-n4-2c7601de64d1",
+    "kotoba-n4-e40ada79689c",
+    "kotoba-n4-31f3b4926183",
+    "kotoba-n4-d760793c1235",
+    "kotoba-n4-21566c3b7b45",
+    "kotoba-n4-8e7b92351ea8",
+    "kotoba-n4-482a309e6ade",
+    "kotoba-n4-bc79591ed82c",
+    "kotoba-n4-27ff6cf9245e",
+    "kotoba-n4-b25a8a761ea8",
+    "kotoba-n4-1bf4de89ab18",
+    "kotoba-n4-d3df621dbc2e",
+    "kotoba-n4-59e75e25bc73",
+    "kotoba-n4-c958233eec39",
+    "kotoba-n4-01a496af9ced",
+    "kotoba-n4-0584012e35ed",
+    "kotoba-n4-d76c32f47c4f",
+    "kotoba-n4-d919c2b2f25d",
+    "kotoba-n4-515fa736ba71",
+    "kotoba-n4-77abdcab2eba",
+    "kotoba-n4-f04d6397624b",
+    "kotoba-n4-592dcea1f407",
+    "kotoba-n4-fe500b4232f5",
+    "kotoba-n4-59fad08c5eea",
+    "kotoba-n4-6a294a281f11",
+    "kotoba-n4-7251404ea769",
+    "kotoba-n4-3b7cb604bd58",
+    "kotoba-n4-3d344dd0ec94",
+    "kotoba-n4-43faa1d1905b",
+    "kotoba-n4-6002f80aabc5",
+    "kotoba-n4-822a882e2a76",
+    "kotoba-n4-05d10b582da1",
+    "kotoba-n4-4fbee61d90bc",
+    "kotoba-n4-8c3538f3b606",
+    "kotoba-n4-cfffe849a487",
+    "kotoba-n4-26f2820e8a57",
+    "kotoba-n4-5ecb51856c75",
+    "kotoba-n4-8dc12478fa75",
+    "kotoba-n4-1ab50af9114d",
+    "kotoba-n4-3a298af837ec",
+    "kotoba-n4-d8997bbf7d4b",
+    "kotoba-n4-b8701763372d",
+    "kotoba-n4-2ac44c32e457",
+    "kotoba-n4-7df2e67773cc",
+    "kotoba-n4-10e01786e3e3",
+    "kotoba-n4-808825a73c26",
+    "kotoba-n4-e7ca11f4fd6f",
+    "kotoba-n4-b597e9246758",
+    "kotoba-n4-1d5d7ab48de1",
+    "kotoba-n4-599cec38911a",
+    "kotoba-n4-1e9d9eafdf45",
+    "kotoba-n4-22c7c14ffed6",
+    "kotoba-n4-69cb72c12f80",
+    "kotoba-n4-325b15687876",
+    "kotoba-n4-e3753e80c4e8",
+    "kotoba-n4-ef7ba018eb4c",
+    "kotoba-n4-86c0bdb63602",
+    "kotoba-n4-98a260d76b18",
+    "kotoba-n4-72ffb5cb4c7b",
+    "kotoba-n4-313a052b7a8b",
+    "kotoba-n4-696b66cd8fa3",
+    "kotoba-n4-53024b948140"
   ],
   "remainingFrameCounts": {
-    "topic-frame": 26,
-    "occasional-frame": 211
+    "topic-frame": 21,
+    "occasional-frame": 16
   },
   "note": "Queue flags repetitive frames, not proven errors. Other examples and all glosses still require editorial review.",
   "queue": [
-    {
-      "id": "kotoba-n4-038be006c682",
-      "jp": "月",
-      "kana": "げつ",
-      "meaning": "hari Senin",
-      "reason": "topic-frame"
-    },
     {
       "id": "kotoba-n4-a8f9b8613976",
       "jp": "つゆ",
@@ -2045,13 +2238,6 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-d899eaf57e77",
-      "jp": "モーターズ",
-      "kana": "もーたーず",
-      "meaning": "Motors (perusahaan fiktif)",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-31670e09ed35",
       "jp": "かいご",
       "kana": "かいご",
@@ -2064,13 +2250,6 @@
       "kana": "しゅうしょく",
       "meaning": "pencarian kerja",
       "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-27a1e5704b38",
-      "jp": "すぎる",
-      "kana": "すぎる",
-      "meaning": "terlalu ... / terlalu",
-      "reason": "occasional-frame"
     },
     {
       "id": "kotoba-n4-f8dd78c72669",
@@ -2115,13 +2294,6 @@
       "reason": "occasional-frame"
     },
     {
-      "id": "kotoba-n4-4d32dfd46b1c",
-      "jp": "のど",
-      "kana": "のど",
-      "meaning": "tenggorokan",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-75935806ab3e",
       "jp": "さがする",
       "kana": "さがす",
@@ -2133,13 +2305,6 @@
       "jp": "じしん",
       "kana": "じしん",
       "meaning": "percaya diri/kepercayaan atas diri sendiri / gempa bumi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-bdedde649fcf",
-      "jp": "日",
-      "kana": "にち",
-      "meaning": "... hari",
       "reason": "topic-frame"
     },
     {
@@ -2290,13 +2455,6 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-b4c49b1aaea3",
-      "jp": "旅券",
-      "kana": "りょけん",
-      "meaning": "tiket transportasi",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-a7e6c7e6002e",
       "jp": "守るま",
       "kana": "もる",
@@ -2309,1364 +2467,6 @@
       "kana": "しげん",
       "meaning": "dapat didaur ulang",
       "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-dd545595f62f",
-      "jp": "自殺する",
-      "kana": "じさつする",
-      "meaning": "bunuh diri",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-29548cef3523",
-      "jp": "比較する",
-      "kana": "ひかくする",
-      "meaning": "membandingkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-a4f0315d6a23",
-      "jp": "援助する",
-      "kana": "えんじょする",
-      "meaning": "membantu, mendukung",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6e7e50de54b4",
-      "jp": "限る",
-      "kana": "かぎる",
-      "meaning": "membatasi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-62a97062d15e",
-      "jp": "制限する",
-      "kana": "せいげんする",
-      "meaning": "membatasi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-66c3a397bae6",
-      "jp": "支払う",
-      "kana": "しはらう",
-      "meaning": "membayar",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-02c0ea4f37c4",
-      "jp": "嫌う",
-      "kana": "きらう",
-      "meaning": "membenci",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-de2767f0ad92",
-      "jp": "伸ばす",
-      "kana": "のばす",
-      "meaning": "membentangkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4bdeb60982ca",
-      "jp": "飼う",
-      "kana": "かう",
-      "meaning": "memelihara hewan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1d469fc53d51",
-      "jp": "与える",
-      "kana": "あたえる",
-      "meaning": "memberikan, mempersembahkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-eaff2d476394",
-      "jp": "建設する",
-      "kana": "けんせつする",
-      "meaning": "membangun",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-af6c7157c67c",
-      "jp": "伸びる",
-      "kana": "のびる",
-      "meaning": "membujur, memanjang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-5b4105ddf87b",
-      "jp": "証明する",
-      "kana": "しょうめいする",
-      "meaning": "membuktikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-76125b439488",
-      "jp": "殺す",
-      "kana": "ころす",
-      "meaning": "membunuh",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-438a1dcc0015",
-      "jp": "腐る",
-      "kana": "くさる",
-      "meaning": "membusuk",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-dc0f5f81175e",
-      "jp": "解く",
-      "kana": "とく",
-      "meaning": "memecahkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b9d654b5e4b5",
-      "jp": "掴む",
-      "kana": "つかむ",
-      "meaning": "memegang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1a35d424f4f3",
-      "jp": "抱く",
-      "kana": "いだく",
-      "meaning": "memeluk",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e57785ac9cda",
-      "jp": "命じる",
-      "kana": "めいじる",
-      "meaning": "memerintah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-8a35019c4da9",
-      "jp": "選択する",
-      "kana": "せんたくする",
-      "meaning": "memilih",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-83f1f3c282cc",
-      "jp": "移す",
-      "kana": "うつす",
-      "meaning": "memindah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-af859d4c5567",
-      "jp": "求める",
-      "kana": "もとめる",
-      "meaning": "meminta",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-396063087c2a",
-      "jp": "省く",
-      "kana": "はぶく",
-      "meaning": "memotong, mengesampingkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b1f0369f49d5",
-      "jp": "構う",
-      "kana": "かまう",
-      "meaning": "mempedulikan, menghiraukan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-016ecf4e6430",
-      "jp": "議論する",
-      "kana": "ぎろんする",
-      "meaning": "memperbincangkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-20e4bad55bba",
-      "jp": "論じる",
-      "kana": "ろんじる",
-      "meaning": "memperbincangkan, membahas",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-069d9ba21780",
-      "jp": "警告する",
-      "kana": "けいこくする",
-      "meaning": "memperingati",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b6f059cea4a6",
-      "jp": "防ぐ",
-      "kana": "ふせぐ",
-      "meaning": "menangkal",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-a70d7be6b28c",
-      "jp": "逮捕する",
-      "kana": "たいほする",
-      "meaning": "menangkap",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-03477956a680",
-      "jp": "捕まる",
-      "kana": "つかまる",
-      "meaning": "tertangkap",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-a9fdd01c19da",
-      "jp": "供給する",
-      "kana": "きょうきゅうする",
-      "meaning": "memasok; menyediakan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b69eb22e5307",
-      "jp": "達する",
-      "kana": "たっする",
-      "meaning": "mencapai",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d2af7f49eea9",
-      "jp": "商売する",
-      "kana": "しょうばいする",
-      "meaning": "berdagang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-9796a98fc01a",
-      "jp": "基づく",
-      "kana": "もとづく",
-      "meaning": "berdasarkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-cffde7d805d0",
-      "jp": "黙る",
-      "kana": "だまる",
-      "meaning": "berdiam",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4d479e465f3f",
-      "jp": "立ち上げる",
-      "kana": "たちあげる",
-      "meaning": "memulai; mendirikan; meluncurkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-71939b443057",
-      "jp": "留める",
-      "kana": "とめる",
-      "meaning": "menahan; memasang; mencatat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-ce37e013bcf5",
-      "jp": "約束する",
-      "kana": "やくそくする",
-      "meaning": "berjanji, membuat janji",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-8e5db474cb35",
-      "jp": "関連する",
-      "kana": "かんれんする",
-      "meaning": "berkaitan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-bdb40242aff8",
-      "jp": "裏切る",
-      "kana": "うらぎる",
-      "meaning": "berkhianat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-edffe2989893",
-      "jp": "集中する",
-      "kana": "しゅうちゅうする",
-      "meaning": "berkonsentrasi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-aa6a200453ad",
-      "jp": "貢献する",
-      "kana": "こうけんする",
-      "meaning": "berkontribusi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c4f39d4aa931",
-      "jp": "会合する",
-      "kana": "かいごうする",
-      "meaning": "bertemu; mengadakan pertemuan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b1ca7aea6876",
-      "jp": "減る",
-      "kana": "へる",
-      "meaning": "berkurang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-028152c18571",
-      "jp": "異なる",
-      "kana": "ことなる",
-      "meaning": "berlainan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-0c6701091550",
-      "jp": "訓練する",
-      "kana": "くんれんする",
-      "meaning": "berlatih",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-bab032f45b99",
-      "jp": "愛する",
-      "kana": "あいする",
-      "meaning": "mencintai",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-96c42c5e937a",
-      "jp": "苦しむ",
-      "kana": "くるしむ",
-      "meaning": "menderita",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-dd860477f195",
-      "jp": "発見する",
-      "kana": "はっけんする",
-      "meaning": "mendeteksi, mendapati",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d3a4c5ceb135",
-      "jp": "建築する",
-      "kana": "けんちくする",
-      "meaning": "mendirikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-7b276eece855",
-      "jp": "強調する",
-      "kana": "きょうちょうする",
-      "meaning": "menekankan, menonjolkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-83ef2d8df825",
-      "jp": "検討する",
-      "kana": "けんとうする",
-      "meaning": "meneliti",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-cd9b11163915",
-      "jp": "通す",
-      "kana": "とおす",
-      "meaning": "menembus",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e7e9383d261a",
-      "jp": "占める",
-      "kana": "しめる",
-      "meaning": "menempati; menduduki; mencakup",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-eddf2745707b",
-      "jp": "張る",
-      "kana": "はる",
-      "meaning": "membentangkan; menempelkan; memasang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-11b473ad1c6f",
-      "jp": "飛ばす",
-      "kana": "とばす",
-      "meaning": "menerbangkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-664e81d60792",
-      "jp": "出版する",
-      "kana": "しゅっぱんする",
-      "meaning": "menerbitkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6f03ec00a2cb",
-      "jp": "頂く",
-      "kana": "いただく",
-      "meaning": "menerima",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-bef1e7d7f955",
-      "jp": "決定する",
-      "kana": "けっていする",
-      "meaning": "menetapkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-53c0ea172355",
-      "jp": "記録する",
-      "kana": "きろくする",
-      "meaning": "mengabadikan, mencatat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-9a81dd4f1ad4",
-      "jp": "適用する",
-      "kana": "てきようする",
-      "meaning": "menerapkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-17384862ae8d",
-      "jp": "勧める",
-      "kana": "すすめる",
-      "meaning": "menyarankan; menganjurkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-377742bf8d27",
-      "jp": "終える",
-      "kana": "おえる",
-      "meaning": "mengakhiri",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d1bb7430aadc",
-      "jp": "通じる",
-      "kana": "つうじる",
-      "meaning": "tersampaikan; dapat dipahami; terhubung",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-f6d605c457f8",
-      "jp": "観察する",
-      "kana": "かんさつする",
-      "meaning": "mengamati",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-26ea63d018fd",
-      "jp": "取り上げる",
-      "kana": "とりあげる",
-      "meaning": "mengambil",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-da7e48cc7fe8",
-      "jp": "分析する",
-      "kana": "ぶんせきする",
-      "meaning": "menganalisa",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-5458dbcf47a7",
-      "jp": "頼る",
-      "kana": "たよる",
-      "meaning": "mengandalkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-77c8f6663d8a",
-      "jp": "失業する",
-      "kana": "しつぎょうする",
-      "meaning": "menganggur",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-a72580bb7a90",
-      "jp": "配達する",
-      "kana": "はいたつする",
-      "meaning": "mengantarkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-118685d720c7",
-      "jp": "振る",
-      "kana": "ふる",
-      "meaning": "mengayunkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c84f0eb0622e",
-      "jp": "批評する",
-      "kana": "ひひょうする",
-      "meaning": "mengecam, mengkritik",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-5593dea91c47",
-      "jp": "変更する",
-      "kana": "へんこうする",
-      "meaning": "mengubah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-5175bb07b74d",
-      "jp": "追う",
-      "kana": "おう",
-      "meaning": "mengejar",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-feb9709d0f13",
-      "jp": "輸出する",
-      "kana": "ゆしゅつする",
-      "meaning": "mengekspor",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6049be1204de",
-      "jp": "表す",
-      "kana": "あらわす",
-      "meaning": "mengekspresikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e02f467e4cc1",
-      "jp": "経営する",
-      "kana": "けいえいする",
-      "meaning": "mengelola",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d4b52dd59883",
-      "jp": "発展する",
-      "kana": "はってんする",
-      "meaning": "berkembang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-7798a880eb39",
-      "jp": "述べる",
-      "kana": "のべる",
-      "meaning": "mengemukakan, menceritakan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-78cdd59a6378",
-      "jp": "囲む",
-      "kana": "かこむ",
-      "meaning": "mengepung",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2ed24159917e",
-      "jp": "唸る",
-      "kana": "うなる",
-      "meaning": "mengerang, merintih",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-421903c76464",
-      "jp": "除く",
-      "kana": "のぞく",
-      "meaning": "mengesampingkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-622fd46ed12f",
-      "jp": "雇う",
-      "kana": "やとう",
-      "meaning": "menggaji, mempekerjakan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2b385f71a38e",
-      "jp": "邪魔する",
-      "kana": "じゃまする",
-      "meaning": "mengganggu",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4663a8074508",
-      "jp": "迷惑する",
-      "kana": "めいわくする",
-      "meaning": "merasa terganggu; mengalami kesulitan akibat orang lain",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-fa34a3a38c0c",
-      "jp": "換える",
-      "kana": "かえる",
-      "meaning": "mengganti",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-0de2e958de02",
-      "jp": "交換する",
-      "kana": "こうかんする",
-      "meaning": "mengganti, menukar",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-64d916eb9a83",
-      "jp": "震える",
-      "kana": "ふるえる",
-      "meaning": "menggigil, gemetaran",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4cf47b98f6fe",
-      "jp": "狂う",
-      "kana": "くるう",
-      "meaning": "menggila",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2aa9bc731fa8",
-      "jp": "及ぼす",
-      "kana": "およぼす",
-      "meaning": "menimbulkan; memberikan pengaruh",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-628823e3d50f",
-      "jp": "出席する",
-      "kana": "しゅっせきする",
-      "meaning": "menghadiri",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-ad2d0caa1514",
-      "jp": "望む",
-      "kana": "のぞむ",
-      "meaning": "mengharapkan, berkeinginan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-f2e00863587d",
-      "jp": "避ける",
-      "kana": "さける",
-      "meaning": "menghindar",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-177970d61c1d",
-      "jp": "数える",
-      "kana": "かぞえる",
-      "meaning": "menghitung",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-77399d83f955",
-      "jp": "計算する",
-      "kana": "けいさんする",
-      "meaning": "menghitung, menjabarkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1c771da9f5c1",
-      "jp": "尊敬する",
-      "kana": "そんけいする",
-      "meaning": "menghormati",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-76734361a849",
-      "jp": "罰する",
-      "kana": "ばっする",
-      "meaning": "menghukum",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d6541978177e",
-      "jp": "結ぶ",
-      "kana": "むすぶ",
-      "meaning": "mengikat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-f7a36a65cb31",
-      "jp": "輸入する",
-      "kana": "ゆにゅうする",
-      "meaning": "mengimpor",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e22061f5ca8f",
-      "jp": "現す",
-      "kana": "あらわす",
-      "meaning": "mengindikasikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-84425da31b83",
-      "jp": "贈る",
-      "kana": "おくる",
-      "meaning": "mengirim hadiah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-a22007533cf5",
-      "jp": "許可する",
-      "kana": "きょかする",
-      "meaning": "mengizinkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-bed64e8235d2",
-      "jp": "消費する",
-      "kana": "しょうひする",
-      "meaning": "mengonsumsi; menghabiskan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-fc88e5bc16b8",
-      "jp": "叱る",
-      "kana": "しかる",
-      "meaning": "mengomeli, memarahi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2b1780311f06",
-      "jp": "契約する",
-      "kana": "けいやくする",
-      "meaning": "mengontrak",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b3a17a2b115e",
-      "jp": "左右する",
-      "kana": "さゆうする",
-      "meaning": "menguasai, mengendalikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-8e511bf47d9d",
-      "jp": "変化する",
-      "kana": "へんかする",
-      "meaning": "berubah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b3714b99fb66",
-      "jp": "計る",
-      "kana": "はかる",
-      "meaning": "mengukur",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4daec8acd648",
-      "jp": "繰り返す",
-      "kana": "くりかえす",
-      "meaning": "mengulang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d2db16cd16bd",
-      "jp": "発表する",
-      "kana": "はっぴょうする",
-      "meaning": "mengumumkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-319c4ae8a14e",
-      "jp": "招待する",
-      "kana": "しょうたいする",
-      "meaning": "mengundang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4c359ff59dd6",
-      "jp": "訪問する",
-      "kana": "ほうもんする",
-      "meaning": "mengunjungi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-03fa97d23044",
-      "jp": "管理する",
-      "kana": "かんりする",
-      "meaning": "mengurus",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1164a4a45851",
-      "jp": "処理する",
-      "kana": "しょりする",
-      "meaning": "mengurus, mengolah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1f93e25618f5",
-      "jp": "評価する",
-      "kana": "ひょうかする",
-      "meaning": "menilai",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1ef896263f5a",
-      "jp": "修正する",
-      "kana": "しゅうせいする",
-      "meaning": "memperbaiki; merevisi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-12ff808b02d6",
-      "jp": "就く",
-      "kana": "つく",
-      "meaning": "menjabat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-31a0eb26b088",
-      "jp": "濡れる",
-      "kana": "ぬれる",
-      "meaning": "menjadi basah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-455b430dc080",
-      "jp": "空く",
-      "kana": "すく",
-      "meaning": "menjadi kosong",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b549394c03cc",
-      "jp": "支配する",
-      "kana": "しはいする",
-      "meaning": "menguasai; memerintah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-92fc46c67f9f",
-      "jp": "保障する",
-      "kana": "ほしょうする",
-      "meaning": "menjamin",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e8d752682a25",
-      "jp": "離す",
-      "kana": "はなす",
-      "meaning": "menjauhkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-7f4ac2e81f69",
-      "jp": "混雑する",
-      "kana": "こんざつする",
-      "meaning": "ramai; penuh sesak",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4edb72a77f50",
-      "jp": "詰める",
-      "kana": "つめる",
-      "meaning": "menjejalkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2c766d604a24",
-      "jp": "批判する",
-      "kana": "ひはんする",
-      "meaning": "mengkritik",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-430014cd4cb5",
-      "jp": "断る",
-      "kana": "ことわる",
-      "meaning": "menolak",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c5fb8a7f4cc0",
-      "jp": "振り向く",
-      "kana": "ふりむく",
-      "meaning": "menoleh",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-5f2cc908a95c",
-      "jp": "向く",
-      "kana": "むく",
-      "meaning": "menoleh, berpaling",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-66d789a26dc6",
-      "jp": "収める",
-      "kana": "おさめる",
-      "meaning": "menuai",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-09b381a203dc",
-      "jp": "替える",
-      "kana": "かえる",
-      "meaning": "menukar",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2ebe464dcd95",
-      "jp": "指す",
-      "kana": "さす",
-      "meaning": "menunjuk",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-9a456b581a0a",
-      "jp": "示す",
-      "kana": "しめす",
-      "meaning": "menunjukan, mengindikasikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2c7601de64d1",
-      "jp": "下ろす",
-      "kana": "おろす",
-      "meaning": "menurunkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e40ada79689c",
-      "jp": "刺す",
-      "kana": "さす",
-      "meaning": "menusuk, menikam",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-31f3b4926183",
-      "jp": "覆う",
-      "kana": "おおう",
-      "meaning": "menutupi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d760793c1235",
-      "jp": "気付く",
-      "kana": "きづく",
-      "meaning": "menyadari",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-21566c3b7b45",
-      "jp": "責める",
-      "kana": "せめる",
-      "meaning": "menyalahkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-8e7b92351ea8",
-      "jp": "吠える",
-      "kana": "ほえる",
-      "meaning": "menyalak, menggonggong, meraung",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-482a309e6ade",
-      "jp": "歓迎する",
-      "kana": "かんげいする",
-      "meaning": "menyambut",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-bc79591ed82c",
-      "jp": "合わせる",
-      "kana": "あわせる",
-      "meaning": "menyatukan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-27ff6cf9245e",
-      "jp": "救う",
-      "kana": "すくう",
-      "meaning": "menyelamatkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b25a8a761ea8",
-      "jp": "調査する",
-      "kana": "ちょうさする",
-      "meaning": "menyelidiki",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1bf4de89ab18",
-      "jp": "隠す",
-      "kana": "かくす",
-      "meaning": "menyembunyikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d3df621dbc2e",
-      "jp": "完成する",
-      "kana": "かんせいする",
-      "meaning": "selesai; rampung",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-59e75e25bc73",
-      "jp": "触れる",
-      "kana": "ふれる",
-      "meaning": "menyentuh",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c958233eec39",
-      "jp": "諦める",
-      "kana": "あきらめる",
-      "meaning": "menyerah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-01a496af9ced",
-      "jp": "任せる",
-      "kana": "まかせる",
-      "meaning": "menyerahkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-0584012e35ed",
-      "jp": "撃つ",
-      "kana": "うつ",
-      "meaning": "menembak",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d76c32f47c4f",
-      "jp": "攻撃する",
-      "kana": "こうげきする",
-      "meaning": "menyerang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d919c2b2f25d",
-      "jp": "放送する",
-      "kana": "ほうそうする",
-      "meaning": "menyiarkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-515fa736ba71",
-      "jp": "結論する",
-      "kana": "けつろんする",
-      "meaning": "menyimpulkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-77abdcab2eba",
-      "jp": "残す",
-      "kana": "のこす",
-      "meaning": "menyisakan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-f04d6397624b",
-      "jp": "支える",
-      "kana": "ささえる",
-      "meaning": "menyokong, menopang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-592dcea1f407",
-      "jp": "刺激する",
-      "kana": "しげきする",
-      "meaning": "merangsang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-fe500b4232f5",
-      "jp": "済ませる",
-      "kana": "すませる",
-      "meaning": "menyelesaikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-59fad08c5eea",
-      "jp": "推薦する",
-      "kana": "すいせんする",
-      "meaning": "merekomendasikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6a294a281f11",
-      "jp": "対する",
-      "kana": "たいする",
-      "meaning": "terhadap, menghadapi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-7251404ea769",
-      "jp": "繋ぐ",
-      "kana": "つなぐ",
-      "meaning": "menghubungkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-3b7cb604bd58",
-      "jp": "覚める",
-      "kana": "さめる",
-      "meaning": "terjaga, terbangun",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-3d344dd0ec94",
-      "jp": "感心する",
-      "kana": "かんしんする",
-      "meaning": "terkesan, mengagumi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-43faa1d1905b",
-      "jp": "得る",
-      "kana": "える",
-      "meaning": "memperoleh",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6002f80aabc5",
-      "jp": "備える",
-      "kana": "そなえる",
-      "meaning": "mempersiapkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-822a882e2a76",
-      "jp": "褒める",
-      "kana": "ほめる",
-      "meaning": "memuji",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-05d10b582da1",
-      "jp": "当てる",
-      "kana": "あてる",
-      "meaning": "mengenai; menebak dengan tepat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4fbee61d90bc",
-      "jp": "快復する",
-      "kana": "かいふくする",
-      "meaning": "pulih (kesehatan)",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-8c3538f3b606",
-      "jp": "決心する",
-      "kana": "けっしんする",
-      "meaning": "bertekad; membulatkan tekad",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-cfffe849a487",
-      "jp": "叩く",
-      "kana": "たたく",
-      "meaning": "memukul; mengetuk",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-26f2820e8a57",
-      "jp": "請求する",
-      "kana": "せいきゅうする",
-      "meaning": "menagih",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-5ecb51856c75",
-      "jp": "我慢する",
-      "kana": "がまんする",
-      "meaning": "menahan, bersabar",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-8dc12478fa75",
-      "jp": "乗せる",
-      "kana": "のせる",
-      "meaning": "menaikkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1ab50af9114d",
-      "jp": "増す",
-      "kana": "ます",
-      "meaning": "menambah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-3a298af837ec",
-      "jp": "加える",
-      "kana": "くわえる",
-      "meaning": "menambah, menambahkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d8997bbf7d4b",
-      "jp": "抜ける",
-      "kana": "ぬける",
-      "meaning": "terlepas",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b8701763372d",
-      "jp": "微笑む",
-      "kana": "ほほえむ",
-      "meaning": "tersenyum",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2ac44c32e457",
-      "jp": "計画する",
-      "kana": "けいかくする",
-      "meaning": "merencanakan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-7df2e67773cc",
-      "jp": "奪う",
-      "kana": "うばう",
-      "meaning": "merenggut",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-10e01786e3e3",
-      "jp": "破る",
-      "kana": "やぶる",
-      "meaning": "merobek",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-808825a73c26",
-      "jp": "倒す",
-      "kana": "たおす",
-      "meaning": "merobohkan, meruntuhkan, mengalahkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e7ca11f4fd6f",
-      "jp": "掲示する",
-      "kana": "けいじする",
-      "meaning": "memasang pengumuman",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b597e9246758",
-      "jp": "現れる",
-      "kana": "あらわれる",
-      "meaning": "muncul",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1d5d7ab48de1",
-      "jp": "吐く",
-      "kana": "はく",
-      "meaning": "muntah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-599cec38911a",
-      "jp": "昇る",
-      "kana": "のぼる",
-      "meaning": "naik, terbit",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-1e9d9eafdf45",
-      "jp": "承知する",
-      "kana": "しょうちする",
-      "meaning": "paham, mengerti",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-22c7c14ffed6",
-      "jp": "解ける",
-      "kana": "とける",
-      "meaning": "terurai; terlepas; terpecahkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-69cb72c12f80",
-      "jp": "満ちる",
-      "kana": "みちる",
-      "meaning": "menjadi penuh",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-325b15687876",
-      "jp": "去る",
-      "kana": "さる",
-      "meaning": "pergi, meninggalkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e3753e80c4e8",
-      "jp": "関する",
-      "kana": "かんする",
-      "meaning": "sehubungan dengan, berkenaan dengan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-ef7ba018eb4c",
-      "jp": "完了する",
-      "kana": "かんりょうする",
-      "meaning": "selesai, rampung",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-86c0bdb63602",
-      "jp": "訴える",
-      "kana": "うったえる",
-      "meaning": "mengadukan; menuntut; mengungkapkan keluhan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-98a260d76b18",
-      "jp": "成功する",
-      "kana": "せいこうする",
-      "meaning": "sukses",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-72ffb5cb4c7b",
-      "jp": "恐れる",
-      "kana": "おそれる",
-      "meaning": "takut",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-313a052b7a8b",
-      "jp": "溺れる",
-      "kana": "おぼれる",
-      "meaning": "tenggelam",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-696b66cd8fa3",
-      "jp": "沈む",
-      "kana": "しずむ",
-      "meaning": "tenggelam",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-53024b948140",
-      "jp": "育つ",
-      "kana": "そだつ",
-      "meaning": "tumbuh",
-      "reason": "occasional-frame"
     }
   ]
 }

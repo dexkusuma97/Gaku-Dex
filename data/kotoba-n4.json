@@ -8,7 +8,7 @@
     "examplePolicy": "Contoh Jepang, kana, dan arti Indonesia. Ungkapan dan hitungan memakai contoh khusus; sebagian kata memakai pola kalimat sederhana yang berulang.",
     "examplesMissing": 0,
     "contextReviewDate": "2026-10-31",
-    "contextReviewCount": 2000,
+    "contextReviewCount": 2200,
     "levelPolicyVersion": 2
   },
   "sources": [
@@ -3705,9 +3705,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "月について教えてください。",
-        "kana": "げつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang hari Senin."
+        "jp": "よていひょうの「げつ」はげつようびのことです。",
+        "kana": "よていひょう の「げつ」 は げつようび の こと です。",
+        "meaning": "“Getsu” pada jadwal berarti hari Senin."
       },
       "romaji": "getsu"
     },
@@ -11933,9 +11933,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "モーターズについて教えてください。",
-        "kana": "もーたーず に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Motors."
+        "jp": "モーターズというかいしゃではたらくせっていです。",
+        "kana": "モーターズ と いう かいしゃ で はたらく せってい です。",
+        "meaning": "Dalam skenario ini, tokohnya bekerja di perusahaan bernama Motors."
       },
       "romaji": "mootaazu"
     },
@@ -16195,9 +16195,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "すぎることもあります。",
-        "kana": "すぎる ことも あります。",
-        "meaning": "Ada kalanya terlalu."
+        "jp": "いそがしすぎて、やすむじかんがありませんでした。",
+        "kana": "いそがしすぎて、やすむ じかん が ありませんでした。",
+        "meaning": "Saya terlalu sibuk sehingga tidak punya waktu beristirahat."
       },
       "romaji": "sugiru"
     },
@@ -21577,9 +21577,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "のどについて教えてください。",
-        "kana": "のど に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tenggorokan."
+        "jp": "のどのちょうしがよくありません。",
+        "kana": "のど の ちょうし が よく ありません。",
+        "meaning": "Kondisi tenggorokan saya kurang baik."
       },
       "romaji": "nodo"
     },
@@ -25345,9 +25345,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "日について教えてください。",
-        "kana": "にち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang hari."
+        "jp": "りょこうはじゅうごにちかんです。",
+        "kana": "りょこう は じゅうごにちかん です。",
+        "meaning": "Perjalanannya selama lima belas hari."
       },
       "romaji": "nichi"
     },
@@ -64628,7 +64628,7 @@
     {
       "jp": "旅券",
       "kana": "りょけん",
-      "meaning": "tiket transportasi",
+      "meaning": "paspor",
       "sources": [
         {
           "id": 12,
@@ -64648,9 +64648,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "旅券について教えてください。",
-        "kana": "りょけん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tiket transportasi."
+        "jp": "りょけんをかばんにいれました。",
+        "kana": "りょけん を かばん に いれました。",
+        "meaning": "Saya memasukkan paspor ke tas."
       },
       "romaji": "ryoken"
     },
@@ -95440,9 +95440,9 @@
         "kana": "じさつします"
       },
       "example": {
-        "jp": "自殺することもあります。",
-        "kana": "じさつする ことも あります。",
-        "meaning": "Ada kalanya bunuh diri."
+        "jp": "しんぶんで、じさつするひとをへらすとりくみのきじをよみました。",
+        "kana": "しんぶん で、じさつ する ひと を へらす とりくみ の きじ を よみました。",
+        "meaning": "Saya membaca artikel di koran tentang upaya mengurangi orang yang bunuh diri."
       },
       "romaji": "jisatsusuru"
     },
@@ -96936,9 +96936,9 @@
         "kana": "ひかくします"
       },
       "example": {
-        "jp": "比較することもあります。",
-        "kana": "ひかくする ことも あります。",
-        "meaning": "Ada kalanya membandingkan."
+        "jp": "みっつのプランをひかくしました。",
+        "kana": "みっつ の プラン を ひかく しました。",
+        "meaning": "Saya membandingkan tiga rencana."
       },
       "romaji": "hikakusuru"
     },
@@ -96970,9 +96970,9 @@
         "kana": "えんじょします"
       },
       "example": {
-        "jp": "援助することもあります。",
-        "kana": "えんじょする ことも あります。",
-        "meaning": "Ada kalanya membantu, mendukung."
+        "jp": "りゅうがくせいをえんじょするだんたいです。",
+        "kana": "りゅうがくせい を えんじょ する だんたい です。",
+        "meaning": "Ini organisasi yang membantu pelajar asing."
       },
       "romaji": "enjosuru"
     },
@@ -97004,9 +97004,9 @@
         "kana": "かぎります"
       },
       "example": {
-        "jp": "限ることもあります。",
-        "kana": "かぎる ことも あります。",
-        "meaning": "Ada kalanya membatasi."
+        "jp": "もうしこみはがくせいにかぎります。",
+        "kana": "もうしこみ は がくせい に かぎります。",
+        "meaning": "Pendaftaran dibatasi untuk pelajar."
       },
       "romaji": "kagiru"
     },
@@ -97038,9 +97038,9 @@
         "kana": "せいげんします"
       },
       "example": {
-        "jp": "制限することもあります。",
-        "kana": "せいげんする ことも あります。",
-        "meaning": "Ada kalanya membatasi."
+        "jp": "りようじかんをせいげんしました。",
+        "kana": "りようじかん を せいげん しました。",
+        "meaning": "Kami membatasi waktu penggunaan."
       },
       "romaji": "seigensuru"
     },
@@ -97072,9 +97072,9 @@
         "kana": "しはらいます"
       },
       "example": {
-        "jp": "支払うこともあります。",
-        "kana": "しはらう ことも あります。",
-        "meaning": "Ada kalanya membayar."
+        "jp": "でんきだいをしはらいました。",
+        "kana": "でんきだい を しはらいました。",
+        "meaning": "Saya membayar tagihan listrik."
       },
       "romaji": "shiharau"
     },
@@ -97140,9 +97140,9 @@
         "kana": "きらいます"
       },
       "example": {
-        "jp": "嫌うこともあります。",
-        "kana": "きらう ことも あります。",
-        "meaning": "Ada kalanya membenci."
+        "jp": "かのじょはうそをきらいます。",
+        "kana": "かのじょ は うそ を きらいます。",
+        "meaning": "Dia tidak menyukai kebohongan."
       },
       "romaji": "kirau"
     },
@@ -97174,9 +97174,9 @@
         "kana": "のばします"
       },
       "example": {
-        "jp": "伸ばすこともあります。",
-        "kana": "のばす ことも あります。",
-        "meaning": "Ada kalanya membentangkan."
+        "jp": "うでをまえにのばしました。",
+        "kana": "うで を まえ に のばしました。",
+        "meaning": "Saya merentangkan lengan ke depan."
       },
       "romaji": "nobasu"
     },
@@ -97208,9 +97208,9 @@
         "kana": "かいます"
       },
       "example": {
-        "jp": "飼うこともあります。",
-        "kana": "かう ことも あります。",
-        "meaning": "Ada kalanya memelihara hewan."
+        "jp": "うちでいぬをかっています。",
+        "kana": "うち で いぬ を かって います。",
+        "meaning": "Saya memelihara anjing di rumah."
       },
       "romaji": "kau"
     },
@@ -97242,9 +97242,9 @@
         "kana": "あたえます"
       },
       "example": {
-        "jp": "与えることもあります。",
-        "kana": "あたえる ことも あります。",
-        "meaning": "Ada kalanya memberikan, mempersembahkan."
+        "jp": "はなにみずをあたえました。",
+        "kana": "はな に みず を あたえました。",
+        "meaning": "Saya memberikan air kepada bunga."
       },
       "romaji": "ataeru"
     },
@@ -97276,9 +97276,9 @@
         "kana": "けんせつします"
       },
       "example": {
-        "jp": "建設することもあります。",
-        "kana": "けんせつする ことも あります。",
-        "meaning": "Ada kalanya membangun."
+        "jp": "あたらしいがっこうをけんせつしています。",
+        "kana": "あたらしい がっこう を けんせつ して います。",
+        "meaning": "Sekolah baru sedang dibangun."
       },
       "romaji": "kensetsusuru"
     },
@@ -97310,9 +97310,9 @@
         "kana": "のびます"
       },
       "example": {
-        "jp": "伸びることもあります。",
-        "kana": "のびる ことも あります。",
-        "meaning": "Ada kalanya membujur, memanjang."
+        "jp": "かみがずいぶんのびました。",
+        "kana": "かみ が ずいぶん のびました。",
+        "meaning": "Rambut saya sudah tumbuh panjang."
       },
       "romaji": "nobiru"
     },
@@ -97344,9 +97344,9 @@
         "kana": "しょうめいします"
       },
       "example": {
-        "jp": "証明することもあります。",
-        "kana": "しょうめいする ことも あります。",
-        "meaning": "Ada kalanya membuktikan."
+        "jp": "けいさんでこたえがただしいとしょうめいしました。",
+        "kana": "けいさん で こたえ が ただしい と しょうめい しました。",
+        "meaning": "Saya membuktikan melalui perhitungan bahwa jawabannya benar."
       },
       "romaji": "shoumeisuru"
     },
@@ -97378,9 +97378,9 @@
         "kana": "ころします"
       },
       "example": {
-        "jp": "殺すこともあります。",
-        "kana": "ころす ことも あります。",
-        "meaning": "Ada kalanya membunuh."
+        "jp": "ものがたりで、りょうしがおおかみをころしました。",
+        "kana": "ものがたり で、りょうし が おおかみ を ころしました。",
+        "meaning": "Dalam cerita, pemburu membunuh serigala."
       },
       "romaji": "korosu"
     },
@@ -97412,9 +97412,9 @@
         "kana": "くさります"
       },
       "example": {
-        "jp": "腐ることもあります。",
-        "kana": "くさる ことも あります。",
-        "meaning": "Ada kalanya membusuk."
+        "jp": "れいぞうこのやさいがくさってしまいました。",
+        "kana": "れいぞうこ の やさい が くさって しまいました。",
+        "meaning": "Sayuran di kulkas membusuk."
       },
       "romaji": "kusaru"
     },
@@ -97446,9 +97446,9 @@
         "kana": "ときます"
       },
       "example": {
-        "jp": "解くこともあります。",
-        "kana": "とく ことも あります。",
-        "meaning": "Ada kalanya memecahkan."
+        "jp": "すうがくのもんだいをときました。",
+        "kana": "すうがく の もんだい を ときました。",
+        "meaning": "Saya memecahkan soal matematika."
       },
       "romaji": "toku"
     },
@@ -97480,9 +97480,9 @@
         "kana": "つかみます"
       },
       "example": {
-        "jp": "掴むこともあります。",
-        "kana": "つかむ ことも あります。",
-        "meaning": "Ada kalanya memegang."
+        "jp": "ロープをしっかりつかみました。",
+        "kana": "ロープ を しっかり つかみました。",
+        "meaning": "Saya memegang tali dengan kuat."
       },
       "romaji": "tsukamu"
     },
@@ -97514,9 +97514,9 @@
         "kana": "いだきます"
       },
       "example": {
-        "jp": "抱くこともあります。",
-        "kana": "いだく ことも あります。",
-        "meaning": "Ada kalanya memeluk."
+        "jp": "はははあかちゃんをむねにいだいていました。",
+        "kana": "はは は あかちゃん を むね に いだいて いました。",
+        "meaning": "Ibu sedang memeluk bayi di dadanya."
       },
       "romaji": "idaku"
     },
@@ -97548,9 +97548,9 @@
         "kana": "めいじります"
       },
       "example": {
-        "jp": "命じることもあります。",
-        "kana": "めいじる ことも あります。",
-        "meaning": "Ada kalanya memerintah."
+        "jp": "じょうしがさぎょうのちゅうしをめいじました。",
+        "kana": "じょうし が さぎょう の ちゅうし を めいじました。",
+        "meaning": "Atasan memerintahkan penghentian pekerjaan."
       },
       "romaji": "meijiru"
     },
@@ -97582,9 +97582,9 @@
         "kana": "せんたくします"
       },
       "example": {
-        "jp": "選択することもあります。",
-        "kana": "せんたくする ことも あります。",
-        "meaning": "Ada kalanya memilih."
+        "jp": "がめんでげんごをせんたくしました。",
+        "kana": "がめん で げんご を せんたく しました。",
+        "meaning": "Saya memilih bahasa pada layar."
       },
       "romaji": "sentakusuru"
     },
@@ -97616,9 +97616,9 @@
         "kana": "うつします"
       },
       "example": {
-        "jp": "移すこともあります。",
-        "kana": "うつす ことも あります。",
-        "meaning": "Ada kalanya memindah."
+        "jp": "ほんをべつのたなにうつしました。",
+        "kana": "ほん を べつ の たな に うつしました。",
+        "meaning": "Saya memindahkan buku ke rak lain."
       },
       "romaji": "utsusu"
     },
@@ -97650,9 +97650,9 @@
         "kana": "もとめます"
       },
       "example": {
-        "jp": "求めることもあります。",
-        "kana": "もとめる ことも あります。",
-        "meaning": "Ada kalanya meminta."
+        "jp": "せんせいにじょげんをもとめました。",
+        "kana": "せんせい に じょげん を もとめました。",
+        "meaning": "Saya meminta nasihat kepada guru."
       },
       "romaji": "motomeru"
     },
@@ -97684,9 +97684,9 @@
         "kana": "はぶきます"
       },
       "example": {
-        "jp": "省くこともあります。",
-        "kana": "はぶく ことも あります。",
-        "meaning": "Ada kalanya memotong, mengesampingkan."
+        "jp": "ながいせつめいをはぶきました。",
+        "kana": "ながい せつめい を はぶきました。",
+        "meaning": "Saya menghilangkan penjelasan yang panjang."
       },
       "romaji": "habuku"
     },
@@ -97718,9 +97718,9 @@
         "kana": "かまいます"
       },
       "example": {
-        "jp": "構うこともあります。",
-        "kana": "かまう ことも あります。",
-        "meaning": "Ada kalanya mempedulikan, menghiraukan."
+        "jp": "わたしのことはかまわないでください。",
+        "kana": "わたし の こと は かまわないで ください。",
+        "meaning": "Mohon jangan mengkhawatirkan saya."
       },
       "romaji": "kamau"
     },
@@ -97752,9 +97752,9 @@
         "kana": "ぎろんします"
       },
       "example": {
-        "jp": "議論することもあります。",
-        "kana": "ぎろんする ことも あります。",
-        "meaning": "Ada kalanya memperbincangkan."
+        "jp": "かいぎでもんだいをぎろんしました。",
+        "kana": "かいぎ で もんだい を ぎろん しました。",
+        "meaning": "Kami membahas masalah dalam rapat."
       },
       "romaji": "gironsuru"
     },
@@ -97786,9 +97786,9 @@
         "kana": "ろんじります"
       },
       "example": {
-        "jp": "論じることもあります。",
-        "kana": "ろんじる ことも あります。",
-        "meaning": "Ada kalanya memperbincangkan, membahas."
+        "jp": "レポートでかんきょうもんだいをろんじました。",
+        "kana": "レポート で かんきょうもんだい を ろんじました。",
+        "meaning": "Saya membahas masalah lingkungan dalam laporan."
       },
       "romaji": "ronjiru"
     },
@@ -97820,9 +97820,9 @@
         "kana": "けいこくします"
       },
       "example": {
-        "jp": "警告することもあります。",
-        "kana": "けいこくする ことも あります。",
-        "meaning": "Ada kalanya memperingati."
+        "jp": "かんばんがきけんをけいこくしています。",
+        "kana": "かんばん が きけん を けいこく して います。",
+        "meaning": "Papan itu memperingatkan adanya bahaya."
       },
       "romaji": "keikokusuru"
     },
@@ -97854,9 +97854,9 @@
         "kana": "ふせぎます"
       },
       "example": {
-        "jp": "防ぐこともあります。",
-        "kana": "ふせぐ ことも あります。",
-        "meaning": "Ada kalanya menangkal."
+        "jp": "あついコートでさむさをふせぎました。",
+        "kana": "あつい コート で さむさ を ふせぎました。",
+        "meaning": "Saya menahan dingin dengan mantel tebal."
       },
       "romaji": "fusegu"
     },
@@ -97888,9 +97888,9 @@
         "kana": "たいほします"
       },
       "example": {
-        "jp": "逮捕することもあります。",
-        "kana": "たいほする ことも あります。",
-        "meaning": "Ada kalanya menangkap."
+        "jp": "けいさつがはんにんをたいほしました。",
+        "kana": "けいさつ が はんにん を たいほ しました。",
+        "meaning": "Polisi menangkap pelaku kejahatan."
       },
       "romaji": "taihosuru"
     },
@@ -97922,9 +97922,9 @@
         "kana": "つかまります"
       },
       "example": {
-        "jp": "捕まることもあります。",
-        "kana": "つかまる ことも あります。",
-        "meaning": "Ada kalanya tertangkap."
+        "jp": "にげたはんにんがつかまりました。",
+        "kana": "にげた はんにん が つかまりました。",
+        "meaning": "Pelaku yang melarikan diri tertangkap."
       },
       "romaji": "tsukamaru"
     },
@@ -97956,9 +97956,9 @@
         "kana": "きょうきゅうします"
       },
       "example": {
-        "jp": "供給することもあります。",
-        "kana": "きょうきゅうする ことも あります。",
-        "meaning": "Ada kalanya memasok."
+        "jp": "このかいしゃはみずをきょうきゅうしています。",
+        "kana": "この かいしゃ は みず を きょうきゅう して います。",
+        "meaning": "Perusahaan ini memasok air."
       },
       "romaji": "kyoukyuusuru"
     },
@@ -97990,9 +97990,9 @@
         "kana": "たっします"
       },
       "example": {
-        "jp": "達することもあります。",
-        "kana": "たっする ことも あります。",
-        "meaning": "Ada kalanya mencapai."
+        "jp": "さんかしゃはひゃくにんにたっしました。",
+        "kana": "さんかしゃ は ひゃくにん に たっしました。",
+        "meaning": "Jumlah peserta mencapai seratus orang."
       },
       "romaji": "tassuru"
     },
@@ -98024,9 +98024,9 @@
         "kana": "しょうばいします"
       },
       "example": {
-        "jp": "商売することもあります。",
-        "kana": "しょうばいする ことも あります。",
-        "meaning": "Ada kalanya berdagang."
+        "jp": "いちばでしょうばいしています。",
+        "kana": "いちば で しょうばい して います。",
+        "meaning": "Saya berdagang di pasar."
       },
       "romaji": "shoubaisuru"
     },
@@ -98058,9 +98058,9 @@
         "kana": "もとづきます"
       },
       "example": {
-        "jp": "基づくこともあります。",
-        "kana": "もとづく ことも あります。",
-        "meaning": "Ada kalanya berdasarkan."
+        "jp": "このはなしはじじつにもとづいています。",
+        "kana": "この はなし は じじつ に もとづいて います。",
+        "meaning": "Cerita ini berdasarkan fakta."
       },
       "romaji": "motozuku"
     },
@@ -98092,9 +98092,9 @@
         "kana": "だまります"
       },
       "example": {
-        "jp": "黙ることもあります。",
-        "kana": "だまる ことも あります。",
-        "meaning": "Ada kalanya berdiam."
+        "jp": "しばらくだまって、かんがえました。",
+        "kana": "しばらく だまって、かんがえました。",
+        "meaning": "Saya diam sebentar dan berpikir."
       },
       "romaji": "damaru"
     },
@@ -98126,9 +98126,9 @@
         "kana": "たちあげます"
       },
       "example": {
-        "jp": "立ち上げることもあります。",
-        "kana": "たちあげる ことも あります。",
-        "meaning": "Ada kalanya memulai."
+        "jp": "ともだちとあたらしいかいしゃをたちあげました。",
+        "kana": "ともだち と あたらしい かいしゃ を たちあげました。",
+        "meaning": "Saya mendirikan perusahaan baru bersama teman."
       },
       "romaji": "tachiageru"
     },
@@ -98160,9 +98160,9 @@
         "kana": "とめます"
       },
       "example": {
-        "jp": "留めることもあります。",
-        "kana": "とめる ことも あります。",
-        "meaning": "Ada kalanya menahan."
+        "jp": "ボタンでそでをとめました。",
+        "kana": "ボタン で そで を とめました。",
+        "meaning": "Saya mengencangkan lengan baju dengan kancing."
       },
       "romaji": "tomeru"
     },
@@ -98194,9 +98194,9 @@
         "kana": "やくそくします"
       },
       "example": {
-        "jp": "約束することもあります。",
-        "kana": "やくそくする ことも あります。",
-        "meaning": "Ada kalanya berjanji, membuat janji."
+        "jp": "またあうとやくそくしました。",
+        "kana": "また あう と やくそく しました。",
+        "meaning": "Kami berjanji akan bertemu lagi."
       },
       "romaji": "yakusokusuru"
     },
@@ -98228,9 +98228,9 @@
         "kana": "かんれんします"
       },
       "example": {
-        "jp": "関連することもあります。",
-        "kana": "かんれんする ことも あります。",
-        "meaning": "Ada kalanya berkaitan."
+        "jp": "このふたつのもんだいはかんれんしています。",
+        "kana": "この ふたつ の もんだい は かんれん して います。",
+        "meaning": "Kedua masalah ini saling berkaitan."
       },
       "romaji": "kanrensuru"
     },
@@ -98262,9 +98262,9 @@
         "kana": "うらぎます"
       },
       "example": {
-        "jp": "裏切ることもあります。",
-        "kana": "うらぎる ことも あります。",
-        "meaning": "Ada kalanya berkhianat."
+        "jp": "ともだちのしんらいをうらぎりたくありません。",
+        "kana": "ともだち の しんらい を うらぎりたく ありません。",
+        "meaning": "Saya tidak ingin mengkhianati kepercayaan teman."
       },
       "romaji": "uragiru"
     },
@@ -98296,9 +98296,9 @@
         "kana": "しゅうちゅうします"
       },
       "example": {
-        "jp": "集中することもあります。",
-        "kana": "しゅうちゅうする ことも あります。",
-        "meaning": "Ada kalanya berkonsentrasi."
+        "jp": "しずかなへやでべんきょうにしゅうちゅうしました。",
+        "kana": "しずかな へや で べんきょう に しゅうちゅう しました。",
+        "meaning": "Saya berkonsentrasi belajar di ruangan tenang."
       },
       "romaji": "shuuchuusuru"
     },
@@ -98330,9 +98330,9 @@
         "kana": "こうけんします"
       },
       "example": {
-        "jp": "貢献することもあります。",
-        "kana": "こうけんする ことも あります。",
-        "meaning": "Ada kalanya berkontribusi."
+        "jp": "ちいきのかつどうにこうけんしたいです。",
+        "kana": "ちいき の かつどう に こうけん したい です。",
+        "meaning": "Saya ingin berkontribusi pada kegiatan masyarakat."
       },
       "romaji": "koukensuru"
     },
@@ -98364,9 +98364,9 @@
         "kana": "かいごうします"
       },
       "example": {
-        "jp": "会合することもあります。",
-        "kana": "かいごうする ことも あります。",
-        "meaning": "Ada kalanya bertemu."
+        "jp": "いいんたちがかいごうしました。",
+        "kana": "いいんたち が かいごう しました。",
+        "meaning": "Para anggota komite mengadakan pertemuan."
       },
       "romaji": "kaigousuru"
     },
@@ -98398,9 +98398,9 @@
         "kana": "へります"
       },
       "example": {
-        "jp": "減ることもあります。",
-        "kana": "へる ことも あります。",
-        "meaning": "Ada kalanya berkurang."
+        "jp": "さいきん、ごみのりょうがへりました。",
+        "kana": "さいきん、ごみ の りょう が へりました。",
+        "meaning": "Belakangan ini jumlah sampah berkurang."
       },
       "romaji": "heru"
     },
@@ -98432,9 +98432,9 @@
         "kana": "ことなります"
       },
       "example": {
-        "jp": "異なることもあります。",
-        "kana": "ことなる ことも あります。",
-        "meaning": "Ada kalanya berlainan."
+        "jp": "ふたりのいけんはことなっています。",
+        "kana": "ふたり の いけん は ことなって います。",
+        "meaning": "Pendapat keduanya berbeda."
       },
       "romaji": "kotonaru"
     },
@@ -98466,9 +98466,9 @@
         "kana": "くんれんします"
       },
       "example": {
-        "jp": "訓練することもあります。",
-        "kana": "くんれんする ことも あります。",
-        "meaning": "Ada kalanya berlatih."
+        "jp": "せんしゅたちはまいにちくんれんしています。",
+        "kana": "せんしゅたち は まいにち くんれん して います。",
+        "meaning": "Para atlet berlatih setiap hari."
       },
       "romaji": "kunrensuru"
     },
@@ -98500,9 +98500,9 @@
         "kana": "あいします"
       },
       "example": {
-        "jp": "愛することもあります。",
-        "kana": "あいする ことも あります。",
-        "meaning": "Ada kalanya mencintai."
+        "jp": "かぞくをあいしています。",
+        "kana": "かぞく を あいして います。",
+        "meaning": "Saya mencintai keluarga."
       },
       "romaji": "aisuru"
     },
@@ -98534,9 +98534,9 @@
         "kana": "くるしみます"
       },
       "example": {
-        "jp": "苦しむこともあります。",
-        "kana": "くるしむ ことも あります。",
-        "meaning": "Ada kalanya menderita."
+        "jp": "ながいあいだ、いたみにくるしみました。",
+        "kana": "ながい あいだ、いたみ に くるしみました。",
+        "meaning": "Saya menderita kesakitan dalam waktu lama."
       },
       "romaji": "kurushimu"
     },
@@ -98568,9 +98568,9 @@
         "kana": "はっけんします"
       },
       "example": {
-        "jp": "発見することもあります。",
-        "kana": "はっけんする ことも あります。",
-        "meaning": "Ada kalanya mendeteksi, mendapati."
+        "jp": "ふるいしゃしんをはっけんしました。",
+        "kana": "ふるい しゃしん を はっけん しました。",
+        "meaning": "Saya menemukan foto lama."
       },
       "romaji": "hakkensuru"
     },
@@ -98602,9 +98602,9 @@
         "kana": "けんちくします"
       },
       "example": {
-        "jp": "建築することもあります。",
-        "kana": "けんちくする ことも あります。",
-        "meaning": "Ada kalanya mendirikan."
+        "jp": "となりにあたらしいいえをけんちくしています。",
+        "kana": "となり に あたらしい いえ を けんちく して います。",
+        "meaning": "Rumah baru sedang dibangun di sebelah."
       },
       "romaji": "kenchikusuru"
     },
@@ -98636,9 +98636,9 @@
         "kana": "きょうちょうします"
       },
       "example": {
-        "jp": "強調することもあります。",
-        "kana": "きょうちょうする ことも あります。",
-        "meaning": "Ada kalanya menekankan, menonjolkan."
+        "jp": "せんせいはこのてんをきょうちょうしました。",
+        "kana": "せんせい は この てん を きょうちょう しました。",
+        "meaning": "Guru menekankan hal ini."
       },
       "romaji": "kyouchousuru"
     },
@@ -98670,9 +98670,9 @@
         "kana": "けんとうします"
       },
       "example": {
-        "jp": "検討することもあります。",
-        "kana": "けんとうする ことも あります。",
-        "meaning": "Ada kalanya meneliti."
+        "jp": "あたらしいけいかくをけんとうしています。",
+        "kana": "あたらしい けいかく を けんとう して います。",
+        "meaning": "Kami sedang mempertimbangkan rencana baru."
       },
       "romaji": "kentousuru"
     },
@@ -98704,9 +98704,9 @@
         "kana": "とおします"
       },
       "example": {
-        "jp": "通すこともあります。",
-        "kana": "とおす ことも あります。",
-        "meaning": "Ada kalanya menembus."
+        "jp": "はりにいとをとおしました。",
+        "kana": "はり に いと を とおしました。",
+        "meaning": "Saya memasukkan benang melalui lubang jarum."
       },
       "romaji": "toosu"
     },
@@ -98738,9 +98738,9 @@
         "kana": "しめます"
       },
       "example": {
-        "jp": "占めることもあります。",
-        "kana": "しめる ことも あります。",
-        "meaning": "Ada kalanya menempati."
+        "jp": "かぐがへやのはんぶんをしめています。",
+        "kana": "かぐ が へや の はんぶん を しめて います。",
+        "meaning": "Perabot memenuhi setengah ruangan."
       },
       "romaji": "shimeru"
     },
@@ -98772,9 +98772,9 @@
         "kana": "はります"
       },
       "example": {
-        "jp": "張ることもあります。",
-        "kana": "はる ことも あります。",
-        "meaning": "Ada kalanya membentangkan."
+        "jp": "にわにテントをはりました。",
+        "kana": "にわ に テント を はりました。",
+        "meaning": "Saya memasang tenda di halaman."
       },
       "romaji": "haru"
     },
@@ -98806,9 +98806,9 @@
         "kana": "とばします"
       },
       "example": {
-        "jp": "飛ばすこともあります。",
-        "kana": "とばす ことも あります。",
-        "meaning": "Ada kalanya menerbangkan."
+        "jp": "こうえんでたこをとばしました。",
+        "kana": "こうえん で たこ を とばしました。",
+        "meaning": "Saya menerbangkan layang-layang di taman."
       },
       "romaji": "tobasu"
     },
@@ -98840,9 +98840,9 @@
         "kana": "しゅっぱんします"
       },
       "example": {
-        "jp": "出版することもあります。",
-        "kana": "しゅっぱんする ことも あります。",
-        "meaning": "Ada kalanya menerbitkan."
+        "jp": "じぶんのほんをしゅっぱんしました。",
+        "kana": "じぶん の ほん を しゅっぱん しました。",
+        "meaning": "Saya menerbitkan buku sendiri."
       },
       "romaji": "shuppansuru"
     },
@@ -98874,9 +98874,9 @@
         "kana": "いただきます"
       },
       "example": {
-        "jp": "頂くこともあります。",
-        "kana": "いただく ことも あります。",
-        "meaning": "Ada kalanya menerima."
+        "jp": "せんせいからおてがみをいただきました。",
+        "kana": "せんせい から おてがみ を いただきました。",
+        "meaning": "Saya menerima surat dari guru."
       },
       "romaji": "itadaku"
     },
@@ -98908,9 +98908,9 @@
         "kana": "けっていします"
       },
       "example": {
-        "jp": "決定することもあります。",
-        "kana": "けっていする ことも あります。",
-        "meaning": "Ada kalanya menetapkan."
+        "jp": "かいぎのにっていをけっていしました。",
+        "kana": "かいぎ の にってい を けってい しました。",
+        "meaning": "Kami menetapkan jadwal rapat."
       },
       "romaji": "ketteisuru"
     },
@@ -98942,9 +98942,9 @@
         "kana": "きろくします"
       },
       "example": {
-        "jp": "記録することもあります。",
-        "kana": "きろくする ことも あります。",
-        "meaning": "Ada kalanya mengabadikan, mencatat."
+        "jp": "まいにちのてんきをきろくしています。",
+        "kana": "まいにち の てんき を きろく して います。",
+        "meaning": "Saya mencatat cuaca setiap hari."
       },
       "romaji": "kirokusuru"
     },
@@ -98976,9 +98976,9 @@
         "kana": "てきようします"
       },
       "example": {
-        "jp": "適用することもあります。",
-        "kana": "てきようする ことも あります。",
-        "meaning": "Ada kalanya menerapkan."
+        "jp": "あたらしいルールをてきようしました。",
+        "kana": "あたらしい ルール を てきよう しました。",
+        "meaning": "Kami menerapkan aturan baru."
       },
       "romaji": "tekiyousuru"
     },
@@ -99010,9 +99010,9 @@
         "kana": "すすめます"
       },
       "example": {
-        "jp": "勧めることもあります。",
-        "kana": "すすめる ことも あります。",
-        "meaning": "Ada kalanya menyarankan."
+        "jp": "ともだちにこのえいがをすすめました。",
+        "kana": "ともだち に この えいが を すすめました。",
+        "meaning": "Saya merekomendasikan film ini kepada teman."
       },
       "romaji": "susumeru"
     },
@@ -99044,9 +99044,9 @@
         "kana": "おえます"
       },
       "example": {
-        "jp": "終えることもあります。",
-        "kana": "おえる ことも あります。",
-        "meaning": "Ada kalanya mengakhiri."
+        "jp": "しごとをおえて、うちにかえりました。",
+        "kana": "しごと を おえて、うち に かえりました。",
+        "meaning": "Saya menyelesaikan pekerjaan lalu pulang."
       },
       "romaji": "oeru"
     },
@@ -99078,9 +99078,9 @@
         "kana": "つうじります"
       },
       "example": {
-        "jp": "通じることもあります。",
-        "kana": "つうじる ことも あります。",
-        "meaning": "Ada kalanya tersampaikan."
+        "jp": "わたしのにほんごがつうじました。",
+        "kana": "わたし の にほんご が つうじました。",
+        "meaning": "Bahasa Jepang saya dapat dipahami."
       },
       "romaji": "tsuujiru"
     },
@@ -99112,9 +99112,9 @@
         "kana": "かんさつします"
       },
       "example": {
-        "jp": "観察することもあります。",
-        "kana": "かんさつする ことも あります。",
-        "meaning": "Ada kalanya mengamati."
+        "jp": "こうえんでとりをかんさつしました。",
+        "kana": "こうえん で とり を かんさつ しました。",
+        "meaning": "Saya mengamati burung di taman."
       },
       "romaji": "kansatsusuru"
     },
@@ -99146,9 +99146,9 @@
         "kana": "とりあげます"
       },
       "example": {
-        "jp": "取り上げることもあります。",
-        "kana": "とりあげる ことも あります。",
-        "meaning": "Ada kalanya mengambil."
+        "jp": "こどもがほんをとりあげました。",
+        "kana": "こども が ほん を とりあげました。",
+        "meaning": "Anak itu mengambil buku."
       },
       "romaji": "toriageru"
     },
@@ -99180,9 +99180,9 @@
         "kana": "ぶんせきします"
       },
       "example": {
-        "jp": "分析することもあります。",
-        "kana": "ぶんせきする ことも あります。",
-        "meaning": "Ada kalanya menganalisa."
+        "jp": "ちょうさのデータをぶんせきしました。",
+        "kana": "ちょうさ の データ を ぶんせき しました。",
+        "meaning": "Kami menganalisis data penelitian."
       },
       "romaji": "bunsekisuru"
     },
@@ -99214,9 +99214,9 @@
         "kana": "たよります"
       },
       "example": {
-        "jp": "頼ることもあります。",
-        "kana": "たよる ことも あります。",
-        "meaning": "Ada kalanya mengandalkan."
+        "jp": "こまったときはかぞくをたよります。",
+        "kana": "こまった とき は かぞく を たよります。",
+        "meaning": "Saya mengandalkan keluarga saat kesulitan."
       },
       "romaji": "tayoru"
     },
@@ -99248,9 +99248,9 @@
         "kana": "しつぎょうします"
       },
       "example": {
-        "jp": "失業することもあります。",
-        "kana": "しつぎょうする ことも あります。",
-        "meaning": "Ada kalanya menganggur."
+        "jp": "かいしゃがなくなって、しつぎょうしました。",
+        "kana": "かいしゃ が なくなって、しつぎょう しました。",
+        "meaning": "Saya kehilangan pekerjaan karena perusahaan tutup."
       },
       "romaji": "shitsugyousuru"
     },
@@ -99282,9 +99282,9 @@
         "kana": "はいたつします"
       },
       "example": {
-        "jp": "配達することもあります。",
-        "kana": "はいたつする ことも あります。",
-        "meaning": "Ada kalanya mengantarkan."
+        "jp": "まいあさしんぶんをはいたつしています。",
+        "kana": "まいあさ しんぶん を はいたつ して います。",
+        "meaning": "Saya mengantarkan koran setiap pagi."
       },
       "romaji": "haitatsusuru"
     },
@@ -99316,9 +99316,9 @@
         "kana": "ふります"
       },
       "example": {
-        "jp": "振ることもあります。",
-        "kana": "ふる ことも あります。",
-        "meaning": "Ada kalanya mengayunkan."
+        "jp": "えきでともだちにてをふりました。",
+        "kana": "えき で ともだち に て を ふりました。",
+        "meaning": "Saya melambaikan tangan kepada teman di stasiun."
       },
       "romaji": "furu"
     },
@@ -99350,9 +99350,9 @@
         "kana": "ひひょうします"
       },
       "example": {
-        "jp": "批評することもあります。",
-        "kana": "ひひょうする ことも あります。",
-        "meaning": "Ada kalanya mengecam, mengkritik."
+        "jp": "さくひんをひひょうするきじをよみました。",
+        "kana": "さくひん を ひひょう する きじ を よみました。",
+        "meaning": "Saya membaca artikel yang mengkritik karya itu."
       },
       "romaji": "hihyousuru"
     },
@@ -99384,9 +99384,9 @@
         "kana": "へんこうします"
       },
       "example": {
-        "jp": "変更することもあります。",
-        "kana": "へんこうする ことも あります。",
-        "meaning": "Ada kalanya mengubah."
+        "jp": "よやくのじかんをへんこうしました。",
+        "kana": "よやく の じかん を へんこう しました。",
+        "meaning": "Saya mengubah waktu reservasi."
       },
       "romaji": "henkousuru"
     },
@@ -99418,9 +99418,9 @@
         "kana": "おいます"
       },
       "example": {
-        "jp": "追うこともあります。",
-        "kana": "おう ことも あります。",
-        "meaning": "Ada kalanya mengejar."
+        "jp": "いぬがボールをおいました。",
+        "kana": "いぬ が ボール を おいました。",
+        "meaning": "Anjing mengejar bola."
       },
       "romaji": "ou"
     },
@@ -99452,9 +99452,9 @@
         "kana": "ゆしゅつします"
       },
       "example": {
-        "jp": "輸出することもあります。",
-        "kana": "ゆしゅつする ことも あります。",
-        "meaning": "Ada kalanya mengekspor."
+        "jp": "しょくひんをかいがいにゆしゅつしています。",
+        "kana": "しょくひん を かいがい に ゆしゅつ して います。",
+        "meaning": "Kami mengekspor makanan ke luar negeri."
       },
       "romaji": "yushutsusuru"
     },
@@ -99486,9 +99486,9 @@
         "kana": "あらわします"
       },
       "example": {
-        "jp": "表すこともあります。",
-        "kana": "あらわす ことも あります。",
-        "meaning": "Ada kalanya mengekspresikan."
+        "jp": "きもちをえであらわしました。",
+        "kana": "きもち を え で あらわしました。",
+        "meaning": "Saya mengekspresikan perasaan melalui gambar."
       },
       "romaji": "arawasu"
     },
@@ -99520,9 +99520,9 @@
         "kana": "けいえいします"
       },
       "example": {
-        "jp": "経営することもあります。",
-        "kana": "けいえいする ことも あります。",
-        "meaning": "Ada kalanya mengelola."
+        "jp": "ちちはちいさなみせをけいえいしています。",
+        "kana": "ちち は ちいさな みせ を けいえい して います。",
+        "meaning": "Ayah saya mengelola toko kecil."
       },
       "romaji": "keieisuru"
     },
@@ -99554,9 +99554,9 @@
         "kana": "はってんします"
       },
       "example": {
-        "jp": "発展することもあります。",
-        "kana": "はってんする ことも あります。",
-        "meaning": "Ada kalanya berkembang."
+        "jp": "このまちはきゅうにはってんしました。",
+        "kana": "この まち は きゅうに はってん しました。",
+        "meaning": "Kota ini berkembang pesat."
       },
       "romaji": "hattensuru"
     },
@@ -99588,9 +99588,9 @@
         "kana": "のべます"
       },
       "example": {
-        "jp": "述べることもあります。",
-        "kana": "のべる ことも あります。",
-        "meaning": "Ada kalanya mengemukakan, menceritakan."
+        "jp": "じぶんのいけんをのべました。",
+        "kana": "じぶん の いけん を のべました。",
+        "meaning": "Saya menyampaikan pendapat sendiri."
       },
       "romaji": "noberu"
     },
@@ -99622,9 +99622,9 @@
         "kana": "かこみます"
       },
       "example": {
-        "jp": "囲むこともあります。",
-        "kana": "かこむ ことも あります。",
-        "meaning": "Ada kalanya mengepung."
+        "jp": "ともだちとテーブルをかこみました。",
+        "kana": "ともだち と テーブル を かこみました。",
+        "meaning": "Saya duduk mengelilingi meja bersama teman."
       },
       "romaji": "kakomu"
     },
@@ -99656,9 +99656,9 @@
         "kana": "うなります"
       },
       "example": {
-        "jp": "唸ることもあります。",
-        "kana": "うなる ことも あります。",
-        "meaning": "Ada kalanya mengerang, merintih."
+        "jp": "いぬがひくいこえでうなりました。",
+        "kana": "いぬ が ひくい こえ で うなりました。",
+        "meaning": "Anjing menggeram dengan suara rendah."
       },
       "romaji": "unaru"
     },
@@ -99690,9 +99690,9 @@
         "kana": "のぞきます"
       },
       "example": {
-        "jp": "除くこともあります。",
-        "kana": "のぞく ことも あります。",
-        "meaning": "Ada kalanya mengesampingkan."
+        "jp": "きらいなざいりょうをのぞいてつくりました。",
+        "kana": "きらいな ざいりょう を のぞいて つくりました。",
+        "meaning": "Saya memasak dengan mengeluarkan bahan yang tidak disukai."
       },
       "romaji": "nozoku"
     },
@@ -99724,9 +99724,9 @@
         "kana": "やといます"
       },
       "example": {
-        "jp": "雇うこともあります。",
-        "kana": "やとう ことも あります。",
-        "meaning": "Ada kalanya menggaji, mempekerjakan."
+        "jp": "あたらしいしゃいんをやといました。",
+        "kana": "あたらしい しゃいん を やといました。",
+        "meaning": "Kami mempekerjakan pegawai baru."
       },
       "romaji": "yatou"
     },
@@ -99758,9 +99758,9 @@
         "kana": "じゃまします"
       },
       "example": {
-        "jp": "邪魔することもあります。",
-        "kana": "じゃまする ことも あります。",
-        "meaning": "Ada kalanya mengganggu."
+        "jp": "べんきょうをじゃましないでください。",
+        "kana": "べんきょう を じゃま しないで ください。",
+        "meaning": "Tolong jangan ganggu saya belajar."
       },
       "romaji": "jamasuru"
     },
@@ -99792,9 +99792,9 @@
         "kana": "めいわくします"
       },
       "example": {
-        "jp": "迷惑することもあります。",
-        "kana": "めいわくする ことも あります。",
-        "meaning": "Ada kalanya merasa terganggu."
+        "jp": "よるのそうおんにめいわくしています。",
+        "kana": "よる の そうおん に めいわく して います。",
+        "meaning": "Saya terganggu oleh kebisingan malam hari."
       },
       "romaji": "meiwakusuru"
     },
@@ -99826,9 +99826,9 @@
         "kana": "かえます"
       },
       "example": {
-        "jp": "換えることもあります。",
-        "kana": "かえる ことも あります。",
-        "meaning": "Ada kalanya mengganti."
+        "jp": "えんをドルにかえました。",
+        "kana": "えん を ドル に かえました。",
+        "meaning": "Saya menukar yen menjadi dolar."
       },
       "romaji": "kaeru"
     },
@@ -99860,9 +99860,9 @@
         "kana": "こうかんします"
       },
       "example": {
-        "jp": "交換することもあります。",
-        "kana": "こうかんする ことも あります。",
-        "meaning": "Ada kalanya mengganti, menukar."
+        "jp": "ともだちとプレゼントをこうかんしました。",
+        "kana": "ともだち と プレゼント を こうかん しました。",
+        "meaning": "Saya bertukar hadiah dengan teman."
       },
       "romaji": "koukansuru"
     },
@@ -99894,9 +99894,9 @@
         "kana": "ふるえます"
       },
       "example": {
-        "jp": "震えることもあります。",
-        "kana": "ふるえる ことも あります。",
-        "meaning": "Ada kalanya menggigil, gemetaran."
+        "jp": "さむくて、てがふるえています。",
+        "kana": "さむくて、て が ふるえて います。",
+        "meaning": "Tangan saya gemetar karena dingin."
       },
       "romaji": "furueru"
     },
@@ -99928,9 +99928,9 @@
         "kana": "くるいます"
       },
       "example": {
-        "jp": "狂うこともあります。",
-        "kana": "くるう ことも あります。",
-        "meaning": "Ada kalanya menggila."
+        "jp": "とけいがくるっています。",
+        "kana": "とけい が くるって います。",
+        "meaning": "Jam itu menunjukkan waktu yang keliru."
       },
       "romaji": "kuruu"
     },
@@ -99962,9 +99962,9 @@
         "kana": "およぼします"
       },
       "example": {
-        "jp": "及ぼすこともあります。",
-        "kana": "およぼす ことも あります。",
-        "meaning": "Ada kalanya menimbulkan."
+        "jp": "てんきはのうぎょうにえいきょうをおよぼします。",
+        "kana": "てんき は のうぎょう に えいきょう を およぼします。",
+        "meaning": "Cuaca memberikan pengaruh pada pertanian."
       },
       "romaji": "oyobosu"
     },
@@ -99996,9 +99996,9 @@
         "kana": "しゅっせきします"
       },
       "example": {
-        "jp": "出席することもあります。",
-        "kana": "しゅっせきする ことも あります。",
-        "meaning": "Ada kalanya menghadiri."
+        "jp": "あしたのかいぎにしゅっせきします。",
+        "kana": "あした の かいぎ に しゅっせき します。",
+        "meaning": "Saya akan menghadiri rapat besok."
       },
       "romaji": "shussekisuru"
     },
@@ -100030,9 +100030,9 @@
         "kana": "のぞみます"
       },
       "example": {
-        "jp": "望むこともあります。",
-        "kana": "のぞむ ことも あります。",
-        "meaning": "Ada kalanya mengharapkan, berkeinginan."
+        "jp": "へいわなせかいをのぞんでいます。",
+        "kana": "へいわ な せかい を のぞんで います。",
+        "meaning": "Saya mengharapkan dunia yang damai."
       },
       "romaji": "nozomu"
     },
@@ -100064,9 +100064,9 @@
         "kana": "さけます"
       },
       "example": {
-        "jp": "避けることもあります。",
-        "kana": "さける ことも あります。",
-        "meaning": "Ada kalanya menghindar."
+        "jp": "ひとごみをさけてあるきました。",
+        "kana": "ひとごみ を さけて あるきました。",
+        "meaning": "Saya berjalan menghindari kerumunan."
       },
       "romaji": "sakeru"
     },
@@ -100098,9 +100098,9 @@
         "kana": "かぞえます"
       },
       "example": {
-        "jp": "数えることもあります。",
-        "kana": "かぞえる ことも あります。",
-        "meaning": "Ada kalanya menghitung."
+        "jp": "さんかしゃのにんずうをかぞえました。",
+        "kana": "さんかしゃ の にんずう を かぞえました。",
+        "meaning": "Saya menghitung jumlah peserta."
       },
       "romaji": "kazoeru"
     },
@@ -100132,9 +100132,9 @@
         "kana": "けいさんします"
       },
       "example": {
-        "jp": "計算することもあります。",
-        "kana": "けいさんする ことも あります。",
-        "meaning": "Ada kalanya menghitung, menjabarkan."
+        "jp": "りょこうだいをけいさんしました。",
+        "kana": "りょこうだい を けいさん しました。",
+        "meaning": "Saya menghitung biaya perjalanan."
       },
       "romaji": "keisansuru"
     },
@@ -100166,9 +100166,9 @@
         "kana": "そんけいします"
       },
       "example": {
-        "jp": "尊敬することもあります。",
-        "kana": "そんけいする ことも あります。",
-        "meaning": "Ada kalanya menghormati."
+        "jp": "わたしはそふをそんけいしています。",
+        "kana": "わたし は そふ を そんけい して います。",
+        "meaning": "Saya menghormati kakek."
       },
       "romaji": "sonkeisuru"
     },
@@ -100200,9 +100200,9 @@
         "kana": "ばっします"
       },
       "example": {
-        "jp": "罰することもあります。",
-        "kana": "ばっする ことも あります。",
-        "meaning": "Ada kalanya menghukum."
+        "jp": "ルールをやぶったひとをばっしました。",
+        "kana": "ルール を やぶった ひと を ばっしました。",
+        "meaning": "Kami menghukum orang yang melanggar aturan."
       },
       "romaji": "bassuru"
     },
@@ -100234,9 +100234,9 @@
         "kana": "むすびます"
       },
       "example": {
-        "jp": "結ぶこともあります。",
-        "kana": "むすぶ ことも あります。",
-        "meaning": "Ada kalanya mengikat."
+        "jp": "くつのひもをむすびました。",
+        "kana": "くつ の ひも を むすびました。",
+        "meaning": "Saya mengikat tali sepatu."
       },
       "romaji": "musubu"
     },
@@ -100268,9 +100268,9 @@
         "kana": "ゆにゅうします"
       },
       "example": {
-        "jp": "輸入することもあります。",
-        "kana": "ゆにゅうする ことも あります。",
-        "meaning": "Ada kalanya mengimpor."
+        "jp": "このみせはコーヒーをゆにゅうしています。",
+        "kana": "この みせ は コーヒー を ゆにゅう して います。",
+        "meaning": "Toko ini mengimpor kopi."
       },
       "romaji": "yunyuusuru"
     },
@@ -100302,9 +100302,9 @@
         "kana": "あらわします"
       },
       "example": {
-        "jp": "現すこともあります。",
-        "kana": "あらわす ことも あります。",
-        "meaning": "Ada kalanya mengindikasikan."
+        "jp": "かれはふまんをかおにあらわしました。",
+        "kana": "かれ は ふまん を かお に あらわしました。",
+        "meaning": "Dia memperlihatkan ketidakpuasan pada wajahnya."
       },
       "romaji": "arawasu"
     },
@@ -100336,9 +100336,9 @@
         "kana": "おくります"
       },
       "example": {
-        "jp": "贈ることもあります。",
-        "kana": "おくる ことも あります。",
-        "meaning": "Ada kalanya mengirim hadiah."
+        "jp": "そつぎょうのおいわいにはなをおくりました。",
+        "kana": "そつぎょう の おいわい に はな を おくりました。",
+        "meaning": "Saya menghadiahkan bunga untuk merayakan kelulusan."
       },
       "romaji": "okuru"
     },
@@ -100370,9 +100370,9 @@
         "kana": "きょかします"
       },
       "example": {
-        "jp": "許可することもあります。",
-        "kana": "きょかする ことも あります。",
-        "meaning": "Ada kalanya mengizinkan."
+        "jp": "せんせいがしようをきょかしました。",
+        "kana": "せんせい が しよう を きょか しました。",
+        "meaning": "Guru mengizinkan penggunaannya."
       },
       "romaji": "kyokasuru"
     },
@@ -100404,9 +100404,9 @@
         "kana": "しょうひします"
       },
       "example": {
-        "jp": "消費することもあります。",
-        "kana": "しょうひする ことも あります。",
-        "meaning": "Ada kalanya mengonsumsi."
+        "jp": "このきかいはでんきをたくさんしょうひします。",
+        "kana": "この きかい は でんき を たくさん しょうひ します。",
+        "meaning": "Mesin ini mengonsumsi banyak listrik."
       },
       "romaji": "shouhisuru"
     },
@@ -100472,9 +100472,9 @@
         "kana": "しかります"
       },
       "example": {
-        "jp": "叱ることもあります。",
-        "kana": "しかる ことも あります。",
-        "meaning": "Ada kalanya mengomeli, memarahi."
+        "jp": "せんせいがおおごえをだしたがくせいをしかりました。",
+        "kana": "せんせい が おおごえ を だした がくせい を しかりました。",
+        "meaning": "Guru memarahi pelajar yang berteriak."
       },
       "romaji": "shikaru"
     },
@@ -100506,9 +100506,9 @@
         "kana": "けいやくします"
       },
       "example": {
-        "jp": "契約することもあります。",
-        "kana": "けいやくする ことも あります。",
-        "meaning": "Ada kalanya mengontrak."
+        "jp": "あたらしいアパートをけいやくしました。",
+        "kana": "あたらしい アパート を けいやく しました。",
+        "meaning": "Saya menandatangani kontrak apartemen baru."
       },
       "romaji": "keiyakusuru"
     },
@@ -100540,9 +100540,9 @@
         "kana": "さゆうします"
       },
       "example": {
-        "jp": "左右することもあります。",
-        "kana": "さゆうする ことも あります。",
-        "meaning": "Ada kalanya menguasai, mengendalikan."
+        "jp": "てんきがイベントのせいこうをさゆうします。",
+        "kana": "てんき が イベント の せいこう を さゆう します。",
+        "meaning": "Cuaca memengaruhi keberhasilan acara."
       },
       "romaji": "sayuusuru"
     },
@@ -100574,9 +100574,9 @@
         "kana": "へんかします"
       },
       "example": {
-        "jp": "変化することもあります。",
-        "kana": "へんかする ことも あります。",
-        "meaning": "Ada kalanya berubah."
+        "jp": "ひっこして、せいかつがへんかしました。",
+        "kana": "ひっこして、せいかつ が へんか しました。",
+        "meaning": "Kehidupan saya berubah setelah pindah rumah."
       },
       "romaji": "henkasuru"
     },
@@ -100608,9 +100608,9 @@
         "kana": "はかります"
       },
       "example": {
-        "jp": "計ることもあります。",
-        "kana": "はかる ことも あります。",
-        "meaning": "Ada kalanya mengukur."
+        "jp": "タイマーでじかんをはかりました。",
+        "kana": "タイマー で じかん を はかりました。",
+        "meaning": "Saya mengukur waktu dengan pengatur waktu."
       },
       "romaji": "hakaru"
     },
@@ -100642,9 +100642,9 @@
         "kana": "くりかえします"
       },
       "example": {
-        "jp": "繰り返すこともあります。",
-        "kana": "くりかえす ことも あります。",
-        "meaning": "Ada kalanya mengulang."
+        "jp": "もんだいをなんどもくりかえしました。",
+        "kana": "もんだい を なんども くりかえしました。",
+        "meaning": "Saya mengulangi soal berkali-kali."
       },
       "romaji": "kurikaesu"
     },
@@ -100676,9 +100676,9 @@
         "kana": "はっぴょうします"
       },
       "example": {
-        "jp": "発表することもあります。",
-        "kana": "はっぴょうする ことも あります。",
-        "meaning": "Ada kalanya mengumumkan."
+        "jp": "しけんのけっかをはっぴょうしました。",
+        "kana": "しけん の けっか を はっぴょう しました。",
+        "meaning": "Kami mengumumkan hasil ujian."
       },
       "romaji": "happyousuru"
     },
@@ -100710,9 +100710,9 @@
         "kana": "しょうたいします"
       },
       "example": {
-        "jp": "招待することもあります。",
-        "kana": "しょうたいする ことも あります。",
-        "meaning": "Ada kalanya mengundang."
+        "jp": "ともだちをうちにしょうたいしました。",
+        "kana": "ともだち を うち に しょうたい しました。",
+        "meaning": "Saya mengundang teman ke rumah."
       },
       "romaji": "shoutaisuru"
     },
@@ -100744,9 +100744,9 @@
         "kana": "ほうもんします"
       },
       "example": {
-        "jp": "訪問することもあります。",
-        "kana": "ほうもんする ことも あります。",
-        "meaning": "Ada kalanya mengunjungi."
+        "jp": "しんせきをほうもんしました。",
+        "kana": "しんせき を ほうもん しました。",
+        "meaning": "Saya mengunjungi kerabat."
       },
       "romaji": "houmonsuru"
     },
@@ -100778,9 +100778,9 @@
         "kana": "かんりします"
       },
       "example": {
-        "jp": "管理することもあります。",
-        "kana": "かんりする ことも あります。",
-        "meaning": "Ada kalanya mengurus."
+        "jp": "しょるいをしゅるいごとにかんりしています。",
+        "kana": "しょるい を しゅるい ごと に かんり して います。",
+        "meaning": "Saya mengelola dokumen menurut jenisnya."
       },
       "romaji": "kanrisuru"
     },
@@ -100812,9 +100812,9 @@
         "kana": "しょりします"
       },
       "example": {
-        "jp": "処理することもあります。",
-        "kana": "しょりする ことも あります。",
-        "meaning": "Ada kalanya mengurus, mengolah."
+        "jp": "もうしこみをじゅんにしょりしています。",
+        "kana": "もうしこみ を じゅん に しょり して います。",
+        "meaning": "Kami memproses permohonan sesuai urutan."
       },
       "romaji": "shorisuru"
     },
@@ -100846,9 +100846,9 @@
         "kana": "ひょうかします"
       },
       "example": {
-        "jp": "評価することもあります。",
-        "kana": "ひょうかする ことも あります。",
-        "meaning": "Ada kalanya menilai."
+        "jp": "せんせいがはっぴょうをひょうかしました。",
+        "kana": "せんせい が はっぴょう を ひょうか しました。",
+        "meaning": "Guru menilai presentasi."
       },
       "romaji": "hyoukasuru"
     },
@@ -100880,9 +100880,9 @@
         "kana": "しゅうせいします"
       },
       "example": {
-        "jp": "修正することもあります。",
-        "kana": "しゅうせいする ことも あります。",
-        "meaning": "Ada kalanya memperbaiki."
+        "jp": "レポートのまちがいをしゅうせいしました。",
+        "kana": "レポート の まちがい を しゅうせい しました。",
+        "meaning": "Saya memperbaiki kesalahan dalam laporan."
       },
       "romaji": "shuuseisuru"
     },
@@ -100914,9 +100914,9 @@
         "kana": "つきます"
       },
       "example": {
-        "jp": "就くこともあります。",
-        "kana": "つく ことも あります。",
-        "meaning": "Ada kalanya menjabat."
+        "jp": "あたらしいしごとにつきました。",
+        "kana": "あたらしい しごと に つきました。",
+        "meaning": "Saya mulai menjalankan pekerjaan baru."
       },
       "romaji": "tsuku"
     },
@@ -100948,9 +100948,9 @@
         "kana": "ぬれます"
       },
       "example": {
-        "jp": "濡れることもあります。",
-        "kana": "ぬれる ことも あります。",
-        "meaning": "Ada kalanya menjadi basah."
+        "jp": "あめでかみがぬれました。",
+        "kana": "あめ で かみ が ぬれました。",
+        "meaning": "Rambut saya basah karena hujan."
       },
       "romaji": "nureru"
     },
@@ -100982,9 +100982,9 @@
         "kana": "すきます"
       },
       "example": {
-        "jp": "空くこともあります。",
-        "kana": "すく ことも あります。",
-        "meaning": "Ada kalanya menjadi kosong."
+        "jp": "ひるすぎにみせがすきました。",
+        "kana": "ひるすぎ に みせ が すきました。",
+        "meaning": "Toko menjadi lebih sepi setelah tengah hari."
       },
       "romaji": "suku"
     },
@@ -101050,9 +101050,9 @@
         "kana": "しはいします"
       },
       "example": {
-        "jp": "支配することもあります。",
-        "kana": "しはいする ことも あります。",
-        "meaning": "Ada kalanya menguasai."
+        "jp": "おうがくにをしはいしていました。",
+        "kana": "おう が くに を しはい して いました。",
+        "meaning": "Raja memerintah negara itu."
       },
       "romaji": "shihaisuru"
     },
@@ -101084,9 +101084,9 @@
         "kana": "ほしょうします"
       },
       "example": {
-        "jp": "保障することもあります。",
-        "kana": "ほしょうする ことも あります。",
-        "meaning": "Ada kalanya menjamin."
+        "jp": "ひとのけんりをほしょうすることはたいせつです。",
+        "kana": "ひと の けんり を ほしょう する こと は たいせつ です。",
+        "meaning": "Menjamin hak orang lain itu penting."
       },
       "romaji": "hoshousuru"
     },
@@ -101118,9 +101118,9 @@
         "kana": "はなします"
       },
       "example": {
-        "jp": "離すこともあります。",
-        "kana": "はなす ことも あります。",
-        "meaning": "Ada kalanya menjauhkan."
+        "jp": "いすをつくえからはなしました。",
+        "kana": "いす を つくえ から はなしました。",
+        "meaning": "Saya menjauhkan kursi dari meja."
       },
       "romaji": "hanasu"
     },
@@ -101152,9 +101152,9 @@
         "kana": "こんざつします"
       },
       "example": {
-        "jp": "混雑することもあります。",
-        "kana": "こんざつする ことも あります。",
-        "meaning": "Ada kalanya ramai."
+        "jp": "しゅうまつはみちがこんざつします。",
+        "kana": "しゅうまつ は みち が こんざつ します。",
+        "meaning": "Jalanan penuh sesak pada akhir pekan."
       },
       "romaji": "konzatsusuru"
     },
@@ -101186,9 +101186,9 @@
         "kana": "つめます"
       },
       "example": {
-        "jp": "詰めることもあります。",
-        "kana": "つめる ことも あります。",
-        "meaning": "Ada kalanya menjejalkan."
+        "jp": "りょこうのふくをスーツケースにつめました。",
+        "kana": "りょこう の ふく を スーツケース に つめました。",
+        "meaning": "Saya memenuhi koper dengan pakaian."
       },
       "romaji": "tsumeru"
     },
@@ -101220,9 +101220,9 @@
         "kana": "ひはんします"
       },
       "example": {
-        "jp": "批判することもあります。",
-        "kana": "ひはんする ことも あります。",
-        "meaning": "Ada kalanya mengkritik."
+        "jp": "そのけいかくをひはんするひともいます。",
+        "kana": "その けいかく を ひはん する ひと も います。",
+        "meaning": "Ada juga orang yang mengkritik rencana itu."
       },
       "romaji": "hihansuru"
     },
@@ -101254,9 +101254,9 @@
         "kana": "ことわります"
       },
       "example": {
-        "jp": "断ることもあります。",
-        "kana": "ことわる ことも あります。",
-        "meaning": "Ada kalanya menolak."
+        "jp": "しごとがあるので、さそいをことわりました。",
+        "kana": "しごと が ある ので、さそい を ことわりました。",
+        "meaning": "Saya menolak ajakan karena ada pekerjaan."
       },
       "romaji": "kotowaru"
     },
@@ -101288,9 +101288,9 @@
         "kana": "ふりむきます"
       },
       "example": {
-        "jp": "振り向くこともあります。",
-        "kana": "ふりむく ことも あります。",
-        "meaning": "Ada kalanya menoleh."
+        "jp": "なまえをよばれて、ふりむきました。",
+        "kana": "なまえ を よばれて、ふりむきました。",
+        "meaning": "Saya menoleh ketika nama saya dipanggil."
       },
       "romaji": "furimuku"
     },
@@ -101322,9 +101322,9 @@
         "kana": "むきます"
       },
       "example": {
-        "jp": "向くこともあります。",
-        "kana": "むく ことも あります。",
-        "meaning": "Ada kalanya menoleh, berpaling."
+        "jp": "まどのほうをむきました。",
+        "kana": "まど の ほう を むきました。",
+        "meaning": "Saya menghadap ke arah jendela."
       },
       "romaji": "muku"
     },
@@ -101356,9 +101356,9 @@
         "kana": "おさめます"
       },
       "example": {
-        "jp": "収めることもあります。",
-        "kana": "おさめる ことも あります。",
-        "meaning": "Ada kalanya menuai."
+        "jp": "たいかいでよいせいせきをおさめました。",
+        "kana": "たいかい で よい せいせき を おさめました。",
+        "meaning": "Saya meraih hasil baik dalam kejuaraan."
       },
       "romaji": "osameru"
     },
@@ -101390,9 +101390,9 @@
         "kana": "かえます"
       },
       "example": {
-        "jp": "替えることもあります。",
-        "kana": "かえる ことも あります。",
-        "meaning": "Ada kalanya menukar."
+        "jp": "ぬれたふくをかわいたものにかえました。",
+        "kana": "ぬれた ふく を かわいた もの に かえました。",
+        "meaning": "Saya mengganti pakaian basah dengan yang kering."
       },
       "romaji": "kaeru"
     },
@@ -101424,9 +101424,9 @@
         "kana": "さします"
       },
       "example": {
-        "jp": "指すこともあります。",
-        "kana": "さす ことも あります。",
-        "meaning": "Ada kalanya menunjuk."
+        "jp": "ちずのえきをゆびでさしました。",
+        "kana": "ちず の えき を ゆび で さしました。",
+        "meaning": "Saya menunjuk stasiun pada peta dengan jari."
       },
       "romaji": "sasu"
     },
@@ -101458,9 +101458,9 @@
         "kana": "しめします"
       },
       "example": {
-        "jp": "示すこともあります。",
-        "kana": "しめす ことも あります。",
-        "meaning": "Ada kalanya menunjukan, mengindikasikan."
+        "jp": "ずでやりかたをしめしました。",
+        "kana": "ず で やりかた を しめしました。",
+        "meaning": "Saya menunjukkan caranya melalui diagram."
       },
       "romaji": "shimesu"
     },
@@ -101492,9 +101492,9 @@
         "kana": "おろします"
       },
       "example": {
-        "jp": "下ろすこともあります。",
-        "kana": "おろす ことも あります。",
-        "meaning": "Ada kalanya menurunkan."
+        "jp": "にもつをゆかにおろしました。",
+        "kana": "にもつ を ゆか に おろしました。",
+        "meaning": "Saya menurunkan barang ke lantai."
       },
       "romaji": "orosu"
     },
@@ -101526,9 +101526,9 @@
         "kana": "さします"
       },
       "example": {
-        "jp": "刺すこともあります。",
-        "kana": "さす ことも あります。",
-        "meaning": "Ada kalanya menusuk, menikam."
+        "jp": "むしにゆびをさされました。",
+        "kana": "むし に ゆび を さされました。",
+        "meaning": "Jari saya disengat serangga."
       },
       "romaji": "sasu"
     },
@@ -101560,9 +101560,9 @@
         "kana": "おおいます"
       },
       "example": {
-        "jp": "覆うこともあります。",
-        "kana": "おおう ことも あります。",
-        "meaning": "Ada kalanya menutupi."
+        "jp": "くもがやまをおおっています。",
+        "kana": "くも が やま を おおって います。",
+        "meaning": "Awan menutupi gunung."
       },
       "romaji": "oou"
     },
@@ -101594,9 +101594,9 @@
         "kana": "きづきます"
       },
       "example": {
-        "jp": "気付くこともあります。",
-        "kana": "きづく ことも あります。",
-        "meaning": "Ada kalanya menyadari."
+        "jp": "ふくのよごれにきづきました。",
+        "kana": "ふく の よごれ に きづきました。",
+        "meaning": "Saya menyadari ada noda pada pakaian."
       },
       "romaji": "kizuku"
     },
@@ -101628,9 +101628,9 @@
         "kana": "せめます"
       },
       "example": {
-        "jp": "責めることもあります。",
-        "kana": "せめる ことも あります。",
-        "meaning": "Ada kalanya menyalahkan."
+        "jp": "まちがえたひとをせめないでください。",
+        "kana": "まちがえた ひと を せめないで ください。",
+        "meaning": "Tolong jangan menyalahkan orang yang melakukan kesalahan."
       },
       "romaji": "semeru"
     },
@@ -101662,9 +101662,9 @@
         "kana": "ほえます"
       },
       "example": {
-        "jp": "吠えることもあります。",
-        "kana": "ほえる ことも あります。",
-        "meaning": "Ada kalanya menyalak, menggonggong, meraung."
+        "jp": "となりのいぬがほえています。",
+        "kana": "となり の いぬ が ほえて います。",
+        "meaning": "Anjing tetangga sedang menggonggong."
       },
       "romaji": "hoeru"
     },
@@ -101696,9 +101696,9 @@
         "kana": "かんげいします"
       },
       "example": {
-        "jp": "歓迎することもあります。",
-        "kana": "かんげいする ことも あります。",
-        "meaning": "Ada kalanya menyambut."
+        "jp": "あたらしいメンバーをかんげいしました。",
+        "kana": "あたらしい メンバー を かんげい しました。",
+        "meaning": "Kami menyambut anggota baru."
       },
       "romaji": "kangeisuru"
     },
@@ -101730,9 +101730,9 @@
         "kana": "あわせます"
       },
       "example": {
-        "jp": "合わせることもあります。",
-        "kana": "あわせる ことも あります。",
-        "meaning": "Ada kalanya menyatukan."
+        "jp": "ふたりでちからをあわせました。",
+        "kana": "ふたり で ちから を あわせました。",
+        "meaning": "Kami berdua menyatukan tenaga."
       },
       "romaji": "awaseru"
     },
@@ -101764,9 +101764,9 @@
         "kana": "すくいます"
       },
       "example": {
-        "jp": "救うこともあります。",
-        "kana": "すくう ことも あります。",
-        "meaning": "Ada kalanya menyelamatkan."
+        "jp": "かれがおぼれたひとをすくいました。",
+        "kana": "かれ が おぼれた ひと を すくいました。",
+        "meaning": "Dia menyelamatkan orang yang tenggelam."
       },
       "romaji": "sukuu"
     },
@@ -101798,9 +101798,9 @@
         "kana": "ちょうさします"
       },
       "example": {
-        "jp": "調査することもあります。",
-        "kana": "ちょうさする ことも あります。",
-        "meaning": "Ada kalanya menyelidiki."
+        "jp": "じこのげんいんをちょうさしました。",
+        "kana": "じこ の げんいん を ちょうさ しました。",
+        "meaning": "Kami menyelidiki penyebab kecelakaan."
       },
       "romaji": "chousasuru"
     },
@@ -101832,9 +101832,9 @@
         "kana": "かくします"
       },
       "example": {
-        "jp": "隠すこともあります。",
-        "kana": "かくす ことも あります。",
-        "meaning": "Ada kalanya menyembunyikan."
+        "jp": "プレゼントをはこにかくしました。",
+        "kana": "プレゼント を はこ に かくしました。",
+        "meaning": "Saya menyembunyikan hadiah di kotak."
       },
       "romaji": "kakusu"
     },
@@ -101866,9 +101866,9 @@
         "kana": "かんせいします"
       },
       "example": {
-        "jp": "完成することもあります。",
-        "kana": "かんせいする ことも あります。",
-        "meaning": "Ada kalanya selesai."
+        "jp": "あたらしいはしがかんせいしました。",
+        "kana": "あたらしい はし が かんせい しました。",
+        "meaning": "Jembatan baru selesai dibangun."
       },
       "romaji": "kanseisuru"
     },
@@ -101900,9 +101900,9 @@
         "kana": "ふれます"
       },
       "example": {
-        "jp": "触れることもあります。",
-        "kana": "ふれる ことも あります。",
-        "meaning": "Ada kalanya menyentuh."
+        "jp": "やわらかいぬのにふれました。",
+        "kana": "やわらかい ぬの に ふれました。",
+        "meaning": "Saya menyentuh kain yang lembut."
       },
       "romaji": "fureru"
     },
@@ -101934,9 +101934,9 @@
         "kana": "あきらめます"
       },
       "example": {
-        "jp": "諦めることもあります。",
-        "kana": "あきらめる ことも あります。",
-        "meaning": "Ada kalanya menyerah."
+        "jp": "しっぱいしても、ゆめをあきらめません。",
+        "kana": "しっぱい しても、ゆめ を あきらめません。",
+        "meaning": "Saya tidak menyerah pada impian meskipun gagal."
       },
       "romaji": "akirameru"
     },
@@ -101968,9 +101968,9 @@
         "kana": "まかせます"
       },
       "example": {
-        "jp": "任せることもあります。",
-        "kana": "まかせる ことも あります。",
-        "meaning": "Ada kalanya menyerahkan."
+        "jp": "このしごとはせんぱいにまかせました。",
+        "kana": "この しごと は せんぱい に まかせました。",
+        "meaning": "Saya menyerahkan pekerjaan ini kepada senior."
       },
       "romaji": "makaseru"
     },
@@ -102002,9 +102002,9 @@
         "kana": "うちます"
       },
       "example": {
-        "jp": "撃つこともあります。",
-        "kana": "うつ ことも あります。",
-        "meaning": "Ada kalanya menembak."
+        "jp": "えいがでけいさつかんがじゅうをうちました。",
+        "kana": "えいが で けいさつかん が じゅう を うちました。",
+        "meaning": "Dalam film, polisi menembakkan senjata."
       },
       "romaji": "utsu"
     },
@@ -102036,9 +102036,9 @@
         "kana": "こうげきします"
       },
       "example": {
-        "jp": "攻撃することもあります。",
-        "kana": "こうげきする ことも あります。",
-        "meaning": "Ada kalanya menyerang."
+        "jp": "ゲームでてきをこうげきしました。",
+        "kana": "ゲーム で てき を こうげき しました。",
+        "meaning": "Saya menyerang musuh dalam permainan."
       },
       "romaji": "kougekisuru"
     },
@@ -102070,9 +102070,9 @@
         "kana": "ほうそうします"
       },
       "example": {
-        "jp": "放送することもあります。",
-        "kana": "ほうそうする ことも あります。",
-        "meaning": "Ada kalanya menyiarkan."
+        "jp": "しあいをテレビでほうそうしました。",
+        "kana": "しあい を テレビ で ほうそう しました。",
+        "meaning": "Pertandingan disiarkan di televisi."
       },
       "romaji": "housousuru"
     },
@@ -102104,9 +102104,9 @@
         "kana": "けつろんします"
       },
       "example": {
-        "jp": "結論することもあります。",
-        "kana": "けつろんする ことも あります。",
-        "meaning": "Ada kalanya menyimpulkan."
+        "jp": "ちょうさのあと、げんいんはべつにあるとけつろんしました。",
+        "kana": "ちょうさ の あと、げんいん は べつ に ある と けつろん しました。",
+        "meaning": "Setelah penelitian, kami menyimpulkan bahwa penyebabnya ada pada hal lain."
       },
       "romaji": "ketsuronsuru"
     },
@@ -102138,9 +102138,9 @@
         "kana": "のこします"
       },
       "example": {
-        "jp": "残すこともあります。",
-        "kana": "のこす ことも あります。",
-        "meaning": "Ada kalanya menyisakan."
+        "jp": "あしたのぶんのパンをのこしました。",
+        "kana": "あした の ぶん の パン を のこしました。",
+        "meaning": "Saya menyisakan roti untuk besok."
       },
       "romaji": "nokosu"
     },
@@ -102172,9 +102172,9 @@
         "kana": "ささえます"
       },
       "example": {
-        "jp": "支えることもあります。",
-        "kana": "ささえる ことも あります。",
-        "meaning": "Ada kalanya menyokong, menopang."
+        "jp": "はしらがやねをささえています。",
+        "kana": "はしら が やね を ささえて います。",
+        "meaning": "Tiang menopang atap."
       },
       "romaji": "sasaeru"
     },
@@ -102206,9 +102206,9 @@
         "kana": "しげきします"
       },
       "example": {
-        "jp": "刺激することもあります。",
-        "kana": "しげきする ことも あります。",
-        "meaning": "Ada kalanya merangsang."
+        "jp": "このほんはこうきしんをしげきします。",
+        "kana": "この ほん は こうきしん を しげき します。",
+        "meaning": "Buku ini merangsang rasa ingin tahu."
       },
       "romaji": "shigekisuru"
     },
@@ -102240,9 +102240,9 @@
         "kana": "すませます"
       },
       "example": {
-        "jp": "済ませることもあります。",
-        "kana": "すませる ことも あります。",
-        "meaning": "Ada kalanya menyelesaikan."
+        "jp": "しごとをはやくすませました。",
+        "kana": "しごと を はやく すませました。",
+        "meaning": "Saya menyelesaikan pekerjaan lebih awal."
       },
       "romaji": "sumaseru"
     },
@@ -102274,9 +102274,9 @@
         "kana": "すいせんします"
       },
       "example": {
-        "jp": "推薦することもあります。",
-        "kana": "すいせんする ことも あります。",
-        "meaning": "Ada kalanya merekomendasikan."
+        "jp": "せんせいがわたしをいいんにすいせんしてくれました。",
+        "kana": "せんせい が わたし を いいん に すいせん して くれました。",
+        "meaning": "Guru merekomendasikan saya menjadi anggota komite."
       },
       "romaji": "suisensuru"
     },
@@ -102308,9 +102308,9 @@
         "kana": "たいします"
       },
       "example": {
-        "jp": "対することもあります。",
-        "kana": "たいする ことも あります。",
-        "meaning": "Ada kalanya terhadap, menghadapi."
+        "jp": "しつもんにたいするこたえをかんがえました。",
+        "kana": "しつもん に たいする こたえ を かんがえました。",
+        "meaning": "Saya memikirkan jawaban terhadap pertanyaan itu."
       },
       "romaji": "taisuru"
     },
@@ -102342,9 +102342,9 @@
         "kana": "つなぎます"
       },
       "example": {
-        "jp": "繋ぐこともあります。",
-        "kana": "つなぐ ことも あります。",
-        "meaning": "Ada kalanya menghubungkan."
+        "jp": "ふたつのパソコンをケーブルでつなぎました。",
+        "kana": "ふたつ の パソコン を ケーブル で つなぎました。",
+        "meaning": "Saya menghubungkan dua komputer dengan kabel."
       },
       "romaji": "tsunagu"
     },
@@ -102376,9 +102376,9 @@
         "kana": "さめます"
       },
       "example": {
-        "jp": "覚めることもあります。",
-        "kana": "さめる ことも あります。",
-        "meaning": "Ada kalanya terjaga, terbangun."
+        "jp": "おおきなおとでめがさめました。",
+        "kana": "おおきな おと で め が さめました。",
+        "meaning": "Saya terbangun karena suara keras."
       },
       "romaji": "sameru"
     },
@@ -102410,9 +102410,9 @@
         "kana": "かんしんします"
       },
       "example": {
-        "jp": "感心することもあります。",
-        "kana": "かんしんする ことも あります。",
-        "meaning": "Ada kalanya terkesan, mengagumi."
+        "jp": "こどものどりょくにかんしんしました。",
+        "kana": "こども の どりょく に かんしん しました。",
+        "meaning": "Saya kagum pada usaha anak itu."
       },
       "romaji": "kanshinsuru"
     },
@@ -102444,9 +102444,9 @@
         "kana": "えます"
       },
       "example": {
-        "jp": "得ることもあります。",
-        "kana": "える ことも あります。",
-        "meaning": "Ada kalanya memperoleh."
+        "jp": "このしごとでよいけいけんをえました。",
+        "kana": "この しごと で よい けいけん を えました。",
+        "meaning": "Saya memperoleh pengalaman berharga dari pekerjaan ini."
       },
       "romaji": "eru"
     },
@@ -102478,9 +102478,9 @@
         "kana": "そなえます"
       },
       "example": {
-        "jp": "備えることもあります。",
-        "kana": "そなえる ことも あります。",
-        "meaning": "Ada kalanya mempersiapkan."
+        "jp": "ふゆにそなえて、コートをかいました。",
+        "kana": "ふゆ に そなえて、コート を かいました。",
+        "meaning": "Saya membeli mantel untuk bersiap menghadapi musim dingin."
       },
       "romaji": "sonaeru"
     },
@@ -102512,9 +102512,9 @@
         "kana": "ほめます"
       },
       "example": {
-        "jp": "褒めることもあります。",
-        "kana": "ほめる ことも あります。",
-        "meaning": "Ada kalanya memuji."
+        "jp": "じょうしがしごとをほめてくれました。",
+        "kana": "じょうし が しごと を ほめて くれました。",
+        "meaning": "Atasan memuji pekerjaan saya."
       },
       "romaji": "homeru"
     },
@@ -102546,9 +102546,9 @@
         "kana": "あてます"
       },
       "example": {
-        "jp": "当てることもあります。",
-        "kana": "あてる ことも あります。",
-        "meaning": "Ada kalanya mengenai."
+        "jp": "クイズのこたえをあてました。",
+        "kana": "クイズ の こたえ を あてました。",
+        "meaning": "Saya menebak jawaban kuis dengan benar."
       },
       "romaji": "ateru"
     },
@@ -102580,9 +102580,9 @@
         "kana": "かいふくします"
       },
       "example": {
-        "jp": "快復することもあります。",
-        "kana": "かいふくする ことも あります。",
-        "meaning": "Ada kalanya pulih."
+        "jp": "びょうきからかいふくしました。",
+        "kana": "びょうき から かいふく しました。",
+        "meaning": "Saya pulih dari sakit."
       },
       "romaji": "kaifukusuru"
     },
@@ -102614,9 +102614,9 @@
         "kana": "けっしんします"
       },
       "example": {
-        "jp": "決心することもあります。",
-        "kana": "けっしんする ことも あります。",
-        "meaning": "Ada kalanya bertekad."
+        "jp": "らいねんりゅうがくするとけっしんしました。",
+        "kana": "らいねん りゅうがく する と けっしん しました。",
+        "meaning": "Saya bertekad belajar di luar negeri tahun depan."
       },
       "romaji": "kesshinsuru"
     },
@@ -102648,9 +102648,9 @@
         "kana": "たたきます"
       },
       "example": {
-        "jp": "叩くこともあります。",
-        "kana": "たたく ことも あります。",
-        "meaning": "Ada kalanya memukul."
+        "jp": "ドアをさんかいたたきました。",
+        "kana": "ドア を さんかい たたきました。",
+        "meaning": "Saya mengetuk pintu tiga kali."
       },
       "romaji": "tataku"
     },
@@ -102682,9 +102682,9 @@
         "kana": "せいきゅうします"
       },
       "example": {
-        "jp": "請求することもあります。",
-        "kana": "せいきゅうする ことも あります。",
-        "meaning": "Ada kalanya menagih."
+        "jp": "かいしゃにひようをせいきゅうしました。",
+        "kana": "かいしゃ に ひよう を せいきゅう しました。",
+        "meaning": "Saya menagih biaya kepada perusahaan."
       },
       "romaji": "seikyuusuru"
     },
@@ -102716,9 +102716,9 @@
         "kana": "がまんします"
       },
       "example": {
-        "jp": "我慢することもあります。",
-        "kana": "がまんする ことも あります。",
-        "meaning": "Ada kalanya menahan, bersabar."
+        "jp": "かいたいものをがまんしました。",
+        "kana": "かいたい もの を がまん しました。",
+        "meaning": "Saya menahan keinginan membeli sesuatu."
       },
       "romaji": "gamansuru"
     },
@@ -102750,9 +102750,9 @@
         "kana": "のせます"
       },
       "example": {
-        "jp": "乗せることもあります。",
-        "kana": "のせる ことも あります。",
-        "meaning": "Ada kalanya menaikkan."
+        "jp": "こどもをくるまにのせました。",
+        "kana": "こども を くるま に のせました。",
+        "meaning": "Saya menaikkan anak ke mobil."
       },
       "romaji": "noseru"
     },
@@ -102784,9 +102784,9 @@
         "kana": "まします"
       },
       "example": {
-        "jp": "増すこともあります。",
-        "kana": "ます ことも あります。",
-        "meaning": "Ada kalanya menambah."
+        "jp": "かぜがつよさをましています。",
+        "kana": "かぜ が つよさ を まして います。",
+        "meaning": "Angin bertambah kuat."
       },
       "romaji": "masu"
     },
@@ -102818,9 +102818,9 @@
         "kana": "くわえます"
       },
       "example": {
-        "jp": "加えることもあります。",
-        "kana": "くわえる ことも あります。",
-        "meaning": "Ada kalanya menambah, menambahkan."
+        "jp": "スープにしおをくわえました。",
+        "kana": "スープ に しお を くわえました。",
+        "meaning": "Saya menambahkan garam ke sup."
       },
       "romaji": "kuwaeru"
     },
@@ -102852,9 +102852,9 @@
         "kana": "ぬけます"
       },
       "example": {
-        "jp": "抜けることもあります。",
-        "kana": "ぬける ことも あります。",
-        "meaning": "Ada kalanya terlepas."
+        "jp": "かばんからペンがぬけました。",
+        "kana": "かばん から ペン が ぬけました。",
+        "meaning": "Pena terlepas dari tas."
       },
       "romaji": "nukeru"
     },
@@ -102886,9 +102886,9 @@
         "kana": "ほほえみます"
       },
       "example": {
-        "jp": "微笑むこともあります。",
-        "kana": "ほほえむ ことも あります。",
-        "meaning": "Ada kalanya tersenyum."
+        "jp": "しゃしんをみて、ほほえみました。",
+        "kana": "しゃしん を みて、ほほえみました。",
+        "meaning": "Saya tersenyum saat melihat foto."
       },
       "romaji": "hohoemu"
     },
@@ -102920,9 +102920,9 @@
         "kana": "けいかくします"
       },
       "example": {
-        "jp": "計画することもあります。",
-        "kana": "けいかくする ことも あります。",
-        "meaning": "Ada kalanya merencanakan."
+        "jp": "ともだちとりょこうをけいかくしました。",
+        "kana": "ともだち と りょこう を けいかく しました。",
+        "meaning": "Saya merencanakan perjalanan bersama teman."
       },
       "romaji": "keikakusuru"
     },
@@ -102954,9 +102954,9 @@
         "kana": "うばいます"
       },
       "example": {
-        "jp": "奪うこともあります。",
-        "kana": "うばう ことも あります。",
-        "meaning": "Ada kalanya merenggut."
+        "jp": "じこがかれのしごとをうばいました。",
+        "kana": "じこ が かれ の しごと を うばいました。",
+        "meaning": "Kecelakaan merenggut pekerjaannya."
       },
       "romaji": "ubau"
     },
@@ -102988,9 +102988,9 @@
         "kana": "やぶります"
       },
       "example": {
-        "jp": "破ることもあります。",
-        "kana": "やぶる ことも あります。",
-        "meaning": "Ada kalanya merobek."
+        "jp": "いらないかみをやぶりました。",
+        "kana": "いらない かみ を やぶりました。",
+        "meaning": "Saya merobek kertas yang tidak diperlukan."
       },
       "romaji": "yaburu"
     },
@@ -103022,9 +103022,9 @@
         "kana": "たおします"
       },
       "example": {
-        "jp": "倒すこともあります。",
-        "kana": "たおす ことも あります。",
-        "meaning": "Ada kalanya merobohkan, meruntuhkan, mengalahkan."
+        "jp": "しあいでつよいあいてをたおしました。",
+        "kana": "しあい で つよい あいて を たおしました。",
+        "meaning": "Saya mengalahkan lawan kuat dalam pertandingan."
       },
       "romaji": "taosu"
     },
@@ -103056,9 +103056,9 @@
         "kana": "けいじします"
       },
       "example": {
-        "jp": "掲示することもあります。",
-        "kana": "けいじする ことも あります。",
-        "meaning": "Ada kalanya memasang pengumuman."
+        "jp": "ろうかにおしらせをけいじしました。",
+        "kana": "ろうか に おしらせ を けいじ しました。",
+        "meaning": "Kami memasang pengumuman di lorong."
       },
       "romaji": "keijisuru"
     },
@@ -103124,9 +103124,9 @@
         "kana": "あらわれます"
       },
       "example": {
-        "jp": "現れることもあります。",
-        "kana": "あらわれる ことも あります。",
-        "meaning": "Ada kalanya muncul."
+        "jp": "くものあいだからつきがあらわれました。",
+        "kana": "くも の あいだ から つき が あらわれました。",
+        "meaning": "Bulan muncul dari sela awan."
       },
       "romaji": "arawareru"
     },
@@ -103158,9 +103158,9 @@
         "kana": "はきます"
       },
       "example": {
-        "jp": "吐くこともあります。",
-        "kana": "はく ことも あります。",
-        "meaning": "Ada kalanya muntah."
+        "jp": "バスできぶんがわるくなって、はきました。",
+        "kana": "バス で きぶん が わるく なって、はきました。",
+        "meaning": "Saya merasa tidak enak badan lalu muntah di bus."
       },
       "romaji": "haku"
     },
@@ -103192,9 +103192,9 @@
         "kana": "のぼります"
       },
       "example": {
-        "jp": "昇ることもあります。",
-        "kana": "のぼる ことも あります。",
-        "meaning": "Ada kalanya naik, terbit."
+        "jp": "やまのむこうからたいようがのぼりました。",
+        "kana": "やま の むこう から たいよう が のぼりました。",
+        "meaning": "Matahari terbit dari balik gunung."
       },
       "romaji": "noboru"
     },
@@ -103226,9 +103226,9 @@
         "kana": "しょうちします"
       },
       "example": {
-        "jp": "承知することもあります。",
-        "kana": "しょうちする ことも あります。",
-        "meaning": "Ada kalanya paham, mengerti."
+        "jp": "じじょうはしょうちしています。",
+        "kana": "じじょう は しょうち して います。",
+        "meaning": "Saya memahami keadaannya."
       },
       "romaji": "shouchisuru"
     },
@@ -103260,9 +103260,9 @@
         "kana": "とけます"
       },
       "example": {
-        "jp": "解けることもあります。",
-        "kana": "とける ことも あります。",
-        "meaning": "Ada kalanya terurai."
+        "jp": "くつのひもがとけました。",
+        "kana": "くつ の ひも が とけました。",
+        "meaning": "Tali sepatu terlepas."
       },
       "romaji": "tokeru"
     },
@@ -103294,9 +103294,9 @@
         "kana": "みちます"
       },
       "example": {
-        "jp": "満ちることもあります。",
-        "kana": "みちる ことも あります。",
-        "meaning": "Ada kalanya menjadi penuh."
+        "jp": "うみのしおがみちてきました。",
+        "kana": "うみ の しお が みちて きました。",
+        "meaning": "Air laut mulai pasang."
       },
       "romaji": "michiru"
     },
@@ -103328,9 +103328,9 @@
         "kana": "さります"
       },
       "example": {
-        "jp": "去ることもあります。",
-        "kana": "さる ことも あります。",
-        "meaning": "Ada kalanya pergi, meninggalkan."
+        "jp": "はるにこのまちをさりました。",
+        "kana": "はる に この まち を さりました。",
+        "meaning": "Saya meninggalkan kota ini pada musim semi."
       },
       "romaji": "saru"
     },
@@ -103362,9 +103362,9 @@
         "kana": "かんします"
       },
       "example": {
-        "jp": "関することもあります。",
-        "kana": "かんする ことも あります。",
-        "meaning": "Ada kalanya sehubungan dengan, berkenaan dengan."
+        "jp": "りょこうにかんするしつもんがあります。",
+        "kana": "りょこう に かんする しつもん が あります。",
+        "meaning": "Saya mempunyai pertanyaan mengenai perjalanan."
       },
       "romaji": "kansuru"
     },
@@ -103396,9 +103396,9 @@
         "kana": "かんりょうします"
       },
       "example": {
-        "jp": "完了することもあります。",
-        "kana": "かんりょうする ことも あります。",
-        "meaning": "Ada kalanya selesai, rampung."
+        "jp": "てつづきがかんりょうしました。",
+        "kana": "てつづき が かんりょう しました。",
+        "meaning": "Prosedurnya sudah selesai."
       },
       "romaji": "kanryousuru"
     },
@@ -103430,9 +103430,9 @@
         "kana": "うったえます"
       },
       "example": {
-        "jp": "訴えることもあります。",
-        "kana": "うったえる ことも あります。",
-        "meaning": "Ada kalanya mengadukan."
+        "jp": "かんじゃはいたみをうったえました。",
+        "kana": "かんじゃ は いたみ を うったえました。",
+        "meaning": "Pasien mengeluhkan rasa sakit."
       },
       "romaji": "uttaeru"
     },
@@ -103464,9 +103464,9 @@
         "kana": "せいこうします"
       },
       "example": {
-        "jp": "成功することもあります。",
-        "kana": "せいこうする ことも あります。",
-        "meaning": "Ada kalanya sukses."
+        "jp": "はじめてのはっぴょうにせいこうしました。",
+        "kana": "はじめて の はっぴょう に せいこう しました。",
+        "meaning": "Saya berhasil dalam presentasi pertama."
       },
       "romaji": "seikousuru"
     },
@@ -103498,9 +103498,9 @@
         "kana": "おそれます"
       },
       "example": {
-        "jp": "恐れることもあります。",
-        "kana": "おそれる ことも あります。",
-        "meaning": "Ada kalanya takut."
+        "jp": "しっぱいをおそれていました。",
+        "kana": "しっぱい を おそれて いました。",
+        "meaning": "Saya takut gagal."
       },
       "romaji": "osoreru"
     },
@@ -103532,9 +103532,9 @@
         "kana": "おぼれます"
       },
       "example": {
-        "jp": "溺れることもあります。",
-        "kana": "おぼれる ことも あります。",
-        "meaning": "Ada kalanya tenggelam."
+        "jp": "プールでおぼれそうになりました。",
+        "kana": "プール で おぼれそう に なりました。",
+        "meaning": "Saya hampir tenggelam di kolam."
       },
       "romaji": "oboreru"
     },
@@ -103566,9 +103566,9 @@
         "kana": "しずみます"
       },
       "example": {
-        "jp": "沈むこともあります。",
-        "kana": "しずむ ことも あります。",
-        "meaning": "Ada kalanya tenggelam."
+        "jp": "ゆうひがうみにしずみました。",
+        "kana": "ゆうひ が うみ に しずみました。",
+        "meaning": "Matahari senja tenggelam di laut."
       },
       "romaji": "shizumu"
     },
@@ -103600,9 +103600,9 @@
         "kana": "そだちます"
       },
       "example": {
-        "jp": "育つこともあります。",
-        "kana": "そだつ ことも あります。",
-        "meaning": "Ada kalanya tumbuh."
+        "jp": "やさいがおおきくそだちました。",
+        "kana": "やさい が おおきく そだちました。",
+        "meaning": "Sayuran tumbuh besar."
       },
       "romaji": "sodatsu"
     }

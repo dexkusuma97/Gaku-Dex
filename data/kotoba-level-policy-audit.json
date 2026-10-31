@@ -46676,6 +46676,27 @@
           "after": "Cara & keadaan"
         }
       }
+    },
+    "N4:kotoba-n4-b4c49b1aaea3": {
+      "jp": "旅券",
+      "fields": {
+        "meaning": {
+          "before": "tiket transportasi",
+          "after": "paspor"
+        },
+        "example": {
+          "before": {
+            "jp": "旅券について教えてください。",
+            "kana": "りょけん に ついて おしえてください。",
+            "meaning": "Tolong jelaskan tentang tiket transportasi."
+          },
+          "after": {
+            "jp": "りょけんをかばんにいれました。",
+            "kana": "りょけん を かばん に いれました。",
+            "meaning": "Saya memasukkan paspor ke tas."
+          }
+        }
+      }
     }
   }
 }

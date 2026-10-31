@@ -1,5 +1,17 @@
 'use strict';
 const fs=require('node:fs'),assert=require('node:assert/strict'),cp=require('node:child_process'),crypto=require('node:crypto');
+// Rebuild checks mutate files; isolate them from parallel Node test files.
+const os=require('node:os'),path=require('node:path');
+const originalCwd=process.cwd(),fixture=fs.mkdtempSync(path.join(os.tmpdir(),'gaku-policy-test-'));
+fs.mkdirSync(path.join(fixture,'data'));
+for(const name of ['kotoba-n5.json','kotoba-n4.json','kotoba-level-policy-audit.json','kotoba-duplicate-review.json','kotoba-n4-context-examples.json','kotoba-n4-quality-review.json'])fs.copyFileSync('data/'+name,path.join(fixture,'data',name));
+fs.mkdirSync(path.join(fixture,'scripts'),{recursive:true});
+fs.cpSync('scripts/lib',path.join(fixture,'scripts/lib'),{recursive:true});
+fs.copyFileSync('scripts/build-kotoba-data.py',path.join(fixture,'scripts/build-kotoba-data.py'));
+fs.mkdirSync(path.join(fixture,'dist'));
+for(const name of ['kotoba-data.js','kotoba-n4-data.js'])fs.copyFileSync('dist/'+name,path.join(fixture,'dist',name));
+process.chdir(fixture);
+process.on('exit',()=>{process.chdir(originalCwd);fs.rmSync(fixture,{recursive:true,force:true})});
 const n5=JSON.parse(fs.readFileSync('data/kotoba-n5.json')),n4=JSON.parse(fs.readFileSync('data/kotoba-n4.json')),audit=JSON.parse(fs.readFileSync('data/kotoba-level-policy-audit.json'));
 assert.equal(n5.entries.length,1791);assert.equal(n4.entries.length,3227);
 assert.equal(n5.entries.length+audit.removedN5.length+audit.removedN5Names.length,1801);
