@@ -1,0 +1,17 @@
+# Audit kualitas 31 Oktober 2026 — batch pertama
+
+138 contoh Kotoba N4 ditulis ulang sesuai pemakaian kata. Contoh Jepang memakai kana untuk membantu pemula; kolom kana sama dengan kalimat contoh. Tidak mengubah arti kepala entri, keanggotaan level, ID, atau audio.
+
+Contoh: あかちゃんがねています。— Bayinya sedang tidur.
+Contoh: アンケートにこたえてください。— Silakan isi angket ini.
+Contoh: このスープはあじがうすいです。— Rasa sup ini kurang kuat.
+
+Baseline: 1.600 topic-frame dan 637 occasional-frame. Sesudah batch: 2.099 bingkai berulang masih mengantre. Periksa JSON quality-review untuk daftar ID. Ini belum audit menyeluruh 3.227 kata, 115 Bunpo, atau detail Kanji.
+
+Pemeriksaan: 37 berkas tes otomatis lulus, build idempoten dan koreksi bertahan saat rebuild. N5 tetap 1.791; N4 tetap 3.227.
+
+Referensi tersedia untuk tahap verifikasi selanjutnya: https://www.irodori.jpf.go.jp/en/resources.html dan https://marugoto.jpf.go.jp/assets/docs/download/elementary1_a/MarugotoElementary1ActivitiesVocabularyIndex2_ID.pdf . Contoh baru adalah tulisan orisinal, bukan kutipan atau klaim sudah divalidasi penerbit.
+
+## Pemasangan patch
+
+Ekstrak ZIP patch ke akar repository Gaku-Dex yang memiliki folder data, scripts, tests, dan dist. Timpa berkas dengan jalur sama. Patch tidak memuat aset lama; jangan hapus repository lama. dist/kotoba-n4-data.js sudah dibangun. Jalankan node --test tests/*.test.cjs bila Node/Python tersedia, lalu unggah perubahan seperti biasa. Belum dipublikasikan otomatis.

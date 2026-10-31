@@ -5,6 +5,8 @@ from kotoba_level_policy import apply
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
 print('Level policy:',apply(root))
+from kotoba_context_review import apply_context_review
+print('Context examples:',apply_context_review(root))
 data=json.loads((root/'data/kotoba-n5.json').read_text())
 assert len({e['id'] for e in data['entries']})==len(data['entries'])
 out='/* Source: data/kotoba-n5.json. Build: python scripts/build-kotoba-data.py */\n'

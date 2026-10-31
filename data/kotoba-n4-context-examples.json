@@ -1,0 +1,1386 @@
+{
+  "updated": "2026-10-31",
+  "policy": "Original contextual examples; keyed by stable ID with headword/reading guards. This batch is not an exhaustive review.",
+  "entries": [
+    {
+      "id": "kotoba-n4-0703a1f66e9e",
+      "headword": "あかちゃん",
+      "reading": "あかちゃん",
+      "example": {
+        "jp": "あかちゃんがねています。",
+        "kana": "あかちゃんがねています。",
+        "meaning": "Bayinya sedang tidur."
+      }
+    },
+    {
+      "id": "kotoba-n4-887f84359e74",
+      "headword": "あじ",
+      "reading": "あじ",
+      "example": {
+        "jp": "このスープはあじがうすいです。",
+        "kana": "このスープはあじがうすいです。",
+        "meaning": "Rasa sup ini kurang kuat."
+      }
+    },
+    {
+      "id": "kotoba-n4-f425d9a4baa4",
+      "headword": "あたり",
+      "reading": "あたり",
+      "example": {
+        "jp": "このあたりにスーパーはありますか。",
+        "kana": "このあたりにスーパーはありますか。",
+        "meaning": "Apakah ada supermarket di sekitar sini?"
+      }
+    },
+    {
+      "id": "kotoba-n4-138bc30de287",
+      "headword": "あみもの",
+      "reading": "あみもの",
+      "example": {
+        "jp": "そぼはあみものがすきです。",
+        "kana": "そぼはあみものがすきです。",
+        "meaning": "Nenek saya suka merajut."
+      }
+    },
+    {
+      "id": "kotoba-n4-b248e4fa5009",
+      "headword": "アンケート",
+      "reading": "あんけーと",
+      "example": {
+        "jp": "アンケートにこたえてください。",
+        "kana": "アンケートにこたえてください。",
+        "meaning": "Silakan isi angket ini."
+      }
+    },
+    {
+      "id": "kotoba-n4-000638ce1d7c",
+      "headword": "いき",
+      "reading": "いき",
+      "example": {
+        "jp": "ゆっくりいきをはいてください。",
+        "kana": "ゆっくりいきをはいてください。",
+        "meaning": "Silakan embuskan napas perlahan."
+      }
+    },
+    {
+      "id": "kotoba-n4-f13daa61a3cc",
+      "headword": "いご",
+      "reading": "いご",
+      "example": {
+        "jp": "そふといごをします。",
+        "kana": "そふといごをします。",
+        "meaning": "Saya bermain igo dengan kakek."
+      }
+    },
+    {
+      "id": "kotoba-n4-7a1781858b0d",
+      "headword": "いねかり",
+      "reading": "いねかり",
+      "example": {
+        "jp": "あきにいねかりをします。",
+        "kana": "あきにいねかりをします。",
+        "meaning": "Kami memanen padi pada musim gugur."
+      }
+    },
+    {
+      "id": "kotoba-n4-2703e0818ddd",
+      "headword": "いもうとさん",
+      "reading": "いもうとさん",
+      "example": {
+        "jp": "いもうとさんはおいくつですか。",
+        "kana": "いもうとさんはおいくつですか。",
+        "meaning": "Berapa usia adik perempuan Anda?"
+      }
+    },
+    {
+      "id": "kotoba-n4-e914ca08fbe3",
+      "headword": "うおいちば",
+      "reading": "うおいちば",
+      "example": {
+        "jp": "あさ、うおいちばでさかなをかいました。",
+        "kana": "あさ、うおいちばでさかなをかいました。",
+        "meaning": "Pagi tadi saya membeli ikan di pasar ikan."
+      }
+    },
+    {
+      "id": "kotoba-n4-855488bfcc98",
+      "headword": "ウォーキング",
+      "reading": "うぉーきんぐ",
+      "example": {
+        "jp": "まいあさウォーキングをしています。",
+        "kana": "まいあさウォーキングをしています。",
+        "meaning": "Saya berjalan kaki untuk berolahraga setiap pagi."
+      }
+    },
+    {
+      "id": "kotoba-n4-e3f9f485f4dc",
+      "headword": "うき",
+      "reading": "うき",
+      "example": {
+        "jp": "うきにはあめがよくふります。",
+        "kana": "うきにはあめがよくふります。",
+        "meaning": "Pada musim hujan, hujan sering turun."
+      }
+    },
+    {
+      "id": "kotoba-n4-46ca00112705",
+      "headword": "うけつけ",
+      "reading": "うけつけ",
+      "example": {
+        "jp": "うけつけでなまえをかいてください。",
+        "kana": "うけつけでなまえをかいてください。",
+        "meaning": "Silakan tulis nama Anda di meja penerimaan."
+      }
+    },
+    {
+      "id": "kotoba-n4-69b1f28af3c3",
+      "headword": "うで",
+      "reading": "うで",
+      "example": {
+        "jp": "にもつがおもくて、うでがつかれました。",
+        "kana": "にもつがおもくて、うでがつかれました。",
+        "meaning": "Barang bawaannya berat sehingga lengan saya lelah."
+      }
+    },
+    {
+      "id": "kotoba-n4-84ab9356dac6",
+      "headword": "エアロビクス",
+      "reading": "えあろびくす",
+      "example": {
+        "jp": "しゅうににかいエアロビクスをします。",
+        "kana": "しゅうににかいエアロビクスをします。",
+        "meaning": "Saya melakukan senam aerobik dua kali seminggu."
+      }
+    },
+    {
+      "id": "kotoba-n4-1413520bca05",
+      "headword": "えんげき",
+      "reading": "えんげき",
+      "example": {
+        "jp": "ともだちとえんげきをみにいきました。",
+        "kana": "ともだちとえんげきをみにいきました。",
+        "meaning": "Saya pergi menonton pertunjukan teater bersama teman."
+      }
+    },
+    {
+      "id": "kotoba-n4-efd16654ef2a",
+      "headword": "大きく",
+      "reading": "おおきく",
+      "example": {
+        "jp": "おおきくいきをすってください。",
+        "kana": "おおきくいきをすってください。",
+        "meaning": "Silakan tarik napas dalam-dalam."
+      }
+    },
+    {
+      "id": "kotoba-n4-a7a30bde443e",
+      "headword": "おじ",
+      "reading": "おじ",
+      "example": {
+        "jp": "おじはぎんこうではたらいています。",
+        "kana": "おじはぎんこうではたらいています。",
+        "meaning": "Paman saya bekerja di bank."
+      }
+    },
+    {
+      "id": "kotoba-n4-8226656ebf2f",
+      "headword": "おすすめ",
+      "reading": "おすすめ",
+      "example": {
+        "jp": "このみせのおすすめはなんですか。",
+        "kana": "このみせのおすすめはなんですか。",
+        "meaning": "Apa rekomendasi di toko ini?"
+      }
+    },
+    {
+      "id": "kotoba-n4-8f3a406e6197",
+      "headword": "おせわ",
+      "reading": "おせわ",
+      "example": {
+        "jp": "いろいろおせわになりました。",
+        "kana": "いろいろおせわになりました。",
+        "meaning": "Terima kasih atas segala bantuan Anda."
+      }
+    },
+    {
+      "id": "kotoba-n4-1e9d9cb107ce",
+      "headword": "おとうとさん",
+      "reading": "おとうとさん",
+      "example": {
+        "jp": "おとうとさんもいっしょにきますか。",
+        "kana": "おとうとさんもいっしょにきますか。",
+        "meaning": "Apakah adik laki-laki Anda juga akan ikut datang?"
+      }
+    },
+    {
+      "id": "kotoba-n4-f01b76962f84",
+      "headword": "おどり",
+      "reading": "おどり",
+      "example": {
+        "jp": "まつりでにほんのおどりをみました。",
+        "kana": "まつりでにほんのおどりをみました。",
+        "meaning": "Saya melihat tarian Jepang di festival."
+      }
+    },
+    {
+      "id": "kotoba-n4-638a77faa26a",
+      "headword": "おば",
+      "reading": "おば",
+      "example": {
+        "jp": "おばにてがみをかきました。",
+        "kana": "おばにてがみをかきました。",
+        "meaning": "Saya menulis surat kepada bibi."
+      }
+    },
+    {
+      "id": "kotoba-n4-7dd05a037762",
+      "headword": "オフィス",
+      "reading": "おふぃす",
+      "example": {
+        "jp": "あたらしいオフィスはえきのちかくです。",
+        "kana": "あたらしいオフィスはえきのちかくです。",
+        "meaning": "Kantor baru kami dekat stasiun."
+      }
+    },
+    {
+      "id": "kotoba-n4-709b7f925277",
+      "headword": "オペラ",
+      "reading": "おぺら",
+      "example": {
+        "jp": "はじめてオペラをみました。",
+        "kana": "はじめてオペラをみました。",
+        "meaning": "Saya menonton opera untuk pertama kalinya."
+      }
+    },
+    {
+      "id": "kotoba-n4-47ea2008532e",
+      "headword": "おゆ",
+      "reading": "おゆ",
+      "example": {
+        "jp": "おゆをわかして、おちゃをいれます。",
+        "kana": "おゆをわかして、おちゃをいれます。",
+        "meaning": "Saya mendidihkan air lalu membuat teh."
+      }
+    },
+    {
+      "id": "kotoba-n4-8e7712f17607",
+      "headword": "おわり",
+      "reading": "おわり",
+      "example": {
+        "jp": "これでじゅぎょうはおわりです。",
+        "kana": "これでじゅぎょうはおわりです。",
+        "meaning": "Dengan ini pelajaran selesai."
+      }
+    },
+    {
+      "id": "kotoba-n4-05ad4b1d70e4",
+      "headword": "ガーデニング",
+      "reading": "がーでにんぐ",
+      "example": {
+        "jp": "しゅうまつにガーデニングをたのしみます。",
+        "kana": "しゅうまつにガーデニングをたのしみます。",
+        "meaning": "Saya menikmati kegiatan berkebun pada akhir pekan."
+      }
+    },
+    {
+      "id": "kotoba-n4-a41d03304ce7",
+      "headword": "カード",
+      "reading": "かーど",
+      "example": {
+        "jp": "カードではらってもいいですか。",
+        "kana": "カードではらってもいいですか。",
+        "meaning": "Bolehkah saya membayar dengan kartu?"
+      }
+    },
+    {
+      "id": "kotoba-n4-34cde18001c4",
+      "headword": "会議",
+      "reading": "かいぎ",
+      "example": {
+        "jp": "かいぎはさんじからです。",
+        "kana": "かいぎはさんじからです。",
+        "meaning": "Rapat dimulai pukul tiga."
+      }
+    },
+    {
+      "id": "kotoba-n4-5bbbdcde5eea",
+      "headword": "かた",
+      "reading": "かた",
+      "example": {
+        "jp": "かばんがおもくて、かたがいたいです。",
+        "kana": "かばんがおもくて、かたがいたいです。",
+        "meaning": "Tasnya berat sehingga bahu saya sakit."
+      }
+    },
+    {
+      "id": "kotoba-n4-669f5354e7c7",
+      "headword": "かぶき",
+      "reading": "かぶき",
+      "example": {
+        "jp": "とうきょうでかぶきをみたいです。",
+        "kana": "とうきょうでかぶきをみたいです。",
+        "meaning": "Saya ingin menonton kabuki di Tokyo."
+      }
+    },
+    {
+      "id": "kotoba-n4-0f1b6f14dabf",
+      "headword": "カラオケ",
+      "reading": "からおけ",
+      "example": {
+        "jp": "ともだちとカラオケにいきました。",
+        "kana": "ともだちとカラオケにいきました。",
+        "meaning": "Saya pergi karaoke bersama teman."
+      }
+    },
+    {
+      "id": "kotoba-n4-85a328ee9d6f",
+      "headword": "かんき",
+      "reading": "かんき",
+      "example": {
+        "jp": "かんきにはあめがあまりふりません。",
+        "kana": "かんきにはあめがあまりふりません。",
+        "meaning": "Pada musim kemarau, hujan jarang turun."
+      }
+    },
+    {
+      "id": "kotoba-n4-73c6c2a6d152",
+      "headword": "かんこくじん",
+      "reading": "かんこくじん",
+      "example": {
+        "jp": "わたしのともだちはかんこくじんです。",
+        "kana": "わたしのともだちはかんこくじんです。",
+        "meaning": "Teman saya orang Korea."
+      }
+    },
+    {
+      "id": "kotoba-n4-0b5f1f270e3d",
+      "headword": "きおん",
+      "reading": "きおん",
+      "example": {
+        "jp": "きょうはきおんがたかいです。",
+        "kana": "きょうはきおんがたかいです。",
+        "meaning": "Suhu udara hari ini tinggi."
+      }
+    },
+    {
+      "id": "kotoba-n4-a4162d466b39",
+      "headword": "きせつ",
+      "reading": "きせつ",
+      "example": {
+        "jp": "どのきせつがいちばんすきですか。",
+        "kana": "どのきせつがいちばんすきですか。",
+        "meaning": "Musim apa yang paling Anda sukai?"
+      }
+    },
+    {
+      "id": "kotoba-n4-401334462c00",
+      "headword": "きょうみ",
+      "reading": "きょうみ",
+      "example": {
+        "jp": "にほんのりょうりにきょうみがあります。",
+        "kana": "にほんのりょうりにきょうみがあります。",
+        "meaning": "Saya tertarik pada masakan Jepang."
+      }
+    },
+    {
+      "id": "kotoba-n4-4b7d7488edae",
+      "headword": "くび",
+      "reading": "くび",
+      "example": {
+        "jp": "くびをゆっくりまわしてください。",
+        "kana": "くびをゆっくりまわしてください。",
+        "meaning": "Silakan putar leher perlahan."
+      }
+    },
+    {
+      "id": "kotoba-n4-834cd0734bec",
+      "headword": "クリスマス",
+      "reading": "くりすます",
+      "example": {
+        "jp": "クリスマスにかぞくとケーキをたべます。",
+        "kana": "クリスマスにかぞくとケーキをたべます。",
+        "meaning": "Saya makan kue bersama keluarga saat Natal."
+      }
+    },
+    {
+      "id": "kotoba-n4-e0c82d6a8d3f",
+      "headword": "グループ",
+      "reading": "ぐるーぷ",
+      "example": {
+        "jp": "みっつのグループにわかれてください。",
+        "kana": "みっつのグループにわかれてください。",
+        "meaning": "Silakan bagi diri menjadi tiga kelompok."
+      }
+    },
+    {
+      "id": "kotoba-n4-689d121d2146",
+      "headword": "コイン",
+      "reading": "こいん",
+      "example": {
+        "jp": "ポケットからコインがおちました。",
+        "kana": "ポケットからコインがおちました。",
+        "meaning": "Koin jatuh dari saku saya."
+      }
+    },
+    {
+      "id": "kotoba-n4-3b09c4c9211b",
+      "headword": "工場",
+      "reading": "こうじょう",
+      "example": {
+        "jp": "このこうじょうでくるまをつくっています。",
+        "kana": "このこうじょうでくるまをつくっています。",
+        "meaning": "Pabrik ini memproduksi mobil."
+      }
+    },
+    {
+      "id": "kotoba-n4-51373eb2a7bf",
+      "headword": "コーナー",
+      "reading": "こーなー",
+      "example": {
+        "jp": "やさいのコーナーはどこですか。",
+        "kana": "やさいのコーナーはどこですか。",
+        "meaning": "Di mana bagian sayuran?"
+      }
+    },
+    {
+      "id": "kotoba-n4-d1587f71a024",
+      "headword": "コーヒーカップ",
+      "reading": "こーひーかっぷ",
+      "example": {
+        "jp": "コーヒーカップをふたつあらいました。",
+        "kana": "コーヒーカップをふたつあらいました。",
+        "meaning": "Saya mencuci dua cangkir kopi."
+      }
+    },
+    {
+      "id": "kotoba-n4-18e2646f7e07",
+      "headword": "コーヒーショップ",
+      "reading": "こーひーしょっぷ",
+      "example": {
+        "jp": "えきのコーヒーショップでまちあわせましょう。",
+        "kana": "えきのコーヒーショップでまちあわせましょう。",
+        "meaning": "Mari bertemu di kedai kopi di stasiun."
+      }
+    },
+    {
+      "id": "kotoba-n4-f0b48699e271",
+      "headword": "こけし",
+      "reading": "こけし",
+      "example": {
+        "jp": "おみやげにこけしをかいました。",
+        "kana": "おみやげにこけしをかいました。",
+        "meaning": "Saya membeli boneka kokeshi sebagai oleh-oleh."
+      }
+    },
+    {
+      "id": "kotoba-n4-8e5af404af68",
+      "headword": "ごけっこん",
+      "reading": "ごけっこん",
+      "example": {
+        "jp": "ごけっこんおめでとうございます。",
+        "kana": "ごけっこんおめでとうございます。",
+        "meaning": "Selamat atas pernikahan Anda."
+      }
+    },
+    {
+      "id": "kotoba-n4-5ff645416046",
+      "headword": "こし",
+      "reading": "こし",
+      "example": {
+        "jp": "ながくすわっていたので、こしがいたいです。",
+        "kana": "ながくすわっていたので、こしがいたいです。",
+        "meaning": "Pinggang saya sakit karena duduk lama."
+      }
+    },
+    {
+      "id": "kotoba-n4-d41e52207328",
+      "headword": "こたつ",
+      "reading": "こたつ",
+      "example": {
+        "jp": "ふゆはこたつでほんをよみます。",
+        "kana": "ふゆはこたつでほんをよみます。",
+        "meaning": "Pada musim dingin saya membaca buku di kotatsu."
+      }
+    },
+    {
+      "id": "kotoba-n4-5237a9893e76",
+      "headword": "こと",
+      "reading": "こと",
+      "example": {
+        "jp": "すきなことをはなしてください。",
+        "kana": "すきなことをはなしてください。",
+        "meaning": "Silakan ceritakan hal yang Anda sukai."
+      }
+    },
+    {
+      "id": "kotoba-n4-f3f786c57dab",
+      "headword": "こどもたち",
+      "reading": "こどもたち",
+      "example": {
+        "jp": "こどもたちがこうえんであそんでいます。",
+        "kana": "こどもたちがこうえんであそんでいます。",
+        "meaning": "Anak-anak sedang bermain di taman."
+      }
+    },
+    {
+      "id": "kotoba-n4-dfbc108bb43c",
+      "headword": "ごみぶくろ",
+      "reading": "ごみぶくろ",
+      "example": {
+        "jp": "あたらしいごみぶくろをください。",
+        "kana": "あたらしいごみぶくろをください。",
+        "meaning": "Tolong berikan kantong sampah baru."
+      }
+    },
+    {
+      "id": "kotoba-n4-d885d157df8c",
+      "headword": "サイクリング",
+      "reading": "さいくりんぐ",
+      "example": {
+        "jp": "にちようびにかわのそばでサイクリングをしました。",
+        "kana": "にちようびにかわのそばでサイクリングをしました。",
+        "meaning": "Hari Minggu saya bersepeda di tepi sungai."
+      }
+    },
+    {
+      "id": "kotoba-n4-6017387433da",
+      "headword": "さいご",
+      "reading": "さいご",
+      "example": {
+        "jp": "さいごにしつもんはありますか。",
+        "kana": "さいごにしつもんはありますか。",
+        "meaning": "Sebagai penutup, apakah ada pertanyaan?"
+      }
+    },
+    {
+      "id": "kotoba-n4-52e89d0876e7",
+      "headword": "サイト",
+      "reading": "さいと",
+      "example": {
+        "jp": "このサイトでホテルをよやくしました。",
+        "kana": "このサイトでホテルをよやくしました。",
+        "meaning": "Saya memesan hotel melalui situs ini."
+      }
+    },
+    {
+      "id": "kotoba-n4-b5d9e458f911",
+      "headword": "さら",
+      "reading": "さら",
+      "example": {
+        "jp": "たべたあとで、さらをあらいます。",
+        "kana": "たべたあとで、さらをあらいます。",
+        "meaning": "Saya mencuci piring setelah makan."
+      }
+    },
+    {
+      "id": "kotoba-n4-242344d42299",
+      "headword": "シート",
+      "reading": "しーと",
+      "example": {
+        "jp": "しばふにシートをしいてすわりました。",
+        "kana": "しばふにシートをしいてすわりました。",
+        "meaning": "Kami menggelar alas piknik di rumput lalu duduk."
+      }
+    },
+    {
+      "id": "kotoba-n4-8b5917695202",
+      "headword": "じこしょうかい",
+      "reading": "じこしょうかい",
+      "example": {
+        "jp": "まず、じこしょうかいをしましょう。",
+        "kana": "まず、じこしょうかいをしましょう。",
+        "meaning": "Pertama, mari memperkenalkan diri."
+      }
+    },
+    {
+      "id": "kotoba-n4-1501518ee35e",
+      "headword": "じさ",
+      "reading": "じさ",
+      "example": {
+        "jp": "このふたつのくににはじさがあります。",
+        "kana": "このふたつのくににはじさがあります。",
+        "meaning": "Ada perbedaan waktu antara kedua negara ini."
+      }
+    },
+    {
+      "id": "kotoba-n4-3506f9aea269",
+      "headword": "ししゅう",
+      "reading": "ししゅう",
+      "example": {
+        "jp": "このハンカチにはきれいなししゅうがあります。",
+        "kana": "このハンカチにはきれいなししゅうがあります。",
+        "meaning": "Ada sulaman yang indah pada saputangan ini."
+      }
+    },
+    {
+      "id": "kotoba-n4-0c347d1b3909",
+      "headword": "じむ",
+      "reading": "じむ",
+      "example": {
+        "jp": "かいしゃでじむのしごとをしています。",
+        "kana": "かいしゃでじむのしごとをしています。",
+        "meaning": "Saya mengerjakan administrasi di perusahaan."
+      }
+    },
+    {
+      "id": "kotoba-n4-0b994b5a3fde",
+      "headword": "しゃちょう",
+      "reading": "しゃちょう",
+      "example": {
+        "jp": "しゃちょうはただいまかいぎちゅうです。",
+        "kana": "しゃちょうはただいまかいぎちゅうです。",
+        "meaning": "Direktur saat ini sedang rapat."
+      }
+    },
+    {
+      "id": "kotoba-n4-ccfe4d367ea8",
+      "headword": "じゅうたい",
+      "reading": "じゅうたい",
+      "example": {
+        "jp": "じゅうたいでバスがおくれました。",
+        "kana": "じゅうたいでバスがおくれました。",
+        "meaning": "Bus terlambat karena kemacetan."
+      }
+    },
+    {
+      "id": "kotoba-n4-9c87f7aded51",
+      "headword": "しゅふ",
+      "reading": "しゅふ",
+      "example": {
+        "jp": "はははしゅふです。",
+        "kana": "はははしゅふです。",
+        "meaning": "Ibu saya seorang ibu rumah tangga."
+      }
+    },
+    {
+      "id": "kotoba-n4-e2a58f206251",
+      "headword": "しょうぎ",
+      "reading": "しょうぎ",
+      "example": {
+        "jp": "そふにしょうぎをおしえてもらいました。",
+        "kana": "そふにしょうぎをおしえてもらいました。",
+        "meaning": "Kakek mengajari saya bermain shogi."
+      }
+    },
+    {
+      "id": "kotoba-n4-e2e70c7766a1",
+      "headword": "じょうば",
+      "reading": "じょうば",
+      "example": {
+        "jp": "りょこうでじょうばをたいけんしました。",
+        "kana": "りょこうでじょうばをたいけんしました。",
+        "meaning": "Saya mencoba berkuda saat berwisata."
+      }
+    },
+    {
+      "id": "kotoba-n4-76382b0673b3",
+      "headword": "しょうらい",
+      "reading": "しょうらい",
+      "example": {
+        "jp": "しょうらい、にほんではたらきたいです。",
+        "kana": "しょうらい、にほんではたらきたいです。",
+        "meaning": "Saya ingin bekerja di Jepang pada masa depan."
+      }
+    },
+    {
+      "id": "kotoba-n4-f431dc07e188",
+      "headword": "じょやのかね",
+      "reading": "じょやのかね",
+      "example": {
+        "jp": "おおみそかにじょやのかねをききました。",
+        "kana": "おおみそかにじょやのかねをききました。",
+        "meaning": "Saya mendengar lonceng malam pergantian tahun pada malam terakhir tahun itu."
+      }
+    },
+    {
+      "id": "kotoba-n4-368e82489eab",
+      "headword": "しんごう",
+      "reading": "しんごう",
+      "example": {
+        "jp": "しんごうがあおになってからわたりましょう。",
+        "kana": "しんごうがあおになってからわたりましょう。",
+        "meaning": "Mari menyeberang setelah lampu lalu lintas berubah hijau."
+      }
+    },
+    {
+      "id": "kotoba-n4-d6bf9e5f5d32",
+      "headword": "しんこきゅう",
+      "reading": "しんこきゅう",
+      "example": {
+        "jp": "しんこきゅうをして、すこしやすみましょう。",
+        "kana": "しんこきゅうをして、すこしやすみましょう。",
+        "meaning": "Mari tarik napas dalam-dalam lalu beristirahat sebentar."
+      }
+    },
+    {
+      "id": "kotoba-n4-52b464babf5d",
+      "headword": "しんせき",
+      "reading": "しんせき",
+      "example": {
+        "jp": "おしょうがつにしんせきがあつまりました。",
+        "kana": "おしょうがつにしんせきがあつまりました。",
+        "meaning": "Kerabat berkumpul saat Tahun Baru."
+      }
+    },
+    {
+      "id": "kotoba-n4-7407d3f27f76",
+      "headword": "すいかわり",
+      "reading": "すいかわり",
+      "example": {
+        "jp": "なつにうみですいかわりをしました。",
+        "kana": "なつにうみですいかわりをしました。",
+        "meaning": "Pada musim panas kami bermain memecahkan semangka di pantai."
+      }
+    },
+    {
+      "id": "kotoba-n4-17a0bf38bb62",
+      "headword": "すいじょうバス",
+      "reading": "すいじょうばす",
+      "example": {
+        "jp": "すいじょうバスでかわをわたりました。",
+        "kana": "すいじょうバスでかわをわたりました。",
+        "meaning": "Saya menyeberangi sungai dengan bus air."
+      }
+    },
+    {
+      "id": "kotoba-n4-7e6678e8a8c2",
+      "headword": "スキー",
+      "reading": "すきー",
+      "example": {
+        "jp": "ふゆやすみにスキーにいきます。",
+        "kana": "ふゆやすみにスキーにいきます。",
+        "meaning": "Saya akan pergi bermain ski saat liburan musim dingin."
+      }
+    },
+    {
+      "id": "kotoba-n4-2d2126d1ace8",
+      "headword": "スタッフ",
+      "reading": "すたっふ",
+      "example": {
+        "jp": "わからないときはスタッフにきいてください。",
+        "kana": "わからないときはスタッフにきいてください。",
+        "meaning": "Jika tidak mengerti, silakan tanyakan kepada staf."
+      }
+    },
+    {
+      "id": "kotoba-n4-caed3d672a10",
+      "headword": "ストレス",
+      "reading": "すとれす",
+      "example": {
+        "jp": "さんぽをするとストレスがへります。",
+        "kana": "さんぽをするとストレスがへります。",
+        "meaning": "Stres saya berkurang ketika berjalan-jalan."
+      }
+    },
+    {
+      "id": "kotoba-n4-722a5377355c",
+      "headword": "世界",
+      "reading": "せかい",
+      "example": {
+        "jp": "せかいのいろいろなくにをりょこうしたいです。",
+        "kana": "せかいのいろいろなくにをりょこうしたいです。",
+        "meaning": "Saya ingin berwisata ke berbagai negara di dunia."
+      }
+    },
+    {
+      "id": "kotoba-n4-db1146296bdb",
+      "headword": "世界一",
+      "reading": "せかいいち",
+      "example": {
+        "jp": "せかいいちたかいやまはなんですか。",
+        "kana": "せかいいちたかいやまはなんですか。",
+        "meaning": "Apa gunung tertinggi di dunia?"
+      }
+    },
+    {
+      "id": "kotoba-n4-1d0e68c021a9",
+      "headword": "せなか",
+      "reading": "せなか",
+      "example": {
+        "jp": "せなかににもつをせおっています。",
+        "kana": "せなかににもつをせおっています。",
+        "meaning": "Saya membawa barang di punggung."
+      }
+    },
+    {
+      "id": "kotoba-n4-f5e12cb8c358",
+      "headword": "そふ",
+      "reading": "そふ",
+      "example": {
+        "jp": "そふはまいあささんぽをします。",
+        "kana": "そふはまいあささんぽをします。",
+        "meaning": "Kakek saya berjalan-jalan setiap pagi."
+      }
+    },
+    {
+      "id": "kotoba-n4-e7979d1ecc48",
+      "headword": "そぼ",
+      "reading": "そぼ",
+      "example": {
+        "jp": "そぼといっしょにりょうりをしました。",
+        "kana": "そぼといっしょにりょうりをしました。",
+        "meaning": "Saya memasak bersama nenek."
+      }
+    },
+    {
+      "id": "kotoba-n4-cc593f10f131",
+      "headword": "タイじん",
+      "reading": "たいじん",
+      "example": {
+        "jp": "クラスにタイじんのがくせいがいます。",
+        "kana": "クラスにタイじんのがくせいがいます。",
+        "meaning": "Ada pelajar asal Thailand di kelas."
+      }
+    },
+    {
+      "id": "kotoba-n4-dfbfb707a830",
+      "headword": "たうえ",
+      "reading": "たうえ",
+      "example": {
+        "jp": "はるにたうえをてつだいました。",
+        "kana": "はるにたうえをてつだいました。",
+        "meaning": "Saya membantu menanam padi pada musim semi."
+      }
+    },
+    {
+      "id": "kotoba-n4-1ff6af48b8c2",
+      "headword": "たこあげ",
+      "reading": "たこあげ",
+      "example": {
+        "jp": "こうえんでたこあげをしました。",
+        "kana": "こうえんでたこあげをしました。",
+        "meaning": "Saya bermain layang-layang di taman."
+      }
+    },
+    {
+      "id": "kotoba-n4-1c359401fa8b",
+      "headword": "たのしみ",
+      "reading": "たのしみ",
+      "example": {
+        "jp": "らいしゅうのりょこうがたのしみです。",
+        "kana": "らいしゅうのりょこうがたのしみです。",
+        "meaning": "Saya menantikan perjalanan minggu depan dengan senang hati."
+      }
+    },
+    {
+      "id": "kotoba-n4-abc6c7b7e008",
+      "headword": "タワー",
+      "reading": "たわー",
+      "example": {
+        "jp": "あのタワーからまちがみえます。",
+        "kana": "あのタワーからまちがみえます。",
+        "meaning": "Kota dapat terlihat dari menara itu."
+      }
+    },
+    {
+      "id": "kotoba-n4-1dd6432f58fe",
+      "headword": "ダンス",
+      "reading": "だんす",
+      "example": {
+        "jp": "まいしゅうダンスをならっています。",
+        "kana": "まいしゅうダンスをならっています。",
+        "meaning": "Saya belajar menari setiap minggu."
+      }
+    },
+    {
+      "id": "kotoba-n4-c187d0a81376",
+      "headword": "たんぼ",
+      "reading": "たんぼ",
+      "example": {
+        "jp": "たんぼにみずがはいっています。",
+        "kana": "たんぼにみずがはいっています。",
+        "meaning": "Sawah itu terisi air."
+      }
+    },
+    {
+      "id": "kotoba-n4-574626e5b0ff",
+      "headword": "チーム",
+      "reading": "ちーむ",
+      "example": {
+        "jp": "わたしたちのチームがかちました。",
+        "kana": "わたしたちのチームがかちました。",
+        "meaning": "Tim kami menang."
+      }
+    },
+    {
+      "id": "kotoba-n4-aeac299ef068",
+      "headword": "チェス",
+      "reading": "ちぇす",
+      "example": {
+        "jp": "あにとチェスをしました。",
+        "kana": "あにとチェスをしました。",
+        "meaning": "Saya bermain catur bersama kakak laki-laki."
+      }
+    },
+    {
+      "id": "kotoba-n4-5aac156c7e95",
+      "headword": "月",
+      "reading": "つき",
+      "example": {
+        "jp": "こんやはつきがきれいです。",
+        "kana": "こんやはつきがきれいです。",
+        "meaning": "Bulan tampak indah malam ini."
+      }
+    },
+    {
+      "id": "kotoba-n4-3cb6ba4ce614",
+      "headword": "月見",
+      "reading": "つきみ",
+      "example": {
+        "jp": "あきにつきみをたのしみます。",
+        "kana": "あきにつきみをたのしみます。",
+        "meaning": "Pada musim gugur kami menikmati kegiatan memandang bulan."
+      }
+    },
+    {
+      "id": "kotoba-n4-381e528fde8e",
+      "headword": "でむかえ",
+      "reading": "でむかえ",
+      "example": {
+        "jp": "くうこうまででむかえにいきます。",
+        "kana": "くうこうまででむかえにいきます。",
+        "meaning": "Saya akan pergi menjemput di bandara."
+      }
+    },
+    {
+      "id": "kotoba-n4-25b1cb76ecad",
+      "headword": "ドイツじん",
+      "reading": "どいつじん",
+      "example": {
+        "jp": "あたらしいせんせいはドイツじんです。",
+        "kana": "あたらしいせんせいはドイツじんです。",
+        "meaning": "Guru baru kami orang Jerman."
+      }
+    },
+    {
+      "id": "kotoba-n4-080ed713a57c",
+      "headword": "時",
+      "reading": "とき",
+      "example": {
+        "jp": "こまったときは、そうだんしてください。",
+        "kana": "こまったときは、そうだんしてください。",
+        "meaning": "Silakan berkonsultasi ketika mengalami kesulitan."
+      }
+    },
+    {
+      "id": "kotoba-n4-a2585c4a910c",
+      "headword": "ドライブ",
+      "reading": "どらいぶ",
+      "example": {
+        "jp": "にちようびにかぞくとドライブにいきます。",
+        "kana": "にちようびにかぞくとドライブにいきます。",
+        "meaning": "Hari Minggu saya akan bepergian naik mobil bersama keluarga."
+      }
+    },
+    {
+      "id": "kotoba-n4-7cd44e93a9b4",
+      "headword": "ドラマ",
+      "reading": "どらま",
+      "example": {
+        "jp": "きのう、にほんのドラマをみました。",
+        "kana": "きのう、にほんのドラマをみました。",
+        "meaning": "Kemarin saya menonton drama Jepang."
+      }
+    },
+    {
+      "id": "kotoba-n4-bf19a4979547",
+      "headword": "なべりょうり",
+      "reading": "なべりょうり",
+      "example": {
+        "jp": "さむいひになべりょうりをたべます。",
+        "kana": "さむいひになべりょうりをたべます。",
+        "meaning": "Saya makan hidangan hot pot pada hari yang dingin."
+      }
+    },
+    {
+      "id": "kotoba-n4-4d32e35fb7d9",
+      "headword": "日本人",
+      "reading": "にほんじん",
+      "example": {
+        "jp": "あのひとはにほんじんです。",
+        "kana": "あのひとはにほんじんです。",
+        "meaning": "Orang itu orang Jepang."
+      }
+    },
+    {
+      "id": "kotoba-n4-b5a2251a5017",
+      "headword": "にんぎょう",
+      "reading": "にんぎょう",
+      "example": {
+        "jp": "こどもににんぎょうをあげました。",
+        "kana": "こどもににんぎょうをあげました。",
+        "meaning": "Saya memberikan boneka kepada anak itu."
+      }
+    },
+    {
+      "id": "kotoba-n4-4b1daa57f1b5",
+      "headword": "はなび",
+      "reading": "はなび",
+      "example": {
+        "jp": "かわのそばではなびをみました。",
+        "kana": "かわのそばではなびをみました。",
+        "meaning": "Saya melihat kembang api di tepi sungai."
+      }
+    },
+    {
+      "id": "kotoba-n4-d45de9e5ae0d",
+      "headword": "バレンタイン・デー",
+      "reading": "ばれんたいんでー",
+      "example": {
+        "jp": "バレンタイン・デーにチョコレートをもらいました。",
+        "kana": "バレンタイン・デーにチョコレートをもらいました。",
+        "meaning": "Saya mendapat cokelat pada Hari Valentine."
+      }
+    },
+    {
+      "id": "kotoba-n4-e907dfa0ec7b",
+      "headword": "日",
+      "reading": "ひ",
+      "example": {
+        "jp": "やすみのひはうちでゆっくりします。",
+        "kana": "やすみのひはうちでゆっくりします。",
+        "meaning": "Pada hari libur saya bersantai di rumah."
+      }
+    },
+    {
+      "id": "kotoba-n4-5fb585d086cb",
+      "headword": "ピクニック",
+      "reading": "ぴくにっく",
+      "example": {
+        "jp": "てんきがいいので、ピクニックにいきましょう。",
+        "kana": "てんきがいいので、ピクニックにいきましょう。",
+        "meaning": "Karena cuacanya bagus, mari pergi piknik."
+      }
+    },
+    {
+      "id": "kotoba-n4-dc1a0d0429cd",
+      "headword": "びじゅつかん",
+      "reading": "びじゅつかん",
+      "example": {
+        "jp": "びじゅつかんでえをみました。",
+        "kana": "びじゅつかんでえをみました。",
+        "meaning": "Saya melihat lukisan di museum seni."
+      }
+    },
+    {
+      "id": "kotoba-n4-b421cf70d24f",
+      "headword": "ひしょ",
+      "reading": "ひしょ",
+      "example": {
+        "jp": "ひしょがかいぎのじゅんびをしています。",
+        "kana": "ひしょがかいぎのじゅんびをしています。",
+        "meaning": "Sekretaris sedang menyiapkan rapat."
+      }
+    },
+    {
+      "id": "kotoba-n4-58def0dc3dd3",
+      "headword": "ファックス",
+      "reading": "ふぁっくす",
+      "example": {
+        "jp": "しょるいをファックスでおくってください。",
+        "kana": "しょるいをファックスでおくってください。",
+        "meaning": "Silakan kirim dokumen melalui faks."
+      }
+    },
+    {
+      "id": "kotoba-n4-a04547f00efb",
+      "headword": "フライト",
+      "reading": "ふらいと",
+      "example": {
+        "jp": "フライトのじかんをかくにんしました。",
+        "kana": "フライトのじかんをかくにんしました。",
+        "meaning": "Saya memeriksa jadwal penerbangan."
+      }
+    },
+    {
+      "id": "kotoba-n4-edfebbd0c666",
+      "headword": "文化",
+      "reading": "ぶんか",
+      "example": {
+        "jp": "にほんのぶんかにきょうみがあります。",
+        "kana": "にほんのぶんかにきょうみがあります。",
+        "meaning": "Saya tertarik pada budaya Jepang."
+      }
+    },
+    {
+      "id": "kotoba-n4-86b8561a27c3",
+      "headword": "へいきん",
+      "reading": "へいきん",
+      "example": {
+        "jp": "このクラスのへいきんてんははちじゅってんです。",
+        "kana": "このクラスのへいきんてんははちじゅってんです。",
+        "meaning": "Nilai rata-rata kelas ini adalah 80."
+      }
+    },
+    {
+      "id": "kotoba-n4-5750fee76c34",
+      "headword": "ボーイフレンド",
+      "reading": "ぼーいふれんど",
+      "example": {
+        "jp": "ボーイフレンドとえいがをみました。",
+        "kana": "ボーイフレンドとえいがをみました。",
+        "meaning": "Saya menonton film bersama pacar laki-laki saya."
+      }
+    },
+    {
+      "id": "kotoba-n4-11e3f4a08b60",
+      "headword": "本日休業",
+      "reading": "ほんじつきゅうぎょう",
+      "example": {
+        "jp": "みせのまえに「ほんじつきゅうぎょう」とかいてあります。",
+        "kana": "みせのまえに「ほんじつきゅうぎょう」とかいてあります。",
+        "meaning": "Di depan toko tertulis “Hari ini tutup”."
+      }
+    },
+    {
+      "id": "kotoba-n4-cf064c197bce",
+      "headword": "ほんしゃ",
+      "reading": "ほんしゃ",
+      "example": {
+        "jp": "らいしゅう、ほんしゃでかいぎがあります。",
+        "kana": "らいしゅう、ほんしゃでかいぎがあります。",
+        "meaning": "Minggu depan ada rapat di kantor pusat."
+      }
+    },
+    {
+      "id": "kotoba-n4-9fafbbc5fcbf",
+      "headword": "まつり",
+      "reading": "まつり",
+      "example": {
+        "jp": "ともだちとまつりにいきました。",
+        "kana": "ともだちとまつりにいきました。",
+        "meaning": "Saya pergi ke festival bersama teman."
+      }
+    },
+    {
+      "id": "kotoba-n4-4b3c35d396c7",
+      "headword": "みおくり",
+      "reading": "みおくり",
+      "example": {
+        "jp": "えきまでみおくりにいきました。",
+        "kana": "えきまでみおくりにいきました。",
+        "meaning": "Saya pergi mengantar seseorang yang akan berangkat sampai ke stasiun."
+      }
+    },
+    {
+      "id": "kotoba-n4-ad3eb78d7689",
+      "headword": "民芸品",
+      "reading": "みんげいひん",
+      "example": {
+        "jp": "りょこうさきでみんげいひんをかいました。",
+        "kana": "りょこうさきでみんげいひんをかいました。",
+        "meaning": "Saya membeli kerajinan tradisional di tempat tujuan wisata."
+      }
+    },
+    {
+      "id": "kotoba-n4-af00a9c9854c",
+      "headword": "むすこ",
+      "reading": "むすこ",
+      "example": {
+        "jp": "むすこはしょうがくせいです。",
+        "kana": "むすこはしょうがくせいです。",
+        "meaning": "Anak laki-laki saya seorang murid SD."
+      }
+    },
+    {
+      "id": "kotoba-n4-3bf8a6728155",
+      "headword": "むすこさん",
+      "reading": "むすこさん",
+      "example": {
+        "jp": "むすこさんはもうそつぎょうしましたか。",
+        "kana": "むすこさんはもうそつぎょうしましたか。",
+        "meaning": "Apakah anak laki-laki Anda sudah lulus?"
+      }
+    },
+    {
+      "id": "kotoba-n4-4237b07788b2",
+      "headword": "むすめ",
+      "reading": "むすめ",
+      "example": {
+        "jp": "むすめといっしょにケーキをつくりました。",
+        "kana": "むすめといっしょにケーキをつくりました。",
+        "meaning": "Saya membuat kue bersama anak perempuan saya."
+      }
+    },
+    {
+      "id": "kotoba-n4-3a87de119f26",
+      "headword": "むすめさん",
+      "reading": "むすめさん",
+      "example": {
+        "jp": "むすめさんはおげんきですか。",
+        "kana": "むすめさんはおげんきですか。",
+        "meaning": "Apakah anak perempuan Anda sehat?"
+      }
+    },
+    {
+      "id": "kotoba-n4-493e9327aee8",
+      "headword": "むね",
+      "reading": "むね",
+      "example": {
+        "jp": "むねにてをあててください。",
+        "kana": "むねにてをあててください。",
+        "meaning": "Silakan letakkan tangan di dada."
+      }
+    },
+    {
+      "id": "kotoba-n4-6f2a94f22777",
+      "headword": "メモ",
+      "reading": "めも",
+      "example": {
+        "jp": "わすれないようにメモをとります。",
+        "kana": "わすれないようにメモをとります。",
+        "meaning": "Saya mencatat agar tidak lupa."
+      }
+    },
+    {
+      "id": "kotoba-n4-7cdb5992ec75",
+      "headword": "もみじ",
+      "reading": "もみじ",
+      "example": {
+        "jp": "あきのもみじはきれいです。",
+        "kana": "あきのもみじはきれいです。",
+        "meaning": "Daun maple pada musim gugur tampak indah."
+      }
+    },
+    {
+      "id": "kotoba-n4-3758bc934960",
+      "headword": "やけい",
+      "reading": "やけい",
+      "example": {
+        "jp": "ホテルからやけいがみえます。",
+        "kana": "ホテルからやけいがみえます。",
+        "meaning": "Pemandangan malam terlihat dari hotel."
+      }
+    },
+    {
+      "id": "kotoba-n4-0d7d773ba638",
+      "headword": "やたい",
+      "reading": "やたい",
+      "example": {
+        "jp": "やたいでやきそばをかいました。",
+        "kana": "やたいでやきそばをかいました。",
+        "meaning": "Saya membeli yakisoba di kedai kaki lima."
+      }
+    },
+    {
+      "id": "kotoba-n4-c3b065d5d294",
+      "headword": "ヨガ",
+      "reading": "よが",
+      "example": {
+        "jp": "まいあさヨガをしています。",
+        "kana": "まいあさヨガをしています。",
+        "meaning": "Saya melakukan yoga setiap pagi."
+      }
+    },
+    {
+      "id": "kotoba-n4-29f0f53a2904",
+      "headword": "ライトアップ",
+      "reading": "らいとあっぷ",
+      "example": {
+        "jp": "おてらのライトアップをみにいきました。",
+        "kana": "おてらのライトアップをみにいきました。",
+        "meaning": "Saya pergi melihat pencahayaan hias di kuil."
+      }
+    },
+    {
+      "id": "kotoba-n4-fc24af98f5b8",
+      "headword": "リスト",
+      "reading": "りすと",
+      "example": {
+        "jp": "かうもののリストをつくりました。",
+        "kana": "かうもののリストをつくりました。",
+        "meaning": "Saya membuat daftar barang yang akan dibeli."
+      }
+    },
+    {
+      "id": "kotoba-n4-8714d20975cf",
+      "headword": "れきし",
+      "reading": "れきし",
+      "example": {
+        "jp": "このまちのれきしをしらべています。",
+        "kana": "このまちのれきしをしらべています。",
+        "meaning": "Saya sedang meneliti sejarah kota ini."
+      }
+    },
+    {
+      "id": "kotoba-n4-e02038181ba9",
+      "headword": "ロビー",
+      "reading": "ろびー",
+      "example": {
+        "jp": "ホテルのロビーでまっています。",
+        "kana": "ホテルのロビーでまっています。",
+        "meaning": "Saya menunggu di lobi hotel."
+      }
+    },
+    {
+      "id": "kotoba-n4-64f40de379c1",
+      "headword": "あいさつ",
+      "reading": "あいさつ",
+      "example": {
+        "jp": "あさ、きんじょのひとにあいさつをします。",
+        "kana": "あさ、きんじょのひとにあいさつをします。",
+        "meaning": "Pada pagi hari saya menyapa tetangga."
+      }
+    },
+    {
+      "id": "kotoba-n4-0ec4fef61ec7",
+      "headword": "アドバイス",
+      "reading": "あどばいす",
+      "example": {
+        "jp": "せんせいにアドバイスをもらいました。",
+        "kana": "せんせいにアドバイスをもらいました。",
+        "meaning": "Saya mendapat saran dari guru."
+      }
+    },
+    {
+      "id": "kotoba-n4-3a1094649c64",
+      "headword": "アルバイト",
+      "reading": "あるばいと",
+      "example": {
+        "jp": "しゅうまつにレストランでアルバイトをしています。",
+        "kana": "しゅうまつにレストランでアルバイトをしています。",
+        "meaning": "Saya bekerja paruh waktu di restoran pada akhir pekan."
+      }
+    },
+    {
+      "id": "kotoba-n4-969ed3fe0463",
+      "headword": "行先",
+      "reading": "いきさき",
+      "example": {
+        "jp": "バスのいきさきをかくにんしてください。",
+        "kana": "バスのいきさきをかくにんしてください。",
+        "meaning": "Silakan periksa tujuan bus."
+      }
+    },
+    {
+      "id": "kotoba-n4-9fa398f806d2",
+      "headword": "飲食",
+      "reading": "いんしょく",
+      "example": {
+        "jp": "ここではいんしょくをしないでください。",
+        "kana": "ここではいんしょくをしないでください。",
+        "meaning": "Mohon jangan makan atau minum di sini."
+      }
+    },
+    {
+      "id": "kotoba-n4-7a94413a5341",
+      "headword": "うんどう",
+      "reading": "うんどう",
+      "example": {
+        "jp": "けんこうのためにうんどうをしています。",
+        "kana": "けんこうのためにうんどうをしています。",
+        "meaning": "Saya berolahraga demi kesehatan."
+      }
+    },
+    {
+      "id": "kotoba-n4-ac2750cfd4e5",
+      "headword": "えはがき",
+      "reading": "えはがき",
+      "example": {
+        "jp": "りょこうさきからえはがきをおくりました。",
+        "kana": "りょこうさきからえはがきをおくりました。",
+        "meaning": "Saya mengirim kartu pos bergambar dari tempat wisata."
+      }
+    }
+  ]
+}

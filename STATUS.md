@@ -1,6 +1,8 @@
 # DeX Gaku — Status dan keputusan proyek
 
-Terakhir diperbarui: 27 Oktober 2026 (Asia/Jakarta)
+Terakhir diperbarui: 31 Oktober 2026 (Asia/Jakarta)
+
+> Status terkini: Kotoba N4 3.227; Kanji tambahan 287 (217 A2 + 70 pengayaan); Bunpo N4 115. Kuis Bunpo/Campuran N4 belum tersedia. Bagian awal di bawah merupakan catatan tahap lama; gunakan pembaruan bertanggal di akhir untuk keputusan yang menggantikannya.
 Tahap: Home v3 disetujui; Kana, Kanji dasar, Bunpo N5, Kotoba N5/A1, dan Rangkuman Bab 1–50 beserta pembaca Minna I/II telah diimplementasikan di web; belum APK produksi.
 
 ## Cara melanjutkan
@@ -1092,3 +1094,14 @@ Audit tiga PDF Marugoto: 1.106 baris, 397 karakter sumber. Pertahankan 115 kanji
 ## Bunpo N4 — 30 Oktober 2026
 
 Audit empat PDF (476 halaman fisik). Tambahkan 115 materi N4 dalam 14 kategori, 233 contoh dengan kana/arti, 16 cek singkat, serta tabel bentuk dan catatan pembeda. Materi yang sudah ada di 83 kartu N5 tidak dibuat ulang; variasi sefungsi digabung dengan pemetaan sumber. Kartu nominal-no N5 diperjelas agar fungsi のは／のが／のを tetap satu keluarga. Daftar, pencarian, detail, simpanan dan rute mengikuti level. Bank kuis Bunpo N4 bertimer belum ditambahkan. Lihat data/BUNPO_N4_AUDIT.md. Audio, gambar dan konfigurasi penerbitan tidak diubah.
+
+
+## 31 Oktober 2026 — Audit kualitas Kotoba N4, batch pertama
+
+- ZIP Gaku-Dex-main menjadi baseline; aturan tanpa duplikat N5, tanpa kartu nama orang, dan pemisahan pengayaan dipertahankan.
+- 138 contoh generik diganti dengan contoh kontekstual orisinal; kepala entri, ID, urutan, sumber, kategori dan jumlah kartu tetap.
+- Koreksi tersimpan dalam data/kotoba-n4-context-examples.json; diterapkan setelah completion dan setelah level cleanup pada build bundle.
+- Antrean transparan data/kotoba-n4-quality-review.json: 2.099 contoh masih memakai bingkai topik/kejadian sesekali. Ini penanda untuk peninjauan, bukan vonis salah bahasa. Contoh lainnya dan gloss juga belum diaudit seluruhnya.
+- Seluruh 37 berkas tes lulus, termasuk kestabilan koreksi setelah rebuild. Belum uji visual/Android untuk batch ini; hanya data yang berubah.
+- Bunpo lulus pemeriksaan struktur yang sudah tersedia; belum dilakukan peninjauan editorial lengkap pada batch ini. Kanji belum dilengkapi.
+- Langkah berikutnya: lanjutkan contoh per kelompok tema, tangani arti campuran/homonim, lalu tinjau Bunpo per keluarga fungsi. Jangan sebut audit seluruh N4 selesai.

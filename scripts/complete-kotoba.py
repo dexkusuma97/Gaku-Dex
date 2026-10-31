@@ -54,3 +54,7 @@ d['meta']['examplesMissing']=sum(not e.get('example') for e in out)
 print('Example additions',dict(counts))
 p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
 print('Merged',len(removed),'orthographic duplicates; remaining',len(out))
+
+# Reapply explicit editorial examples even when a baseline example exists.
+from kotoba_context_review import apply_context_review
+print("Context examples:",apply_context_review(R))
