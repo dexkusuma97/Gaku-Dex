@@ -1,6 +1,6 @@
 # Audit kualitas 31 Oktober 2026
 
-Status terkini: batch 4, total 1.000 contoh kontekstual. Catatan di bawah menyimpan riwayat setiap batch.
+Status terkini: batch 5, total 1.500 contoh kontekstual. Catatan di bawah menyimpan riwayat setiap batch.
 
 138 contoh Kotoba N4 ditulis ulang sesuai pemakaian kata. Contoh Jepang memakai kana untuk membantu pemula; kolom kana sama dengan kalimat contoh. Tidak mengubah arti kepala entri, keanggotaan level, ID, atau audio.
 
@@ -46,3 +46,14 @@ Contoh yang dipratinjau kepada pengguna untuk 結婚式 diterapkan sesuai pratin
 Pemeriksaan terhadap batch 3 memastikan tepat 500 perubahan pada field example. Rebuild juga mengoreksi satu romaji kepala entri Perfume, dari pafuゅumu menjadi pafyuumu; hal ini mengikuti perbaikan pemetaan フュ dari batch 3. Identitas kartu, arti kata, kategori, urutan dan sumber tidak berubah. Ini bukan klaim seluruh arti kata dan klasifikasi sudah disertifikasi; masalah yang dicatat pada batch 3 masih menunggu perbaikan berbasis sumber.
 
 Antrean bingkai berulang tersisa 1.237. Audit editorial seluruh N4, detail Kanji dan Bunpo belum selesai. Build penuh dari normalisasi menjaga record aktif; seluruh 37 berkas tes lulus. Installer menerima baseline awal dan semua batch sebelumnya yang disertakan dalam manifest.
+
+
+## Batch 5 — total 1.500
+
+500 contoh tambahan disusun per kata; 1.000 contoh sebelumnya dipertahankan. Pemeriksaan terhadap paket batch 4 membuktikan tepat 500 perubahan pada field example, tanpa perubahan field lain pada kartu. Semua 1.500 kalimat berbeda dan memiliki bacaan dengan pemisah, terjemahan, dan konversi romaji penuh.
+
+Untuk kosakata fasilitas kesehatan, contoh berfokus pada pelaporan gejala, konfirmasi penjelasan dan pengalaman; tidak menetapkan dosis atau terapi. Contoh adalah tulisan orisinal, bukan kutipan dari sumber pengguna atau sertifikasi pengajar.
+
+Antrean contoh berpola berulang tersisa 737. Ini belum menyelesaikan audit keseluruhan 3.227 kata N4: daftar masalah leksikal, nama orang yang terlewat, arti bercampur, dan contoh di luar bingkai berulang masih memerlukan peninjauan. Pemeriksaan Bunpo dan detail Kanji belum menjadi bagian batch ini.
+
+Build penuh dari normalisasi teruji stabil dan seluruh 37 berkas tes lulus. Panduan pemasangan ada dalam BACA-DULU paket kumulatif batch 5.

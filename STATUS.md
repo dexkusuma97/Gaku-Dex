@@ -1135,3 +1135,12 @@ Audit empat PDF (476 halaman fisik). Tambahkan 115 materi N4 dalam 14 kategori, 
 - Dibanding paket 500: tepat 500 field example berubah. Satu romaji kepala entri Perfume diperbarui dari pafuゅumu menjadi pafyuumu setelah rebuild memakai pemetaan フュ yang diperbaiki pada batch 3. ID, arti kepala entri, bacaan kata, kategori, urutan, dan sumber seluruh 3.227 kartu tidak berubah. N5 tetap 1.791.
 - Build penuh dari normalisasi tidak mengubah record aktif hasil koreksi. 37 berkas tes lulus, termasuk konversi romaji penuh semua 1.000 contoh, keunikan kalimat, pemisahan level, dan idempotensi.
 - Paket kumulatif batch 4 berisi BACA-DULU dan installer yang membuat backup serta memeriksa konflik. Belum deployment otomatis. Belum uji Android fisik atau sertifikasi pengajar atas seluruh kalimat.
+
+
+## 31 Oktober 2026 — Batch 5: total 1.500 contoh kontekstual
+
+- Tambah tepat 500 contoh ke batch 4: total 1.500 kalimat Jepang unik, masing-masing dengan bacaan berjarak, hasil romaji tanpa kana tersisa, dan terjemahan Indonesia. Contoh meliputi prosedur kerja, kegiatan, percakapan di fasilitas kesehatan, belanja, perjalanan, transportasi, acara dan kebiasaan.
+- Seluruh 1.000 koreksi terdahulu dipertahankan persis. Dibanding paket 1.000, hanya tepat 500 field example kartu berubah; ID, kepala entri, arti kata, kategori, sumber dan seluruh field kartu lainnya tetap.
+- Sisa antrean topic-frame/occasional-frame 737. Jumlah ini bukan ukuran seluruh sisa audit leksikal atau semua contoh lain: arti/bacaan ambigu dan kartu nama orang yang terlewat tetap perlu ditangani terpisah.
+- N4 3.227 dan N5 1.791; 37 berkas tes lulus, termasuk seluruh 1.500 contoh, keunikan, pemisahan level, spasi/romaji, dan idempotensi. Build penuh dari normalisasi mempertahankan record aktif.
+- Paket kumulatif batch 5 mencakup batch 1–4; installer menerima baseline awal atau versi terdahulu yang dikenal. Audio, gambar, workflow dan konfigurasi penerbitan tetap. Tidak deployment otomatis, belum uji perangkat Android fisik.
