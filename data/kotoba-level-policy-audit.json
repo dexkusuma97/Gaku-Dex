@@ -394,7 +394,7 @@
     {
       "jp": "え",
       "kana": "え",
-      "meaning": "Eh?!/Apa?! / Oh! / Eh?!/Apa?! <menunjukkan sedikit keterkejutan>",
+      "meaning": "Eh?! / Apa?! / Oh! / Apa?! <menunjukkan sedikit keterkejutan>",
       "sources": [
         {
           "id": 7,
@@ -583,7 +583,7 @@
     {
       "jp": "へえ",
       "kana": "へえ",
-      "meaning": "Wow! / Aaah! / Benar ya? /Oh ya? / Benar ya? / Oh ya?",
+      "meaning": "Wow! / Aaah! / Benar ya? / Oh ya?",
       "sources": [
         {
           "id": 7,
@@ -710,7 +710,7 @@
     {
       "jp": "はあ",
       "kana": "はあ",
-      "meaning": "baik .../hmm ... /ya ... / baik .../hmm .../ya ...",
+      "meaning": "baik ... / hmm ... / ya ...",
       "sources": [
         {
           "id": 8,
@@ -1740,7 +1740,7 @@
       "entry": {
         "jp": "頭",
         "kana": "あたま",
-        "meaning": "kepala / kepala/otak",
+        "meaning": "kepala / otak",
         "sources": [
           {
             "id": 7,
@@ -2224,7 +2224,7 @@
       "entry": {
         "jp": "あまり",
         "kana": "あまり",
-        "meaning": "(tidak) begitu / (tidak) begitu/terlalu",
+        "meaning": "(tidak) begitu / terlalu",
         "sources": [
           {
             "id": 7,
@@ -2369,7 +2369,7 @@
       "entry": {
         "jp": "ある",
         "kana": "ある",
-        "meaning": "ada / ada/diadakan (pesta, acara, festival) / ada (berbagai hal / sesuatu yang ada di kota)",
+        "meaning": "ada / diadakan (pesta, acara, festival) / ada (berbagai hal / sesuatu yang ada di kota)",
         "sources": [
           {
             "id": 7,
@@ -2914,7 +2914,7 @@
       "entry": {
         "jp": "いたい",
         "kana": "いたい",
-        "meaning": "rasa sakit/sakit / sakit",
+        "meaning": "rasa sakit / sakit",
         "sources": [
           {
             "id": 7,
@@ -3006,7 +3006,7 @@
       "entry": {
         "jp": "一番",
         "kana": "いちばん",
-        "meaning": "nomor satu/yang paling .... / nomor satu/yang paling .../terbaik / paling",
+        "meaning": "nomor satu / yang paling .... / yang paling ... / terbaik / paling",
         "sources": [
           {
             "id": 7,
@@ -3245,7 +3245,7 @@
       "entry": {
         "jp": "いる",
         "kana": "いる",
-        "meaning": "ada / ada/memiliki (keluarga) / ada (keberadaan) / perlu/butuh / perlu",
+        "meaning": "ada / memiliki (keluarga) / ada (keberadaan) / perlu / butuh",
         "sources": [
           {
             "id": 7,
@@ -3670,7 +3670,7 @@
       "entry": {
         "jp": "歌",
         "kana": "うた",
-        "meaning": "lagu / syair/lagu / menyanyi",
+        "meaning": "lagu / syair / menyanyi",
         "sources": [
           {
             "id": 7,
@@ -3768,7 +3768,7 @@
       "entry": {
         "jp": "うまれる",
         "kana": "うまれる",
-        "meaning": "lahir/dilahirkan / lahir",
+        "meaning": "lahir / dilahirkan",
         "sources": [
           {
             "id": 7,
@@ -3868,7 +3868,7 @@
       "entry": {
         "jp": "うれしい",
         "kana": "うれしい",
-        "meaning": "senang/bahagia / senang",
+        "meaning": "senang / bahagia",
         "sources": [
           {
             "id": 7,
@@ -3917,7 +3917,7 @@
       "entry": {
         "jp": "絵",
         "kana": "え",
-        "meaning": "lukisan/gambar / gambar / lukisan",
+        "meaning": "lukisan / gambar",
         "sources": [
           {
             "id": 7,
@@ -4203,7 +4203,7 @@
       "entry": {
         "jp": "お祝い",
         "kana": "おいわい",
-        "meaning": "perayaan/hadiah / perayaan; hadiah / perayaan",
+        "meaning": "perayaan / hadiah / perayaan; hadiah",
         "sources": [
           {
             "id": 7,
@@ -4305,7 +4305,7 @@
       "entry": {
         "jp": "大きい",
         "kana": "おおきい",
-        "meaning": "besar / besar/lebar",
+        "meaning": "besar / lebar",
         "sources": [
           {
             "id": 7,
@@ -4595,7 +4595,7 @@
       "entry": {
         "jp": "おしえる",
         "kana": "おしえる",
-        "meaning": "memberi tahu / memberi tahu/mengajarkan / mengajar / mengajar; mengajarkan",
+        "meaning": "memberi tahu / mengajarkan / mengajar / mengajar; mengajarkan",
         "sources": [
           {
             "id": 7,
@@ -4691,7 +4691,7 @@
       "entry": {
         "jp": "おしゃれ",
         "kana": "おしゃれ",
-        "meaning": "modis / modis/bergaya / modelnya bagus/gaya/canggih / keren; stylish",
+        "meaning": "modis / bergaya / modelnya bagus / gaya / canggih / keren; stylish",
         "sources": [
           {
             "id": 7,
@@ -4740,7 +4740,7 @@
       "entry": {
         "jp": "遅い",
         "kana": "おそい",
-        "meaning": "lambat/terlambat / larut/lambat",
+        "meaning": "lambat / terlambat / larut",
         "sources": [
           {
             "id": 7,
@@ -4783,7 +4783,7 @@
       "entry": {
         "jp": "おちゃ",
         "kana": "おちゃ",
-        "meaning": "teh/teh Jepang / upacara minum teh / teh; teh khas Jepang / teh khas Jepang",
+        "meaning": "teh / teh Jepang / upacara minum teh / teh; teh khas Jepang / teh khas Jepang",
         "sources": [
           {
             "id": 7,
@@ -5392,7 +5392,7 @@
       "entry": {
         "jp": "お弁当",
         "kana": "おべんとう",
-        "meaning": "bekal makan siang/bento / bekal makan siang / bekal",
+        "meaning": "bekal makan siang / bento / bekal",
         "sources": [
           {
             "id": 7,
@@ -6141,7 +6141,7 @@
       "entry": {
         "jp": "学生",
         "kana": "がくせい",
-        "meaning": "siswa / siswa/pelajar",
+        "meaning": "siswa / pelajar",
         "sources": [
           {
             "id": 7,
@@ -6350,7 +6350,7 @@
       "entry": {
         "jp": "かっこいい",
         "kana": "かっこいい",
-        "meaning": "keren/ganteng / keren",
+        "meaning": "keren / ganteng",
         "sources": [
           {
             "id": 7,
@@ -6538,7 +6538,7 @@
       "entry": {
         "jp": "体",
         "kana": "からだ",
-        "meaning": "tubuh/badan / tubuh/kesehatan / badan",
+        "meaning": "tubuh / badan / kesehatan",
         "sources": [
           {
             "id": 7,
@@ -6839,7 +6839,7 @@
       "entry": {
         "jp": "聞く",
         "kana": "きく",
-        "meaning": "mendengar / bertanya / mendengarkan / bertanya/mendengarkan / bertanya; menanyakan",
+        "meaning": "mendengar / bertanya / mendengarkan / bertanya; menanyakan",
         "sources": [
           {
             "id": 7,
@@ -7287,7 +7287,7 @@
       "entry": {
         "jp": "きれい",
         "kana": "きれい",
-        "meaning": "indah/cantik / cantik / indah; cantik / indah",
+        "meaning": "indah / cantik / indah; cantik",
         "sources": [
           {
             "id": 7,
@@ -7622,7 +7622,7 @@
       "entry": {
         "jp": "曇り",
         "kana": "くもり",
-        "meaning": "berawan/cuaca mendung / berawan",
+        "meaning": "berawan / cuaca mendung",
         "sources": [
           {
             "id": 7,
@@ -7856,7 +7856,7 @@
       "entry": {
         "jp": "元気",
         "kana": "げんき",
-        "meaning": "sehat / sehat/bersemangat / ceria/selalu bersemangat / energik; bersemangat",
+        "meaning": "sehat / bersemangat / ceria / selalu bersemangat / energik; bersemangat",
         "sources": [
           {
             "id": 7,
@@ -7999,7 +7999,7 @@
       "entry": {
         "jp": "ごご",
         "kana": "ごご",
-        "meaning": "setelah tengah hari sampai malam hari/PM / setelah tengah hari sampai malam hari (PM)",
+        "meaning": "setelah tengah hari sampai malam hari / PM / setelah tengah hari sampai malam hari (PM)",
         "sources": [
           {
             "id": 7,
@@ -8186,7 +8186,7 @@
       "entry": {
         "jp": "こっち",
         "kana": "こっち",
-        "meaning": "(di) sini / di sini/sebelah sini / yang ini/(di) sini / yang ini/ (di) sini / ini; yang ini / di sini (bentuk informal dari こちら)",
+        "meaning": "(di) sini / di sini / sebelah sini / yang ini / ini; yang ini / di sini (bentuk informal dari こちら)",
         "sources": [
           {
             "id": 7,
@@ -8794,7 +8794,7 @@
       "entry": {
         "jp": "じかん",
         "kana": "じかん",
-        "meaning": "jam / ... jam / waktu/saat / waktu / waktu; jam",
+        "meaning": "jam / ... jam / waktu / saat / waktu; jam",
         "sources": [
           {
             "id": 7,
@@ -9481,7 +9481,7 @@
       "entry": {
         "jp": "上手",
         "kana": "じょうず",
-        "meaning": "mahir/pandai/pintar / pandai / terampil / mahir; pandai",
+        "meaning": "mahir / pandai / pintar / terampil / mahir; pandai",
         "sources": [
           {
             "id": 7,
@@ -9576,7 +9576,7 @@
       "entry": {
         "jp": "知る",
         "kana": "しる",
-        "meaning": "mengetahui/mengenal / mengetahui",
+        "meaning": "mengetahui / mengenal",
         "sources": [
           {
             "id": 7,
@@ -9915,7 +9915,7 @@
       "entry": {
         "jp": "好き",
         "kana": "すき",
-        "meaning": "suka/favorit / favorit",
+        "meaning": "suka / favorit",
         "sources": [
           {
             "id": 7,
@@ -9966,7 +9966,7 @@
       "entry": {
         "jp": "すぐ",
         "kana": "すぐ",
-        "meaning": "segera/dekat / segera / dengan segera / langsung; tepat / langsung; segera",
+        "meaning": "segera / dekat / dengan segera / langsung; tepat / langsung; segera",
         "sources": [
           {
             "id": 7,
@@ -10275,7 +10275,7 @@
       "entry": {
         "jp": "すみません",
         "kana": "すみません",
-        "meaning": "Permisi./Maaf. / maaf/permisi / maaf",
+        "meaning": "Permisi. / Maaf. / maaf / permisi",
         "sources": [
           {
             "id": 7,
@@ -11066,7 +11066,7 @@
       "entry": {
         "jp": "大変",
         "kana": "たいへん",
-        "meaning": "susah/sulit / amat/sangat / sulit; berat",
+        "meaning": "susah / sulit / amat / sangat / sulit; berat",
         "sources": [
           {
             "id": 7,
@@ -11272,7 +11272,7 @@
       "entry": {
         "jp": "たのしい",
         "kana": "たのしい",
-        "meaning": "menyenangkan / gembira/menyenangkan",
+        "meaning": "menyenangkan / gembira",
         "sources": [
           {
             "id": 7,
@@ -11563,7 +11563,7 @@
       "entry": {
         "jp": "だめ",
         "kana": "だめ",
-        "meaning": "tidak bisa/tidak mungkin / tidak bisa / tidak boleh / tidak dapat; tidak bisa (mengonsumsi)",
+        "meaning": "tidak bisa / tidak mungkin / tidak boleh / tidak dapat; tidak bisa (mengonsumsi)",
         "sources": [
           {
             "id": 7,
@@ -11981,7 +11981,7 @@
       "entry": {
         "jp": "ちょっと",
         "kana": "ちょっと",
-        "meaning": "sedikit / sedikit/sebentar / sebentar",
+        "meaning": "sedikit / sebentar",
         "sources": [
           {
             "id": 7,
@@ -12030,7 +12030,7 @@
       "entry": {
         "jp": "使う",
         "kana": "つかう",
-        "meaning": "menggunakan/memakai / menggunakan",
+        "meaning": "menggunakan / memakai",
         "sources": [
           {
             "id": 7,
@@ -12146,7 +12146,7 @@
       "entry": {
         "jp": "着く",
         "kana": "つく",
-        "meaning": "sampai/tiba / (kapal) sampai/tiba / tiba",
+        "meaning": "sampai / tiba / (kapal) sampai",
         "sources": [
           {
             "id": 7,
@@ -12202,7 +12202,7 @@
       "entry": {
         "jp": "作る",
         "kana": "つくる",
-        "meaning": "membuat/memasak / membuat / menanam (sayur) ; membuat / membuat; memulai (cth : memulai perusahaan)",
+        "meaning": "membuat / memasak / menanam (sayur) ; membuat / membuat; memulai (cth : memulai perusahaan)",
         "sources": [
           {
             "id": 7,
@@ -12309,7 +12309,7 @@
       "entry": {
         "jp": "強い",
         "kana": "つよい",
-        "meaning": "kuat/kencang / kuat",
+        "meaning": "kuat / kencang",
         "sources": [
           {
             "id": 7,
@@ -12463,7 +12463,7 @@
       "entry": {
         "jp": "できる",
         "kana": "できる",
-        "meaning": "mampu/dapat / mempunyai teman / selesai/siap (persiapan...) / selesai/siap (persiapan makan...) / sesuatu yang bisa / dapat dilakukan / selesai; rampung / dibuka; rampung (cth : tokonya telah dibuka)",
+        "meaning": "mampu / dapat / mempunyai teman / selesai / siap (persiapan...) / siap (persiapan makan...) / sesuatu yang bisa / dapat dilakukan / selesai; rampung / dibuka; rampung (cth : tokonya telah dibuka)",
         "sources": [
           {
             "id": 7,
@@ -12656,7 +12656,7 @@
       "entry": {
         "jp": "でも",
         "kana": "でも",
-        "meaning": "tapi / tetapi/tapi",
+        "meaning": "tapi / tetapi",
         "sources": [
           {
             "id": 7,
@@ -13576,7 +13576,7 @@
       "entry": {
         "jp": "とけい",
         "kana": "とけい",
-        "meaning": "arloji/jam / jam",
+        "meaning": "arloji / jam",
         "sources": [
           {
             "id": 7,
@@ -14033,7 +14033,7 @@
       "entry": {
         "jp": "とる",
         "kana": "とる",
-        "meaning": "mengambil (foto)/memotret / mengambil / bertambah tua/menua / mencuri / mengambil (foto; video) / mengambil (foto, video) / dilepas",
+        "meaning": "mengambil (foto) / memotret / mengambil / bertambah tua / menua / mencuri / mengambil (foto; video) / mengambil (foto, video) / dilepas",
         "sources": [
           {
             "id": 7,
@@ -14598,7 +14598,7 @@
       "entry": {
         "jp": "苦手",
         "kana": "にがて",
-        "meaning": "tidak pandai dalam ... / tidak nyaman/tidak tahan / tidak suka/lemah terhadap... / tidak suka / tidak mahir; tidak pandai",
+        "meaning": "tidak pandai dalam ... / tidak nyaman / tidak tahan / tidak suka / lemah terhadap... / tidak mahir; tidak pandai",
         "sources": [
           {
             "id": 7,
@@ -14657,7 +14657,7 @@
       "entry": {
         "jp": "賑やか",
         "kana": "にぎやか",
-        "meaning": "ramai/meriah / ramai",
+        "meaning": "ramai / meriah",
         "sources": [
           {
             "id": 7,
@@ -15257,7 +15257,7 @@
       "entry": {
         "jp": "入る",
         "kana": "はいる",
-        "meaning": "masuk / mengandung / mengandung (gula) / berisi/mengandung / masuk; berbelok / masuk (cth : angin / udaranya masuk) / ikut; bergabung (cth : bergabung di klub)",
+        "meaning": "masuk / mengandung / mengandung (gula) / berisi / masuk; berbelok / masuk (cth : angin / udaranya masuk) / ikut; bergabung (cth : bergabung di klub)",
         "sources": [
           {
             "id": 7,
@@ -15794,7 +15794,7 @@
       "entry": {
         "jp": "話",
         "kana": "はなし",
-        "meaning": "cerita/pembicaraan (perkataan seseorang) / cerita / sambutan",
+        "meaning": "cerita / pembicaraan (perkataan seseorang) / sambutan",
         "sources": [
           {
             "id": 7,
@@ -16674,7 +16674,7 @@
       "entry": {
         "jp": "広い",
         "kana": "ひろい",
-        "meaning": "luas/besar / luas",
+        "meaning": "luas / besar",
         "sources": [
           {
             "id": 7,
@@ -17356,7 +17356,7 @@
       "entry": {
         "jp": "まあまあ",
         "kana": "まあまあ",
-        "meaning": "lumayan/biasa saja / lumayan",
+        "meaning": "lumayan / biasa saja",
         "sources": [
           {
             "id": 7,
@@ -17599,7 +17599,7 @@
       "entry": {
         "jp": "まず",
         "kana": "まず",
-        "meaning": "pertama-tama / pertama-tama/pertama / mula-mula",
+        "meaning": "pertama-tama / pertama / mula-mula",
         "sources": [
           {
             "id": 7,
@@ -17902,7 +17902,7 @@
       "entry": {
         "jp": "丸い",
         "kana": "まるい",
-        "meaning": "bulat/lingkaran / bulat / bundar",
+        "meaning": "bulat / lingkaran / bundar",
         "sources": [
           {
             "id": 7,
@@ -18708,7 +18708,7 @@
       "entry": {
         "jp": "持つ",
         "kana": "もつ",
-        "meaning": "membawa/mempunyai / memiliki / membawa / memiliki; mempunyai (cth : memiliki toko sendiri)",
+        "meaning": "membawa / mempunyai / memiliki / memiliki; mempunyai (cth : memiliki toko sendiri)",
         "sources": [
           {
             "id": 7,
@@ -18929,7 +18929,7 @@
       "entry": {
         "jp": "貰う",
         "kana": "もらう",
-        "meaning": "menerima/mendapatkan / menerima / mendapatkan; menerima",
+        "meaning": "menerima / mendapatkan / mendapatkan; menerima",
         "sources": [
           {
             "id": 7,
@@ -18990,7 +18990,7 @@
       "entry": {
         "jp": "問題",
         "kana": "もんだい",
-        "meaning": "masalah/soal / masalah",
+        "meaning": "masalah / soal",
         "sources": [
           {
             "id": 7,
@@ -19088,7 +19088,7 @@
       "entry": {
         "jp": "優しい",
         "kana": "やさしい",
-        "meaning": "baik / baik/ramah / ramah / baik hati",
+        "meaning": "baik / ramah / baik hati",
         "sources": [
           {
             "id": 7,
@@ -19190,7 +19190,7 @@
       "entry": {
         "jp": "休み",
         "kana": "やすみ",
-        "meaning": "tutup/libur / libur/liburan",
+        "meaning": "tutup / libur / liburan",
         "sources": [
           {
             "id": 7,
@@ -19486,7 +19486,7 @@
       "entry": {
         "jp": "ゆっくり",
         "kana": "ゆっくり",
-        "meaning": "perlahan/pelan-pelan / pelan-pelan",
+        "meaning": "perlahan / pelan-pelan",
         "sources": [
           {
             "id": 7,
@@ -19531,7 +19531,7 @@
       "entry": {
         "jp": "よく",
         "kana": "よく",
-        "meaning": "sering / benar-benar / deras/lebat / benar/betul / dengan baik/benar",
+        "meaning": "sering / benar-benar / deras / lebat / benar / betul / dengan baik",
         "sources": [
           {
             "id": 7,
@@ -20170,7 +20170,7 @@
       "entry": {
         "jp": "分かる",
         "kana": "わかる",
-        "meaning": "mengerti/paham / mengerti/tahu / mengerti",
+        "meaning": "mengerti / paham / tahu",
         "sources": [
           {
             "id": 7,
@@ -20795,7 +20795,7 @@
       "entry": {
         "jp": "海",
         "kana": "うみ",
-        "meaning": "laut/pantai / laut",
+        "meaning": "laut / pantai",
         "sources": [
           {
             "id": 8,
@@ -20894,7 +20894,7 @@
       "entry": {
         "jp": "送る",
         "kana": "おくる",
-        "meaning": "mengirim/mengantar / mengirim / mengantar (orang)",
+        "meaning": "mengirim / mengantar / mengantar (orang)",
         "sources": [
           {
             "id": 8,
@@ -20989,7 +20989,7 @@
       "entry": {
         "jp": "押す",
         "kana": "おす",
-        "meaning": "menekan/mendorong / menekan / membubuhkan (cth : membubuhkan cap)",
+        "meaning": "menekan / mendorong / membubuhkan (cth : membubuhkan cap)",
         "sources": [
           {
             "id": 8,
@@ -21439,7 +21439,7 @@
       "entry": {
         "jp": "帰る",
         "kana": "かえる",
-        "meaning": "pulang / pulang/kembali",
+        "meaning": "pulang / kembali",
         "sources": [
           {
             "id": 8,
@@ -22378,7 +22378,7 @@
       "entry": {
         "jp": "怖い",
         "kana": "こわい",
-        "meaning": "takut/menakutkan / takut",
+        "meaning": "takut / menakutkan",
         "sources": [
           {
             "id": 8,
@@ -22629,7 +22629,7 @@
       "entry": {
         "jp": "ざんねん",
         "kana": "ざんねん",
-        "meaning": "mengecewakan/disayangkan / sayang sekali / mengecewakan",
+        "meaning": "mengecewakan / disayangkan / sayang sekali",
         "sources": [
           {
             "id": 8,
@@ -22676,7 +22676,7 @@
       "entry": {
         "jp": "下",
         "kana": "した",
-        "meaning": "bawah / lebih muda / lebih muda/bawah",
+        "meaning": "bawah / lebih muda",
         "sources": [
           {
             "id": 8,
@@ -23055,7 +23055,7 @@
       "entry": {
         "jp": "説明する",
         "kana": "せつめいする",
-        "meaning": "menjelaskan/menerangkan / menjelaskan",
+        "meaning": "menjelaskan / menerangkan",
         "sources": [
           {
             "id": 8,
@@ -23150,7 +23150,7 @@
       "entry": {
         "jp": "先生",
         "kana": "せんせい",
-        "meaning": "guru/pengajar / guru",
+        "meaning": "guru / pengajar",
         "sources": [
           {
             "id": 8,
@@ -25449,7 +25449,7 @@
       "entry": {
         "jp": "留学生",
         "kana": "りゅうがくせい",
-        "meaning": "siswa/mahasiswa asing / siswa asing/mahasiswa asing/pelajar asing",
+        "meaning": "siswa / mahasiswa asing / siswa asing / pelajar asing",
         "sources": [
           {
             "id": 8,
@@ -25864,7 +25864,7 @@
       "entry": {
         "jp": "忘れる",
         "kana": "わすれる",
-        "meaning": "lupa/melupakan / lupa",
+        "meaning": "lupa / melupakan",
         "sources": [
           {
             "id": 9,
@@ -27587,7 +27587,7 @@
       "entry": {
         "jp": "美しい",
         "kana": "うつくしい",
-        "meaning": "cantik/indah / indah",
+        "meaning": "cantik / indah",
         "sources": [
           {
             "id": 9,
@@ -29188,7 +29188,7 @@
       "entry": {
         "jp": "あく",
         "kana": "あく",
-        "meaning": "buka / buka/terbuka",
+        "meaning": "buka / terbuka",
         "sources": [
           {
             "id": 9,
@@ -29425,7 +29425,7 @@
       "entry": {
         "jp": "商品",
         "kana": "しょうひん",
-        "meaning": "produk/barang komoditi / produk/barang dagangan / produk",
+        "meaning": "produk / barang komoditi / barang dagangan",
         "sources": [
           {
             "id": 9,
@@ -29472,7 +29472,7 @@
       "entry": {
         "jp": "心配",
         "kana": "しんぱい",
-        "meaning": "khawatir/cemas / khawatir",
+        "meaning": "khawatir / cemas",
         "sources": [
           {
             "id": 9,
@@ -30947,7 +30947,7 @@
       "entry": {
         "jp": "新聞",
         "kana": "しんぶん",
-        "meaning": "koran/surat kabar / koran",
+        "meaning": "koran / surat kabar",
         "sources": [
           {
             "id": 9,
@@ -31318,7 +31318,7 @@
       "entry": {
         "jp": "ひどい",
         "kana": "ひどい",
-        "meaning": "kejam/keterlaluan / parah / keterlaluan",
+        "meaning": "kejam / keterlaluan / parah",
         "sources": [
           {
             "id": 9,
@@ -31730,7 +31730,7 @@
       "entry": {
         "jp": "席",
         "kana": "せき",
-        "meaning": "tempat duduk/kursi / tempat duduk",
+        "meaning": "tempat duduk / kursi",
         "sources": [
           {
             "id": 10,
@@ -31955,7 +31955,7 @@
       "entry": {
         "jp": "とり",
         "kana": "とり",
-        "meaning": "burung/ayam / burung / ayam",
+        "meaning": "burung / ayam",
         "sources": [
           {
             "id": 10,
@@ -38372,7 +38372,7 @@
       "entry": {
         "jp": "キロ",
         "kana": "きろ",
-        "meaning": "... kilo(gram/meter) / kilometer/kilogram / kilogram",
+        "meaning": "... kilo(gram/meter) / kilometer / kilogram",
         "sources": [
           {
             "id": 7,
@@ -46029,7 +46029,7 @@
       "fields": {
         "meaning": {
           "before": "menghias / mendekorasi/menghias / memajang / menghias",
-          "after": "menghias / mendekorasi/menghias / memajang"
+          "after": "menghias / mendekorasi / memajang"
         }
       }
     },
@@ -46076,7 +46076,7 @@
       "fields": {
         "meaning": {
           "before": "menyenangkan/merasa nyaman / menyenangkan/merasa nyaman / terasa segar/menyenangkan",
-          "after": "menyenangkan/merasa nyaman / terasa segar/menyenangkan"
+          "after": "menyenangkan / merasa nyaman / terasa segar"
         }
       }
     },
@@ -46121,7 +46121,7 @@
       "fields": {
         "meaning": {
           "before": "Bapak/Ibu/Tn./Ny./Nn. <bentuk formal dari ~ さん> / Bapak/Ibu/Ny./Tn./Nn. <bentuk formal dari ~ さん> / Bapak ~ / Ibu ~ / Tuan ~ / Nyonya ~ (ungkapan bentuk sopan dari ~さん ) / Bapak/Ibu/Ny./Tn./Nn. <bentuk formal dari ~ さん>",
-          "after": "Bapak/Ibu/Tn./Ny./Nn. <bentuk formal dari ~ さん> / Bapak/Ibu/Ny./Tn./Nn. <bentuk formal dari ~ さん> / Bapak ~ / Ibu ~ / Tuan ~ / Nyonya ~ (ungkapan bentuk sopan dari ~さん )"
+          "after": "Bapak / Ibu / Tn. / Ny. / Nn. <bentuk formal dari ~ さん> / Bapak ~ / Ibu ~ / Tuan ~ / Nyonya ~ (ungkapan bentuk sopan dari ~さん )"
         },
         "category": {
           "before": "noun",
@@ -46186,7 +46186,7 @@
       "fields": {
         "meaning": {
           "before": "menantikan (hal itu) dengan senang hati / menantikan (hal itu) dengan senang hati / kegembiraan/tidak sabar untuk menantikan sesuatu",
-          "after": "menantikan (hal itu) dengan senang hati / kegembiraan/tidak sabar untuk menantikan sesuatu"
+          "after": "menantikan (hal itu) dengan senang hati / kegembiraan / tidak sabar untuk menantikan sesuatu"
         }
       }
     },
@@ -46331,7 +46331,7 @@
       "fields": {
         "meaning": {
           "before": "alat/perlengkapan / alat / peralatan; alat / alat/perlengkapan",
-          "after": "alat/perlengkapan / alat / peralatan; alat"
+          "after": "alat / perlengkapan / peralatan; alat"
         }
       }
     },
@@ -46340,7 +46340,7 @@
       "fields": {
         "meaning": {
           "before": "pemotretan/pengambilan gambar/pengambilan film / pemotretan/pengambilan gambar/pengambilan film / fotografi / pembuatan video",
-          "after": "pemotretan/pengambilan gambar/pengambilan film / fotografi / pembuatan video"
+          "after": "pemotretan / pengambilan gambar / pengambilan film / fotografi / pembuatan video"
         }
       }
     },
@@ -46701,7 +46701,7 @@
       "fields": {
         "meaning": {
           "before": "lahir/dilahirkan / lahir/dilahirkan / lahir",
-          "after": "lahir/dilahirkan / lahir"
+          "after": "lahir / dilahirkan"
         }
       }
     },
@@ -46719,7 +46719,7 @@
       "fields": {
         "meaning": {
           "before": "memberi tahu / memberi tahu/mengajarkan / mengajar / memberi tahu / mengajar; mengajarkan",
-          "after": "memberi tahu / memberi tahu/mengajarkan / mengajar / mengajar; mengajarkan"
+          "after": "memberi tahu / mengajarkan / mengajar / mengajar; mengajarkan"
         }
       }
     },
@@ -46728,7 +46728,7 @@
       "fields": {
         "meaning": {
           "before": "teh/teh Jepang / teh/teh Jepang / upacara minum teh / teh; teh khas Jepang / teh khas Jepang",
-          "after": "teh/teh Jepang / upacara minum teh / teh; teh khas Jepang / teh khas Jepang"
+          "after": "teh / teh Jepang / upacara minum teh / teh; teh khas Jepang / teh khas Jepang"
         }
       }
     },
@@ -46785,7 +46785,7 @@
       "fields": {
         "meaning": {
           "before": "setelah tengah hari sampai malam hari/PM / setelah tengah hari sampai malam hari/PM / setelah tengah hari sampai malam hari (PM)",
-          "after": "setelah tengah hari sampai malam hari/PM / setelah tengah hari sampai malam hari (PM)"
+          "after": "setelah tengah hari sampai malam hari / PM / setelah tengah hari sampai malam hari (PM)"
         }
       }
     },
@@ -46794,7 +46794,7 @@
       "fields": {
         "meaning": {
           "before": "jam / ... jam / jam / waktu/saat / waktu / waktu; jam",
-          "after": "jam / ... jam / waktu/saat / waktu / waktu; jam"
+          "after": "jam / ... jam / waktu / saat / waktu; jam"
         }
       }
     },
@@ -46812,7 +46812,7 @@
       "fields": {
         "meaning": {
           "before": "susah/sulit / amat/sangat / sulit; berat / amat/sangat",
-          "after": "susah/sulit / amat/sangat / sulit; berat"
+          "after": "susah / sulit / amat / sangat / sulit; berat"
         }
       }
     },
@@ -46821,7 +46821,7 @@
       "fields": {
         "meaning": {
           "before": "menyenangkan / menyenangkan / gembira/menyenangkan",
-          "after": "menyenangkan / gembira/menyenangkan"
+          "after": "menyenangkan / gembira"
         }
       }
     },
@@ -46848,7 +46848,7 @@
       "fields": {
         "meaning": {
           "before": "arloji/jam / arloji/jam / jam",
-          "after": "arloji/jam / jam"
+          "after": "arloji / jam"
         }
       }
     },
@@ -46857,7 +46857,7 @@
       "fields": {
         "meaning": {
           "before": "mengambil (foto)/memotret / mengambil / bertambah tua/menua / mengambil / mencuri / mengambil (foto; video) / mengambil (foto, video) / mengambil / dilepas",
-          "after": "mengambil (foto)/memotret / mengambil / bertambah tua/menua / mencuri / mengambil (foto; video) / mengambil (foto, video) / dilepas"
+          "after": "mengambil (foto) / memotret / mengambil / bertambah tua / menua / mencuri / mengambil (foto; video) / mengambil (foto, video) / dilepas"
         }
       }
     },
@@ -46947,7 +46947,7 @@
       "fields": {
         "meaning": {
           "before": "lupa/melupakan / lupa / lupa",
-          "after": "lupa/melupakan / lupa"
+          "after": "lupa / melupakan"
         }
       }
     },
@@ -46965,7 +46965,7 @@
       "fields": {
         "meaning": {
           "before": "buka / buka/terbuka / buka",
-          "after": "buka / buka/terbuka"
+          "after": "buka / terbuka"
         }
       }
     },
@@ -47077,6 +47077,951 @@
             "kana": "りょけん を かばん に いれました。",
             "meaning": "Saya memasukkan paspor ke tas."
           }
+        }
+      }
+    },
+    "N4:kotoba-n4-ea23d946912c": {
+      "jp": "アクセサリー",
+      "fields": {
+        "meaning": {
+          "before": "perhiasan/aksesoris / perhiasan / aksesori",
+          "after": "perhiasan / aksesoris"
+        }
+      }
+    },
+    "N4:kotoba-n4-773516f1b9b8": {
+      "jp": "いつまでも",
+      "fields": {
+        "meaning": {
+          "before": "sampai kapan pun/selamanya / selamanya",
+          "after": "sampai kapan pun / selamanya"
+        }
+      }
+    },
+    "N4:kotoba-n4-638a77faa26a": {
+      "jp": "おば",
+      "fields": {
+        "meaning": {
+          "before": "bibi/tante / tante/bibi",
+          "after": "bibi / tante"
+        }
+      }
+    },
+    "N4:kotoba-n4-b1cce23be2cf": {
+      "jp": "かわりに",
+      "fields": {
+        "meaning": {
+          "before": "sebagai pengganti/sebagai ganti / sebagai pengganti",
+          "after": "sebagai pengganti / sebagai ganti"
+        }
+      }
+    },
+    "N4:kotoba-n4-0b5f1f270e3d": {
+      "jp": "きおん",
+      "fields": {
+        "meaning": {
+          "before": "suhu udara/temperatur / suhu udara",
+          "after": "suhu udara / temperatur"
+        }
+      }
+    },
+    "N4:kotoba-n4-d885d157df8c": {
+      "jp": "サイクリング",
+      "fields": {
+        "meaning": {
+          "before": "bersepeda/jalan-jalan dengan sepeda / bersepeda",
+          "after": "bersepeda / jalan-jalan dengan sepeda"
+        }
+      }
+    },
+    "N4:kotoba-n4-52b464babf5d": {
+      "jp": "しんせき",
+      "fields": {
+        "meaning": {
+          "before": "kerabat/sanak saudara / kerabat",
+          "after": "kerabat / sanak saudara"
+        }
+      }
+    },
+    "N4:kotoba-n4-f1b9db096dbb": {
+      "jp": "生活",
+      "fields": {
+        "meaning": {
+          "before": "hidup/kehidupan / kehidupan / hidup",
+          "after": "hidup / kehidupan"
+        }
+      }
+    },
+    "N4:kotoba-n4-574626e5b0ff": {
+      "jp": "チーム",
+      "fields": {
+        "meaning": {
+          "before": "tim/regu / tim",
+          "after": "tim / regu"
+        }
+      }
+    },
+    "N4:kotoba-n4-20ba5fe46a81": {
+      "jp": "到着する",
+      "fields": {
+        "meaning": {
+          "before": "tiba/ketibaan / tiba",
+          "after": "tiba / ketibaan"
+        }
+      }
+    },
+    "N4:kotoba-n4-c8329cfa031d": {
+      "jp": "とくに",
+      "fields": {
+        "meaning": {
+          "before": "khususnya/terutama / khusus/terutama",
+          "after": "khususnya / terutama / khusus"
+        }
+      }
+    },
+    "N4:kotoba-n4-dc1a0d0429cd": {
+      "jp": "びじゅつかん",
+      "fields": {
+        "meaning": {
+          "before": "gedung kesenian/museum seni / gedung kesenian / museum seni",
+          "after": "gedung kesenian / museum seni"
+        }
+      }
+    },
+    "N4:kotoba-n4-39d5701ce3f6": {
+      "jp": "見える",
+      "fields": {
+        "meaning": {
+          "before": "terlihat/bisa dilihat / terlihat",
+          "after": "terlihat / bisa dilihat"
+        }
+      }
+    },
+    "N4:kotoba-n4-0ec4fef61ec7": {
+      "jp": "アドバイス",
+      "fields": {
+        "meaning": {
+          "before": "saran/nasihat / saran",
+          "after": "saran / nasihat"
+        }
+      }
+    },
+    "N4:kotoba-n4-79108418367a": {
+      "jp": "人気",
+      "fields": {
+        "meaning": {
+          "before": "terkenal/populer / popularitas / populer",
+          "after": "terkenal / populer / popularitas"
+        }
+      }
+    },
+    "N4:kotoba-n4-d4d4a673afd0": {
+      "jp": "パンフレット",
+      "fields": {
+        "meaning": {
+          "before": "brosur/pamflet / pamflet",
+          "after": "brosur / pamflet"
+        }
+      }
+    },
+    "N4:kotoba-n4-6f0619a4b2a2": {
+      "jp": "ゆうえんち",
+      "fields": {
+        "meaning": {
+          "before": "taman Hiburan/taman bermain / taman hiburan",
+          "after": "taman Hiburan / taman bermain"
+        }
+      }
+    },
+    "N4:kotoba-n4-3e4f6397f1b9": {
+      "jp": "特に",
+      "fields": {
+        "meaning": {
+          "before": "khususnya/terutama / terutama",
+          "after": "khususnya / terutama"
+        }
+      }
+    },
+    "N4:kotoba-n4-65254743d7ca": {
+      "jp": "客",
+      "fields": {
+        "meaning": {
+          "before": "pelanggan/tamu / tamu",
+          "after": "pelanggan / tamu"
+        }
+      }
+    },
+    "N4:kotoba-n4-3ef5c54bf642": {
+      "jp": "さっき",
+      "fields": {
+        "meaning": {
+          "before": "baru saja / baru saja/barusan tadi / tadi",
+          "after": "baru saja / barusan tadi / tadi"
+        }
+      }
+    },
+    "N4:kotoba-n4-1eefcffed81a": {
+      "jp": "うん",
+      "fields": {
+        "meaning": {
+          "before": "ya/oke/hm <ungkapan informal untuk はい atau ketika memastikan sesuatu kepada diri sendiri> / ya/oke/hmm <ungkapan informal dari はい atau ketika memastikan sesuatu kepada diri sendiri>",
+          "after": "ya / oke / hm <ungkapan informal untuk はい atau ketika memastikan sesuatu kepada diri sendiri> / hmm <ungkapan informal dari はい atau ketika memastikan sesuatu kepada diri sendiri>"
+        }
+      }
+    },
+    "N4:kotoba-n4-73d0627411c9": {
+      "jp": "必ず",
+      "fields": {
+        "meaning": {
+          "before": "pasti/selalu/tanpa pengecualian / selalu",
+          "after": "pasti / selalu / tanpa pengecualian"
+        }
+      }
+    },
+    "N4:kotoba-n4-cadadafb6d82": {
+      "jp": "そのまま",
+      "fields": {
+        "meaning": {
+          "before": "begitu saja/apa adanya / begitu saja",
+          "after": "begitu saja / apa adanya"
+        }
+      }
+    },
+    "N4:kotoba-n4-df4853558bff": {
+      "jp": "ゆれる",
+      "fields": {
+        "meaning": {
+          "before": "bergoyang/bergetar / bergoyang/berguncang / bergetar; bergoncang",
+          "after": "bergoyang / bergetar / berguncang / bergetar; bergoncang"
+        }
+      }
+    },
+    "N4:kotoba-n4-6ee986b0f765": {
+      "jp": "けが",
+      "fields": {
+        "meaning": {
+          "before": "luka/cedera / luka",
+          "after": "luka / cedera"
+        }
+      }
+    },
+    "N4:kotoba-n4-8ccac09e54c9": {
+      "jp": "出会う",
+      "fields": {
+        "meaning": {
+          "before": "bertemu/(secara kebetulan) bertemu / bertemu",
+          "after": "bertemu / (secara kebetulan) bertemu"
+        }
+      }
+    },
+    "N4:kotoba-n4-e526c8defb62": {
+      "jp": "願う",
+      "fields": {
+        "meaning": {
+          "before": "meminta/berharap / berharap",
+          "after": "meminta / berharap"
+        }
+      }
+    },
+    "N4:kotoba-n4-87354010c7f6": {
+      "jp": "方",
+      "fields": {
+        "meaning": {
+          "before": "sisi/pihak <menunjukkan salah satu sisi/pihak lebih daripada hal lain yang dibandingkan> / sisi/pihak <menunjukkan salah satu sisi/pihak yang lebih daripada hal lain yang dibandingkan> / Wow!",
+          "after": "sisi / pihak <menunjukkan salah satu sisi/pihak lebih daripada hal lain yang dibandingkan> / pihak <menunjukkan salah satu sisi/pihak yang lebih daripada hal lain yang dibandingkan> / Wow!"
+        }
+      }
+    },
+    "N4:kotoba-n4-c4cafddc40ba": {
+      "jp": "おこなう",
+      "fields": {
+        "meaning": {
+          "before": "mengadakan/menyelenggarakan / menyelenggarakan",
+          "after": "mengadakan / menyelenggarakan"
+        }
+      }
+    },
+    "N4:kotoba-n4-73e3bc349346": {
+      "jp": "びっくりする",
+      "fields": {
+        "meaning": {
+          "before": "terkejut/kaget / kaget / kaget; terkejut / terkejut",
+          "after": "terkejut / kaget / kaget; terkejut"
+        }
+      }
+    },
+    "N4:kotoba-n4-b130d31084f3": {
+      "jp": "ざしき",
+      "fields": {
+        "meaning": {
+          "before": "zashiki/ruang tatami (ruang untuk duduk di lantai) / zashiki / ruang tatami (ruang untuk duduk berlesehan)",
+          "after": "zashiki / ruang tatami (ruang untuk duduk di lantai) / ruang tatami (ruang untuk duduk berlesehan)"
+        }
+      }
+    },
+    "N4:kotoba-n4-61d56a8a1e6b": {
+      "jp": "内容",
+      "fields": {
+        "meaning": {
+          "before": "isi/konten / isi",
+          "after": "isi / konten"
+        }
+      }
+    },
+    "N4:kotoba-n4-f7ebf1239923": {
+      "jp": "ふつう",
+      "fields": {
+        "meaning": {
+          "before": "biasa/rata-rata / biasa",
+          "after": "biasa / rata-rata"
+        }
+      }
+    },
+    "N4:kotoba-n4-0316c85f6f8e": {
+      "jp": "頭",
+      "fields": {
+        "meaning": {
+          "before": "kepala / kepala/otak",
+          "after": "kepala / otak"
+        }
+      }
+    },
+    "N4:kotoba-n4-8267998f77eb": {
+      "jp": "あまり",
+      "fields": {
+        "meaning": {
+          "before": "(tidak) begitu / (tidak) begitu/terlalu",
+          "after": "(tidak) begitu / terlalu"
+        }
+      }
+    },
+    "N4:kotoba-n4-1da4ea4cb955": {
+      "jp": "ある",
+      "fields": {
+        "meaning": {
+          "before": "ada / ada/diadakan (pesta, acara, festival) / ada (berbagai hal / sesuatu yang ada di kota)",
+          "after": "ada / diadakan (pesta, acara, festival) / ada (berbagai hal / sesuatu yang ada di kota)"
+        }
+      }
+    },
+    "N4:kotoba-n4-db7b79ffacf8": {
+      "jp": "いたい",
+      "fields": {
+        "meaning": {
+          "before": "rasa sakit/sakit / sakit",
+          "after": "rasa sakit / sakit"
+        }
+      }
+    },
+    "N4:kotoba-n4-ba48ff9b410c": {
+      "jp": "一番",
+      "fields": {
+        "meaning": {
+          "before": "nomor satu/yang paling .... / nomor satu/yang paling .../terbaik / paling",
+          "after": "nomor satu / yang paling .... / yang paling ... / terbaik / paling"
+        }
+      }
+    },
+    "N4:kotoba-n4-fac6af985fb6": {
+      "jp": "いる",
+      "fields": {
+        "meaning": {
+          "before": "ada / ada/memiliki (keluarga) / ada (keberadaan) / perlu/butuh / perlu",
+          "after": "ada / memiliki (keluarga) / ada (keberadaan) / perlu / butuh"
+        }
+      }
+    },
+    "N4:kotoba-n4-e80793927259": {
+      "jp": "歌",
+      "fields": {
+        "meaning": {
+          "before": "lagu / syair/lagu / menyanyi",
+          "after": "lagu / syair / menyanyi"
+        }
+      }
+    },
+    "N4:kotoba-n4-dd43f4a39f52": {
+      "jp": "うれしい",
+      "fields": {
+        "meaning": {
+          "before": "senang/bahagia / senang",
+          "after": "senang / bahagia"
+        }
+      }
+    },
+    "N4:kotoba-n4-045b17e2a9ac": {
+      "jp": "絵",
+      "fields": {
+        "meaning": {
+          "before": "lukisan/gambar / gambar / lukisan",
+          "after": "lukisan / gambar"
+        }
+      }
+    },
+    "N4:kotoba-n4-e20321f217d7": {
+      "jp": "え",
+      "fields": {
+        "meaning": {
+          "before": "Eh?!/Apa?! / Oh! / Eh?!/Apa?! <menunjukkan sedikit keterkejutan>",
+          "after": "Eh?! / Apa?! / Oh! / Apa?! <menunjukkan sedikit keterkejutan>"
+        }
+      }
+    },
+    "N4:kotoba-n4-f8d351b496bf": {
+      "jp": "お祝い",
+      "fields": {
+        "meaning": {
+          "before": "perayaan/hadiah / perayaan; hadiah / perayaan",
+          "after": "perayaan / hadiah / perayaan; hadiah"
+        }
+      }
+    },
+    "N4:kotoba-n4-79e4c9400f52": {
+      "jp": "大きい",
+      "fields": {
+        "meaning": {
+          "before": "besar / besar/lebar",
+          "after": "besar / lebar"
+        }
+      }
+    },
+    "N4:kotoba-n4-1755c9b089e5": {
+      "jp": "おしゃれ",
+      "fields": {
+        "meaning": {
+          "before": "modis / modis/bergaya / modelnya bagus/gaya/canggih / keren; stylish",
+          "after": "modis / bergaya / modelnya bagus / gaya / canggih / keren; stylish"
+        }
+      }
+    },
+    "N4:kotoba-n4-02248b0bfb6d": {
+      "jp": "遅い",
+      "fields": {
+        "meaning": {
+          "before": "lambat/terlambat / larut/lambat",
+          "after": "lambat / terlambat / larut"
+        }
+      }
+    },
+    "N4:kotoba-n4-2fa4432b388a": {
+      "jp": "お弁当",
+      "fields": {
+        "meaning": {
+          "before": "bekal makan siang/bento / bekal makan siang / bekal",
+          "after": "bekal makan siang / bento / bekal"
+        }
+      }
+    },
+    "N4:kotoba-n4-6c219345f9fd": {
+      "jp": "学生",
+      "fields": {
+        "meaning": {
+          "before": "siswa / siswa/pelajar",
+          "after": "siswa / pelajar"
+        }
+      }
+    },
+    "N4:kotoba-n4-a4fc95b60156": {
+      "jp": "かっこいい",
+      "fields": {
+        "meaning": {
+          "before": "keren/ganteng / keren",
+          "after": "keren / ganteng"
+        }
+      }
+    },
+    "N4:kotoba-n4-b506cd379fe7": {
+      "jp": "体",
+      "fields": {
+        "meaning": {
+          "before": "tubuh/badan / tubuh/kesehatan / badan",
+          "after": "tubuh / badan / kesehatan"
+        }
+      }
+    },
+    "N4:kotoba-n4-ca297ee0e828": {
+      "jp": "聞く",
+      "fields": {
+        "meaning": {
+          "before": "mendengar / bertanya / mendengarkan / bertanya/mendengarkan / bertanya; menanyakan",
+          "after": "mendengar / bertanya / mendengarkan / bertanya; menanyakan"
+        }
+      }
+    },
+    "N4:kotoba-n4-1167a7c53c79": {
+      "jp": "きれい",
+      "fields": {
+        "meaning": {
+          "before": "indah/cantik / cantik / indah; cantik / indah",
+          "after": "indah / cantik / indah; cantik"
+        }
+      }
+    },
+    "N4:kotoba-n4-24d9f65ca7b6": {
+      "jp": "キロ",
+      "fields": {
+        "meaning": {
+          "before": "... kilo(gram/meter) / kilometer/kilogram / kilogram",
+          "after": "... kilo(gram/meter) / kilometer / kilogram"
+        }
+      }
+    },
+    "N4:kotoba-n4-ef5de317710d": {
+      "jp": "曇り",
+      "fields": {
+        "meaning": {
+          "before": "berawan/cuaca mendung / berawan",
+          "after": "berawan / cuaca mendung"
+        }
+      }
+    },
+    "N4:kotoba-n4-2b90751d9066": {
+      "jp": "元気",
+      "fields": {
+        "meaning": {
+          "before": "sehat / sehat/bersemangat / ceria/selalu bersemangat / energik; bersemangat",
+          "after": "sehat / bersemangat / ceria / selalu bersemangat / energik; bersemangat"
+        }
+      }
+    },
+    "N4:kotoba-n4-9484d431b545": {
+      "jp": "こっち",
+      "fields": {
+        "meaning": {
+          "before": "(di) sini / di sini/sebelah sini / yang ini/(di) sini / yang ini/ (di) sini / ini; yang ini / di sini (bentuk informal dari こちら)",
+          "after": "(di) sini / di sini / sebelah sini / yang ini / ini; yang ini / di sini (bentuk informal dari こちら)"
+        }
+      }
+    },
+    "N4:kotoba-n4-8e6fdf77c474": {
+      "jp": "上手",
+      "fields": {
+        "meaning": {
+          "before": "mahir/pandai/pintar / pandai / terampil / mahir; pandai",
+          "after": "mahir / pandai / pintar / terampil / mahir; pandai"
+        }
+      }
+    },
+    "N4:kotoba-n4-a4b8d10f9f81": {
+      "jp": "知る",
+      "fields": {
+        "meaning": {
+          "before": "mengetahui/mengenal / mengetahui",
+          "after": "mengetahui / mengenal"
+        }
+      }
+    },
+    "N4:kotoba-n4-e1af3ccb508f": {
+      "jp": "好き",
+      "fields": {
+        "meaning": {
+          "before": "suka/favorit / favorit",
+          "after": "suka / favorit"
+        }
+      }
+    },
+    "N4:kotoba-n4-233d039d6697": {
+      "jp": "すぐ",
+      "fields": {
+        "meaning": {
+          "before": "segera/dekat / segera / dengan segera / langsung; tepat / langsung; segera",
+          "after": "segera / dekat / dengan segera / langsung; tepat / langsung; segera"
+        }
+      }
+    },
+    "N4:kotoba-n4-63cf67739e20": {
+      "jp": "すみません",
+      "fields": {
+        "meaning": {
+          "before": "Permisi./Maaf. / maaf/permisi / maaf",
+          "after": "Permisi. / Maaf. / maaf / permisi"
+        }
+      }
+    },
+    "N4:kotoba-n4-29d655fc1d58": {
+      "jp": "だめ",
+      "fields": {
+        "meaning": {
+          "before": "tidak bisa/tidak mungkin / tidak bisa / tidak boleh / tidak dapat; tidak bisa (mengonsumsi)",
+          "after": "tidak bisa / tidak mungkin / tidak boleh / tidak dapat; tidak bisa (mengonsumsi)"
+        }
+      }
+    },
+    "N4:kotoba-n4-980cb0b35867": {
+      "jp": "ちょっと",
+      "fields": {
+        "meaning": {
+          "before": "sedikit / sedikit/sebentar / sebentar",
+          "after": "sedikit / sebentar"
+        }
+      }
+    },
+    "N4:kotoba-n4-e0c4c916d157": {
+      "jp": "使う",
+      "fields": {
+        "meaning": {
+          "before": "menggunakan/memakai / menggunakan",
+          "after": "menggunakan / memakai"
+        }
+      }
+    },
+    "N4:kotoba-n4-49ba2bf95125": {
+      "jp": "着く",
+      "fields": {
+        "meaning": {
+          "before": "sampai/tiba / (kapal) sampai/tiba / tiba",
+          "after": "sampai / tiba / (kapal) sampai"
+        }
+      }
+    },
+    "N4:kotoba-n4-1c0476f47397": {
+      "jp": "作る",
+      "fields": {
+        "meaning": {
+          "before": "membuat/memasak / membuat / menanam (sayur) ; membuat / membuat; memulai (cth : memulai perusahaan)",
+          "after": "membuat / memasak / menanam (sayur) ; membuat / membuat; memulai (cth : memulai perusahaan)"
+        }
+      }
+    },
+    "N4:kotoba-n4-3a9538eca203": {
+      "jp": "強い",
+      "fields": {
+        "meaning": {
+          "before": "kuat/kencang / kuat",
+          "after": "kuat / kencang"
+        }
+      }
+    },
+    "N4:kotoba-n4-b423eeb01236": {
+      "jp": "できる",
+      "fields": {
+        "meaning": {
+          "before": "mampu/dapat / mempunyai teman / selesai/siap (persiapan...) / selesai/siap (persiapan makan...) / sesuatu yang bisa / dapat dilakukan / selesai; rampung / dibuka; rampung (cth : tokonya telah dibuka)",
+          "after": "mampu / dapat / mempunyai teman / selesai / siap (persiapan...) / siap (persiapan makan...) / sesuatu yang bisa / dapat dilakukan / selesai; rampung / dibuka; rampung (cth : tokonya telah dibuka)"
+        }
+      }
+    },
+    "N4:kotoba-n4-7839ac2814f0": {
+      "jp": "でも",
+      "fields": {
+        "meaning": {
+          "before": "tapi / tetapi/tapi",
+          "after": "tapi / tetapi"
+        }
+      }
+    },
+    "N4:kotoba-n4-38e30401bb58": {
+      "jp": "苦手",
+      "fields": {
+        "meaning": {
+          "before": "tidak pandai dalam ... / tidak nyaman/tidak tahan / tidak suka/lemah terhadap... / tidak suka / tidak mahir; tidak pandai",
+          "after": "tidak pandai dalam ... / tidak nyaman / tidak tahan / tidak suka / lemah terhadap... / tidak mahir; tidak pandai"
+        }
+      }
+    },
+    "N4:kotoba-n4-0e7515341cfb": {
+      "jp": "賑やか",
+      "fields": {
+        "meaning": {
+          "before": "ramai/meriah / ramai",
+          "after": "ramai / meriah"
+        }
+      }
+    },
+    "N4:kotoba-n4-bad270907b0c": {
+      "jp": "入る",
+      "fields": {
+        "meaning": {
+          "before": "masuk / mengandung / mengandung (gula) / berisi/mengandung / masuk; berbelok / masuk (cth : angin / udaranya masuk) / ikut; bergabung (cth : bergabung di klub)",
+          "after": "masuk / mengandung / mengandung (gula) / berisi / masuk; berbelok / masuk (cth : angin / udaranya masuk) / ikut; bergabung (cth : bergabung di klub)"
+        }
+      }
+    },
+    "N4:kotoba-n4-d23c157ee3ce": {
+      "jp": "話",
+      "fields": {
+        "meaning": {
+          "before": "cerita/pembicaraan (perkataan seseorang) / cerita / sambutan",
+          "after": "cerita / pembicaraan (perkataan seseorang) / sambutan"
+        }
+      }
+    },
+    "N4:kotoba-n4-c971b834ba38": {
+      "jp": "広い",
+      "fields": {
+        "meaning": {
+          "before": "luas/besar / luas",
+          "after": "luas / besar"
+        }
+      }
+    },
+    "N4:kotoba-n4-d2cf8b06956c": {
+      "jp": "へえ",
+      "fields": {
+        "meaning": {
+          "before": "Wow! / Aaah! / Benar ya? /Oh ya? / Benar ya? / Oh ya?",
+          "after": "Wow! / Aaah! / Benar ya? / Oh ya?"
+        }
+      }
+    },
+    "N4:kotoba-n4-9d11d3ace3f4": {
+      "jp": "まあまあ",
+      "fields": {
+        "meaning": {
+          "before": "lumayan/biasa saja / lumayan",
+          "after": "lumayan / biasa saja"
+        }
+      }
+    },
+    "N4:kotoba-n4-76149834e72d": {
+      "jp": "まず",
+      "fields": {
+        "meaning": {
+          "before": "pertama-tama / pertama-tama/pertama / mula-mula",
+          "after": "pertama-tama / pertama / mula-mula"
+        }
+      }
+    },
+    "N4:kotoba-n4-e899d78bf07f": {
+      "jp": "丸い",
+      "fields": {
+        "meaning": {
+          "before": "bulat/lingkaran / bulat / bundar",
+          "after": "bulat / lingkaran / bundar"
+        }
+      }
+    },
+    "N4:kotoba-n4-2932d902a0de": {
+      "jp": "持つ",
+      "fields": {
+        "meaning": {
+          "before": "membawa/mempunyai / memiliki / membawa / memiliki; mempunyai (cth : memiliki toko sendiri)",
+          "after": "membawa / mempunyai / memiliki / memiliki; mempunyai (cth : memiliki toko sendiri)"
+        }
+      }
+    },
+    "N4:kotoba-n4-007c3756533d": {
+      "jp": "貰う",
+      "fields": {
+        "meaning": {
+          "before": "menerima/mendapatkan / menerima / mendapatkan; menerima",
+          "after": "menerima / mendapatkan / mendapatkan; menerima"
+        }
+      }
+    },
+    "N4:kotoba-n4-fa0b60282442": {
+      "jp": "問題",
+      "fields": {
+        "meaning": {
+          "before": "masalah/soal / masalah",
+          "after": "masalah / soal"
+        }
+      }
+    },
+    "N4:kotoba-n4-e557d87b4fb6": {
+      "jp": "優しい",
+      "fields": {
+        "meaning": {
+          "before": "baik / baik/ramah / ramah / baik hati",
+          "after": "baik / ramah / baik hati"
+        }
+      }
+    },
+    "N4:kotoba-n4-20fada4edd65": {
+      "jp": "休み",
+      "fields": {
+        "meaning": {
+          "before": "tutup/libur / libur/liburan",
+          "after": "tutup / libur / liburan"
+        }
+      }
+    },
+    "N4:kotoba-n4-ec6d93d1c047": {
+      "jp": "ゆっくり",
+      "fields": {
+        "meaning": {
+          "before": "perlahan/pelan-pelan / pelan-pelan",
+          "after": "perlahan / pelan-pelan"
+        }
+      }
+    },
+    "N4:kotoba-n4-0319e49a8980": {
+      "jp": "よく",
+      "fields": {
+        "meaning": {
+          "before": "sering / benar-benar / deras/lebat / benar/betul / dengan baik/benar",
+          "after": "sering / benar-benar / deras / lebat / benar / betul / dengan baik"
+        }
+      }
+    },
+    "N4:kotoba-n4-74a5dc1bdaa0": {
+      "jp": "分かる",
+      "fields": {
+        "meaning": {
+          "before": "mengerti/paham / mengerti/tahu / mengerti",
+          "after": "mengerti / paham / tahu"
+        }
+      }
+    },
+    "N4:kotoba-n4-07cb3216bb5e": {
+      "jp": "海",
+      "fields": {
+        "meaning": {
+          "before": "laut/pantai / laut",
+          "after": "laut / pantai"
+        }
+      }
+    },
+    "N4:kotoba-n4-36dfef442b74": {
+      "jp": "送る",
+      "fields": {
+        "meaning": {
+          "before": "mengirim/mengantar / mengirim / mengantar (orang)",
+          "after": "mengirim / mengantar / mengantar (orang)"
+        }
+      }
+    },
+    "N4:kotoba-n4-202f3841dd2d": {
+      "jp": "押す",
+      "fields": {
+        "meaning": {
+          "before": "menekan/mendorong / menekan / membubuhkan (cth : membubuhkan cap)",
+          "after": "menekan / mendorong / membubuhkan (cth : membubuhkan cap)"
+        }
+      }
+    },
+    "N4:kotoba-n4-4acdee0791e9": {
+      "jp": "帰る",
+      "fields": {
+        "meaning": {
+          "before": "pulang / pulang/kembali",
+          "after": "pulang / kembali"
+        }
+      }
+    },
+    "N4:kotoba-n4-1134c7e645fd": {
+      "jp": "怖い",
+      "fields": {
+        "meaning": {
+          "before": "takut/menakutkan / takut",
+          "after": "takut / menakutkan"
+        }
+      }
+    },
+    "N4:kotoba-n4-3a69a25eb54d": {
+      "jp": "ざんねん",
+      "fields": {
+        "meaning": {
+          "before": "mengecewakan/disayangkan / sayang sekali / mengecewakan",
+          "after": "mengecewakan / disayangkan / sayang sekali"
+        }
+      }
+    },
+    "N4:kotoba-n4-025a9cf19b95": {
+      "jp": "下",
+      "fields": {
+        "meaning": {
+          "before": "bawah / lebih muda / lebih muda/bawah",
+          "after": "bawah / lebih muda"
+        }
+      }
+    },
+    "N4:kotoba-n4-c4adf121dba6": {
+      "jp": "説明する",
+      "fields": {
+        "meaning": {
+          "before": "menjelaskan/menerangkan / menjelaskan",
+          "after": "menjelaskan / menerangkan"
+        }
+      }
+    },
+    "N4:kotoba-n4-25d96cdf55e8": {
+      "jp": "先生",
+      "fields": {
+        "meaning": {
+          "before": "guru/pengajar / guru",
+          "after": "guru / pengajar"
+        }
+      }
+    },
+    "N4:kotoba-n4-7363d4b97b52": {
+      "jp": "はあ",
+      "fields": {
+        "meaning": {
+          "before": "baik .../hmm ... /ya ... / baik .../hmm .../ya ...",
+          "after": "baik ... / hmm ... / ya ..."
+        }
+      }
+    },
+    "N4:kotoba-n4-03e378946f7b": {
+      "jp": "留学生",
+      "fields": {
+        "meaning": {
+          "before": "siswa/mahasiswa asing / siswa asing/mahasiswa asing/pelajar asing",
+          "after": "siswa / mahasiswa asing / siswa asing / pelajar asing"
+        }
+      }
+    },
+    "N4:kotoba-n4-19fa84ad7309": {
+      "jp": "美しい",
+      "fields": {
+        "meaning": {
+          "before": "cantik/indah / indah",
+          "after": "cantik / indah"
+        }
+      }
+    },
+    "N4:kotoba-n4-16a2dbf030b6": {
+      "jp": "商品",
+      "fields": {
+        "meaning": {
+          "before": "produk/barang komoditi / produk/barang dagangan / produk",
+          "after": "produk / barang komoditi / barang dagangan"
+        }
+      }
+    },
+    "N4:kotoba-n4-76398f79d214": {
+      "jp": "心配",
+      "fields": {
+        "meaning": {
+          "before": "khawatir/cemas / khawatir",
+          "after": "khawatir / cemas"
+        }
+      }
+    },
+    "N4:kotoba-n4-c899c96bbf9d": {
+      "jp": "新聞",
+      "fields": {
+        "meaning": {
+          "before": "koran/surat kabar / koran",
+          "after": "koran / surat kabar"
+        }
+      }
+    },
+    "N4:kotoba-n4-6a23613c49fd": {
+      "jp": "ひどい",
+      "fields": {
+        "meaning": {
+          "before": "kejam/keterlaluan / parah / keterlaluan",
+          "after": "kejam / keterlaluan / parah"
+        }
+      }
+    },
+    "N4:kotoba-n4-37a6d26c2bcd": {
+      "jp": "席",
+      "fields": {
+        "meaning": {
+          "before": "tempat duduk/kursi / tempat duduk",
+          "after": "tempat duduk / kursi"
+        }
+      }
+    },
+    "N4:kotoba-n4-c8f5405ebc4d": {
+      "jp": "とり",
+      "fields": {
+        "meaning": {
+          "before": "burung/ayam / burung / ayam",
+          "after": "burung / ayam"
         }
       }
     }

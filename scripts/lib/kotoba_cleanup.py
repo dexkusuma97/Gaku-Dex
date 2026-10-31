@@ -19,12 +19,22 @@ def clean(e,level,report):
     before=copy.deepcopy(e)
     for field in ['jp','kana','romaji','meaning']:
         if isinstance(e.get(field),str):e[field]=tidy(e[field])
-    # Exact repeated meanings only, retaining different senses and explanations.
-    pieces=[];seen=set()
-    for part in e['meaning'].split(' / '):
-        key=tidy(part).casefold()
-        if key not in seen:seen.add(key);pieces.append(tidy(part))
-    e['meaning']=' / '.join(pieces)
+    # Deduplicate slash-separated glosses despite spacing and the aksesori variant.
+    # Keep punctuation inside parentheses and preserve non-repeated gloss text.
+    parts=[];start=0;depth=0
+    for i,char in enumerate(e['meaning']):
+        if char in '(<[':depth+=1
+        elif char in ')>]':depth=max(0,depth-1)
+        elif char=='/' and depth==0:
+            parts.append(e['meaning'][start:i]);start=i+1
+    parts.append(e['meaning'][start:])
+    pieces=[];seen=set();duplicate=False
+    for part in parts:
+        value=tidy(part)
+        key=re.sub(r'\baksesori\b','aksesoris',value.casefold())
+        if key in seen:duplicate=True
+        elif value:seen.add(key);pieces.append(value)
+    if duplicate:e['meaning']=' / '.join(pieces)
     if e['jp'] in RECLASSIFY:
         e['category'],e['subcategory']=RECLASSIFY[e['jp']];e['kind']=e['category']
     if e['jp']=='上野':e['meaning']='Ueno (nama daerah di Tokyo)'

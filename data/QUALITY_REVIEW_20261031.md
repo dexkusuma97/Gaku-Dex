@@ -95,3 +95,14 @@ Rujukan verifikasi: daftar kosakata resmi Japan Foundation https://www.irodori.j
 25 contoh primer baru ditambahkan; seluruh 2.200 contoh sebelumnya identik. Total 2.225 contoh editorial dengan bacaan berspasi; antrean bingkai berulang 0 dan antrean 37 masalah 0. Ini tidak menyatakan semua arti/bacaan/contoh lain dari 3.215 kartu sudah diaudit, atau Bunpo/Kanji sudah selesai.
 
 Dua build penuh berturut-turut menghasilkan data/bundle identik. Semua 38 berkas tes lulus, termasuk pemisahan arti/sumber, redirect favorit/route, tampilan arti tambahan dan pengecoh kuis homofon. Belum diuji pada perangkat Android fisik. Paket kumulatif mencakup pembaruan terdahulu; pemasang membuat cadangan, menolak konflik dan memulihkan target bila tes gagal. Tidak menerbitkan website otomatis.
+
+
+## 31 Oktober 2026 — Batch 9: kartu Kotoba dan satu arti di daftar
+
+Kartu daftar N5/N4 mengikuti struktur referensi pengguna: pita kategori dan tombol buka di atas, kata Jepang sebagai fokus di tengah, satu arti utama di pita bawah. Font dan warna mengikuti aplikasi; kartu tetap seluruhnya dapat diketuk. Kana, romaji dan arti lengkap tersedia di detail. Kata panjang dapat membungkus dan memakai ukuran lebih kecil; gaya terang/gelap dan fokus keyboard disediakan. Tidak ada pembatasan arti dengan ellipsis; arti utama dibungkus bila panjang.
+
+Daftar memilih arti pertama berdasarkan pemisah slash/titik koma di luar tanda kurung, serta koma pada kosakata non-ungkapan (koma desimal dipertahankan); pertanyaan ganda seperti berapa banyak?/berapa umur? hanya menampilkan pertanyaan pertama. おかげさまで diringkas menjadi berkat di daftar sesuai permintaan. Data arti lengkap dipertahankan, termasuk pencarian berdasarkan arti kedua. Ini aturan tampilan, bukan audit linguistik baru atas semua arti.
+
+39 field meaning N4 dibersihkan dari potongan berulang meskipun spasi slash berbeda. Aksesori/aksesoris dianggap varian ejaan yang sama untuk deduplikasi; アクセサリー menjadi perhiasan / aksesoris. Tanda kurung dan keterangan dalam <...> dilindungi. Seluruh ID, urutan, bacaan, sumber, 2.225 contoh editorial dan jumlah kartu tetap; data/bundle N5 identik dengan baseline. N4 3.215; N5 1.791.
+
+39 rangkaian tes lulus; dua build penuh menghasilkan data/bundle dan audit identik. Tes baru memeriksa arti tunggal, pencarian arti sekunder, escaping teks, deduplikasi dan ID pembukaan kartu. Browser lokal tidak tersedia dan unduhan runtime tidak berhasil; belum ada verifikasi visual browser/Android untuk batch ini. Pemasang diuji pada salinan baseline awal dan batch 8; backup/conflict gate dipertahankan. Paket kumulatif mencakup batch 1–8 dan tidak melakukan push/deploy otomatis.
