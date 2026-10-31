@@ -1144,3 +1144,13 @@ Audit empat PDF (476 halaman fisik). Tambahkan 115 materi N4 dalam 14 kategori, 
 - Sisa antrean topic-frame/occasional-frame 737. Jumlah ini bukan ukuran seluruh sisa audit leksikal atau semua contoh lain: arti/bacaan ambigu dan kartu nama orang yang terlewat tetap perlu ditangani terpisah.
 - N4 3.227 dan N5 1.791; 37 berkas tes lulus, termasuk seluruh 1.500 contoh, keunikan, pemisahan level, spasi/romaji, dan idempotensi. Build penuh dari normalisasi mempertahankan record aktif.
 - Paket kumulatif batch 5 mencakup batch 1–4; installer menerima baseline awal atau versi terdahulu yang dikenal. Audio, gambar, workflow dan konfigurasi penerbitan tetap. Tidak deployment otomatis, belum uji perangkat Android fisik.
+
+
+## 31 Oktober 2026 — Batch 6: total 2.000 contoh kontekstual
+
+- Tambah tepat 500 contoh ke batch 5, menjadi 2.000 kalimat Jepang unik, dengan bacaan berjarak, romaji yang terkonversi penuh dan arti Indonesia. Seluruh 1.500 contoh sebelumnya tetap identik.
+- Sisa antrean topic-frame/occasional-frame: 237. Jumlah ini hanya antrean contoh berpola berulang, bukan sisa semua audit arti, bacaan, atau nama orang yang terlewat. Contoh lain di luar antrean dan daftar masalah leksikal masih perlu ditinjau.
+- Dibanding paket 1.500, tepat 500 field example berubah tanpa perubahan field lain pada 3.227 kartu N4. N5 tetap 1.791. Jepang utama tanpa spasi tambahan; pemisah hanya kolom bacaan.
+- Contoh 炊ける menggunakan ごはんがたけました。untuk menunjukkan keadaan nasi telah matang. Contoh istilah bencana berupa pengalaman, berita, dan kegiatan latihan; tidak mengganti panduan keselamatan resmi.
+- Build penuh dari normalisasi menjaga record aktif. 37 berkas tes lulus, mencakup 2.000 kalimat unik, konversi romaji, spasi, pemisahan level, dan idempotensi.
+- Paket kumulatif batch 6 mencakup batch 1–5. Installer membuat cadangan dan menolak file berbeda dari versi dikenal. Audio/gambar/workflow/Cloudflare tidak diubah. Belum deployment otomatis atau uji Android fisik.

@@ -1,6 +1,6 @@
 # Audit kualitas 31 Oktober 2026
 
-Status terkini: batch 5, total 1.500 contoh kontekstual. Catatan di bawah menyimpan riwayat setiap batch.
+Status terkini: batch 6, total 2.000 contoh kontekstual. Catatan di bawah menyimpan riwayat setiap batch.
 
 138 contoh Kotoba N4 ditulis ulang sesuai pemakaian kata. Contoh Jepang memakai kana untuk membantu pemula; kolom kana sama dengan kalimat contoh. Tidak mengubah arti kepala entri, keanggotaan level, ID, atau audio.
 
@@ -57,3 +57,12 @@ Untuk kosakata fasilitas kesehatan, contoh berfokus pada pelaporan gejala, konfi
 Antrean contoh berpola berulang tersisa 737. Ini belum menyelesaikan audit keseluruhan 3.227 kata N4: daftar masalah leksikal, nama orang yang terlewat, arti bercampur, dan contoh di luar bingkai berulang masih memerlukan peninjauan. Pemeriksaan Bunpo dan detail Kanji belum menjadi bagian batch ini.
 
 Build penuh dari normalisasi teruji stabil dan seluruh 37 berkas tes lulus. Panduan pemasangan ada dalam BACA-DULU paket kumulatif batch 5.
+
+
+## Batch 6 — total 2.000
+
+Tambahan 500 contoh meliputi layanan umum, transaksi, pengiriman, lingkungan, transportasi, berita bencana, kegiatan latihan, pekerjaan, dan ungkapan sehari-hari. 1.500 contoh terdahulu tetap identik. Seluruh 2.000 kalimat unik, dengan bacaan berjarak dan romanisasi tanpa kana tersisa. Contoh orisinal ini bukan sertifikasi semua arti atau klaim kutipan sumber.
+
+Perbandingan terhadap batch 5 menunjukkan tepat 500 field example berubah, tanpa perubahan ID, kepala entri, arti kata, kategori, urutan, atau sumber. Jumlah N4 tetap 3.227, N5 1.791. Build penuh teruji stabil; seluruh 37 berkas tes lulus.
+
+Antrean bingkai berulang tersisa 237. Audit makna ambigu, bacaan bermasalah, nama orang yang terlewat, serta contoh di luar antrean belum selesai. Panduan pemasangan ada dalam BACA-DULU paket kumulatif batch 6.
