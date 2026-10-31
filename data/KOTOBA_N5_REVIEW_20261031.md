@@ -1,53 +1,60 @@
-# Pemeriksaan contoh Kotoba N5 — 31 Oktober 2026
+# Pemeriksaan contoh Kotoba N5 — batch 10–11, 31 Oktober 2026
 
-Semua 1.791 kartu aktif dipindai strukturnya dan daftar Jepang/terjemahan ditinjau untuk menemukan contoh mekanis yang salah konteks. Sebanyak 427 contoh dipilih untuk koreksi atau penambahan konteks; bukan klaim semua nuansa 1.791 kartu sudah tersertifikasi. Seluruh 427 kalimat baru berbeda, memakai spasi bantuan pada bacaan, terjemahan Indonesia, dan helper romaji aplikasi. Kalimat Jepang utama memakai kana tanpa spasi bantuan, seperti batch editorial N4 sebelumnya.
+Seluruh 620 contoh dalam antrean batch 10 sudah diberi pengganti kontekstual. Total sekarang 1.047 contoh editorial (427 + 620), dengan bacaan berspasi dan romaji teruji. Seluruh 427 rekaman editorial batch 10 dipertahankan persis, termasuk bukti contoh sebelum koreksi. Jumlah N5 tetap 1.791 kartu; ID, urutan, sumber, kategori dan bacaan kepala entri dipertahankan.
 
-| Kelompok pembenahan | Jumlah |
+| Hasil | Jumlah |
 | --- | ---: |
-| Bingkai “tas ini …”, termasuk ungkapan/nama fasilitas yang salah subjek | 118 |
-| Kata kerja dengan pelaku, objek, tujuan atau situasi yang lebih jelas | 132 |
-| Salah konteks, rujukan atau terjemahan lain | 149 |
-| Tanggal kalender dan komponen jam | 12 |
-| Nilai yen yang terpotong sebelum koma | 10 |
-| Pertanyaan/ungkapan dan tanda baca ganda | 6 |
-| Total contoh diganti | 427 |
+| Contoh editorial batch 10 | 427 |
+| Tambahan batch 11 | 620 |
+| Total contoh editorial berbeda | 1.047 |
+| Antrean bingkai identifikasi/waktu+belajar tersisa | 0 |
+| Kartu lain di luar kelompok editorial ini | 744 |
+| Arti diperjelas pada batch 11 | 6 |
+| Total arti diperjelas sejak batch 10 | 11 |
 
-## Contoh temuan
+Angka nol hanya berarti antrean pola yang ditandai sudah ditangani. Tidak menyatakan semua arti, bacaan, penggolongan, dan nuansa seluruh 1.791 kartu telah tersertifikasi. Ada 744 kartu lain, termasuk contoh lama yang lebih kontekstual, contoh angka dan ungkapan pendek yang wajar. Kalimat yang dipakai oleh dua kartu terkait tidak otomatis salah atau berarti kartunya duplikat.
+
+## Contoh perubahan batch 11
 
 | Kata | Sebelum | Setelah |
 | --- | --- | --- |
-| 喫茶店 | Saya minum kafe. | きっさてんでコーヒーをのみます。 — Saya minum kopi di kafe. |
-| 留学生 | Saya makan siswa internasional. | わたしはインドネシアからきたりゅうがくせいです。 — Saya pelajar dari Indonesia yang belajar di luar negeri. |
-| 電気 | Orang ini listrik. | ねるまえにでんきをけします。 — Saya mematikan lampu sebelum tidur. |
-| 夫 | Saya makan suami. | おっとはかいしゃではたらいています。 — Suami saya bekerja di perusahaan. |
-| くれる | 私はくれます。 / Saya memberi. | あねがわたしにマフラーをくれました。 — Kakak perempuan saya memberi saya syal. |
-| 五日 | Saya bertemu teman pada lima hari. | Saya bertemu teman pada tanggal lima. |
-| 一月・ひとつき | Pertemuan pada satu bulan. | Pekerjaan ini memerlukan waktu satu bulan. |
-| 1時間半 | Ini 1. | Dari sini ke bandara diperlukan waktu satu setengah jam. |
-| 1,000円 | Ini 1. | Harga buku ini 1.000 yen. |
-| はい | Tas ini bagus. | はい、わたしがたなかです。 — Ya, saya Tanaka. |
+| 傘 | これは傘です。 / Ini payung. | あめがふりそうですから、かさをもっていきます。 / Saya membawa payung karena sepertinya akan hujan. |
+| 鉛筆 | これは鉛筆です。 / Ini pensil. | えんぴつでなまえをかいてください。 / Tolong tulis nama dengan pensil. |
+| 朝御飯 | これは朝御飯です。 / Ini sarapan. | まいあさはちじにあさごはんをたべます。 / Saya sarapan setiap pagi pukul delapan. |
+| もう一度 | これはもう一度です。 / Ini sekali lagi. | もういちどいってください。 / Tolong katakan sekali lagi. |
+| お次の方 | これはお次の方です。 / Ini pelanggan berikutnya. | おつぎのかた、どうぞ。 / Pelanggan berikutnya, silakan. |
+| 3時 | これは3時です。 / Ini pukul tiga. | ごごさんじにひるのきゅうけいをとります。 / Saya mengambil istirahat siang pukul 15.00. |
 
-Lima arti kepala entri diperjelas: 半分 → setengah/separuh; 差す ditambahkan pemakaian payung agar selaras dengan contoh; 15分, 30分 dan 45分 diberi arti jumlah menit serta penggunaannya sebagai komponen jam. Tidak mengganti bacaanひとつき menjadiいちがつ: satu bulan dan Januari dibedakan. 一日 memakaiいちにち dalam konteks satu hari, bukan tanggal pertama.
+542 pengganti ditulis per entri. Sebanyak 78 memakai pola paralel yang sengaja ditinjau untuk kelompok angka: jam/kegiatan, tanggal rapat, bulan perjalanan, tujuan lantai, dan kekurangan nominal yen. Pola paralel ini mempertahankan perbedaan bacaan angka dan satuan. Semua 620 pengganti benar-benar mengubah contoh, bukan sekadar menghapus penanda antrean. Harga, jadwal, tanggal dan aktivitas dalam contoh adalah situasi pengajaran rekaan, bukan informasi layanan aktual.
+
+Kalimat baru memakai kana tanpa spasi pada Jepang utama, dan kata/partikel dipisahkan pada kolom bacaan. Sebagian tata bahasa dapat melampaui pengenalan awal N5; label bank kosakata bukan klaim daftar tata bahasa ujian resmi.
+
+## Bacaan dan arti yang diperjelas
+
+Helper romaji kini membedakan は sebagai nomina ketika diikuti partikel dari は sebagai partikel topik. Contoh: は を みがきます → ha o migakimasu; わたし は がくせい です → watashi wa gakusei desu. Juga diuji この は は しろい です → kono ha wa shiroi desu. Ini penanganan pola konteks tersebut, bukan parser morfologi Jepang lengkap. Seluruh tes Bunpo/Kotoba tetap dijalankan karena helper digunakan bersama.
+
+Enam arti tambahan diperjelas agar selaras dengan contoh:
+
+- マッチ: pertandingan olahraga, dengan konteks pertandingan perebutan gelar tinju. Makna olahraga yang sudah diajarkan dipertahankan; tidak mengubahnya diam-diam menjadi korek api.
+- ステージ: panggung; pertunjukan.
+- チェックイン: check-in; pencatatan kedatangan atau lokasi. Contoh menggunakan hotel; makna pelabelan lokasi dari konteks sumber tetap diakomodasi.
+- 真っ赤: merah menyala/merah sekali, bukan hanya merah tua.
+- 真っ白: putih bersih/putih seluruhnya.
+- 中人: pelajar sebagai kategori tarif dalam sumber Irodori. Tidak menetapkan batas umur universal.
+
+Lima koreksi batch 10 tetap berlaku: 半分 setengah/separuh; 差す termasuk pemakaian payung; 15分, 30分, 45分 sebagai jumlah menit/komponen jam. 一日 tetapいちにち untuk satu hari, dan 一月 tetapひとつき untuk durasi satu bulan; tidak disamakan denganついたち danいちがつ. 方, 一日 dan 一月 masih dicatat untuk tinjauan pemisahan makna menyeluruh.
 
 ## Rujukan
 
-- Japan Foundation, Irodori 入門: https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf — istilah kehidupan sehari-hari dan konteks bagian kebutuhan rumah tangga untuk 暮らし.
-- Japan Foundation, Marugoto Starter Indonesia: https://marugoto.jpf.go.jp/assets/docs/download/starter_a/MarugotoStarterWordbook_ID.pdf — bacaan tanggal dan bulan.
-- Japan Foundation, くれます: https://www.kyozai.jpf.go.jp/kyozai/material/BMA00083/ja/render.do — pemberi bukan penutur dalam pemakaian biasa, penerima penutur atau pihaknya.
-- Shogakukan, Digital Daijisen melalui Kotobank: https://kotobank.jp/word/半分-607292 — setengah/separuh; https://kotobank.jp/word/差す-510683 — termasuk pemakaian payung.
+- Japan Foundation Irodori 入門: https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf — konteks istilah sehari-hari; 中人 = chuunin/student pada bagian tarif, serta kebutuhan rumah tangga.
+- Japan Foundation Marugoto Starter Indonesia: https://marugoto.jpf.go.jp/assets/docs/download/starter_a/MarugotoStarterWordbook_ID.pdf — bacaan tanggal dan bulan.
+- Japan Foundation くれます: https://www.kyozai.jpf.go.jp/kyozai/material/BMA00083/ja/render.do — arah pemberian untuk koreksi batch 10.
+- Shogakukan melalui Kotobank: https://kotobank.jp/word/半分-607292 ; https://kotobank.jp/word/差す-510683 ; https://kotobank.jp/word/まつち-3187417 ; https://kotobank.jp/word/すてーじ-3212778 ; https://kotobank.jp/word/ちえつくいん-3213884 ; https://kotobank.jp/word/真つ赤-634742 ; https://kotobank.jp/word/真つ白-634896 .
 
-Contoh baru ditulis orisinal. Rujukan dipakai untuk memeriksa titik bahasa tertentu, bukan mengklaim penerbit meninjau semua kalimat atau semua kalimat berada dalam silabus ujian N5 resmi.
+Semua contoh editorial ditulis orisinal. Sumber dipakai untuk memeriksa titik bahasa tertentu, bukan klaim penerbit telah mengesahkan seluruh kalimat.
 
-## Yang masih perlu dilanjutkan
+## Verifikasi
 
-Antrean mekanis tersisa 620: 592 bingkai identifikasi “Ini …” dan 28 bingkai waktu + belajar. Bingkai sederhana tidak otomatis salah; antrean membantu memprioritaskan penggantian dengan situasi yang lebih berguna. Ada 744 kartu lainnya di luar 427 koreksi dan antrean tersebut, termasuk contoh lama yang sudah lebih kontekstual dan ungkapan pendek yang wajar. Jangan mengartikan angka 620 sebagai jumlah semua kesalahan tersisa.
+Semua 1.047 kalimat editorial berbeda, bacaan tidak menyisakan kanji dan konversi romaji tidak menyisakan kana. Pemeriksaan terhadap batch 10 menemukan tepat 620 field example dan enam field meaning berubah. Tidak ada ID/kategori/sumber/bacaan kepala entri yang berubah. Semua data N4, 2.225 contoh editorial N4 dan desain kartu terbaru dipertahankan; hasil romaji mendapat perbaikan helper bersama.
 
-Laporan JSON juga mencatat 40 kalimat yang digunakan oleh lebih dari satu kartu, termasuk kata/ungkapan yang bertumpang tindih. Duplikasi kalimat bukan duplikasi kartu atau bukti kalimat salah. Arti majemuk seperti マッチ, 方, 一日 dan 一月 tetap dicatat untuk audit leksikal berikutnya; paket ini tidak menggabungkan/menghapusnya.
-
-## Verifikasi dan pemeliharaan
-
-- Seluruh 1.791 kartu memiliki field contoh lengkap; pemindaian kanji pada bacaan dan pola tanda baca/terjemahan terpotong yang ditentukan tidak lagi menghasilkan flag. Ini tidak menggantikan penilaian bahasa per kalimat.
-- Semua 427 contoh baru sesuai dengan data editorial tersimpan; konversi romaji teruji tanpa kana tersisa. Spasi kana disimpan secara manual, bukan letter-spacing CSS.
-- ID, urutan, bacaan kata utama, kategori, sumber, favorit, dan jumlah kartu dipertahankan. Perbandingan hanya menemukan 427 field contoh dan lima field arti berubah pada kartu N5. Semua data N4 dan desain kartu batch 9 identik.
-- Koreksi diterapkan sesudah cleanup dalam build-kotoba-data.py agar bertahan saat rebuild. Dua build penuh dari normalisasi menghasilkan data/bundle identik.
-- Semua 40 berkas tes lulus. Installer kumulatif diuji dari baseline awal dan batch 9; membuat backup dan menolak konflik. Tidak melakukan push atau deployment otomatis. Belum menguji perangkat Android fisik untuk batch ini.
+Dua build penuh dari normalisasi menghasilkan data/bundle dan laporan identik. Semua 40 berkas tes lulus, mencakup pelestarian 427 koreksi sebelumnya, konteks ha/wa, nilai angka dan nol antrean. Paket kumulatif diuji pada salinan versi awal dan batch 10. Installer membuat cadangan, menolak konflik dan memulihkan file bila tes gagal. Tidak melakukan push/deployment otomatis; belum uji Android fisik untuk batch ini.

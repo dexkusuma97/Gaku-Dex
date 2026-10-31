@@ -113,3 +113,10 @@ Daftar memilih arti pertama berdasarkan pemisah slash/titik koma di luar tanda k
 Pemeriksaan struktur seluruh 1.791 kartu N5 dan pembenahan 427 contoh orisinal dengan bacaan berspasi/romaji teruji. Termasuk 118 bingkai tas, 132 kata kerja, kesalahan makan/minum objek yang tidak sesuai, pemberi/penerimaくれる, tanggal versus durasi, serta nilai yen yang terpotong. Lima arti diperjelas: 半分, 差す, 15分, 30分, 45分. Rincian, contoh sebelum/sesudah dan sumber ada di data/KOTOBA_N5_REVIEW_20261031.md; rekaman sebelum dan patch ada di data/kotoba-n5-context-examples.json.
 
 Antrean mekanis tersisa 620 (592 identifikasi, 28 waktu+belajar). Bingkai bukan vonis salah; 744 kartu di luar koreksi dan antrean juga tidak dianggap tersertifikasi. Empat kata majemuk/ambigu dicatat untuk audit leksikal berikutnya. N5 tetap 1.791; N4 3.215; seluruh data N4, 2.225 contoh N4 dan desain kartu batch 9 dipertahankan. Semua 40 berkas tes lulus dan rebuild penuh stabil; belum uji Android fisik. Paket kumulatif menerima versi dikenal sebelumnya, membuat cadangan dan tidak melakukan deployment otomatis.
+
+
+## 31 Oktober 2026 — Batch 11: 620 contoh N5 dalam antrean ditangani
+
+Tambahan 620 contoh, total 1.047 contoh editorial N5 yang berbeda; 427 rekaman batch 10 tetap persis. 542 pengganti ditulis per entri dan 78 pola paralel ditinjau untuk keluarga angka. Antrean identifikasi/waktu+belajar menjadi nol; 744 kartu lain serta audit arti/bacaan menyeluruh tidak dianggap otomatis selesai. N5 1.791 dan N4 3.215; ID, sumber, kategori, desain kartu dan semua contoh N4 dipertahankan.
+
+Enam arti diperjelas: マッチ (makna olahraga yang sudah diajarkan), ステージ, チェックイン, 真っ赤, 真っ白, 中人 (kategori tarif pelajar). Rujukan dan batas lingkup ada di data/KOTOBA_N5_REVIEW_20261031.md. Helper romaji bersama membedakan nominaは sebelum partikel dari partikel topikは, dengan regresi ha o/ha ga/ha wa dan watashi wa. Seluruh 40 berkas tes lulus dan dua rebuild penuh stabil. Paket kumulatif, backup/conflict gate, tanpa deployment otomatis; belum uji Android fisik.
