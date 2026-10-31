@@ -1113,3 +1113,15 @@ Audit empat PDF (476 halaman fisik). Tambahkan 115 materi N4 dalam 14 kategori, 
 - Tambah 35 contoh kontekstual untuk anggota tubuh dan kebutuhan sehari-hari: total 173. Antrean bingkai berulang tersisa 2.064. Belum menyelesaikan audit seluruh N4 atau menambahkan spasi pada seluruh contoh lama di luar 173 ini.
 - Paket kumulatif terhadap ZIP awal, cocok dengan baseline awal atau batch 1. Installer membuat backup, menolak isi file tak dikenal, dan memulihkan file target bila tes gagal.
 - Seluruh 37 berkas tes lulus, termasuk output romaji dengan spasi dan konsistensi teks kana/Jepang. Tidak mengubah audio, gambar, atau workflow deployment.
+
+
+## 31 Oktober 2026 — Batch 3: total 500 contoh kontekstual
+
+- Tambah 327 contoh baru ke 173 contoh sebelumnya; total 500, seluruhnya unik dan memakai spasi pada kolom bacaan. Jepang utama tetap tanpa spasi bantuan. Romaji mengikuti segmentasi bacaan, bukan CSS letter-spacing.
+- Kelompok mencakup perjalanan, keluarga, pekerjaan, makanan, kegiatan, acara, dan ungkapan sehari-hari. ID dan kategori kartu tetap, N5 1.791 dan N4 3.227.
+- Sisa antrean bingkai berulang 1.737. Belum mengklaim audit seluruh 3.227 kata atau seluruh contoh lama selesai.
+- 14 dugaan masalah leksikal (arti bercampur, kepala entri/bacaan berbeda, nama orang yang lolos) dicatat dalam data/kotoba-n4-lexical-review-pending.json. Belum dikoreksi, perlu bukti sumber dan penanganan ID sebelum perubahan.
+- Build penuh dari data normalisasi dijalankan: seluruh record aktif identik sebelum/sesudah rebuild. Tes 37 berkas lulus; seluruh 500 contoh tetap terpasang, terpisah romajinya dan tak mengubah teks Jepang saat spasi dihapus.
+- Installer kumulatif batch 3 menerima ZIP awal, batch 1, batch 2, serta pemasangan ulang batch 3; tanpa deployment otomatis.
+
+- Batch 3 juga memperbaiki romanisasi gabungan katakana asing (misalnya ウォ, ティ, ファ) di helper bersama; grid kana tidak berubah. Tes semua 500 contoh memastikan tidak ada kana tersisa di romaji.

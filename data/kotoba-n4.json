@@ -7,9 +7,9 @@
     "description": "Kosakata lanjutan N4 / A2; kata seru pengisi dan kata yang sudah tersedia di N5 dikeluarkan.",
     "examplePolicy": "Contoh Jepang, kana, dan arti Indonesia. Ungkapan dan hitungan memakai contoh khusus; sebagian kata memakai pola kalimat sederhana yang berulang.",
     "examplesMissing": 0,
-    "levelPolicyVersion": 2,
     "contextReviewDate": "2026-10-31",
-    "contextReviewCount": 173
+    "contextReviewCount": 500,
+    "levelPolicyVersion": 2
   },
   "sources": [
     {
@@ -233,9 +233,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "秋葉原について教えてください。",
-        "kana": "あきはばら に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Akihabara."
+        "jp": "あきはばらでパソコンをかいました。",
+        "kana": "あきはばら で パソコン を かいました。",
+        "meaning": "Saya membeli komputer di Akihabara."
       },
       "romaji": "akihabara"
     },
@@ -461,9 +461,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "アメリカについて教えてください。",
-        "kana": "あめりか に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Amerika."
+        "jp": "あにはアメリカにすんでいます。",
+        "kana": "あに は アメリカ に すんで います。",
+        "meaning": "Kakak laki-laki saya tinggal di Amerika Serikat."
       },
       "romaji": "amerika"
     },
@@ -624,9 +624,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "イギリスについて教えてください。",
-        "kana": "いぎりす に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Inggris."
+        "jp": "イギリスにりゅうがくしたいです。",
+        "kana": "イギリス に りゅうがく したい です。",
+        "meaning": "Saya ingin belajar di Inggris."
       },
       "romaji": "igirisu"
     },
@@ -690,9 +690,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "イタリアについて教えてください。",
-        "kana": "いたりあ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Italia."
+        "jp": "イタリアでピザをたべました。",
+        "kana": "イタリア で ピザ を たべました。",
+        "meaning": "Saya makan pizza di Italia."
       },
       "romaji": "itaria"
     },
@@ -1033,9 +1033,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "インドについて教えてください。",
-        "kana": "いんど に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang India."
+        "jp": "ともだちはインドからきました。",
+        "kana": "ともだち は インド から きました。",
+        "meaning": "Teman saya berasal dari India."
       },
       "romaji": "indo"
     },
@@ -1109,9 +1109,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "上野について教えてください。",
-        "kana": "うえの に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Ueno."
+        "jp": "うえののこうえんをさんぽしました。",
+        "kana": "うえの の こうえん を さんぽ しました。",
+        "meaning": "Saya berjalan-jalan di taman di Ueno."
       },
       "romaji": "ueno"
     },
@@ -1599,9 +1599,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "大阪について教えてください。",
-        "kana": "おおさか に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Osaka."
+        "jp": "しんかんせんでおおさかにいきます。",
+        "kana": "しんかんせん で おおさか に いきます。",
+        "meaning": "Saya akan pergi ke Osaka dengan shinkansen."
       },
       "romaji": "oosaka"
     },
@@ -2506,9 +2506,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "カイロについて教えてください。",
-        "kana": "かいろ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Cairo."
+        "jp": "カイロのホテルにとまりました。",
+        "kana": "カイロ の ホテル に とまりました。",
+        "meaning": "Saya menginap di hotel di Kairo."
       },
       "romaji": "kairo"
     },
@@ -3431,9 +3431,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "銀座について教えてください。",
-        "kana": "ぎんざ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Ginza."
+        "jp": "ぎんざでともだちとあいました。",
+        "kana": "ぎんざ で ともだち と あいました。",
+        "meaning": "Saya bertemu teman di Ginza."
       },
       "romaji": "ginza"
     },
@@ -3670,9 +3670,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ゲームセンターについて教えてください。",
-        "kana": "げーむせんたー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang game center."
+        "jp": "ほうかご、ゲームセンターにいきました。",
+        "kana": "ほうかご、ゲームセンター に いきました。",
+        "meaning": "Sepulang sekolah saya pergi ke pusat permainan."
       },
       "romaji": "geemusentaa"
     },
@@ -3907,9 +3907,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "皇居について教えてください。",
-        "kana": "こうきょ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang istana kekaisaran Tokyo."
+        "jp": "こうきょのちかくをはしりました。",
+        "kana": "こうきょ の ちかく を はしりました。",
+        "meaning": "Saya berlari di dekat Istana Kekaisaran."
       },
       "romaji": "koukyo"
     },
@@ -4936,9 +4936,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "札幌について教えてください。",
-        "kana": "さっぽろ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Sapporo."
+        "jp": "ふゆのさっぽろはとてもさむいです。",
+        "kana": "ふゆ の さっぽろ は とても さむい です。",
+        "meaning": "Sapporo sangat dingin pada musim dingin."
       },
       "romaji": "sapporo"
     },
@@ -5127,9 +5127,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "サンパウロについて教えてください。",
-        "kana": "さんぱうろ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Sao Paulo."
+        "jp": "サンパウロにすんでいるともだちがいます。",
+        "kana": "サンパウロ に すんで いる ともだち が います。",
+        "meaning": "Saya punya teman yang tinggal di São Paulo."
       },
       "romaji": "sanpauro"
     },
@@ -5368,9 +5368,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "シドニーについて教えてください。",
-        "kana": "しどにー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Sydney."
+        "jp": "シドニーでうみをみました。",
+        "kana": "シドニー で うみ を みました。",
+        "meaning": "Saya melihat laut di Sydney."
       },
       "romaji": "shidonii"
     },
@@ -5430,9 +5430,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ジャカルタについて教えてください。",
-        "kana": "じゃかるた に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Jakarta."
+        "jp": "ジャカルタのかいしゃではたらいています。",
+        "kana": "ジャカルタ の かいしゃ で はたらいて います。",
+        "meaning": "Saya bekerja di perusahaan di Jakarta."
       },
       "romaji": "jakaruta"
     },
@@ -6275,9 +6275,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "スカイツリーについて教えてください。",
-        "kana": "すかいつりー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Tokyo Skytree."
+        "jp": "スカイツリーからまちをみました。",
+        "kana": "スカイツリー から まち を みました。",
+        "meaning": "Saya melihat kota dari Tokyo Skytree."
       },
       "romaji": "sukaitsurii"
     },
@@ -6540,9 +6540,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "スペインについて教えてください。",
-        "kana": "すぺいん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Spanyol."
+        "jp": "らいねんスペインにいくよていです。",
+        "kana": "らいねん スペイン に いく よてい です。",
+        "meaning": "Saya berencana pergi ke Spanyol tahun depan."
       },
       "romaji": "supein"
     },
@@ -6833,9 +6833,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ソウルについて教えてください。",
-        "kana": "そうる に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Seoul."
+        "jp": "ソウルまでひこうきでいきました。",
+        "kana": "ソウル まで ひこうき で いきました。",
+        "meaning": "Saya pergi ke Seoul dengan pesawat."
       },
       "romaji": "souru"
     },
@@ -7215,9 +7215,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "タウンについて教えてください。",
-        "kana": "たうん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kota."
+        "jp": "このタウンにはこうえんがたくさんあります。",
+        "kana": "この タウン に は こうえん が たくさん あります。",
+        "meaning": "Ada banyak taman di kota ini."
       },
       "romaji": "taun"
     },
@@ -7302,9 +7302,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "タコスについて教えてください。",
-        "kana": "たこす に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang taco."
+        "jp": "ひるごはんにタコスをたべました。",
+        "kana": "ひるごはん に タコス を たべました。",
+        "meaning": "Saya makan taco untuk makan siang."
       },
       "romaji": "takosu"
     },
@@ -7858,9 +7858,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "中国について教えてください。",
-        "kana": "ちゅうごく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Tiongkok."
+        "jp": "ちゅうごくのともだちにてがみをかきました。",
+        "kana": "ちゅうごく の ともだち に てがみ を かきました。",
+        "meaning": "Saya menulis surat kepada teman di Tiongkok."
       },
       "romaji": "chuugoku"
     },
@@ -8051,9 +8051,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "築地について教えてください。",
-        "kana": "つきじ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Tsukiji."
+        "jp": "つきじですしをたべました。",
+        "kana": "つきじ で すし を たべました。",
+        "meaning": "Saya makan sushi di Tsukiji."
       },
       "romaji": "tsukiji"
     },
@@ -8155,9 +8155,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "つたえることもあります。",
-        "kana": "つたえる ことも あります。",
-        "meaning": "Ada kalanya menyampaikan pesan."
+        "jp": "このメッセージをせんせいにつたえてください。",
+        "kana": "この メッセージ を せんせい に つたえて ください。",
+        "meaning": "Tolong sampaikan pesan ini kepada guru."
       },
       "romaji": "tsutaeru"
     },
@@ -8228,9 +8228,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "つもることもあります。",
-        "kana": "つもる ことも あります。",
-        "meaning": "Ada kalanya menumpuk."
+        "jp": "あさにはゆきがつもっていました。",
+        "kana": "あさ に は ゆき が つもって いました。",
+        "meaning": "Salju sudah menumpuk saat pagi tiba."
       },
       "romaji": "tsumoru"
     },
@@ -8438,9 +8438,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ドイツについて教えてください。",
-        "kana": "どいつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Jerman."
+        "jp": "ドイツででんしゃにのりました。",
+        "kana": "ドイツ で でんしゃ に のりました。",
+        "meaning": "Saya naik kereta di Jerman."
       },
       "romaji": "doitsu"
     },
@@ -8546,9 +8546,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "到着することもあります。",
-        "kana": "とうちゃくする ことも あります。",
-        "meaning": "Ada kalanya tiba."
+        "jp": "ひこうきはごじにとうちゃくします。",
+        "kana": "ひこうき は ごじ に とうちゃく します。",
+        "meaning": "Pesawat akan tiba pukul lima."
       },
       "romaji": "touchakusuru"
     },
@@ -8700,9 +8700,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "富山について教えてください。",
-        "kana": "とやま に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Toyama."
+        "jp": "とやまでしんせんなさかなをたべました。",
+        "kana": "とやま で しんせんな さかな を たべました。",
+        "meaning": "Saya makan ikan segar di Toyama."
       },
       "romaji": "toyama"
     },
@@ -8806,9 +8806,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "トレーニングすることもあります。",
-        "kana": "とれーにんぐする ことも あります。",
-        "meaning": "Ada kalanya berlatih."
+        "jp": "しあいのためにまいにちトレーニングしています。",
+        "kana": "しあい の ため に まいにち トレーニング して います。",
+        "meaning": "Saya berlatih setiap hari untuk pertandingan."
       },
       "romaji": "toreeningusuru"
     },
@@ -8947,9 +8947,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "にあうこともあります。",
-        "kana": "にあう ことも あります。",
-        "meaning": "Ada kalanya cocok."
+        "jp": "そのぼうしはあなたによくにあいます。",
+        "kana": "その ぼうし は あなた に よく にあいます。",
+        "meaning": "Topi itu sangat cocok untuk Anda."
       },
       "romaji": "niau"
     },
@@ -9114,9 +9114,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "にゅうがくすることもあります。",
-        "kana": "にゅうがくする ことも あります。",
-        "meaning": "Ada kalanya masuk sekolah."
+        "jp": "むすこはしがつににゅうがくします。",
+        "kana": "むすこ は しがつ に にゅうがく します。",
+        "meaning": "Anak laki-laki saya akan masuk sekolah pada bulan April."
       },
       "romaji": "nyuugakusuru"
     },
@@ -9176,9 +9176,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ニューヨークについて教えてください。",
-        "kana": "にゅーよーく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang New York."
+        "jp": "ニューヨークでミュージカルをみたいです。",
+        "kana": "ニューヨーク で ミュージカル を みたい です。",
+        "meaning": "Saya ingin menonton musikal di New York."
       },
       "romaji": "nyuuyooku"
     },
@@ -9742,9 +9742,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "原宿について教えてください。",
-        "kana": "はらじゅく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Harajuku."
+        "jp": "はらじゅくでふくをかいました。",
+        "kana": "はらじゅく で ふく を かいました。",
+        "meaning": "Saya membeli pakaian di Harajuku."
       },
       "romaji": "harajuku"
     },
@@ -9771,9 +9771,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "バルセロナについて教えてください。",
-        "kana": "ばるせろな に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Barcelona."
+        "jp": "バルセロナのしゃしんをとりました。",
+        "kana": "バルセロナ の しゃしん を とりました。",
+        "meaning": "Saya mengambil foto Barcelona."
       },
       "romaji": "baruserona"
     },
@@ -10127,9 +10127,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ひまわりについて教えてください。",
-        "kana": "ひまわり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang bunga matahari."
+        "jp": "にわにひまわりがさいています。",
+        "kana": "にわ に ひまわり が さいて います。",
+        "meaning": "Bunga matahari sedang mekar di halaman."
       },
       "romaji": "himawari"
     },
@@ -10271,9 +10271,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "福岡について教えてください。",
-        "kana": "ふくおか に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Fukuoka."
+        "jp": "ふくおかでラーメンをたべました。",
+        "kana": "ふくおか で ラーメン を たべました。",
+        "meaning": "Saya makan ramen di Fukuoka."
       },
       "romaji": "fukuoka"
     },
@@ -10415,9 +10415,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "フランスについて教えてください。",
-        "kana": "ふらんす に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Prancis."
+        "jp": "フランスにいったことがあります。",
+        "kana": "フランス に いった こと が あります。",
+        "meaning": "Saya pernah pergi ke Prancis."
       },
       "romaji": "furansu"
     },
@@ -10490,9 +10490,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "プリントアウトすることもあります。",
-        "kana": "ぷりんとあうとする ことも あります。",
-        "meaning": "Ada kalanya mencetak."
+        "jp": "このしょるいをプリントアウトしてください。",
+        "kana": "この しょるい を プリントアウト して ください。",
+        "meaning": "Tolong cetak dokumen ini."
       },
       "romaji": "purintoautosuru"
     },
@@ -10737,9 +10737,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "北京について教えてください。",
-        "kana": "ぺきん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Beijing."
+        "jp": "ぺきんでちゅうごくごをべんきょうしました。",
+        "kana": "ぺきん で ちゅうごくご を べんきょう しました。",
+        "meaning": "Saya belajar bahasa Mandarin di Beijing."
       },
       "romaji": "pekin"
     },
@@ -10867,9 +10867,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "北海道について教えてください。",
-        "kana": "ほっかいどう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Hokkaido."
+        "jp": "なつやすみにほっかいどうをりょこうします。",
+        "kana": "なつやすみ に ほっかいどう を りょこう します。",
+        "meaning": "Saya akan berwisata ke Hokkaido saat liburan musim panas."
       },
       "romaji": "hokkaidou"
     },
@@ -10937,9 +10937,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ポルトガルについて教えてください。",
-        "kana": "ぽるとがる に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Portugal."
+        "jp": "ポルトガルのおかしをもらいました。",
+        "kana": "ポルトガル の おかし を もらいました。",
+        "meaning": "Saya mendapat kue dari Portugal."
       },
       "romaji": "porutogaru"
     },
@@ -11140,9 +11140,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ほんやくすることもあります。",
-        "kana": "ほんやくする ことも あります。",
-        "meaning": "Ada kalanya menerjemahkan."
+        "jp": "にほんごのメールをインドネシアごにほんやくしました。",
+        "kana": "にほんご の メール を インドネシアご に ほんやく しました。",
+        "meaning": "Saya menerjemahkan surel berbahasa Jepang ke bahasa Indonesia."
       },
       "romaji": "honyakusuru"
     },
@@ -11176,9 +11176,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "まげることもあります。",
-        "kana": "まげる ことも あります。",
-        "meaning": "Ada kalanya membengkokkan."
+        "jp": "ひざをゆっくりまげてください。",
+        "kana": "ひざ を ゆっくり まげて ください。",
+        "meaning": "Silakan tekuk lutut perlahan."
       },
       "romaji": "mageru"
     },
@@ -11212,9 +11212,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "まちあわせすることもあります。",
-        "kana": "まちあわせする ことも あります。",
-        "meaning": "Ada kalanya bertemu."
+        "jp": "えきのまえでともだちとまちあわせします。",
+        "kana": "えき の まえ で ともだち と まちあわせ します。",
+        "meaning": "Saya akan bertemu teman di depan stasiun sesuai janji."
       },
       "romaji": "machiawasesuru"
     },
@@ -11256,9 +11256,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "まちがえることもあります。",
-        "kana": "まちがえる ことも あります。",
-        "meaning": "Ada kalanya membuat kesalahan."
+        "jp": "でんわばんごうをまちがえました。",
+        "kana": "でんわばんごう を まちがえました。",
+        "meaning": "Saya salah menekan nomor telepon."
       },
       "romaji": "machigaeru"
     },
@@ -11347,9 +11347,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "まようこともあります。",
-        "kana": "まよう ことも あります。",
-        "meaning": "Ada kalanya tersesat."
+        "jp": "みちにまよったので、ひとにききました。",
+        "kana": "みち に まよった ので、ひと に ききました。",
+        "meaning": "Saya bertanya kepada seseorang karena tersesat."
       },
       "romaji": "mayou"
     },
@@ -11384,9 +11384,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "マレーシアについて教えてください。",
-        "kana": "まれーしあ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Malaysia."
+        "jp": "マレーシアにすんだことがあります。",
+        "kana": "マレーシア に すんだ こと が あります。",
+        "meaning": "Saya pernah tinggal di Malaysia."
       },
       "romaji": "mareeshia"
     },
@@ -11465,9 +11465,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "見えることもあります。",
-        "kana": "みえる ことも あります。",
-        "meaning": "Ada kalanya terlihat."
+        "jp": "ここからやまがみえます。",
+        "kana": "ここ から やま が みえます。",
+        "meaning": "Gunung terlihat dari sini."
       },
       "romaji": "mieru"
     },
@@ -11793,9 +11793,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "むりすることもあります。",
-        "kana": "むりする ことも あります。",
-        "meaning": "Ada kalanya memaksakan diri."
+        "jp": "つかれているときはむりしないでください。",
+        "kana": "つかれて いる とき は むり しないで ください。",
+        "meaning": "Jangan memaksakan diri ketika lelah."
       },
       "romaji": "murisuru"
     },
@@ -11863,9 +11863,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "メキシコについて教えてください。",
-        "kana": "めきしこ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Meksiko."
+        "jp": "メキシコのりょうりをつくりました。",
+        "kana": "メキシコ の りょうり を つくりました。",
+        "meaning": "Saya membuat masakan Meksiko."
       },
       "romaji": "mekishiko"
     },
@@ -12009,9 +12009,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "モスクワについて教えてください。",
-        "kana": "もすくわ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Moskow."
+        "jp": "モスクワのちずをみています。",
+        "kana": "モスクワ の ちず を みて います。",
+        "meaning": "Saya sedang melihat peta Moskow."
       },
       "romaji": "mosukuwa"
     },
@@ -12270,9 +12270,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "代々木について教えてください。",
-        "kana": "よよぎ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Yoyogi."
+        "jp": "よよぎのえきでおります。",
+        "kana": "よよぎ の えき で おります。",
+        "meaning": "Saya akan turun di stasiun di Yoyogi."
       },
       "romaji": "yoyogi"
     },
@@ -12319,9 +12319,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "よろこぶこともあります。",
-        "kana": "よろこぶ ことも あります。",
-        "meaning": "Ada kalanya bergembira."
+        "jp": "プレゼントをもらって、こどもがよろこびました。",
+        "kana": "プレゼント を もらって、こども が よろこびました。",
+        "meaning": "Anak itu gembira mendapat hadiah."
       },
       "romaji": "yorokobu"
     },
@@ -12417,9 +12417,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "りょうがえすることもあります。",
-        "kana": "りょうがえする ことも あります。",
-        "meaning": "Ada kalanya menukar uang."
+        "jp": "くうこうでおかねをりょうがえしました。",
+        "kana": "くうこう で おかね を りょうがえ しました。",
+        "meaning": "Saya menukar uang di bandara."
       },
       "romaji": "ryougaesuru"
     },
@@ -12461,9 +12461,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "リラックスすることもあります。",
-        "kana": "りらっくすする ことも あります。",
-        "meaning": "Ada kalanya bersantai."
+        "jp": "おんがくをきいてリラックスします。",
+        "kana": "おんがく を きいて リラックス します。",
+        "meaning": "Saya bersantai sambil mendengarkan musik."
       },
       "romaji": "rirakkususuru"
     },
@@ -12537,9 +12537,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ローマについて教えてください。",
-        "kana": "ろーま に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Roma."
+        "jp": "ローマでふるいたてものをみました。",
+        "kana": "ローマ で ふるい たてもの を みました。",
+        "meaning": "Saya melihat bangunan tua di Roma."
       },
       "romaji": "rooma"
     },
@@ -12566,9 +12566,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ロサンゼルスについて教えてください。",
-        "kana": "ろさんぜるす に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Los Angeles."
+        "jp": "ロサンゼルスにいるあねにあいにいきます。",
+        "kana": "ロサンゼルス に いる あね に あいに いきます。",
+        "meaning": "Saya akan mengunjungi kakak perempuan saya di Los Angeles."
       },
       "romaji": "rosanzerusu"
     },
@@ -12603,9 +12603,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ロシアについて教えてください。",
-        "kana": "ろしあ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Rusia."
+        "jp": "ロシアからにもつがとどきました。",
+        "kana": "ロシア から にもつ が とどきました。",
+        "meaning": "Paket dari Rusia sudah tiba."
       },
       "romaji": "roshia"
     },
@@ -12677,9 +12677,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ロンドンについて教えてください。",
-        "kana": "ろんどん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang London."
+        "jp": "ロンドンではくぶつかんにいきました。",
+        "kana": "ロンドン で はくぶつかん に いきました。",
+        "meaning": "Saya pergi ke museum di London."
       },
       "romaji": "rondon"
     },
@@ -12828,9 +12828,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "あうこともあります。",
-        "kana": "あう ことも あります。",
-        "meaning": "Ada kalanya cocok."
+        "jp": "このくつはあしにあいます。",
+        "kana": "この くつ は あし に あいます。",
+        "meaning": "Sepatu ini pas di kaki saya."
       },
       "romaji": "au"
     },
@@ -12857,9 +12857,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "アドバイザーについて教えてください。",
-        "kana": "あどばいざー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pemberi saran."
+        "jp": "アドバイザーにしごとのそうだんをしました。",
+        "kana": "アドバイザー に しごと の そうだん を しました。",
+        "meaning": "Saya berkonsultasi tentang pekerjaan dengan penasihat."
       },
       "romaji": "adobaizaa"
     },
@@ -12925,9 +12925,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "アメ横について教えてください。",
-        "kana": "あめよこ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Ameyoko."
+        "jp": "アメよこでおかしをかいました。",
+        "kana": "アメよこ で おかし を かいました。",
+        "meaning": "Saya membeli makanan ringan di Ameyoko."
       },
       "romaji": "ameyoko"
     },
@@ -13242,9 +13242,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "インドネシアについて教えてください。",
-        "kana": "いんどねしあ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Indonesia."
+        "jp": "インドネシアにはしまがたくさんあります。",
+        "kana": "インドネシア に は しま が たくさん あります。",
+        "meaning": "Indonesia memiliki banyak pulau."
       },
       "romaji": "indoneshia"
     },
@@ -13442,9 +13442,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "オーストラリアについて教えてください。",
-        "kana": "おーすとらりあ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Australia."
+        "jp": "オーストラリアでコアラをみました。",
+        "kana": "オーストラリア で コアラ を みました。",
+        "meaning": "Saya melihat koala di Australia."
       },
       "romaji": "oosutoraria"
     },
@@ -13473,9 +13473,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "オーストラリア人について教えてください。",
-        "kana": "おーすとらりあじん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang orang Australia."
+        "jp": "となりのひとはオーストラリアじんです。",
+        "kana": "となり の ひと は オーストラリアじん です。",
+        "meaning": "Orang di sebelah saya orang Australia."
       },
       "romaji": "oosutorariajin"
     },
@@ -13520,9 +13520,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お子さんについて教えてください。",
-        "kana": "おこさん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang anak."
+        "jp": "おこさんはなんにんいらっしゃいますか。",
+        "kana": "おこさん は なんにん いらっしゃいますか。",
+        "meaning": "Anda memiliki berapa anak?"
       },
       "romaji": "okosan"
     },
@@ -13549,9 +13549,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おじいちゃんについて教えてください。",
-        "kana": "おじいちゃん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kakek."
+        "jp": "おじいちゃんとしょうぎをしました。",
+        "kana": "おじいちゃん と しょうぎ を しました。",
+        "meaning": "Saya bermain shogi bersama kakek."
       },
       "romaji": "ojiichan"
     },
@@ -13588,9 +13588,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お仕事について教えてください。",
-        "kana": "おしごと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pekerjaan."
+        "jp": "おしごとはなんじにおわりますか。",
+        "kana": "おしごと は なんじ に おわりますか。",
+        "meaning": "Pukul berapa pekerjaan Anda selesai?"
       },
       "romaji": "oshigoto"
     },
@@ -13619,9 +13619,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お台場について教えてください。",
-        "kana": "おだいば に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Odaiba."
+        "jp": "おだいばでうみをみながらさんぽしました。",
+        "kana": "おだいば で うみ を みながら さんぽ しました。",
+        "meaning": "Saya berjalan-jalan sambil melihat laut di Odaiba."
       },
       "romaji": "odaiba"
     },
@@ -13650,9 +13650,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お出かけについて教えてください。",
-        "kana": "おでかけ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang bepergian."
+        "jp": "あしたはごかぞくとおでかけですか。",
+        "kana": "あした は ごかぞく と おでかけ ですか。",
+        "meaning": "Apakah besok Anda akan bepergian bersama keluarga?"
       },
       "romaji": "odekake"
     },
@@ -13693,9 +13693,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "男の人について教えてください。",
-        "kana": "おとこのひと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pria dewasa."
+        "jp": "あのおとこのひとがバスのうんてんしゅです。",
+        "kana": "あの おとこのひと が バス の うんてんしゅ です。",
+        "meaning": "Pria itu adalah sopir bus."
       },
       "romaji": "otokonohito"
     },
@@ -13746,9 +13746,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おどることもあります。",
-        "kana": "おどる ことも あります。",
-        "meaning": "Ada kalanya menari."
+        "jp": "おんがくにあわせておどりました。",
+        "kana": "おんがく に あわせて おどりました。",
+        "meaning": "Saya menari mengikuti irama musik."
       },
       "romaji": "odoru"
     },
@@ -13785,9 +13785,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お願いについて教えてください。",
-        "kana": "おねがい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang permohonan."
+        "jp": "ひとつおねがいがあります。",
+        "kana": "ひとつ おねがい が あります。",
+        "meaning": "Saya punya satu permintaan."
       },
       "romaji": "onegai"
     },
@@ -13818,9 +13818,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おばあちゃんについて教えてください。",
-        "kana": "おばあちゃん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang nenek."
+        "jp": "おばあちゃんにでんわをしました。",
+        "kana": "おばあちゃん に でんわ を しました。",
+        "meaning": "Saya menelepon nenek."
       },
       "romaji": "obaachan"
     },
@@ -13847,9 +13847,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おばけやしきについて教えてください。",
-        "kana": "おばけやしき に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang rumah hantu."
+        "jp": "おばけやしきにはいるのはこわいです。",
+        "kana": "おばけやしき に はいる の は こわい です。",
+        "meaning": "Saya takut masuk rumah hantu."
       },
       "romaji": "obakeyashiki"
     },
@@ -13890,9 +13890,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "思い出について教えてください。",
-        "kana": "おもいで に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang memori."
+        "jp": "このしゃしんにはおもいでがたくさんあります。",
+        "kana": "この しゃしん に は おもいで が たくさん あります。",
+        "meaning": "Ada banyak kenangan dalam foto ini."
       },
       "romaji": "omoide"
     },
@@ -13929,9 +13929,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "女の人について教えてください。",
-        "kana": "おんなのひと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang wanita."
+        "jp": "あのおんなのひとはわたしのせんせいです。",
+        "kana": "あの おんなのひと は わたし の せんせい です。",
+        "meaning": "Wanita itu adalah guru saya."
       },
       "romaji": "onnanohito"
     },
@@ -14036,9 +14036,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かいしゃいんについて教えてください。",
-        "kana": "かいしゃいん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pegawai kantor."
+        "jp": "あにはかいしゃいんです。",
+        "kana": "あに は かいしゃいん です。",
+        "meaning": "Kakak laki-laki saya pegawai perusahaan."
       },
       "romaji": "kaishain"
     },
@@ -14077,9 +14077,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ガイドについて教えてください。",
-        "kana": "がいど に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pemandu."
+        "jp": "ガイドがまちのれきしをせつめいしました。",
+        "kana": "ガイド が まち の れきし を せつめい しました。",
+        "meaning": "Pemandu menjelaskan sejarah kota."
       },
       "romaji": "gaido"
     },
@@ -14147,9 +14147,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "葛飾柴又について教えてください。",
-        "kana": "かつしかしばまた に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Katsushika Shibamata."
+        "jp": "かつしかしばまたをともだちとあるきました。",
+        "kana": "かつしかしばまた を ともだち と あるきました。",
+        "meaning": "Saya berjalan-jalan di Katsushika Shibamata bersama teman."
       },
       "romaji": "katsushikashibamata"
     },
@@ -14186,9 +14186,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かつどうについて教えてください。",
-        "kana": "かつどう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang aktivitas."
+        "jp": "ちいきのかつどうにさんかしています。",
+        "kana": "ちいき の かつどう に さんか して います。",
+        "meaning": "Saya mengikuti kegiatan di lingkungan setempat."
       },
       "romaji": "katsudou"
     },
@@ -14221,9 +14221,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "金沢について教えてください。",
-        "kana": "かなざわ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Kanazawa."
+        "jp": "かなざわでにほんのにわをみました。",
+        "kana": "かなざわ で にほん の にわ を みました。",
+        "meaning": "Saya melihat taman bergaya Jepang di Kanazawa."
       },
       "romaji": "kanazawa"
     },
@@ -14254,9 +14254,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "カナダについて教えてください。",
-        "kana": "かなだ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Kanada."
+        "jp": "カナダからてがみがきました。",
+        "kana": "カナダ から てがみ が きました。",
+        "meaning": "Surat dari Kanada telah tiba."
       },
       "romaji": "kanada"
     },
@@ -14297,9 +14297,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かんこうきゃくについて教えてください。",
-        "kana": "かんこうきゃく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang wisatawan."
+        "jp": "このまちにはかんこうきゃくがおおいです。",
+        "kana": "この まち に は かんこうきゃく が おおい です。",
+        "meaning": "Ada banyak wisatawan di kota ini."
       },
       "romaji": "kankoukyaku"
     },
@@ -14326,9 +14326,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かんこうちずについて教えてください。",
-        "kana": "かんこうちず に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang peta daerah wisata."
+        "jp": "えきでかんこうちずをもらいました。",
+        "kana": "えき で かんこうちず を もらいました。",
+        "meaning": "Saya mendapat peta wisata di stasiun."
       },
       "romaji": "kankouchizu"
     },
@@ -14355,9 +14355,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かんこうバスについて教えてください。",
-        "kana": "かんこうばす に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang bus pariwisata."
+        "jp": "かんこうバスでおてらをまわりました。",
+        "kana": "かんこうバス で おてら を まわりました。",
+        "meaning": "Saya berkeliling mengunjungi kuil dengan bus wisata."
       },
       "romaji": "kankoubasu"
     },
@@ -14386,9 +14386,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "吉祥寺について教えてください。",
-        "kana": "きちじょうじ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Kichijoji."
+        "jp": "きちじょうじのカフェでやすみました。",
+        "kana": "きちじょうじ の カフェ で やすみました。",
+        "meaning": "Saya beristirahat di kafe di Kichijoji."
       },
       "romaji": "kichijouji"
     },
@@ -14417,9 +14417,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "起点について教えてください。",
-        "kana": "きてん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang titik awal."
+        "jp": "このえきがたびのきてんです。",
+        "kana": "この えき が たび の きてん です。",
+        "meaning": "Stasiun ini adalah titik awal perjalanan."
       },
       "romaji": "kiten"
     },
@@ -14460,9 +14460,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "気持ちについて教えてください。",
-        "kana": "きもち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang perasaan."
+        "jp": "じぶんのきもちをことばでつたえます。",
+        "kana": "じぶん の きもち を ことば で つたえます。",
+        "meaning": "Saya menyampaikan perasaan saya dengan kata-kata."
       },
       "romaji": "kimochi"
     },
@@ -14594,9 +14594,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "キャビネットについて教えてください。",
-        "kana": "きゃびねっと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kotak penyimpanan dokumen."
+        "jp": "しょるいはキャビネットにいれてください。",
+        "kana": "しょるい は キャビネット に いれて ください。",
+        "meaning": "Silakan simpan dokumen di lemari dokumen."
       },
       "romaji": "kyabinetto"
     },
@@ -14631,9 +14631,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "キャンプについて教えてください。",
-        "kana": "きゃんぷ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang perkemahan."
+        "jp": "なつにかぞくとキャンプにいきます。",
+        "kana": "なつ に かぞく と キャンプ に いきます。",
+        "meaning": "Saya akan pergi berkemah bersama keluarga pada musim panas."
       },
       "romaji": "kyanpu"
     },
@@ -14767,9 +14767,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "国立について教えてください。",
-        "kana": "くにたち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Kunitachi."
+        "jp": "くにたちにあるだいがくでまなびました。",
+        "kana": "くにたち に ある だいがく で まなびました。",
+        "meaning": "Saya belajar di universitas yang berada di Kunitachi."
       },
       "romaji": "kunitachi"
     },
@@ -14796,9 +14796,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "グラフについて教えてください。",
-        "kana": "ぐらふ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang grafik."
+        "jp": "グラフをみると、へんかがわかります。",
+        "kana": "グラフ を みる と、へんか が わかります。",
+        "meaning": "Perubahannya dapat diketahui dengan melihat grafik."
       },
       "romaji": "gurafu"
     },
@@ -14903,9 +14903,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "経由地について教えてください。",
-        "kana": "けいゆち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tempat transit."
+        "jp": "ひこうきのけいゆちをかくにんしました。",
+        "kana": "ひこうき の けいゆち を かくにん しました。",
+        "meaning": "Saya memeriksa tempat transit penerbangan."
       },
       "romaji": "keiyuchi"
     },
@@ -14932,9 +14932,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ゲストについて教えてください。",
-        "kana": "げすと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tamu."
+        "jp": "パーティーにゲストをよびました。",
+        "kana": "パーティー に ゲスト を よびました。",
+        "meaning": "Saya mengundang tamu ke pesta."
       },
       "romaji": "gesuto"
     },
@@ -14963,9 +14963,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "健康第一について教えてください。",
-        "kana": "けんこうだいいち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Kesehatan adalah yang pertama dan utama."
+        "jp": "けんこうだいいちですから、むりはしません。",
+        "kana": "けんこうだいいち ですから、むり は しません。",
+        "meaning": "Karena kesehatan yang utama, saya tidak memaksakan diri."
       },
       "romaji": "kenkoudaiichi"
     },
@@ -15002,9 +15002,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "件名について教えてください。",
-        "kana": "けんめい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang subjek."
+        "jp": "メールのけんめいをかえてください。",
+        "kana": "メール の けんめい を かえて ください。",
+        "meaning": "Silakan ubah subjek surel."
       },
       "romaji": "kenmei"
     },
@@ -15140,9 +15140,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ごしゅっさんについて教えてください。",
-        "kana": "ごしゅっさん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kelahiran."
+        "jp": "ごしゅっさんおめでとうございます。",
+        "kana": "ごしゅっさん おめでとう ございます。",
+        "meaning": "Selamat atas kelahiran anak Anda."
       },
       "romaji": "goshussan"
     },
@@ -15169,9 +15169,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "コスプレについて教えてください。",
-        "kana": "こすぷれ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang cosplay."
+        "jp": "イベントでコスプレをしました。",
+        "kana": "イベント で コスプレ を しました。",
+        "meaning": "Saya mengenakan kostum karakter di acara itu."
       },
       "romaji": "kosupure"
     },
@@ -15208,9 +15208,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "午前中について教えてください。",
-        "kana": "ごぜんちゅう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pagi."
+        "jp": "ごぜんちゅうにそうじをすませました。",
+        "kana": "ごぜんちゅう に そうじ を すませました。",
+        "meaning": "Saya menyelesaikan bersih-bersih sebelum tengah hari."
       },
       "romaji": "gozenchuu"
     },
@@ -15268,9 +15268,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "コンサルタントについて教えてください。",
-        "kana": "こんさるたんと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang konsultan."
+        "jp": "コンサルタントにけいかくをみてもらいました。",
+        "kana": "コンサルタント に けいかく を みて もらいました。",
+        "meaning": "Saya meminta konsultan meninjau rencana saya."
       },
       "romaji": "konsarutanto"
     },
@@ -15439,9 +15439,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ジェイポップについて教えてください。",
-        "kana": "じぇいぽっぷ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang J-pop."
+        "jp": "ジェイポップをよくききます。",
+        "kana": "ジェイポップ を よく ききます。",
+        "meaning": "Saya sering mendengarkan musik pop Jepang."
       },
       "romaji": "jeipoppu"
     },
@@ -15517,9 +15517,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "じこについて教えてください。",
-        "kana": "じこ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kecelakaan."
+        "jp": "じこででんしゃがとまりました。",
+        "kana": "じこ で でんしゃ が とまりました。",
+        "meaning": "Kereta berhenti akibat kecelakaan."
       },
       "romaji": "jiko"
     },
@@ -15581,9 +15581,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "品川について教えてください。",
-        "kana": "しながわ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Shinagawa."
+        "jp": "しながわでしんかんせんにのりました。",
+        "kana": "しながわ で しんかんせん に のりました。",
+        "meaning": "Saya naik shinkansen di Shinagawa."
       },
       "romaji": "shinagawa"
     },
@@ -15612,9 +15612,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "写真たてについて教えてください。",
-        "kana": "しゃしんたて に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang bingkai foto."
+        "jp": "しゃしんたてをつくえにおきました。",
+        "kana": "しゃしんたて を つくえ に おきました。",
+        "meaning": "Saya meletakkan bingkai foto di meja."
       },
       "romaji": "shashintate"
     },
@@ -15641,9 +15641,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ジャパン・エキスポについて教えてください。",
-        "kana": "じゃぱんえきすぽ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Japan Expo."
+        "jp": "ジャパン・エキスポにさんかしました。",
+        "kana": "ジャパン・エキスポ に さんか しました。",
+        "meaning": "Saya mengikuti Japan Expo."
       },
       "romaji": "japanekisupo"
     },
@@ -15767,9 +15767,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "しゅっさんについて教えてください。",
-        "kana": "しゅっさん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kelahiran."
+        "jp": "しゅっさんのあと、しばらくしごとをやすみました。",
+        "kana": "しゅっさん の あと、しばらく しごと を やすみました。",
+        "meaning": "Saya mengambil cuti kerja beberapa waktu setelah melahirkan."
       },
       "romaji": "shussan"
     },
@@ -15798,9 +15798,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "出発について教えてください。",
-        "kana": "しゅっぱつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang keberangkatan."
+        "jp": "しゅっぱつのまえににもつをかくにんします。",
+        "kana": "しゅっぱつ の まえ に にもつ を かくにん します。",
+        "meaning": "Saya memeriksa barang bawaan sebelum berangkat."
       },
       "romaji": "shuppatsu"
     },
@@ -15829,9 +15829,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "出発便について教えてください。",
-        "kana": "しゅっぱつびん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang penerbangan keberangkatan."
+        "jp": "しゅっぱつびんのじこくをしらべました。",
+        "kana": "しゅっぱつびん の じこく を しらべました。",
+        "meaning": "Saya memeriksa jadwal penerbangan keberangkatan."
       },
       "romaji": "shuppatsubin"
     },
@@ -15872,9 +15872,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "しょうがつについて教えてください。",
-        "kana": "しょうがつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tahun baru."
+        "jp": "しょうがつはかぞくとすごします。",
+        "kana": "しょうがつ は かぞく と すごします。",
+        "meaning": "Saya melewatkan Tahun Baru bersama keluarga."
       },
       "romaji": "shougatsu"
     },
@@ -15911,9 +15911,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "しょうせつについて教えてください。",
-        "kana": "しょうせつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang novel."
+        "jp": "ねるまえにしょうせつをよみます。",
+        "kana": "ねる まえ に しょうせつ を よみます。",
+        "meaning": "Saya membaca novel sebelum tidur."
       },
       "romaji": "shousetsu"
     },
@@ -15940,9 +15940,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "じょうだんについて教えてください。",
-        "kana": "じょうだん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang lelucon."
+        "jp": "じょうだんをいって、みんなをわらわせました。",
+        "kana": "じょうだん を いって、みんな を わらわせました。",
+        "meaning": "Saya membuat semua orang tertawa dengan melontarkan lelucon."
       },
       "romaji": "joudan"
     },
@@ -15981,9 +15981,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ショーについて教えてください。",
-        "kana": "しょー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pertunjukan."
+        "jp": "ステージでショーがはじまりました。",
+        "kana": "ステージ で ショー が はじまりました。",
+        "meaning": "Pertunjukan dimulai di panggung."
       },
       "romaji": "shoo"
     },
@@ -16028,9 +16028,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "食事について教えてください。",
-        "kana": "しょくじ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang makan."
+        "jp": "しょくじのまえにてをあらいます。",
+        "kana": "しょくじ の まえ に て を あらいます。",
+        "meaning": "Saya mencuci tangan sebelum makan."
       },
       "romaji": "shokuji"
     },
@@ -16151,9 +16151,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "スーツについて教えてください。",
-        "kana": "すーつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang setelan."
+        "jp": "めんせつにスーツをきていきました。",
+        "kana": "めんせつ に スーツ を きて いきました。",
+        "meaning": "Saya mengenakan setelan jas untuk wawancara."
       },
       "romaji": "suutsu"
     },
@@ -16224,9 +16224,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ストレッチについて教えてください。",
-        "kana": "すとれっち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang peregangan."
+        "jp": "うんどうのあとでストレッチをします。",
+        "kana": "うんどう の あと で ストレッチ を します。",
+        "meaning": "Saya melakukan peregangan setelah berolahraga."
       },
       "romaji": "sutorecchi"
     },
@@ -16265,9 +16265,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "スピーチについて教えてください。",
-        "kana": "すぴーち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pidato."
+        "jp": "みんなのまえでスピーチをしました。",
+        "kana": "みんな の まえ で スピーチ を しました。",
+        "meaning": "Saya berpidato di depan semua orang."
       },
       "romaji": "supiichi"
     },
@@ -16294,9 +16294,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "スポーツクラブについて教えてください。",
-        "kana": "すぽーつくらぶ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang klub olahraga."
+        "jp": "スポーツクラブにはいって、うんどうをはじめました。",
+        "kana": "スポーツクラブ に はいって、うんどう を はじめました。",
+        "meaning": "Saya bergabung dengan klub olahraga dan mulai berolahraga."
       },
       "romaji": "supootsukurabu"
     },
@@ -16327,9 +16327,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "せいかつについて教えてください。",
-        "kana": "せいかつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang hidup."
+        "jp": "にほんのせいかつになれました。",
+        "kana": "にほん の せいかつ に なれました。",
+        "meaning": "Saya sudah terbiasa dengan kehidupan di Jepang."
       },
       "romaji": "seikatsu"
     },
@@ -16391,9 +16391,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "センターについて教えてください。",
-        "kana": "せんたー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pusat."
+        "jp": "ちいきのセンターでにほんごをまなびます。",
+        "kana": "ちいき の センター で にほんご を まなびます。",
+        "meaning": "Saya belajar bahasa Jepang di pusat kegiatan masyarakat."
       },
       "romaji": "sentaa"
     },
@@ -16422,9 +16422,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "仙台について教えてください。",
-        "kana": "せんだい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Sendai."
+        "jp": "せんだいまでバスでいきました。",
+        "kana": "せんだい まで バス で いきました。",
+        "meaning": "Saya pergi ke Sendai dengan bus."
       },
       "romaji": "sendai"
     },
@@ -16458,9 +16458,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "そうだんすることもあります。",
-        "kana": "そうだんする ことも あります。",
-        "meaning": "Ada kalanya berdiskusi."
+        "jp": "しごとのことをせんせいにそうだんしました。",
+        "kana": "しごと の こと を せんせい に そうだん しました。",
+        "meaning": "Saya berkonsultasi tentang pekerjaan kepada guru."
       },
       "romaji": "soudansuru"
     },
@@ -16491,9 +16491,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "だいがくいんについて教えてください。",
-        "kana": "だいがくいん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pascasarjana."
+        "jp": "そつぎょうしたら、だいがくいんにすすみたいです。",
+        "kana": "そつぎょう したら、だいがくいん に すすみたい です。",
+        "meaning": "Setelah lulus, saya ingin melanjutkan ke pascasarjana."
       },
       "romaji": "daigakuin"
     },
@@ -16538,9 +16538,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "たいふうについて教えてください。",
-        "kana": "たいふう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang topan."
+        "jp": "たいふうがちかづいています。",
+        "kana": "たいふう が ちかづいて います。",
+        "meaning": "Topan sedang mendekat."
       },
       "romaji": "taifuu"
     },
@@ -16574,9 +16574,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "たんとうすることもあります。",
-        "kana": "たんとうする ことも あります。",
-        "meaning": "Ada kalanya bertanggung jawab."
+        "jp": "わたしはうけつけをたんとうしています。",
+        "kana": "わたし は うけつけ を たんとう して います。",
+        "meaning": "Saya bertanggung jawab atas bagian penerimaan."
       },
       "romaji": "tantousuru"
     },
@@ -16609,9 +16609,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "中国人について教えてください。",
-        "kana": "ちゅうごくじん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang orang Tionghoa."
+        "jp": "クラスにちゅうごくじんのがくせいがいます。",
+        "kana": "クラス に ちゅうごくじん の がくせい が います。",
+        "meaning": "Ada pelajar asal Tiongkok di kelas."
       },
       "romaji": "chuugokujin"
     },
@@ -16667,9 +16667,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "つかれについて教えてください。",
-        "kana": "つかれ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kelelahan."
+        "jp": "よくねたら、つかれがとれました。",
+        "kana": "よく ねたら、つかれ が とれました。",
+        "meaning": "Kelelahan saya hilang setelah tidur nyenyak."
       },
       "romaji": "tsukare"
     },
@@ -16696,9 +16696,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ツボについて教えてください。",
-        "kana": "つぼ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang titik akupresur."
+        "jp": "かたのツボをおしてもらいました。",
+        "kana": "かた の ツボ を おして もらいました。",
+        "meaning": "Saya meminta seseorang menekan titik akupresur di bahu saya."
       },
       "romaji": "tsubo"
     },
@@ -16727,9 +16727,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "定刻について教えてください。",
-        "kana": "ていこく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang waktu yang ditentukan."
+        "jp": "ひこうきはていこくにしゅっぱつしました。",
+        "kana": "ひこうき は ていこく に しゅっぱつ しました。",
+        "meaning": "Pesawat berangkat tepat pada waktu yang ditentukan."
       },
       "romaji": "teikoku"
     },
@@ -16799,9 +16799,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "到着について教えてください。",
-        "kana": "とうちゃく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang ketibaan."
+        "jp": "とうちゃくがおくれるとれんらくしました。",
+        "kana": "とうちゃく が おくれる と れんらく しました。",
+        "meaning": "Saya memberi kabar bahwa kedatangan saya akan terlambat."
       },
       "romaji": "touchaku"
     },
@@ -16830,9 +16830,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "到着便について教えてください。",
-        "kana": "とうちゃくびん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kedatangan."
+        "jp": "とうちゃくびんのあんないをみました。",
+        "kana": "とうちゃくびん の あんない を みました。",
+        "meaning": "Saya melihat informasi penerbangan kedatangan."
       },
       "romaji": "touchakubin"
     },
@@ -16900,9 +16900,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "トレーナーについて教えてください。",
-        "kana": "とれーなー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pelatih."
+        "jp": "トレーナーにうんどうのしかたをならいました。",
+        "kana": "トレーナー に うんどう の しかた を ならいました。",
+        "meaning": "Saya belajar cara berolahraga dari pelatih."
       },
       "romaji": "toreenaa"
     },
@@ -16929,9 +16929,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "トレーニングについて教えてください。",
-        "kana": "とれーにんぐ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang berlatih."
+        "jp": "まいあさトレーニングをしています。",
+        "kana": "まいあさ トレーニング を して います。",
+        "meaning": "Saya berlatih setiap pagi."
       },
       "romaji": "toreeningu"
     },
@@ -17035,9 +17035,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "日本文化について教えてください。",
-        "kana": "にほんぶんか に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang budaya Jepang."
+        "jp": "にほんぶんかをたいけんできるイベントです。",
+        "kana": "にほんぶんか を たいけん できる イベント です。",
+        "meaning": "Ini acara untuk mengalami budaya Jepang secara langsung."
       },
       "romaji": "nihonbunka"
     },
@@ -17078,9 +17078,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "人気について教えてください。",
-        "kana": "にんき に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang terkenal."
+        "jp": "このパンやはにんきがあります。",
+        "kana": "この パンや は にんき が あります。",
+        "meaning": "Toko roti ini populer."
       },
       "romaji": "ninki"
     },
@@ -17125,9 +17125,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ねだんについて教えてください。",
-        "kana": "ねだん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang harga."
+        "jp": "かうまえにねだんをたしかめます。",
+        "kana": "かう まえ に ねだん を たしかめます。",
+        "meaning": "Saya memastikan harga sebelum membeli."
       },
       "romaji": "nedan"
     },
@@ -17221,9 +17221,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "バドミントンすることもあります。",
-        "kana": "ばどみんとんする ことも あります。",
-        "meaning": "Ada kalanya bermain badminton."
+        "jp": "こうえんでともだちとバドミントンしました。",
+        "kana": "こうえん で ともだち と バドミントン しました。",
+        "meaning": "Saya bermain bulu tangkis bersama teman di taman."
       },
       "romaji": "badomintonsuru"
     },
@@ -17262,9 +17262,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "パンフレットについて教えてください。",
-        "kana": "ぱんふれっと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang brosur."
+        "jp": "りょこうのパンフレットをよんでいます。",
+        "kana": "りょこう の パンフレット を よんで います。",
+        "meaning": "Saya sedang membaca brosur perjalanan."
       },
       "romaji": "panfuretto"
     },
@@ -17297,9 +17297,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ひづけについて教えてください。",
-        "kana": "ひづけ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tanggal."
+        "jp": "もうしこみしょにひづけをかいてください。",
+        "kana": "もうしこみしょ に ひづけ を かいて ください。",
+        "meaning": "Silakan tulis tanggal di formulir pendaftaran."
       },
       "romaji": "hizuke"
     },
@@ -17359,9 +17359,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "昼ごろについて教えてください。",
-        "kana": "ひるごろ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang sekitar tengah hari."
+        "jp": "ひるごろにはうちにつくとおもいます。",
+        "kana": "ひるごろ には うち に つく と おもいます。",
+        "meaning": "Saya rasa saya akan tiba di rumah sekitar tengah hari."
       },
       "romaji": "hirugoro"
     },
@@ -17388,9 +17388,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ヒントについて教えてください。",
-        "kana": "ひんと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang petunjuk."
+        "jp": "こたえがわからないので、ヒントをください。",
+        "kana": "こたえ が わからない ので、ヒント を ください。",
+        "meaning": "Tolong beri petunjuk karena saya tidak tahu jawabannya."
       },
       "romaji": "hinto"
     },
@@ -17419,9 +17419,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "便名について教えてください。",
-        "kana": "びんめい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang nomor penerbangan."
+        "jp": "こうくうけんでびんめいをかくにんしました。",
+        "kana": "こうくうけん で びんめい を かくにん しました。",
+        "meaning": "Saya memeriksa nomor penerbangan pada tiket pesawat."
       },
       "romaji": "binmei"
     },
@@ -17448,9 +17448,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ファイルについて教えてください。",
-        "kana": "ふぁいる に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang berkas."
+        "jp": "このファイルをメールにつけてください。",
+        "kana": "この ファイル を メール に つけて ください。",
+        "meaning": "Silakan lampirkan berkas ini pada surel."
       },
       "romaji": "fairu"
     },
@@ -17479,9 +17479,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ブラジル人について教えてください。",
-        "kana": "ぶらじるじん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang orang Brazil."
+        "jp": "にほんごをべんきょうしているブラジルじんとあいました。",
+        "kana": "にほんご を べんきょう して いる ブラジルじん と あいました。",
+        "meaning": "Saya bertemu orang Brasil yang sedang belajar bahasa Jepang."
       },
       "romaji": "burajirujin"
     },
@@ -17508,9 +17508,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "フラメンコについて教えてください。",
-        "kana": "ふらめんこ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tarian flamenco."
+        "jp": "スペインでフラメンコをみました。",
+        "kana": "スペイン で フラメンコ を みました。",
+        "meaning": "Saya menonton flamenco di Spanyol."
       },
       "romaji": "furamenko"
     },
@@ -17544,9 +17544,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "プレゼントすることもあります。",
-        "kana": "ぷれぜんとする ことも あります。",
-        "meaning": "Ada kalanya memberikan hadiah."
+        "jp": "ははにはなをプレゼントしました。",
+        "kana": "はは に はな を プレゼント しました。",
+        "meaning": "Saya menghadiahkan bunga kepada ibu."
       },
       "romaji": "purezentosuru"
     },
@@ -17577,9 +17577,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ブログについて教えてください。",
-        "kana": "ぶろぐ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang blog."
+        "jp": "りょこうのことをブログにかきました。",
+        "kana": "りょこう の こと を ブログ に かきました。",
+        "meaning": "Saya menulis tentang perjalanan di blog."
       },
       "romaji": "burogu"
     },
@@ -17606,9 +17606,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ペアについて教えてください。",
-        "kana": "ぺあ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang sepasang."
+        "jp": "このカップはペアでうっています。",
+        "kana": "この カップ は ペア で うって います。",
+        "meaning": "Cangkir ini dijual sepasang."
       },
       "romaji": "pea"
     },
@@ -17635,9 +17635,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "へんじについて教えてください。",
-        "kana": "へんじ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang balasan."
+        "jp": "メールのへんじをまっています。",
+        "kana": "メール の へんじ を まって います。",
+        "meaning": "Saya sedang menunggu balasan surel."
       },
       "romaji": "henji"
     },
@@ -17705,9 +17705,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ほしについて教えてください。",
-        "kana": "ほし に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang bintang."
+        "jp": "こんやはほしがよくみえます。",
+        "kana": "こんや は ほし が よく みえます。",
+        "meaning": "Bintang terlihat jelas malam ini."
       },
       "romaji": "hoshi"
     },
@@ -17927,9 +17927,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "まごについて教えてください。",
-        "kana": "まご に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang cucu."
+        "jp": "まごがあそびにきました。",
+        "kana": "まご が あそびに きました。",
+        "meaning": "Cucu saya datang berkunjung."
       },
       "romaji": "mago"
     },
@@ -17960,9 +17960,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "マシンについて教えてください。",
-        "kana": "ましん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang mesin."
+        "jp": "このマシンのつかいかたをおしえてください。",
+        "kana": "この マシン の つかいかた を おしえて ください。",
+        "meaning": "Tolong ajari saya cara menggunakan mesin ini."
       },
       "romaji": "mashin"
     },
@@ -17991,9 +17991,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "町歩きについて教えてください。",
-        "kana": "まちあるき に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang berjalan-jalan di kota."
+        "jp": "やすみのひにまちあるきをたのしみます。",
+        "kana": "やすみ の ひ に まちあるき を たのしみます。",
+        "meaning": "Saya menikmati jalan-jalan keliling kota pada hari libur."
       },
       "romaji": "machiaruki"
     },
@@ -18026,9 +18026,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "待ちあわせについて教えてください。",
-        "kana": "まちあわせ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang janji untuk bertemu."
+        "jp": "まちあわせのじかんをかえました。",
+        "kana": "まちあわせ の じかん を かえました。",
+        "meaning": "Saya mengubah waktu janji bertemu."
       },
       "romaji": "machiawase"
     },
@@ -18066,9 +18066,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "マッサージすることもあります。",
-        "kana": "まっさーじする ことも あります。",
-        "meaning": "Ada kalanya memijat."
+        "jp": "つかれたあしをマッサージしました。",
+        "kana": "つかれた あし を マッサージ しました。",
+        "meaning": "Saya memijat kaki yang lelah."
       },
       "romaji": "massaajisuru"
     },
@@ -18095,9 +18095,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "マドリードについて教えてください。",
-        "kana": "まどりーど に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Madrid."
+        "jp": "マドリードのえきでともだちをまちました。",
+        "kana": "マドリード の えき で ともだち を まちました。",
+        "meaning": "Saya menunggu teman di stasiun di Madrid."
       },
       "romaji": "madoriido"
     },
@@ -18124,9 +18124,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "まんざいについて教えてください。",
-        "kana": "まんざい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Manzai."
+        "jp": "テレビでまんざいをみてわらいました。",
+        "kana": "テレビ で まんざい を みて わらいました。",
+        "meaning": "Saya tertawa saat menonton manzai di televisi."
       },
       "romaji": "manzai"
     },
@@ -18155,9 +18155,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "めいし入れについて教えてください。",
-        "kana": "めいしいれ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tempat menyimpan kartu nama."
+        "jp": "めいしをめいしいれにしまいました。",
+        "kana": "めいし を めいしいれ に しまいました。",
+        "meaning": "Saya menyimpan kartu nama di tempat kartu nama."
       },
       "romaji": "meishiire"
     },
@@ -18192,9 +18192,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "メッセージについて教えてください。",
-        "kana": "めっせーじ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pesan."
+        "jp": "ともだちにメッセージをおくりました。",
+        "kana": "ともだち に メッセージ を おくりました。",
+        "meaning": "Saya mengirim pesan kepada teman."
       },
       "romaji": "messeeji"
     },
@@ -18221,9 +18221,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "メルボルンについて教えてください。",
-        "kana": "めるぼるん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Melbourne."
+        "jp": "メルボルンのカフェでコーヒーをのみました。",
+        "kana": "メルボルン の カフェ で コーヒー を のみました。",
+        "meaning": "Saya minum kopi di kafe di Melbourne."
       },
       "romaji": "meruborun"
     },
@@ -18279,9 +18279,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "やきそばについて教えてください。",
-        "kana": "やきそば に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang mi goreng."
+        "jp": "まつりのやたいでやきそばをかいました。",
+        "kana": "まつり の やたい で やきそば を かいました。",
+        "meaning": "Saya membeli yakisoba di kedai kaki lima saat festival."
       },
       "romaji": "yakisoba"
     },
@@ -18318,9 +18318,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "やきゅうについて教えてください。",
-        "kana": "やきゅう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang bisbol."
+        "jp": "にちようびにやきゅうのしあいをみました。",
+        "kana": "にちようび に やきゅう の しあい を みました。",
+        "meaning": "Saya menonton pertandingan bisbol pada hari Minggu."
       },
       "romaji": "yakyuu"
     },
@@ -18387,9 +18387,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "やむこともあります。",
-        "kana": "やむ ことも あります。",
-        "meaning": "Ada kalanya reda."
+        "jp": "あめがやんだら、でかけましょう。",
+        "kana": "あめ が やんだら、でかけましょう。",
+        "meaning": "Mari pergi keluar setelah hujan reda."
       },
       "romaji": "yamu"
     },
@@ -18453,9 +18453,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "雪だるまについて教えてください。",
-        "kana": "ゆきだるま に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang boneka salju."
+        "jp": "こどもたちとゆきだるまをつくりました。",
+        "kana": "こどもたち と ゆきだるま を つくりました。",
+        "meaning": "Saya membuat boneka salju bersama anak-anak."
       },
       "romaji": "yukidaruma"
     },
@@ -18573,9 +18573,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ラウンジについて教えてください。",
-        "kana": "らうんじ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang ruang tunggu."
+        "jp": "くうこうのラウンジでやすみました。",
+        "kana": "くうこう の ラウンジ で やすみました。",
+        "meaning": "Saya beristirahat di ruang tunggu bandara."
       },
       "romaji": "raunji"
     },
@@ -18646,9 +18646,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "れいについて教えてください。",
-        "kana": "れい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang contoh."
+        "jp": "れいをひとつあげてください。",
+        "kana": "れい を ひとつ あげて ください。",
+        "meaning": "Tolong berikan satu contoh."
       },
       "romaji": "rei"
     },
@@ -18699,9 +18699,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "れんらくすることもあります。",
-        "kana": "れんらくする ことも あります。",
-        "meaning": "Ada kalanya menghubungi."
+        "jp": "ついたら、すぐにれんらくします。",
+        "kana": "ついたら、すぐ に れんらく します。",
+        "meaning": "Saya akan segera menghubungi Anda setelah tiba."
       },
       "romaji": "renrakusuru"
     },
@@ -18761,9 +18761,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ロシア人について教えてください。",
-        "kana": "ろしあじん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang orang Rusia."
+        "jp": "となりのへやにロシアじんがすんでいます。",
+        "kana": "となり の へや に ロシアじん が すんで います。",
+        "meaning": "Orang Rusia tinggal di kamar sebelah."
       },
       "romaji": "roshiajin"
     },
@@ -18866,9 +18866,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "神田について教えてください。",
-        "kana": "かんだ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Kanda."
+        "jp": "かんだのほんやによりました。",
+        "kana": "かんだ の ほんや に よりました。",
+        "meaning": "Saya mampir ke toko buku di Kanda."
       },
       "romaji": "kanda"
     },
@@ -18895,9 +18895,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "クアラルンプールについて教えてください。",
-        "kana": "くあらるんぷーる に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Kuala Lumpur."
+        "jp": "クアラルンプールでのりかえます。",
+        "kana": "クアラルンプール で のりかえます。",
+        "meaning": "Saya akan berganti kendaraan di Kuala Lumpur."
       },
       "romaji": "kuararunpuuru"
     },
@@ -18930,9 +18930,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "子について教えてください。",
-        "kana": "こ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang anak."
+        "jp": "あのこはわたしのむすこです。",
+        "kana": "あの こ は わたし の むすこ です。",
+        "meaning": "Anak itu adalah anak laki-laki saya."
       },
       "romaji": "ko"
     },
@@ -18965,9 +18965,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "埼玉について教えてください。",
-        "kana": "さいたま に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Saitama."
+        "jp": "さいたまからとうきょうまでかよっています。",
+        "kana": "さいたま から とうきょう まで かよって います。",
+        "meaning": "Saya bepergian rutin dari Saitama ke Tokyo."
       },
       "romaji": "saitama"
     },
@@ -19000,9 +19000,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "作家について教えてください。",
-        "kana": "さっか に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang penulis."
+        "jp": "しょうらいはさっかになりたいです。",
+        "kana": "しょうらい は さっか に なりたい です。",
+        "meaning": "Saya ingin menjadi penulis pada masa depan."
       },
       "romaji": "sakka"
     },
@@ -19043,9 +19043,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "自然について教えてください。",
-        "kana": "しぜん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang alam."
+        "jp": "しぜんのなかでゆっくりすごしました。",
+        "kana": "しぜん の なか で ゆっくり すごしました。",
+        "meaning": "Saya bersantai di alam."
       },
       "romaji": "shizen"
     },
@@ -19076,9 +19076,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ソファについて教えてください。",
-        "kana": "そふぁ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang sofa."
+        "jp": "ソファにすわって、ほんをよみました。",
+        "kana": "ソファ に すわって、ほん を よみました。",
+        "meaning": "Saya duduk di sofa dan membaca buku."
       },
       "romaji": "sofa"
     },
@@ -19134,9 +19134,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "デリーについて教えてください。",
-        "kana": "でりー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Delhi."
+        "jp": "デリーのホテルをよやくしました。",
+        "kana": "デリー の ホテル を よやく しました。",
+        "meaning": "Saya memesan hotel di Delhi."
       },
       "romaji": "derii"
     },
@@ -19163,9 +19163,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "どろについて教えてください。",
-        "kana": "どろ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang lumpur."
+        "jp": "くつにどろがついています。",
+        "kana": "くつ に どろ が ついて います。",
+        "meaning": "Ada lumpur menempel di sepatu saya."
       },
       "romaji": "doro"
     },
@@ -19221,9 +19221,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "バンガロールについて教えてください。",
-        "kana": "ばんがろーる に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Bangalore."
+        "jp": "バンガロールではたらいているともだちがいます。",
+        "kana": "バンガロール で はたらいて いる ともだち が います。",
+        "meaning": "Saya punya teman yang bekerja di Bangalore."
       },
       "romaji": "bangarooru"
     },
@@ -19281,9 +19281,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ホープについて教えてください。",
-        "kana": "ほーぷ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang harapan."
+        "jp": "あのわかいせんしゅはチームのホープです。",
+        "kana": "あの わかい せんしゅ は チーム の ホープ です。",
+        "meaning": "Atlet muda itu adalah harapan tim."
       },
       "romaji": "hoopu"
     },
@@ -19341,9 +19341,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "やくそくについて教えてください。",
-        "kana": "やくそく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang janji."
+        "jp": "ともだちとのやくそくをまもります。",
+        "kana": "ともだち と の やくそく を まもります。",
+        "meaning": "Saya menepati janji dengan teman."
       },
       "romaji": "yakusoku"
     },
@@ -19405,9 +19405,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おまごさんについて教えてください。",
-        "kana": "おまごさん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang cucu orang lain."
+        "jp": "おまごさんはおいくつですか。",
+        "kana": "おまごさん は おいくつ ですか。",
+        "meaning": "Berapa usia cucu Anda?"
       },
       "romaji": "omagosan"
     },
@@ -19504,9 +19504,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "特にについて教えてください。",
-        "kana": "とくに に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang khususnya."
+        "jp": "くだもののなかで、いちごがとくにすきです。",
+        "kana": "くだもの の なか で、いちご が とくに すき です。",
+        "meaning": "Di antara buah-buahan, saya terutama menyukai stroberi."
       },
       "romaji": "tokuni"
     },
@@ -19549,9 +19549,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "なくこともあります。",
-        "kana": "なく ことも あります。",
-        "meaning": "Ada kalanya menangis."
+        "jp": "こどもがおおきなこえでないています。",
+        "kana": "こども が おおきな こえ で ないて います。",
+        "meaning": "Anak itu sedang menangis dengan suara keras."
       },
       "romaji": "naku"
     },
@@ -19580,9 +19580,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "旅行会社について教えてください。",
-        "kana": "りょこうがいしゃ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang agen perjalanan."
+        "jp": "りょこうがいしゃでツアーをもうしこみました。",
+        "kana": "りょこうがいしゃ で ツアー を もうしこみました。",
+        "meaning": "Saya mendaftar tur di agen perjalanan."
       },
       "romaji": "ryokougaisha"
     },
@@ -19625,9 +19625,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "わらうこともあります。",
-        "kana": "わらう ことも あります。",
-        "meaning": "Ada kalanya tertawa."
+        "jp": "おもしろいはなしをきいて、みんながわらいました。",
+        "kana": "おもしろい はなし を きいて、みんな が わらいました。",
+        "meaning": "Semua orang tertawa mendengar cerita lucu."
       },
       "romaji": "warau"
     },
@@ -19654,9 +19654,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "アイスティーについて教えてください。",
-        "kana": "あいすてぃー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang es teh."
+        "jp": "つめたいアイスティーをたのみました。",
+        "kana": "つめたい アイスティー を たのみました。",
+        "meaning": "Saya memesan es teh dingin."
       },
       "romaji": "aisutii"
     },
@@ -19695,9 +19695,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "アレルギーについて教えてください。",
-        "kana": "あれるぎー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang alergi."
+        "jp": "たまごのアレルギーがあります。",
+        "kana": "たまご の アレルギー が あります。",
+        "meaning": "Saya alergi telur."
       },
       "romaji": "arerugii"
     },
@@ -19837,9 +19837,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "客について教えてください。",
-        "kana": "きゃく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pelanggan."
+        "jp": "このみせはきゃくがおおいです。",
+        "kana": "この みせ は きゃく が おおい です。",
+        "meaning": "Toko ini memiliki banyak pelanggan."
       },
       "romaji": "kyaku"
     },
@@ -19905,9 +19905,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ご注文について教えてください。",
-        "kana": "ごちゅうもん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pesanan."
+        "jp": "ごちゅうもんはおきまりですか。",
+        "kana": "ごちゅうもん は おきまり ですか。",
+        "meaning": "Apakah Anda sudah menentukan pesanan?"
       },
       "romaji": "gochuumon"
     },
@@ -19975,9 +19975,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "シーフードについて教えてください。",
-        "kana": "しーふーど に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang makanan laut."
+        "jp": "このパスタにはシーフードがはいっています。",
+        "kana": "この パスタ に は シーフード が はいって います。",
+        "meaning": "Pasta ini mengandung makanan laut."
       },
       "romaji": "shiifuudo"
     },
@@ -20035,9 +20035,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "好ききらいについて教えてください。",
-        "kana": "すききらい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang suka dan tidak suka."
+        "jp": "たべもののすききらいはありますか。",
+        "kana": "たべもの の すききらい は ありますか。",
+        "meaning": "Apakah ada makanan yang Anda suka atau tidak suka?"
       },
       "romaji": "sukikirai"
     },
@@ -20064,9 +20064,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ステーキについて教えてください。",
-        "kana": "すてーき に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang steak."
+        "jp": "ゆうしょくにステーキをたべました。",
+        "kana": "ゆうしょく に ステーキ を たべました。",
+        "meaning": "Saya makan steak untuk makan malam."
       },
       "romaji": "suteeki"
     },
@@ -20132,9 +20132,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "地方について教えてください。",
-        "kana": "ちほう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang daerah."
+        "jp": "このちほうはゆきがおおいです。",
+        "kana": "この ちほう は ゆき が おおい です。",
+        "meaning": "Daerah ini banyak salju."
       },
       "romaji": "chihou"
     },
@@ -20176,9 +20176,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "注文することもあります。",
-        "kana": "ちゅうもんする ことも あります。",
-        "meaning": "Ada kalanya memesan."
+        "jp": "レストランでカレーをちゅうもんしました。",
+        "kana": "レストラン で カレー を ちゅうもん しました。",
+        "meaning": "Saya memesan kari di restoran."
       },
       "romaji": "chuumonsuru"
     },
@@ -20306,9 +20306,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "生について教えてください。",
-        "kana": "なま に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang mentah."
+        "jp": "このさかなはなまでたべられます。",
+        "kana": "この さかな は なま で たべられます。",
+        "meaning": "Ikan ini dapat dimakan mentah."
       },
       "romaji": "nama"
     },
@@ -20337,9 +20337,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "生野菜について教えてください。",
-        "kana": "なまやさい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang sayuran segar."
+        "jp": "なまやさいをよくあらってください。",
+        "kana": "なまやさい を よく あらって ください。",
+        "meaning": "Silakan cuci sayuran mentah sampai bersih."
       },
       "romaji": "namayasai"
     },
@@ -20368,9 +20368,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "肉料理について教えてください。",
-        "kana": "にくりょうり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang masakan dengan bahan dasar daging."
+        "jp": "このみせはにくりょうりがおいしいです。",
+        "kana": "この みせ は にくりょうり が おいしい です。",
+        "meaning": "Hidangan daging di restoran ini enak."
       },
       "romaji": "nikuryouri"
     },
@@ -20525,9 +20525,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ベジタリアンについて教えてください。",
-        "kana": "べじたりあん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang vegetarian."
+        "jp": "ベジタリアンなので、にくはたべません。",
+        "kana": "ベジタリアン なので、にく は たべません。",
+        "meaning": "Karena saya vegetarian, saya tidak makan daging."
       },
       "romaji": "bejitarian"
     },
@@ -20585,9 +20585,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "洋食について教えてください。",
-        "kana": "ようしょく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang makanan ala barat."
+        "jp": "きょうはようしょくをたべたいです。",
+        "kana": "きょう は ようしょく を たべたい です。",
+        "meaning": "Hari ini saya ingin makan makanan ala Barat."
       },
       "romaji": "youshoku"
     },
@@ -20649,9 +20649,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "和食について教えてください。",
-        "kana": "わしょく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang makanan Jepang."
+        "jp": "わしょくのつくりかたをならっています。",
+        "kana": "わしょく の つくりかた を ならって います。",
+        "meaning": "Saya sedang belajar cara membuat masakan Jepang."
       },
       "romaji": "washoku"
     },
@@ -20678,9 +20678,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "あせについて教えてください。",
-        "kana": "あせ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang keringat."
+        "jp": "はしったので、あせをかきました。",
+        "kana": "はしった ので、あせ を かきました。",
+        "meaning": "Saya berkeringat karena berlari."
       },
       "romaji": "ase"
     },
@@ -20709,9 +20709,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "アメリカ人について教えてください。",
-        "kana": "あめりかじん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang orang Amerika."
+        "jp": "えいごのせんせいはアメリカじんです。",
+        "kana": "えいご の せんせい は アメリカじん です。",
+        "meaning": "Guru bahasa Inggris saya orang Amerika."
       },
       "romaji": "amerikajin"
     },
@@ -20740,9 +20740,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "意見について教えてください。",
-        "kana": "いけん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pendapat."
+        "jp": "あなたのいけんをきかせてください。",
+        "kana": "あなた の いけん を きかせて ください。",
+        "meaning": "Tolong sampaikan pendapat Anda."
       },
       "romaji": "iken"
     },
@@ -20845,9 +20845,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "音について教えてください。",
-        "kana": "おと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang bunyi."
+        "jp": "となりのへやからおとがきこえます。",
+        "kana": "となり の へや から おと が きこえます。",
+        "meaning": "Terdengar bunyi dari kamar sebelah."
       },
       "romaji": "oto"
     },
@@ -20905,9 +20905,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "オムレツについて教えてください。",
-        "kana": "おむれつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang omelet."
+        "jp": "あさごはんにオムレツをつくりました。",
+        "kana": "あさごはん に オムレツ を つくりました。",
+        "meaning": "Saya membuat omelet untuk sarapan."
       },
       "romaji": "omuretsu"
     },
@@ -20940,9 +20940,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "必ずについて教えてください。",
-        "kana": "かならず に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pasti."
+        "jp": "でかけるまえに、かならずかぎをかけます。",
+        "kana": "でかける まえ に、かならず かぎ を かけます。",
+        "meaning": "Saya selalu mengunci pintu sebelum pergi."
       },
       "romaji": "kanarazu"
     },
@@ -21042,9 +21042,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かわくこともあります。",
-        "kana": "かわく ことも あります。",
-        "meaning": "Ada kalanya kering."
+        "jp": "のどがかわいたので、みずをのみました。",
+        "kana": "のど が かわいた ので、みず を のみました。",
+        "meaning": "Saya minum air karena haus."
       },
       "romaji": "kawaku"
     },
@@ -21082,9 +21082,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かんぱいすることもあります。",
-        "kana": "かんぱいする ことも あります。",
-        "meaning": "Ada kalanya bersulang."
+        "jp": "みんなでビールでかんぱいしました。",
+        "kana": "みんな で ビール で かんぱい しました。",
+        "meaning": "Kami semua bersulang dengan bir."
       },
       "romaji": "kanpaisuru"
     },
@@ -21122,9 +21122,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "決めることもあります。",
-        "kana": "きめる ことも あります。",
-        "meaning": "Ada kalanya memutuskan."
+        "jp": "あしたのよていをきめました。",
+        "kana": "あした の よてい を きめました。",
+        "meaning": "Saya sudah menentukan rencana untuk besok."
       },
       "romaji": "kimeru"
     },
@@ -21151,9 +21151,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "けつあつについて教えてください。",
-        "kana": "けつあつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tekanan darah."
+        "jp": "びょういんでけつあつをはかりました。",
+        "kana": "びょういん で けつあつ を はかりました。",
+        "meaning": "Saya mengukur tekanan darah di rumah sakit."
       },
       "romaji": "ketsuatsu"
     },
@@ -21180,9 +21180,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "こおりについて教えてください。",
-        "kana": "こおり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang es batu."
+        "jp": "ジュースにこおりをいれてください。",
+        "kana": "ジュース に こおり を いれて ください。",
+        "meaning": "Tolong tambahkan es batu ke jus."
       },
       "romaji": "koori"
     },
@@ -21368,9 +21368,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "とうがらしについて教えてください。",
-        "kana": "とうがらし に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang cabe."
+        "jp": "このりょうりにはとうがらしがはいっています。",
+        "kana": "この りょうり に は とうがらし が はいって います。",
+        "meaning": "Masakan ini mengandung cabai."
       },
       "romaji": "tougarashi"
     },
@@ -21464,9 +21464,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ぬることもあります。",
-        "kana": "ぬる ことも あります。",
-        "meaning": "Ada kalanya mengoleskan."
+        "jp": "パンにバターをぬります。",
+        "kana": "パン に バター を ぬります。",
+        "meaning": "Saya mengoleskan mentega pada roti."
       },
       "romaji": "nuru"
     },
@@ -21540,9 +21540,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "のせることもあります。",
-        "kana": "のせる ことも あります。",
-        "meaning": "Ada kalanya menambahkan."
+        "jp": "パンにチーズをのせます。",
+        "kana": "パン に チーズ を のせます。",
+        "meaning": "Saya meletakkan keju di atas roti."
       },
       "romaji": "noseru"
     },
@@ -21635,9 +21635,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "パリについて教えてください。",
-        "kana": "ぱり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Paris."
+        "jp": "パリでびじゅつかんをまわりました。",
+        "kana": "パリ で びじゅつかん を まわりました。",
+        "meaning": "Saya mengunjungi beberapa museum seni di Paris."
       },
       "romaji": "pari"
     },
@@ -21668,9 +21668,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ピザについて教えてください。",
-        "kana": "ぴざ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pizza."
+        "jp": "ともだちとピザをわけてたべました。",
+        "kana": "ともだち と ピザ を わけて たべました。",
+        "meaning": "Saya berbagi pizza dengan teman."
       },
       "romaji": "piza"
     },
@@ -21699,9 +21699,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "左手について教えてください。",
-        "kana": "ひだりて に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tangan kiri."
+        "jp": "ひだりてでかばんをもっています。",
+        "kana": "ひだりて で かばん を もって います。",
+        "meaning": "Saya memegang tas dengan tangan kiri."
       },
       "romaji": "hidarite"
     },
@@ -21732,9 +21732,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "マナーについて教えてください。",
-        "kana": "まなー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang sopan santun."
+        "jp": "しょくじのマナーをまなびました。",
+        "kana": "しょくじ の マナー を まなびました。",
+        "meaning": "Saya mempelajari tata krama makan."
       },
       "romaji": "manaa"
     },
@@ -21821,9 +21821,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "右手について教えてください。",
-        "kana": "みぎて に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tangan kanan."
+        "jp": "みぎてでペンをもちます。",
+        "kana": "みぎて で ペン を もちます。",
+        "meaning": "Saya memegang pena dengan tangan kanan."
       },
       "romaji": "migite"
     },
@@ -21857,9 +21857,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "やくこともあります。",
-        "kana": "やく ことも あります。",
-        "meaning": "Ada kalanya membakar."
+        "jp": "オーブンでパンをやきます。",
+        "kana": "オーブン で パン を やきます。",
+        "meaning": "Saya memanggang roti dengan oven."
       },
       "romaji": "yaku"
     },
@@ -21915,9 +21915,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "インストラクターについて教えてください。",
-        "kana": "いんすとらくたー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang instruktur."
+        "jp": "インストラクターのせつめいをききました。",
+        "kana": "インストラクター の せつめい を ききました。",
+        "meaning": "Saya mendengarkan penjelasan instruktur."
       },
       "romaji": "insutorakutaa"
     },
@@ -21954,9 +21954,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "沖縄について教えてください。",
-        "kana": "おきなわ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Okinawa."
+        "jp": "おきなわのうみでおよぎました。",
+        "kana": "おきなわ の うみ で およぎました。",
+        "meaning": "Saya berenang di laut Okinawa."
       },
       "romaji": "okinawa"
     },
@@ -21993,9 +21993,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かいがんについて教えてください。",
-        "kana": "かいがん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pantai."
+        "jp": "かいがんをゆっくりあるきました。",
+        "kana": "かいがん を ゆっくり あるきました。",
+        "meaning": "Saya berjalan perlahan di pantai."
       },
       "romaji": "kaigan"
     },
@@ -22030,9 +22030,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "カウンターについて教えてください。",
-        "kana": "かうんたー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang meja layanan."
+        "jp": "カウンターのせきにすわりました。",
+        "kana": "カウンター の せき に すわりました。",
+        "meaning": "Saya duduk di kursi di depan meja bar."
       },
       "romaji": "kauntaa"
     },
@@ -22070,9 +22070,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "観光することもあります。",
-        "kana": "かんこうする ことも あります。",
-        "meaning": "Ada kalanya berwisata."
+        "jp": "きょうとをかんこうしました。",
+        "kana": "きょうと を かんこう しました。",
+        "meaning": "Saya berwisata di Kyoto."
       },
       "romaji": "kankousuru"
     },
@@ -22105,9 +22105,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "観光地について教えてください。",
-        "kana": "かんこうち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang daerah wisata."
+        "jp": "このまちにはかんこうちがたくさんあります。",
+        "kana": "この まち に は かんこうち が たくさん あります。",
+        "meaning": "Kota ini memiliki banyak tempat wisata."
       },
       "romaji": "kankouchi"
     },
@@ -22150,9 +22150,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "こむこともあります。",
-        "kana": "こむ ことも あります。",
-        "meaning": "Ada kalanya padat."
+        "jp": "あさのでんしゃはとてもこみます。",
+        "kana": "あさ の でんしゃ は とても こみます。",
+        "meaning": "Kereta pada pagi hari sangat penuh."
       },
       "romaji": "komu"
     },
@@ -22198,9 +22198,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "参加することもあります。",
-        "kana": "さんかする ことも あります。",
-        "meaning": "Ada kalanya ikut serta."
+        "jp": "ちいきのイベントにさんかしました。",
+        "kana": "ちいき の イベント に さんか しました。",
+        "meaning": "Saya berpartisipasi dalam acara lingkungan setempat."
       },
       "romaji": "sankasuru"
     },
@@ -22297,9 +22297,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "シーズンについて教えてください。",
-        "kana": "しーずん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang musim."
+        "jp": "スキーのシーズンがはじまりました。",
+        "kana": "スキー の シーズン が はじまりました。",
+        "meaning": "Musim ski sudah dimulai."
       },
       "romaji": "shiizun"
     },
@@ -22336,9 +22336,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "島について教えてください。",
-        "kana": "しま に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pulau."
+        "jp": "ふねでちいさなしまにわたりました。",
+        "kana": "ふね で ちいさな しま に わたりました。",
+        "meaning": "Saya menyeberang ke pulau kecil dengan kapal."
       },
       "romaji": "shima"
     },
@@ -22369,9 +22369,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "シュノーケリングについて教えてください。",
-        "kana": "しゅのーけりんぐ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang snorkeling."
+        "jp": "あさいうみでシュノーケリングをしました。",
+        "kana": "あさい うみ で シュノーケリング を しました。",
+        "meaning": "Saya melakukan snorkeling di laut dangkal."
       },
       "romaji": "shunookeringu"
     },
@@ -22402,9 +22402,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ダイビングについて教えてください。",
-        "kana": "だいびんぐ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang menyelam."
+        "jp": "ダイビングでうみのなかをみました。",
+        "kana": "ダイビング で うみ の なか を みました。",
+        "meaning": "Saya melihat bagian bawah laut dengan menyelam."
       },
       "romaji": "daibingu"
     },
@@ -22431,9 +22431,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ダイビングツアーについて教えてください。",
-        "kana": "だいびんぐつあー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tur."
+        "jp": "ダイビングツアーをよやくしました。",
+        "kana": "ダイビングツアー を よやく しました。",
+        "meaning": "Saya memesan tur menyelam."
       },
       "romaji": "daibingutsuaa"
     },
@@ -22460,9 +22460,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "チェックインカウンターについて教えてください。",
-        "kana": "ちぇっくいんかうんたー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang loket check in."
+        "jp": "チェックインカウンターでにもつをあずけました。",
+        "kana": "チェックインカウンター で にもつ を あずけました。",
+        "meaning": "Saya menyerahkan bagasi di loket check-in."
       },
       "romaji": "chekkuinkauntaa"
     },
@@ -22493,9 +22493,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ツアーについて教えてください。",
-        "kana": "つあー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tur."
+        "jp": "このツアーにはひるごはんがついています。",
+        "kana": "この ツアー に は ひるごはん が ついて います。",
+        "meaning": "Tur ini sudah termasuk makan siang."
       },
       "romaji": "tsuaa"
     },
@@ -22524,9 +22524,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ツアー会社について教えてください。",
-        "kana": "つあーがいしゃ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang perusahaan wisata."
+        "jp": "ツアーがいしゃにしつもんのメールをおくりました。",
+        "kana": "ツアーがいしゃ に しつもん の メール を おくりました。",
+        "meaning": "Saya mengirim surel berisi pertanyaan kepada perusahaan tur."
       },
       "romaji": "tsuaagaisha"
     },
@@ -22604,9 +22604,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "道具について教えてください。",
-        "kana": "どうぐ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang alat."
+        "jp": "つかったどうぐをもとのばしょにもどします。",
+        "kana": "つかった どうぐ を もと の ばしょ に もどします。",
+        "meaning": "Saya mengembalikan peralatan yang sudah dipakai ke tempat semula."
       },
       "romaji": "dougu"
     },
@@ -22644,9 +22644,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ドライブすることもあります。",
-        "kana": "どらいぶする ことも あります。",
-        "meaning": "Ada kalanya berkendara mobil."
+        "jp": "うみのそばをドライブしました。",
+        "kana": "うみ の そば を ドライブ しました。",
+        "meaning": "Saya berkendara di tepi laut."
       },
       "romaji": "doraibusuru"
     },
@@ -22677,9 +22677,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ビーチについて教えてください。",
-        "kana": "びーち に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pantai."
+        "jp": "ビーチですなのおしろをつくりました。",
+        "kana": "ビーチ で すな の おしろ を つくりました。",
+        "meaning": "Saya membuat istana pasir di pantai."
       },
       "romaji": "biichi"
     },
@@ -22746,9 +22746,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ほっとすることもあります。",
-        "kana": "ほっとする ことも あります。",
-        "meaning": "Ada kalanya lega."
+        "jp": "しけんがおわって、ほっとしました。",
+        "kana": "しけん が おわって、ほっと しました。",
+        "meaning": "Saya merasa lega setelah ujian selesai."
       },
       "romaji": "hottosuru"
     },
@@ -22775,9 +22775,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "モノレールについて教えてください。",
-        "kana": "ものれーる に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang monorel."
+        "jp": "くうこうまでモノレールでいきます。",
+        "kana": "くうこう まで モノレール で いきます。",
+        "meaning": "Saya akan pergi ke bandara dengan monorel."
       },
       "romaji": "monoreeru"
     },
@@ -22814,9 +22814,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "森について教えてください。",
-        "kana": "もり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang hutan."
+        "jp": "もりのなかでとりのこえをききました。",
+        "kana": "もり の なか で とり の こえ を ききました。",
+        "meaning": "Saya mendengar kicauan burung di hutan."
       },
       "romaji": "mori"
     },
@@ -22892,9 +22892,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ゆれることもあります。",
-        "kana": "ゆれる ことも あります。",
-        "meaning": "Ada kalanya bergoyang."
+        "jp": "かぜできのえだがゆれています。",
+        "kana": "かぜ で き の えだ が ゆれて います。",
+        "meaning": "Dahan pohon bergoyang tertiup angin."
       },
       "romaji": "yureru"
     },
@@ -22921,9 +22921,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ライブハウスについて教えてください。",
-        "kana": "らいぶはうす に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang klub musik langsung."
+        "jp": "ライブハウスでバンドのえんそうをききました。",
+        "kana": "ライブハウス で バンド の えんそう を ききました。",
+        "meaning": "Saya mendengarkan penampilan band di tempat musik live."
       },
       "romaji": "raibuhausu"
     },
@@ -22950,9 +22950,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "レンタカーについて教えてください。",
-        "kana": "れんたかー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang mobil rental."
+        "jp": "りょこうちゅうはレンタカーをつかいました。",
+        "kana": "りょこうちゅう は レンタカー を つかいました。",
+        "meaning": "Saya menggunakan mobil sewaan selama perjalanan."
       },
       "romaji": "rentakaa"
     },
@@ -22990,9 +22990,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "レンタルすることもあります。",
-        "kana": "れんたるする ことも あります。",
-        "meaning": "Ada kalanya menyewa."
+        "jp": "えきのちかくでじてんしゃをレンタルしました。",
+        "kana": "えき の ちかく で じてんしゃ を レンタル しました。",
+        "meaning": "Saya menyewa sepeda di dekat stasiun."
       },
       "romaji": "rentarusuru"
     },
@@ -23095,9 +23095,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "沖縄ガラスについて教えてください。",
-        "kana": "おきなわがらす に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kaca dari Okinawa."
+        "jp": "おみやげにおきなわガラスのコップをかいました。",
+        "kana": "おみやげ に おきなわガラス の コップ を かいました。",
+        "meaning": "Saya membeli gelas kaca Okinawa sebagai oleh-oleh."
       },
       "romaji": "okinawagarasu"
     },
@@ -23128,9 +23128,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おしろについて教えてください。",
-        "kana": "おしろ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang benteng."
+        "jp": "やまのうえにおしろがあります。",
+        "kana": "やま の うえ に おしろ が あります。",
+        "meaning": "Ada kastel di atas gunung."
       },
       "romaji": "oshiro"
     },
@@ -23159,9 +23159,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お昼について教えてください。",
-        "kana": "おひる に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang siang."
+        "jp": "おひるにいちどうちにかえります。",
+        "kana": "おひる に いちど うち に かえります。",
+        "meaning": "Saya akan pulang sebentar pada siang hari."
       },
       "romaji": "ohiru"
     },
@@ -23190,9 +23190,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "泳ぎについて教えてください。",
-        "kana": "およぎ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang renang."
+        "jp": "かれはおよぎがとくいです。",
+        "kana": "かれ は およぎ が とくい です。",
+        "meaning": "Dia pandai berenang."
       },
       "romaji": "oyogi"
     },
@@ -23231,9 +23231,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ガラスについて教えてください。",
-        "kana": "がらす に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kaca."
+        "jp": "まどのガラスがわれました。",
+        "kana": "まど の ガラス が われました。",
+        "meaning": "Kaca jendela pecah."
       },
       "romaji": "garasu"
     },
@@ -23266,9 +23266,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かんそうについて教えてください。",
-        "kana": "かんそう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kesan."
+        "jp": "えいがのかんそうをはなしました。",
+        "kana": "えいが の かんそう を はなしました。",
+        "meaning": "Saya menceritakan kesan saya terhadap film."
       },
       "romaji": "kansou"
     },
@@ -23297,9 +23297,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "牛車について教えてください。",
-        "kana": "ぎゅうしゃ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pedati."
+        "jp": "ぎゅうしゃにのって、しまをまわりました。",
+        "kana": "ぎゅうしゃ に のって、しま を まわりました。",
+        "meaning": "Saya berkeliling pulau dengan pedati yang ditarik sapi."
       },
       "romaji": "gyuusha"
     },
@@ -23336,9 +23336,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "空気について教えてください。",
-        "kana": "くうき に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang udara."
+        "jp": "まどをあけて、くうきをいれかえます。",
+        "kana": "まど を あけて、くうき を いれかえます。",
+        "meaning": "Saya membuka jendela untuk mengganti udara ruangan."
       },
       "romaji": "kuuki"
     },
@@ -23365,9 +23365,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "クジラについて教えてください。",
-        "kana": "くじら に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang paus."
+        "jp": "ふねからクジラがみえました。",
+        "kana": "ふね から クジラ が みえました。",
+        "meaning": "Paus terlihat dari kapal."
       },
       "romaji": "kujira"
     },
@@ -23425,9 +23425,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "自転車タクシーについて教えてください。",
-        "kana": "じてんしゃたくしー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang ojek sepeda."
+        "jp": "じてんしゃタクシーでまちをまわりました。",
+        "kana": "じてんしゃタクシー で まち を まわりました。",
+        "meaning": "Saya berkeliling kota dengan taksi sepeda."
       },
       "romaji": "jitenshatakushii"
     },
@@ -23499,9 +23499,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "女性について教えてください。",
-        "kana": "じょせい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang perempuan."
+        "jp": "このかいしゃではじょせいがおおくはたらいています。",
+        "kana": "この かいしゃ で は じょせい が おおく はたらいて います。",
+        "meaning": "Banyak perempuan bekerja di perusahaan ini."
       },
       "romaji": "josei"
     },
@@ -23567,9 +23567,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "体験について教えてください。",
-        "kana": "たいけん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pengalaman."
+        "jp": "りょこうでめずらしいたいけんをしました。",
+        "kana": "りょこう で めずらしい たいけん を しました。",
+        "meaning": "Saya mendapat pengalaman yang tidak biasa saat berwisata."
       },
       "romaji": "taiken"
     },
@@ -23598,9 +23598,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "体験ツアーについて教えてください。",
-        "kana": "たいけんつあー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tur  pengalaman."
+        "jp": "とうげいのたいけんツアーにさんかしました。",
+        "kana": "とうげい の たいけんツアー に さんか しました。",
+        "meaning": "Saya mengikuti tur untuk mencoba membuat keramik."
       },
       "romaji": "taikentsuaa"
     },
@@ -23671,9 +23671,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "楽しむこともあります。",
-        "kana": "たのしむ ことも あります。",
-        "meaning": "Ada kalanya menikmati."
+        "jp": "ともだちとしょくじをたのしみました。",
+        "kana": "ともだち と しょくじ を たのしみました。",
+        "meaning": "Saya menikmati makan bersama teman."
       },
       "romaji": "tanoshimu"
     },
@@ -23708,9 +23708,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "つりについて教えてください。",
-        "kana": "つり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang memancing."
+        "jp": "かわでつりをしました。",
+        "kana": "かわ で つり を しました。",
+        "meaning": "Saya memancing di sungai."
       },
       "romaji": "tsuri"
     },
@@ -23840,9 +23840,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "むかしについて教えてください。",
-        "kana": "むかし に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang dulu."
+        "jp": "むかし、ここにがっこうがありました。",
+        "kana": "むかし、ここ に がっこう が ありました。",
+        "meaning": "Dahulu ada sekolah di sini."
       },
       "romaji": "mukashi"
     },
@@ -23883,9 +23883,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "無料について教えてください。",
-        "kana": "むりょう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang gratis."
+        "jp": "このはくぶつかんはにゅうじょうがむりょうです。",
+        "kana": "この はくぶつかん は にゅうじょう が むりょう です。",
+        "meaning": "Masuk museum ini gratis."
       },
       "romaji": "muryou"
     },
@@ -23914,9 +23914,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "山のぼりについて教えてください。",
-        "kana": "やまのぼり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang naik gunung."
+        "jp": "あきにやまのぼりにいきます。",
+        "kana": "あき に やまのぼり に いきます。",
+        "meaning": "Saya akan mendaki gunung pada musim gugur."
       },
       "romaji": "yamanobori"
     },
@@ -23963,9 +23963,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "集まることもあります。",
-        "kana": "あつまる ことも あります。",
-        "meaning": "Ada kalanya berkumpul."
+        "jp": "さんじにえきのまえにあつまってください。",
+        "kana": "さんじ に えき の まえ に あつまって ください。",
+        "meaning": "Silakan berkumpul di depan stasiun pukul tiga."
       },
       "romaji": "atsumaru"
     },
@@ -23996,9 +23996,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "うちわについて教えてください。",
-        "kana": "うちわ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang uchiwa."
+        "jp": "あついので、うちわであおぎました。",
+        "kana": "あつい ので、うちわ で あおぎました。",
+        "meaning": "Saya mengipasi diri dengan kipas uchiwa karena panas."
       },
       "romaji": "uchiwa"
     },
@@ -24027,9 +24027,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "大雨について教えてください。",
-        "kana": "おおあめ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang hujan deras."
+        "jp": "おおあめでどうろがみずにつかりました。",
+        "kana": "おおあめ で どうろ が みず に つかりました。",
+        "meaning": "Jalan terendam akibat hujan deras."
       },
       "romaji": "ooame"
     },
@@ -24058,9 +24058,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お昼ご飯について教えてください。",
-        "kana": "おひるごはん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang makan siang."
+        "jp": "おひるごはんはもうたべましたか。",
+        "kana": "おひるごはん は もう たべましたか。",
+        "meaning": "Apakah Anda sudah makan siang?"
       },
       "romaji": "ohirugohan"
     },
@@ -24087,9 +24087,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おれいについて教えてください。",
-        "kana": "おれい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang ungkapan terima kasih."
+        "jp": "てつだってくれたともだちにおれいをいいました。",
+        "kana": "てつだって くれた ともだち に おれい を いいました。",
+        "meaning": "Saya mengucapkan terima kasih kepada teman yang membantu."
       },
       "romaji": "orei"
     },
@@ -24120,9 +24120,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かたづけについて教えてください。",
-        "kana": "かたづけ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang rapikan."
+        "jp": "しょくじのあとのかたづけをてつだいます。",
+        "kana": "しょくじ の あと の かたづけ を てつだいます。",
+        "meaning": "Saya membantu membereskan setelah makan."
       },
       "romaji": "katazuke"
     },
@@ -24161,9 +24161,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かたづけることもあります。",
-        "kana": "かたづける ことも あります。",
-        "meaning": "Ada kalanya merapikan."
+        "jp": "つかったほんをかたづけてください。",
+        "kana": "つかった ほん を かたづけて ください。",
+        "meaning": "Silakan rapikan buku yang sudah dipakai."
       },
       "romaji": "katazukeru"
     },
@@ -24194,9 +24194,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "カラオケコンテストについて教えてください。",
-        "kana": "からおけこんてすと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kontes karaoke."
+        "jp": "カラオケコンテストでうたをうたいました。",
+        "kana": "カラオケコンテスト で うた を うたいました。",
+        "meaning": "Saya menyanyikan lagu dalam kontes karaoke."
       },
       "romaji": "karaokekontesuto"
     },
@@ -24223,9 +24223,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "きゅうけいについて教えてください。",
-        "kana": "きゅうけい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang istirahat."
+        "jp": "すこしきゅうけいをしましょう。",
+        "kana": "すこし きゅうけい を しましょう。",
+        "meaning": "Mari beristirahat sebentar."
       },
       "romaji": "kyuukei"
     },
@@ -24283,9 +24283,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "こうたいについて教えてください。",
-        "kana": "こうたい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang bergantian."
+        "jp": "うんてんはこうたいでしましょう。",
+        "kana": "うんてん は こうたい で しましょう。",
+        "meaning": "Mari mengemudi secara bergantian."
       },
       "romaji": "koutai"
     },
@@ -24316,9 +24316,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "コンテストについて教えてください。",
-        "kana": "こんてすと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kontes."
+        "jp": "しゃしんのコンテストにおうぼしました。",
+        "kana": "しゃしん の コンテスト に おうぼ しました。",
+        "meaning": "Saya mengirim karya untuk mengikuti kontes foto."
       },
       "romaji": "kontesuto"
     },
@@ -24404,9 +24404,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "さつえいについて教えてください。",
-        "kana": "さつえい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pemotretan."
+        "jp": "ここでのさつえいはきんしされています。",
+        "kana": "ここ で の さつえい は きんし されて います。",
+        "meaning": "Pengambilan gambar di sini dilarang."
       },
       "romaji": "satsuei"
     },
@@ -24437,9 +24437,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "しかいについて教えてください。",
-        "kana": "しかい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang memandu acara."
+        "jp": "イベントのしかいをたのみました。",
+        "kana": "イベント の しかい を たのみました。",
+        "meaning": "Saya meminta seseorang memandu acara."
       },
       "romaji": "shikai"
     },
@@ -24523,9 +24523,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "じゅんびについて教えてください。",
-        "kana": "じゅんび に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang persiapan."
+        "jp": "りょこうのじゅんびはできましたか。",
+        "kana": "りょこう の じゅんび は できましたか。",
+        "meaning": "Apakah persiapan perjalanan sudah selesai?"
       },
       "romaji": "junbi"
     },
@@ -24554,9 +24554,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "説明会について教えてください。",
-        "kana": "せつめいかい に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang sesi penjelasan."
+        "jp": "しごとのせつめいかいにいきました。",
+        "kana": "しごと の せつめいかい に いきました。",
+        "meaning": "Saya pergi ke sesi penjelasan pekerjaan."
       },
       "romaji": "setsumeikai"
     },
@@ -24590,9 +24590,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "中止することもあります。",
-        "kana": "ちゅうしする ことも あります。",
-        "meaning": "Ada kalanya menghentikan."
+        "jp": "あめのため、イベントをちゅうししました。",
+        "kana": "あめ の ため、イベント を ちゅうし しました。",
+        "meaning": "Kami membatalkan acara karena hujan."
       },
       "romaji": "chuushisuru"
     },
@@ -24623,9 +24623,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "つごうについて教えてください。",
-        "kana": "つごう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang keadaaan."
+        "jp": "あしたのごごはつごうがいいです。",
+        "kana": "あした の ごご は つごう が いい です。",
+        "meaning": "Besok sore saya bisa meluangkan waktu."
       },
       "romaji": "tsugou"
     },
@@ -24689,9 +24689,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "日本祭について教えてください。",
-        "kana": "にほんまつり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Festival Jepang."
+        "jp": "にほんまつりでたこやきをたべました。",
+        "kana": "にほんまつり で たこやき を たべました。",
+        "meaning": "Saya makan takoyaki di festival Jepang."
       },
       "romaji": "nihonmatsuri"
     },
@@ -24718,9 +24718,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "はりがみについて教えてください。",
-        "kana": "はりがみ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang poster."
+        "jp": "いりぐちにはりがみがあります。",
+        "kana": "いりぐち に はりがみ が あります。",
+        "meaning": "Ada poster yang ditempel di pintu masuk."
       },
       "romaji": "harigami"
     },
@@ -24751,9 +24751,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ビデオカメラについて教えてください。",
-        "kana": "びでおかめら に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang kamera video."
+        "jp": "ビデオカメラでこどものようすをとりました。",
+        "kana": "ビデオカメラ で こども の ようす を とりました。",
+        "meaning": "Saya merekam kegiatan anak dengan kamera video."
       },
       "romaji": "bideokamera"
     },
@@ -24790,9 +24790,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "募集について教えてください。",
-        "kana": "ぼしゅう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang perekrutan."
+        "jp": "スタッフのぼしゅうがはじまりました。",
+        "kana": "スタッフ の ぼしゅう が はじまりました。",
+        "meaning": "Perekrutan staf sudah dimulai."
       },
       "romaji": "boshuu"
     },
@@ -24827,9 +24827,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ボランティアについて教えてください。",
-        "kana": "ぼらんてぃあ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang sukarelawan."
+        "jp": "ボランティアとしてこうえんをそうじしました。",
+        "kana": "ボランティア として こうえん を そうじ しました。",
+        "meaning": "Saya membersihkan taman sebagai sukarelawan."
       },
       "romaji": "borantia"
     },
@@ -24856,9 +24856,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ボランティアスタッフについて教えてください。",
-        "kana": "ぼらんてぃあすたっふ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang staf sukarelawan."
+        "jp": "ボランティアスタッフがあんないしてくれました。",
+        "kana": "ボランティアスタッフ が あんない して くれました。",
+        "meaning": "Staf sukarelawan memandu saya."
       },
       "romaji": "borantiasutaffu"
     },
@@ -24885,9 +24885,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ぼんおどりについて教えてください。",
-        "kana": "ぼんおどり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Bon Odori."
+        "jp": "まつりでぼんおどりをおどりました。",
+        "kana": "まつり で ぼんおどり を おどりました。",
+        "meaning": "Saya menari Bon Odori di festival."
       },
       "romaji": "bonodori"
     },
@@ -24963,9 +24963,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "もうしこむこともあります。",
-        "kana": "もうしこむ ことも あります。",
-        "meaning": "Ada kalanya mendaftar."
+        "jp": "にほんごのクラスにもうしこみました。",
+        "kana": "にほんご の クラス に もうしこみました。",
+        "meaning": "Saya mendaftar kelas bahasa Jepang."
       },
       "romaji": "moushikomu"
     },
@@ -24992,9 +24992,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "れんらくさきについて教えてください。",
-        "kana": "れんらくさき に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang informasi kontak."
+        "jp": "れんらくさきをここにかいてください。",
+        "kana": "れんらくさき を ここ に かいて ください。",
+        "meaning": "Silakan tulis informasi kontak di sini."
       },
       "romaji": "renrakusaki"
     },
@@ -25021,9 +25021,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "わすれものについて教えてください。",
-        "kana": "わすれもの に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang barang hilang."
+        "jp": "でんしゃにわすれものをしました。",
+        "kana": "でんしゃ に わすれもの を しました。",
+        "meaning": "Saya meninggalkan barang di kereta."
       },
       "romaji": "wasuremono"
     },
@@ -25050,9 +25050,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "イベントプログラムについて教えてください。",
-        "kana": "いべんとぷろぐらむ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang program acara."
+        "jp": "イベントプログラムでじかんをかくにんしました。",
+        "kana": "イベントプログラム で じかん を かくにん しました。",
+        "meaning": "Saya memeriksa waktu di susunan acara."
       },
       "romaji": "ibentopuroguramu"
     },
@@ -25081,9 +25081,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "空手デモンストレーションについて教えてください。",
-        "kana": "からてでもんすとれーしょん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang demo karate."
+        "jp": "ステージでからてデモンストレーションがはじまりました。",
+        "kana": "ステージ で からてデモンストレーション が はじまりました。",
+        "meaning": "Demonstrasi karate dimulai di panggung."
       },
       "romaji": "karatedemonsutoreeshon"
     },
@@ -25116,9 +25116,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "参加者について教えてください。",
-        "kana": "さんかしゃ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang peserta."
+        "jp": "さんかしゃはいりぐちにあつまってください。",
+        "kana": "さんかしゃ は いりぐち に あつまって ください。",
+        "meaning": "Para peserta silakan berkumpul di pintu masuk."
       },
       "romaji": "sankasha"
     },
@@ -25149,9 +25149,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ジェイポップコンサートについて教えてください。",
-        "kana": "じぇいぽっぷこんさーと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang konser J-pop."
+        "jp": "ジェイポップコンサートのチケットをかいました。",
+        "kana": "ジェイポップコンサート の チケット を かいました。",
+        "meaning": "Saya membeli tiket konser J-pop."
       },
       "romaji": "jeipoppukonsaato"
     },
@@ -25182,9 +25182,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "たいこについて教えてください。",
-        "kana": "たいこ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang taiko."
+        "jp": "まつりでたいこをたたきました。",
+        "kana": "まつり で たいこ を たたきました。",
+        "meaning": "Saya menabuh taiko di festival."
       },
       "romaji": "taiko"
     },
@@ -25277,9 +25277,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "チェックについて教えてください。",
-        "kana": "ちぇっく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang periksa."
+        "jp": "しゅっぱつのまえににもつのチェックをします。",
+        "kana": "しゅっぱつ の まえ に にもつ の チェック を します。",
+        "meaning": "Saya melakukan pemeriksaan barang bawaan sebelum berangkat."
       },
       "romaji": "chekku"
     },
@@ -25310,9 +25310,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "デモンストレーションについて教えてください。",
-        "kana": "でもんすとれーしょん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang demonstrasi."
+        "jp": "りょうりのデモンストレーションをみました。",
+        "kana": "りょうり の デモンストレーション を みました。",
+        "meaning": "Saya menonton demonstrasi memasak."
       },
       "romaji": "demonsutoreeshon"
     },
@@ -25374,9 +25374,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ひとばんじゅうについて教えてください。",
-        "kana": "ひとばんじゅう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang semalaman."
+        "jp": "あらしでひとばんじゅうねむれませんでした。",
+        "kana": "あらし で ひとばんじゅう ねむれませんでした。",
+        "meaning": "Saya tidak bisa tidur semalaman karena badai."
       },
       "romaji": "hitobanjuu"
     },
@@ -25403,9 +25403,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "マイクについて教えてください。",
-        "kana": "まいく に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pelantang suara."
+        "jp": "マイクをつかってはなしてください。",
+        "kana": "マイク を つかって はなして ください。",
+        "meaning": "Silakan berbicara menggunakan mikrofon."
       },
       "romaji": "maiku"
     },
@@ -25439,9 +25439,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ゆうしょうすることもあります。",
-        "kana": "ゆうしょうする ことも あります。",
-        "meaning": "Ada kalanya menjuarai."
+        "jp": "わたしたちのチームがゆうしょうしました。",
+        "kana": "わたしたち の チーム が ゆうしょう しました。",
+        "meaning": "Tim kami menjadi juara."
       },
       "romaji": "yuushousuru"
     },
@@ -25470,9 +25470,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "売りきれについて教えてください。",
-        "kana": "うりきれ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang habis terjual."
+        "jp": "そのパンはもううりきれです。",
+        "kana": "その パン は もう うりきれ です。",
+        "meaning": "Roti itu sudah habis terjual."
       },
       "romaji": "urikire"
     },
@@ -25505,9 +25505,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "大そうじについて教えてください。",
-        "kana": "おおそうじ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang membersihkan rumah dalam rangka tahun baru."
+        "jp": "ねんまつにかぞくでおおそうじをします。",
+        "kana": "ねんまつ に かぞく で おおそうじ を します。",
+        "meaning": "Pada akhir tahun kami sekeluarga melakukan bersih-bersih besar."
       },
       "romaji": "oosouji"
     },
@@ -25538,9 +25538,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おおみそかについて教えてください。",
-        "kana": "おおみそか に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang malam tahun baru."
+        "jp": "おおみそかにそばをたべます。",
+        "kana": "おおみそか に そば を たべます。",
+        "meaning": "Saya makan soba pada malam pergantian tahun."
       },
       "romaji": "oomisoka"
     },
@@ -25573,9 +25573,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "大雪について教えてください。",
-        "kana": "おおゆき に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang salju tebal."
+        "jp": "おおゆきでがっこうがやすみになりました。",
+        "kana": "おおゆき で がっこう が やすみ に なりました。",
+        "meaning": "Sekolah diliburkan akibat salju lebat."
       },
       "romaji": "ooyuki"
     },
@@ -25608,9 +25608,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お正月について教えてください。",
-        "kana": "おしょうがつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Tahun Baru."
+        "jp": "おしょうがつにそふぼのうちにいきます。",
+        "kana": "おしょうがつ に そふぼ の うち に いきます。",
+        "meaning": "Saya mengunjungi rumah kakek dan nenek saat Tahun Baru."
       },
       "romaji": "oshougatsu"
     },
@@ -25643,9 +25643,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "親について教えてください。",
-        "kana": "おや に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang orang tua."
+        "jp": "こまったときはおやにそうだんします。",
+        "kana": "こまった とき は おや に そうだん します。",
+        "meaning": "Saya berkonsultasi dengan orang tua saat kesulitan."
       },
       "romaji": "oya"
     },
@@ -25684,9 +25684,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "帰国することもあります。",
-        "kana": "きこくする ことも あります。",
-        "meaning": "Ada kalanya kembali ke negara asal."
+        "jp": "らいげつ、インドネシアにきこくします。",
+        "kana": "らいげつ、インドネシア に きこく します。",
+        "meaning": "Bulan depan saya akan kembali ke Indonesia, negara asal saya."
       },
       "romaji": "kikokusuru"
     },
@@ -25713,9 +25713,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "クリスマスコンサートについて教えてください。",
-        "kana": "くりすますこんさーと に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang konser Natal."
+        "jp": "クリスマスコンサートでピアノをひきました。",
+        "kana": "クリスマスコンサート で ピアノ を ひきました。",
+        "meaning": "Saya bermain piano dalam konser Natal."
       },
       "romaji": "kurisumasukonsaato"
     },
@@ -25748,9 +25748,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "昨年について教えてください。",
-        "kana": "さくねん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tahun lalu."
+        "jp": "さくねん、にほんごのべんきょうをはじめました。",
+        "kana": "さくねん、にほんご の べんきょう を はじめました。",
+        "meaning": "Saya mulai belajar bahasa Jepang tahun lalu."
       },
       "romaji": "sakunen"
     },
@@ -25810,9 +25810,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "正月休みについて教えてください。",
-        "kana": "しょうがつやすみ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang libur tahun baru."
+        "jp": "しょうがつやすみはふるさとにかえります。",
+        "kana": "しょうがつやすみ は ふるさと に かえります。",
+        "meaning": "Saya akan pulang kampung saat libur Tahun Baru."
       },
       "romaji": "shougatsuyasumi"
     },
@@ -25841,9 +25841,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "新年について教えてください。",
-        "kana": "しんねん に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang tahun baru."
+        "jp": "しんねんをかぞくとむかえました。",
+        "kana": "しんねん を かぞく と むかえました。",
+        "meaning": "Saya menyambut tahun baru bersama keluarga."
       },
       "romaji": "shinnen"
     },
@@ -25945,9 +25945,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "ニューイヤーパーティーについて教えてください。",
-        "kana": "にゅーいやーぱーてぃー に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Pesta Tahun Baru."
+        "jp": "ニューイヤーパーティーにともだちをさそいました。",
+        "kana": "ニューイヤーパーティー に ともだち を さそいました。",
+        "meaning": "Saya mengajak teman ke pesta Tahun Baru."
       },
       "romaji": "nyuuiyaapaatii"
     },
@@ -25976,9 +25976,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "年始について教えてください。",
-        "kana": "ねんし に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang awal tahun."
+        "jp": "ねんしはみせがやすみになります。",
+        "kana": "ねんし は みせ が やすみ に なります。",
+        "meaning": "Toko akan tutup pada awal tahun."
       },
       "romaji": "nenshi"
     },
@@ -26007,9 +26007,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "年末について教えてください。",
-        "kana": "ねんまつ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang akhir tahun."
+        "jp": "ねんまつはしごとがいそがしいです。",
+        "kana": "ねんまつ は しごと が いそがしい です。",
+        "meaning": "Pekerjaan saya sibuk pada akhir tahun."
       },
       "romaji": "nenmatsu"
     },
@@ -26038,9 +26038,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "年末年始について教えてください。",
-        "kana": "ねんまつねんし に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang akhir tahun dan awal tahun baru."
+        "jp": "ねんまつねんしのよていをきめました。",
+        "kana": "ねんまつねんし の よてい を きめました。",
+        "meaning": "Saya sudah menentukan rencana untuk akhir tahun dan awal tahun baru."
       },
       "romaji": "nenmatsunenshi"
     },
@@ -26083,9 +26083,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "もどることもあります。",
-        "kana": "もどる ことも あります。",
-        "meaning": "Ada kalanya kembali."
+        "jp": "わすれものをとりにうちにもどりました。",
+        "kana": "わすれもの を とりに うち に もどりました。",
+        "meaning": "Saya kembali ke rumah untuk mengambil barang yang tertinggal."
       },
       "romaji": "modoru"
     },
@@ -26123,9 +26123,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "いのることもあります。",
-        "kana": "いのる ことも あります。",
-        "meaning": "Ada kalanya berdoa."
+        "jp": "かぞくのけんこうをいのります。",
+        "kana": "かぞく の けんこう を いのります。",
+        "meaning": "Saya berdoa untuk kesehatan keluarga."
       },
       "romaji": "inoru"
     },
@@ -26171,9 +26171,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "祝うこともあります。",
-        "kana": "いわう ことも あります。",
-        "meaning": "Ada kalanya merayakan."
+        "jp": "ともだちのたんじょうびをいわいました。",
+        "kana": "ともだち の たんじょうび を いわいました。",
+        "meaning": "Saya merayakan ulang tahun teman."
       },
       "romaji": "iwau"
     },
@@ -26215,9 +26215,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "受けることもあります。",
-        "kana": "うける ことも あります。",
-        "meaning": "Ada kalanya mengikuti ujian."
+        "jp": "らいしゅう、にほんごのしけんをうけます。",
+        "kana": "らいしゅう、にほんご の しけん を うけます。",
+        "meaning": "Minggu depan saya akan mengikuti ujian bahasa Jepang."
       },
       "romaji": "ukeru"
     },
@@ -26273,9 +26273,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "えまについて教えてください。",
-        "kana": "えま に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang ema."
+        "jp": "えまにねがいごとをかきました。",
+        "kana": "えま に ねがいごと を かきました。",
+        "meaning": "Saya menuliskan harapan pada papan ema."
       },
       "romaji": "ema"
     },
@@ -26309,9 +26309,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おこることもあります。",
-        "kana": "おこる ことも あります。",
-        "meaning": "Ada kalanya timbul."
+        "jp": "じこがおこらないようにちゅういします。",
+        "kana": "じこ が おこらない ように ちゅうい します。",
+        "meaning": "Saya berhati-hati agar tidak terjadi kecelakaan."
       },
       "romaji": "okoru"
     },
@@ -26352,9 +26352,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "お知らせについて教えてください。",
-        "kana": "おしらせ に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pengumuman."
+        "jp": "がっこうからのおしらせをよみました。",
+        "kana": "がっこう から の おしらせ を よみました。",
+        "meaning": "Saya membaca pengumuman dari sekolah."
       },
       "romaji": "oshirase"
     },
@@ -26388,9 +26388,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おちることもあります。",
-        "kana": "おちる ことも あります。",
-        "meaning": "Ada kalanya tidak lulus tes."
+        "jp": "しけんにおちてしまいました。",
+        "kana": "しけん に おちて しまいました。",
+        "meaning": "Saya tidak lulus ujian."
       },
       "romaji": "ochiru"
     },
@@ -26424,9 +26424,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "おることもあります。",
-        "kana": "おる ことも あります。",
-        "meaning": "Ada kalanya melipat."
+        "jp": "かみをはんぶんにおります。",
+        "kana": "かみ を はんぶん に おります。",
+        "meaning": "Saya melipat kertas menjadi dua."
       },
       "romaji": "oru"
     },
@@ -26506,9 +26506,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かざりについて教えてください。",
-        "kana": "かざり に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang pajangan."
+        "jp": "へやにクリスマスのかざりをつけました。",
+        "kana": "へや に クリスマス の かざり を つけました。",
+        "meaning": "Saya memasang hiasan Natal di kamar."
       },
       "romaji": "kazari"
     },
@@ -26568,9 +26568,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "かみさまについて教えてください。",
-        "kana": "かみさま に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang Tuhan."
+        "jp": "かみさまにおいのりをしました。",
+        "kana": "かみさま に おいのり を しました。",
+        "meaning": "Saya berdoa kepada Tuhan."
       },
       "romaji": "kamisama"
     },
@@ -26597,9 +26597,9 @@
       "scope": "N4 / A2",
       "note": "",
       "example": {
-        "jp": "きゅうりょうについて教えてください。",
-        "kana": "きゅうりょう に ついて おしえてください。",
-        "meaning": "Tolong jelaskan tentang gaji."
+        "jp": "きゅうりょうがはいったので、ちょきんしました。",
+        "kana": "きゅうりょう が はいった ので、ちょきん しました。",
+        "meaning": "Saya menabung setelah menerima gaji."
       },
       "romaji": "kyuuryou"
     },

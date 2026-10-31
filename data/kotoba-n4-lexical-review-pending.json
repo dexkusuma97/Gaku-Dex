@@ -1,0 +1,118 @@
+{
+  "status": "pending-source-verification",
+  "note": "Observed during contextual example review; not corrected or certified by this batch. No guessed sense splits.",
+  "entries": [
+    {
+      "id": "kotoba-n4-a8f9b8613976",
+      "jp": "つゆ",
+      "kana": "つゆ",
+      "meaning": "musim hujan / saus kaldu (saus celup)",
+      "reason": "topic-frame",
+      "reviewNote": "Makna musim hujan dan saus celup tercampur; perlu pemisahan makna dengan sumber."
+    },
+    {
+      "id": "kotoba-n4-640190f83a3f",
+      "jp": "ぬ",
+      "kana": "にる",
+      "meaning": "mirip",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri ぬ tidak cocok dengan bacaan にる; verifikasi sumber sebelum koreksi."
+    },
+    {
+      "id": "kotoba-n4-dc0ac2925eb7",
+      "jp": "バッハ",
+      "kana": "ばっは",
+      "meaning": "Bach (Johann Sebastian) / Bach, Johann Sebastian",
+      "reason": "topic-frame",
+      "reviewNote": "Nama Bach masih lolos aturan tanpa kartu nama orang."
+    },
+    {
+      "id": "kotoba-n4-903a2f97cf46",
+      "jp": "びん",
+      "kana": "びん",
+      "meaning": "penerbangan / botol kaca / botol (kaca)",
+      "reason": "topic-frame",
+      "reviewNote": "Makna penerbangan dan botol bercampur."
+    },
+    {
+      "id": "kotoba-n4-31670e09ed35",
+      "jp": "かいご",
+      "kana": "かいご",
+      "meaning": "perawat/pengasuh",
+      "reason": "topic-frame",
+      "reviewNote": "かいご diterjemahkan profesi; perlu cek antara kegiatan perawatan dan pekerja."
+    },
+    {
+      "id": "kotoba-n4-1a700c896e93",
+      "jp": "しゅうしょく",
+      "kana": "しゅうしょく",
+      "meaning": "pencarian kerja",
+      "reason": "topic-frame",
+      "reviewNote": "しゅうしょく perlu cek arti mendapat pekerjaan versus kegiatan mencari pekerjaan."
+    },
+    {
+      "id": "kotoba-n4-f8dd78c72669",
+      "jp": "とれる",
+      "kana": "とれる",
+      "meaning": "untuk melepas lelah/untuk merasa segar / petik; memetik",
+      "reason": "occasional-frame",
+      "reviewNote": "とれる memiliki makna berbeda yang perlu ditinjau per konteks."
+    },
+    {
+      "id": "kotoba-n4-51d52b0f29a9",
+      "jp": "ホーム",
+      "kana": "ほーむ",
+      "meaning": "peron / homepage; laman",
+      "reason": "topic-frame",
+      "reviewNote": "ホーム mencampurkan peron dan homepage."
+    },
+    {
+      "id": "kotoba-n4-e1a38346f85e",
+      "jp": "モネ",
+      "kana": "もね",
+      "meaning": "Claude Monet",
+      "reason": "topic-frame",
+      "reviewNote": "Nama Monet masih lolos aturan tanpa kartu nama orang."
+    },
+    {
+      "id": "kotoba-n4-34884fc30075",
+      "jp": "こくさい結婚",
+      "kana": "こくさいけっこんする",
+      "meaning": "pernikahan internasional/antarbangsa",
+      "reason": "occasional-frame",
+      "reviewNote": "Bacaan nominal berakhiran する perlu ditinjau."
+    },
+    {
+      "id": "kotoba-n4-0e47e5d6aaad",
+      "jp": "のこする",
+      "kana": "のこす",
+      "meaning": "menyisakan",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri のこする berbeda dari bacaan のこす."
+    },
+    {
+      "id": "kotoba-n4-75935806ab3e",
+      "jp": "さがする",
+      "kana": "さがす",
+      "meaning": "mencari",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri さがする berbeda dari bacaan さがす."
+    },
+    {
+      "id": "kotoba-n4-3aa03b5369b5",
+      "jp": "じしん",
+      "kana": "じしん",
+      "meaning": "percaya diri/kepercayaan atas diri sendiri / gempa bumi",
+      "reason": "topic-frame",
+      "reviewNote": "Makna percaya diri dan gempa bercampur."
+    },
+    {
+      "id": "kotoba-n4-374954d7531e",
+      "jp": "すごする",
+      "kana": "すごす",
+      "meaning": "menghabiskan waktu",
+      "reason": "occasional-frame",
+      "reviewNote": "Kepala entri すごする berbeda dari bacaan すごす."
+    }
+  ]
+}

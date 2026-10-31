@@ -22,3 +22,14 @@ Ekstrak ZIP patch ke akar repository Gaku-Dex yang memiliki folder data, scripts
 Total 173 contoh (138 sebelumnya + 35 baru). Seluruh 173 kolom kana diberi spasi manual; teks Jepang utama tidak berubah karena penambahan spasi. Romanisasi contoh mengikuti spasi tersebut, termasuk は menjadi wa ketika berperan sebagai partikel. Contoh あかちゃん: akachan ga nete imasu.
 
 Antrean tersisa 2.064 contoh. Penambahan spasi belum mencakup seluruh contoh lama di luar batch editorial ini. Pemisahan bersifat bantuan membaca, bukan analisis morfologi otomatis. Paket batch 2 sudah mencakup batch 1; jalankan pasang.sh sesuai BACA-DULU.txt.
+
+
+## Batch 3 — total 500
+
+327 contoh tambahan ditulis per entri, menjadikan total 500 contoh kontekstual unik dengan spasi bacaan. Contoh kalimat baru bukan kutipan penerbit dan belum sertifikasi linguistik pihak ketiga. Spasi dibagi untuk membantu pembaca; akhiran kata tetap disatukan bila sesuai, partikel dipisahkan. Seluruhnya memakai romanisasi yang sudah ada pada aplikasi.
+
+Antrean bingkai berulang tersisa 1.737. Tambahan data/kotoba-n4-lexical-review-pending.json mencatat 14 masalah yang terlihat dan belum ditindaklanjuti. Tidak menganggap contoh kalimat baru menyelesaikan seluruh ambiguitas makna kepala entri.
+
+Verifikasi: 500 kalimat unik, ID dan jumlah kartu terjaga, penghapusan spasi pada bacaan sama persis dengan Jepang utama, output romaji contoh teruji. Build penuh dari normalisasi menghasilkan record aktif sama persis; 37 berkas tes lulus. Paket kumulatif batch 3 menggantikan kebutuhan memasang batch terdahulu.
+
+- Batch 3 juga memperbaiki romanisasi gabungan katakana asing (misalnya ウォ, ティ, ファ) di helper bersama; grid kana tidak berubah. Tes semua 500 contoh memastikan tidak ada kana tersisa di romaji.

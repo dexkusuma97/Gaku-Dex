@@ -174,188 +174,347 @@
     "kotoba-n4-b8f9c0af73a9",
     "kotoba-n4-55feff031f07",
     "kotoba-n4-48fab10c5595",
-    "kotoba-n4-94bcb332fed6"
+    "kotoba-n4-94bcb332fed6",
+    "kotoba-n4-b9cdf9b233bb",
+    "kotoba-n4-0d01167ebe80",
+    "kotoba-n4-186a92076b2e",
+    "kotoba-n4-6b550c8dbca0",
+    "kotoba-n4-c480c5d01966",
+    "kotoba-n4-bcdcf4a9cfea",
+    "kotoba-n4-3a60344c8e41",
+    "kotoba-n4-d41d3ac23c27",
+    "kotoba-n4-b990f1dac786",
+    "kotoba-n4-a9c1e6077f3e",
+    "kotoba-n4-169c3b48d46d",
+    "kotoba-n4-b2b4367df7fe",
+    "kotoba-n4-375b527a94a5",
+    "kotoba-n4-77d2f094bec2",
+    "kotoba-n4-81ecfb22c810",
+    "kotoba-n4-9723964006ba",
+    "kotoba-n4-a537c9da5514",
+    "kotoba-n4-02b38d19e3c1",
+    "kotoba-n4-e7147392fbad",
+    "kotoba-n4-aeb61d059454",
+    "kotoba-n4-adf7ec8d36a6",
+    "kotoba-n4-9244f2f379c6",
+    "kotoba-n4-65f27de9ec24",
+    "kotoba-n4-4ec6162d188b",
+    "kotoba-n4-3c7640990b93",
+    "kotoba-n4-20ba5fe46a81",
+    "kotoba-n4-957696bc805f",
+    "kotoba-n4-c1a437754042",
+    "kotoba-n4-bca33e07823f",
+    "kotoba-n4-6673c28618ab",
+    "kotoba-n4-f099af8cdb8a",
+    "kotoba-n4-45cd9649ec88",
+    "kotoba-n4-75ee5e427697",
+    "kotoba-n4-d9bb15b0d526",
+    "kotoba-n4-dbade8fbb135",
+    "kotoba-n4-7d28adca723b",
+    "kotoba-n4-076d44c2eeea",
+    "kotoba-n4-d0ac91a6dee5",
+    "kotoba-n4-cdf5bfe65c49",
+    "kotoba-n4-10d17d56f584",
+    "kotoba-n4-9fff1d9a43a1",
+    "kotoba-n4-224fc3319908",
+    "kotoba-n4-47fb24835a14",
+    "kotoba-n4-63139c0a8ec2",
+    "kotoba-n4-4579c51dcd81",
+    "kotoba-n4-7bcc12928323",
+    "kotoba-n4-39d5701ce3f6",
+    "kotoba-n4-222834f20029",
+    "kotoba-n4-79f9982d27a4",
+    "kotoba-n4-db21845de41c",
+    "kotoba-n4-aec4f77a8084",
+    "kotoba-n4-885e0e06358a",
+    "kotoba-n4-b5e65f7e3dd3",
+    "kotoba-n4-c178bc97cde4",
+    "kotoba-n4-c2d0c864a734",
+    "kotoba-n4-a7189c7cc841",
+    "kotoba-n4-ca09684f8666",
+    "kotoba-n4-5e4fb71d13ce",
+    "kotoba-n4-2d54274f11b0",
+    "kotoba-n4-de864b7fa3c3",
+    "kotoba-n4-8e5d5db17a86",
+    "kotoba-n4-529a9e4634e0",
+    "kotoba-n4-fbc0c594c41d",
+    "kotoba-n4-ea1df4e6f72a",
+    "kotoba-n4-ed81e2fd5d13",
+    "kotoba-n4-5b38215fa325",
+    "kotoba-n4-a55bf0d65ae3",
+    "kotoba-n4-f58b2adad491",
+    "kotoba-n4-7b5a16033e00",
+    "kotoba-n4-46232f0dbf5b",
+    "kotoba-n4-727b6fb8e249",
+    "kotoba-n4-276081f9203a",
+    "kotoba-n4-8f2e65bfa79f",
+    "kotoba-n4-3962251eb05b",
+    "kotoba-n4-18836ee2c78c",
+    "kotoba-n4-4afd2ded846f",
+    "kotoba-n4-5c82bec6ebfa",
+    "kotoba-n4-e365e33d5e95",
+    "kotoba-n4-1a43c14269f1",
+    "kotoba-n4-d89dff764bc6",
+    "kotoba-n4-5b372d47b019",
+    "kotoba-n4-00592df28217",
+    "kotoba-n4-a0f522e26d63",
+    "kotoba-n4-fb70adf124f8",
+    "kotoba-n4-0d8b8cd257e9",
+    "kotoba-n4-1f81658e9cdb",
+    "kotoba-n4-b11bb8df27d9",
+    "kotoba-n4-5e44a3ab4272",
+    "kotoba-n4-603f374ee576",
+    "kotoba-n4-d06d2454d55e",
+    "kotoba-n4-947f9b0d0fb7",
+    "kotoba-n4-cfb469074f03",
+    "kotoba-n4-28d46b5dc850",
+    "kotoba-n4-05174085660c",
+    "kotoba-n4-82f1718d406f",
+    "kotoba-n4-66cbd188878c",
+    "kotoba-n4-f77b71fac6f4",
+    "kotoba-n4-e79ac5c81d99",
+    "kotoba-n4-a312f492f8f1",
+    "kotoba-n4-62eaa2898464",
+    "kotoba-n4-4f330df33d02",
+    "kotoba-n4-9273c950ce90",
+    "kotoba-n4-2b1a438a90e2",
+    "kotoba-n4-f9e77619c741",
+    "kotoba-n4-2792be6bfee7",
+    "kotoba-n4-cd6805802d11",
+    "kotoba-n4-a1fa25526ea5",
+    "kotoba-n4-7a5b1f1841fa",
+    "kotoba-n4-0b9e03dfe24d",
+    "kotoba-n4-5e48f6c5036e",
+    "kotoba-n4-afc281aaab42",
+    "kotoba-n4-7ecf924249ac",
+    "kotoba-n4-ef2b5119f703",
+    "kotoba-n4-3e5517742f8c",
+    "kotoba-n4-12f9531ec619",
+    "kotoba-n4-2cd573e331f2",
+    "kotoba-n4-2b89a0830c00",
+    "kotoba-n4-48ab6e5c344a",
+    "kotoba-n4-234392c71391",
+    "kotoba-n4-4a40db2e16dc",
+    "kotoba-n4-e17ab54e16d3",
+    "kotoba-n4-05cb1aef0ff5",
+    "kotoba-n4-1bdfb664c92a",
+    "kotoba-n4-662e75f07497",
+    "kotoba-n4-081a53c72aad",
+    "kotoba-n4-a93b6b683f0d",
+    "kotoba-n4-b1e2e95361dc",
+    "kotoba-n4-5195ae6bb347",
+    "kotoba-n4-ec1c41bfdfbd",
+    "kotoba-n4-7bf6730b93da",
+    "kotoba-n4-5b1cfc03ac8f",
+    "kotoba-n4-b2795e7e481c",
+    "kotoba-n4-95f16b65c6e3",
+    "kotoba-n4-79108418367a",
+    "kotoba-n4-d7c0467a0646",
+    "kotoba-n4-a70fd0b7840c",
+    "kotoba-n4-d4d4a673afd0",
+    "kotoba-n4-d8e4e8b5d9d4",
+    "kotoba-n4-b89a1283bd0c",
+    "kotoba-n4-f4de64c38713",
+    "kotoba-n4-ef99674eb1cd",
+    "kotoba-n4-056c65468dd7",
+    "kotoba-n4-43b3b7c6bf3a",
+    "kotoba-n4-bc733efebcee",
+    "kotoba-n4-f44411ee10d3",
+    "kotoba-n4-9feadd1974ff",
+    "kotoba-n4-92b98a7d97fe",
+    "kotoba-n4-f68232eff6fd",
+    "kotoba-n4-652a6a3bf30c",
+    "kotoba-n4-505560d58952",
+    "kotoba-n4-6cc5c390e0e9",
+    "kotoba-n4-ab33c9bf78db",
+    "kotoba-n4-a49bceb02499",
+    "kotoba-n4-baaaa99d5d8f",
+    "kotoba-n4-57ec6da891b7",
+    "kotoba-n4-5b80e6de5a36",
+    "kotoba-n4-9792deb1d5ca",
+    "kotoba-n4-8676a8208091",
+    "kotoba-n4-64acf04cdb4c",
+    "kotoba-n4-1328870d4561",
+    "kotoba-n4-bf9a41f8ab0d",
+    "kotoba-n4-555f9ff0c83b",
+    "kotoba-n4-37135e21720e",
+    "kotoba-n4-8fb5e2bb8392",
+    "kotoba-n4-d0ad99ebf7a7",
+    "kotoba-n4-49b637d666bd",
+    "kotoba-n4-799303466a84",
+    "kotoba-n4-bf88e52a3e0f",
+    "kotoba-n4-8eda6a01de58",
+    "kotoba-n4-64a357802c51",
+    "kotoba-n4-a49d2eac9d0d",
+    "kotoba-n4-bd59fdced871",
+    "kotoba-n4-64394fe5a56b",
+    "kotoba-n4-e959332f08c2",
+    "kotoba-n4-f024595e22cf",
+    "kotoba-n4-49dda7fe148f",
+    "kotoba-n4-b610163e5c77",
+    "kotoba-n4-66a62f3bf386",
+    "kotoba-n4-97513a7dcbcd",
+    "kotoba-n4-f37214c6cc02",
+    "kotoba-n4-3e4f6397f1b9",
+    "kotoba-n4-88587702fcf7",
+    "kotoba-n4-d9fe5b9ea89f",
+    "kotoba-n4-929f96968f5a",
+    "kotoba-n4-df7789989727",
+    "kotoba-n4-7ff195af7e54",
+    "kotoba-n4-65254743d7ca",
+    "kotoba-n4-7200ba78f041",
+    "kotoba-n4-20e2996a20b8",
+    "kotoba-n4-015f3488f161",
+    "kotoba-n4-5cf625062571",
+    "kotoba-n4-f3d4b370cf47",
+    "kotoba-n4-db586afb357c",
+    "kotoba-n4-8c6ae289ea7c",
+    "kotoba-n4-d49317360e5e",
+    "kotoba-n4-22f4ea7779a4",
+    "kotoba-n4-ec9e7cd56b13",
+    "kotoba-n4-b9162eb51dfd",
+    "kotoba-n4-7b29942aed62",
+    "kotoba-n4-5628c0918521",
+    "kotoba-n4-c9310a622891",
+    "kotoba-n4-f5e7e0501cfb",
+    "kotoba-n4-bcdce0ad0eec",
+    "kotoba-n4-40b6948ee730",
+    "kotoba-n4-73d0627411c9",
+    "kotoba-n4-03d64c61e7a6",
+    "kotoba-n4-6cd5d0b748bc",
+    "kotoba-n4-d07eb933f4f7",
+    "kotoba-n4-646bc79e3cf7",
+    "kotoba-n4-6ef46e6865ef",
+    "kotoba-n4-de5fe87c95b5",
+    "kotoba-n4-d6d431b553a8",
+    "kotoba-n4-2befeedc8570",
+    "kotoba-n4-7f613b026c85",
+    "kotoba-n4-9c7cb8a71359",
+    "kotoba-n4-e8ad7a502757",
+    "kotoba-n4-5d0c060b24e7",
+    "kotoba-n4-075801cedca4",
+    "kotoba-n4-5a9c46f990fd",
+    "kotoba-n4-ff08eca0ec84",
+    "kotoba-n4-6d80b7345b5d",
+    "kotoba-n4-b69c2a27b5e0",
+    "kotoba-n4-a6b73fc22fc0",
+    "kotoba-n4-b59d2db3288a",
+    "kotoba-n4-00e628073643",
+    "kotoba-n4-2589595afc68",
+    "kotoba-n4-deb128438542",
+    "kotoba-n4-9648df8896d6",
+    "kotoba-n4-3f15cec5d7c6",
+    "kotoba-n4-172cf2fd1516",
+    "kotoba-n4-872ed48fbf3a",
+    "kotoba-n4-cd94ad0fda75",
+    "kotoba-n4-d300dd14e377",
+    "kotoba-n4-819a39df2876",
+    "kotoba-n4-17a31167c23d",
+    "kotoba-n4-af7e461d4d02",
+    "kotoba-n4-91ea3dd083f0",
+    "kotoba-n4-596ef1e1b717",
+    "kotoba-n4-22b8d279ebdc",
+    "kotoba-n4-634267ca2cb9",
+    "kotoba-n4-ff1d678c7b43",
+    "kotoba-n4-df4853558bff",
+    "kotoba-n4-0be6fb63b1d6",
+    "kotoba-n4-3192c46aad2a",
+    "kotoba-n4-ceb52051cf0d",
+    "kotoba-n4-c40df90257f1",
+    "kotoba-n4-1ba5fd53f5a2",
+    "kotoba-n4-5bed32b0a5cf",
+    "kotoba-n4-fa560c7d5fbf",
+    "kotoba-n4-80728e9c7501",
+    "kotoba-n4-5e774f8c9a53",
+    "kotoba-n4-af67728f9297",
+    "kotoba-n4-ba3f6bc1ef64",
+    "kotoba-n4-38e727c25314",
+    "kotoba-n4-403d60e3abe7",
+    "kotoba-n4-036b865dcaf7",
+    "kotoba-n4-1bbdf6f470c6",
+    "kotoba-n4-2b5647ef16af",
+    "kotoba-n4-6be494efe337",
+    "kotoba-n4-ac3ea1c5c84b",
+    "kotoba-n4-ebf4581124ef",
+    "kotoba-n4-25eaa68aa4f3",
+    "kotoba-n4-6aa115164918",
+    "kotoba-n4-dc437debe2a4",
+    "kotoba-n4-37ae258c79a7",
+    "kotoba-n4-53e311dfc266",
+    "kotoba-n4-6a6cd50f5f3f",
+    "kotoba-n4-633721622ab9",
+    "kotoba-n4-8f5ce85222e2",
+    "kotoba-n4-802e0b5f327c",
+    "kotoba-n4-c353c45085ef",
+    "kotoba-n4-a89cdd7bb33c",
+    "kotoba-n4-c49c04b8c25a",
+    "kotoba-n4-4fb4d06da3a9",
+    "kotoba-n4-f2766cb573ff",
+    "kotoba-n4-b7643d5892b0",
+    "kotoba-n4-e15ba5b51bbb",
+    "kotoba-n4-856692d63ca4",
+    "kotoba-n4-e54913524c8f",
+    "kotoba-n4-ddcaaa475b6b",
+    "kotoba-n4-70e11153e2c1",
+    "kotoba-n4-dfea0eb37b0c",
+    "kotoba-n4-15d7f0aa16a8",
+    "kotoba-n4-509939fbdb89",
+    "kotoba-n4-0a71ead598d1",
+    "kotoba-n4-b5fdc751a0ca",
+    "kotoba-n4-9483ec539b27",
+    "kotoba-n4-5a3ca7eed497",
+    "kotoba-n4-37d51b6e766e",
+    "kotoba-n4-5469237a2480",
+    "kotoba-n4-ab66d8aa0d48",
+    "kotoba-n4-ec1b321bea4b",
+    "kotoba-n4-eaeceac56f79",
+    "kotoba-n4-7d685fd3d84d",
+    "kotoba-n4-ca1a7a2519d2",
+    "kotoba-n4-4e415d564ae3",
+    "kotoba-n4-10ac11915bfc",
+    "kotoba-n4-89e56d4f6914",
+    "kotoba-n4-0d7ffa7a20f9",
+    "kotoba-n4-ae89eee8e420",
+    "kotoba-n4-4e630c813845",
+    "kotoba-n4-46413694b9d0",
+    "kotoba-n4-9f9b549338ea",
+    "kotoba-n4-ca5a5a497e53",
+    "kotoba-n4-77fb8c135898",
+    "kotoba-n4-fc78ab02ecc5",
+    "kotoba-n4-ab9a466cb167",
+    "kotoba-n4-8c84b109981a",
+    "kotoba-n4-5f330b0a8e83",
+    "kotoba-n4-ed2f92d5840b",
+    "kotoba-n4-39b712ff842c",
+    "kotoba-n4-6c07951c11cd",
+    "kotoba-n4-3e7dc1f025d9",
+    "kotoba-n4-97135ed98348",
+    "kotoba-n4-2c88919512a2",
+    "kotoba-n4-5b702f88888e",
+    "kotoba-n4-2e31aa648e00",
+    "kotoba-n4-c8d8bbd3db6d",
+    "kotoba-n4-6c18e0987d14",
+    "kotoba-n4-5d093cab6c83",
+    "kotoba-n4-dd77f339996c",
+    "kotoba-n4-e261a201581f",
+    "kotoba-n4-a983d8ba3dee",
+    "kotoba-n4-0f457a0aadcf",
+    "kotoba-n4-7c390876f00f",
+    "kotoba-n4-814c8856427b",
+    "kotoba-n4-5abee367094a"
   ],
   "remainingFrameCounts": {
-    "topic-frame": 1427,
-    "occasional-frame": 637
+    "topic-frame": 1156,
+    "occasional-frame": 581
   },
   "note": "Queue flags repetitive frames, not proven errors. Other examples and all glosses still require editorial review.",
   "queue": [
-    {
-      "id": "kotoba-n4-b9cdf9b233bb",
-      "jp": "秋葉原",
-      "kana": "あきはばら",
-      "meaning": "Akihabara",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-0d01167ebe80",
-      "jp": "アメリカ",
-      "kana": "あめりか",
-      "meaning": "Amerika/A.S",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-186a92076b2e",
-      "jp": "イギリス",
-      "kana": "いぎりす",
-      "meaning": "Inggris",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-6b550c8dbca0",
-      "jp": "イタリア",
-      "kana": "いたりあ",
-      "meaning": "Italia",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-c480c5d01966",
-      "jp": "インド",
-      "kana": "いんど",
-      "meaning": "India",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-bcdcf4a9cfea",
-      "jp": "上野",
-      "kana": "うえの",
-      "meaning": "Ueno (nama daerah di Tokyo)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-3a60344c8e41",
-      "jp": "大阪",
-      "kana": "おおさか",
-      "meaning": "Osaka",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d41d3ac23c27",
-      "jp": "カイロ",
-      "kana": "かいろ",
-      "meaning": "Cairo",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b990f1dac786",
-      "jp": "銀座",
-      "kana": "ぎんざ",
-      "meaning": "Ginza",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a9c1e6077f3e",
-      "jp": "ゲームセンター",
-      "kana": "げーむせんたー",
-      "meaning": "game center",
-      "reason": "topic-frame"
-    },
     {
       "id": "kotoba-n4-038be006c682",
       "jp": "月",
       "kana": "げつ",
       "meaning": "hari Senin",
       "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-169c3b48d46d",
-      "jp": "皇居",
-      "kana": "こうきょ",
-      "meaning": "istana kekaisaran Tokyo",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b2b4367df7fe",
-      "jp": "札幌",
-      "kana": "さっぽろ",
-      "meaning": "Sapporo / Sapporo (ibu kota Prefektur Hokkaido, Jepang)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-375b527a94a5",
-      "jp": "サンパウロ",
-      "kana": "さんぱうろ",
-      "meaning": "Sao Paulo",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-77d2f094bec2",
-      "jp": "シドニー",
-      "kana": "しどにー",
-      "meaning": "Sydney",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-81ecfb22c810",
-      "jp": "ジャカルタ",
-      "kana": "じゃかるた",
-      "meaning": "Jakarta",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9723964006ba",
-      "jp": "スカイツリー",
-      "kana": "すかいつりー",
-      "meaning": "Tokyo Skytree",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a537c9da5514",
-      "jp": "スペイン",
-      "kana": "すぺいん",
-      "meaning": "Spanyol",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-02b38d19e3c1",
-      "jp": "ソウル",
-      "kana": "そうる",
-      "meaning": "Seoul",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e7147392fbad",
-      "jp": "タウン",
-      "kana": "たうん",
-      "meaning": "kota",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-aeb61d059454",
-      "jp": "タコス",
-      "kana": "たこす",
-      "meaning": "taco (makanan khas Meksiko)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-adf7ec8d36a6",
-      "jp": "中国",
-      "kana": "ちゅうごく",
-      "meaning": "Tiongkok / Cina; Tiongkok",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9244f2f379c6",
-      "jp": "築地",
-      "kana": "つきじ",
-      "meaning": "Tsukiji",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-65f27de9ec24",
-      "jp": "つたえる",
-      "kana": "つたえる",
-      "meaning": "menyampaikan pesan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4ec6162d188b",
-      "jp": "つもる",
-      "kana": "つもる",
-      "meaning": "menumpuk/tertutupi oleh",
-      "reason": "occasional-frame"
     },
     {
       "id": "kotoba-n4-a8f9b8613976",
@@ -365,41 +524,6 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-3c7640990b93",
-      "jp": "ドイツ",
-      "kana": "どいつ",
-      "meaning": "Jerman",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-20ba5fe46a81",
-      "jp": "到着する",
-      "kana": "とうちゃくする",
-      "meaning": "tiba/ketibaan / tiba",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-957696bc805f",
-      "jp": "富山",
-      "kana": "とやま",
-      "meaning": "Toyama",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-c1a437754042",
-      "jp": "トレーニングする",
-      "kana": "とれーにんぐする",
-      "meaning": "berlatih",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-bca33e07823f",
-      "jp": "にあう",
-      "kana": "にあう",
-      "meaning": "cocok/serasi",
-      "reason": "occasional-frame"
-    },
-    {
       "id": "kotoba-n4-640190f83a3f",
       "jp": "ぬ",
       "kana": "にる",
@@ -407,45 +531,10 @@
       "reason": "occasional-frame"
     },
     {
-      "id": "kotoba-n4-6673c28618ab",
-      "jp": "にゅうがくする",
-      "kana": "にゅうがくする",
-      "meaning": "masuk sekolah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-f099af8cdb8a",
-      "jp": "ニューヨーク",
-      "kana": "にゅーよーく",
-      "meaning": "New York",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-dc0ac2925eb7",
       "jp": "バッハ",
       "kana": "ばっは",
       "meaning": "Bach (Johann Sebastian) / Bach, Johann Sebastian",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-45cd9649ec88",
-      "jp": "原宿",
-      "kana": "はらじゅく",
-      "meaning": "Harajuku",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-75ee5e427697",
-      "jp": "バルセロナ",
-      "kana": "ばるせろな",
-      "meaning": "Barcelona",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d9bb15b0d526",
-      "jp": "ひまわり",
-      "kana": "ひまわり",
-      "meaning": "bunga matahari",
       "reason": "topic-frame"
     },
     {
@@ -456,304 +545,10 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-dbade8fbb135",
-      "jp": "福岡",
-      "kana": "ふくおか",
-      "meaning": "Fukuoka",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7d28adca723b",
-      "jp": "フランス",
-      "kana": "ふらんす",
-      "meaning": "Prancis",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-076d44c2eeea",
-      "jp": "プリントアウトする",
-      "kana": "ぷりんとあうとする",
-      "meaning": "mencetak",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d0ac91a6dee5",
-      "jp": "北京",
-      "kana": "ぺきん",
-      "meaning": "Beijing",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-cdf5bfe65c49",
-      "jp": "北海道",
-      "kana": "ほっかいどう",
-      "meaning": "Hokkaido",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-10d17d56f584",
-      "jp": "ポルトガル",
-      "kana": "ぽるとがる",
-      "meaning": "Portugal",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9fff1d9a43a1",
-      "jp": "ほんやくする",
-      "kana": "ほんやくする",
-      "meaning": "menerjemahkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-224fc3319908",
-      "jp": "まげる",
-      "kana": "まげる",
-      "meaning": "membengkokkan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-47fb24835a14",
-      "jp": "まちあわせする",
-      "kana": "まちあわせする",
-      "meaning": "bertemu (dengan membuat janji)",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-63139c0a8ec2",
-      "jp": "まちがえる",
-      "kana": "まちがえる",
-      "meaning": "membuat kesalahan / salah (salah paham)",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4579c51dcd81",
-      "jp": "まよう",
-      "kana": "まよう",
-      "meaning": "tersesat/kehilangan arah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-7bcc12928323",
-      "jp": "マレーシア",
-      "kana": "まれーしあ",
-      "meaning": "Malaysia",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-39d5701ce3f6",
-      "jp": "見える",
-      "kana": "みえる",
-      "meaning": "terlihat/bisa dilihat / terlihat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-222834f20029",
-      "jp": "むりする",
-      "kana": "むりする",
-      "meaning": "memaksakan diri",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-79f9982d27a4",
-      "jp": "メキシコ",
-      "kana": "めきしこ",
-      "meaning": "Meksiko",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-d899eaf57e77",
       "jp": "モーターズ",
       "kana": "もーたーず",
       "meaning": "Motors (perusahaan fiktif)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-db21845de41c",
-      "jp": "モスクワ",
-      "kana": "もすくわ",
-      "meaning": "Moskow",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-aec4f77a8084",
-      "jp": "代々木",
-      "kana": "よよぎ",
-      "meaning": "Yoyogi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-885e0e06358a",
-      "jp": "よろこぶ",
-      "kana": "よろこぶ",
-      "meaning": "bergembira",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-b5e65f7e3dd3",
-      "jp": "りょうがえする",
-      "kana": "りょうがえする",
-      "meaning": "menukar uang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c178bc97cde4",
-      "jp": "リラックスする",
-      "kana": "りらっくすする",
-      "meaning": "bersantai/rileks",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c2d0c864a734",
-      "jp": "ローマ",
-      "kana": "ろーま",
-      "meaning": "Roma",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a7189c7cc841",
-      "jp": "ロサンゼルス",
-      "kana": "ろさんぜるす",
-      "meaning": "Los Angeles",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ca09684f8666",
-      "jp": "ロシア",
-      "kana": "ろしあ",
-      "meaning": "Rusia",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5e4fb71d13ce",
-      "jp": "ロンドン",
-      "kana": "ろんどん",
-      "meaning": "London",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-2d54274f11b0",
-      "jp": "あう",
-      "kana": "あう",
-      "meaning": "cocok",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-de864b7fa3c3",
-      "jp": "アドバイザー",
-      "kana": "あどばいざー",
-      "meaning": "pemberi saran/penasihat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-8e5d5db17a86",
-      "jp": "アメ横",
-      "kana": "あめよこ",
-      "meaning": "Ameyoko",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-529a9e4634e0",
-      "jp": "インドネシア",
-      "kana": "いんどねしあ",
-      "meaning": "Indonesia",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-fbc0c594c41d",
-      "jp": "オーストラリア",
-      "kana": "おーすとらりあ",
-      "meaning": "Australia",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ea1df4e6f72a",
-      "jp": "オーストラリア人",
-      "kana": "おーすとらりあじん",
-      "meaning": "orang Australia",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ed81e2fd5d13",
-      "jp": "お子さん",
-      "kana": "おこさん",
-      "meaning": "anak (sebutan untuk anak orang lain) / anak (untuk menyebut anak orang lain) / anak (orang lain)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5b38215fa325",
-      "jp": "おじいちゃん",
-      "kana": "おじいちゃん",
-      "meaning": "kakek",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a55bf0d65ae3",
-      "jp": "お仕事",
-      "kana": "おしごと",
-      "meaning": "pekerjaan <santun/formal> / pekerjaan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f58b2adad491",
-      "jp": "お台場",
-      "kana": "おだいば",
-      "meaning": "Odaiba",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7b5a16033e00",
-      "jp": "お出かけ",
-      "kana": "おでかけ",
-      "meaning": "bepergian",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-46232f0dbf5b",
-      "jp": "男の人",
-      "kana": "おとこのひと",
-      "meaning": "pria dewasa / pria",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-727b6fb8e249",
-      "jp": "おどる",
-      "kana": "おどる",
-      "meaning": "menari",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-276081f9203a",
-      "jp": "お願い",
-      "kana": "おねがい",
-      "meaning": "permohonan / permintaan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-8f2e65bfa79f",
-      "jp": "おばあちゃん",
-      "kana": "おばあちゃん",
-      "meaning": "nenek / nenek (panggilan akrab)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-3962251eb05b",
-      "jp": "おばけやしき",
-      "kana": "おばけやしき",
-      "meaning": "rumah hantu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-18836ee2c78c",
-      "jp": "思い出",
-      "kana": "おもいで",
-      "meaning": "memori / kenangan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-4afd2ded846f",
-      "jp": "女の人",
-      "kana": "おんなのひと",
-      "meaning": "wanita",
       "reason": "topic-frame"
     },
     {
@@ -764,276 +559,10 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-5c82bec6ebfa",
-      "jp": "かいしゃいん",
-      "kana": "かいしゃいん",
-      "meaning": "pegawai kantor",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e365e33d5e95",
-      "jp": "ガイド",
-      "kana": "がいど",
-      "meaning": "pemandu / pemandu wisata",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1a43c14269f1",
-      "jp": "葛飾柴又",
-      "kana": "かつしかしばまた",
-      "meaning": "Katsushika Shibamata",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d89dff764bc6",
-      "jp": "かつどう",
-      "kana": "かつどう",
-      "meaning": "aktivitas",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5b372d47b019",
-      "jp": "金沢",
-      "kana": "かなざわ",
-      "meaning": "Kanazawa",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-00592df28217",
-      "jp": "カナダ",
-      "kana": "かなだ",
-      "meaning": "Kanada",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a0f522e26d63",
-      "jp": "かんこうきゃく",
-      "kana": "かんこうきゃく",
-      "meaning": "wisatawan / turis; wisatawan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-fb70adf124f8",
-      "jp": "かんこうちず",
-      "kana": "かんこうちず",
-      "meaning": "peta daerah wisata",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-0d8b8cd257e9",
-      "jp": "かんこうバス",
-      "kana": "かんこうばす",
-      "meaning": "bus pariwisata",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1f81658e9cdb",
-      "jp": "吉祥寺",
-      "kana": "きちじょうじ",
-      "meaning": "Kichijoji",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b11bb8df27d9",
-      "jp": "起点",
-      "kana": "きてん",
-      "meaning": "titik awal/tolak",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5e44a3ab4272",
-      "jp": "気持ち",
-      "kana": "きもち",
-      "meaning": "perasaan / sikap; perasaan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-603f374ee576",
-      "jp": "キャビネット",
-      "kana": "きゃびねっと",
-      "meaning": "kotak penyimpanan dokumen / lemari (dengan rak / laci untuk menyimpan dokumen)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d06d2454d55e",
-      "jp": "キャンプ",
-      "kana": "きゃんぷ",
-      "meaning": "perkemahan / berkemah",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-947f9b0d0fb7",
-      "jp": "国立",
-      "kana": "くにたち",
-      "meaning": "Kunitachi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-cfb469074f03",
-      "jp": "グラフ",
-      "kana": "ぐらふ",
-      "meaning": "grafik",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-28d46b5dc850",
-      "jp": "経由地",
-      "kana": "けいゆち",
-      "meaning": "tempat transit/persinggahan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-05174085660c",
-      "jp": "ゲスト",
-      "kana": "げすと",
-      "meaning": "tamu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-82f1718d406f",
-      "jp": "健康第一",
-      "kana": "けんこうだいいち",
-      "meaning": "Kesehatan adalah yang pertama dan utama.",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-66cbd188878c",
-      "jp": "件名",
-      "kana": "けんめい",
-      "meaning": "subjek (pada surel/e-mail) / subjek surel/subjek email / perihal",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f77b71fac6f4",
-      "jp": "ごしゅっさん",
-      "kana": "ごしゅっさん",
-      "meaning": "kelahiran <santun/formal>",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e79ac5c81d99",
-      "jp": "コスプレ",
-      "kana": "こすぷれ",
-      "meaning": "cosplay (memakai kostum dari karakter suatu tokoh)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a312f492f8f1",
-      "jp": "午前中",
-      "kana": "ごぜんちゅう",
-      "meaning": "pagi/sepanjang pagi / sepanjang pagi hari / pagi hari",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-62eaa2898464",
-      "jp": "コンサルタント",
-      "kana": "こんさるたんと",
-      "meaning": "konsultan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-4f330df33d02",
-      "jp": "ジェイポップ",
-      "kana": "じぇいぽっぷ",
-      "meaning": "J-pop / musik pop Jepang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9273c950ce90",
-      "jp": "じこ",
-      "kana": "じこ",
-      "meaning": "kecelakaan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-2b1a438a90e2",
-      "jp": "品川",
-      "kana": "しながわ",
-      "meaning": "Shinagawa",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f9e77619c741",
-      "jp": "写真たて",
-      "kana": "しゃしんたて",
-      "meaning": "bingkai foto (dengan kaki)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-2792be6bfee7",
-      "jp": "ジャパン・エキスポ",
-      "kana": "じゃぱんえきすぽ",
-      "meaning": "Japan Expo",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-1a700c896e93",
       "jp": "しゅうしょく",
       "kana": "しゅうしょく",
       "meaning": "pencarian kerja",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-cd6805802d11",
-      "jp": "しゅっさん",
-      "kana": "しゅっさん",
-      "meaning": "kelahiran",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a1fa25526ea5",
-      "jp": "出発",
-      "kana": "しゅっぱつ",
-      "meaning": "keberangkatan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7a5b1f1841fa",
-      "jp": "出発便",
-      "kana": "しゅっぱつびん",
-      "meaning": "penerbangan keberangkatan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-0b9e03dfe24d",
-      "jp": "しょうがつ",
-      "kana": "しょうがつ",
-      "meaning": "tahun baru / Hari Tahun Baru",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5e48f6c5036e",
-      "jp": "しょうせつ",
-      "kana": "しょうせつ",
-      "meaning": "novel",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-afc281aaab42",
-      "jp": "じょうだん",
-      "kana": "じょうだん",
-      "meaning": "lelucon",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7ecf924249ac",
-      "jp": "ショー",
-      "kana": "しょー",
-      "meaning": "pertunjukan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ef2b5119f703",
-      "jp": "食事",
-      "kana": "しょくじ",
-      "meaning": "makan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-3e5517742f8c",
-      "jp": "スーツ",
-      "kana": "すーつ",
-      "meaning": "setelan / setelan jas",
       "reason": "topic-frame"
     },
     {
@@ -1044,249 +573,11 @@
       "reason": "occasional-frame"
     },
     {
-      "id": "kotoba-n4-12f9531ec619",
-      "jp": "ストレッチ",
-      "kana": "すとれっち",
-      "meaning": "peregangan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-2cd573e331f2",
-      "jp": "スピーチ",
-      "kana": "すぴーち",
-      "meaning": "pidato",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-2b89a0830c00",
-      "jp": "スポーツクラブ",
-      "kana": "すぽーつくらぶ",
-      "meaning": "klub olahraga",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-48ab6e5c344a",
-      "jp": "せいかつ",
-      "kana": "せいかつ",
-      "meaning": "hidup/kehidupan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-234392c71391",
-      "jp": "センター",
-      "kana": "せんたー",
-      "meaning": "pusat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-4a40db2e16dc",
-      "jp": "仙台",
-      "kana": "せんだい",
-      "meaning": "Sendai",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e17ab54e16d3",
-      "jp": "そうだんする",
-      "kana": "そうだんする",
-      "meaning": "berdiskusi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-05cb1aef0ff5",
-      "jp": "だいがくいん",
-      "kana": "だいがくいん",
-      "meaning": "pascasarjana",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1bdfb664c92a",
-      "jp": "たいふう",
-      "kana": "たいふう",
-      "meaning": "topan / angin topan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-662e75f07497",
-      "jp": "たんとうする",
-      "kana": "たんとうする",
-      "meaning": "bertanggung jawab",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-081a53c72aad",
-      "jp": "中国人",
-      "kana": "ちゅうごくじん",
-      "meaning": "orang Tionghoa",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a93b6b683f0d",
-      "jp": "つかれ",
-      "kana": "つかれ",
-      "meaning": "kelelahan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b1e2e95361dc",
-      "jp": "ツボ",
-      "kana": "つぼ",
-      "meaning": "titik akupresur",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5195ae6bb347",
-      "jp": "定刻",
-      "kana": "ていこく",
-      "meaning": "waktu yang ditentukan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ec1c41bfdfbd",
-      "jp": "到着",
-      "kana": "とうちゃく",
-      "meaning": "ketibaan/kedatangan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7bf6730b93da",
-      "jp": "到着便",
-      "kana": "とうちゃくびん",
-      "meaning": "kedatangan/ketibaan pesawat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5b1cfc03ac8f",
-      "jp": "トレーナー",
-      "kana": "とれーなー",
-      "meaning": "pelatih / pelatih; trainer",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b2795e7e481c",
-      "jp": "トレーニング",
-      "kana": "とれーにんぐ",
-      "meaning": "berlatih",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-f8dd78c72669",
       "jp": "とれる",
       "kana": "とれる",
       "meaning": "untuk melepas lelah/untuk merasa segar / petik; memetik",
       "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-95f16b65c6e3",
-      "jp": "日本文化",
-      "kana": "にほんぶんか",
-      "meaning": "budaya Jepang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-79108418367a",
-      "jp": "人気",
-      "kana": "にんき",
-      "meaning": "terkenal/populer / popularitas / populer",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d7c0467a0646",
-      "jp": "ねだん",
-      "kana": "ねだん",
-      "meaning": "harga",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a70fd0b7840c",
-      "jp": "バドミントンする",
-      "kana": "ばどみんとんする",
-      "meaning": "bermain badminton",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d4d4a673afd0",
-      "jp": "パンフレット",
-      "kana": "ぱんふれっと",
-      "meaning": "brosur/pamflet / pamflet",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d8e4e8b5d9d4",
-      "jp": "ひづけ",
-      "kana": "ひづけ",
-      "meaning": "tanggal",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b89a1283bd0c",
-      "jp": "昼ごろ",
-      "kana": "ひるごろ",
-      "meaning": "sekitar tengah hari",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f4de64c38713",
-      "jp": "ヒント",
-      "kana": "ひんと",
-      "meaning": "petunjuk",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ef99674eb1cd",
-      "jp": "便名",
-      "kana": "びんめい",
-      "meaning": "nomor penerbangan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-056c65468dd7",
-      "jp": "ファイル",
-      "kana": "ふぁいる",
-      "meaning": "berkas (file)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-43b3b7c6bf3a",
-      "jp": "ブラジル人",
-      "kana": "ぶらじるじん",
-      "meaning": "orang Brazil",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-bc733efebcee",
-      "jp": "フラメンコ",
-      "kana": "ふらめんこ",
-      "meaning": "tarian flamenco",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f44411ee10d3",
-      "jp": "プレゼントする",
-      "kana": "ぷれぜんとする",
-      "meaning": "memberikan hadiah",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-9feadd1974ff",
-      "jp": "ブログ",
-      "kana": "ぶろぐ",
-      "meaning": "blog",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-92b98a7d97fe",
-      "jp": "ペア",
-      "kana": "ぺあ",
-      "meaning": "(benda) sepasang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f68232eff6fd",
-      "jp": "へんじ",
-      "kana": "へんじ",
-      "meaning": "balasan",
-      "reason": "topic-frame"
     },
     {
       "id": "kotoba-n4-51d52b0f29a9",
@@ -1296,444 +587,10 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-652a6a3bf30c",
-      "jp": "ほし",
-      "kana": "ほし",
-      "meaning": "bintang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-505560d58952",
-      "jp": "まご",
-      "kana": "まご",
-      "meaning": "cucu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-6cc5c390e0e9",
-      "jp": "マシン",
-      "kana": "ましん",
-      "meaning": "mesin",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ab33c9bf78db",
-      "jp": "町歩き",
-      "kana": "まちあるき",
-      "meaning": "berjalan-jalan di kota",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a49bceb02499",
-      "jp": "待ちあわせ",
-      "kana": "まちあわせ",
-      "meaning": "janji untuk bertemu / janji bertemu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-baaaa99d5d8f",
-      "jp": "マッサージする",
-      "kana": "まっさーじする",
-      "meaning": "memijat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-57ec6da891b7",
-      "jp": "マドリード",
-      "kana": "まどりーど",
-      "meaning": "Madrid",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5b80e6de5a36",
-      "jp": "まんざい",
-      "kana": "まんざい",
-      "meaning": "Manzai (komedi stand-up gaya Jepang)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9792deb1d5ca",
-      "jp": "めいし入れ",
-      "kana": "めいしいれ",
-      "meaning": "tempat menyimpan kartu nama",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-8676a8208091",
-      "jp": "メッセージ",
-      "kana": "めっせーじ",
-      "meaning": "pesan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-64acf04cdb4c",
-      "jp": "メルボルン",
-      "kana": "めるぼるん",
-      "meaning": "Melbourne",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-e1a38346f85e",
       "jp": "モネ",
       "kana": "もね",
       "meaning": "Claude Monet",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1328870d4561",
-      "jp": "やきそば",
-      "kana": "やきそば",
-      "meaning": "mi goreng",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-bf9a41f8ab0d",
-      "jp": "やきゅう",
-      "kana": "やきゅう",
-      "meaning": "bisbol / bisbol; kasti",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-555f9ff0c83b",
-      "jp": "やむ",
-      "kana": "やむ",
-      "meaning": "(hujan/salju) reda / berhenti",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-37135e21720e",
-      "jp": "雪だるま",
-      "kana": "ゆきだるま",
-      "meaning": "boneka salju",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-8fb5e2bb8392",
-      "jp": "ラウンジ",
-      "kana": "らうんじ",
-      "meaning": "ruang tunggu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d0ad99ebf7a7",
-      "jp": "れい",
-      "kana": "れい",
-      "meaning": "contoh",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-49b637d666bd",
-      "jp": "れんらくする",
-      "kana": "れんらくする",
-      "meaning": "menghubungi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-799303466a84",
-      "jp": "ロシア人",
-      "kana": "ろしあじん",
-      "meaning": "orang Rusia",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-bf88e52a3e0f",
-      "jp": "神田",
-      "kana": "かんだ",
-      "meaning": "Kanda",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-8eda6a01de58",
-      "jp": "クアラルンプール",
-      "kana": "くあらるんぷーる",
-      "meaning": "Kuala Lumpur",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-64a357802c51",
-      "jp": "子",
-      "kana": "こ",
-      "meaning": "anak",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a49d2eac9d0d",
-      "jp": "埼玉",
-      "kana": "さいたま",
-      "meaning": "Saitama",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-bd59fdced871",
-      "jp": "作家",
-      "kana": "さっか",
-      "meaning": "penulis",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-64394fe5a56b",
-      "jp": "自然",
-      "kana": "しぜん",
-      "meaning": "alam / kekayaan alam",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e959332f08c2",
-      "jp": "ソファ",
-      "kana": "そふぁ",
-      "meaning": "sofa",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f024595e22cf",
-      "jp": "デリー",
-      "kana": "でりー",
-      "meaning": "Delhi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-49dda7fe148f",
-      "jp": "どろ",
-      "kana": "どろ",
-      "meaning": "lumpur",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b610163e5c77",
-      "jp": "バンガロール",
-      "kana": "ばんがろーる",
-      "meaning": "Bangalore",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-66a62f3bf386",
-      "jp": "ホープ",
-      "kana": "ほーぷ",
-      "meaning": "harapan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-97513a7dcbcd",
-      "jp": "やくそく",
-      "kana": "やくそく",
-      "meaning": "janji",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f37214c6cc02",
-      "jp": "おまごさん",
-      "kana": "おまごさん",
-      "meaning": "cucu orang lain",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-3e4f6397f1b9",
-      "jp": "特に",
-      "kana": "とくに",
-      "meaning": "khususnya/terutama / terutama",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-88587702fcf7",
-      "jp": "なく",
-      "kana": "なく",
-      "meaning": "menangis",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d9fe5b9ea89f",
-      "jp": "旅行会社",
-      "kana": "りょこうがいしゃ",
-      "meaning": "agen perjalanan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-929f96968f5a",
-      "jp": "わらう",
-      "kana": "わらう",
-      "meaning": "tertawa",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-df7789989727",
-      "jp": "アイスティー",
-      "kana": "あいすてぃー",
-      "meaning": "es teh",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7ff195af7e54",
-      "jp": "アレルギー",
-      "kana": "あれるぎー",
-      "meaning": "alergi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-65254743d7ca",
-      "jp": "客",
-      "kana": "きゃく",
-      "meaning": "pelanggan/tamu / tamu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7200ba78f041",
-      "jp": "ご注文",
-      "kana": "ごちゅうもん",
-      "meaning": "pesanan (di restoran) <santun> / pesanan (ungkapan bentuk sopan) / pesanan (di restoran) <santun/formal>",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-20e2996a20b8",
-      "jp": "シーフード",
-      "kana": "しーふーど",
-      "meaning": "makanan laut/boga bahari / makanan laut; seafood",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-015f3488f161",
-      "jp": "好ききらい",
-      "kana": "すききらい",
-      "meaning": "suka dan tidak suka",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5cf625062571",
-      "jp": "ステーキ",
-      "kana": "すてーき",
-      "meaning": "steak",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f3d4b370cf47",
-      "jp": "地方",
-      "kana": "ちほう",
-      "meaning": "daerah",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-db586afb357c",
-      "jp": "注文する",
-      "kana": "ちゅうもんする",
-      "meaning": "memesan (di restoran) / memesan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-8c6ae289ea7c",
-      "jp": "生",
-      "kana": "なま",
-      "meaning": "mentah",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d49317360e5e",
-      "jp": "生野菜",
-      "kana": "なまやさい",
-      "meaning": "sayuran segar",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-22f4ea7779a4",
-      "jp": "肉料理",
-      "kana": "にくりょうり",
-      "meaning": "masakan dengan bahan dasar daging",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ec9e7cd56b13",
-      "jp": "ベジタリアン",
-      "kana": "べじたりあん",
-      "meaning": "vegetarian",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b9162eb51dfd",
-      "jp": "洋食",
-      "kana": "ようしょく",
-      "meaning": "makanan ala barat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7b29942aed62",
-      "jp": "和食",
-      "kana": "わしょく",
-      "meaning": "makanan Jepang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5628c0918521",
-      "jp": "あせ",
-      "kana": "あせ",
-      "meaning": "keringat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-c9310a622891",
-      "jp": "アメリカ人",
-      "kana": "あめりかじん",
-      "meaning": "orang Amerika",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-f5e7e0501cfb",
-      "jp": "意見",
-      "kana": "いけん",
-      "meaning": "pendapat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-bcdce0ad0eec",
-      "jp": "音",
-      "kana": "おと",
-      "meaning": "bunyi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-40b6948ee730",
-      "jp": "オムレツ",
-      "kana": "おむれつ",
-      "meaning": "omelet",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-73d0627411c9",
-      "jp": "必ず",
-      "kana": "かならず",
-      "meaning": "pasti/selalu/tanpa pengecualian / selalu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-03d64c61e7a6",
-      "jp": "かわく",
-      "kana": "かわく",
-      "meaning": "kering (haus)",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6cd5d0b748bc",
-      "jp": "かんぱいする",
-      "kana": "かんぱいする",
-      "meaning": "bersulang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-d07eb933f4f7",
-      "jp": "決める",
-      "kana": "きめる",
-      "meaning": "memutuskan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-646bc79e3cf7",
-      "jp": "けつあつ",
-      "kana": "けつあつ",
-      "meaning": "tekanan darah",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-6ef46e6865ef",
-      "jp": "こおり",
-      "kana": "こおり",
-      "meaning": "es batu",
       "reason": "topic-frame"
     },
     {
@@ -1751,31 +608,10 @@
       "reason": "occasional-frame"
     },
     {
-      "id": "kotoba-n4-de5fe87c95b5",
-      "jp": "とうがらし",
-      "kana": "とうがらし",
-      "meaning": "cabe/bubuk cabe",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d6d431b553a8",
-      "jp": "ぬる",
-      "kana": "ぬる",
-      "meaning": "mengoleskan",
-      "reason": "occasional-frame"
-    },
-    {
       "id": "kotoba-n4-0e47e5d6aaad",
       "jp": "のこする",
       "kana": "のこす",
       "meaning": "menyisakan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2befeedc8570",
-      "jp": "のせる",
-      "kana": "のせる",
-      "meaning": "menambahkan/menaruh (di atas makanan) / menambahkan; menaruh (di atas sesuatu)",
       "reason": "occasional-frame"
     },
     {
@@ -1786,433 +622,6 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-7f613b026c85",
-      "jp": "パリ",
-      "kana": "ぱり",
-      "meaning": "Paris",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9c7cb8a71359",
-      "jp": "ピザ",
-      "kana": "ぴざ",
-      "meaning": "pizza / piza",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e8ad7a502757",
-      "jp": "左手",
-      "kana": "ひだりて",
-      "meaning": "tangan kiri",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5d0c060b24e7",
-      "jp": "マナー",
-      "kana": "まなー",
-      "meaning": "sopan santun/tata krama / etika; adab; sopan santun",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-075801cedca4",
-      "jp": "右手",
-      "kana": "みぎて",
-      "meaning": "tangan kanan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5a9c46f990fd",
-      "jp": "やく",
-      "kana": "やく",
-      "meaning": "membakar",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-ff08eca0ec84",
-      "jp": "インストラクター",
-      "kana": "いんすとらくたー",
-      "meaning": "instruktur",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-6d80b7345b5d",
-      "jp": "沖縄",
-      "kana": "おきなわ",
-      "meaning": "Okinawa",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b69c2a27b5e0",
-      "jp": "かいがん",
-      "kana": "かいがん",
-      "meaning": "pantai / pantai; pesisir",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a6b73fc22fc0",
-      "jp": "カウンター",
-      "kana": "かうんたー",
-      "meaning": "meja layanan / meja bar restoran",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b59d2db3288a",
-      "jp": "観光する",
-      "kana": "かんこうする",
-      "meaning": "berwisata",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-00e628073643",
-      "jp": "観光地",
-      "kana": "かんこうち",
-      "meaning": "daerah wisata / destinasi wisata; tempat wisata",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-2589595afc68",
-      "jp": "こむ",
-      "kana": "こむ",
-      "meaning": "padat/penuh / ramai; penuh",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-deb128438542",
-      "jp": "参加する",
-      "kana": "さんかする",
-      "meaning": "ikut serta / ikut serta; berpartisipasi / bergabung",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-9648df8896d6",
-      "jp": "シーズン",
-      "kana": "しーずん",
-      "meaning": "musim",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-3f15cec5d7c6",
-      "jp": "島",
-      "kana": "しま",
-      "meaning": "pulau",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-172cf2fd1516",
-      "jp": "シュノーケリング",
-      "kana": "しゅのーけりんぐ",
-      "meaning": "snorkeling / snorkeling (selam permukaan)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-872ed48fbf3a",
-      "jp": "ダイビング",
-      "kana": "だいびんぐ",
-      "meaning": "menyelam / selam",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-cd94ad0fda75",
-      "jp": "ダイビングツアー",
-      "kana": "だいびんぐつあー",
-      "meaning": "tur/wisata menyelam",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-d300dd14e377",
-      "jp": "チェックインカウンター",
-      "kana": "ちぇっくいんかうんたー",
-      "meaning": "loket check in",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-819a39df2876",
-      "jp": "ツアー",
-      "kana": "つあー",
-      "meaning": "tur/wisata",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-17a31167c23d",
-      "jp": "ツアー会社",
-      "kana": "つあーがいしゃ",
-      "meaning": "perusahaan wisata",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-af7e461d4d02",
-      "jp": "道具",
-      "kana": "どうぐ",
-      "meaning": "alat/perlengkapan / alat / peralatan; alat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-91ea3dd083f0",
-      "jp": "ドライブする",
-      "kana": "どらいぶする",
-      "meaning": "berkendara mobil/jalan-jalan dengan mobil",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-596ef1e1b717",
-      "jp": "ビーチ",
-      "kana": "びーち",
-      "meaning": "pantai",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-22b8d279ebdc",
-      "jp": "ほっとする",
-      "kana": "ほっとする",
-      "meaning": "lega",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-634267ca2cb9",
-      "jp": "モノレール",
-      "kana": "ものれーる",
-      "meaning": "monorel",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ff1d678c7b43",
-      "jp": "森",
-      "kana": "もり",
-      "meaning": "hutan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-df4853558bff",
-      "jp": "ゆれる",
-      "kana": "ゆれる",
-      "meaning": "bergoyang/bergetar / bergoyang/berguncang / bergetar; bergoncang",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-0be6fb63b1d6",
-      "jp": "ライブハウス",
-      "kana": "らいぶはうす",
-      "meaning": "klub musik langsung (live)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-3192c46aad2a",
-      "jp": "レンタカー",
-      "kana": "れんたかー",
-      "meaning": "mobil rental",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ceb52051cf0d",
-      "jp": "レンタルする",
-      "kana": "れんたるする",
-      "meaning": "menyewa",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c40df90257f1",
-      "jp": "沖縄ガラス",
-      "kana": "おきなわがらす",
-      "meaning": "kaca dari Okinawa",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1ba5fd53f5a2",
-      "jp": "おしろ",
-      "kana": "おしろ",
-      "meaning": "benteng",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5bed32b0a5cf",
-      "jp": "お昼",
-      "kana": "おひる",
-      "meaning": "siang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-fa560c7d5fbf",
-      "jp": "泳ぎ",
-      "kana": "およぎ",
-      "meaning": "renang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-80728e9c7501",
-      "jp": "ガラス",
-      "kana": "がらす",
-      "meaning": "kaca / gelas",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5e774f8c9a53",
-      "jp": "かんそう",
-      "kana": "かんそう",
-      "meaning": "kesan/opini / impresi; kesan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-af67728f9297",
-      "jp": "牛車",
-      "kana": "ぎゅうしゃ",
-      "meaning": "pedati",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ba3f6bc1ef64",
-      "jp": "空気",
-      "kana": "くうき",
-      "meaning": "udara / angin; udara",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-38e727c25314",
-      "jp": "クジラ",
-      "kana": "くじら",
-      "meaning": "paus",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-403d60e3abe7",
-      "jp": "自転車タクシー",
-      "kana": "じてんしゃたくしー",
-      "meaning": "ojek sepeda",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-036b865dcaf7",
-      "jp": "女性",
-      "kana": "じょせい",
-      "meaning": "perempuan / wanita",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-1bbdf6f470c6",
-      "jp": "体験",
-      "kana": "たいけん",
-      "meaning": "pengalaman",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-2b5647ef16af",
-      "jp": "体験ツアー",
-      "kana": "たいけんつあー",
-      "meaning": "tur (yang menjadi) pengalaman/wisata pengalaman",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-6be494efe337",
-      "jp": "楽しむ",
-      "kana": "たのしむ",
-      "meaning": "menikmati",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-ac3ea1c5c84b",
-      "jp": "つり",
-      "kana": "つり",
-      "meaning": "memancing",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ebf4581124ef",
-      "jp": "むかし",
-      "kana": "むかし",
-      "meaning": "dulu/dahulu / dahulu; masa lalu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-25eaa68aa4f3",
-      "jp": "無料",
-      "kana": "むりょう",
-      "meaning": "gratis / gratis; bebas biaya",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-6aa115164918",
-      "jp": "山のぼり",
-      "kana": "やまのぼり",
-      "meaning": "naik gunung",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-dc437debe2a4",
-      "jp": "集まる",
-      "kana": "あつまる",
-      "meaning": "berkumpul",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-37ae258c79a7",
-      "jp": "うちわ",
-      "kana": "うちわ",
-      "meaning": "uchiwa (kipas Jepang)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-53e311dfc266",
-      "jp": "大雨",
-      "kana": "おおあめ",
-      "meaning": "hujan deras",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-6a6cd50f5f3f",
-      "jp": "お昼ご飯",
-      "kana": "おひるごはん",
-      "meaning": "makan siang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-633721622ab9",
-      "jp": "おれい",
-      "kana": "おれい",
-      "meaning": "ungkapan terima kasih <santun>",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-8f5ce85222e2",
-      "jp": "かたづけ",
-      "kana": "かたづけ",
-      "meaning": "rapikan/bereskan / merapikan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-802e0b5f327c",
-      "jp": "かたづける",
-      "kana": "かたづける",
-      "meaning": "merapikan/membereskan / membereskan; merapikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c353c45085ef",
-      "jp": "カラオケコンテスト",
-      "kana": "からおけこんてすと",
-      "meaning": "kontes karaoke",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a89cdd7bb33c",
-      "jp": "きゅうけい",
-      "kana": "きゅうけい",
-      "meaning": "istirahat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-c49c04b8c25a",
-      "jp": "こうたい",
-      "kana": "こうたい",
-      "meaning": "bergantian",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-4fb4d06da3a9",
-      "jp": "コンテスト",
-      "kana": "こんてすと",
-      "meaning": "kontes/kejuaraan",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-75935806ab3e",
       "jp": "さがする",
       "kana": "さがす",
@@ -2220,171 +629,10 @@
       "reason": "occasional-frame"
     },
     {
-      "id": "kotoba-n4-f2766cb573ff",
-      "jp": "さつえい",
-      "kana": "さつえい",
-      "meaning": "pemotretan/pengambilan gambar/pengambilan film / fotografi / pembuatan video",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b7643d5892b0",
-      "jp": "しかい",
-      "kana": "しかい",
-      "meaning": "memandu acara",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-3aa03b5369b5",
       "jp": "じしん",
       "kana": "じしん",
       "meaning": "percaya diri/kepercayaan atas diri sendiri / gempa bumi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e15ba5b51bbb",
-      "jp": "じゅんび",
-      "kana": "じゅんび",
-      "meaning": "persiapan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-856692d63ca4",
-      "jp": "説明会",
-      "kana": "せつめいかい",
-      "meaning": "sesi penjelasan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-e54913524c8f",
-      "jp": "中止する",
-      "kana": "ちゅうしする",
-      "meaning": "menghentikan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-ddcaaa475b6b",
-      "jp": "つごう",
-      "kana": "つごう",
-      "meaning": "keadaaan/kenyamanan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-70e11153e2c1",
-      "jp": "日本祭",
-      "kana": "にほんまつり",
-      "meaning": "Festival Jepang",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-dfea0eb37b0c",
-      "jp": "はりがみ",
-      "kana": "はりがみ",
-      "meaning": "poster",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-15d7f0aa16a8",
-      "jp": "ビデオカメラ",
-      "kana": "びでおかめら",
-      "meaning": "kamera video",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-509939fbdb89",
-      "jp": "募集",
-      "kana": "ぼしゅう",
-      "meaning": "perekrutan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-0a71ead598d1",
-      "jp": "ボランティア",
-      "kana": "ぼらんてぃあ",
-      "meaning": "sukarelawan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-b5fdc751a0ca",
-      "jp": "ボランティアスタッフ",
-      "kana": "ぼらんてぃあすたっふ",
-      "meaning": "staf sukarelawan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9483ec539b27",
-      "jp": "ぼんおどり",
-      "kana": "ぼんおどり",
-      "meaning": "Bon Odori/Tarian Bon",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5a3ca7eed497",
-      "jp": "もうしこむ",
-      "kana": "もうしこむ",
-      "meaning": "mendaftar / mendaftarkan diri",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-37d51b6e766e",
-      "jp": "れんらくさき",
-      "kana": "れんらくさき",
-      "meaning": "informasi kontak",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5469237a2480",
-      "jp": "わすれもの",
-      "kana": "わすれもの",
-      "meaning": "barang hilang/tertinggal",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ab66d8aa0d48",
-      "jp": "イベントプログラム",
-      "kana": "いべんとぷろぐらむ",
-      "meaning": "program acara",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ec1b321bea4b",
-      "jp": "空手デモンストレーション",
-      "kana": "からてでもんすとれーしょん",
-      "meaning": "demo karate",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-eaeceac56f79",
-      "jp": "参加者",
-      "kana": "さんかしゃ",
-      "meaning": "peserta",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-7d685fd3d84d",
-      "jp": "ジェイポップコンサート",
-      "kana": "じぇいぽっぷこんさーと",
-      "meaning": "konser J-pop",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ca1a7a2519d2",
-      "jp": "たいこ",
-      "kana": "たいこ",
-      "meaning": "taiko",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-4e415d564ae3",
-      "jp": "チェック",
-      "kana": "ちぇっく",
-      "meaning": "periksa/memeriksa",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-10ac11915bfc",
-      "jp": "デモンストレーション",
-      "kana": "でもんすとれーしょん",
-      "meaning": "demonstrasi",
       "reason": "topic-frame"
     },
     {
@@ -2395,221 +643,11 @@
       "reason": "topic-frame"
     },
     {
-      "id": "kotoba-n4-89e56d4f6914",
-      "jp": "ひとばんじゅう",
-      "kana": "ひとばんじゅう",
-      "meaning": "semalaman",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-0d7ffa7a20f9",
-      "jp": "マイク",
-      "kana": "まいく",
-      "meaning": "pelantang suara/mikrofon",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ae89eee8e420",
-      "jp": "ゆうしょうする",
-      "kana": "ゆうしょうする",
-      "meaning": "menjuarai",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-4e630c813845",
-      "jp": "売りきれ",
-      "kana": "うりきれ",
-      "meaning": "habis terjual",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-46413694b9d0",
-      "jp": "大そうじ",
-      "kana": "おおそうじ",
-      "meaning": "membersihkan rumah dalam rangka tahun baru",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-9f9b549338ea",
-      "jp": "おおみそか",
-      "kana": "おおみそか",
-      "meaning": "malam tahun baru",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ca5a5a497e53",
-      "jp": "大雪",
-      "kana": "おおゆき",
-      "meaning": "salju tebal / salju lebat",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-77fb8c135898",
-      "jp": "お正月",
-      "kana": "おしょうがつ",
-      "meaning": "Tahun Baru",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-fc78ab02ecc5",
-      "jp": "親",
-      "kana": "おや",
-      "meaning": "orang tua",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ab9a466cb167",
-      "jp": "帰国する",
-      "kana": "きこくする",
-      "meaning": "kembali ke negara asal",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-8c84b109981a",
-      "jp": "クリスマスコンサート",
-      "kana": "くりすますこんさーと",
-      "meaning": "konser Natal",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5f330b0a8e83",
-      "jp": "昨年",
-      "kana": "さくねん",
-      "meaning": "tahun lalu",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-ed2f92d5840b",
-      "jp": "正月休み",
-      "kana": "しょうがつやすみ",
-      "meaning": "libur tahun baru",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-39b712ff842c",
-      "jp": "新年",
-      "kana": "しんねん",
-      "meaning": "tahun baru",
-      "reason": "topic-frame"
-    },
-    {
       "id": "kotoba-n4-374954d7531e",
       "jp": "すごする",
       "kana": "すごす",
       "meaning": "menghabiskan waktu",
       "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6c07951c11cd",
-      "jp": "ニューイヤーパーティー",
-      "kana": "にゅーいやーぱーてぃー",
-      "meaning": "Pesta Tahun Baru",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-3e7dc1f025d9",
-      "jp": "年始",
-      "kana": "ねんし",
-      "meaning": "awal tahun",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-97135ed98348",
-      "jp": "年末",
-      "kana": "ねんまつ",
-      "meaning": "akhir tahun",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-2c88919512a2",
-      "jp": "年末年始",
-      "kana": "ねんまつねんし",
-      "meaning": "akhir tahun dan awal tahun baru",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5b702f88888e",
-      "jp": "もどる",
-      "kana": "もどる",
-      "meaning": "kembali",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-2e31aa648e00",
-      "jp": "いのる",
-      "kana": "いのる",
-      "meaning": "berdoa",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-c8d8bbd3db6d",
-      "jp": "祝う",
-      "kana": "いわう",
-      "meaning": "merayakan",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-6c18e0987d14",
-      "jp": "受ける",
-      "kana": "うける",
-      "meaning": "mengikuti ujian / menerima",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-5d093cab6c83",
-      "jp": "えま",
-      "kana": "えま",
-      "meaning": "ema (papan bergambar berisi permohonan)",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-dd77f339996c",
-      "jp": "おこる",
-      "kana": "おこる",
-      "meaning": "timbul/terjadi",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-e261a201581f",
-      "jp": "お知らせ",
-      "kana": "おしらせ",
-      "meaning": "pengumuman / pemberitahuan; notifikasi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-a983d8ba3dee",
-      "jp": "おちる",
-      "kana": "おちる",
-      "meaning": "tidak lulus tes/ujian",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-0f457a0aadcf",
-      "jp": "おる",
-      "kana": "おる",
-      "meaning": "melipat",
-      "reason": "occasional-frame"
-    },
-    {
-      "id": "kotoba-n4-7c390876f00f",
-      "jp": "かざり",
-      "kana": "かざり",
-      "meaning": "pajangan/hiasan / dekorasi; hiasan / dekorasi",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-814c8856427b",
-      "jp": "かみさま",
-      "kana": "かみさま",
-      "meaning": "Tuhan",
-      "reason": "topic-frame"
-    },
-    {
-      "id": "kotoba-n4-5abee367094a",
-      "jp": "きゅうりょう",
-      "kana": "きゅうりょう",
-      "meaning": "gaji",
-      "reason": "topic-frame"
     },
     {
       "id": "kotoba-n4-6ee986b0f765",
