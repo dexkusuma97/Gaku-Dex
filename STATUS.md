@@ -1246,3 +1246,12 @@ Tinjau 83/83 materi dan 166 contoh. Tulis ulang penjelasan, rumus dan catatan ag
 Tetap 83 materi/11 kategori/166 contoh/16 cek, semua ID, urutan dan sumber awal. Seluruh data Bunpo N4, Kotoba dan Kanji identik dengan paket 15. Pengantar khusus N5, bantuan N4 dipertahankan. Rincian: data/BUNPO_N5_REVIEW_20261101.md dan data/bunpo-n5-editorial-review.json. Audit internal, belum sertifikasi pengajar atau pengujian pemahaman dengan pelajar dari nol.
 
 Semua 42 berkas tes lulus, rebuild stabil; cek render VM meliputi seluruh detail N5 dan bacaan cek, pencarian serta isolasi level. Belum uji visual browser/Android fisik. Paket kumulatif menerima versi dikenal, backup/rollback dan pencegahan cache Python; tanpa push/deploy otomatis.
+
+
+## 1 November 2026 — Batch 17: tambahan Marugoto dan zoom area buku
+
+Tambahkan dua entri Starter A1 Katsudo/Rikai pada Rangkuman → Buku. Keduanya memakai tautan pengguna yang sama: Daftar Kosakata Indonesia bersama, 82 halaman; diberi label jelas dan 82 aset hanya disimpan sekali. Footer Marugoto menampilkan sumber Japan Foundation (https://www.jpf.go.jp/) serta PDF asli setelah catatan nomor halaman. Dua buku Minna, 50 bab rangkuman, serta seluruh data Bunpo/Kotoba/Kanji tetap.
+
+Tambahkan pembesaran cubit 100–300% dalam area buku dengan jangkar posisi, panning/scroll, tombol zoom dan Ctrl+wheel. Batasi zoom sentuh halaman aplikasi lewat viewport/CSS dan pencegahan gestur browser. Route buku menerima ID tersedia; posisi masing-masing entri terpisah dan kompatibel dengan penyimpanan lama.
+
+43 berkas tes lulus, build stabil, hash 82 aset terverifikasi, sampel render PDF diperiksa visual. Tes gestur adalah simulasi DOM; belum uji browser/Android fisik. Asal/hash PDF, proses render dan batas pemeriksaan ada di data/RANGKUMAN_BOOKS_UPDATE_20261101.md. Paket kumulatif, backup/conflict gate/rollback, tanpa commit/push/deploy otomatis.

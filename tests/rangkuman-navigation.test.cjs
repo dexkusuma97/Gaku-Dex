@@ -17,3 +17,10 @@ c.prefs.level='N4';c.openSummaryChapter(50);assert.equal(c.getRangkumanRoute().c
 console.log('PASS: summary chapter/reader reload, library filter Back, next replacement, local bookmark, book page persistence, N4 chapter access and root tab Back Home');
 
 console.log('PASS: first-use intro survives reload, continue replaces intro, contextual help Back returns to chapter, later chapters skip intro');
+
+c.showPage('Rangkuman');c.rangkumanSetSection('books');c.openSummaryBook(3);c.summaryBookPage(82);c.initAppNavigation();
+assert.equal(c.getRangkumanRoute().book,3);assert.equal(c.getRangkumanRoute().bookPage,82);c.appBack();
+c.openSummaryBook(4);assert.equal(c.getRangkumanRoute().bookPage,1);c.summaryBookPage(10);c.initAppNavigation();
+assert.equal(c.getRangkumanRoute().book,4);assert.equal(c.getRangkumanRoute().bookPage,10);c.appBack();
+c.openSummaryBook(3);assert.equal(c.getRangkumanRoute().bookPage,82);
+console.log('PASS: both Marugoto entries survive reload and preserve independent reading positions');
