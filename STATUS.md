@@ -1323,3 +1323,8 @@ Paket kumulatif mencakup 1–23. Pemasang memeriksa hash, mencadangkan dan memul
 ## 1 November 2026 — Batch 27: impor 144 rekaman Kaiwa N4
 
 144 MP3 pengguna dipasang ke dist/assets/kaiwa-n4; lengkap untuk 18 skenario, total sekitar 10 menit 18 detik. Decode penuh, nama/ukuran/hash/durasi/volume diperiksa. N4 memakai rekaman terlebih dahulu dengan fallback TTS; N5 tetap terpisah. Compiler menjaga kecocokan rekaman dan naskah. 50 berkas tes lulus; belum transkripsi akustik, mendengarkan seluruh rekaman atau uji Android fisik baru. Rincian: data/KAIWA_N4_AUDIO_20261101.md. Paket kumulatif 1–26.
+
+
+## 1 November 2026 — Batch 28: Riwayat, filter dan hapus
+
+Menu Riwayat diperbarui dengan ringkasan, filter jenis/level, tanggal, hasil/progres dan pemuatan bertahap. Hapus satu atau semua dengan konfirmasi dan Batal; data belajar/favorit/kosakata tidak dihapus. Pencatatan bersama lintas modul, deduplikasi per percobaan, level eksplisit untuk aktivitas baru dan kompatibilitas data lama tanpa menebak level. Kapasitas baru 200 aktivitas terbaru. 52 berkas tes lulus dan pratinjau browser 390 piksel diperiksa menggunakan fixture. Belum Android fisik. Rincian: data/HISTORY_REVIEW_20261101.md. Paket kumulatif 1–27.

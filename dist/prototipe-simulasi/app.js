@@ -69,8 +69,9 @@ function advanceSection(){stopAudio();const r=state.run,e=EXAMS[state.exam];if(r
 function beginSection(){const r=state.run;if(state.exam==='jlpt')r.deadline=Date.now()+EXAMS[state.exam].times[r.section]*60000;r.pending=false;audioMessage='';persist();render();window.scrollTo({top:0,behavior:'instant'})}
 function requestExit(){openDialog('Keluar dari simulasi?','<p>Sesi ini akan diakhiri. Hasil latihan akan disimpan ke Riwayat pada perangkat ini.</p>','<button onclick="closeDialog()">Tetap mengerjakan</button><button class="primary" onclick="closeDialog();finishExam()">Akhiri & lihat hasil</button>')}
 function saveSimulationResult(){
- const r=state.run;if(!r?.finishedAt)return false;
+ const r=state.run;if(!r?.finishedAt)return false;if(r.historySaved)return true;
  const score=rawResult(state.exam,r),id='simulation-'+state.exam+'-'+r.pack+'-'+r.startedAt;
+ if(window.GakuHistory){const record={id,type:'Simulasi',detail:EXAMS[state.exam].name+' · '+packLabel(r.pack),time:new Date(r.finishedAt).toISOString(),level:EXAMS[state.exam].code,simulation:{exam:state.exam,pack:r.pack,correct:score.correct,total:score.total,answered:score.answered,durationSeconds:Math.max(0,Math.round((r.finishedAt-r.startedAt)/1000)),sections:score.sections}};r.historySaved=window.GakuHistory.add(record);return r.historySaved;}
  try{const stored=JSON.parse(localStorage.getItem('gaku-ui-history')||'[]');if(!Array.isArray(stored))return false;
  if(!stored.some(h=>h.id===id)){stored.unshift({id,type:'Simulasi',detail:EXAMS[state.exam].name+' · '+packLabel(r.pack)+' · '+score.correct+'/'+score.total+' benar',time:new Date(r.finishedAt).toISOString(),simulation:{exam:state.exam,pack:r.pack,correct:score.correct,total:score.total,answered:score.answered,durationSeconds:Math.max(0,Math.round((r.finishedAt-r.startedAt)/1000)),sections:score.sections}});localStorage.setItem('gaku-ui-history',JSON.stringify(stored.slice(0,40)));}r.historySaved=true;return true;
  }catch{r.historySaved=false;return false;}

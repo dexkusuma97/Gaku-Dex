@@ -64,13 +64,14 @@
     if(token===sequence){all=false;activeLine=-1;updateAudio();}
   }
   function saveRoute(){if(typeof global.GakuKaiwa.onRoute==='function')global.GakuKaiwa.onRoute();}
-  function clearProgress(){clearTimeout(pending);pending=null;stop();state.visible=[];state.cursor=0;state.choices=[];state.wrong=[];state.feedback='';state.done=false;state.revealed.clear();state.busy=false;}
+  function clearProgress(){clearTimeout(pending);pending=null;stop();state.visible=[];state.cursor=0;state.choices=[];state.wrong=[];state.feedback='';state.done=false;state.revealed.clear();state.busy=false;state.attempt='kw-'+Date.now()+'-'+Math.random().toString(36).slice(2);}
   function reset(){clearProgress();state.scenario=null;state.mode='read';}
   function open(id,mode='read',push=true){if(!entries().some(s=>s.id===id))return;clearProgress();state.scenario=id;state.mode=mode==='practice'?'practice':'read';if(state.mode==='practice')advance();if(push)saveRoute();draw(true);}
   function advance(){
+    if(state.done)return;
     const s=scenario();if(!s)return;
     while(state.cursor<s.lines.length&&s.lines[state.cursor].who==='npc'){state.visible.push(state.cursor++);}
-    if(state.cursor>=s.lines.length){state.done=true;state.choices=[];global.GakuKaiwa.onComplete?.(s);return;}
+    if(state.cursor>=s.lines.length){state.done=true;state.choices=[];global.GakuKaiwa.onComplete?.(s,{id:state.attempt});return;}
     const line=s.lines[state.cursor];state.choices=shuffle([{jp:line.jp,correct:true},...line.salah.map(o=>({...o,correct:false}))]);state.wrong=[];
   }
   function choose(index){
