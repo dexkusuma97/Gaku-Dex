@@ -11,7 +11,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -118,7 +118,8 @@
           ],
           "intent": "Terima permintaan dan janjikan membawa foto saat bertemu lagi."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e1-t02",
@@ -129,7 +130,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -237,7 +238,8 @@
           ],
           "intent": "Sampaikan terima kasih dan bahwa kamu menantikan fotonya."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e1-t03",
@@ -248,7 +250,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -355,7 +357,8 @@
           ],
           "intent": "Sebutkan gedung merah sebagai penanda lokasi taman."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e1-t04",
@@ -366,7 +369,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -475,7 +478,8 @@
           ],
           "intent": "Minta maaf karena terlambat dan jelaskan keretanya terlambat."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e1-t05",
@@ -486,7 +490,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -594,7 +598,8 @@
           ],
           "intent": "Tawarkan pergi bersama ke stasiun."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e1-t06",
@@ -605,7 +610,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -714,7 +719,8 @@
           ],
           "intent": "Tolak tambahan makanan dengan sopan karena sudah kenyang."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e1-t07",
@@ -725,7 +731,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -832,7 +838,8 @@
           ],
           "intent": "Berterima kasih dan sampaikan urutan persiapanmu."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e1-t08",
@@ -843,7 +850,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -951,7 +958,8 @@
           ],
           "intent": "Sampaikan niat melanjutkan kebiasaan itu sedikit demi sedikit."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e1-t09",
@@ -962,7 +970,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 1 · A2",
       "source": {
         "id": "marugoto-e1",
@@ -1070,7 +1078,8 @@
           ],
           "intent": "Sarankan memilih bunga yang disukai kakak Hori."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t01",
@@ -1081,7 +1090,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -1188,7 +1197,8 @@
           ],
           "intent": "Minta diperkenalkan kepada teman Hori."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t02",
@@ -1199,7 +1209,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -1307,7 +1317,8 @@
           ],
           "intent": "Sampaikan bahwa kamu akan mencoba menuangkan sedikit saus."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t03",
@@ -1318,7 +1329,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -1426,7 +1437,8 @@
           ],
           "intent": "Sampaikan bahwa kamu akan memeriksa cuaca sebelum pergi."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t04",
@@ -1437,7 +1449,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -1546,7 +1558,8 @@
           ],
           "intent": "Sampaikan persiapan mematikan bunyi ponsel sebelum konser."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t05",
@@ -1557,7 +1570,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -1664,7 +1677,8 @@
           ],
           "intent": "Balas harapan Hori dengan harapan untuk tahun yang menyenangkan."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t06",
@@ -1675,7 +1689,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -1783,7 +1797,8 @@
           ],
           "intent": "Sampaikan rencana membaca ulasan sebelum memutuskan."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t07",
@@ -1794,7 +1809,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -1901,7 +1916,8 @@
           ],
           "intent": "Tanggapi larangan dengan berjanji melihat tanpa memotret."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t08",
@@ -1912,7 +1928,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -2020,7 +2036,8 @@
           ],
           "intent": "Apresiasi penggunaan kembali kemeja lama."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     },
     {
       "id": "n4-e2-t09",
@@ -2031,7 +2048,7 @@
       "npc": "Hori",
       "gender": "female",
       "playerName": "Ryota",
-      "audioMode": "device",
+      "audioMode": "recorded",
       "book": "Elementary 2 · A2",
       "source": {
         "id": "marugoto-e2",
@@ -2139,7 +2156,8 @@
           ],
           "intent": "Ceritakan perubahan kemampuan menggambar yang sudah terjadi."
         }
-      ]
+      ],
+      "audioFolder": "kaiwa-n4"
     }
   ]
 }

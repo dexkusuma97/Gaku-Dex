@@ -48,7 +48,7 @@
       };
       if(s.audioMode==='device'){tts();return;}
       try{
-        player=new global.Audio('assets/kaiwa/'+(s.audioId||s.id)+'-'+(index+1)+'.mp3');player.preload='auto';player.onended=()=>finish(true);player.onerror=tts;
+        player=new global.Audio('assets/'+(s.audioFolder||'kaiwa')+'/'+(s.audioId||s.id)+'-'+(index+1)+'.mp3');player.preload='auto';player.onended=()=>finish(true);player.onerror=tts;
         player.onplaying=()=>{clearTimeout(watchdog);watchdog=setTimeout(()=>{if(token===sequence){player?.pause();finish(false);notice('Pemutaran dihentikan karena audio tidak selesai.');}},60000);};
         watchdog=setTimeout(tts,8000);
         const attempt=player.play();attempt?.catch(tts);

@@ -1318,3 +1318,8 @@ Paket kumulatif mencakup 1–23. Pemasang memeriksa hash, mencadangkan dan memul
 ## 1 November 2026 — Batch 26: Kaiwa N4 dari dua referensi A2
 
 18 skenario/144 baris/72 balasan latihan; adaptasi sembilan topik per buku Marugoto Elementary 1–2 dari PDF pengguna. Menu/route/audio mengikuti level; N5 tidak tampil pada menu N4 dan tetap tersedia saat memilih N5. Tujuan balasan dan catatan pola singkat mendukung transisi dari N5. Suara N4 saat ini TTS Jepang perangkat, belum MP3; manifest 144 naskah dan generator dry-run disiapkan. 49 berkas tes lulus; belum pengajar eksternal/uji Android fisik baru. Rincian cakupan dan audio: data/KAIWA_N4_REVIEW_20261101.md. Paket kumulatif 1–25.
+
+
+## 1 November 2026 — Batch 27: impor 144 rekaman Kaiwa N4
+
+144 MP3 pengguna dipasang ke dist/assets/kaiwa-n4; lengkap untuk 18 skenario, total sekitar 10 menit 18 detik. Decode penuh, nama/ukuran/hash/durasi/volume diperiksa. N4 memakai rekaman terlebih dahulu dengan fallback TTS; N5 tetap terpisah. Compiler menjaga kecocokan rekaman dan naskah. 50 berkas tes lulus; belum transkripsi akustik, mendengarkan seluruh rekaman atau uji Android fisik baru. Rincian: data/KAIWA_N4_AUDIO_20261101.md. Paket kumulatif 1–26.

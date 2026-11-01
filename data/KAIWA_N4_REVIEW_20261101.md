@@ -26,3 +26,8 @@ Belum ada rekaman MP3 N4. N4 langsung memakai TTS Jepang dari perangkat (tanpa m
 49 berkas tes lulus. Tes baru memeriksa 18 skenario/144 baris/72 jawaban, field, pilihan unik, peta dua PDF dan hash, cakupan topik, kecocokan naskah rekaman, label, petunjuk, penyelesaian latihan, pencegahan route lintas level, TTS langsung tanpa MP3, antrean suara dan pembatalan. Regresi N5, Quiz N4, modul belajar dan navigasi lulus. Build data N4 stabil. Ini pemeriksaan internal dan tes renderer; belum pengajar eksternal, verifikasi pendengaran atau uji Android fisik baru.
 
 Hak cipta PDF sumber tetap ©2017 The Japan Foundation. Salinan sumber dipertahankan sebagai referensi audit. Paket kumulatif 1–25; pemasang memeriksa konflik, backup dan rollback, tanpa commit/push/deploy otomatis.
+
+
+## Pembaruan paket 27 — rekaman sudah diimpor
+
+Status audio di atas merupakan kondisi saat paket 26. Paket 27 memasang 144 MP3 pengguna dan mengaktifkan pemutaran rekaman N4 terlebih dahulu, dengan TTS sebagai fallback. Pemeriksaan berkas, batas verifikasi akustik dan penjagaan naskah dijelaskan dalam KAIWA_N4_AUDIO_20261101.md. Seluruh 50 berkas tes lulus.

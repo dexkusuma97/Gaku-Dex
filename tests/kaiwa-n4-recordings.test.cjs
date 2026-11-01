@@ -1,0 +1,15 @@
+'use strict';
+const fs=require('node:fs'),path=require('node:path'),os=require('node:os'),cp=require('node:child_process'),crypto=require('node:crypto'),assert=require('node:assert/strict');
+const sha=p=>crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex');
+const data=JSON.parse(fs.readFileSync('data/kaiwa-n4.json')),report=JSON.parse(fs.readFileSync('data/kaiwa-n4-audio-import-20261101.json')),manifest=JSON.parse(fs.readFileSync('scripts/voice-v3/kaiwa-n4-manifest.json'));
+assert.equal(report.count,144);assert.equal(report.files.length,144);assert.equal(new Set(report.files.map(r=>r.file)).size,144);assert.equal(report.expectedVoiceIds.female,'3321Alera3fXjEWjjbAX');assert.equal(report.expectedVoiceIds.male,'Bj4Malc5SZLoXfPtxRxH');
+assert.deepEqual(fs.readdirSync('dist/assets/kaiwa-n4').filter(n=>n.endsWith('.mp3')).sort(),manifest.map(x=>x.file).sort());
+for(const row of report.files){const p='dist/assets/kaiwa-n4/'+row.file,bytes=fs.readFileSync(p);assert.equal(bytes.length,row.bytes);assert.equal(sha(p),row.sha256);assert.ok(bytes.subarray(0,3).toString()==='ID3'||bytes[0]===255&&(bytes[1]&224)===224);assert.ok(row.duration_seconds>.4&&row.duration_seconds<90);assert.ok(row.mean_volume_db>-60);const source=manifest.find(x=>x.file===row.file);assert.equal(source.turns[0].text,row.jp);assert.equal(source.turns[0].speaker,row.gender);}
+for(const s of data.scenarios){assert.equal(s.audioMode,'recorded');assert.equal(s.audioFolder,'kaiwa-n4');assert.equal(report.files.filter(r=>r.scenario===s.id).length,s.lines.length)}
+// Rebuild must retain the imported recording switch; edited narration must stop using its old audio.
+const fixture=fs.mkdtempSync(path.join(os.tmpdir(),'gaku-kaiwa-recordings-'));
+try{for(const dir of ['scripts','data/kaiwa-sources','dist/assets'])fs.mkdirSync(path.join(fixture,dir),{recursive:true});for(const rel of ['scripts/build-kaiwa-n4.py','data/kaiwa-n4-audio-import-20261101.json','data/kaiwa-sources/index.json'])fs.copyFileSync(rel,path.join(fixture,rel));fs.mkdirSync(path.join(fixture,'scripts/voice-v3'));fs.cpSync('dist/assets/kaiwa-n4',path.join(fixture,'dist/assets/kaiwa-n4'),{recursive:true});
+const run=()=>cp.execFileSync('python3',['scripts/build-kaiwa-n4.py'],{cwd:fixture,env:{...process.env,PYTHONDONTWRITEBYTECODE:'1'}});run();assert.equal(sha(path.join(fixture,'data/kaiwa-n4.json')),sha('data/kaiwa-n4.json'));run();assert.equal(sha(path.join(fixture,'data/kaiwa-n4.json')),sha('data/kaiwa-n4.json'));
+const script=path.join(fixture,'scripts/build-kaiwa-n4.py');fs.writeFileSync(script,fs.readFileSync(script,'utf8').replace('りょうたさんは、いま どこに すんでいますか。','りょうたさんは、どこに すんでいますか。'));run();const edited=JSON.parse(fs.readFileSync(path.join(fixture,'data/kaiwa-n4.json')));assert.equal(edited.scenarios[0].audioMode,'device');assert.equal(edited.scenarios.filter(s=>s.audioMode==='recorded').length,17);
+}catch(e){throw e}finally{fs.rmSync(fixture,{recursive:true,force:true})}
+console.log('PASS: 144 imported MP3 hashes/signatures, text/voice mappings, non-silent decode metadata, recording-aware rebuild and stale-narration guard');
