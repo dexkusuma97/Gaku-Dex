@@ -21,3 +21,16 @@ assert.ok(!fs.readFileSync('dist/index.html','utf8').includes("page==='Bunpo')ht
 console.log('PASS: 115 N4 lessons; 14 categories; 233 unique examples; 16 checks; source coverage; N5 isolation; level-safe search, detail routes, saves and pagination');
 
 for(const [source,limit] of limits){const covered=new Set(audit.decisions.filter(r=>r.source===source).flatMap(r=>r.pages));assert.equal(covered.size,limit,'Every PDF page accounted for: '+source)}
+
+// Canonical edits must reach the generated browser bundle and detail renderer.
+assert.deepEqual(JSON.parse(run('JSON.stringify(BUNPO_N4_DATA)')),data.lessons);
+assert.deepEqual(JSON.parse(run('JSON.stringify(BUNPO_DATA)')),n5.lessons);
+c.prefs.level='N4';c.resetBunpoRoute();
+for(const e of data.lessons.slice(0,23)){
+ c.restoreBunpoRoute({view:'detail',id:e.id});
+ const html=c.bunpoScreen();
+ for(const text of [e.explanation,e.note,...e.patterns,...e.examples.flatMap(x=>[x.jp,x.kana,x.meaning])])assert.ok(html.includes(text),e.id+' rendered content');
+ assert.ok(html.includes('Ingat kembali bekal N5'));
+}
+c.prefs.level='N5';c.resetBunpoRoute();c.restoreBunpoRoute({view:'detail',id:n5.lessons[0].id});
+assert.ok(!c.bunpoScreen().includes('Ingat kembali bekal N5'));

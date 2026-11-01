@@ -1219,3 +1219,12 @@ Rujukan, editorial dan audit disimpan terpisah; normal build tetap offline. Tamb
 N5 sebelumnya sudah lengkap secara struktur. Verifikasi 115 guratan terhadap KANJIDIC2, standardisasi keluarga radikal 毋/母, dan lengkapi bacaan kamus tanpa nanori. Pertahankan 中 ジュウ dan bentuk 休み/好き dengan rujukan pelengkap yang eksplisit. Empat kun tetap kosong. Perhalus tiga arti Inggris dan satu mnemonic; seluruh 230 contoh, ID, kategori, sumber serta arti Indonesia tetap. Bacaan tambahan N5 dilipat seperti N4.
 
 Simpan referensi/editorial/hasil/audit N5 dan skrip pembaruan rujukan, dengan atribusi data di Pengaturan. Semua 42 tes lulus; kedua build dan ekstraksi arsip stabil. Seluruh data N4/Kotoba tetap; tidak deploy otomatis atau uji visual Android fisik. Ringkasan: data/KANJI_N5_REVIEW_20261101.md.
+
+
+## 1 November 2026 — Batch 14: Bunpo N4 untuk pemula setelah N5
+
+Tinjau 23 materi awal (urutan 1–23) dan 46 contohnya: bentuk kata kerja, keadaan, syarat, izin dan kewajiban. Tulis ulang fungsi secara ringkas; rumus memakai perubahan konkret; catatan membandingkan pola yang mudah tertukar. Ganti satu contoh kausatif untuk menunjukkan membiarkan, perjelas satu arti てある, dan tambahkan tabel perbandingan ている／てある. Pengingat istilah N5 tersedia dalam bagian lipat detail N4.
+
+Tetap 115 materi, 14 kategori, 233 contoh dan 16 cek. ID, level, urutan dan provenans tetap; 92 materi urutan 24–115 belum diaudit pada tahap ini dan identik dengan paket 13. Bunpo N5, Kotoba dan Kanji dipertahankan. Cakupan, rujukan dan antrean tercatat di data/bunpo-n4-editorial-review.json dan data/BUNPO_N4_REVIEW_20261101.md. Ini audit editorial internal, bukan sertifikasi pengajar atau penyetaraan resmi JLPT/CEFR.
+
+Seluruh 42 berkas tes lulus; build Bunpo stabil. Tes mencocokkan JSON dengan bundle dan render detail, pencarian/favorit/rute serta pemisahan N5/N4. Belum uji visual browser/Android fisik. Paket kumulatif mencakup 1–13; pemasang backup, conflict gate dan rollback dipertahankan, tanpa push/deploy otomatis.

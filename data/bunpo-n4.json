@@ -6,7 +6,7 @@
     "examples": 233,
     "checks": 16,
     "policy": "One retained card per grammar concept/family; N5 concepts remain N5. Similar spellings with distinct functions are retained separately.",
-    "editorial": "Explanations and examples rewritten in Indonesian. Source is provenance, not an official JLPT syllabus."
+    "editorial": "Penjelasan Indonesia orisinal. Audit pemula pasca-N5: 23/115 materi, urutan 1–23 (1 November 2026); 92 materi menunggu. Sumber bukan silabus resmi JLPT atau penyetaraan resmi CEFR."
   },
   "sources": [
     {
@@ -144,13 +144,15 @@
       "kana": "うけみ",
       "romaji": "ukemi",
       "meaning": "Subjek dikenai suatu tindakan",
-      "explanation": "Kalimat pasif memusatkan perhatian pada pihak yang menerima tindakan. Untuk golongan I, ubah bunyi akhir u menjadi a lalu tambah れる; kata berakhiran う menjadi われる. Golongan II membuang る lalu menambah られる. する→される dan 来る→来られる（こられる）.",
+      "explanation": "Gunakan pasif untuk menyoroti orang atau benda yang dikenai tindakan. Dalam 私は先生にほめられました, saya yang dipuji dan guru yang memuji. Pelaku tindakan biasanya ditandai に; bentuk kata kerjanya diubah seperti rumus di bawah.",
       "patterns": [
-        "Gol. I: u → a + れる（う → われる）",
-        "Gol. II: buang る + られる",
-        "Penerima は + pelaku に + V pasif"
+        "Gol. I: ubah bunyi akhir u → a + れる; 読む → 読まれる",
+        "Akhiran う khusus: 買う → 買われる",
+        "Gol. II: buang る + られる; 食べる → 食べられる",
+        "する → される; 来る（くる）→ 来られる（こられる）",
+        "Yang dikenai tindakan は + pelaku に + V pasif"
       ],
-      "note": "Pasif tidak selalu berarti terganggu. Ada juga pasif netral seperti buku diterbitkan. Bentuk ～られる dapat sama dengan potensial; tentukan fungsi lewat konteks.",
+      "note": "Pasif tidak selalu berarti dirugikan. 本が読まれる berarti buku dibaca. 食べられる juga bisa berarti bisa makan; lihat konteks untuk membedakan pasif dan kemampuan.",
       "examples": [
         {
           "jp": "私は先生にほめられました。",
@@ -256,14 +258,16 @@
       "kana": "しえき",
       "romaji": "shieki",
       "meaning": "Menyuruh atau membiarkan seseorang melakukan",
-      "explanation": "Kausatif menunjukkan seseorang membuat, menyuruh, atau mengizinkan orang lain melakukan tindakan. Golongan I mengubah u menjadi a lalu menambah せる; う menjadi わせる. Golongan II membuang る lalu menambah させる. する→させる dan 来る→来させる（こさせる）.",
+      "explanation": "Gunakan kausatif ketika seseorang menyuruh atau membiarkan orang lain melakukan sesuatu. 母は子どもに野菜を食べさせます berarti ibu membuat anak makan sayur. Makna menyuruh atau mengizinkan ditentukan oleh situasi, bukan bentuk kata kerja saja.",
       "patterns": [
-        "Gol. I: u → a + せる（う → わせる）",
-        "Gol. II: buang る + させる",
-        "Penyuruh は + pelaku に + objek を + V kausatif",
-        "Penyuruh は + pelaku を + V gerak/intransitif kausatif"
+        "Gol. I: bunyi akhir u → a + せる; 読む → 読ませる",
+        "Akhiran う khusus: 買う → 買わせる",
+        "Gol. II: buang る + させる; 食べる → 食べさせる",
+        "する → させる; 来る（くる）→ 来させる（こさせる）",
+        "Penyuruh は + orang に + objek を + V kausatif",
+        "Tanpa objek: penyuruh は + orang を + V kausatif; 子どもを行かせる"
       ],
-      "note": "Pemilihan に／を bergantung kata kerja dan susunan kalimat. Jangan gunakan を dua kali untuk pelaku dan objek. 食べる→食べさせる, bukan たさせる.",
+      "note": "Jika sudah ada objek を, tandai orang yang disuruh dengan に. Pada kata kerja tanpa objek, に juga dapat muncul sesuai konteks; contoh dengan を di atas adalah pola awal, bukan satu-satunya pilihan.",
       "examples": [
         {
           "jp": "母は子どもに野菜を食べさせました。",
@@ -271,9 +275,9 @@
           "meaning": "Ibu menyuruh anak makan sayur."
         },
         {
-          "jp": "部長は社員を大阪へ行かせました。",
-          "kana": "ぶちょう は しゃいん を おおさか へ いかせました。",
-          "meaning": "Kepala bagian menyuruh pegawai pergi ke Osaka."
+          "jp": "母は子どもを公園で遊ばせました。",
+          "kana": "はは は こども を こうえん で あそばせました。",
+          "meaning": "Ibu membiarkan anak bermain di taman."
         }
       ],
       "level": "N4",
@@ -370,12 +374,14 @@
       "kana": "させられる",
       "romaji": "saserareru",
       "meaning": "Disuruh atau dipaksa melakukan",
-      "explanation": "Gabungan kausatif dan pasif menempatkan orang yang harus melakukan tindakan sebagai subjek. Biasanya menunjukkan bahwa tindakan itu terjadi karena kemauan orang lain, sering dengan rasa terpaksa.",
+      "explanation": "Pola ini berarti disuruh atau dipaksa melakukan sesuatu. Kalimat berpusat pada orang yang harus bertindak, sering dengan perasaan terpaksa. 私は先生に作文を書かせられました berarti saya disuruh guru menulis karangan.",
       "patterns": [
-        "Bentuk kausatif: buang る + られる",
-        "Pelaku は + penyuruh に + V kausatif pasif"
+        "Buat bentuk kausatif, lalu buang る + られる",
+        "読む → 読ませる → 読ませられる",
+        "食べる → 食べさせる → 食べさせられる",
+        "Orang yang disuruh は + penyuruh に + V kausatif pasif"
       ],
-      "note": "読む→読ませる→読ませられる. Ada bentuk singkat 読まされる pada banyak kata kerja golongan I, tetapi tidak diterapkan begitu saja pada semuanya. Bentuk lengkap lebih aman dipelajari dulu.",
+      "note": "Banyak kata kerja gol. I memakai bentuk singkat: 読まされる. Kata berakhiran す tetap seperti 話させられる, bukan 話さされる. Mulai dari bentuk lengkap agar urutan perubahannya jelas.",
       "examples": [
         {
           "jp": "私は先生に作文を書かせられました。",
@@ -444,12 +450,13 @@
       "kana": "させてください",
       "romaji": "sasetekudasai",
       "meaning": "Izinkan saya; biarkan saya melakukan",
-      "explanation": "Bentuk kausatif diubah ke bentuk て lalu diikuti ください untuk meminta izin melakukan suatu tindakan. Pembicara adalah orang yang ingin bertindak; lawan bicara diminta memberikan izin.",
+      "explanation": "Gunakan untuk meminta izin melakukan sesuatu sendiri. Mulai dari bentuk kausatif, ubah ke bentuk て, lalu tambahkan ください. 考えさせてください berarti izinkan saya berpikir; orang yang akan berpikir adalah saya.",
       "patterns": [
         "V kausatif bentuk て + ください",
-        "V kausatif bentuk て + いただけませんか"
+        "考える → 考えさせる → 考えさせてください",
+        "Lebih sopan: V kausatif bentuk て + いただけませんか"
       ],
-      "note": "話させてください berarti izinkan saya berbicara, bukan tolong suruh orang lain berbicara. Bentuk ～させていただけませんか lebih sopan.",
+      "note": "Bandingkan 考えてください: tolong pikirkan, dengan 考えさせてください: izinkan saya berpikir. Pilihan kedua meminta izin, bukan meminta lawan bicara mengerjakan tindakan itu.",
       "examples": [
         {
           "jp": "少し考えさせてください。",
@@ -499,14 +506,14 @@
       "kana": "めいれいけい",
       "romaji": "meireikei",
       "meaning": "Perintah tegas atau seruan singkat",
-      "explanation": "Bentuk perintah dibuat dengan mengubah bunyi akhir u menjadi e untuk golongan I. Golongan II membuang る lalu menambah ろ. Bentuk khusus: する→しろ dan 来る→来い（こい）. Bentuk ini muncul pada instruksi darurat, olahraga, atau situasi sangat langsung.",
+      "explanation": "Bentuk ini memberikan perintah langsung, misalnya 止まれ！: berhenti! Kamu akan menjumpainya pada peringatan, situasi darurat, dan seruan olahraga. Pelajari untuk memahami ucapan itu; bentuk ini dapat terdengar keras dalam percakapan biasa.",
       "patterns": [
-        "Gol. I: u → e",
-        "Gol. II: buang る + ろ",
+        "Gol. I: bunyi akhir u → e; 読む → 読め",
+        "Gol. II: buang る + ろ; 食べる → 食べろ",
         "する → しろ",
-        "来る → 来い"
+        "来る（くる）→ 来い（こい）"
       ],
-      "note": "Terdengar keras jika dipakai dalam percakapan biasa. Untuk meminta bantuan sehari-hari, gunakan ～てください atau bentuk yang lebih sopan.",
+      "note": "Untuk meminta orang melakukan sesuatu sehari-hari, gunakan ～てください. Jangan memilih bentuk perintah langsung hanya karena kalimat Indonesianya berakhiran -lah.",
       "examples": [
         {
           "jp": "危ない！止まれ！",
@@ -587,11 +594,13 @@
       "kana": "なさい",
       "romaji": "nasai",
       "meaning": "Lakukanlah; perintah dari pihak yang mengarahkan",
-      "explanation": "なさい ditambahkan pada pangkal bentuk ます. Sering dipakai orang tua kepada anak, guru kepada murid, atau dalam petunjuk soal. Lebih terarah daripada bentuk perintah kasar, tetapi tetap merupakan perintah.",
+      "explanation": "～なさい adalah perintah yang sering dipakai orang tua kepada anak, guru kepada murid, atau petunjuk soal. Caranya: buang ます dari bentuk sopan, lalu tambahkan なさい. 読みます menjadi 読みなさい: bacalah.",
       "patterns": [
-        "Vます: buang ます + なさい"
+        "Vます: buang ます + なさい",
+        "読みます → 読みなさい",
+        "食べます → 食べなさい"
       ],
-      "note": "Bukan permintaan sopan untuk atasan. 食べなさい berarti makanlah, bukan larangan; larangan kata kerja dibuat dengan bentuk kamus＋な.",
+      "note": "Tetap merupakan perintah, jadi tidak cocok untuk meminta bantuan atasan. 食べなさい berarti makanlah; 食べるな berarti jangan makan. Perhatikan letak な dan bentuk kata kerjanya.",
       "examples": [
         {
           "jp": "問題をよく読みなさい。",
@@ -636,11 +645,13 @@
       "kana": "な",
       "romaji": "na",
       "meaning": "Jangan! sebagai larangan tegas",
-      "explanation": "Kata kerja bentuk kamus ditambah な menyatakan larangan langsung. Dipakai dalam tanda peringatan, ucapan keras, atau situasi mendesak. Ini berbeda dari sifat-na dan akhiran perintah なさい.",
+      "explanation": "Tambahkan な pada kata kerja bentuk kamus untuk melarang secara langsung. 入るな berarti jangan masuk. Bentuk ini sering muncul pada peringatan atau ucapan keras; untuk permintaan sehari-hari, ～ないでください lebih halus.",
       "patterns": [
-        "V kamus + な"
+        "V kamus + な",
+        "入る → 入るな",
+        "食べる → 食べるな"
       ],
-      "note": "Gunakan ～ないでください untuk permintaan sehari-hari yang lebih halus. Perhatikan perbedaannya: 食べなさい berarti makanlah; 食べるな berarti jangan makan.",
+      "note": "Jangan membuang る pada 食べるな. Bedakan 食べるな: jangan makan, dan 食べなさい: makanlah. な pada pola ini juga berbeda dari な pada kata sifat-na.",
       "examples": [
         {
           "jp": "ここに入るな。",
@@ -705,12 +716,12 @@
       "kana": "じどうし・たどうし",
       "romaji": "jidoushi / tadoushi",
       "meaning": "Membedakan benda yang berubah dan tindakan pada benda",
-      "explanation": "Kata kerja intransitif menjelaskan apa yang terjadi pada subjek, umumnya dengan が. Kata kerja transitif menjelaskan tindakan pelaku terhadap objek, umumnya dengan を. Pasangan bentuk harus dipelajari sebagai kosakata; tidak semua kata kerja mempunyai pasangan.",
+      "explanation": "Intransitif menjelaskan apa yang terjadi pada benda: 窓が開く, jendela terbuka. Transitif menjelaskan tindakan seseorang pada benda: 窓を開ける, membuka jendela. Mulai dengan membandingkan が dan を pada pasangan contoh ini.",
       "patterns": [
-        "Benda が + kata kerja intransitif",
-        "Pelaku は + benda を + kata kerja transitif"
+        "Benda が + V intransitif; 窓が開く",
+        "Pelaku は／が + benda を + V transitif; 私が窓を開ける"
       ],
-      "note": "Contoh pasangan benar: 開く（あく）↔開ける（あける）, 割れる（われる）↔割る（わる）. 割れる dan 開ける bukan pasangan. Ketiadaan pelaku dalam kalimat tidak selalu berarti kejadian berlangsung tanpa sebab manusia.",
+      "note": "Pelajari pasangan sebagai kosakata: 開く（あく）dan 開ける（あける）. Tidak semua kata kerja punya pasangan. Intransitif tidak berarti pasti terjadi sendiri; kalimatnya hanya tidak menyoroti pelaku.",
       "examples": [
         {
           "jp": "窓が開きました。",
@@ -795,17 +806,18 @@
       "kana": "てある",
       "romaji": "tearu",
       "meaning": "Keadaan hasil tindakan yang sengaja dilakukan",
-      "explanation": "てある menyatakan suatu keadaan hasil tindakan yang dilakukan dengan maksud tertentu, sering sebagai persiapan. Biasanya memakai kata kerja transitif. Fokus dapat berada pada benda yang sudah disiapkan.",
+      "explanation": "Gunakan ～てある untuk menyatakan keadaan hasil tindakan yang sengaja dilakukan, sering untuk persiapan. 資料が置いてあります berarti dokumen sudah diletakkan dan masih ada di sana. Fokusnya pada keadaan hasil, bukan siapa yang melakukannya.",
       "patterns": [
         "Benda が + V transitif bentuk て + あります",
-        "（persiapan）benda を + Vてあります"
+        "置く → 置いてある; 開ける → 開けてある",
+        "Persiapan sudah selesai: benda を + Vてあります"
       ],
-      "note": "窓が開いています hanya menyatakan keadaan jendela terbuka. 窓が開けてあります menyoroti bahwa seseorang sengaja membukanya. Penjelasan keadaan ～ている sendiri tetap di N5.",
+      "note": "窓が開いています hanya menjelaskan jendela terbuka. 窓が開けてあります menunjukkan seseorang sengaja membukanya. Pola を＋てある menyoroti persiapan yang sudah dikerjakan, bukan mengganti semua が dengan を.",
       "examples": [
         {
           "jp": "机の上に資料が置いてあります。",
           "kana": "つくえ の うえ に しりょう が おいて あります。",
-          "meaning": "Dokumen sudah diletakkan di atas meja."
+          "meaning": "Dokumen sudah sengaja diletakkan di atas meja dan masih ada di sana."
         },
         {
           "jp": "暑いので、窓が開けてあります。",
@@ -822,7 +834,23 @@
           "page": 75
         }
       ],
-      "searchTerms": []
+      "searchTerms": [],
+      "table": {
+        "headers": [
+          "Kalimat",
+          "Fokus"
+        ],
+        "rows": [
+          [
+            "窓が開いています",
+            "Jendela terbuka; keadaan sekarang"
+          ],
+          [
+            "窓が開けてあります",
+            "Jendela sudah sengaja dibuka; hasilnya masih ada"
+          ]
+        ]
+      }
     },
     {
       "id": "n4-mieru-kikoeru",
@@ -833,12 +861,12 @@
       "kana": "みえる・きこえる",
       "romaji": "mieru / kikoeru",
       "meaning": "Terlihat; terdengar tanpa menyoroti usaha",
-      "explanation": "見える dan 聞こえる menyatakan sesuatu dapat tertangkap mata atau telinga karena kondisi saat itu. Hal yang terlihat atau terdengar biasanya memakai が. Bedakan dari bentuk potensial yang menyoroti kemampuan atau kesempatan melakukan.",
+      "explanation": "見える berarti terlihat, dan 聞こえる berarti terdengar. Gunakan ketika benda atau bunyi dapat ditangkap mata atau telinga karena keadaan saat itu. Hal yang terlihat atau terdengar memakai が, misalnya 海が見えます: laut terlihat.",
       "patterns": [
-        "Hal が + 見えます",
-        "Bunyi が + 聞こえます"
+        "Benda／pemandangan が + 見えます",
+        "Bunyi／suara が + 聞こえます"
       ],
-      "note": "見られる dan 聞ける adalah bentuk potensial yang sudah diperkenalkan di N5. 見える tidak sama dengan 見られる, dan 聞こえる tidak sama dengan 聞ける.",
+      "note": "見られる dan 聞ける adalah bentuk kemampuan atau kesempatan: この映画が見られる, bisa menonton film ini. 見える dan 聞こえる menyoroti apa yang tertangkap indra, bukan usaha sengaja melihat atau mendengar.",
       "examples": [
         {
           "jp": "ここから海が見えます。",
@@ -871,11 +899,12 @@
       "kana": "がする",
       "romaji": "gasuru",
       "meaning": "Terasa; tercium; terdengar suatu kesan",
-      "explanation": "Nがする menyatakan indra menangkap bunyi, bau, atau rasa. Kata benda seperti 音, 声, におい, dan 味 menjadi hal yang dirasakan.",
+      "explanation": "Pakai ～がする untuk mengatakan ada bunyi, bau, atau rasa yang tertangkap indra. Misalnya いいにおいがします berarti tercium aroma harum. Kata benda seperti 音, 声, におい, dan 味 diletakkan sebelum が.",
       "patterns": [
-        "音 / 声 / におい / 味 + がします"
+        "音（おと）／声（こえ）+ がします",
+        "におい／味（あじ）+ がします"
       ],
-      "note": "する di sini bukan melakukan benda itu. 音がする berarti ada bunyi yang terdengar, bukan membuat suara dengan sengaja.",
+      "note": "する di sini tidak berarti melakukan. 音がする berarti terdengar bunyi. Untuk sengaja menghasilkan bunyi, gunakan 音を出す; partikelnya dan kata kerjanya berbeda.",
       "examples": [
         {
           "jp": "台所からいいにおいがします。",
@@ -912,12 +941,13 @@
       "kana": "にきがつく",
       "romaji": "nikigatsuku",
       "meaning": "Menyadari; baru memperhatikan adanya hal",
-      "explanation": "気がつく menyatakan bahwa perhatian seseorang menangkap suatu hal yang sebelumnya tidak disadari. Hal yang disadari ditandai に; untuk kegiatan atau keadaan, gunakan のに.",
+      "explanation": "～に気がつく berarti menyadari sesuatu yang sebelumnya luput dari perhatian. Untuk benda atau masalah, tambahkan に. Untuk isi berupa kalimat, tambahkan のに. 財布がないのに気がついた berarti baru sadar dompet tidak ada.",
       "patterns": [
-        "N + に気がつきます",
-        "V bentuk biasa + のに気がつきます"
+        "N + に気がつきます; 間違いに気がつく",
+        "Kalimat bentuk biasa + のに気がつきます",
+        "V／sifat-i langsung + のに; N／sifat-na positif kini: だ → な + のに"
       ],
-      "note": "Bentuk 気をつける berarti berhati-hati, bukan menyadari. Perhatikan perbedaan partikel dan kata kerjanya.",
+      "note": "のに di sini adalah の yang mengubah isi kalimat menjadi hal, lalu partikel に; bukan meskipun. Bedakan 気がつく: menyadari, dengan 気をつける: berhati-hati.",
       "examples": [
         {
           "jp": "間違いに気がつきました。",
@@ -954,14 +984,15 @@
       "kana": "ば",
       "romaji": "ba",
       "meaning": "Jika syarat A terpenuhi, B terjadi",
-      "explanation": "Gunakan ～ば untuk menyebut syarat yang memungkinkan hasil berikutnya. Untuk kata kerja golongan I, ubah bunyi akhir u menjadi e lalu tambah ば. Golongan II membuang る lalu menambah れば. Bentuk khusus: する→すれば dan 来る→来れば（くれば）.",
+      "explanation": "～ば berarti jika: A menjadi syarat agar B terjadi atau bisa dilakukan. 安ければ買います berarti jika murah, saya akan membelinya. Ubah kata sebelum ば sesuai jenisnya; jangan langsung menambahkan ば pada bentuk kamus.",
       "patterns": [
-        "V gol. I: u → e + ば",
-        "V gol. II: buang る + れば",
-        "Sifat-i: buang い + ければ",
-        "Bentuk negatif: ない → なければ"
+        "Gol. I: bunyi akhir u → e + ば; 読む → 読めば",
+        "Gol. II: buang る + れば; 食べる → 食べれば",
+        "する → すれば; 来る（くる）→ 来れば（くれば）",
+        "Sifat-i: buang い + ければ; 安い → 安ければ",
+        "Negatif: ない → なければ; 行かない → 行かなければ"
       ],
-      "note": "いい menjadi よければ. Untuk meminta orang melakukan sesuatu setelah suatu tindakan selesai, ～たら sering lebih mudah digunakan. Sifat-na dan kata benda dapat memakai ～なら.",
+      "note": "いい menjadi よければ. Untuk pola awal N／sifat-na, gunakan なら. Jika ingin meminta tindakan setelah A selesai, ～たら lebih mudah dipakai: 着いたら電話してください.",
       "examples": [
         {
           "jp": "安ければ、このかばんを買います。",
@@ -1090,14 +1121,14 @@
       "kana": "たら",
       "romaji": "tara",
       "meaning": "Kalau; setelah sesuatu terjadi",
-      "explanation": "Bentuk ～たら dibuat dengan menambahkan ら pada bentuk lampau biasa. Pola ini dipakai untuk syarat yang dibayangkan maupun langkah yang dilakukan setelah A selesai. Bagian B dapat berupa ajakan, permintaan, atau niat.",
+      "explanation": "～たら berarti kalau A terjadi, atau setelah A selesai, lakukan B. Gunakan bentuk lampau biasa lalu tambahkan ら. 仕事が終わったら電話してください berarti telepon setelah pekerjaan selesai; pekerjaannya belum harus sudah selesai sekarang.",
       "patterns": [
-        "Vた + ら",
-        "Sifat-i: ～かったら",
-        "Sifat-na / N: ～だったら",
-        "Negatif: ～なかったら"
+        "Vた + ら; 終わった → 終わったら",
+        "Sifat-i: 安い → 安かったら",
+        "N／sifat-na: 雨だ → 雨だったら; 暇だ → 暇だったら",
+        "Negatif: 行かない → 行かなかったら"
       ],
-      "note": "Bentuk た di sini tidak selalu berarti masa lalu. ご飯を食べたら出かけます berarti akan pergi setelah makan, bukan sudah makan.",
+      "note": "た di sini tidak otomatis berarti masa lalu. A menjadi syarat atau titik waktu bagi B. Bagian B boleh berupa permintaan, ajakan, atau niat; misalnya 食べたら出かけましょう: setelah makan, ayo pergi.",
       "examples": [
         {
           "jp": "仕事が終わったら、電話してください。",
@@ -1146,13 +1177,13 @@
       "kana": "と",
       "romaji": "to",
       "meaning": "Kalau A terjadi, biasanya B mengikuti",
-      "explanation": "Gunakan と untuk hubungan yang tetap atau berulang: cara kerja alat, gejala alam, kebiasaan, atau petunjuk jalan. Bagian sebelum と memakai bentuk biasa bukan lampau. Hasilnya dipandang mengikuti syarat secara alami.",
+      "explanation": "Gunakan AとB saat B biasanya mengikuti A, misalnya cara kerja alat, perubahan alam, atau kebiasaan. ボタンを押すと電気がつきます berarti jika tombol ditekan, lampu menyala. Fokusnya pada hubungan yang dapat diharapkan berulang.",
       "patterns": [
-        "V kamus / Vない + と",
-        "Sifat-i + と",
-        "Sifat-na / N + だと"
+        "V kamus／Vない + と; 押すと／押さないと",
+        "Sifat-i + と; 寒いと",
+        "N／sifat-na + だと; 休みだと／静かだと"
       ],
-      "note": "Untuk ajakan atau permintaan sebagai akibat langsung, gunakan ～たら, bukan pola otomatis と. Ini berbeda dari partikel と yang berarti bersama atau dan.",
+      "note": "Pada penggunaan dasar ini, hindari permintaan atau ajakan sebagai B. Gunakan 着いたら電話してください untuk telepon setelah tiba. と di sini juga berbeda dari と yang berarti bersama atau dan.",
       "examples": [
         {
           "jp": "このボタンを押すと、電気がつきます。",
@@ -1197,12 +1228,12 @@
       "kana": "なら",
       "romaji": "nara",
       "meaning": "Kalau memang; kalau yang dimaksud …",
-      "explanation": "なら mengambil informasi atau rencana yang sedang dibicarakan sebagai syarat. Pembicara lalu memberi saran atau tanggapan yang sesuai. Saran itu dapat dilakukan sebelum kegiatan yang disebutkan.",
+      "explanation": "Gunakan ～なら untuk menanggapi informasi atau rencana dengan saran yang sesuai. 日本へ行くなら、この本を読んでください berarti kalau akan ke Jepang, bacalah buku ini. Bukunya dapat dibaca sebelum berangkat, karena なら tidak menetapkan urutan tindakan.",
       "patterns": [
-        "V / sifat-i bentuk biasa + なら",
-        "Sifat-na / N + なら"
+        "V／sifat-i bentuk biasa + なら; 行くなら／安いなら",
+        "N／sifat-na positif kini: tanpa だ + なら; 日本なら／静かなら"
       ],
-      "note": "日本へ行くなら bermakna kalau kamu akan pergi ke Jepang. Berbeda dari 行ったら yang dapat berarti setelah tiba di Jepang.",
+      "note": "Bandingkan 行くなら: kalau akan pergi, dengan 行ったら: kalau sudah pergi atau setelah tiba. Untuk N／sifat-na negatif atau lampau, pertahankan bentuknya: 学生だったなら, jika waktu itu mahasiswa.",
       "examples": [
         {
           "jp": "日本へ行くなら、この本を読んでください。",
@@ -1275,14 +1306,14 @@
       "kana": "ばあいは",
       "romaji": "baaiha",
       "meaning": "Apabila terjadi keadaan tertentu",
-      "explanation": "場合は memperkenalkan keadaan yang menjadi dasar petunjuk atau tindakan. Pola ini sering muncul dalam aturan, pengumuman, dan penjelasan tentang cara menangani masalah.",
+      "explanation": "～場合は berarti jika terjadi keadaan tertentu. Pola ini sering dipakai untuk petunjuk dan aturan, misalnya 遅れる場合は連絡してください: jika akan terlambat, hubungi kami. Sesudahnya, jelaskan tindakan yang perlu dilakukan dalam situasi itu.",
       "patterns": [
-        "V bentuk biasa + 場合は",
-        "Sifat-i + 場合は",
-        "Sifat-na + な場合は",
-        "N + の場合は"
+        "V bentuk biasa + 場合は; 遅れる場合は",
+        "Sifat-i + 場合は; 高い場合は",
+        "Sifat-na + な場合は; 危険な場合は",
+        "N + の場合は; 地震の場合は"
       ],
-      "note": "Bukan sekadar ketika di masa lalu. Pola ini menyoroti suatu kasus atau situasi yang perlu ditangani.",
+      "note": "場合（ばあい）menyoroti suatu kasus atau situasi, bukan setiap arti ketika. Untuk menceritakan apa yang dilakukan saat kecil, misalnya, gunakan ～とき, bukan otomatis ～場合は.",
       "examples": [
         {
           "jp": "遅れる場合は、連絡してください。",
@@ -1323,13 +1354,14 @@
       "kana": "なければならない・なくてはいけない",
       "romaji": "nakerebanaranai / nakutehaikenai",
       "meaning": "Harus melakukan sesuatu",
-      "explanation": "Pola negatif bersyarat diikuti ならない atau いけない menyatakan kewajiban: sesuatu tidak boleh dibiarkan tidak dilakukan. Mulailah dari bentuk ない, lalu ubah sesuai rumus.",
+      "explanation": "Gunakan pola ini untuk mengatakan harus melakukan sesuatu. Mulai dari bentuk ない, lalu ubah akhirnya sesuai rumus. 行かない menjadi 行かなければなりません: harus pergi. Ada beberapa bentuk dengan makna kewajiban yang hampir sama.",
       "patterns": [
-        "Vない: buang ない + なければならない",
-        "Vない: buang ない + なくてはいけない",
-        "Vない + といけない"
+        "Vない: ganti ない → なければなりません",
+        "Pilihan lain: ganti ない → なくてはいけません",
+        "Pilihan lain: Vない + といけません",
+        "行かない → 行かなければなりません／行かなくてはいけません／行かないといけません"
       ],
-      "note": "Bentuk sopannya なければなりません／なくてはいけません. Dalam percakapan ada なきゃ／なくちゃ. Tulis 行かなければ, bukan 行かないければ.",
+      "note": "Ketiganya berarti harus pergi, bukan tidak boleh pergi. Dalam percakapan, なければ dapat dipendekkan menjadi なきゃ dan なくては menjadi なくちゃ. Kuasai bentuk lengkap lebih dulu.",
       "examples": [
         {
           "jp": "明日までに、この書類を出さなければなりません。",
@@ -1403,13 +1435,14 @@
       "kana": "てもいい",
       "romaji": "temoii",
       "meaning": "Boleh melakukan; meminta izin",
-      "explanation": "Bentuk て ditambah もいい menyatakan bahwa suatu tindakan diizinkan. Tambahkan ですか untuk meminta izin. Bentuk ～てもいいでしょうか terasa lebih hati-hati ketika meminta izin kepada atasan atau orang yang belum akrab.",
+      "explanation": "～てもいい menyatakan bahwa tindakan diperbolehkan. Tambahkan ですか untuk meminta izin: 撮ってもいいですか berarti bolehkah saya mengambil foto? Pakai bentuk て kata kerjanya, termasuk bentuk で seperti 飲んで.",
       "patterns": [
-        "Vて + もいいです",
-        "Vて + もいいですか",
-        "Vて + もいいでしょうか"
+        "Vて／Vで + もいいです",
+        "撮る → 撮ってもいいですか",
+        "飲む → 飲んでもいいですか",
+        "Lebih hati-hati: Vて + もいいでしょうか"
       ],
-      "note": "Untuk menjawab izin dari orang yang lebih tinggi kedudukannya, jawaban seperti はい、どうぞ sering lebih luwes daripada terdengar sedang memberi penilaian kepada orang itu.",
+      "note": "～てください meminta lawan bicara melakukan sesuatu; ～てもいいですか meminta izin untuk bertindak. Untuk mengizinkan dengan sederhana, はい、どうぞ berarti ya, silakan.",
       "examples": [
         {
           "jp": "ここで写真を撮ってもいいですか。",
@@ -1446,12 +1479,14 @@
       "kana": "てはいけない",
       "romaji": "tehaikenai",
       "meaning": "Tidak boleh melakukan sesuatu",
-      "explanation": "Gunakan ～てはいけない untuk menyatakan larangan atau aturan. Bentuk てはだめです memiliki maksud serupa. Ini lebih tegas daripada permintaan halus ～ないでください yang sudah dipelajari di N5.",
+      "explanation": "～てはいけない berarti tidak boleh melakukan sesuatu, biasanya karena aturan atau larangan. Ubah kata kerja ke bentuk て lalu tambahkan はいけません. 飲んではいけません berarti tidak boleh diminum; bentuk で tetap dipertahankan.",
       "patterns": [
-        "Vて + はいけません",
-        "Vて + はだめです"
+        "Vて／Vで + はいけません",
+        "Pilihan lain: Vて／Vで + はだめです",
+        "入る → 入ってはいけません",
+        "飲む → 飲んではいけません"
       ],
-      "note": "Dalam percakapan, ては dapat menjadi ちゃ dan では menjadi じゃ: 入っちゃだめ. Larangan ini berbeda dari ～なくてもいい yang justru berarti tidak wajib.",
+      "note": "Dalam percakapan, ては bisa menjadi ちゃ dan では menjadi じゃ: 入っちゃだめ／飲んじゃだめ. ～なくてもいい berarti tidak perlu, sedangkan pola ini berarti tidak boleh.",
       "examples": [
         {
           "jp": "ここに車を止めてはいけません。",
@@ -1488,11 +1523,14 @@
       "kana": "なくてもいい",
       "romaji": "nakutemoii",
       "meaning": "Tidak perlu; boleh tidak melakukan",
-      "explanation": "Pola ini membebaskan seseorang dari kewajiban. Ubah ない menjadi なくて, lalu tambah もいい. Tindakannya boleh dilakukan, tetapi tidak harus.",
+      "explanation": "～なくてもいい berarti tidak perlu atau tidak harus melakukan sesuatu. Tindakannya boleh dilakukan, tetapi tidak diwajibkan. Mulai dari bentuk ない, ubah ない menjadi なくて, lalu tambahkan もいいです.",
       "patterns": [
-        "Vない: buang ない + なくてもいいです"
+        "Vない: ganti ない → なくてもいいです",
+        "来ない（こない）→ 来なくてもいいです",
+        "書かない → 書かなくてもいいです",
+        "Pertanyaan: Vなくてもいいですか"
       ],
-      "note": "来なくてもいい berarti tidak perlu datang, bukan dilarang datang. Untuk larangan gunakan 来てはいけません.",
+      "note": "来なくてもいい berarti tidak perlu datang; 来てはいけない berarti tidak boleh datang. Jangan tertukar: yang pertama memberi pilihan, yang kedua melarang.",
       "examples": [
         {
           "jp": "明日は早く来なくてもいいです。",
@@ -1543,11 +1581,13 @@
       "kana": "ないで",
       "romaji": "naide",
       "meaning": "Melakukan B tanpa melakukan A",
-      "explanation": "Bentuk ない ditambah で menghubungkan tindakan yang tidak dilakukan dengan tindakan berikutnya. Kedua tindakan biasanya mempunyai pelaku yang sama. Pola ini menjelaskan cara atau keadaan saat melakukan B.",
+      "explanation": "Gunakan AないでB untuk mengatakan melakukan B tanpa melakukan A. 朝ご飯を食べないで学校へ行きました berarti pergi ke sekolah tanpa sarapan. Kata kerja A memakai bentuk ない lalu ditambah で; pelaku A dan B biasanya sama.",
       "patterns": [
-        "Vない + で + B"
+        "Vない + で + tindakan berikutnya",
+        "食べない → 食べないで、出かける",
+        "見る → 見ないで、答える"
       ],
-      "note": "Jangan samakan dengan ～なくて yang dapat menjelaskan sebab atau menghubungkan keadaan. ～ないでください sebagai permintaan larangan sudah ada di N5.",
+      "note": "～ないでください meminta jangan melakukan sesuatu. Pada pola ini, ～ないで diikuti tindakan lain. ～なくて punya fungsi berbeda, misalnya sebab: お金がなくて買えません, tidak bisa membeli karena tidak punya uang.",
       "examples": [
         {
           "jp": "朝ご飯を食べないで、学校へ行きました。",
@@ -1589,13 +1629,13 @@
       "kana": "ひつよう",
       "romaji": "hitsuyou",
       "meaning": "Perlu; ada kebutuhan melakukan",
-      "explanation": "Nが必要 menyatakan benda atau hal yang diperlukan. V必要がある menyatakan perlunya suatu tindakan. Bentuk negatifnya berarti tindakan tidak perlu dilakukan.",
+      "explanation": "必要（ひつよう）berarti perlu. Untuk hal yang dibutuhkan, gunakan Nが必要です. Untuk tindakan yang perlu dilakukan, gunakan kata kerja bentuk kamus＋必要があります. 確認する必要があります berarti perlu memeriksa, bukan sudah memeriksa.",
       "patterns": [
-        "N + が必要です",
-        "V kamus + 必要があります",
-        "V kamus + 必要はありません"
+        "N + が必要です; 写真が必要です",
+        "V kamus + 必要があります; 確認する必要があります",
+        "Tidak perlu: V kamus + 必要はありません"
       ],
-      "note": "必要 menjelaskan kebutuhan. ～なければならない lebih langsung menyatakan kewajiban. Kata benda dapat menerangkan benda lain sebagai 必要なN.",
+      "note": "Gunakan bentuk kamus sebelum 必要: 行く必要があります, bukan 行きます必要があります. 必要な物 berarti barang yang diperlukan; 必要 dipakai sebagai sifat-na saat menerangkan kata benda.",
       "examples": [
         {
           "jp": "申込みには写真が必要です。",

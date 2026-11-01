@@ -1,0 +1,346 @@
+{
+  "date": "2026-11-01",
+  "batch": 14,
+  "total": 115,
+  "reviewed_count": 23,
+  "remaining_count": 92,
+  "reviewed_ids": [
+    "n4-passive",
+    "n4-causative",
+    "n4-causative-passive",
+    "n4-sasete-kudasai",
+    "n4-imperative",
+    "n4-nasai",
+    "n4-prohibitive-na",
+    "n4-transitivity",
+    "n4-te-aru",
+    "n4-mieru-kikoeru",
+    "n4-ga-suru",
+    "n4-ni-ki-ga-tsuku",
+    "n4-ba",
+    "n4-tara",
+    "n4-conditional-to",
+    "n4-nara",
+    "n4-baai",
+    "n4-obligation",
+    "n4-temo-ii",
+    "n4-tewa-ikenai",
+    "n4-nakutemo-ii",
+    "n4-naide",
+    "n4-necessary"
+  ],
+  "remaining_ids": [
+    "n4-volitional",
+    "n4-volitional-plan",
+    "n4-tsumori",
+    "n4-yotei",
+    "n4-koto-ni-suru",
+    "n4-koto-ni-naru",
+    "n4-tameni",
+    "n4-youni-purpose",
+    "n4-youni-suru",
+    "n4-youni-naru",
+    "n4-aida",
+    "n4-made-ni",
+    "n4-tokoro",
+    "n4-ta-bakari",
+    "n4-mama",
+    "n4-ta-koto-aru",
+    "n4-koto-ga-aru",
+    "n4-te-oku",
+    "n4-te-shimau",
+    "n4-te-miru",
+    "n4-te-iku-kuru",
+    "n4-toori",
+    "n4-nagara",
+    "n4-te-ageru",
+    "n4-te-kureru",
+    "n4-te-morau",
+    "n4-te-hoshii",
+    "n4-houga-ii",
+    "n4-tara-dou",
+    "n4-tara-ii-question",
+    "n4-te-sumimasen",
+    "n4-te-yokatta",
+    "n4-bakari",
+    "n4-shika",
+    "n4-hodo-negative",
+    "n4-zutsu",
+    "n4-oki-ni",
+    "n4-mo-quantity",
+    "n4-dake-de",
+    "n4-material-kara",
+    "n4-demo-example",
+    "n4-demo-even",
+    "n4-question-temo",
+    "n4-ndesu",
+    "n4-node",
+    "n4-noni-contrast",
+    "n4-temo",
+    "n4-shi",
+    "n4-te-cause",
+    "n4-noni-purpose",
+    "n4-soredemo",
+    "n4-soreni",
+    "n4-embedded-ka",
+    "n4-ka-douka",
+    "n4-to-omou",
+    "n4-toiu-label",
+    "n4-toiu-koto",
+    "n4-toittemo-ii",
+    "n4-toka",
+    "n4-matawa",
+    "n4-tokorode",
+    "n4-tatoeba",
+    "n4-sou-appearance",
+    "n4-sou-hearsay",
+    "n4-you-mitai",
+    "n4-rashii",
+    "n4-hazu",
+    "n4-kamo",
+    "n4-darou",
+    "n4-ni-mieru",
+    "n4-yasui",
+    "n4-nikui-zurai",
+    "n4-sugiru",
+    "n4-kata",
+    "n4-adjective-sa",
+    "n4-garu",
+    "n4-verb-stages",
+    "n4-respect",
+    "n4-humble",
+    "n4-gozaimasu",
+    "n4-polite-request",
+    "n4-kana-kashira",
+    "n4-kai",
+    "n4-naa",
+    "n4-nakanaka",
+    "n4-yatto",
+    "n4-kitto",
+    "n4-zehi",
+    "n4-sasuga",
+    "n4-sonnani",
+    "n4-kyuuni",
+    "n4-janai-ka"
+  ],
+  "audience": "Baru selesai N5; penjelasan ringkas untuk awal N4/A2, bukan penyetaraan resmi",
+  "method": "Tinjau fungsi, pembentukan, partikel, kesopanan, kedua contoh beserta bacaan/arti, tabel, kesalahan dan cek yang tersedia. Tulis ulang penjelasan/pola/catatan untuk pemula; contoh yang sudah sesuai dipertahankan. Rujukan eksternal memverifikasi titik tata bahasa tertentu sesuai scope masing-masing, bukan sertifikasi seluruh 23 materi.",
+  "external_references": [
+    {
+      "id": "jpf-passive",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00061/ja/render.do",
+      "scope": "Pembentukan pasif"
+    },
+    {
+      "id": "jpf-causative-passive",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00076/ja/render.do",
+      "scope": "Kausatif menjadi pasif; singkatan golongan I kecuali akhiran す"
+    },
+    {
+      "id": "tufs-condition",
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/courses/c02/lesson42/step1/explanation/083.html",
+      "scope": "Perbedaan fungsi, pembentukan, dan urutan と／ば／たら／なら"
+    },
+    {
+      "id": "tufs-tearu",
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/046.html",
+      "scope": "Transitivitas; hasil tindakan sengaja; persiapan dengan を"
+    }
+  ],
+  "changes": {
+    "n4-passive": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-causative": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-causative-passive": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-sasete-kudasai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-imperative": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-nasai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-prohibitive-na": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-transitivity": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-aru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "table",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-mieru-kikoeru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-ga-suru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-ni-ki-ga-tsuku": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-ba": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tara": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-conditional-to": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-nara": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-baai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-obligation": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-temo-ii": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tewa-ikenai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-nakutemo-ii": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-naide": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-necessary": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    }
+  },
+  "preserved": [
+    "115 ID, concept, level, category, order, sumber asal",
+    "233 contoh total; 16 cek",
+    "92 materi urutan 24–115 identik",
+    "Bunpo N5 identik; Kotoba/Kanji identik dengan paket 13"
+  ],
+  "baseline_sha256": "d0b09f5c98c8acb2e768c1fb7ea8bcf123d53e13f7624561c9305ca9a8f87c4b"
+}
