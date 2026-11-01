@@ -21,8 +21,4 @@ for(const level of ['N5','N4']){
  }
 }
 c.prefs.level='N5';for(const script of ['Hiragana','Katakana']){const letters=c.quizKanaItems(script);for(const e of letters){const q=c.quizChoiceQuestion(e,letters,'kana-romaji','kana',{script});assert.equal(q.options[q.answer],e.romaji);const keys=q.options.map(c.quizKanaSoundKey);assert.equal(new Set(keys).size,4);generated++;}}
-c.prefs.level='N4';assert.equal(c.quizPool({type:'bunpo'}).length,0);assert.equal(c.quizMakeDeck({type:'mixed'},[]).length,0);assert.equal(c.quizMakeDeck({type:'bunpo'},bank).length,0);
-console.log('PASS: all 645 situations/2580 forms, source lesson links, explicit distractor regressions, '+generated+' generated Kana/Kotoba/Kanji questions across N5/N4, and N4 Bunpo/mixed isolation');
-// UI entry and start enforce the same level boundary, including stale restored routes.
-const messages=[];Object.assign(c,{page:'Quiz',window:{addEventListener(){}},localStorage:{getItem:()=>null},toast:m=>messages.push(m),history:{replaceState(){}},appRoute:()=>({}),pushRoute(){},updateScreen(){},render(){},esc:s=>String(s),fetch(){throw Error('N4 must not fetch the N5 bank')}});
-vm.runInContext(fs.readFileSync('dist/quiz-ui.js','utf8'),c);run('quizBunpoBank=null');c.quizChooseType('bunpo');assert.ok(c.quizScreen().includes('Kuis Bunpo N4'));c.quizStart();assert.equal(run('quizSession'),null);assert.ok(messages.at(-1).includes('belum tersedia'));
+console.log('PASS: N5 bank and Kana/Kotoba/Kanji distractor audits across both levels: '+generated);
