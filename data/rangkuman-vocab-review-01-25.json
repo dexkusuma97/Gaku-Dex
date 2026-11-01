@@ -1,0 +1,6712 @@
+{
+  "batch": 21,
+  "date": "2026-11-01",
+  "chaptersReviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "rowsReviewed": 1357,
+  "rowsCorrected": 536,
+  "primaryMeanings": 1357,
+  "romajiRows": 1357,
+  "method": "Tinjauan internal seluruh baris Bab 1–25; koreksi editorial eksplisit, arti utama satu per baris, makna lain dan catatan tetap dapat dibuka; tidak menghapus pengulangan lintas bab.",
+  "changes": [
+    {
+      "id": "mn-v-01-002",
+      "chapter": 1,
+      "number": 2,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "Untuk menyapa, nama + さん sering lebih alami daripada mengulang あなた. Hindari menganggapnya sapaan sopan untuk semua orang."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-005",
+      "chapter": 1,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "Saudara.......",
+          "after": "Sapaan sopan setelah nama"
+        },
+        "note": {
+          "before": "",
+          "after": "Dipakai untuk orang lain; jangan tambahkan pada nama sendiri saat memperkenalkan diri."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-006",
+      "chapter": 1,
+      "number": 6,
+      "fields": {
+        "meaning": {
+          "before": "Panggilan untuk anak laki/perempuan",
+          "after": "Sapaan akrab setelah nama"
+        },
+        "note": {
+          "before": "",
+          "after": "Sering untuk anak atau orang yang dekat. Tidak cocok untuk semua orang atau situasi resmi."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-007",
+      "chapter": 1,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Orang.......",
+          "after": "Orang berkebangsaan …"
+        },
+        "note": {
+          "before": "",
+          "after": "Tambahkan setelah negara: にほんじん, orang Jepang."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-008",
+      "chapter": 1,
+      "number": 8,
+      "fields": {
+        "meaning": {
+          "before": "Guru, dosen",
+          "after": "Guru; dosen"
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-009",
+      "chapter": 1,
+      "number": 9,
+      "fields": {
+        "meaning": {
+          "before": "Guru, dosen (dipakai untuk kalangan sendiri)",
+          "after": "Guru"
+        },
+        "note": {
+          "before": "",
+          "after": "Untuk menyebut profesi sendiri atau pihak sendiri. 先生 lazim sebagai sapaan atau penyebutan guru orang lain."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-010",
+      "chapter": 1,
+      "number": 10,
+      "fields": {
+        "meaning": {
+          "before": "Siswa, murid",
+          "after": "Pelajar"
+        },
+        "note": {
+          "before": "",
+          "after": "Dapat mencakup siswa atau mahasiswa sesuai konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-012",
+      "chapter": 1,
+      "number": 12,
+      "fields": {
+        "meaning": {
+          "before": "Pegawai perusahaan",
+          "after": "Karyawan perusahaan tertentu"
+        },
+        "note": {
+          "before": "",
+          "after": "Sering dipakai dengan nama perusahaan: …のしゃいん. 会社員 menyebut jenis pekerjaan secara umum."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-020",
+      "chapter": 1,
+      "number": 20,
+      "fields": {
+        "meaning": {
+          "before": "Umur.....",
+          "after": "Berusia … tahun"
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-021",
+      "chapter": 1,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Umur berapa?(biasa)",
+          "after": "Berapa umurmu?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-022",
+      "chapter": 1,
+      "number": 22,
+      "fields": {
+        "meaning": {
+          "before": "Umur berapa?(sopan)",
+          "after": "Berapa usia Anda?"
+        },
+        "note": {
+          "before": "",
+          "after": "Pertanyaan usia yang lebih sopan; konteks tetap perlu diperhatikan."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-026",
+      "chapter": 1,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Datang dari.....",
+          "after": "Berasal dari …"
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-027",
+      "chapter": 1,
+      "number": 27,
+      "fields": {
+        "meaning": {
+          "before": "Senang berkenalan dengan Anda; mohon kerja samanya.",
+          "after": "Senang berkenalan dengan Anda"
+        },
+        "note": {
+          "before": "",
+          "after": "Ungkapan saat berkenalan; dalam konteks lain dapat menyampaikan harapan agar hubungan/kerja sama berjalan baik."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-028",
+      "chapter": 1,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Permisi",
+          "after": "Maaf, boleh saya bertanya?"
+        },
+        "note": {
+          "before": "",
+          "after": "Pembuka sopan sebelum bertanya, misalnya nama."
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-029",
+      "chapter": 1,
+      "number": 29,
+      "fields": {
+        "meaning": {
+          "before": "Nama anda siapa?",
+          "after": "Siapa nama Anda?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-030",
+      "chapter": 1,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Amerika",
+          "after": "Amerika Serikat"
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-034",
+      "chapter": 1,
+      "number": 34,
+      "fields": {
+        "meaning": {
+          "before": "Korea",
+          "after": "Korea Selatan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-035",
+      "chapter": 1,
+      "number": 35,
+      "fields": {
+        "meaning": {
+          "before": "China",
+          "after": "Tiongkok"
+        }
+      }
+    },
+    {
+      "id": "mn-v-01-038",
+      "chapter": 1,
+      "number": 38,
+      "fields": {
+        "meaning": {
+          "before": "Perancis",
+          "after": "Prancis"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-002",
+      "chapter": 2,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Itu (dekat)",
+          "after": "Itu (dekat lawan bicara)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-003",
+      "chapter": 2,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Itu (jauh)",
+          "after": "Itu (jauh dari kedua pembicara)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-004",
+      "chapter": 2,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "~ini",
+          "after": "… ini"
+        },
+        "note": {
+          "before": "",
+          "after": "Harus diikuti kata benda: このほん, buku ini."
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-005",
+      "chapter": 2,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "~itu (dekat)",
+          "after": "… itu (dekat lawan bicara)"
+        },
+        "note": {
+          "before": "",
+          "after": "Harus diikuti kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-006",
+      "chapter": 2,
+      "number": 6,
+      "fields": {
+        "meaning": {
+          "before": "~itu (jauh)",
+          "after": "… itu (jauh)"
+        },
+        "note": {
+          "before": "",
+          "after": "Harus diikuti kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-019",
+      "chapter": 2,
+      "number": 19,
+      "fields": {
+        "meaning": {
+          "before": "Jam, arloji",
+          "after": "Jam; arloji"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-029",
+      "chapter": 2,
+      "number": 29,
+      "fields": {
+        "meaning": {
+          "before": "Coklat",
+          "after": "Cokelat"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-032",
+      "chapter": 2,
+      "number": 32,
+      "fields": {
+        "meaning": {
+          "before": "Bahasa inggris",
+          "after": "Bahasa Inggris"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-033",
+      "chapter": 2,
+      "number": 33,
+      "fields": {
+        "meaning": {
+          "before": "Bahasa jepang",
+          "after": "Bahasa Jepang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-037",
+      "chapter": 2,
+      "number": 37,
+      "fields": {
+        "meaning": {
+          "before": "Eee...(ungkapan ketika ragu)",
+          "after": "Ehm…"
+        },
+        "note": {
+          "before": "",
+          "after": "Pengisi jeda ketika ragu atau hendak memulai ucapan."
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-038",
+      "chapter": 2,
+      "number": 38,
+      "fields": {
+        "meaning": {
+          "before": "Eh (diucapkan ketika mendengar sesuatu diluar dugaan)",
+          "after": "Eh?"
+        },
+        "note": {
+          "before": "",
+          "after": "Tanggapan ketika terkejut atau tidak menyangka."
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-040",
+      "chapter": 2,
+      "number": 40,
+      "fields": {
+        "meaning": {
+          "before": "Terima kasih",
+          "after": "Terima kasih banyak"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-041",
+      "chapter": 2,
+      "number": 41,
+      "fields": {
+        "meaning": {
+          "before": "O, begitu, benarkah?",
+          "after": "Oh, begitu"
+        },
+        "note": {
+          "before": "",
+          "after": "Dapat menerima informasi baru; nada naik bisa meminta konfirmasi."
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-042",
+      "chapter": 2,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Bukan, Tidak, Salah",
+          "after": "Bukan begitu"
+        },
+        "note": {
+          "before": "",
+          "after": "Juga dapat berarti berbeda atau tidak benar menurut konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-043",
+      "chapter": 2,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "O, eh (dipakai ketika sadar)",
+          "after": "Oh!"
+        },
+        "note": {
+          "before": "",
+          "after": "Ucapan ketika baru menyadari sesuatu."
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-044",
+      "chapter": 2,
+      "number": 44,
+      "fields": {
+        "meaning": {
+          "before": "Mulai sekarang saya akan meminta bantuannya",
+          "after": "Mulai sekarang mohon bantuannya"
+        }
+      }
+    },
+    {
+      "id": "mn-v-02-045",
+      "chapter": 2,
+      "number": 45,
+      "fields": {
+        "jp": {
+          "before": "こちらこそよろしくおねがいします",
+          "after": "こちらこそよろしくお願いします"
+        },
+        "meaning": {
+          "before": "Ya sama-sama",
+          "after": "Saya juga senang berkenalan dengan Anda"
+        },
+        "note": {
+          "before": "",
+          "after": "Tanggapan terhadap よろしくおねがいします; こちらこそ menekankan saya juga."
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-001",
+      "chapter": 3,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Disini",
+          "after": "Di sini"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-002",
+      "chapter": 3,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Disitu",
+          "after": "Di situ"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-003",
+      "chapter": 3,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Disana",
+          "after": "Di sana"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-005",
+      "chapter": 3,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "Disini",
+          "after": "Sebelah sini (sopan)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-006",
+      "chapter": 3,
+      "number": 6,
+      "fields": {
+        "meaning": {
+          "before": "Disitu",
+          "after": "Sebelah situ (sopan)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-007",
+      "chapter": 3,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Disana",
+          "after": "Sebelah sana (sopan)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-008",
+      "chapter": 3,
+      "number": 8,
+      "fields": {
+        "meaning": {
+          "before": "Di mana?",
+          "after": "Di sebelah mana? (sopan)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-010",
+      "chapter": 3,
+      "number": 10,
+      "fields": {
+        "meaning": {
+          "before": "Ruang makan, Kantin",
+          "after": "Kantin"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-013",
+      "chapter": 3,
+      "number": 13,
+      "fields": {
+        "meaning": {
+          "before": "Meja informasi",
+          "after": "Resepsionis"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-014",
+      "chapter": 3,
+      "number": 14,
+      "fields": {
+        "meaning": {
+          "before": "Ruang tunggu, lobi",
+          "after": "Lobi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-016",
+      "chapter": 3,
+      "number": 16,
+      "fields": {
+        "meaning": {
+          "before": "Kamar kecil, WC",
+          "after": "Toilet"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-020",
+      "chapter": 3,
+      "number": 20,
+      "fields": {
+        "meaning": {
+          "before": "Eskalator, tangga berjalan",
+          "after": "Eskalator"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-021",
+      "chapter": 3,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Mesin jual otomatis",
+          "after": "Mesin penjual otomatis"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-023",
+      "chapter": 3,
+      "number": 23,
+      "fields": {
+        "meaning": {
+          "before": "Negara",
+          "after": "Negara asal Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-028",
+      "chapter": 3,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Anggur putih",
+          "after": "Wine"
+        },
+        "note": {
+          "before": "",
+          "after": "Minuman anggur; tidak khusus anggur putih. Anggur putih disebut しろワイン."
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-030",
+      "chapter": 3,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Bawah tanah, basement",
+          "after": "Lantai bawah tanah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-031",
+      "chapter": 3,
+      "number": 31,
+      "fields": {
+        "meaning": {
+          "before": "lantai~/ tingkat~",
+          "after": "Lantai …"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-034",
+      "chapter": 3,
+      "number": 34,
+      "fields": {
+        "meaning": {
+          "before": "Berapa?",
+          "after": "Berapa harganya?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-037",
+      "chapter": 3,
+      "number": 37,
+      "fields": {
+        "meaning": {
+          "before": "Puluh ribu",
+          "after": "Sepuluh ribu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-043",
+      "chapter": 3,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Tolong ~",
+          "after": "Tolong beri …"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-045",
+      "chapter": 3,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Swis",
+          "after": "Swiss"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-046",
+      "chapter": 3,
+      "number": 46,
+      "fields": {
+        "meaning": {
+          "before": "Perancis",
+          "after": "Prancis"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-050",
+      "chapter": 3,
+      "number": 50,
+      "fields": {
+        "meaning": {
+          "before": "Lantai atas",
+          "after": "Atap gedung"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-052",
+      "chapter": 3,
+      "number": 52,
+      "fields": {
+        "meaning": {
+          "before": "Tempat hiburan",
+          "after": "Taman hiburan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-053",
+      "chapter": 3,
+      "number": 53,
+      "fields": {
+        "meaning": {
+          "before": "Tempat pertunjukan",
+          "after": "Area acara"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-060",
+      "chapter": 3,
+      "number": 60,
+      "fields": {
+        "meaning": {
+          "before": "Perlengkapan rumah",
+          "after": "Perabot"
+        }
+      }
+    },
+    {
+      "id": "mn-v-03-065",
+      "chapter": 3,
+      "number": 65,
+      "fields": {
+        "meaning": {
+          "before": "Perhiasan, aksesoris",
+          "after": "Aksesori"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-004",
+      "chapter": 4,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Beristirahat, libur",
+          "after": "Beristirahat; libur"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-007",
+      "chapter": 4,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Departemen store",
+          "after": "Toserba"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-011",
+      "chapter": 4,
+      "number": 11,
+      "fields": {
+        "meaning": {
+          "before": "Gedung kesenian",
+          "after": "Museum seni"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-013",
+      "chapter": 4,
+      "number": 13,
+      "fields": {
+        "meaning": {
+          "before": "Jam, pukul",
+          "after": "Pukul …"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-014",
+      "chapter": 4,
+      "number": 14,
+      "fields": {
+        "meaning": {
+          "before": "～ menit; bacaan berubah menjadi ふん atau ぷん sesuai angka.",
+          "after": "… menit"
+        },
+        "note": {
+          "before": "",
+          "after": "Bacaan satuan menit berubah menurut angka: いっぷん, ごふん, dan seterusnya."
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-018",
+      "chapter": 4,
+      "number": 18,
+      "fields": {
+        "meaning": {
+          "before": "AM (waktu sebelum jam 12 siang)",
+          "after": "Sebelum tengah hari (AM)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-019",
+      "chapter": 4,
+      "number": 19,
+      "fields": {
+        "meaning": {
+          "before": "PM (waktu setelah jam 12 siang)",
+          "after": "Setelah tengah hari (PM)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-024",
+      "chapter": 4,
+      "number": 24,
+      "fields": {
+        "meaning": {
+          "before": "2 hari yang lalu, kemarin lusa",
+          "after": "Dua hari lalu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-028",
+      "chapter": 4,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Besok lusa",
+          "after": "Lusa"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-031",
+      "chapter": 4,
+      "number": 31,
+      "fields": {
+        "meaning": {
+          "before": "Istirahat, cuti, libur",
+          "after": "Istirahat; cuti; libur"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-039",
+      "chapter": 4,
+      "number": 39,
+      "fields": {
+        "meaning": {
+          "before": "Hari senin",
+          "after": "Hari Senin"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-040",
+      "chapter": 4,
+      "number": 40,
+      "fields": {
+        "meaning": {
+          "before": "Hari selasa",
+          "after": "Hari Selasa"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-041",
+      "chapter": 4,
+      "number": 41,
+      "fields": {
+        "meaning": {
+          "before": "Hari rabo",
+          "after": "Hari Rabu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-042",
+      "chapter": 4,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Hari kamis",
+          "after": "Hari Kamis"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-043",
+      "chapter": 4,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Hari jumat",
+          "after": "Hari Jumat"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-044",
+      "chapter": 4,
+      "number": 44,
+      "fields": {
+        "meaning": {
+          "before": "Hari sabtu",
+          "after": "Hari Sabtu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-045",
+      "chapter": 4,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Hari minggu",
+          "after": "Hari Minggu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-050",
+      "chapter": 4,
+      "number": 50,
+      "fields": {
+        "meaning": {
+          "before": "Berat ya,",
+          "after": "Berat juga; ya"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-053",
+      "chapter": 4,
+      "number": 53,
+      "fields": {
+        "meaning": {
+          "before": "New york",
+          "after": "New York"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-055",
+      "chapter": 4,
+      "number": 55,
+      "fields": {
+        "meaning": {
+          "before": "Los angels",
+          "after": "Los Angeles"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-058",
+      "chapter": 4,
+      "number": 58,
+      "fields": {
+        "meaning": {
+          "before": "Pemadam kebakaran",
+          "after": "Kantor pemadam kebakaran"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-059",
+      "chapter": 4,
+      "number": 59,
+      "fields": {
+        "meaning": {
+          "before": "Pemberitahuan waktu",
+          "after": "Pengumuman waktu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-04-061",
+      "chapter": 4,
+      "number": 61,
+      "fields": {
+        "meaning": {
+          "before": "Petunjuk nomor telepon",
+          "after": "Layanan informasi nomor telepon"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-004",
+      "chapter": 5,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Sekolahan",
+          "after": "Sekolah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-011",
+      "chapter": 5,
+      "number": 11,
+      "fields": {
+        "meaning": {
+          "before": "Shinkansen",
+          "after": "Kereta Shinkansen"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-015",
+      "chapter": 5,
+      "number": 15,
+      "fields": {
+        "meaning": {
+          "before": "Jalan kaki",
+          "after": "Berjalan kaki"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-035",
+      "chapter": 5,
+      "number": 35,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "ついたち untuk tanggal 1. Durasi satu hari dibaca いちにち."
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-036",
+      "chapter": 5,
+      "number": 36,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 2, 2 hari",
+          "after": "Tanggal 2; 2 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-037",
+      "chapter": 5,
+      "number": 37,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 3, 3 hari",
+          "after": "Tanggal 3; 3 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-038",
+      "chapter": 5,
+      "number": 38,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 4, 4 hari",
+          "after": "Tanggal 4; 4 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-039",
+      "chapter": 5,
+      "number": 39,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 5, 5 hari",
+          "after": "Tanggal 5; 5 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-040",
+      "chapter": 5,
+      "number": 40,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 6, 6 hari",
+          "after": "Tanggal 6; 6 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-041",
+      "chapter": 5,
+      "number": 41,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 7, 7 hari",
+          "after": "Tanggal 7; 7 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-042",
+      "chapter": 5,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 8, 8 hari",
+          "after": "Tanggal 8; 8 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-043",
+      "chapter": 5,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 9, 9 hari",
+          "after": "Tanggal 9; 9 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-044",
+      "chapter": 5,
+      "number": 44,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 10, 10 hari",
+          "after": "Tanggal 10; 10 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-045",
+      "chapter": 5,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 14, 14 hari",
+          "after": "Tanggal 14; 14 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-046",
+      "chapter": 5,
+      "number": 46,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 20, 20 hari",
+          "after": "Tanggal 20; 20 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-047",
+      "chapter": 5,
+      "number": 47,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal 24, 24 hari",
+          "after": "Tanggal 24; 24 hari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-048",
+      "chapter": 5,
+      "number": 48,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal, hari",
+          "after": "Tanggal …"
+        },
+        "note": {
+          "before": "",
+          "after": "Satuan hari atau tanggal; bacaan beberapa angka berubah."
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-049",
+      "chapter": 5,
+      "number": 49,
+      "fields": {
+        "meaning": {
+          "before": "Tanggal berapa, berapa hari",
+          "after": "Tanggal berapa?"
+        },
+        "note": {
+          "before": "",
+          "after": "Juga dapat menanyakan berapa hari, sesuai konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-052",
+      "chapter": 5,
+      "number": 52,
+      "fields": {
+        "meaning": {
+          "before": "Ya begitulah",
+          "after": "Ya, benar juga"
+        },
+        "note": {
+          "before": "",
+          "after": "Dapat berarti setuju atau sedang mempertimbangkan jawaban."
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-054",
+      "chapter": 5,
+      "number": 54,
+      "fields": {
+        "meaning": {
+          "before": "Peron nomor, jalur nomor",
+          "after": "Jalur nomor …"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-056",
+      "chapter": 5,
+      "number": 56,
+      "fields": {
+        "meaning": {
+          "before": "Biasa",
+          "after": "Kereta lokal"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam daftar jenis kereta: kereta lokal yang umumnya berhenti di setiap stasiun."
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-057",
+      "chapter": 5,
+      "number": 57,
+      "fields": {
+        "meaning": {
+          "before": "Ekspres",
+          "after": "Kereta ekspres"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-058",
+      "chapter": 5,
+      "number": 58,
+      "fields": {
+        "meaning": {
+          "before": "Super ekspres",
+          "after": "Kereta ekspres terbatas"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-060",
+      "chapter": 5,
+      "number": 60,
+      "fields": {
+        "meaning": {
+          "before": "Tahun baru",
+          "after": "Hari Tahun Baru"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-061",
+      "chapter": 5,
+      "number": 61,
+      "fields": {
+        "meaning": {
+          "before": "Hari perayaan menjadi dewasa",
+          "after": "Hari Kedewasaan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-062",
+      "chapter": 5,
+      "number": 62,
+      "fields": {
+        "meaning": {
+          "before": "Hari pembangunan nasional",
+          "after": "Hari Peringatan Pendirian Negara"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-063",
+      "chapter": 5,
+      "number": 63,
+      "fields": {
+        "meaning": {
+          "before": "Hari equinox pada musim semi",
+          "after": "Hari Ekuinoks Musim Semi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-064",
+      "chapter": 5,
+      "number": 64,
+      "fields": {
+        "meaning": {
+          "before": "Hari showa",
+          "after": "Hari Showa"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-066",
+      "chapter": 5,
+      "number": 66,
+      "fields": {
+        "jp": {
+          "before": "みどりのひ",
+          "after": "みどりの日"
+        },
+        "meaning": {
+          "before": "Hari penghijauan",
+          "after": "Hari Penghijauan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-067",
+      "chapter": 5,
+      "number": 67,
+      "fields": {
+        "jp": {
+          "before": "こどものひ",
+          "after": "こどもの日"
+        },
+        "meaning": {
+          "before": "Hari anak",
+          "after": "Hari Anak"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-068",
+      "chapter": 5,
+      "number": 68,
+      "fields": {
+        "meaning": {
+          "before": "Hari bahari",
+          "after": "Hari Laut"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-069",
+      "chapter": 5,
+      "number": 69,
+      "fields": {
+        "meaning": {
+          "before": "Hari gunung",
+          "after": "Hari Gunung"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-070",
+      "chapter": 5,
+      "number": 70,
+      "fields": {
+        "meaning": {
+          "before": "Hari hormat kepada orang tua",
+          "after": "Hari Penghormatan kepada Lansia"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-071",
+      "chapter": 5,
+      "number": 71,
+      "fields": {
+        "meaning": {
+          "before": "Hari equinox pada musim gugur",
+          "after": "Hari Ekuinoks Musim Gugur"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-072",
+      "chapter": 5,
+      "number": 72,
+      "fields": {
+        "meaning": {
+          "before": "Hari kesehatan olahraga",
+          "after": "Hari Olahraga (nama lama)"
+        },
+        "note": {
+          "before": "",
+          "after": "体育の日 adalah nama lama. Sejak 2020 namanya スポーツの日（スポーツのひ）. Istilah lama dipertahankan agar sesuai sumber bab."
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-073",
+      "chapter": 5,
+      "number": 73,
+      "fields": {
+        "meaning": {
+          "before": "Hari kebudayaan",
+          "after": "Hari Kebudayaan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-074",
+      "chapter": 5,
+      "number": 74,
+      "fields": {
+        "meaning": {
+          "before": "Hari bersyukur untuk pekerjaan",
+          "after": "Hari Syukur Kerja"
+        }
+      }
+    },
+    {
+      "id": "mn-v-05-075",
+      "chapter": 5,
+      "number": 75,
+      "fields": {
+        "meaning": {
+          "before": "Hari ulang tahun kaisar",
+          "after": "Hari Ulang Tahun Kaisar"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-003",
+      "chapter": 6,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Menghisap / merokok",
+          "after": "Merokok"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-004",
+      "chapter": 6,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Melihat / menonton",
+          "after": "Melihat; menonton"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-007",
+      "chapter": 6,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Menulis / menggambar",
+          "after": "Menulis"
+        },
+        "note": {
+          "before": "",
+          "after": "書きます untuk menulis; menggambar umumnya かきます yang ditulis 描きます."
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-009",
+      "chapter": 6,
+      "number": 9,
+      "fields": {
+        "meaning": {
+          "before": "Mengambi (foto) / memotret",
+          "after": "Memotret"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-010",
+      "chapter": 6,
+      "number": 10,
+      "fields": {
+        "meaning": {
+          "before": "Melakukan / mengerjakan / berbuat",
+          "after": "Melakukan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-012",
+      "chapter": 6,
+      "number": 12,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "Dapat berarti nasi matang atau makan/hidangan, sesuai konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-013",
+      "chapter": 6,
+      "number": 13,
+      "fields": {
+        "meaning": {
+          "before": "Makan pagi / sarapan",
+          "after": "Sarapan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-023",
+      "chapter": 6,
+      "number": 23,
+      "fields": {
+        "meaning": {
+          "before": "Teh jepang / teh hijau",
+          "after": "Teh hijau"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-024",
+      "chapter": 6,
+      "number": 24,
+      "fields": {
+        "meaning": {
+          "before": "Teh",
+          "after": "Teh hitam"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-028",
+      "chapter": 6,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Minuman keras",
+          "after": "Minuman beralkohol"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-033",
+      "chapter": 6,
+      "number": 33,
+      "fields": {
+        "meaning": {
+          "before": "Kaset video",
+          "after": "Video"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-036",
+      "chapter": 6,
+      "number": 36,
+      "fields": {
+        "meaning": {
+          "before": "Pekerjaan rumah / PR",
+          "after": "Pekerjaan rumah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-039",
+      "chapter": 6,
+      "number": 39,
+      "fields": {
+        "meaning": {
+          "before": "Hanami (menikmati bunga sakura)",
+          "after": "Menikmati bunga sakura"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-042",
+      "chapter": 6,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Sebentar / sedikit",
+          "after": "Sebentar; sedikit"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-045",
+      "chapter": 6,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Setelah itu / kemudian",
+          "after": "Setelah itu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-047",
+      "chapter": 6,
+      "number": 47,
+      "fields": {
+        "meaning": {
+          "before": "Bagus ya / baik ya",
+          "after": "Bagus, ya"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-048",
+      "chapter": 6,
+      "number": 48,
+      "fields": {
+        "meaning": {
+          "before": "Mengerti / baik",
+          "after": "Baik, saya mengerti"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-049",
+      "chapter": 6,
+      "number": 49,
+      "fields": {
+        "meaning": {
+          "before": "Ok, sampai jumpa besok",
+          "after": "Sampai jumpa lagi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-057",
+      "chapter": 6,
+      "number": 57,
+      "fields": {
+        "meaning": {
+          "before": "Sawi",
+          "after": "Sawi putih"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-059",
+      "chapter": 6,
+      "number": 59,
+      "fields": {
+        "meaning": {
+          "before": "Letas",
+          "after": "Selada"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-062",
+      "chapter": 6,
+      "number": 62,
+      "fields": {
+        "meaning": {
+          "before": "Bawang",
+          "after": "Bawang bombai"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-065",
+      "chapter": 6,
+      "number": 65,
+      "fields": {
+        "meaning": {
+          "before": "Buah peach",
+          "after": "Persik"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-070",
+      "chapter": 6,
+      "number": 70,
+      "fields": {
+        "meaning": {
+          "before": "Jeruk",
+          "after": "Jeruk mandarin"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-078",
+      "chapter": 6,
+      "number": 78,
+      "fields": {
+        "meaning": {
+          "before": "Ikan mackerel",
+          "after": "Ikan aji (makarel kuda)"
+        },
+        "note": {
+          "before": "",
+          "after": "Aji adalah kelompok horse/jack mackerel, berbeda dari さば. Nama ikan lokal tidak selalu berpadanan persis."
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-080",
+      "chapter": 6,
+      "number": 80,
+      "fields": {
+        "meaning": {
+          "before": "Ikan kembung",
+          "after": "Ikan makarel"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-081",
+      "chapter": 6,
+      "number": 81,
+      "fields": {
+        "meaning": {
+          "before": "Ikan sauri pasifik",
+          "after": "Ikan sauri Pasifik"
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-084",
+      "chapter": 6,
+      "number": 84,
+      "fields": {
+        "meaning": {
+          "before": "Ikan kakap",
+          "after": "Ikan bream laut"
+        },
+        "note": {
+          "before": "",
+          "after": "たい merujuk kelompok sea bream, bukan padanan persis semua ikan kakap Indonesia."
+        }
+      }
+    },
+    {
+      "id": "mn-v-06-085",
+      "chapter": 6,
+      "number": 85,
+      "fields": {
+        "meaning": {
+          "before": "Ikan gabus",
+          "after": "Ikan kod"
+        },
+        "note": {
+          "before": "",
+          "after": "たら adalah cod; bukan ikan gabus."
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-001",
+      "chapter": 7,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Memotong / menggunting",
+          "after": "Memotong"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-004",
+      "chapter": 7,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Menerima / mendapatkan",
+          "after": "Menerima"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-005",
+      "chapter": 7,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "Meminjamkan / menyewakan",
+          "after": "Meminjamkan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-006",
+      "chapter": 7,
+      "number": 6,
+      "fields": {
+        "meaning": {
+          "before": "Meminjam / menyewa",
+          "after": "Meminjam"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-008",
+      "chapter": 7,
+      "number": 8,
+      "fields": {
+        "meaning": {
+          "before": "Belajar (kepada)",
+          "after": "Belajar dari seseorang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-009",
+      "chapter": 7,
+      "number": 9,
+      "fields": {
+        "jp": {
+          "before": "かけます (を)",
+          "after": "かけます"
+        },
+        "meaning": {
+          "before": "Menelpon",
+          "after": "Menelepon"
+        },
+        "note": {
+          "before": "Partikel yang sering dipakai: を.",
+          "after": "でんわをかけます: menelepon. Makna かけます berubah menurut bendanya."
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-016",
+      "chapter": 7,
+      "number": 16,
+      "fields": {
+        "meaning": {
+          "before": "Laptop",
+          "after": "Komputer pribadi"
+        },
+        "note": {
+          "before": "",
+          "after": "Mencakup komputer desktop atau laptop; khusus laptop disebut ノートパソコン."
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-017",
+      "chapter": 7,
+      "number": 17,
+      "fields": {
+        "meaning": {
+          "before": "HP",
+          "after": "Telepon seluler"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-027",
+      "chapter": 7,
+      "number": 27,
+      "fields": {
+        "meaning": {
+          "before": "Hadiah / kado",
+          "after": "Hadiah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-028",
+      "chapter": 7,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Barang",
+          "after": "Barang bawaan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-030",
+      "chapter": 7,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Karcis",
+          "after": "Tiket"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-034",
+      "chapter": 7,
+      "number": 34,
+      "fields": {
+        "meaning": {
+          "before": "Ayah orang lain",
+          "after": "Ayah (sapaan sopan)"
+        },
+        "note": {
+          "before": "",
+          "after": "Untuk ayah orang lain atau menyapa ayah sendiri; kepada orang luar, ayah sendiri biasanya ちち."
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-035",
+      "chapter": 7,
+      "number": 35,
+      "fields": {
+        "meaning": {
+          "before": "Ibu orang lain",
+          "after": "Ibu (sapaan sopan)"
+        },
+        "note": {
+          "before": "",
+          "after": "Untuk ibu orang lain atau menyapa ibu sendiri; kepada orang luar, ibu sendiri biasanya はは."
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-039",
+      "chapter": 7,
+      "number": 39,
+      "fields": {
+        "meaning": {
+          "before": "Bagus ya / indah ya",
+          "after": "Bagus, ya"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-043",
+      "chapter": 7,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Bagaimana? (menawarkan sesuatu kepada orang)",
+          "after": "Mau …?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-044",
+      "chapter": 7,
+      "number": 44,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "Ungkapan sebelum makan sebagai rasa terima kasih; bukan perintah agar orang lain makan."
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-063",
+      "chapter": 7,
+      "number": 63,
+      "fields": {
+        "meaning": {
+          "before": "Nenek (orang lain)",
+          "after": "Nenek (sapaan sopan)"
+        },
+        "note": {
+          "before": "",
+          "after": "Dapat dipakai untuk nenek orang lain atau menyapa nenek sendiri."
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-064",
+      "chapter": 7,
+      "number": 64,
+      "fields": {
+        "meaning": {
+          "before": "Kakek (orang lain)",
+          "after": "Kakek (sapaan sopan)"
+        },
+        "note": {
+          "before": "",
+          "after": "Dapat dipakai untuk kakek orang lain atau menyapa kakek sendiri."
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-065",
+      "chapter": 7,
+      "number": 65,
+      "fields": {
+        "meaning": {
+          "before": "Orang tua (orang lain)",
+          "after": "Orang tua Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-066",
+      "chapter": 7,
+      "number": 66,
+      "fields": {
+        "meaning": {
+          "before": "Adik perempuan (orang lain)",
+          "after": "Adik perempuan Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-067",
+      "chapter": 7,
+      "number": 67,
+      "fields": {
+        "meaning": {
+          "before": "Adik laki-laki (orang lain)",
+          "after": "Adik laki-laki Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-068",
+      "chapter": 7,
+      "number": 68,
+      "fields": {
+        "meaning": {
+          "before": "Kakak perempuan (orang lain)",
+          "after": "Kakak perempuan Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-069",
+      "chapter": 7,
+      "number": 69,
+      "fields": {
+        "meaning": {
+          "before": "Kakak laki-laki (orang lain)",
+          "after": "Kakak laki-laki Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-070",
+      "chapter": 7,
+      "number": 70,
+      "fields": {
+        "meaning": {
+          "before": "Saudara kandung (orang lain)",
+          "after": "Saudara kandung Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-071",
+      "chapter": 7,
+      "number": 71,
+      "fields": {
+        "meaning": {
+          "before": "Istri (orang lain)",
+          "after": "Istri Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-072",
+      "chapter": 7,
+      "number": 72,
+      "fields": {
+        "meaning": {
+          "before": "Pasangan suami istri (orang lain)",
+          "after": "Pasangan suami istri (sopan)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-073",
+      "chapter": 7,
+      "number": 73,
+      "fields": {
+        "meaning": {
+          "before": "Anak perempuan (orang lain)",
+          "after": "Anak perempuan Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-074",
+      "chapter": 7,
+      "number": 74,
+      "fields": {
+        "meaning": {
+          "before": "Anak laki-laki (orang lain)",
+          "after": "Anak laki-laki Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-07-075",
+      "chapter": 7,
+      "number": 75,
+      "fields": {
+        "meaning": {
+          "before": "Anak (orang lain)",
+          "after": "Anak Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-001",
+      "chapter": 8,
+      "number": 1,
+      "fields": {
+        "jp": {
+          "before": "ハンサム(な)",
+          "after": "ハンサム"
+        },
+        "meaning": {
+          "before": "Tampan / gagah / ganteng",
+          "after": "Tampan"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-002",
+      "chapter": 8,
+      "number": 2,
+      "fields": {
+        "jp": {
+          "before": "きれい(な)",
+          "after": "きれい"
+        },
+        "meaning": {
+          "before": "Cantik / bersih",
+          "after": "Cantik; bersih"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-003",
+      "chapter": 8,
+      "number": 3,
+      "fields": {
+        "jp": {
+          "before": "静香(な)",
+          "after": "静か"
+        },
+        "meaning": {
+          "before": "Sunyi / tenang",
+          "after": "Tenang"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-004",
+      "chapter": 8,
+      "number": 4,
+      "fields": {
+        "jp": {
+          "before": "にぎやか(な)",
+          "after": "にぎやか"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-005",
+      "chapter": 8,
+      "number": 5,
+      "fields": {
+        "jp": {
+          "before": "有名(な)",
+          "after": "有名"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-006",
+      "chapter": 8,
+      "number": 6,
+      "fields": {
+        "jp": {
+          "before": "新設(な)",
+          "after": "親切"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-007",
+      "chapter": 8,
+      "number": 7,
+      "fields": {
+        "jp": {
+          "before": "元気(な)",
+          "after": "元気"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-008",
+      "chapter": 8,
+      "number": 8,
+      "fields": {
+        "jp": {
+          "before": "暇(な)",
+          "after": "暇"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-009",
+      "chapter": 8,
+      "number": 9,
+      "fields": {
+        "jp": {
+          "before": "便利(な)",
+          "after": "便利"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-010",
+      "chapter": 8,
+      "number": 10,
+      "fields": {
+        "jp": {
+          "before": "すてき(な)",
+          "after": "すてき"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-014",
+      "chapter": 8,
+      "number": 14,
+      "fields": {
+        "meaning": {
+          "before": "Lama / tua",
+          "after": "Lama; tua"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-015",
+      "chapter": 8,
+      "number": 15,
+      "fields": {
+        "meaning": {
+          "before": "Baik / bagus",
+          "after": "Baik"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: よい",
+          "after": "よい adalah bentuk lain dari いい; perubahannya memakai dasar よ: よくない, よかった."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-017",
+      "chapter": 8,
+      "number": 17,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "暑い untuk cuaca; 熱い untuk benda atau cairan panas."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-018",
+      "chapter": 8,
+      "number": 18,
+      "fields": {
+        "meaning": {
+          "before": "Dingin suhu",
+          "after": "Dingin (cuaca)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-019",
+      "chapter": 8,
+      "number": 19,
+      "fields": {
+        "meaning": {
+          "before": "Dingin benda",
+          "after": "Dingin (sentuhan)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-020",
+      "chapter": 8,
+      "number": 20,
+      "fields": {
+        "meaning": {
+          "before": "Sulit / susah",
+          "after": "Sulit"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-021",
+      "chapter": 8,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Mudah / gampang",
+          "after": "Mudah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-022",
+      "chapter": 8,
+      "number": 22,
+      "fields": {
+        "meaning": {
+          "before": "Mahal / tinggi",
+          "after": "Mahal; tinggi"
+        },
+        "note": {
+          "before": "",
+          "after": "高い berarti mahal untuk harga atau tinggi untuk ukuran."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-028",
+      "chapter": 8,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Senang",
+          "after": "Menyenangkan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-043",
+      "chapter": 8,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Yang bagaimana?",
+          "after": "… seperti apa?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-044",
+      "chapter": 8,
+      "number": 44,
+      "fields": {
+        "meaning": {
+          "before": "Sangat / ~sekali",
+          "after": "Sangat"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-045",
+      "chapter": 8,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Tidak begitu ~ / kurang begitu ~",
+          "after": "Tidak begitu …"
+        },
+        "note": {
+          "before": "",
+          "after": "Pola dasar diikuti negatif: あまりたかくないです, tidak begitu mahal."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-046",
+      "chapter": 8,
+      "number": 46,
+      "fields": {
+        "meaning": {
+          "before": "Kemudian",
+          "after": "Dan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-049",
+      "chapter": 8,
+      "number": 49,
+      "fields": {
+        "meaning": {
+          "before": "Bagaimana ya?",
+          "after": "Hmm; bagaimana ya"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-050",
+      "chapter": 8,
+      "number": 50,
+      "fields": {
+        "jp": {
+          "before": "～もういっぱいいかがですか",
+          "after": "もう一杯いかがですか"
+        },
+        "kana": {
+          "before": "～もういっぱいいかがですか",
+          "after": "もういっぱい いかがですか"
+        },
+        "meaning": {
+          "before": "Mau nambah secangkir lagi?",
+          "after": "Mau tambah secangkir lagi?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-051",
+      "chapter": 8,
+      "number": 51,
+      "fields": {
+        "jp": {
+          "before": "(いいえ)けっこうです",
+          "after": "けっこうです"
+        },
+        "meaning": {
+          "before": "Cukup",
+          "after": "Tidak, terima kasih"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: いいえ",
+          "after": "Pada tawaran, penolakan halus: tidak, terima kasih. Dalam konteks lain dapat berarti cukup atau baik."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-052",
+      "chapter": 8,
+      "number": 52,
+      "fields": {
+        "meaning": {
+          "before": "Maaf saya mau pamit dulu",
+          "after": "Saya pamit dulu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-053",
+      "chapter": 8,
+      "number": 53,
+      "fields": {
+        "meaning": {
+          "before": "Sama-sama",
+          "after": "Tidak perlu berterima kasih"
+        },
+        "note": {
+          "before": "",
+          "after": "Sebagai tanggapan terima kasih; arti dasar いいえ tetap tidak/bukan."
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-059",
+      "chapter": 8,
+      "number": 59,
+      "fields": {
+        "meaning": {
+          "before": "coklat",
+          "after": "Cokelat"
+        }
+      }
+    },
+    {
+      "id": "mn-v-08-063",
+      "chapter": 8,
+      "number": 63,
+      "fields": {
+        "meaning": {
+          "before": "krem",
+          "after": "Krem"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-002",
+      "chapter": 9,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Ada / mempunyai",
+          "after": "Ada; mempunyai"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-003",
+      "chapter": 9,
+      "number": 3,
+      "fields": {
+        "jp": {
+          "before": "好きな",
+          "after": "好き"
+        },
+        "meaning": {
+          "before": "Suka, gemar",
+          "after": "Suka"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-004",
+      "chapter": 9,
+      "number": 4,
+      "fields": {
+        "jp": {
+          "before": "嫌いな",
+          "after": "嫌い"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-005",
+      "chapter": 9,
+      "number": 5,
+      "fields": {
+        "jp": {
+          "before": "上手な",
+          "after": "上手"
+        },
+        "meaning": {
+          "before": "Pandai, pintar",
+          "after": "Mahir"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-006",
+      "chapter": 9,
+      "number": 6,
+      "fields": {
+        "meaning": {
+          "before": "Tidak pandai, tidak pintar, bodoh",
+          "after": "Kurang mahir"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Untuk keterampilan: tidak mahir. Bukan berarti bodoh secara umum."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-010",
+      "chapter": 9,
+      "number": 10,
+      "fields": {
+        "meaning": {
+          "before": "Baseball",
+          "after": "Bisbol"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-012",
+      "chapter": 9,
+      "number": 12,
+      "fields": {
+        "meaning": {
+          "before": "Tamasya",
+          "after": "Perjalanan wisata"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-015",
+      "chapter": 9,
+      "number": 15,
+      "fields": {
+        "meaning": {
+          "before": "Klasik",
+          "after": "Musik klasik"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-019",
+      "chapter": 9,
+      "number": 19,
+      "fields": {
+        "meaning": {
+          "before": "Kabuki (drama tradisional jepang)",
+          "after": "Kabuki (drama tradisional Jepang)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-025",
+      "chapter": 9,
+      "number": 25,
+      "fields": {
+        "jp": {
+          "before": "ローマじ",
+          "after": "ローマ字"
+        },
+        "meaning": {
+          "before": "Huruf latin",
+          "after": "Huruf Latin"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-026",
+      "chapter": 9,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Uang kecil, receh",
+          "after": "Uang pecahan kecil"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-033",
+      "chapter": 9,
+      "number": 33,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "おっと dan しゅじん adalah dua penyebutan suami sendiri."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-035",
+      "chapter": 9,
+      "number": 35,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "つま dan かない adalah dua penyebutan istri sendiri; かない bergantung konteks dan preferensi penutur."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-038",
+      "chapter": 9,
+      "number": 38,
+      "fields": {
+        "meaning": {
+          "before": "Kira-kira",
+          "after": "Kurang lebih"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-041",
+      "chapter": 9,
+      "number": 41,
+      "fields": {
+        "meaning": {
+          "before": "Sama sekali",
+          "after": "Sama sekali tidak …"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam pola dasar bab ini dipakai dengan negatif, misalnya ぜんぜんわかりません."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-042",
+      "chapter": 9,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Dengan Cepat",
+          "after": "Dengan cepat"
+        },
+        "note": {
+          "before": "",
+          "after": "早く: lebih awal; 速く: dengan cepat. Pilih menurut konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-049",
+      "chapter": 9,
+      "number": 49,
+      "fields": {
+        "jp": {
+          "before": "～ちょっと。。。。",
+          "after": "ちょっと…"
+        },
+        "kana": {
+          "before": "～ちょっと。。。。",
+          "after": "ちょっと"
+        },
+        "meaning": {
+          "before": "Maaf, saya tidak bisa",
+          "after": "Maaf, agak sulit…"
+        },
+        "note": {
+          "before": "",
+          "after": "Penolakan tidak langsung ketika ajakan terasa sulit dipenuhi."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-050",
+      "chapter": 9,
+      "number": 50,
+      "fields": {
+        "meaning": {
+          "before": "Tidak bisa ya / tidak boleh ya",
+          "after": "Tidak boleh; ya?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-055",
+      "chapter": 9,
+      "number": 55,
+      "fields": {
+        "meaning": {
+          "before": "Musik rakyat / nyanyian daerah",
+          "after": "Lagu daerah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-056",
+      "chapter": 9,
+      "number": 56,
+      "fields": {
+        "meaning": {
+          "before": "Lagu tradisional jepang populer",
+          "after": "Enka"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-060",
+      "chapter": 9,
+      "number": 60,
+      "fields": {
+        "meaning": {
+          "before": "Film kartun, animasi",
+          "after": "Animasi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-061",
+      "chapter": 9,
+      "number": 61,
+      "fields": {
+        "meaning": {
+          "before": "Film dokumentasi",
+          "after": "Film dokumenter"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-062",
+      "chapter": 9,
+      "number": 62,
+      "fields": {
+        "meaning": {
+          "before": "Film percintaan",
+          "after": "Percintaan"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam daftar genre film: film percintaan."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-064",
+      "chapter": 9,
+      "number": 64,
+      "fields": {
+        "meaning": {
+          "before": "Film kesusastraan",
+          "after": "Sastra"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam daftar genre film: film bertema sastra."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-065",
+      "chapter": 9,
+      "number": 65,
+      "fields": {
+        "meaning": {
+          "before": "Film peperangan",
+          "after": "Perang"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam daftar genre film: film perang."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-066",
+      "chapter": 9,
+      "number": 66,
+      "fields": {
+        "meaning": {
+          "before": "Film action",
+          "after": "Laga"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam daftar genre film: film laga."
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-074",
+      "chapter": 9,
+      "number": 74,
+      "fields": {
+        "meaning": {
+          "before": "Sky",
+          "after": "Ski"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-075",
+      "chapter": 9,
+      "number": 75,
+      "fields": {
+        "meaning": {
+          "before": "Skate",
+          "after": "Seluncur es"
+        }
+      }
+    },
+    {
+      "id": "mn-v-09-076",
+      "chapter": 9,
+      "number": 76,
+      "fields": {
+        "kana": {
+          "before": "たっきゅう/ピンポン",
+          "after": "たっきゅう"
+        },
+        "meaning": {
+          "before": "Pingpong",
+          "after": "Tenis meja"
+        },
+        "note": {
+          "before": "",
+          "after": "ピンポン adalah sebutan lain untuk tenis meja."
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-001",
+      "chapter": 10,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Ada (benda mati)",
+          "after": "Ada (benda atau tumbuhan)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-002",
+      "chapter": 10,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Ada (benda hidup)",
+          "after": "Ada (orang atau hewan)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-003",
+      "chapter": 10,
+      "number": 3,
+      "fields": {
+        "jp": {
+          "before": "いろいろ(な)",
+          "after": "いろいろ"
+        },
+        "meaning": {
+          "before": "Berbagai / macam-macam",
+          "after": "Bermacam-macam"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-004",
+      "chapter": 10,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Orang laki-laki",
+          "after": "Laki-laki"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-005",
+      "chapter": 10,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "Orang perempuan",
+          "after": "Perempuan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-011",
+      "chapter": 10,
+      "number": 11,
+      "fields": {
+        "jp": {
+          "before": "像",
+          "after": "象"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-020",
+      "chapter": 10,
+      "number": 20,
+      "fields": {
+        "meaning": {
+          "before": "Lemari",
+          "after": "Rak"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-025",
+      "chapter": 10,
+      "number": 25,
+      "fields": {
+        "kana": {
+          "before": "ATM",
+          "after": "エーティーエム"
+        },
+        "meaning": {
+          "before": "Atm",
+          "after": "ATM"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-026",
+      "chapter": 10,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Toko 24 jam",
+          "after": "Minimarket"
+        },
+        "note": {
+          "before": "",
+          "after": "Minimarket gaya Jepang; banyak yang buka 24 jam, tetapi tidak semuanya."
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-028",
+      "chapter": 10,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Coffe shop / cafe",
+          "after": "Kedai kopi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-030",
+      "chapter": 10,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Tempat naik",
+          "after": "Tempat naik kendaraan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-040",
+      "chapter": 10,
+      "number": 40,
+      "fields": {
+        "meaning": {
+          "before": "Samping / sebelah",
+          "after": "Sebelah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-043",
+      "chapter": 10,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Maaf / terima kasih banyak",
+          "after": "Mohon maaf"
+        },
+        "note": {
+          "before": "",
+          "after": "Dapat pula menyampaikan rasa berterima kasih sambil merasa merepotkan orang lain."
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-044",
+      "chapter": 10,
+      "number": 44,
+      "fields": {
+        "meaning": {
+          "before": "Kecap ikan",
+          "after": "Saus ikan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-045",
+      "chapter": 10,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Tempat / bagian penjualan",
+          "after": "Bagian penjualan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-047",
+      "chapter": 10,
+      "number": 47,
+      "fields": {
+        "meaning": {
+          "before": "Pintu masuk",
+          "after": "Area masuk rumah"
+        },
+        "note": {
+          "before": "",
+          "after": "Area melepas atau memakai sepatu di pintu masuk rumah."
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-049",
+      "chapter": 10,
+      "number": 49,
+      "fields": {
+        "meaning": {
+          "before": "Tempat cuci tangan",
+          "after": "Ruang cuci muka"
+        },
+        "note": {
+          "before": "",
+          "after": "Biasanya ruang dengan wastafel untuk mencuci muka dan merapikan diri; bukan otomatis toilet."
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-051",
+      "chapter": 10,
+      "number": 51,
+      "fields": {
+        "meaning": {
+          "before": "Kantin / ruang makan",
+          "after": "Ruang makan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-052",
+      "chapter": 10,
+      "number": 52,
+      "fields": {
+        "meaning": {
+          "before": "Ruang tamu",
+          "after": "Ruang keluarga"
+        }
+      }
+    },
+    {
+      "id": "mn-v-10-055",
+      "chapter": 10,
+      "number": 55,
+      "fields": {
+        "meaning": {
+          "before": "teras",
+          "after": "Balkon"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-001",
+      "chapter": 11,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Ada / mempunyai",
+          "after": "Ada (orang atau hewan)"
+        },
+        "note": {
+          "before": "",
+          "after": "Untuk keluarga: こどもがふたりいます, saya mempunyai dua anak. Tetap memakai います untuk orang."
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-002",
+      "chapter": 11,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Memerlukan waktu",
+          "after": "Memerlukan waktu; memerlukan biaya"
+        },
+        "note": {
+          "before": "",
+          "after": "Waktu atau biaya yang diperlukan, misalnya にじかんかかります."
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-003",
+      "chapter": 11,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Tidak masuk kerja / libur",
+          "after": "Tidak masuk kerja"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-023",
+      "chapter": 11,
+      "number": 23,
+      "fields": {
+        "meaning": {
+          "before": "Sandwich",
+          "after": "Roti lapis"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-024",
+      "chapter": 11,
+      "number": 24,
+      "fields": {
+        "meaning": {
+          "before": "Kare",
+          "after": "Kari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-026",
+      "chapter": 11,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Perangko",
+          "after": "Prangko"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-030",
+      "chapter": 11,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Pelajar asing",
+          "after": "Pelajar dari luar negeri"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-038",
+      "chapter": 11,
+      "number": 38,
+      "fields": {
+        "meaning": {
+          "before": "Semuanya",
+          "after": "Seluruhnya berjumlah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-041",
+      "chapter": 11,
+      "number": 41,
+      "fields": {
+        "meaning": {
+          "before": "Baik / mengerti",
+          "after": "Baik, saya mengerti"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-042",
+      "chapter": 11,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Cuacanya bagus ya...",
+          "after": "Cuacanya bagus, ya"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-044",
+      "chapter": 11,
+      "number": 44,
+      "fields": {
+        "meaning": {
+          "before": "Hati-hati (berangkatnya)",
+          "after": "Selamat jalan"
+        },
+        "note": {
+          "before": "",
+          "after": "Diucapkan kepada orang yang berangkat dan diharapkan kembali."
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-050",
+      "chapter": 11,
+      "number": 50,
+      "fields": {
+        "meaning": {
+          "before": "Makanan paket",
+          "after": "Paket makan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-052",
+      "chapter": 11,
+      "number": 52,
+      "fields": {
+        "meaning": {
+          "before": "Semangkuk Nasi dan tempura",
+          "after": "Nasi tempura"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-053",
+      "chapter": 11,
+      "number": 53,
+      "fields": {
+        "meaning": {
+          "before": "Semangkuk Nasi, daging ayam dan telur",
+          "after": "Nasi ayam dan telur"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-054",
+      "chapter": 11,
+      "number": 54,
+      "fields": {
+        "meaning": {
+          "before": "Semangkuk nasi dan daging sapi",
+          "after": "Nasi daging sapi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-056",
+      "chapter": 11,
+      "number": 56,
+      "fields": {
+        "jp": {
+          "before": "野菜ため",
+          "after": "野菜炒め"
+        },
+        "kana": {
+          "before": "やさいため",
+          "after": "やさいいため"
+        },
+        "meaning": {
+          "before": "Sayur goreng",
+          "after": "Tumis sayur"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-057",
+      "chapter": 11,
+      "number": 57,
+      "fields": {
+        "meaning": {
+          "before": "Asinan",
+          "after": "Acar Jepang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-061",
+      "chapter": 11,
+      "number": 61,
+      "fields": {
+        "meaning": {
+          "before": "Nasi dicampur cuka dan diberi ikan mentah",
+          "after": "Sushi"
+        },
+        "note": {
+          "before": "",
+          "after": "Nasi berbumbu cuka dengan berbagai pelengkap; tidak harus memakai ikan mentah."
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-062",
+      "chapter": 11,
+      "number": 62,
+      "fields": {
+        "meaning": {
+          "before": "Mie jepang ukuran besar",
+          "after": "Mi udon"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-063",
+      "chapter": 11,
+      "number": 63,
+      "fields": {
+        "meaning": {
+          "before": "Mie jepang warna abu-abu",
+          "after": "Mi soba"
+        },
+        "note": {
+          "before": "",
+          "after": "Mi yang dibuat dengan soba atau campuran tepung soba; bukan didefinisikan dari warna saja."
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-064",
+      "chapter": 11,
+      "number": 64,
+      "fields": {
+        "meaning": {
+          "before": "Mie jepang ukuran biasa",
+          "after": "Mi ramen"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-065",
+      "chapter": 11,
+      "number": 65,
+      "fields": {
+        "meaning": {
+          "before": "Mie goreng jepang",
+          "after": "Mi goreng Jepang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-066",
+      "chapter": 11,
+      "number": 66,
+      "fields": {
+        "meaning": {
+          "before": "Gorengan dicampur daging di loyang",
+          "after": "Okonomiyaki"
+        },
+        "note": {
+          "before": "",
+          "after": "Panekuk gurih Jepang dengan kol dan berbagai isian, bukan sekadar gorengan daging."
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-067",
+      "chapter": 11,
+      "number": 67,
+      "fields": {
+        "meaning": {
+          "before": "Nasi kare",
+          "after": "Nasi kari"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-068",
+      "chapter": 11,
+      "number": 68,
+      "fields": {
+        "meaning": {
+          "before": "hamburger",
+          "after": "Steik daging cincang"
+        },
+        "note": {
+          "before": "",
+          "after": "ハンバーグ adalah olahan daging cincang tanpa roti; hamburger dengan roti disebut ハンバーガー."
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-075",
+      "chapter": 11,
+      "number": 75,
+      "fields": {
+        "meaning": {
+          "before": "Pizza",
+          "after": "Piza"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-079",
+      "chapter": 11,
+      "number": 79,
+      "fields": {
+        "meaning": {
+          "before": "Minuman coklat",
+          "after": "Minuman cokelat"
+        }
+      }
+    },
+    {
+      "id": "mn-v-11-081",
+      "chapter": 11,
+      "number": 81,
+      "fields": {
+        "meaning": {
+          "before": "Coca cola",
+          "after": "Minuman kola"
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-001",
+      "chapter": 12,
+      "number": 1,
+      "fields": {
+        "jp": {
+          "before": "簡単な",
+          "after": "簡単"
+        },
+        "meaning": {
+          "before": "Mudah, gampang",
+          "after": "Mudah"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-004",
+      "chapter": 12,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Cepat",
+          "after": "Cepat; awal"
+        },
+        "note": {
+          "before": "",
+          "after": "早い: awal; 速い: cepat. Keduanya dibaca はやい."
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-005",
+      "chapter": 12,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "Lambat",
+          "after": "Lambat; terlambat"
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-008",
+      "chapter": 12,
+      "number": 8,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "暖かい untuk cuaca/udara; 温かい untuk benda, makanan atau kehangatan sikap."
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-014",
+      "chapter": 12,
+      "number": 14,
+      "fields": {
+        "meaning": {
+          "before": "Lebih baik",
+          "after": "Baik"
+        },
+        "note": {
+          "before": "",
+          "after": "いい berarti baik; makna lebih baik berasal dari pola perbandingan, bukan kata ini sendirian."
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-028",
+      "chapter": 12,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Maple",
+          "after": "Daun maple"
+        },
+        "note": {
+          "before": "",
+          "after": "紅葉 dibaca もみじ untuk maple/daunnya; こうよう untuk perubahan warna daun musim gugur."
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-030",
+      "chapter": 12,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Dua-duanya / yang mana saja",
+          "after": "Keduanya"
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-032",
+      "chapter": 12,
+      "number": 32,
+      "fields": {
+        "meaning": {
+          "before": "Selamanya",
+          "after": "Jauh lebih …"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam perbandingan, misalnya ずっとおおきい: jauh lebih besar. Dalam konteks durasi dapat berarti terus-menerus."
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-034",
+      "chapter": 12,
+      "number": 34,
+      "fields": {
+        "meaning": {
+          "before": "Saya pulang / saya kembali",
+          "after": "Saya pulang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-035",
+      "chapter": 12,
+      "number": 35,
+      "fields": {
+        "meaning": {
+          "before": "Sudah pulang ya...",
+          "after": "Selamat datang kembali"
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-036",
+      "chapter": 12,
+      "number": 36,
+      "fields": {
+        "meaning": {
+          "before": "Wah...banyak orang",
+          "after": "Wah, banyak sekali orang!"
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-037",
+      "chapter": 12,
+      "number": 37,
+      "fields": {
+        "meaning": {
+          "before": "Capek / lelah",
+          "after": "Saya lelah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-12-038",
+      "chapter": 12,
+      "number": 38,
+      "fields": {
+        "meaning": {
+          "before": "Hongkong",
+          "after": "Hong Kong"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-007",
+      "chapter": 13,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Makan bersama",
+          "after": "Makan"
+        },
+        "note": {
+          "before": "",
+          "after": "Tidak harus dilakukan bersama orang lain."
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-009",
+      "chapter": 13,
+      "number": 9,
+      "fields": {
+        "jp": {
+          "before": "大変な",
+          "after": "大変"
+        },
+        "meaning": {
+          "before": "Susah, berat",
+          "after": "Berat; sulit"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: な",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-010",
+      "chapter": 13,
+      "number": 10,
+      "fields": {
+        "meaning": {
+          "before": "Ingin",
+          "after": "Menginginkan sesuatu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-016",
+      "chapter": 13,
+      "number": 16,
+      "fields": {
+        "meaning": {
+          "before": "Pancing, memancing",
+          "after": "Memancing"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-019",
+      "chapter": 13,
+      "number": 19,
+      "fields": {
+        "jp": {
+          "before": "お諸王月",
+          "after": "お正月"
+        },
+        "meaning": {
+          "before": "Tahun baru",
+          "after": "Tahun Baru Jepang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-020",
+      "chapter": 13,
+      "number": 20,
+      "fields": {
+        "meaning": {
+          "before": "Kira-kira, sekitar",
+          "after": "Sekitar …"
+        },
+        "note": {
+          "before": "",
+          "after": "Untuk perkiraan titik waktu: さんじごろ, sekitar pukul tiga."
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-025",
+      "chapter": 13,
+      "number": 25,
+      "fields": {
+        "meaning": {
+          "before": "Ya ayo",
+          "after": "Ya, mari lakukan itu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-027",
+      "chapter": 13,
+      "number": 27,
+      "fields": {
+        "meaning": {
+          "before": "Tunggu sebentar",
+          "after": "Silakan tunggu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-028",
+      "chapter": 13,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Sendiri-sendiri / masing-masing",
+          "after": "Secara terpisah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-030",
+      "chapter": 13,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Gedung kesenian",
+          "after": "Museum seni"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-035",
+      "chapter": 13,
+      "number": 35,
+      "fields": {
+        "meaning": {
+          "before": "Kuil budha",
+          "after": "Kuil Buddha"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-036",
+      "chapter": 13,
+      "number": 36,
+      "fields": {
+        "meaning": {
+          "before": "Kuil sinto",
+          "after": "Kuil Shinto"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-037",
+      "chapter": 13,
+      "number": 37,
+      "fields": {
+        "jp": {
+          "before": "協会",
+          "after": "教会"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-038",
+      "chapter": 13,
+      "number": 38,
+      "fields": {
+        "jp": {
+          "before": "体育館",
+          "after": "大使館"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-040",
+      "chapter": 13,
+      "number": 40,
+      "fields": {
+        "meaning": {
+          "before": "Kantor balaikota",
+          "after": "Balai kota"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-044",
+      "chapter": 13,
+      "number": 44,
+      "fields": {
+        "meaning": {
+          "before": "Sma",
+          "after": "SMA"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-045",
+      "chapter": 13,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Smp",
+          "after": "SMP"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-046",
+      "chapter": 13,
+      "number": 46,
+      "fields": {
+        "meaning": {
+          "before": "Sd",
+          "after": "SD"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-047",
+      "chapter": 13,
+      "number": 47,
+      "fields": {
+        "meaning": {
+          "before": "Tk",
+          "after": "TK"
+        }
+      }
+    },
+    {
+      "id": "mn-v-13-049",
+      "chapter": 13,
+      "number": 49,
+      "fields": {
+        "jp": {
+          "before": "パンや",
+          "after": "パン屋"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-001",
+      "chapter": 14,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Menyalakan, memasang, menghidupkan",
+          "after": "Menyalakan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-002",
+      "chapter": 14,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Mematikan, memadamkan",
+          "after": "Mematikan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-005",
+      "chapter": 14,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "Buru-buru",
+          "after": "Bergegas"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-015",
+      "chapter": 14,
+      "number": 15,
+      "fields": {
+        "meaning": {
+          "before": "Memberitahu",
+          "after": "Memberi tahu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-021",
+      "chapter": 14,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Memfotocopy",
+          "after": "Memfotokopi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-022",
+      "chapter": 14,
+      "number": 22,
+      "fields": {
+        "meaning": {
+          "before": "Listrik, lampu",
+          "after": "Lampu; listrik"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-029",
+      "chapter": 14,
+      "number": 29,
+      "fields": {
+        "jp": {
+          "before": "佐藤",
+          "after": "砂糖"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-030",
+      "chapter": 14,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Masalah, soal",
+          "after": "Soal; masalah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-035",
+      "chapter": 14,
+      "number": 35,
+      "fields": {
+        "meaning": {
+          "before": "Pelan-pelan, istirahat dengan baik",
+          "after": "Pelan-pelan"
+        },
+        "note": {
+          "before": "",
+          "after": "Dapat menyatakan santai atau dengan leluasa menurut kegiatan, misalnya ゆっくりやすんでください."
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-036",
+      "chapter": 14,
+      "number": 36,
+      "fields": {
+        "meaning": {
+          "before": "Segera, langsung",
+          "after": "Segera"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-043",
+      "chapter": 14,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Minta dengan ini",
+          "after": "Dengan yang ini; tolong"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-047",
+      "chapter": 14,
+      "number": 47,
+      "fields": {
+        "meaning": {
+          "before": "Alat penghitung otomatis",
+          "after": "Mesin penyesuaian tarif"
+        },
+        "note": {
+          "before": "",
+          "after": "Mesin untuk membayar kekurangan tarif sebelum keluar melalui gerbang tiket."
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-048",
+      "chapter": 14,
+      "number": 48,
+      "fields": {
+        "meaning": {
+          "before": "Pintu pemeriksaan karcis",
+          "after": "Gerbang tiket"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-057",
+      "chapter": 14,
+      "number": 57,
+      "fields": {
+        "meaning": {
+          "before": "Kios, kedai",
+          "after": "Kios"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-060",
+      "chapter": 14,
+      "number": 60,
+      "fields": {
+        "meaning": {
+          "before": "Terminal bis",
+          "after": "Terminal bus"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-061",
+      "chapter": 14,
+      "number": 61,
+      "fields": {
+        "meaning": {
+          "before": "Halte bis",
+          "after": "Halte bus"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-062",
+      "chapter": 14,
+      "number": 62,
+      "fields": {
+        "meaning": {
+          "before": "Kereta cepat yang lewat pinggir kota",
+          "after": "Kereta cepat"
+        },
+        "note": {
+          "before": "",
+          "after": "快速 adalah kategori layanan yang melewati sebagian stasiun; bukan khusus kereta pinggiran kota."
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-063",
+      "chapter": 14,
+      "number": 63,
+      "fields": {
+        "meaning": {
+          "before": "Kereta semi cepat",
+          "after": "Kereta semi-ekspres"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-064",
+      "chapter": 14,
+      "number": 64,
+      "fields": {
+        "meaning": {
+          "before": "Jadwal keberangkatan bis, kereta dll",
+          "after": "Jadwal perjalanan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-065",
+      "chapter": 14,
+      "number": 65,
+      "fields": {
+        "meaning": {
+          "before": "Berangkat dari / berangkat pukul",
+          "after": "Berangkat …"
+        },
+        "note": {
+          "before": "",
+          "after": "発 dapat mengikuti asal keberangkatan atau waktu berangkat: とうきょうはつ, Tokyo sebagai asal."
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-066",
+      "chapter": 14,
+      "number": 66,
+      "fields": {
+        "meaning": {
+          "before": "Berangkat ke / tiba pukul",
+          "after": "Tiba …"
+        },
+        "note": {
+          "before": "",
+          "after": "着 menunjukkan kedatangan, bukan keberangkatan: さんじちゃく, tiba pukul tiga."
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-067",
+      "chapter": 14,
+      "number": 67,
+      "fields": {
+        "meaning": {
+          "before": "Tujuan tokyo",
+          "after": "Tujuan Tokyo"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-068",
+      "chapter": 14,
+      "number": 68,
+      "fields": {
+        "meaning": {
+          "before": "Kartu langganan berjangka",
+          "after": "Tiket langganan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-14-069",
+      "chapter": 14,
+      "number": 69,
+      "fields": {
+        "meaning": {
+          "before": "Karcis kupon",
+          "after": "Tiket paket perjalanan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-004",
+      "chapter": 15,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Mengenal, mengetahui",
+          "after": "Mengetahui"
+        },
+        "note": {
+          "before": "",
+          "after": "Menyatakan sudah tahu: しっています. Tidak tahu: しりません."
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-007",
+      "chapter": 15,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Data, bahan",
+          "after": "Bahan referensi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-015",
+      "chapter": 15,
+      "number": 15,
+      "fields": {
+        "meaning": {
+          "before": "Bujangan, jomblo",
+          "after": "Belum menikah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-016",
+      "chapter": 15,
+      "number": 16,
+      "fields": {
+        "meaning": {
+          "before": "Teringat",
+          "after": "Mengingat kembali"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-017",
+      "chapter": 15,
+      "number": 17,
+      "fields": {
+        "meaning": {
+          "before": "Ada (hidup)",
+          "after": "Berada (hormat)"
+        },
+        "note": {
+          "before": "",
+          "after": "Bentuk hormat dari います dalam konteks bab ini; juga dapat berarti pergi/datang menurut konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-018",
+      "chapter": 15,
+      "number": 18,
+      "fields": {
+        "meaning": {
+          "before": "Pekerjaan, profesi",
+          "after": "Profesi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-025",
+      "chapter": 15,
+      "number": 25,
+      "fields": {
+        "meaning": {
+          "before": "Tukang masak",
+          "after": "Juru masak"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-026",
+      "chapter": 15,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Tukang potong rambut",
+          "after": "Pemangkas rambut"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-027",
+      "chapter": 15,
+      "number": 27,
+      "fields": {
+        "meaning": {
+          "before": "Ahli kecantikan",
+          "after": "Penata rambut"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-042",
+      "chapter": 15,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Perancang busana",
+          "after": "Desainer"
+        },
+        "note": {
+          "before": "",
+          "after": "Tidak terbatas pada perancang busana; bidang desain mengikuti konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-045",
+      "chapter": 15,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Aktor / artis",
+          "after": "Pemeran"
+        }
+      }
+    },
+    {
+      "id": "mn-v-15-046",
+      "chapter": 15,
+      "number": 46,
+      "fields": {
+        "meaning": {
+          "before": "Olahragawan / atlit",
+          "after": "Atlet"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-002",
+      "chapter": 16,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Turun",
+          "after": "Turun dari kendaraan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-003",
+      "chapter": 16,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Ganti, pindah kendaraan",
+          "after": "Berganti kendaraan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-004",
+      "chapter": 16,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Mandi",
+          "after": "Mandi pancuran"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-007",
+      "chapter": 16,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Mengeluarkan/mengambil uang",
+          "after": "Menarik uang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-012",
+      "chapter": 16,
+      "number": 12,
+      "fields": {
+        "meaning": {
+          "before": "Mulai",
+          "after": "Memulai"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-013",
+      "chapter": 16,
+      "number": 13,
+      "fields": {
+        "meaning": {
+          "before": "Mengunjungi",
+          "after": "Berkunjung untuk belajar"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-031",
+      "chapter": 16,
+      "number": 31,
+      "fields": {
+        "meaning": {
+          "before": "Punggung",
+          "after": "Tinggi badan"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam せがたかい berarti bertubuh tinggi. 背 juga dapat merujuk punggung dalam konteks lain."
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-036",
+      "chapter": 16,
+      "number": 36,
+      "fields": {
+        "meaning": {
+          "before": "Kuil",
+          "after": "Kuil Buddha"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-037",
+      "chapter": 16,
+      "number": 37,
+      "fields": {
+        "meaning": {
+          "before": "Wihara",
+          "after": "Kuil Shinto"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-039",
+      "chapter": 16,
+      "number": 39,
+      "fields": {
+        "meaning": {
+          "before": "Dengan cara bagaimana, bagaimana caranya?",
+          "after": "Bagaimana caranya?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-040",
+      "chapter": 16,
+      "number": 40,
+      "fields": {
+        "meaning": {
+          "before": "Yang mana?",
+          "after": "… yang mana?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-041",
+      "chapter": 16,
+      "number": 41,
+      "fields": {
+        "meaning": {
+          "before": "Mana?",
+          "after": "Yang mana?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-043",
+      "chapter": 16,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Tidak, belum memuaskan",
+          "after": "Ah, saya masih perlu banyak belajar"
+        },
+        "note": {
+          "before": "",
+          "after": "Tanggapan merendah ketika dipuji, bukan penolakan kasar."
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-045",
+      "chapter": 16,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Pertama-tama, terlebih dahulu",
+          "after": "Pertama-tama"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-046",
+      "chapter": 16,
+      "number": 46,
+      "fields": {
+        "meaning": {
+          "before": "Kemudian, berikutnya",
+          "after": "Berikutnya"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-050",
+      "chapter": 16,
+      "number": 50,
+      "fields": {
+        "meaning": {
+          "before": "Memastikan",
+          "after": "Konfirmasi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-052",
+      "chapter": 16,
+      "number": 52,
+      "fields": {
+        "meaning": {
+          "before": "Pesta salju",
+          "after": "Festival Salju"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-053",
+      "chapter": 16,
+      "number": 53,
+      "fields": {
+        "meaning": {
+          "before": "Menambahkan saldo",
+          "after": "Setor uang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-054",
+      "chapter": 16,
+      "number": 54,
+      "fields": {
+        "meaning": {
+          "before": "Pembayaran",
+          "after": "Transfer uang"
+        },
+        "note": {
+          "before": "",
+          "after": "お振込み: mengirim dana ke rekening tujuan."
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-055",
+      "chapter": 16,
+      "number": 55,
+      "fields": {
+        "meaning": {
+          "before": "Pengiriman",
+          "after": "Pemindahbukuan"
+        },
+        "note": {
+          "before": "",
+          "after": "お振替: pemindahan dana antar rekening; ketentuan bergantung layanan bank."
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-056",
+      "chapter": 16,
+      "number": 56,
+      "fields": {
+        "meaning": {
+          "before": "Pembaharuan buku catatan bank",
+          "after": "Pencatatan transaksi di buku tabungan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-16-057",
+      "chapter": 16,
+      "number": 57,
+      "fields": {
+        "meaning": {
+          "before": "Cek saldo",
+          "after": "Pengecekan saldo"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-003",
+      "chapter": 17,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Kehilangan, hilang",
+          "after": "Kehilangan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-012",
+      "chapter": 17,
+      "number": 12,
+      "fields": {
+        "meaning": {
+          "before": "Dinas",
+          "after": "Perjalanan dinas"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-013",
+      "chapter": 17,
+      "number": 13,
+      "fields": {
+        "jp": {
+          "before": "大切な",
+          "after": "大切"
+        },
+        "kana": {
+          "before": "たいせつな",
+          "after": "たいせつ"
+        },
+        "note": {
+          "before": "",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-014",
+      "chapter": 17,
+      "number": 14,
+      "fields": {
+        "jp": {
+          "before": "大丈夫な",
+          "after": "大丈夫"
+        },
+        "kana": {
+          "before": "だいじょうぶな",
+          "after": "だいじょうぶ"
+        },
+        "note": {
+          "before": "",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-019",
+      "chapter": 17,
+      "number": 19,
+      "fields": {
+        "meaning": {
+          "before": "Sakit",
+          "after": "Penyakit"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-021",
+      "chapter": 17,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Kamar mandi",
+          "after": "Bak mandi"
+        },
+        "note": {
+          "before": "",
+          "after": "おふろ dapat merujuk bak mandi atau kegiatan berendam; ふろば adalah ruang mandinya."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-022",
+      "chapter": 17,
+      "number": 22,
+      "fields": {
+        "meaning": {
+          "before": "Baju, jaket",
+          "after": "Pakaian luar"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-024",
+      "chapter": 17,
+      "number": 24,
+      "fields": {
+        "meaning": {
+          "before": "Sampai dengan ( menyatakan batas waktu )",
+          "after": "Paling lambat …"
+        },
+        "note": {
+          "before": "",
+          "after": "Batas akhir penyelesaian: ごじまでに, paling lambat pukul lima. Berbeda dari まで yang menandai sampai kapan kegiatan berlangsung."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-026",
+      "chapter": 17,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Apa yang terjadi, ada masalah apa?",
+          "after": "Ada apa?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-029",
+      "chapter": 17,
+      "number": 29,
+      "fields": {
+        "meaning": {
+          "before": "Masuk angin",
+          "after": "Pilek"
+        },
+        "note": {
+          "before": "",
+          "after": "かぜ berarti selesma/common cold, bukan padanan persis istilah masuk angin."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-030",
+      "chapter": 17,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Setelah itu, kemudian, dan",
+          "after": "Setelah itu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-033",
+      "chapter": 17,
+      "number": 33,
+      "fields": {
+        "jp": {
+          "before": "おなががいたい",
+          "after": "おなかが痛い"
+        },
+        "kana": {
+          "before": "おなががいたい",
+          "after": "おなかがいたい"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-037",
+      "chapter": 17,
+      "number": 37,
+      "fields": {
+        "meaning": {
+          "before": "Pilek",
+          "after": "Hidung berair"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-040",
+      "chapter": 17,
+      "number": 40,
+      "fields": {
+        "meaning": {
+          "before": "Kedinginan",
+          "after": "Menggigil"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam konteks keluhan tubuh: rasa menggigil."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-041",
+      "chapter": 17,
+      "number": 41,
+      "fields": {
+        "meaning": {
+          "before": "Pusing",
+          "after": "Pening"
+        },
+        "note": {
+          "before": "",
+          "after": "めまい dapat berupa rasa berputar atau limbung, bukan semua jenis sakit kepala."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-042",
+      "chapter": 17,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Mencret, diare",
+          "after": "Diare"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-045",
+      "chapter": 17,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Terbakar",
+          "after": "Mengalami luka bakar"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-050",
+      "chapter": 17,
+      "number": 50,
+      "fields": {
+        "meaning": {
+          "before": "Flu, influenza",
+          "after": "Influenza"
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-051",
+      "chapter": 17,
+      "number": 51,
+      "fields": {
+        "meaning": {
+          "before": "Usus buntu",
+          "after": "Radang usus buntu"
+        },
+        "note": {
+          "before": "",
+          "after": "盲腸 secara anatomi adalah sekum; dalam percakapan penyakit lazim dipakai untuk radang usus buntu."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-052",
+      "chapter": 17,
+      "number": 52,
+      "fields": {
+        "meaning": {
+          "before": "Sakit pinggang",
+          "after": "Nyeri pinggang mendadak"
+        },
+        "note": {
+          "before": "",
+          "after": "Nyeri punggung bawah yang datang mendadak, bukan semua sakit pinggang."
+        }
+      }
+    },
+    {
+      "id": "mn-v-17-055",
+      "chapter": 17,
+      "number": 55,
+      "fields": {
+        "meaning": {
+          "before": "Efek sesudah minum",
+          "after": "Mabuk sisa alkohol"
+        },
+        "note": {
+          "before": "",
+          "after": "Keluhan keesokan hari setelah terlalu banyak minum alkohol; sering disebut hangover."
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-001",
+      "chapter": 18,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Dapat, bisa, mampu",
+          "after": "Bisa"
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-003",
+      "chapter": 18,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Bermain (alat musik, piano)",
+          "after": "Memainkan alat musik"
+        },
+        "note": {
+          "before": "",
+          "after": "Untuk alat yang dipetik atau berpapan tuts, misalnya piano dan gitar; alat lain dapat memakai kata kerja berbeda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-007",
+      "chapter": 18,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Menukar, mengganti",
+          "after": "Menukar; mengganti"
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-008",
+      "chapter": 18,
+      "number": 8,
+      "fields": {
+        "meaning": {
+          "before": "Menyetir, mengendarai",
+          "after": "Mengemudi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-009",
+      "chapter": 18,
+      "number": 9,
+      "fields": {
+        "meaning": {
+          "before": "Memesan",
+          "after": "Melakukan reservasi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-013",
+      "chapter": 18,
+      "number": 13,
+      "fields": {
+        "meaning": {
+          "before": "Hobi, kegemaran",
+          "after": "Hobi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-022",
+      "chapter": 18,
+      "number": 22,
+      "fields": {
+        "meaning": {
+          "before": "Terutama, khususnya",
+          "after": "Terutama"
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-024",
+      "chapter": 18,
+      "number": 24,
+      "fields": {
+        "meaning": {
+          "before": "Betulkah, benarkah",
+          "after": "Benarkah?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-025",
+      "chapter": 18,
+      "number": 25,
+      "fields": {
+        "meaning": {
+          "before": "Pasti, benar-benar",
+          "after": "Sangat ingin"
+        },
+        "note": {
+          "before": "",
+          "after": "ぜひ memberi penekanan pada keinginan, ajakan atau permintaan. Bukan kata jaminan pasti."
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-026",
+      "chapter": 18,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Jarang, tidak mudah (diikuti bentuk negatif)",
+          "after": "Tidak mudah …"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam pola negatif: なかなかできません, tidak mudah bisa/masih belum berhasil. Bentuk positif dapat memberi arti cukup/sangat menurut konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-034",
+      "chapter": 18,
+      "number": 34,
+      "fields": {
+        "meaning": {
+          "before": "Berjungkir balik",
+          "after": "Berdiri dengan tangan"
+        },
+        "note": {
+          "before": "",
+          "after": "さかだち berarti posisi kepala di bawah dan kaki di atas, lazimnya bertumpu pada tangan, bukan berguling."
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-042",
+      "chapter": 18,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Menekan, mendorong",
+          "after": "Mendorong; menekan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-18-045",
+      "chapter": 18,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Jatuh",
+          "after": "Terjatuh"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-001",
+      "chapter": 19,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Naik, mendaki",
+          "after": "Mendaki; naik"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-016",
+      "chapter": 19,
+      "number": 16,
+      "fields": {
+        "meaning": {
+          "before": "Sekalipun",
+          "after": "Sekali pun tidak …"
+        },
+        "note": {
+          "before": "",
+          "after": "Diikuti negatif: いちどもいったことがありません, belum pernah pergi sekali pun."
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-017",
+      "chapter": 19,
+      "number": 17,
+      "fields": {
+        "meaning": {
+          "before": "Sedikit demi sedikit, berangsur-angsur",
+          "after": "Berangsur-angsur"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-018",
+      "chapter": 19,
+      "number": 18,
+      "fields": {
+        "meaning": {
+          "before": "Tidak lama lagi, sebentar lagi",
+          "after": "Sebentar lagi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-019",
+      "chapter": 19,
+      "number": 19,
+      "fields": {
+        "meaning": {
+          "before": "Atas berkat ( doa ) anda",
+          "after": "Berkat bantuan Anda"
+        },
+        "note": {
+          "before": "",
+          "after": "Ungkapan terima kasih ketika menyampaikan keadaan baik; tidak harus merujuk doa."
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-021",
+      "chapter": 19,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Toast",
+          "after": "Bersulang!"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-023",
+      "chapter": 19,
+      "number": 23,
+      "fields": {
+        "jp": {
+          "before": "無理な",
+          "after": "無理"
+        },
+        "kana": {
+          "before": "むりな",
+          "after": "むり"
+        },
+        "meaning": {
+          "before": "Paksa, berlebihan, tidak mungkin",
+          "after": "Tidak mungkin; memaksakan diri"
+        },
+        "note": {
+          "before": "",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-025",
+      "chapter": 19,
+      "number": 25,
+      "fields": {
+        "meaning": {
+          "before": "Tokyo sky tree",
+          "after": "Tokyo Skitree"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-026",
+      "chapter": 19,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Upacara minum teh",
+          "after": "Seni upacara teh"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-028",
+      "chapter": 19,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Seni menulis huruf jepang",
+          "after": "Kaligrafi Jepang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-029",
+      "chapter": 19,
+      "number": 29,
+      "fields": {
+        "meaning": {
+          "before": "Kabuki (Drama tradisional jepang)",
+          "after": "Teater kabuki"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-030",
+      "chapter": 19,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Noh (Drama topeng tradisional)",
+          "after": "Teater noh"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-031",
+      "chapter": 19,
+      "number": 31,
+      "fields": {
+        "meaning": {
+          "before": "Bunraku (Wayang golek tradisional jepang)",
+          "after": "Teater boneka bunraku"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-032",
+      "chapter": 19,
+      "number": 32,
+      "fields": {
+        "meaning": {
+          "before": "Judo (Olahraga tradisional jepang)",
+          "after": "Judo (Olahraga tradisional Jepang)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-033",
+      "chapter": 19,
+      "number": 33,
+      "fields": {
+        "meaning": {
+          "before": "Kendo (Olahraga tradisional jepang)",
+          "after": "Kendo (Olahraga tradisional Jepang)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-034",
+      "chapter": 19,
+      "number": 34,
+      "fields": {
+        "meaning": {
+          "before": "Karate (olahraga beladiri jepang)",
+          "after": "Karate (olahraga beladiri Jepang)"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-035",
+      "chapter": 19,
+      "number": 35,
+      "fields": {
+        "jp": {
+          "before": "漫才。落語",
+          "after": "漫才・落語"
+        },
+        "kana": {
+          "before": "まんざい。らくご",
+          "after": "まんざい・らくご"
+        },
+        "meaning": {
+          "before": "Lelucon, komedi",
+          "after": "Seni komedi Jepang"
+        },
+        "note": {
+          "before": "",
+          "after": "漫才: komedi dialog; 落語: seni bercerita komedi oleh satu penutur. Keduanya tetap dikenalkan karena tergabung di sumber."
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-036",
+      "chapter": 19,
+      "number": 36,
+      "fields": {
+        "jp": {
+          "before": "囲碁。将棋",
+          "after": "囲碁・将棋"
+        },
+        "kana": {
+          "before": "いご。しょうぎ",
+          "after": "いご・しょうぎ"
+        },
+        "meaning": {
+          "before": "Catur jepang",
+          "after": "Permainan papan Jepang"
+        },
+        "note": {
+          "before": "",
+          "after": "囲碁: go; 将棋: shogi. Keduanya permainan berbeda; tidak tepat menyebut keduanya catur Jepang."
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-037",
+      "chapter": 19,
+      "number": 37,
+      "fields": {
+        "meaning": {
+          "before": "Pacinko",
+          "after": "Pachinko"
+        }
+      }
+    },
+    {
+      "id": "mn-v-19-039",
+      "chapter": 19,
+      "number": 39,
+      "fields": {
+        "meaning": {
+          "before": "Tarian bon",
+          "after": "Tari Bon"
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-002",
+      "chapter": 20,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Memeriksa, meneliti, mengecek",
+          "after": "Memeriksa"
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-004",
+      "chapter": 20,
+      "number": 4,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "Kata ganti aku, lazim dipakai laki-laki dalam situasi tertentu."
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-005",
+      "chapter": 20,
+      "number": 5,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "Sapaan kamu yang akrab atau dari pihak lebih tinggi; tidak otomatis sopan untuk semua orang."
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-006",
+      "chapter": 20,
+      "number": 6,
+      "fields": {
+        "meaning": {
+          "before": "Saudara~",
+          "after": "Sapaan akrab setelah nama"
+        },
+        "note": {
+          "before": "",
+          "after": "Sering untuk laki-laki yang lebih muda atau junior; penggunaan bergantung hubungan, bukan sapaan umum kepada semua orang."
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-009",
+      "chapter": 20,
+      "number": 9,
+      "fields": {
+        "meaning": {
+          "before": "Kata, kosakata, bahasa",
+          "after": "Kata; bahasa"
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-012",
+      "chapter": 20,
+      "number": 12,
+      "fields": {
+        "meaning": {
+          "before": "Awal, mula-mula",
+          "after": "Awal"
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-017",
+      "chapter": 20,
+      "number": 17,
+      "fields": {
+        "meaning": {
+          "before": "mana",
+          "after": "Sebelah mana?"
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-018",
+      "chapter": 20,
+      "number": 18,
+      "fields": {
+        "meaning": {
+          "before": "Kita semua",
+          "after": "Bersama-sama"
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-021",
+      "chapter": 20,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Kalau mau, kalau suka",
+          "after": "Kalau berkenan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-20-022",
+      "chapter": 20,
+      "number": 22,
+      "fields": {
+        "meaning": {
+          "before": "Macam-macam",
+          "after": "Bermacam-macam"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-001",
+      "chapter": 21,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Mengira, berfikir",
+          "after": "Berpikir"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-002",
+      "chapter": 21,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Berkata, mengatakan",
+          "after": "Mengatakan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-005",
+      "chapter": 21,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "Bermanfaat, berguna",
+          "after": "Berguna"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-006",
+      "chapter": 21,
+      "number": 6,
+      "fields": {
+        "meaning": {
+          "before": "Pindah, bergerak",
+          "after": "Bergerak"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-007",
+      "chapter": 21,
+      "number": 7,
+      "fields": {
+        "jp": {
+          "before": "やめます (を)",
+          "after": "やめます"
+        },
+        "meaning": {
+          "before": "Berhenti",
+          "after": "Berhenti melakukan"
+        },
+        "note": {
+          "before": "Partikel yang sering dipakai: を.",
+          "after": "Biasanya dengan を: しごとをやめます, berhenti bekerja."
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-008",
+      "chapter": 21,
+      "number": 8,
+      "fields": {
+        "meaning": {
+          "before": "Berhati-hati, berwaspada",
+          "after": "Berhati-hati"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-010",
+      "chapter": 21,
+      "number": 10,
+      "fields": {
+        "jp": {
+          "before": "むだな",
+          "after": "むだ"
+        },
+        "kana": {
+          "before": "むだな",
+          "after": "むだ"
+        },
+        "meaning": {
+          "before": "Sia-sia, tidak berguna",
+          "after": "Sia-sia"
+        },
+        "note": {
+          "before": "",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-011",
+      "chapter": 21,
+      "number": 11,
+      "fields": {
+        "jp": {
+          "before": "不便な",
+          "after": "不便"
+        },
+        "kana": {
+          "before": "ふべんな",
+          "after": "ふべん"
+        },
+        "note": {
+          "before": "",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-013",
+      "chapter": 21,
+      "number": 13,
+      "fields": {
+        "meaning": {
+          "before": "Betul, benar",
+          "after": "Benar"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-018",
+      "chapter": 21,
+      "number": 18,
+      "fields": {
+        "meaning": {
+          "before": "Siaran, pengumuman",
+          "after": "Berita"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-021",
+      "chapter": 21,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Desain, model",
+          "after": "Desain"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-023",
+      "chapter": 21,
+      "number": 23,
+      "fields": {
+        "meaning": {
+          "before": "Genius",
+          "after": "Jenius"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-030",
+      "chapter": 21,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Mungkin, barangkali",
+          "after": "Mungkin"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-031",
+      "chapter": 21,
+      "number": 31,
+      "fields": {
+        "meaning": {
+          "before": "Pasti",
+          "after": "Pasti (keyakinan pembicara)"
+        },
+        "note": {
+          "before": "",
+          "after": "きっと menunjukkan keyakinan atau harapan kuat pembicara, bukan jaminan fakta pasti."
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-037",
+      "chapter": 21,
+      "number": 37,
+      "fields": {
+        "meaning": {
+          "before": "Nama-nama jabatan",
+          "after": "Nama jabatan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-038",
+      "chapter": 21,
+      "number": 38,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "Empat jenis wilayah tingkat prefektur Jepang: 都・道・府・県."
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-040",
+      "chapter": 21,
+      "number": 40,
+      "fields": {
+        "meaning": {
+          "before": "Distrik, daerah",
+          "after": "Kota kecil"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-042",
+      "chapter": 21,
+      "number": 42,
+      "fields": {
+        "jp": {
+          "before": "首相 (内閣総理大臣)",
+          "after": "首相"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: ないかくそうりだいじん",
+          "after": "Nama jabatan lengkap: 内閣総理大臣（ないかくそうりだいじん）."
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-045",
+      "chapter": 21,
+      "number": 45,
+      "fields": {
+        "meaning": {
+          "before": "Kepala daerah",
+          "after": "Kepala kota kecil"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-049",
+      "chapter": 21,
+      "number": 49,
+      "fields": {
+        "meaning": {
+          "before": "Kepala TK",
+          "after": "Kepala lembaga"
+        },
+        "note": {
+          "before": "",
+          "after": "Misalnya kepala taman kanak-kanak, kebun binatang, atau lembaga bernama 園."
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-051",
+      "chapter": 21,
+      "number": 51,
+      "fields": {
+        "meaning": {
+          "before": "Direktur",
+          "after": "Eksekutif"
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-059",
+      "chapter": 21,
+      "number": 59,
+      "fields": {
+        "meaning": {
+          "before": "Kantor polisi",
+          "after": "Kepolisian"
+        },
+        "note": {
+          "before": "",
+          "after": "Organisasi kepolisian; kantor polisi adalah けいさつしょ."
+        }
+      }
+    },
+    {
+      "id": "mn-v-21-060",
+      "chapter": 21,
+      "number": 60,
+      "fields": {
+        "meaning": {
+          "before": "Kepala kantor polisi",
+          "after": "Kepala kantor"
+        },
+        "note": {
+          "before": "",
+          "after": "Kepala kantor seperti kantor polisi atau pemadam kebakaran, sesuai konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-001",
+      "chapter": 22,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Memakai (pakaian)",
+          "after": "Memakai pakaian"
+        },
+        "note": {
+          "before": "",
+          "after": "Untuk pakaian bagian atas atau seluruh tubuh, seperti kemeja dan mantel."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-002",
+      "chapter": 22,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Memakai (sepatu, celana)",
+          "after": "Memakai bawahan"
+        },
+        "note": {
+          "before": "",
+          "after": "Untuk celana, rok, kaus kaki atau alas kaki; makna mengikuti benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-003",
+      "chapter": 22,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Memakai (topi)",
+          "after": "Memakai penutup kepala"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-004",
+      "chapter": 22,
+      "number": 4,
+      "fields": {
+        "jp": {
+          "before": "かけます (を)",
+          "after": "かけます"
+        },
+        "meaning": {
+          "before": "Memakai (kacamata)",
+          "after": "Memakai kacamata"
+        },
+        "note": {
+          "before": "Partikel yang sering dipakai: を.",
+          "after": "めがねをかけます. Arti かけます bergantung benda yang menyertainya."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-005",
+      "chapter": 22,
+      "number": 5,
+      "fields": {
+        "jp": {
+          "before": "します (を)",
+          "after": "します"
+        },
+        "meaning": {
+          "before": "Memakai (dasi)",
+          "after": "Memakai dasi"
+        },
+        "note": {
+          "before": "Partikel yang sering dipakai: を.",
+          "after": "ネクタイをします. Dalam bab ini berarti memakai dasi; します juga dipakai dengan aksesori lain."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-007",
+      "chapter": 22,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Kami, kita",
+          "after": "Kami; kita"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-009",
+      "chapter": 22,
+      "number": 9,
+      "fields": {
+        "meaning": {
+          "before": "Sweter / baju hangat",
+          "after": "Sweter"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-017",
+      "chapter": 22,
+      "number": 17,
+      "fields": {
+        "meaning": {
+          "before": "Kondisi, keadaan",
+          "after": "Ketersediaan waktu"
+        },
+        "note": {
+          "before": "",
+          "after": "つごうがいい: waktunya cocok/tidak ada halangan. Dapat berarti keadaan atau kepentingan praktis dalam konteks lain."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-018",
+      "chapter": 22,
+      "number": 18,
+      "fields": {
+        "meaning": {
+          "before": "Sering, dengan baik",
+          "after": "Sering; dengan baik"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-023",
+      "chapter": 22,
+      "number": 23,
+      "fields": {
+        "meaning": {
+          "before": "Kamar ala jepang",
+          "after": "Kamar bergaya Jepang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-024",
+      "chapter": 22,
+      "number": 24,
+      "fields": {
+        "meaning": {
+          "before": "Lemari dinding ala jepang",
+          "after": "Lemari penyimpanan dinding"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-025",
+      "chapter": 22,
+      "number": 25,
+      "fields": {
+        "meaning": {
+          "before": "Selimut dan kasur berisi kapas ala jepang",
+          "after": "Perlengkapan tidur futon"
+        },
+        "note": {
+          "before": "",
+          "after": "Futon mencakup alas tidur dan/atau selimut Jepang, sesuai konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-027",
+      "chapter": 22,
+      "number": 27,
+      "fields": {
+        "meaning": {
+          "before": "Tembok besar cina",
+          "after": "Tembok Besar Tiongkok"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-029",
+      "chapter": 22,
+      "number": 29,
+      "fields": {
+        "meaning": {
+          "before": "Jas",
+          "after": "Pakaian luar"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-030",
+      "chapter": 22,
+      "number": 30,
+      "fields": {
+        "meaning": {
+          "before": "Celana panjang",
+          "after": "Celana"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam konteks busana modern: celana. Dalam konteks lain パンツ juga dapat berarti celana dalam."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-031",
+      "chapter": 22,
+      "number": 31,
+      "fields": {
+        "meaning": {
+          "before": "Celana jeans",
+          "after": "Celana jin"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-035",
+      "chapter": 22,
+      "number": 35,
+      "fields": {
+        "meaning": {
+          "before": "Shal, selendang",
+          "after": "Syal"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-036",
+      "chapter": 22,
+      "number": 36,
+      "fields": {
+        "meaning": {
+          "before": "Kaos kaki",
+          "after": "Kaus kaki"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-039",
+      "chapter": 22,
+      "number": 39,
+      "fields": {
+        "meaning": {
+          "before": "Sabuk, ikat pinggang",
+          "after": "Ikat pinggang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-042",
+      "chapter": 22,
+      "number": 42,
+      "fields": {
+        "meaning": {
+          "before": "Sandal tradisional jepang",
+          "after": "Sandal zori"
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-043",
+      "chapter": 22,
+      "number": 43,
+      "fields": {
+        "meaning": {
+          "before": "Kaos kaki tradisional jepang",
+          "after": "Kaus kaki tabi"
+        },
+        "note": {
+          "before": "",
+          "after": "Kaus kaki tradisional Jepang dengan bagian ibu jari terpisah."
+        }
+      }
+    },
+    {
+      "id": "mn-v-22-044",
+      "chapter": 22,
+      "number": 44,
+      "fields": {
+        "meaning": {
+          "before": "Ikat pinggang tradisional jepang",
+          "after": "Sabuk obi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-003",
+      "chapter": 23,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Menarik, tarik",
+          "after": "Menarik"
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-010",
+      "chapter": 23,
+      "number": 10,
+      "fields": {
+        "meaning": {
+          "before": "Sepi",
+          "after": "Kesepian"
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-012",
+      "chapter": 23,
+      "number": 12,
+      "fields": {
+        "meaning": {
+          "before": "Suara, bunyi",
+          "after": "Bunyi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-016",
+      "chapter": 23,
+      "number": 16,
+      "fields": {
+        "meaning": {
+          "before": "Perempatan",
+          "after": "Persimpangan"
+        },
+        "note": {
+          "before": "",
+          "after": "Tidak terbatas pada perempatan; mencakup persimpangan jalan."
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-021",
+      "chapter": 23,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Bangunan, gedung",
+          "after": "Bangunan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-026",
+      "chapter": 23,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Jalan mobil",
+          "after": "Jalur kendaraan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-027",
+      "chapter": 23,
+      "number": 27,
+      "fields": {
+        "meaning": {
+          "before": "Jalan tol",
+          "after": "Jalan bebas hambatan"
+        },
+        "note": {
+          "before": "",
+          "after": "Jalan bebas hambatan; banyak yang berbayar, tetapi bukan arti harfiah khusus jalan tol."
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-029",
+      "chapter": 23,
+      "number": 29,
+      "fields": {
+        "meaning": {
+          "before": "Tempat menyeberang, zebra cros",
+          "after": "Zebra cross"
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-032",
+      "chapter": 23,
+      "number": 32,
+      "fields": {
+        "meaning": {
+          "before": "Lintasan kereta api",
+          "after": "Perlintasan kereta api"
+        },
+        "note": {
+          "before": "",
+          "after": "Tempat jalan melintasi rel kereta, bukan seluruh lintasan rel."
+        }
+      }
+    },
+    {
+      "id": "mn-v-23-033",
+      "chapter": 23,
+      "number": 33,
+      "fields": {
+        "meaning": {
+          "before": "Pompa bensin, pom bensin",
+          "after": "SPBU"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-001",
+      "chapter": 24,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Diberikan",
+          "after": "Memberi kepada saya"
+        },
+        "note": {
+          "before": "",
+          "after": "Pemberi orang lain; penerima saya atau pihak saya. Bentuk aktif memberi, bukan pasif diberikan."
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-002",
+      "chapter": 24,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Mengoreksi, memperbaiki",
+          "after": "Memperbaiki"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-003",
+      "chapter": 24,
+      "number": 3,
+      "fields": {
+        "meaning": {
+          "before": "Mengajak pergi, membawa, mengantarkan",
+          "after": "Mengajak pergi"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-004",
+      "chapter": 24,
+      "number": 4,
+      "fields": {
+        "meaning": {
+          "before": "Membawa datang, membawa datang",
+          "after": "Mengajak datang"
+        },
+        "note": {
+          "before": "",
+          "after": "Membawa orang datang ke arah pembicara/titik acuan. Untuk benda gunakan もってきます."
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-007",
+      "chapter": 24,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Memandu, mengantarkan",
+          "after": "Memandu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-008",
+      "chapter": 24,
+      "number": 8,
+      "fields": {
+        "meaning": {
+          "before": "Menjelaskan, menerangkan",
+          "after": "Menjelaskan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-009",
+      "chapter": 24,
+      "number": 9,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "おじいちゃん adalah sapaan lebih akrab daripada おじいさん."
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-010",
+      "chapter": 24,
+      "number": 10,
+      "fields": {
+        "note": {
+          "before": "",
+          "after": "おばあちゃん adalah sapaan lebih akrab daripada おばあさん."
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-013",
+      "chapter": 24,
+      "number": 13,
+      "fields": {
+        "meaning": {
+          "before": "Kue, snack, makanan ringan",
+          "after": "Camilan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-016",
+      "chapter": 24,
+      "number": 16,
+      "fields": {
+        "meaning": {
+          "before": "Dengan sendiri",
+          "after": "Sendiri"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-017",
+      "chapter": 24,
+      "number": 17,
+      "fields": {
+        "meaning": {
+          "before": "Selain, yang lain",
+          "after": "Selain itu"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-018",
+      "chapter": 24,
+      "number": 18,
+      "fields": {
+        "meaning": {
+          "before": "Hari ibu",
+          "after": "Hari Ibu"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam konteks Jepang: Hari Ibu. Tanggal perayaan berbeda menurut negara."
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-019",
+      "chapter": 24,
+      "number": 19,
+      "fields": {
+        "meaning": {
+          "before": "Tukar menukar hadiah",
+          "after": "Kebiasaan memberi hadiah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-020",
+      "chapter": 24,
+      "number": 20,
+      "fields": {
+        "meaning": {
+          "before": "Hadiah kecil yang diberikan orang tua dan keluarga kepada anak-anak pada tahun baru",
+          "after": "Uang Tahun Baru untuk anak"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-021",
+      "chapter": 24,
+      "number": 21,
+      "fields": {
+        "meaning": {
+          "before": "Hadiah yang diberikan kepada anak yang masuk sekolah",
+          "after": "Hadiah masuk sekolah"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-022",
+      "chapter": 24,
+      "number": 22,
+      "fields": {
+        "meaning": {
+          "before": "Hadiah yang diberikan kepada anak yang tamat sekolah",
+          "after": "Hadiah kelulusan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-023",
+      "chapter": 24,
+      "number": 23,
+      "fields": {
+        "meaning": {
+          "before": "Hadiah perkawinan",
+          "after": "Hadiah pernikahan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-024",
+      "chapter": 24,
+      "number": 24,
+      "fields": {
+        "meaning": {
+          "before": "Hadiah yang diberikan kepada orang yang melahirkan",
+          "after": "Hadiah kelahiran"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-025",
+      "chapter": 24,
+      "number": 25,
+      "fields": {
+        "meaning": {
+          "before": "Hadiah yang diberikan kepada orang yang telah memberi bantuan",
+          "after": "Hadiah musiman sebagai terima kasih"
+        },
+        "note": {
+          "before": "",
+          "after": "お中元: hadiah pertengahan tahun; お歳暮: hadiah akhir tahun."
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-026",
+      "chapter": 24,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Uang yang diberikan kepada keluarga yang berduka/ uang duka",
+          "after": "Uang duka"
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-027",
+      "chapter": 24,
+      "number": 27,
+      "fields": {
+        "meaning": {
+          "before": "Hadiah yang diberikan kepada orang yang sedang sakit",
+          "after": "Bingkisan untuk orang sakit"
+        },
+        "note": {
+          "before": "",
+          "after": "お見舞い juga dapat berarti kunjungan kepada orang sakit; makna mengikuti konteks."
+        }
+      }
+    },
+    {
+      "id": "mn-v-24-028",
+      "chapter": 24,
+      "number": 28,
+      "fields": {
+        "meaning": {
+          "before": "Amplop khusus untuk hadiah uang",
+          "after": "Amplop hadiah uang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-001",
+      "chapter": 25,
+      "number": 1,
+      "fields": {
+        "meaning": {
+          "before": "Berfikir, memikirkan",
+          "after": "Memikirkan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-002",
+      "chapter": 25,
+      "number": 2,
+      "fields": {
+        "meaning": {
+          "before": "Tiba, sampai",
+          "after": "Tiba"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-003",
+      "chapter": 25,
+      "number": 3,
+      "fields": {
+        "jp": {
+          "before": "取ります",
+          "after": "年を取ります"
+        },
+        "kana": {
+          "before": "とります",
+          "after": "としをとります"
+        },
+        "meaning": {
+          "before": "Berumur, usia lanjut",
+          "after": "Bertambah usia"
+        },
+        "note": {
+          "before": "Petunjuk pemakaian: としを～",
+          "after": "年を取る adalah ungkapan bertambah usia; 取ります sendiri berarti mengambil."
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-005",
+      "chapter": 25,
+      "number": 5,
+      "fields": {
+        "meaning": {
+          "before": "Desa, kampung halaman",
+          "after": "Pedesaan"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-007",
+      "chapter": 25,
+      "number": 7,
+      "fields": {
+        "meaning": {
+          "before": "Ratus juta",
+          "after": "Seratus juta"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-010",
+      "chapter": 25,
+      "number": 10,
+      "fields": {
+        "meaning": {
+          "before": "Pindah kerja, pindah ke kantor cabang lain",
+          "after": "Mutasi kerja"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-012",
+      "chapter": 25,
+      "number": 12,
+      "fields": {
+        "jp": {
+          "before": "暇な",
+          "after": "暇"
+        },
+        "kana": {
+          "before": "ひまな",
+          "after": "ひま"
+        },
+        "meaning": {
+          "before": "Senggang, waktu luang",
+          "after": "Senggang"
+        },
+        "note": {
+          "before": "",
+          "after": "Sifat-na: gunakan な sebelum kata benda."
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-013",
+      "chapter": 25,
+      "number": 13,
+      "fields": {
+        "kana": {
+          "before": "いろいろおせわいなりました",
+          "after": "いろいろ おせわに なりました"
+        },
+        "meaning": {
+          "before": "Terima kasih banyak bantuan anda yang telah diberikan",
+          "after": "Terima kasih atas segala bantuan Anda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-014",
+      "chapter": 25,
+      "number": 14,
+      "fields": {
+        "meaning": {
+          "before": "Berusaha, bekerja keras",
+          "after": "Berusaha sebaik mungkin"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-016",
+      "chapter": 25,
+      "number": 16,
+      "fields": {
+        "meaning": {
+          "before": "Seumur hidup manusia",
+          "after": "Kehidupan seseorang"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-017",
+      "chapter": 25,
+      "number": 17,
+      "fields": {
+        "meaning": {
+          "before": "Remaja",
+          "after": "Pemuda"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-019",
+      "chapter": 25,
+      "number": 19,
+      "fields": {
+        "meaning": {
+          "before": "Orang tua",
+          "after": "Lansia"
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-020",
+      "chapter": 25,
+      "number": 20,
+      "fields": {
+        "meaning": {
+          "before": "Play group",
+          "after": "Tempat penitipan anak"
+        },
+        "note": {
+          "before": "",
+          "after": "保育園 adalah lembaga penitipan/pengasuhan anak; tidak sama persis dengan playgroup."
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-022",
+      "chapter": 25,
+      "number": 22,
+      "fields": {
+        "meaning": {
+          "before": "Akademi",
+          "after": "Perguruan tinggi dua atau tiga tahun"
+        },
+        "note": {
+          "before": "",
+          "after": "短大 singkatan dari 短期大学; pendidikan tinggi jangka pendek di Jepang, umumnya dua atau tiga tahun."
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-023",
+      "chapter": 25,
+      "number": 23,
+      "fields": {
+        "meaning": {
+          "before": "Sekolah tinggi keahlian, sekolah kejuruan",
+          "after": "Sekolah kejuruan"
+        },
+        "note": {
+          "before": "",
+          "after": "Dalam konteks pendidikan Jepang, lembaga pelatihan keahlian setelah sekolah menengah; bukan otomatis padanan SMK Indonesia."
+        }
+      }
+    },
+    {
+      "id": "mn-v-25-026",
+      "chapter": 25,
+      "number": 26,
+      "fields": {
+        "meaning": {
+          "before": "Menikah lagi",
+          "after": "Menikah kembali"
+        }
+      }
+    }
+  ],
+  "references": [
+    {
+      "url": "https://a2-2.marugotoweb.jp/en/kanji/vocab/shizuka/",
+      "scope": "静か/しずか"
+    },
+    {
+      "url": "https://www.maff.go.jp/j/seisan/tokusan/kansho/kakudai/manabu/question.html",
+      "scope": "Penulisan 砂糖 untuk gula"
+    },
+    {
+      "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou/kaku.html",
+      "scope": "Nama hari libur; 体育の日 menjadi スポーツの日 sejak 2020"
+    },
+    {
+      "url": "https://www.maff.go.jp/j/tokei/kouhyou/suisan_ryutu/syohiti/gaiyou/",
+      "scope": "Pembedaan kelompok ikan aji, saba, tai dan tara"
+    },
+    {
+      "url": "https://www.fishbase.se/Summary/SpeciesSummary.php?id=366&lang=japanese",
+      "scope": "Identitas Japanese jack mackerel"
+    },
+    {
+      "url": "https://www.jp-bank.japanpost.jp/kojin/chokin/furikae/kj_cho_fe_index.html",
+      "scope": "Istilah transfer antar rekening"
+    },
+    {
+      "url": "https://www.3anet.co.jp/minnaqa.html",
+      "scope": "Kosakata diajarkan menurut bab, termasuk kosakata rujukan"
+    }
+  ],
+  "preserved": {
+    "chapters26to50Sha256": "830b7d7c5cff36108571eda5ac5bcf4b62ae9d763340b3e37bef77fc672e271b",
+    "grammarSha256": "7166b9931c021c7da934e333efd116d11588f35d8d76239f264f0009967500a0"
+  }
+}

@@ -19,3 +19,5 @@
 
 /* The app shell scrolls normally; only reader content handles pinch scaling. */
 html,body{touch-action:pan-x pan-y}.summary-continuous{touch-action:pan-x pan-y}.summary-book-sheet img{-webkit-user-drag:none;user-select:none}.summary-book-source{margin:12px 0 28px;font-size:14px;line-height:1.9;color:var(--muted);overflow-wrap:anywhere}.summary-book-source a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}.summary-book-card div>p+p{margin-top:8px;font-size:12px;line-height:1.7}
+
+.summary-word-detail{margin-top:15px;font-size:14px;line-height:1.9;color:var(--muted)}.summary-word-detail summary{cursor:pointer;min-height:44px;display:flex;align-items:center;gap:8px;color:var(--green)}.summary-word-detail summary::before{content:"▸"}.summary-word-detail[open] summary::before{content:"▾"}.summary-word-detail p{margin:8px 0;overflow-wrap:anywhere}

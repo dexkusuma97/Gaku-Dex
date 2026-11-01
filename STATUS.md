@@ -1274,3 +1274,10 @@ Sesuai permintaan pengguna, hapus panel tambahan “Coba satu situasi lain di Ba
 100 pola Bab 26–50 ditinjau: fungsi, pembentukan, contoh terurai dan catatan. Total 50 bab/230 pola interaktif, 216 latihan susun + 14 ungkapan. Arti kalimat pada Bongkar langsung terlihat setelah romaji pada semua bab; lipatan khusus catatan. Tidak menambahkan kembali cek situasi dari paket 19. Judul Bab 46 menghindari klaim pasti.
 
 44 berkas tes lulus; cakupan kegiatan dan terjemahan semua 230 pola. Build stabil; kosakata/pertanyaan semua bab dan data Bab 1–25 identik dengan paket 19. Browser lebar 390 piksel diperiksa pada Bab 1/26/50. Belum Android fisik atau uji pemahaman peserta. Rincian: data/RANGKUMAN_26_50_20261101.md. Audit kosakata rangkuman satu per satu masih belum dilakukan. Paket kumulatif 1–19.
+
+
+## 1 November 2026 — Batch 21: audit kosakata Rangkuman Bab 1–25
+
+1.357 entri ditinjau internal; 536 entri dikoreksi pada Jepang/kana/arti/catatan (termasuk normalisasi ejaan). Tambahkan arti utama tunggal dan romaji yang dapat dicari pada semua 1.357 entri. Daftar menampilkan satu arti; detail tambahan dilipat. Sifat-na, arah memberi, konteks kata, istilah bank, nama ikan dan nama lama hari olahraga dijelaskan. ID, nomor, halaman dan urutan tetap; pengulangan lintas bab dipertahankan.
+
+45 berkas tes lulus; browser 390 piksel memeriksa hasil shizuka, pencarian bersih dan buka detail. Build stabil. Seluruh grammar/cek/fokus dan Bab 26–50 identik dengan paket 20. Tersisa 1.553 kosakata Bab 26–50 untuk audit berikutnya. Rincian/catatan perubahan: data/RANGKUMAN_VOCAB_01_25_20261101.md dan data/rangkuman-vocab-review-01-25.json. Belum Android fisik atau uji pemahaman peserta. Paket kumulatif 1–20.
