@@ -1255,3 +1255,10 @@ Tambahkan dua entri Starter A1 Katsudo/Rikai pada Rangkuman → Buku. Keduanya m
 Tambahkan pembesaran cubit 100–300% dalam area buku dengan jangkar posisi, panning/scroll, tombol zoom dan Ctrl+wheel. Batasi zoom sentuh halaman aplikasi lewat viewport/CSS dan pencegahan gestur browser. Route buku menerima ID tersedia; posisi masing-masing entri terpisah dan kompatibel dengan penyimpanan lama.
 
 43 berkas tes lulus, build stabil, hash 82 aset terverifikasi, sampel render PDF diperiksa visual. Tes gestur adalah simulasi DOM; belum uji browser/Android fisik. Asal/hash PDF, proses render dan batas pemeriksaan ada di data/RANGKUMAN_BOOKS_UPDATE_20261101.md. Paket kumulatif, backup/conflict gate/rollback, tanpa commit/push/deploy otomatis.
+
+
+## 1 November 2026 — Batch 18: Rangkuman interaktif Bab 1–25
+
+130 pola ditinjau untuk pemula mandiri dari nol: tujuan, penjelasan singkat, resep, contoh terurai dengan bacaan berjarak, dan catatan. Alur satu pola: Pahami → Bongkar → Coba; ketuk potongan untuk arti/fungsi dan suara perangkat; 119 latihan susun + 11 ungkapan singkat, petunjuk, koreksi dan ulang. Tabel/daftar serta cek situasi bab tetap tersedia. Tanpa skor/penandaan selesai baru.
+
+Bab 26–50 identik; seluruh kosakata dan pertanyaan bab dipertahankan. Kosakata rangkuman belum diaudit satu per satu. Buku/zoom/atribusi dan seluruh perbaikan 1–17 termasuk. 44 berkas tes lulus; browser desktop dan area 390 piksel diperiksa, belum Android fisik atau uji pemahaman pemula. Rincian di data/RANGKUMAN_INTERACTIVE_20261101.md. Selanjutnya: audit/interaksi Bab 26–50 dan audit kosakata rangkuman.
