@@ -1,9 +1,9 @@
 {
   "date": "2026-11-01",
-  "batch": 14,
+  "batch": 15,
   "total": 115,
-  "reviewed_count": 23,
-  "remaining_count": 92,
+  "reviewed_count": 115,
+  "remaining_count": 0,
   "reviewed_ids": [
     "n4-passive",
     "n4-causative",
@@ -27,9 +27,7 @@
     "n4-tewa-ikenai",
     "n4-nakutemo-ii",
     "n4-naide",
-    "n4-necessary"
-  ],
-  "remaining_ids": [
+    "n4-necessary",
     "n4-volitional",
     "n4-volitional-plan",
     "n4-tsumori",
@@ -123,8 +121,9 @@
     "n4-kyuuni",
     "n4-janai-ka"
   ],
+  "remaining_ids": [],
   "audience": "Baru selesai N5; penjelasan ringkas untuk awal N4/A2, bukan penyetaraan resmi",
-  "method": "Tinjau fungsi, pembentukan, partikel, kesopanan, kedua contoh beserta bacaan/arti, tabel, kesalahan dan cek yang tersedia. Tulis ulang penjelasan/pola/catatan untuk pemula; contoh yang sudah sesuai dipertahankan. Rujukan eksternal memverifikasi titik tata bahasa tertentu sesuai scope masing-masing, bukan sertifikasi seluruh 23 materi.",
+  "method": "Audit editorial internal atas fungsi, pembentukan, partikel, kesopanan, seluruh contoh beserta bacaan dan arti, tabel, kesalahan dan cek yang tersedia. Penjelasan ringkas dan rumus konkret untuk pembelajar pasca-N5. Rujukan memverifikasi titik tertentu sesuai scope, bukan sertifikasi seluruh materi.",
   "external_references": [
     {
       "id": "jpf-passive",
@@ -145,6 +144,36 @@
       "id": "tufs-tearu",
       "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/046.html",
       "scope": "Transitivitas; hasil tindakan sengaja; persiapan dengan を"
+    },
+    {
+      "id": "jpf-purpose",
+      "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201310.html",
+      "scope": "Tujuan ために／ように; hasil versus maksud tindakan"
+    },
+    {
+      "id": "jpf-evidence",
+      "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html",
+      "scope": "Perbedaan kesan, dugaan dan kabar そう／よう／らしい"
+    },
+    {
+      "id": "tufs-benefit",
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/card/086.html",
+      "scope": "Sudut pandang pemberi dan penerima bantuan"
+    },
+    {
+      "id": "tufs-honorific",
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/092.html",
+      "scope": "Bentuk hormat dan rendah hati; batas rumus お～になる"
+    },
+    {
+      "id": "tufs-endings",
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/096.html",
+      "scope": "Pertanyaan akrab, かしら, なあ, dan penyambungan だ"
+    },
+    {
+      "id": "jpf-shika",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00122/ja/render.do",
+      "scope": "Pembatasan しか dengan akhir negatif"
     }
   ],
   "changes": {
@@ -334,13 +363,774 @@
         "note"
       ],
       "examples_reviewed": 2
+    },
+    "n4-volitional": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-volitional-plan": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tsumori": {
+      "fields": [
+        "explanation",
+        "patterns"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-yotei": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-koto-ni-suru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-koto-ni-naru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tameni": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-youni-purpose": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-youni-suru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-youni-naru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-aida": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-made-ni": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tokoro": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 3
+    },
+    "n4-ta-bakari": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-mama": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-ta-koto-aru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-koto-ga-aru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-oku": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-shimau": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-miru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-iku-kuru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-toori": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-nagara": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-ageru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-kureru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-morau": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-hoshii": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-houga-ii": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tara-dou": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tara-ii-question": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-sumimasen": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-yokatta": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-bakari": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-shika": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-hodo-negative": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-zutsu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-oki-ni": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-mo-quantity": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-dake-de": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-material-kara": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-demo-example": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-demo-even": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-question-temo": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-ndesu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-node": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-noni-contrast": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-temo": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-shi": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-te-cause": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-noni-purpose": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-soredemo": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-soreni": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-embedded-ka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-ka-douka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-to-omou": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-toiu-label": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-toiu-koto": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-toittemo-ii": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-toka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-matawa": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tokorode": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-tatoeba": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-sou-appearance": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-sou-hearsay": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-you-mitai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-rashii": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-hazu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-kamo": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-darou": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-ni-mieru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-yasui": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-nikui-zurai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-sugiru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-kata": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-adjective-sa": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-garu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-verb-stages": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 4
+    },
+    "n4-respect": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-humble": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-gozaimasu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-polite-request": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-kana-kashira": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-kai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-naa": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-nakanaka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-yatto": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-kitto": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-zehi": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-sasuga": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-sonnani": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-kyuuni": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "n4-janai-ka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
     }
   },
   "preserved": [
-    "115 ID, concept, level, category, order, sumber asal",
-    "233 contoh total; 16 cek",
-    "92 materi urutan 24–115 identik",
-    "Bunpo N5 identik; Kotoba/Kanji identik dengan paket 13"
+    "115 ID, concept, level, kategori, urutan dan sumber asal",
+    "233 contoh total dan 16 cek; tabel yang ada tetap",
+    "23 materi batch 14 identik",
+    "Bunpo N5, Kotoba, Kanji identik dengan paket 14"
   ],
-  "baseline_sha256": "d0b09f5c98c8acb2e768c1fb7ea8bcf123d53e13f7624561c9305ca9a8f87c4b"
+  "baseline_sha256": "d0b09f5c98c8acb2e768c1fb7ea8bcf123d53e13f7624561c9305ca9a8f87c4b",
+  "batches": [
+    {
+      "batch": 14,
+      "range": [
+        1,
+        23
+      ],
+      "lessons": 23,
+      "examples_reviewed": 46
+    },
+    {
+      "batch": 15,
+      "range": [
+        24,
+        115
+      ],
+      "lessons": 92,
+      "examples_reviewed": 187
+    }
+  ],
+  "batch15_baseline_sha256": "1f91670cb4cbaced073584781b367d5f38d84fb5501673cc8ffa7ef312b99783"
 }

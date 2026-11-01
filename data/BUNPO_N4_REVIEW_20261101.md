@@ -1,33 +1,45 @@
-# Bunpo N4 — batch 14, 1 November 2026
+# Bunpo N4 — audit editorial 1 November 2026
 
-Audit pemula setelah N5: **23 dari 115 materi** selesai ditinjau pada batch ini, urutan 1–23. **92 materi berikutnya masih menunggu**. Ini audit editorial internal, bukan sertifikasi pengajar eksternal atau penyetaraan resmi N4 dengan CEFR A2.
+**115/115 materi dan 233 contoh sudah ditinjau secara internal.** Batch 14 menangani urutan 1–23 (46 contoh); batch 15 menyelesaikan urutan 24–115 (187 contoh). Antrean audit tahap ini nol. Ini bukan sertifikasi pengajar eksternal, silabus resmi JLPT, atau penyetaraan resmi N4 dengan CEFR A2.
 
-## Lingkup
+## Standar penjelasan
 
-- Bentuk pasif, kausatif, kausatif pasif, meminta izin kausatif, perintah, なさい dan larangan な.
-- Transitif/intransitif, てある, 見える／聞こえる, がする dan に気がつく.
-- ば／たら／と／なら dan 場合は.
-- Kewajiban, izin, larangan, tidak perlu, tanpa melakukan, dan 必要.
+Ditujukan bagi pelajar yang baru selesai N5. Penjelasan utama satu paragraf singkat, fungsi disebutkan lebih dulu, pembentukan berada di bagian rumus dengan perubahan kata konkret, dan catatan berfokus pada pembeda yang perlu. Bantuan lipat istilah N5 pada detail dipertahankan. Penjelasan bukan pembahasan lengkap seluruh penggunaan lanjutan setiap pola.
 
-Seluruh 23 penjelasan, rumus, dan catatan ditulis ulang dengan bahasa yang lebih langsung. Penjelasan utama sekitar satu paragraf singkat; pembentukan dipisahkan menjadi rumus dengan perubahan konkret. Kedua contoh pada setiap materi (46 contoh) ditinjau beserta kana dan arti. Satu contoh kausatif diganti untuk memperlihatkan makna membiarkan; satu terjemahan てある diperjelas agar keadaan hasilnya terlihat. Contoh lain yang sudah sesuai dipertahankan.
+## Batch 14
 
-Contoh pembenahan: kausatif sekarang mempunyai contoh **母は子どもを公園で遊ばせました。** / **はは は こども を こうえん で あそばせました。** / “Ibu membiarkan anak bermain di taman.” Ini melengkapi contoh pertama tentang menyuruh anak makan sayur.
+23 materi awal: bentuk kata kerja, keadaan, syarat, izin dan kewajiban. Seluruh penjelasan/pola/catatan diperjelas; 46 contoh ditinjau. Satu contoh kausatif diganti untuk menunjukkan membiarkan, satu terjemahan てある diperjelas, dan tabel ている／てある ditambahkan. Seluruh hasil ini identik dalam batch 15.
 
-Kausatif pasif menjelaskan pembentukan dari kausatif, dan mengingatkan bahwa singkatan golongan I tidak diterapkan pada akhiran す. のに pada に気がつく dijelaskan sebagai の + に, agar tidak dibaca sebagai meskipun. Perbedaan izin, larangan, dan tidak wajib ditunjukkan secara langsung. Tabel perbandingan hasil ている／てある ditambahkan.
+## Batch 15
 
-Detail N4 mempunyai bantuan lipat “Ingat kembali bekal N5”: bentuk kamus/biasa, tiga golongan kata kerja, pangkal ます, sifat-i/na, dan arti A/B. Bantuan ini dilipat supaya penjelasan utama tetap pendek. Pembaca tetap perlu belajar golongan kata kerja sebagai kosakata; akhiran る tidak otomatis berarti golongan II.
+92 materi berikutnya meliputi rencana/tujuan, waktu, cara tindakan, bantuan, saran, jumlah, penghubung, pertanyaan di dalam kalimat, pelaporan/dugaan, bentukan kata, bahasa hormat, dan percakapan.
 
-## Rujukan pemeriksaan titik tata bahasa
+- Tulis ulang 92 penjelasan, beserta rumus dan catatan yang relevan. Bedakan keputusan/upaya/perubahan, tujuan ために／ように, 間／間に, まで／までに, たところ／たばかり, dan pengalaman versus kejadian sesekali.
+- Perjelas pemberi/penerima bantuan; に tidak dipaksakan pada semua konstruksi てあげる. てもらう tidak otomatis berarti bantuan itu diminta secara eksplisit.
+- Perjelas bentuk positif kini N/sifat-na dibanding negatif/lampau, termasuk んです／ので／のに, pertanyaan sisipan, dugaan, serta akhiran percakapan.
+- Tambahkan contoh rumus しかない yang berarti tidak ada pilihan selain, dan 勉強する→勉強の仕方 agar rumus 方 tidak menghasilkan bentuk keliru.
+- Batasi rumus お～になる dan お～ください pada gabungan yang lazim. Bedakan tindakan orang dihormati dari tindakan diri/pihak sendiri.
+- Tinjau seluruh 187 contoh berikut kana dan terjemahannya. Dua contoh Jepang diganti: ばかり kini menunjukkan Vてばかりいる; はずがない memakai dasar jadwal tutup toko, mengganti asumsi kemampuan berdasarkan usia. Tiga arti diperhalus pada てもらう, てほしい, dan やっと. Bacaan contoh pengganti tetap berspasi. Contoh lain yang sudah sesuai dipertahankan.
 
-- Japan Foundation, pembentukan pasif: https://www.kyozai.jpf.go.jp/kyozai/material/BTS00061/ja/render.do
-- Japan Foundation, pembentukan kausatif pasif dan singkatannya: https://www.kyozai.jpf.go.jp/kyozai/material/BMA00076/ja/render.do
-- Tokyo University of Foreign Studies, perbandingan kondisi: https://www.coelang.tufs.ac.jp/mt/ja/gmod/courses/c02/lesson42/step1/explanation/083.html
-- Tokyo University of Foreign Studies, hasil tindakan sengaja/persiapan てある dan transitivitas: https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/046.html
+## Rujukan titik tata bahasa
 
-Rujukan diakses 1 November 2026 untuk bagian yang disebutkan; bukan klaim bahwa sumber mengesahkan seluruh materi aplikasi. Penjelasan Indonesia ditulis orisinal. Provenans PDF awal tetap disimpan tanpa perubahan. Rincian cakupan dan antrean ada di `bunpo-n4-editorial-review.json`.
+Rujukan diakses 1 November 2026. Scope per sumber dicatat pada `bunpo-n4-editorial-review.json`; sumber tidak dianggap mengesahkan seluruh materi. Penjelasan Indonesia ditulis orisinal dan provenans PDF awal tetap.
 
-## Pemeriksaan
+- Pembentukan pasif: https://www.kyozai.jpf.go.jp/kyozai/material/BTS00061/ja/render.do
+- Kausatif menjadi pasif; singkatan golongan I kecuali akhiran す: https://www.kyozai.jpf.go.jp/kyozai/material/BMA00076/ja/render.do
+- Perbedaan fungsi, pembentukan, dan urutan と／ば／たら／なら: https://www.coelang.tufs.ac.jp/mt/ja/gmod/courses/c02/lesson42/step1/explanation/083.html
+- Transitivitas; hasil tindakan sengaja; persiapan dengan を: https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/046.html
+- Tujuan ために／ように; hasil versus maksud tindakan: https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201310.html
+- Perbedaan kesan, dugaan dan kabar そう／よう／らしい: https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html
+- Sudut pandang pemberi dan penerima bantuan: https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/card/086.html
+- Bentuk hormat dan rendah hati; batas rumus お～になる: https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/092.html
+- Pertanyaan akrab, かしら, なあ, dan penyambungan だ: https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/096.html
+- Pembatasan しか dengan akhir negatif: https://www.kyozai.jpf.go.jp/kyozai/material/BTS00122/ja/render.do
 
-115 materi, 14 kategori, 233 contoh dan 16 cek tetap. ID, concept, level, urutan dan sumber tetap. Materi urutan 24–115 identik dengan paket 13. Data Bunpo N5 serta seluruh Kotoba/Kanji identik dengan paket 13. Build ulang Bunpo stabil; tes memeriksa kesamaan JSON sumber dengan bundle browser, keluarnya teks di detail, pencarian, favorit, navigasi, dan pemisahan level. Lulus 42 berkas tes keseluruhan. Pemeriksaan render memakai VM, belum browser visual atau perangkat Android fisik.
+## Validasi dan batas pemeriksaan
 
-Paket 14 kumulatif mencakup seluruh pembaruan paket 1–13. Pemasang membuat cadangan, menolak file yang berbeda dari versi dikenal, dan memulihkan target jika tes gagal; tidak melakukan commit, push atau deploy otomatis.
+Tetap 115 materi, 14 kategori, 233 contoh, dan 16 cek. ID, concept, level, kategori, urutan, serta sumber asal dipertahankan. Bunpo N5 serta seluruh data Kotoba/Kanji identik dengan paket 14. Bundle dibangun ulang dari JSON dan hasil rebuild stabil. Semua 42 berkas tes lulus, termasuk pencocokan seluruh 115 materi sumber dengan bundle browser dan teks detail, pencarian, favorit, navigasi, dan pemisahan level.
+
+Audit editorial internal selesai untuk cakupan data yang ada; ini tidak menjamin semua kemungkinan nuansa bahasa, atau berarti jumlah materi sama dengan daftar resmi JLPT. Render diperiksa melalui VM; belum diuji visual pada browser atau Android fisik.
+
+Paket 15 kumulatif mencakup pembaruan 1–14. Pemasang memeriksa hash, membuat cadangan, menolak konflik, dan memulihkan target jika tes gagal. Tes pemasang dijalankan dengan PYTHONDONTWRITEBYTECODE=1 untuk mencegah perubahan cache Python baru. Pemasang tidak melakukan commit, push, atau deploy.

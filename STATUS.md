@@ -1228,3 +1228,12 @@ Tinjau 23 materi awal (urutan 1–23) dan 46 contohnya: bentuk kata kerja, keada
 Tetap 115 materi, 14 kategori, 233 contoh dan 16 cek. ID, level, urutan dan provenans tetap; 92 materi urutan 24–115 belum diaudit pada tahap ini dan identik dengan paket 13. Bunpo N5, Kotoba dan Kanji dipertahankan. Cakupan, rujukan dan antrean tercatat di data/bunpo-n4-editorial-review.json dan data/BUNPO_N4_REVIEW_20261101.md. Ini audit editorial internal, bukan sertifikasi pengajar atau penyetaraan resmi JLPT/CEFR.
 
 Seluruh 42 berkas tes lulus; build Bunpo stabil. Tes mencocokkan JSON dengan bundle dan render detail, pencarian/favorit/rute serta pemisahan N5/N4. Belum uji visual browser/Android fisik. Paket kumulatif mencakup 1–13; pemasang backup, conflict gate dan rollback dipertahankan, tanpa push/deploy otomatis.
+
+
+## 1 November 2026 — Batch 15: selesaikan audit editorial Bunpo N4
+
+Tinjau 92 materi sisanya (urutan 24–115) dan 187 contoh: total 115/115 materi serta 233 contoh selesai audit internal, antrean nol. Penjelasan ringkas untuk pemula setelah N5; rumus/perbedaan diperjelas pada tujuan, waktu, bantuan, penghubung, pelaporan/dugaan, pembentukan kata, bahasa hormat dan percakapan. Perjelas sambungan N/sifat-na positif kini dibanding negatif/lampau dan batas rumus bahasa hormat. Tambahkan pola konkret しかない dan 勉強の仕方.
+
+Dua contoh Jepang diganti (Vてばかりいる dan inferensi はずがない berdasarkan jadwal), tiga arti diperhalus (てもらう, てほしい, やっと); bacaan pengganti berspasi. Tetap 115 materi, 14 kategori, 233 contoh, 16 cek; semua ID, cakupan/sumber dan urutan tetap. Hasil 23 materi batch 14, Bunpo N5, Kotoba dan Kanji identik. Cakupan/rujukan: data/bunpo-n4-editorial-review.json dan data/BUNPO_N4_REVIEW_20261101.md.
+
+42 berkas tes lulus; build Bunpo stabil. Cek render meliputi seluruh 115 materi; belum uji visual Android/browser fisik. Ini audit editorial internal atas data yang ada, bukan sertifikasi pengajar eksternal atau silabus/penyetaraan resmi JLPT/CEFR. Paket kumulatif dengan backup/conflict gate/rollback; tes pemasang mencegah penulisan cache Python baru. Tanpa push/deploy otomatis.
