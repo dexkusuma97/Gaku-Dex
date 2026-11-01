@@ -1,7 +1,7 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),crypto=require('node:crypto');
 const data=JSON.parse(fs.readFileSync('data/rangkuman-minna.json')),review=JSON.parse(fs.readFileSync('data/rangkuman-vocab-review-01-25.json'));
 const hash=v=>crypto.createHash('sha256').update(JSON.stringify(v)).digest('hex');
-assert.equal(hash(data.chapters.slice(25)),review.preserved.chapters26to50Sha256);
+if(data.meta.vocabReviewedThrough===25)assert.equal(hash(data.chapters.slice(25)),review.preserved.chapters26to50Sha256);
 assert.equal(hash(data.chapters.map(c=>({id:c.id,patterns:c.patterns,focus:c.focus,check:c.check}))),review.preserved.grammarSha256);
 const storage=new Map(),c={esc:s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;'),localStorage:{getItem:k=>storage.get(k)||null},prefs:{level:'N5'},render(){}};vm.createContext(c);
 for(const f of ['kana-data.js','kanji-data.js','kanji-search.js','rangkuman-data.js','rangkuman-ui.js'])vm.runInContext(fs.readFileSync('dist/'+f,'utf8'),c);
@@ -28,6 +28,6 @@ assert.ok(word(5,72).note.includes('2020'));assert.ok(word(5,72).note.includes('
 assert.ok(c.summaryWordResults(data.chapters[7],'bersih').some(w=>w.id===word(8,2).id));
 assert.ok(c.summaryWordResults(data.chapters[0],'onamae wa').some(w=>w.id===word(1,29).id));
 const detail=c.summaryWordDetailHTML(word(8,2));assert.ok(detail.includes('Cantik; bersih'));assert.ok(!detail.includes('open'));
-// Unreviewed chapters keep their existing reading/meaning fallback until their own audit.
-const untouched=word(26,1);assert.equal(c.summaryWordRomaji(untouched),c.kanjiRomanize(untouched.kana));
+// Entries without authored romanization retain the shared fallback.
+const fallback={kana:'ほん'};assert.equal(c.summaryWordRomaji(fallback),c.kanjiRomanize(fallback.kana));
 console.log('PASS: 1357 reviewed words, primary gloss/hidden extra senses, readable romaji, kana/kanji corrections, all pages/search, source slots and grammar/later chapters preserved');

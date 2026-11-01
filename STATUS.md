@@ -1281,3 +1281,10 @@ Sesuai permintaan pengguna, hapus panel tambahan “Coba satu situasi lain di Ba
 1.357 entri ditinjau internal; 536 entri dikoreksi pada Jepang/kana/arti/catatan (termasuk normalisasi ejaan). Tambahkan arti utama tunggal dan romaji yang dapat dicari pada semua 1.357 entri. Daftar menampilkan satu arti; detail tambahan dilipat. Sifat-na, arah memberi, konteks kata, istilah bank, nama ikan dan nama lama hari olahraga dijelaskan. ID, nomor, halaman dan urutan tetap; pengulangan lintas bab dipertahankan.
 
 45 berkas tes lulus; browser 390 piksel memeriksa hasil shizuka, pencarian bersih dan buka detail. Build stabil. Seluruh grammar/cek/fokus dan Bab 26–50 identik dengan paket 20. Tersisa 1.553 kosakata Bab 26–50 untuk audit berikutnya. Rincian/catatan perubahan: data/RANGKUMAN_VOCAB_01_25_20261101.md dan data/rangkuman-vocab-review-01-25.json. Belum Android fisik atau uji pemahaman peserta. Paket kumulatif 1–20.
+
+
+## 1 November 2026 — Batch 22: audit kosakata Rangkuman Bab 26–50
+
+1.553 entri ditinjau internal; 719 entri berubah pada Jepang/kana/arti/catatan, termasuk normalisasi. Pasangan arti tertukar, 国連, syarat batas 以上／以下, kata intransitif dan bahasa hormat/merendah dibenahi. Arti utama dan romaji tersedia untuk semua entri. Total 2.910 entri Bab 1–50 telah ditinjau; arti lain/catatan tetap dapat dibuka dan dicari. Tidak menghapus pengulangan antar bab atau mengubah ID/nomor/halaman/urutan.
+
+46 berkas tes lulus; build stabil; Bab 1–25 dan seluruh grammar/cek/fokus identik dengan paket 21. Batch ini memakai tes render/paginasi; tidak ada uji browser/Android fisik baru. Rincian dan batas audit: data/RANGKUMAN_VOCAB_26_50_20261101.md serta data/rangkuman-vocab-review-26-50.json. Berikutnya audit kesesuaian Quiz dengan materi. Paket kumulatif 1–21.
