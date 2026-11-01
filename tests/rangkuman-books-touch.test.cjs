@@ -3,7 +3,7 @@ const books=JSON.parse(fs.readFileSync('data/rangkuman-books.json'));
 const source=JSON.parse(fs.readFileSync('data/marugoto-starter-wordbook-source.json'));
 assert.equal(source.pages,82);assert.equal(source.publisherUrl,'https://www.jpf.go.jp/');
 assert.equal(books[2].assetPath,books[3].assetPath);
-for(const book of books.slice(2)){
+for(const book of books.filter(b=>[3,4].includes(b.id))){
  assert.equal(book.pdfUrl,source.url);assert.equal(book.sourceName,'Japan Foundation');
  assert.ok(book.description.includes('Katsudo dan Rikai'));
  assert.equal(book.pageSizes.length,82);

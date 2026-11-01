@@ -1333,3 +1333,8 @@ Menu Riwayat diperbarui dengan ringkasan, filter jenis/level, tanggal, hasil/pro
 ## 1 November 2026 — Batch 29: Tambah Kotoba/Kanji dan dialog pilihan
 
 Tambah, edit, hapus, cari dan filter data buatan pengguna N5/N4. Bacaan Kanji opsional; contoh, pengingat, radikal dan guratan opsional. Duplikat dicegah, data lama dipertahankan, konfirmasi hapus bertema aplikasi. Filter jenis/level Riwayat dan pilihan Tambah Data memakai dialog aplikasi. 53 berkas tes dan browser 390px diperiksa. Rincian: data/CUSTOM_DATA_REVIEW_20261101.md. Kumulatif 1–28.
+
+
+## 2 November 2026 — Batch 30: Irodori Dasar 1 dan 2 (A2)
+
+Tambah dua buku bahasa Indonesia ke Rangkuman > Buku: 424 + 517 halaman, 36 pilihan awal bab. Sumber The Japan Foundation; tautan PDF gabungan kiriman pengguna. Lazy reader lokal, posisi terpisah per buku dan zoom area buku tetap tersedia. Tidak menambah audio Irodori atau menulis ulang materi. 54 berkas tes, pemasang dan browser 390px diperiksa. Rincian: data/IRODORI_BOOKS_REVIEW_20261102.md. Kumulatif 1–29.
