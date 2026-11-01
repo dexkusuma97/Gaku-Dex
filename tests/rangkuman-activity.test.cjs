@@ -35,7 +35,7 @@ for(const ch of source.chapters.slice(0,25)){
   }else{recalled++;c.summaryRevealActivity();assert.ok(blocks['summary-activity-host'].innerHTML.includes(c.esc(p.example.kana)));assert.equal(plain('summaryActivityContext().attempt.revealed'),true)}
   const route=c.getRangkumanRoute();c.resetRangkumanRoute();c.restoreRangkumanRoute(route);assert.equal(c.getRangkumanRoute().studyPattern,index);assert.equal(c.getRangkumanRoute().studyStage,2);
  }
- c.summaryCheck(ch.check.answer);assert.ok(blocks['summary-check'].innerHTML.includes('Betul'));c.summaryRetryChapter();assert.ok(!blocks['summary-check'].innerHTML.includes('summary-check-feedback'));
+ const chapterHTML=c.summaryActivityHTML(ch);assert.ok(!chapterHTML.includes('summary-chapter-challenge'));assert.ok(!chapterHTML.includes('Coba satu situasi'));assert.ok(!chapterHTML.includes('summary-check'));assert.ok(chapterHTML.includes('summary-switch-section'));
 }
 assert.equal(arranged,119);assert.equal(recalled,11);
 c.restoreRangkumanRoute({view:'chapter',chapter:26});assert.ok(c.summaryGrammarHTML(source.chapters[25]).includes('summary-teaching-card'));assert.ok(!c.summaryGrammarHTML(source.chapters[25]).includes('summary-activity-host'));

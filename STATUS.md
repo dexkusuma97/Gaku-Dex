@@ -1262,3 +1262,8 @@ Tambahkan pembesaran cubit 100–300% dalam area buku dengan jangkar posisi, pan
 130 pola ditinjau untuk pemula mandiri dari nol: tujuan, penjelasan singkat, resep, contoh terurai dengan bacaan berjarak, dan catatan. Alur satu pola: Pahami → Bongkar → Coba; ketuk potongan untuk arti/fungsi dan suara perangkat; 119 latihan susun + 11 ungkapan singkat, petunjuk, koreksi dan ulang. Tabel/daftar serta cek situasi bab tetap tersedia. Tanpa skor/penandaan selesai baru.
 
 Bab 26–50 identik; seluruh kosakata dan pertanyaan bab dipertahankan. Kosakata rangkuman belum diaudit satu per satu. Buku/zoom/atribusi dan seluruh perbaikan 1–17 termasuk. 44 berkas tes lulus; browser desktop dan area 390 piksel diperiksa, belum Android fisik atau uji pemahaman pemula. Rincian di data/RANGKUMAN_INTERACTIVE_20261101.md. Selanjutnya: audit/interaksi Bab 26–50 dan audit kosakata rangkuman.
+
+
+## 1 November 2026 — Batch 19: sederhanakan latihan Rangkuman
+
+Sesuai permintaan pengguna, hapus panel tambahan “Coba satu situasi lain di Bab …” dari seluruh Bab 1–25 interaktif, termasuk tombol ulang dan handler khusus panel. Alur Pahami → Bongkar → Coba serta tombol Bekal kosakata tetap. Data pertanyaan sumber dan tampilan Bab 26–50 tidak diubah. Ini menggantikan keputusan batch 18 tentang menampilkan cek situasi bab pada bab interaktif. Tes memastikan panel/cek tambahan tidak dirender pada semua 25 bab.
