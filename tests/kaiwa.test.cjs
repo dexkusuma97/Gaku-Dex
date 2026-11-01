@@ -12,16 +12,31 @@ function app(){
 const a=app(),data=a.c.GAKU_KAIWA_DATA;
 assert.deepEqual(Array.from(data,s=>s.id),['jiko','kai','resu','michi','densha','nichi','yaku','kyoka','denwa','kansou','shusshin','teinei','tomodachi','aisatsu','uchi','shokuji']);
 for(const s of data){assert.equal(s.lines.length,s.id==='jiko'?16:8);assert.ok(['male','female'].includes(s.gender));for(const line of s.lines){for(const key of ['jp','rom','id'])assert.ok(line[key].trim());if(line.who==='me'){assert.equal(line.salah.length,2);assert.equal(new Set([line.jp,...line.salah.map(x=>x.jp)]).size,3);assert.ok(line.salah.every(x=>x.why.length>20))}}}
+// Identity comes from the spoken script, not names in incorrect options.
+const adiIds=new Set(['nichi','yaku','kyoka','denwa']);
+for(const scenario of data){
+ assert.equal(scenario.playerName,adiIds.has(scenario.id)?'Adi':'Ryota');
+ const script=scenario.lines.map(l=>l.jp).join('');
+ assert.equal(script.includes('アディ'),adiIds.has(scenario.id));
+ if(!adiIds.has(scenario.id))for(const l of scenario.lines)for(const w of l.salah||[])assert.ok(!w.jp.includes('アディ'));
+ for(const l of scenario.lines)for(const w of l.salah||[])assert.ok(!w.why.includes('Ryota'),'Feedback must name the actual interlocutor Hori');
+}
+assert.equal(data.find(s=>s.id==='resu').lines[5].id,'Saya mulai makan, ya.');
+assert.ok(data.find(s=>s.id==='denwa').lines[2].id.includes('kembali ke sini'));
+assert.ok(data.find(s=>s.id==='tomodachi').lines[4].id.includes('siang'));
 // Personas follow voice metadata, including a per-line override, not bubble position or a stale NPC name.
 for(const scenario of data){
  a.api.open(scenario.id,'read');const html=a.api.screen();
+ assert.equal((html.match(/class="kw-line-note"/g)||[]).length,scenario.lines.filter(l=>l.note).length);
  assert.equal((html.match(/class="kw-avatar" aria-hidden="true">H<\/div>/g)||[]).length,scenario.lines.length/2);
- assert.equal((html.match(/class="kw-avatar" aria-hidden="true">R<\/div>/g)||[]).length,scenario.lines.length/2);
+ assert.equal((html.match(new RegExp('class="kw-avatar" aria-hidden="true">'+(scenario.playerName==='Adi'?'K':'R')+'</div>','g'))||[]).length,scenario.lines.length/2);
  assert.equal((html.match(/class="kw-speaker">Hori<\/div>/g)||[]).length,scenario.lines.length/2);
- assert.equal((html.match(/class="kw-speaker">Ryota · Kamu<\/div>/g)||[]).length,scenario.lines.length/2);
+ assert.equal((html.match(new RegExp('class="kw-speaker">'+(scenario.playerName==='Adi'?'Kamu':'Ryota')+'</div>','g'))||[]).length,scenario.lines.length/2);
+ assert.ok(!html.includes(' · Kamu'));
+ assert.ok(!html.includes(' · Aku'));
 }
-{const s=data[0],oldName=s.npc,oldGender=s.gender;s.npc='Hori';s.gender='male';s.lines[1].gender='female';a.api.open(s.id,'read');const html=a.api.screen();assert.equal((html.match(/class="kw-speaker">Ryota<\/div>/g)||[]).length,s.lines.length/2);assert.equal((html.match(/class="kw-speaker">Hori · Kamu<\/div>/g)||[]).length,1);s.npc=oldName;s.gender=oldGender;delete s.lines[1].gender;}
-console.log('PASS: H/Hori for female voice, R/Ryota for male voice, player label and per-line voice overrides');
+{const s=data[0],oldName=s.npc,oldGender=s.gender;s.npc='Hori';s.gender='male';s.lines[1].gender='female';a.api.open(s.id,'read');const html=a.api.screen();assert.equal((html.match(/class="kw-speaker">Ryota<\/div>/g)||[]).length,s.lines.length-1);assert.equal((html.match(/class="kw-speaker">Hori<\/div>/g)||[]).length,1);s.npc=oldName;s.gender=oldGender;delete s.lines[1].gender;}
+console.log('PASS: script identities, Adi → Kamu/K, other players → Ryota/R, no duplicate suffix, short notes, feedback and per-line voice override');
 const choiceIndex=(html,jp)=>Number([...html.matchAll(/data-choice="(\d+)"[^>]*><span[^>]*>.*?<\/span><span lang="ja">(.*?)<\/span>/g)].find(m=>m[2]===jp)?.[1]);
 let completed=0;a.api.onComplete=()=>completed++;
 for(const s of data){

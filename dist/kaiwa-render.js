@@ -78,8 +78,8 @@
     pending=setTimeout(()=>{pending=null;state.busy=false;advance();draw(true);},500);
   }
   function bubble(line,index){
-    const mine=line.who==='me',open=state.revealed.has(index),voice=persona(line,scenario()),name=voice.name+(mine?' · Kamu':'');
-    return `<article class="kw-row ${mine?'kw-mine':''}"><div class="kw-avatar" aria-hidden="true">${voice.initial}</div><div class="kw-message"><div class="kw-speaker">${esc(name)}</div><div class="kw-bubble"><button class="kw-text" data-reveal="${index}" aria-expanded="${open}" aria-controls="kw-meaning-${index}" aria-label="${esc(line.jp)}. ${open?'Sembunyikan':'Lihat'} romaji dan arti"><span lang="ja">${esc(line.jp)}</span><span class="kw-tap">${open?'− Tutup arti':'+ Romaji & arti'}</span></button><button class="kw-audio" data-play="${index}" aria-label="Putar suara kalimat ${index+1}">▶</button><div class="kw-meaning" id="kw-meaning-${index}" ${open?'':'hidden'}><p class="kw-rom">${esc(line.rom)}</p><p>${esc(line.id)}</p></div></div></div></article>`;
+    const mine=line.who==='me',open=state.revealed.has(index),voice=persona(line,scenario()),customPlayer=mine&&scenario().playerName==='Adi',name=customPlayer?'Kamu':voice.name,initial=customPlayer?'K':voice.initial;
+    return `<article class="kw-row ${mine?'kw-mine':''}"><div class="kw-avatar" aria-hidden="true">${initial}</div><div class="kw-message"><div class="kw-speaker">${esc(name)}</div><div class="kw-bubble"><button class="kw-text" data-reveal="${index}" aria-expanded="${open}" aria-controls="kw-meaning-${index}" aria-label="${esc(line.jp)}. ${open?'Sembunyikan':'Lihat'} romaji dan arti"><span lang="ja">${esc(line.jp)}</span><span class="kw-tap">${open?'− Tutup arti':'+ Romaji & arti'}</span></button><button class="kw-audio" data-play="${index}" aria-label="Putar suara kalimat ${index+1}">▶</button><div class="kw-meaning" id="kw-meaning-${index}" ${open?'':'hidden'}><p class="kw-rom">${esc(line.rom)}</p><p>${esc(line.id)}</p>${line.note?`<p class="kw-line-note">${esc(line.note)}</p>`:''}</div></div></div></article>`;
   }
   function content(){
     const s=scenario();

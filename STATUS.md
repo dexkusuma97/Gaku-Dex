@@ -1308,3 +1308,8 @@ Pengecoh ditulis eksplisit. Konteks terjemahan membatasi makna. Susun kata mengi
 48 berkas tes lulus: seluruh hitungan dan kunci bank, lessonIds, pilihan unik, susunan potongan, mode, pemisahan level, unduhan bersamaan, penolakan bank salah level, Campuran seimbang, serta regresi sesi dan semua modul terdahulu. Build N4 stabil dan bank N5 sama dengan paket 23. Belum uji Android fisik atau telaah pengajar eksternal.
 
 Paket kumulatif mencakup 1–23. Pemasang memeriksa hash, mencadangkan dan memulihkan jika tes gagal. Tidak melakukan commit/push/deploy.
+
+
+## 1 November 2026 — Batch 25: audit Kaiwa N5 dan label pemain
+
+16 skenario/136 baris utama ditinjau internal. Label Adi menjadi Kamu/K pada empat skenario; lainnya Ryota/R tanpa tambahan Aku/Kamu. Perbaiki 45 baris pada arti/romaji/penjelasan pilihan/catatan; teks Jepang utama dan rekaman tetap sama. 48 berkas tes lulus, termasuk pemetaan 136 naskah ke manifest audio, hash MP3 dan seluruh regresi paket 24. Belum verifikasi akustik/Android fisik/pengajar eksternal. Laporan: data/KAIWA_N5_REVIEW_20261101.md. Paket kumulatif 1–24.

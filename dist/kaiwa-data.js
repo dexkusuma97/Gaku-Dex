@@ -52,7 +52,8 @@ window.GAKU_KAIWA_DATA = [
             "jp": "えきで あいましょう。",
             "why": "Ini mengajak bertemu di stasiun. Jawab dulu pertanyaan tentang statusmu sebagai pelajar."
           }
-        ]
+        ],
+        "note": "べんきょうしています menyatakan kegiatan yang sedang dijalani: di sini, belajar bahasa Jepang."
       },
       {
         "who": "npc",
@@ -63,7 +64,7 @@ window.GAKU_KAIWA_DATA = [
       {
         "who": "me",
         "jp": "にじゅういっさいです。ほりさんは？",
-        "rom": "Nijūissai desu. Hori-san wa?",
+        "rom": "Nijū issai desu. Hori-san wa?",
         "id": "Saya 21 tahun. Kalau Hori?",
         "salah": [
           {
@@ -74,12 +75,13 @@ window.GAKU_KAIWA_DATA = [
             "jp": "ひとりです。",
             "why": "Ini berarti “Satu orang”. Pertanyaannya tentang umur, bukan jumlah orang."
           }
-        ]
+        ],
+        "note": "にじゅういっさい = 21 tahun. ほりさんは？ adalah pertanyaan singkat: “Kalau Hori?”"
       },
       {
         "who": "npc",
         "jp": "わたしも にじゅういっさいです。なにが すきですか。",
-        "rom": "Watashi mo nijūissai desu. Nani ga suki desu ka.",
+        "rom": "Watashi mo nijū issai desu. Nani ga suki desu ka.",
         "id": "Saya juga 21 tahun. Apa yang kamu sukai?"
       },
       {
@@ -108,7 +110,7 @@ window.GAKU_KAIWA_DATA = [
         "who": "me",
         "jp": "そうですか。どんな りょうりを つくりますか。",
         "rom": "Sō desu ka. Donna ryōri o tsukurimasu ka.",
-        "id": "Begitu ya. Biasanya kamu memasak masakan apa?",
+        "id": "Begitu ya. Masakan seperti apa yang kamu buat?",
         "salah": [
           {
             "jp": "ギターは えきの となりです。",
@@ -187,7 +189,8 @@ window.GAKU_KAIWA_DATA = [
         ]
       }
     ],
-    "audioId": "kenalan"
+    "audioId": "kenalan",
+    "playerName": "Ryota"
   },
   {
     "id": "kai",
@@ -239,13 +242,14 @@ window.GAKU_KAIWA_DATA = [
             "jp": "いってきます。",
             "why": "Ini biasanya diucapkan saat meninggalkan rumah. Di sini kamu sedang membeli buku catatan."
           }
-        ]
+        ],
+        "note": "これをください dipakai untuk meminta barang yang ingin dibeli: “Yang ini, tolong.”"
       },
       {
         "who": "npc",
         "jp": "ほかに なにか ありますか。",
         "rom": "Hoka ni nanika arimasu ka.",
-        "id": "Ada yang lain?"
+        "id": "Ada barang lain yang diinginkan?"
       },
       {
         "who": "me",
@@ -273,19 +277,20 @@ window.GAKU_KAIWA_DATA = [
         "who": "me",
         "jp": "はい、どうぞ。ありがとうございました。",
         "rom": "Hai, dōzo. Arigatō gozaimashita.",
-        "id": "Ini, silakan. Terima kasih banyak.",
+        "id": "Ya, ini uangnya. Terima kasih banyak.",
         "salah": [
           {
             "jp": "もしもし。",
             "why": "Ini sapaan saat telepon. Kamu sedang membayar langsung di toko."
           },
           {
-            "jp": "わたしは アディです。",
+            "jp": "わたしは りょうたです。",
             "why": "Ini memperkenalkan nama. Hori menyebut total harga, jadi serahkan uang dan ucapkan terima kasih."
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "resu",
@@ -308,7 +313,7 @@ window.GAKU_KAIWA_DATA = [
         "id": "Saya pesan satu porsi kari.",
         "salah": [
           {
-            "jp": "わたしは アディです。",
+            "jp": "わたしは りょうたです。",
             "why": "Ini untuk memperkenalkan nama. Pelayan sedang menanyakan pesananmu."
           },
           {
@@ -343,13 +348,13 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "おまたせしました。カレーと みずです。",
         "rom": "Omatase shimashita. Karē to mizu desu.",
-        "id": "Maaf menunggu. Ini kari dan air putihnya."
+        "id": "Terima kasih sudah menunggu. Ini kari dan air putihnya."
       },
       {
         "who": "me",
         "jp": "いただきます。",
         "rom": "Itadakimasu.",
-        "id": "Selamat makan.",
+        "id": "Saya mulai makan, ya.",
         "salah": [
           {
             "jp": "ごちそうさまでした。",
@@ -359,7 +364,8 @@ window.GAKU_KAIWA_DATA = [
             "jp": "いってきます。",
             "why": "Ini diucapkan saat berangkat dari rumah. Sekarang kamu akan mulai makan."
           }
-        ]
+        ],
+        "note": "いただきます diucapkan oleh orang yang akan makan, sebagai ungkapan syukur dan penghargaan atas makanan."
       },
       {
         "who": "npc",
@@ -381,9 +387,11 @@ window.GAKU_KAIWA_DATA = [
             "jp": "えきは どこですか。",
             "why": "Ini menanyakan lokasi stasiun. Hori menanyakan pendapatmu tentang rasa kari."
           }
-        ]
+        ],
+        "note": "ごちそうさまでした diucapkan setelah selesai makan untuk berterima kasih atas hidangannya."
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "michi",
@@ -433,7 +441,7 @@ window.GAKU_KAIWA_DATA = [
           },
           {
             "jp": "いくらですか。",
-            "why": "Ini menanyakan harga. Ryota baru saja menunjukkan arah, jadi ucapkan terima kasih."
+            "why": "Ini menanyakan harga. Hori baru saja menunjukkan arah, jadi ucapkan terima kasih."
           }
         ]
       },
@@ -451,7 +459,7 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "じゃあ、ごちそうさまでした。",
-            "why": "Ini diucapkan setelah makan. Ryota menjelaskan jarak ke kantor pos."
+            "why": "Ini diucapkan setelah makan. Hori menjelaskan jarak ke kantor pos."
           },
           {
             "jp": "じゃあ、さんびゃくえんです。",
@@ -473,7 +481,7 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "いいえ、いりません。",
-            "why": "Ini berarti “Tidak perlu”. Ryota menanyakan apakah kamu paham petunjuknya."
+            "why": "Ini berarti “Tidak perlu”. Hori menanyakan apakah kamu paham petunjuknya."
           },
           {
             "jp": "ただいま。",
@@ -481,7 +489,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "densha",
@@ -517,12 +526,13 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "じゅうじ はんです。1ばんせんから でます。",
         "rom": "Jūji han desu. Ichi-ban-sen kara demasu.",
-        "id": "Pukul 10.30. Berangkat dari peron 1."
+        "id": "Pukul 10.30. Berangkat dari peron 1.",
+        "note": "じゅうじ はん = pukul 10.30. 1ばんせん menunjukkan jalur/peron nomor 1; jam pagi atau malam belum disebutkan."
       },
       {
         "who": "me",
         "jp": "おおさかまで どのくらい かかりますか。",
-        "rom": "Ōsaka made donokurai kakarimasu ka.",
+        "rom": "Ōsaka made dono kurai kakarimasu ka.",
         "id": "Sampai Osaka butuh waktu berapa lama?",
         "salah": [
           {
@@ -577,9 +587,11 @@ window.GAKU_KAIWA_DATA = [
             "jp": "いただきます。",
             "why": "Ini diucapkan sebelum makan. Hori melepasmu berangkat, jadi jawab dengan “いってきます”."
           }
-        ]
+        ],
+        "note": "いってきます adalah salam saat pergi dengan maksud kembali. Balasannya いってらっしゃい. Di loket, berterima kasih saja juga wajar."
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "nichi",
@@ -599,11 +611,11 @@ window.GAKU_KAIWA_DATA = [
         "who": "me",
         "jp": "ろくじに おきます。それから ごはんを たべます。",
         "rom": "Rokuji ni okimasu. Sorekara gohan o tabemasu.",
-        "id": "Saya bangun jam enam. Lalu saya makan.",
+        "id": "Saya bangun pukul enam. Setelah itu, saya makan.",
         "salah": [
           {
             "jp": "ろくじは どこですか。",
-            "why": "Ini menanyakan tempat. Ryota menanyakan jam bangunmu, jadi sebutkan jamnya."
+            "why": "Ini menanyakan tempat. Hori menanyakan jam bangunmu, jadi sebutkan jamnya."
           },
           {
             "jp": "さんびゃくえんです。",
@@ -625,7 +637,7 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "きのう おおさかへ いきました。",
-            "why": "Ini membahas kemarin. Ryota menanyakan kegiatan rutin di siang hari."
+            "why": "Ini membahas kemarin. Hori menanyakan kegiatan rutin di siang hari."
           },
           {
             "jp": "もしもし、アディです。",
@@ -647,7 +659,7 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "じゅうえんです。",
-            "why": "Ini menyebut harga 10 yen. Ryota menanyakan jam tidurmu."
+            "why": "Ini menyebut harga 10 yen. Hori menanyakan jam tidurmu."
           },
           {
             "jp": "ひるごはんを たべました。",
@@ -659,7 +671,7 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "はやいですね。まいにち べんきょうしますか。",
         "rom": "Hayai desu ne. Mainichi benkyō shimasu ka.",
-        "id": "Cepat ya. Apakah kamu belajar setiap hari?"
+        "id": "Tidurnya awal, ya. Apakah kamu belajar setiap hari?"
       },
       {
         "who": "me",
@@ -669,7 +681,7 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "はい、あしたは あめです。",
-            "why": "Ini membahas cuaca besok. Ryota menanyakan kebiasaan belajarmu."
+            "why": "Ini membahas cuaca besok. Hori menanyakan kebiasaan belajarmu."
           },
           {
             "jp": "はじめまして、アディです。",
@@ -677,7 +689,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Adi"
   },
   {
     "id": "yaku",
@@ -775,7 +788,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Adi"
   },
   {
     "id": "kyoka",
@@ -805,7 +819,8 @@ window.GAKU_KAIWA_DATA = [
             "jp": "まどを あけませんでした。",
             "why": "Ini berarti “Saya tidak membuka jendela”. Untuk meminta izin, gunakan “〜ても いいですか”."
           }
-        ]
+        ],
+        "note": "〜てもいいですか meminta izin melakukan sesuatu. あけてもいいですか = “Bolehkah saya membuka?”"
       },
       {
         "who": "npc",
@@ -817,11 +832,11 @@ window.GAKU_KAIWA_DATA = [
         "who": "me",
         "jp": "はい、わかりました。どうぞ。",
         "rom": "Hai, wakarimashita. Dōzo.",
-        "id": "Baik, saya mengerti. Silakan.",
+        "id": "Baik, saya mengerti. Ini, silakan.",
         "salah": [
           {
             "jp": "おなまえは なんですか。",
-            "why": "Ini menanyakan nama. Ryota sedang meminta tolong, jadi jawab dengan “わかりました”."
+            "why": "Ini menanyakan nama. Hori sedang meminta tolong, jadi jawab dengan “わかりました”."
           },
           {
             "jp": "いただきます。",
@@ -843,11 +858,11 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "いいえ、さんびゃくえんです。",
-            "why": "Ini menyebut harga 300 yen. Ryota meminta izin meminjam telepon, jadi beri jawabanmu."
+            "why": "Ini menyebut harga 300 yen. Hori meminta izin meminjam telepon, jadi beri jawabanmu."
           },
           {
             "jp": "はい、いただきます。",
-            "why": "Ini diucapkan sebelum makan. Ryota menanyakan izin meminjam telepon."
+            "why": "Ini diucapkan sebelum makan. Hori menanyakan izin meminjam telepon."
           }
         ]
       },
@@ -865,7 +880,7 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "ごちそうさまでした。",
-            "why": "Ini diucapkan setelah makan. Ryota meminta tolong menutup pintu."
+            "why": "Ini diucapkan setelah makan. Hori meminta tolong menutup pintu."
           },
           {
             "jp": "はじめまして。",
@@ -873,7 +888,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Adi"
   },
   {
     "id": "denwa",
@@ -892,7 +908,7 @@ window.GAKU_KAIWA_DATA = [
       {
         "who": "me",
         "jp": "もしもし、アディです。やまださんは いますか。",
-        "rom": "Moshi-moshi, Adi desu. Yamada-san wa imasu ka.",
+        "rom": "Moshi moshi, Adi desu. Yamada-san wa imasu ka.",
         "id": "Halo, saya Adi. Apakah Yamada ada?",
         "salah": [
           {
@@ -909,7 +925,8 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "すみません、やまださんは いま いません。さんじに かえります。",
         "rom": "Sumimasen, Yamada-san wa ima imasen. Sanji ni kaerimasu.",
-        "id": "Maaf, Yamada sedang tidak ada. Dia pulang jam tiga."
+        "id": "Maaf, Yamada sedang tidak ada. Ia kembali ke sini pukul tiga.",
+        "note": "Dalam konteks telepon ini, かえります berarti kembali ke tempat asalnya, yaitu sekolah. Setelah ia kembali pukul tiga, Adi diminta menelepon pukul empat."
       },
       {
         "who": "me",
@@ -953,13 +970,13 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "おなまえは アディさんですね。",
         "rom": "Onamae wa Adi-san desu ne.",
-        "id": "Namamu Adi, ya."
+        "id": "Nama Anda Adi, ya."
       },
       {
         "who": "me",
         "jp": "はい、アディです。しつれいします。",
         "rom": "Hai, Adi desu. Shitsurei shimasu.",
-        "id": "Ya, Adi. Permisi, saya tutup teleponnya.",
+        "id": "Ya, saya Adi. Permisi, saya akhiri teleponnya.",
         "salah": [
           {
             "jp": "いいえ、やまだです。",
@@ -969,9 +986,11 @@ window.GAKU_KAIWA_DATA = [
             "jp": "おやすみなさい。",
             "why": "Ini ucapan sebelum tidur. Telepon akan ditutup dengan “しつれいします”."
           }
-        ]
+        ],
+        "note": "しつれいします adalah ungkapan sopan saat mengakhiri percakapan atau berpamitan."
       }
-    ]
+    ],
+    "playerName": "Adi"
   },
   {
     "id": "kansou",
@@ -995,13 +1014,14 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "あしたは あついです。",
-            "why": "Ini membahas cuaca besok. Ryota bertanya tentang liburan yang sudah lewat, jadi gunakan bentuk lampau “〜かったです”."
+            "why": "Ini membahas cuaca besok. Hori bertanya tentang liburan yang sudah lewat, jadi gunakan bentuk lampau “〜かったです”."
           },
           {
             "jp": "ふたりです。",
-            "why": "Ini menyebut jumlah orang (dua orang). Ryota menanyakan kesanmu tentang liburan."
+            "why": "Ini menyebut jumlah orang (dua orang). Hori menanyakan kesanmu tentang liburan."
           }
-        ]
+        ],
+        "note": "たのしかったです dan よかったです menyatakan kesan tentang hal yang sudah lewat."
       },
       {
         "who": "npc",
@@ -1017,7 +1037,7 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "たこやきを ください。",
-            "why": "Ini untuk meminta takoyaki. Ryota menanyakan alasan, jadi jawab dengan “〜から”."
+            "why": "Ini untuk meminta takoyaki. Hori menanyakan alasan, jadi jawab dengan “〜から”."
           },
           {
             "jp": "さんじに かえります。",
@@ -1039,11 +1059,11 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "あした たべます。",
-            "why": "Ini berarti “Saya makan besok”. Ryota menanyakan takoyaki yang sudah kamu makan."
+            "why": "Ini berarti “Saya makan besok”. Hori menanyakan takoyaki yang sudah kamu makan."
           },
           {
             "jp": "たこやきを ください。",
-            "why": "Ini untuk memesan takoyaki. Ryota menanyakan kesanmu, bukan kamu sedang membeli."
+            "why": "Ini untuk memesan takoyaki. Hori menanyakan kesanmu, bukan kamu sedang membeli."
           }
         ]
       },
@@ -1061,15 +1081,16 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "いいえ、さんびゃくえんでした。",
-            "why": "Ini menyebut harga 300 yen. Ryota menanyakan cuaca di Osaka."
+            "why": "Ini menyebut harga 300 yen. Hori menanyakan cuaca di Osaka."
           },
           {
             "jp": "いいえ、あしたは さむいです。",
-            "why": "Ini membahas cuaca besok. Ryota bertanya tentang cuaca saat kamu di Osaka."
+            "why": "Ini membahas cuaca besok. Hori bertanya tentang cuaca saat kamu di Osaka."
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "shusshin",
@@ -1106,7 +1127,8 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "にほんです。インドネシアでは どこに すんでいましたか。",
         "rom": "Nihon desu. Indoneshia de wa doko ni sunde imashita ka.",
-        "id": "Saya dari Jepang. Dulu kamu tinggal di mana di Indonesia?"
+        "id": "Saya dari Jepang. Dulu kamu tinggal di mana di Indonesia?",
+        "note": "すんでいました menyatakan tempat tinggal dahulu. すんでいます menyatakan tempat tinggal sekarang."
       },
       {
         "who": "me",
@@ -1168,7 +1190,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "teinei",
@@ -1199,7 +1222,8 @@ window.GAKU_KAIWA_DATA = [
             "jp": "みずを のみます。",
             "why": "Ini menyebut kegiatan minum air. Hori meminta kamu menyebutkan nama."
           }
-        ]
+        ],
+        "note": "〜ともうします adalah cara sopan menyebut nama. Untuk awal belajar, pahami sebagai ungkapan utuh: “Nama saya …”."
       },
       {
         "who": "npc",
@@ -1249,7 +1273,8 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "わからない ことが あったら、きいて ください。",
         "rom": "Wakaranai koto ga attara, kiite kudasai.",
-        "id": "Kalau ada yang belum dimengerti, silakan bertanya."
+        "id": "Kalau ada yang belum dimengerti, silakan bertanya.",
+        "note": "わからないことがあったら berarti “kalau ada yang belum dimengerti”. Cukup pahami sebagai ungkapan bantuan; pola 〜たら diperdalam di N4."
       },
       {
         "who": "me",
@@ -1267,7 +1292,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "tomodachi",
@@ -1310,7 +1336,7 @@ window.GAKU_KAIWA_DATA = [
         "who": "me",
         "jp": "ごぜんは うちで べんきょうします。ごごは ひまです。",
         "rom": "Gozen wa uchi de benkyō shimasu. Gogo wa hima desu.",
-        "id": "Pagi saya belajar di rumah. Sore saya senggang.",
+        "id": "Pagi ini saya belajar di rumah. Siang nanti saya senggang.",
         "salah": [
           {
             "jp": "きのうは はたらきました。",
@@ -1320,13 +1346,14 @@ window.GAKU_KAIWA_DATA = [
             "jp": "ほんは つくえの うえです。",
             "why": "Ini menyebut lokasi buku. Ceritakan kegiatanmu hari ini."
           }
-        ]
+        ],
+        "note": "ごぜん = sebelum tengah hari; ごご = setelah tengah hari. Dalam dialog ini, janji bertemunya pukul dua siang."
       },
       {
         "who": "npc",
         "jp": "じゃあ、ごご こうえんを さんぽしませんか。",
         "rom": "Jā, gogo kōen o sanpo shimasen ka.",
-        "id": "Kalau begitu, mau jalan-jalan di taman sore nanti?"
+        "id": "Kalau begitu, mau berjalan-jalan di taman siang nanti?"
       },
       {
         "who": "me",
@@ -1336,7 +1363,7 @@ window.GAKU_KAIWA_DATA = [
         "salah": [
           {
             "jp": "きのう さんぽしました。",
-            "why": "Ini membahas jalan-jalan kemarin. Hori sedang mengajak untuk nanti sore."
+            "why": "Ini membahas jalan-jalan kemarin. Hori sedang mengajak untuk nanti siang."
           },
           {
             "jp": "こうえんは やさいです。",
@@ -1366,7 +1393,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "aisatsu",
@@ -1419,7 +1447,8 @@ window.GAKU_KAIWA_DATA = [
             "jp": "あしたは にちようびです。",
             "why": "Ini menyebut hari besok. Hori menanyakan jam sekarang."
           }
-        ]
+        ],
+        "note": "08.50 ke 09.00 tersisa 10 menit. あとじゅっぷん = “sepuluh menit lagi”."
       },
       {
         "who": "npc",
@@ -1465,7 +1494,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "uchi",
@@ -1502,7 +1532,8 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "いってらっしゃい。なんじごろ かえりますか。",
         "rom": "Itterasshai. Nanji goro kaerimasu ka.",
-        "id": "Hati-hati di jalan. Kira-kira pulang jam berapa?"
+        "id": "Hati-hati di jalan. Kira-kira pulang jam berapa?",
+        "note": "〜じごろ menyatakan waktu perkiraan. ろくじごろ = “sekitar pukul enam”."
       },
       {
         "who": "me",
@@ -1546,7 +1577,7 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "ゆっくり やすんで ください。おやすみなさい。",
         "rom": "Yukkuri yasunde kudasai. Oyasuminasai.",
-        "id": "Istirahat yang cukup, ya. Selamat tidur."
+        "id": "Beristirahatlah dengan santai, ya. Selamat tidur."
       },
       {
         "who": "me",
@@ -1564,7 +1595,8 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   },
   {
     "id": "shokuji",
@@ -1617,7 +1649,8 @@ window.GAKU_KAIWA_DATA = [
             "jp": "ありがとう。いってきます。",
             "why": "“いってきます” dipakai saat berangkat dari rumah. Kamu akan mulai makan."
           }
-        ]
+        ],
+        "note": "いただきます diucapkan sebelum mulai makan; ごちそうさまでした setelah selesai makan."
       },
       {
         "who": "npc",
@@ -1645,7 +1678,8 @@ window.GAKU_KAIWA_DATA = [
         "who": "npc",
         "jp": "ありがとう。もう たべおわりましたか。",
         "rom": "Arigatō. Mō tabeowarimashita ka.",
-        "id": "Terima kasih. Sudah selesai makan?"
+        "id": "Terima kasih. Sudah selesai makan?",
+        "note": "たべおわりましたか berarti “Sudah selesai makan?”. Pahami dulu sebagai ungkapan utuh; pola kata kerja + おわる diperdalam di N4."
       },
       {
         "who": "me",
@@ -1663,6 +1697,7 @@ window.GAKU_KAIWA_DATA = [
           }
         ]
       }
-    ]
+    ],
+    "playerName": "Ryota"
   }
 ];

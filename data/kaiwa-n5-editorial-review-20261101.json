@@ -1,0 +1,1404 @@
+{
+  "scenarios": 16,
+  "lines": 136,
+  "playerLabels": {
+    "jiko": "Ryota",
+    "kai": "Ryota",
+    "resu": "Ryota",
+    "michi": "Ryota",
+    "densha": "Ryota",
+    "nichi": "Adi",
+    "yaku": "Adi",
+    "kyoka": "Adi",
+    "denwa": "Adi",
+    "kansou": "Ryota",
+    "shusshin": "Ryota",
+    "teinei": "Ryota",
+    "tomodachi": "Ryota",
+    "aisatsu": "Ryota",
+    "uchi": "Ryota",
+    "shokuji": "Ryota"
+  },
+  "changes": [
+    {
+      "scenario": "jiko",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "はい。にほんごを べんきょうしています。",
+        "rom": "Hai. Nihongo o benkyō shite imasu.",
+        "id": "Ya. Saya sedang belajar bahasa Jepang.",
+        "salah": [
+          {
+            "jp": "はい、あめです。",
+            "why": "Ini berarti “Ya, hujan”. Hori menanyakan apakah kamu pelajar."
+          },
+          {
+            "jp": "えきで あいましょう。",
+            "why": "Ini mengajak bertemu di stasiun. Jawab dulu pertanyaan tentang statusmu sebagai pelajar."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "はい。にほんごを べんきょうしています。",
+        "rom": "Hai. Nihongo o benkyō shite imasu.",
+        "id": "Ya. Saya sedang belajar bahasa Jepang.",
+        "salah": [
+          {
+            "jp": "はい、あめです。",
+            "why": "Ini berarti “Ya, hujan”. Hori menanyakan apakah kamu pelajar."
+          },
+          {
+            "jp": "えきで あいましょう。",
+            "why": "Ini mengajak bertemu di stasiun. Jawab dulu pertanyaan tentang statusmu sebagai pelajar."
+          }
+        ],
+        "note": "べんきょうしています menyatakan kegiatan yang sedang dijalani: di sini, belajar bahasa Jepang."
+      }
+    },
+    {
+      "scenario": "jiko",
+      "line": 6,
+      "before": {
+        "who": "me",
+        "jp": "にじゅういっさいです。ほりさんは？",
+        "rom": "Nijūissai desu. Hori-san wa?",
+        "id": "Saya 21 tahun. Kalau Hori?",
+        "salah": [
+          {
+            "jp": "いちじ はんです。",
+            "why": "Ini menyebut jam setengah dua. Umur memakai “〜さい”, bukan “〜じ”."
+          },
+          {
+            "jp": "ひとりです。",
+            "why": "Ini berarti “Satu orang”. Pertanyaannya tentang umur, bukan jumlah orang."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "にじゅういっさいです。ほりさんは？",
+        "rom": "Nijū issai desu. Hori-san wa?",
+        "id": "Saya 21 tahun. Kalau Hori?",
+        "salah": [
+          {
+            "jp": "いちじ はんです。",
+            "why": "Ini menyebut jam setengah dua. Umur memakai “〜さい”, bukan “〜じ”."
+          },
+          {
+            "jp": "ひとりです。",
+            "why": "Ini berarti “Satu orang”. Pertanyaannya tentang umur, bukan jumlah orang."
+          }
+        ],
+        "note": "にじゅういっさい = 21 tahun. ほりさんは？ adalah pertanyaan singkat: “Kalau Hori?”"
+      }
+    },
+    {
+      "scenario": "jiko",
+      "line": 7,
+      "before": {
+        "who": "npc",
+        "jp": "わたしも にじゅういっさいです。なにが すきですか。",
+        "rom": "Watashi mo nijūissai desu. Nani ga suki desu ka.",
+        "id": "Saya juga 21 tahun. Apa yang kamu sukai?"
+      },
+      "after": {
+        "who": "npc",
+        "jp": "わたしも にじゅういっさいです。なにが すきですか。",
+        "rom": "Watashi mo nijū issai desu. Nani ga suki desu ka.",
+        "id": "Saya juga 21 tahun. Apa yang kamu sukai?"
+      }
+    },
+    {
+      "scenario": "jiko",
+      "line": 10,
+      "before": {
+        "who": "me",
+        "jp": "そうですか。どんな りょうりを つくりますか。",
+        "rom": "Sō desu ka. Donna ryōri o tsukurimasu ka.",
+        "id": "Begitu ya. Biasanya kamu memasak masakan apa?",
+        "salah": [
+          {
+            "jp": "ギターは えきの となりです。",
+            "why": "Ini membahas lokasi gitar. Lanjutkan obrolan tentang masakan yang Hori sukai."
+          },
+          {
+            "jp": "りょうりを たべませんでしたか。",
+            "why": "Ini menanyakan apakah Hori tidak makan. Pertanyaan tentang jenis masakan lebih sesuai dengan obrolan ini."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "そうですか。どんな りょうりを つくりますか。",
+        "rom": "Sō desu ka. Donna ryōri o tsukurimasu ka.",
+        "id": "Begitu ya. Masakan seperti apa yang kamu buat?",
+        "salah": [
+          {
+            "jp": "ギターは えきの となりです。",
+            "why": "Ini membahas lokasi gitar. Lanjutkan obrolan tentang masakan yang Hori sukai."
+          },
+          {
+            "jp": "りょうりを たべませんでしたか。",
+            "why": "Ini menanyakan apakah Hori tidak makan. Pertanyaan tentang jenis masakan lebih sesuai dengan obrolan ini."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "kai",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "では、これを ください。",
+        "rom": "Dewa, kore o kudasai.",
+        "id": "Kalau begitu, saya beli yang ini.",
+        "salah": [
+          {
+            "jp": "はじめまして。",
+            "why": "Ini untuk pertama kali berkenalan. Gunakan “これを ください” untuk meminta barang yang ingin dibeli."
+          },
+          {
+            "jp": "いってきます。",
+            "why": "Ini biasanya diucapkan saat meninggalkan rumah. Di sini kamu sedang membeli buku catatan."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "では、これを ください。",
+        "rom": "Dewa, kore o kudasai.",
+        "id": "Kalau begitu, saya beli yang ini.",
+        "salah": [
+          {
+            "jp": "はじめまして。",
+            "why": "Ini untuk pertama kali berkenalan. Gunakan “これを ください” untuk meminta barang yang ingin dibeli."
+          },
+          {
+            "jp": "いってきます。",
+            "why": "Ini biasanya diucapkan saat meninggalkan rumah. Di sini kamu sedang membeli buku catatan."
+          }
+        ],
+        "note": "これをください dipakai untuk meminta barang yang ingin dibeli: “Yang ini, tolong.”"
+      }
+    },
+    {
+      "scenario": "kai",
+      "line": 5,
+      "before": {
+        "who": "npc",
+        "jp": "ほかに なにか ありますか。",
+        "rom": "Hoka ni nanika arimasu ka.",
+        "id": "Ada yang lain?"
+      },
+      "after": {
+        "who": "npc",
+        "jp": "ほかに なにか ありますか。",
+        "rom": "Hoka ni nanika arimasu ka.",
+        "id": "Ada barang lain yang diinginkan?"
+      }
+    },
+    {
+      "scenario": "kai",
+      "line": 8,
+      "before": {
+        "who": "me",
+        "jp": "はい、どうぞ。ありがとうございました。",
+        "rom": "Hai, dōzo. Arigatō gozaimashita.",
+        "id": "Ini, silakan. Terima kasih banyak.",
+        "salah": [
+          {
+            "jp": "もしもし。",
+            "why": "Ini sapaan saat telepon. Kamu sedang membayar langsung di toko."
+          },
+          {
+            "jp": "わたしは アディです。",
+            "why": "Ini memperkenalkan nama. Hori menyebut total harga, jadi serahkan uang dan ucapkan terima kasih."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "はい、どうぞ。ありがとうございました。",
+        "rom": "Hai, dōzo. Arigatō gozaimashita.",
+        "id": "Ya, ini uangnya. Terima kasih banyak.",
+        "salah": [
+          {
+            "jp": "もしもし。",
+            "why": "Ini sapaan saat telepon. Kamu sedang membayar langsung di toko."
+          },
+          {
+            "jp": "わたしは りょうたです。",
+            "why": "Ini memperkenalkan nama. Hori menyebut total harga, jadi serahkan uang dan ucapkan terima kasih."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "resu",
+      "line": 2,
+      "before": {
+        "who": "me",
+        "jp": "カレーを ひとつ おねがいします。",
+        "rom": "Karē o hitotsu onegaishimasu.",
+        "id": "Saya pesan satu porsi kari.",
+        "salah": [
+          {
+            "jp": "わたしは アディです。",
+            "why": "Ini untuk memperkenalkan nama. Pelayan sedang menanyakan pesananmu."
+          },
+          {
+            "jp": "カレーは どこですか。",
+            "why": "Ini menanyakan lokasi kari. Untuk memesan, gunakan “カレーを … おねがいします”."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "カレーを ひとつ おねがいします。",
+        "rom": "Karē o hitotsu onegaishimasu.",
+        "id": "Saya pesan satu porsi kari.",
+        "salah": [
+          {
+            "jp": "わたしは りょうたです。",
+            "why": "Ini untuk memperkenalkan nama. Pelayan sedang menanyakan pesananmu."
+          },
+          {
+            "jp": "カレーは どこですか。",
+            "why": "Ini menanyakan lokasi kari. Untuk memesan, gunakan “カレーを … おねがいします”."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "resu",
+      "line": 5,
+      "before": {
+        "who": "npc",
+        "jp": "おまたせしました。カレーと みずです。",
+        "rom": "Omatase shimashita. Karē to mizu desu.",
+        "id": "Maaf menunggu. Ini kari dan air putihnya."
+      },
+      "after": {
+        "who": "npc",
+        "jp": "おまたせしました。カレーと みずです。",
+        "rom": "Omatase shimashita. Karē to mizu desu.",
+        "id": "Terima kasih sudah menunggu. Ini kari dan air putihnya."
+      }
+    },
+    {
+      "scenario": "resu",
+      "line": 6,
+      "before": {
+        "who": "me",
+        "jp": "いただきます。",
+        "rom": "Itadakimasu.",
+        "id": "Selamat makan.",
+        "salah": [
+          {
+            "jp": "ごちそうさまでした。",
+            "why": "Ini diucapkan setelah selesai makan, sedangkan makananmu baru datang."
+          },
+          {
+            "jp": "いってきます。",
+            "why": "Ini diucapkan saat berangkat dari rumah. Sekarang kamu akan mulai makan."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "いただきます。",
+        "rom": "Itadakimasu.",
+        "id": "Saya mulai makan, ya.",
+        "salah": [
+          {
+            "jp": "ごちそうさまでした。",
+            "why": "Ini diucapkan setelah selesai makan, sedangkan makananmu baru datang."
+          },
+          {
+            "jp": "いってきます。",
+            "why": "Ini diucapkan saat berangkat dari rumah. Sekarang kamu akan mulai makan."
+          }
+        ],
+        "note": "いただきます diucapkan oleh orang yang akan makan, sebagai ungkapan syukur dan penghargaan atas makanan."
+      }
+    },
+    {
+      "scenario": "resu",
+      "line": 8,
+      "before": {
+        "who": "me",
+        "jp": "とても おいしいです。ごちそうさまでした。",
+        "rom": "Totemo oishii desu. Gochisōsama deshita.",
+        "id": "Enak sekali. Terima kasih atas makanannya.",
+        "salah": [
+          {
+            "jp": "あしたは あめです。",
+            "why": "Ini membahas cuaca besok. Hori menanyakan rasa kari yang kamu makan."
+          },
+          {
+            "jp": "えきは どこですか。",
+            "why": "Ini menanyakan lokasi stasiun. Hori menanyakan pendapatmu tentang rasa kari."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "とても おいしいです。ごちそうさまでした。",
+        "rom": "Totemo oishii desu. Gochisōsama deshita.",
+        "id": "Enak sekali. Terima kasih atas makanannya.",
+        "salah": [
+          {
+            "jp": "あしたは あめです。",
+            "why": "Ini membahas cuaca besok. Hori menanyakan rasa kari yang kamu makan."
+          },
+          {
+            "jp": "えきは どこですか。",
+            "why": "Ini menanyakan lokasi stasiun. Hori menanyakan pendapatmu tentang rasa kari."
+          }
+        ],
+        "note": "ごちそうさまでした diucapkan setelah selesai makan untuk berterima kasih atas hidangannya."
+      }
+    },
+    {
+      "scenario": "michi",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "わかりました。ありがとうございます。",
+        "rom": "Wakarimashita. Arigatō gozaimasu.",
+        "id": "Saya mengerti. Terima kasih banyak.",
+        "salah": [
+          {
+            "jp": "おやすみなさい。",
+            "why": "Ini ucapan sebelum tidur. Di sini, kamu berterima kasih atas petunjuk arah."
+          },
+          {
+            "jp": "いくらですか。",
+            "why": "Ini menanyakan harga. Ryota baru saja menunjukkan arah, jadi ucapkan terima kasih."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "わかりました。ありがとうございます。",
+        "rom": "Wakarimashita. Arigatō gozaimasu.",
+        "id": "Saya mengerti. Terima kasih banyak.",
+        "salah": [
+          {
+            "jp": "おやすみなさい。",
+            "why": "Ini ucapan sebelum tidur. Di sini, kamu berterima kasih atas petunjuk arah."
+          },
+          {
+            "jp": "いくらですか。",
+            "why": "Ini menanyakan harga. Hori baru saja menunjukkan arah, jadi ucapkan terima kasih."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "michi",
+      "line": 6,
+      "before": {
+        "who": "me",
+        "jp": "じゃあ、あるいて いきます。",
+        "rom": "Jā, aruite ikimasu.",
+        "id": "Kalau begitu, saya jalan kaki saja.",
+        "salah": [
+          {
+            "jp": "じゃあ、ごちそうさまでした。",
+            "why": "Ini diucapkan setelah makan. Ryota menjelaskan jarak ke kantor pos."
+          },
+          {
+            "jp": "じゃあ、さんびゃくえんです。",
+            "why": "Ini menyebut harga 300 yen. Tanggapi penjelasan jarak dengan cara berangkatmu."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "じゃあ、あるいて いきます。",
+        "rom": "Jā, aruite ikimasu.",
+        "id": "Kalau begitu, saya jalan kaki saja.",
+        "salah": [
+          {
+            "jp": "じゃあ、ごちそうさまでした。",
+            "why": "Ini diucapkan setelah makan. Hori menjelaskan jarak ke kantor pos."
+          },
+          {
+            "jp": "じゃあ、さんびゃくえんです。",
+            "why": "Ini menyebut harga 300 yen. Tanggapi penjelasan jarak dengan cara berangkatmu."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "michi",
+      "line": 8,
+      "before": {
+        "who": "me",
+        "jp": "はい、わかります。ありがとうございました。",
+        "rom": "Hai, wakarimasu. Arigatō gozaimashita.",
+        "id": "Ya, saya paham. Terima kasih banyak.",
+        "salah": [
+          {
+            "jp": "いいえ、いりません。",
+            "why": "Ini berarti “Tidak perlu”. Ryota menanyakan apakah kamu paham petunjuknya."
+          },
+          {
+            "jp": "ただいま。",
+            "why": "Ini diucapkan saat pulang ke rumah. Kamu sedang berterima kasih atas petunjuk arah."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "はい、わかります。ありがとうございました。",
+        "rom": "Hai, wakarimasu. Arigatō gozaimashita.",
+        "id": "Ya, saya paham. Terima kasih banyak.",
+        "salah": [
+          {
+            "jp": "いいえ、いりません。",
+            "why": "Ini berarti “Tidak perlu”. Hori menanyakan apakah kamu paham petunjuknya."
+          },
+          {
+            "jp": "ただいま。",
+            "why": "Ini diucapkan saat pulang ke rumah. Kamu sedang berterima kasih atas petunjuk arah."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "densha",
+      "line": 3,
+      "before": {
+        "who": "npc",
+        "jp": "じゅうじ はんです。1ばんせんから でます。",
+        "rom": "Jūji han desu. Ichi-ban-sen kara demasu.",
+        "id": "Pukul 10.30. Berangkat dari peron 1."
+      },
+      "after": {
+        "who": "npc",
+        "jp": "じゅうじ はんです。1ばんせんから でます。",
+        "rom": "Jūji han desu. Ichi-ban-sen kara demasu.",
+        "id": "Pukul 10.30. Berangkat dari peron 1.",
+        "note": "じゅうじ はん = pukul 10.30. 1ばんせん menunjukkan jalur/peron nomor 1; jam pagi atau malam belum disebutkan."
+      }
+    },
+    {
+      "scenario": "densha",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "おおさかまで どのくらい かかりますか。",
+        "rom": "Ōsaka made donokurai kakarimasu ka.",
+        "id": "Sampai Osaka butuh waktu berapa lama?",
+        "salah": [
+          {
+            "jp": "おおさかから きました。",
+            "why": "Ini berarti “Saya datang dari Osaka”. Kamu sedang menanyakan lama perjalanan ke Osaka."
+          },
+          {
+            "jp": "おなまえは なんですか。",
+            "why": "Ini menanyakan nama. Untuk menanyakan lama perjalanan, gunakan “どのくらい”."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "おおさかまで どのくらい かかりますか。",
+        "rom": "Ōsaka made dono kurai kakarimasu ka.",
+        "id": "Sampai Osaka butuh waktu berapa lama?",
+        "salah": [
+          {
+            "jp": "おおさかから きました。",
+            "why": "Ini berarti “Saya datang dari Osaka”. Kamu sedang menanyakan lama perjalanan ke Osaka."
+          },
+          {
+            "jp": "おなまえは なんですか。",
+            "why": "Ini menanyakan nama. Untuk menanyakan lama perjalanan, gunakan “どのくらい”."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "densha",
+      "line": 8,
+      "before": {
+        "who": "me",
+        "jp": "いってきます。ありがとうございます。",
+        "rom": "Ittekimasu. Arigatō gozaimasu.",
+        "id": "Saya berangkat. Terima kasih.",
+        "salah": [
+          {
+            "jp": "ただいま。",
+            "why": "Ini diucapkan saat pulang ke rumah. Kamu sedang berangkat naik kereta."
+          },
+          {
+            "jp": "いただきます。",
+            "why": "Ini diucapkan sebelum makan. Hori melepasmu berangkat, jadi jawab dengan “いってきます”."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "いってきます。ありがとうございます。",
+        "rom": "Ittekimasu. Arigatō gozaimasu.",
+        "id": "Saya berangkat. Terima kasih.",
+        "salah": [
+          {
+            "jp": "ただいま。",
+            "why": "Ini diucapkan saat pulang ke rumah. Kamu sedang berangkat naik kereta."
+          },
+          {
+            "jp": "いただきます。",
+            "why": "Ini diucapkan sebelum makan. Hori melepasmu berangkat, jadi jawab dengan “いってきます”."
+          }
+        ],
+        "note": "いってきます adalah salam saat pergi dengan maksud kembali. Balasannya いってらっしゃい. Di loket, berterima kasih saja juga wajar."
+      }
+    },
+    {
+      "scenario": "nichi",
+      "line": 2,
+      "before": {
+        "who": "me",
+        "jp": "ろくじに おきます。それから ごはんを たべます。",
+        "rom": "Rokuji ni okimasu. Sorekara gohan o tabemasu.",
+        "id": "Saya bangun jam enam. Lalu saya makan.",
+        "salah": [
+          {
+            "jp": "ろくじは どこですか。",
+            "why": "Ini menanyakan tempat. Ryota menanyakan jam bangunmu, jadi sebutkan jamnya."
+          },
+          {
+            "jp": "さんびゃくえんです。",
+            "why": "Ini menyebut harga 300 yen. Pertanyaannya tentang jam bangun tidurmu."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "ろくじに おきます。それから ごはんを たべます。",
+        "rom": "Rokuji ni okimasu. Sorekara gohan o tabemasu.",
+        "id": "Saya bangun pukul enam. Setelah itu, saya makan.",
+        "salah": [
+          {
+            "jp": "ろくじは どこですか。",
+            "why": "Ini menanyakan tempat. Hori menanyakan jam bangunmu, jadi sebutkan jamnya."
+          },
+          {
+            "jp": "さんびゃくえんです。",
+            "why": "Ini menyebut harga 300 yen. Pertanyaannya tentang jam bangun tidurmu."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "nichi",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "がっこうで にほんごを べんきょうします。よる テレビは みません。",
+        "rom": "Gakkō de nihongo o benkyō shimasu. Yoru terebi wa mimasen.",
+        "id": "Saya belajar bahasa Jepang di sekolah. Malam hari saya tidak menonton TV.",
+        "salah": [
+          {
+            "jp": "きのう おおさかへ いきました。",
+            "why": "Ini membahas kemarin. Ryota menanyakan kegiatan rutin di siang hari."
+          },
+          {
+            "jp": "もしもし、アディです。",
+            "why": "Ini sapaan saat mengangkat telepon. Kamu sedang diajak bicara langsung, bukan lewat telepon."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "がっこうで にほんごを べんきょうします。よる テレビは みません。",
+        "rom": "Gakkō de nihongo o benkyō shimasu. Yoru terebi wa mimasen.",
+        "id": "Saya belajar bahasa Jepang di sekolah. Malam hari saya tidak menonton TV.",
+        "salah": [
+          {
+            "jp": "きのう おおさかへ いきました。",
+            "why": "Ini membahas kemarin. Hori menanyakan kegiatan rutin di siang hari."
+          },
+          {
+            "jp": "もしもし、アディです。",
+            "why": "Ini sapaan saat mengangkat telepon. Kamu sedang diajak bicara langsung, bukan lewat telepon."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "nichi",
+      "line": 6,
+      "before": {
+        "who": "me",
+        "jp": "じゅうじに ねます。",
+        "rom": "Jūji ni nemasu.",
+        "id": "Saya tidur jam sepuluh.",
+        "salah": [
+          {
+            "jp": "じゅうえんです。",
+            "why": "Ini menyebut harga 10 yen. Ryota menanyakan jam tidurmu."
+          },
+          {
+            "jp": "ひるごはんを たべました。",
+            "why": "Ini berarti “Saya sudah makan siang”. Pertanyaannya tentang jam tidur di malam hari."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "じゅうじに ねます。",
+        "rom": "Jūji ni nemasu.",
+        "id": "Saya tidur jam sepuluh.",
+        "salah": [
+          {
+            "jp": "じゅうえんです。",
+            "why": "Ini menyebut harga 10 yen. Hori menanyakan jam tidurmu."
+          },
+          {
+            "jp": "ひるごはんを たべました。",
+            "why": "Ini berarti “Saya sudah makan siang”. Pertanyaannya tentang jam tidur di malam hari."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "nichi",
+      "line": 7,
+      "before": {
+        "who": "npc",
+        "jp": "はやいですね。まいにち べんきょうしますか。",
+        "rom": "Hayai desu ne. Mainichi benkyō shimasu ka.",
+        "id": "Cepat ya. Apakah kamu belajar setiap hari?"
+      },
+      "after": {
+        "who": "npc",
+        "jp": "はやいですね。まいにち べんきょうしますか。",
+        "rom": "Hayai desu ne. Mainichi benkyō shimasu ka.",
+        "id": "Tidurnya awal, ya. Apakah kamu belajar setiap hari?"
+      }
+    },
+    {
+      "scenario": "nichi",
+      "line": 8,
+      "before": {
+        "who": "me",
+        "jp": "はい、まいにち すこし べんきょうします。",
+        "rom": "Hai, mainichi sukoshi benkyō shimasu.",
+        "id": "Ya, setiap hari saya belajar sedikit.",
+        "salah": [
+          {
+            "jp": "はい、あしたは あめです。",
+            "why": "Ini membahas cuaca besok. Ryota menanyakan kebiasaan belajarmu."
+          },
+          {
+            "jp": "はじめまして、アディです。",
+            "why": "Ini perkenalan pertama. Kalian sudah saling kenal, jadi jawab pertanyaan tentang belajar."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "はい、まいにち すこし べんきょうします。",
+        "rom": "Hai, mainichi sukoshi benkyō shimasu.",
+        "id": "Ya, setiap hari saya belajar sedikit.",
+        "salah": [
+          {
+            "jp": "はい、あしたは あめです。",
+            "why": "Ini membahas cuaca besok. Hori menanyakan kebiasaan belajarmu."
+          },
+          {
+            "jp": "はじめまして、アディです。",
+            "why": "Ini perkenalan pertama. Kalian sudah saling kenal, jadi jawab pertanyaan tentang belajar."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "kyoka",
+      "line": 2,
+      "before": {
+        "who": "me",
+        "jp": "そうですね。まどを あけても いいですか。",
+        "rom": "Sō desu ne. Mado o akete mo ii desu ka.",
+        "id": "Iya ya. Bolehkah saya membuka jendela?",
+        "salah": [
+          {
+            "jp": "まどは いくらですか。",
+            "why": "Ini menanyakan harga jendela. Kamu ingin meminta izin membuka jendela."
+          },
+          {
+            "jp": "まどを あけませんでした。",
+            "why": "Ini berarti “Saya tidak membuka jendela”. Untuk meminta izin, gunakan “〜ても いいですか”."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "そうですね。まどを あけても いいですか。",
+        "rom": "Sō desu ne. Mado o akete mo ii desu ka.",
+        "id": "Iya ya. Bolehkah saya membuka jendela?",
+        "salah": [
+          {
+            "jp": "まどは いくらですか。",
+            "why": "Ini menanyakan harga jendela. Kamu ingin meminta izin membuka jendela."
+          },
+          {
+            "jp": "まどを あけませんでした。",
+            "why": "Ini berarti “Saya tidak membuka jendela”. Untuk meminta izin, gunakan “〜ても いいですか”."
+          }
+        ],
+        "note": "〜てもいいですか meminta izin melakukan sesuatu. あけてもいいですか = “Bolehkah saya membuka?”"
+      }
+    },
+    {
+      "scenario": "kyoka",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "はい、わかりました。どうぞ。",
+        "rom": "Hai, wakarimashita. Dōzo.",
+        "id": "Baik, saya mengerti. Silakan.",
+        "salah": [
+          {
+            "jp": "おなまえは なんですか。",
+            "why": "Ini menanyakan nama. Ryota sedang meminta tolong, jadi jawab dengan “わかりました”."
+          },
+          {
+            "jp": "いただきます。",
+            "why": "Ini diucapkan sebelum makan. Di sini, kamu menanggapi permintaan tolong."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "はい、わかりました。どうぞ。",
+        "rom": "Hai, wakarimashita. Dōzo.",
+        "id": "Baik, saya mengerti. Ini, silakan.",
+        "salah": [
+          {
+            "jp": "おなまえは なんですか。",
+            "why": "Ini menanyakan nama. Hori sedang meminta tolong, jadi jawab dengan “わかりました”."
+          },
+          {
+            "jp": "いただきます。",
+            "why": "Ini diucapkan sebelum makan. Di sini, kamu menanggapi permintaan tolong."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "kyoka",
+      "line": 6,
+      "before": {
+        "who": "me",
+        "jp": "ええ、どうぞ。",
+        "rom": "Ee, dōzo.",
+        "id": "Ya, silakan.",
+        "salah": [
+          {
+            "jp": "いいえ、さんびゃくえんです。",
+            "why": "Ini menyebut harga 300 yen. Ryota meminta izin meminjam telepon, jadi beri jawabanmu."
+          },
+          {
+            "jp": "はい、いただきます。",
+            "why": "Ini diucapkan sebelum makan. Ryota menanyakan izin meminjam telepon."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "ええ、どうぞ。",
+        "rom": "Ee, dōzo.",
+        "id": "Ya, silakan.",
+        "salah": [
+          {
+            "jp": "いいえ、さんびゃくえんです。",
+            "why": "Ini menyebut harga 300 yen. Hori meminta izin meminjam telepon, jadi beri jawabanmu."
+          },
+          {
+            "jp": "はい、いただきます。",
+            "why": "Ini diucapkan sebelum makan. Hori menanyakan izin meminjam telepon."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "kyoka",
+      "line": 8,
+      "before": {
+        "who": "me",
+        "jp": "はい、わかりました。しめます。",
+        "rom": "Hai, wakarimashita. Shimemasu.",
+        "id": "Baik, saya mengerti. Saya tutup.",
+        "salah": [
+          {
+            "jp": "ごちそうさまでした。",
+            "why": "Ini diucapkan setelah makan. Ryota meminta tolong menutup pintu."
+          },
+          {
+            "jp": "はじめまして。",
+            "why": "Ini untuk pertama kali berkenalan. Tanggapi permintaan tolong dengan “わかりました”."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "はい、わかりました。しめます。",
+        "rom": "Hai, wakarimashita. Shimemasu.",
+        "id": "Baik, saya mengerti. Saya tutup.",
+        "salah": [
+          {
+            "jp": "ごちそうさまでした。",
+            "why": "Ini diucapkan setelah makan. Hori meminta tolong menutup pintu."
+          },
+          {
+            "jp": "はじめまして。",
+            "why": "Ini untuk pertama kali berkenalan. Tanggapi permintaan tolong dengan “わかりました”."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "denwa",
+      "line": 2,
+      "before": {
+        "who": "me",
+        "jp": "もしもし、アディです。やまださんは いますか。",
+        "rom": "Moshi-moshi, Adi desu. Yamada-san wa imasu ka.",
+        "id": "Halo, saya Adi. Apakah Yamada ada?",
+        "salah": [
+          {
+            "jp": "やまださんは いくらですか。",
+            "why": "Ini menanyakan harga seseorang. Untuk menanyakan apakah orangnya ada, gunakan “いますか”."
+          },
+          {
+            "jp": "いらっしゃいませ。",
+            "why": "Ini sapaan pegawai kepada pelanggan. Kamu yang menelepon, jadi sebutkan namamu dan tanyakan orangnya."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "もしもし、アディです。やまださんは いますか。",
+        "rom": "Moshi moshi, Adi desu. Yamada-san wa imasu ka.",
+        "id": "Halo, saya Adi. Apakah Yamada ada?",
+        "salah": [
+          {
+            "jp": "やまださんは いくらですか。",
+            "why": "Ini menanyakan harga seseorang. Untuk menanyakan apakah orangnya ada, gunakan “いますか”."
+          },
+          {
+            "jp": "いらっしゃいませ。",
+            "why": "Ini sapaan pegawai kepada pelanggan. Kamu yang menelepon, jadi sebutkan namamu dan tanyakan orangnya."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "denwa",
+      "line": 3,
+      "before": {
+        "who": "npc",
+        "jp": "すみません、やまださんは いま いません。さんじに かえります。",
+        "rom": "Sumimasen, Yamada-san wa ima imasen. Sanji ni kaerimasu.",
+        "id": "Maaf, Yamada sedang tidak ada. Dia pulang jam tiga."
+      },
+      "after": {
+        "who": "npc",
+        "jp": "すみません、やまださんは いま いません。さんじに かえります。",
+        "rom": "Sumimasen, Yamada-san wa ima imasen. Sanji ni kaerimasu.",
+        "id": "Maaf, Yamada sedang tidak ada. Ia kembali ke sini pukul tiga.",
+        "note": "Dalam konteks telepon ini, かえります berarti kembali ke tempat asalnya, yaitu sekolah. Setelah ia kembali pukul tiga, Adi diminta menelepon pukul empat."
+      }
+    },
+    {
+      "scenario": "denwa",
+      "line": 7,
+      "before": {
+        "who": "npc",
+        "jp": "おなまえは アディさんですね。",
+        "rom": "Onamae wa Adi-san desu ne.",
+        "id": "Namamu Adi, ya."
+      },
+      "after": {
+        "who": "npc",
+        "jp": "おなまえは アディさんですね。",
+        "rom": "Onamae wa Adi-san desu ne.",
+        "id": "Nama Anda Adi, ya."
+      }
+    },
+    {
+      "scenario": "denwa",
+      "line": 8,
+      "before": {
+        "who": "me",
+        "jp": "はい、アディです。しつれいします。",
+        "rom": "Hai, Adi desu. Shitsurei shimasu.",
+        "id": "Ya, Adi. Permisi, saya tutup teleponnya.",
+        "salah": [
+          {
+            "jp": "いいえ、やまだです。",
+            "why": "Ini berarti “Bukan, saya Yamada”. Kamu sudah menyebut dirimu Adi."
+          },
+          {
+            "jp": "おやすみなさい。",
+            "why": "Ini ucapan sebelum tidur. Telepon akan ditutup dengan “しつれいします”."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "はい、アディです。しつれいします。",
+        "rom": "Hai, Adi desu. Shitsurei shimasu.",
+        "id": "Ya, saya Adi. Permisi, saya akhiri teleponnya.",
+        "salah": [
+          {
+            "jp": "いいえ、やまだです。",
+            "why": "Ini berarti “Bukan, saya Yamada”. Kamu sudah menyebut dirimu Adi."
+          },
+          {
+            "jp": "おやすみなさい。",
+            "why": "Ini ucapan sebelum tidur. Telepon akan ditutup dengan “しつれいします”."
+          }
+        ],
+        "note": "しつれいします adalah ungkapan sopan saat mengakhiri percakapan atau berpamitan."
+      }
+    },
+    {
+      "scenario": "kansou",
+      "line": 2,
+      "before": {
+        "who": "me",
+        "jp": "たのしかったです。てんきも よかったです。",
+        "rom": "Tanoshikatta desu. Tenki mo yokatta desu.",
+        "id": "Menyenangkan. Cuacanya juga bagus.",
+        "salah": [
+          {
+            "jp": "あしたは あついです。",
+            "why": "Ini membahas cuaca besok. Ryota bertanya tentang liburan yang sudah lewat, jadi gunakan bentuk lampau “〜かったです”."
+          },
+          {
+            "jp": "ふたりです。",
+            "why": "Ini menyebut jumlah orang (dua orang). Ryota menanyakan kesanmu tentang liburan."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "たのしかったです。てんきも よかったです。",
+        "rom": "Tanoshikatta desu. Tenki mo yokatta desu.",
+        "id": "Menyenangkan. Cuacanya juga bagus.",
+        "salah": [
+          {
+            "jp": "あしたは あついです。",
+            "why": "Ini membahas cuaca besok. Hori bertanya tentang liburan yang sudah lewat, jadi gunakan bentuk lampau “〜かったです”."
+          },
+          {
+            "jp": "ふたりです。",
+            "why": "Ini menyebut jumlah orang (dua orang). Hori menanyakan kesanmu tentang liburan."
+          }
+        ],
+        "note": "たのしかったです dan よかったです menyatakan kesan tentang hal yang sudah lewat."
+      }
+    },
+    {
+      "scenario": "kansou",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "たこやきが すきですから。",
+        "rom": "Takoyaki ga suki desu kara.",
+        "id": "Karena saya suka takoyaki.",
+        "salah": [
+          {
+            "jp": "たこやきを ください。",
+            "why": "Ini untuk meminta takoyaki. Ryota menanyakan alasan, jadi jawab dengan “〜から”."
+          },
+          {
+            "jp": "さんじに かえります。",
+            "why": "Ini berarti “Saya pulang jam tiga”. Pertanyaannya tentang alasan pergi ke Osaka."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "たこやきが すきですから。",
+        "rom": "Takoyaki ga suki desu kara.",
+        "id": "Karena saya suka takoyaki.",
+        "salah": [
+          {
+            "jp": "たこやきを ください。",
+            "why": "Ini untuk meminta takoyaki. Hori menanyakan alasan, jadi jawab dengan “〜から”."
+          },
+          {
+            "jp": "さんじに かえります。",
+            "why": "Ini berarti “Saya pulang jam tiga”. Pertanyaannya tentang alasan pergi ke Osaka."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "kansou",
+      "line": 6,
+      "before": {
+        "who": "me",
+        "jp": "とても おいしかったです。",
+        "rom": "Totemo oishikatta desu.",
+        "id": "Enak sekali.",
+        "salah": [
+          {
+            "jp": "あした たべます。",
+            "why": "Ini berarti “Saya makan besok”. Ryota menanyakan takoyaki yang sudah kamu makan."
+          },
+          {
+            "jp": "たこやきを ください。",
+            "why": "Ini untuk memesan takoyaki. Ryota menanyakan kesanmu, bukan kamu sedang membeli."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "とても おいしかったです。",
+        "rom": "Totemo oishikatta desu.",
+        "id": "Enak sekali.",
+        "salah": [
+          {
+            "jp": "あした たべます。",
+            "why": "Ini berarti “Saya makan besok”. Hori menanyakan takoyaki yang sudah kamu makan."
+          },
+          {
+            "jp": "たこやきを ください。",
+            "why": "Ini untuk memesan takoyaki. Hori menanyakan kesanmu, bukan kamu sedang membeli."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "kansou",
+      "line": 8,
+      "before": {
+        "who": "me",
+        "jp": "いいえ、さむくなかったです。あたたかかったです。",
+        "rom": "Iie, samukunakatta desu. Atatakakatta desu.",
+        "id": "Tidak, tidak dingin. Hangat.",
+        "salah": [
+          {
+            "jp": "いいえ、さんびゃくえんでした。",
+            "why": "Ini menyebut harga 300 yen. Ryota menanyakan cuaca di Osaka."
+          },
+          {
+            "jp": "いいえ、あしたは さむいです。",
+            "why": "Ini membahas cuaca besok. Ryota bertanya tentang cuaca saat kamu di Osaka."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "いいえ、さむくなかったです。あたたかかったです。",
+        "rom": "Iie, samukunakatta desu. Atatakakatta desu.",
+        "id": "Tidak, tidak dingin. Hangat.",
+        "salah": [
+          {
+            "jp": "いいえ、さんびゃくえんでした。",
+            "why": "Ini menyebut harga 300 yen. Hori menanyakan cuaca di Osaka."
+          },
+          {
+            "jp": "いいえ、あしたは さむいです。",
+            "why": "Ini membahas cuaca besok. Hori bertanya tentang cuaca saat kamu di Osaka."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "shusshin",
+      "line": 3,
+      "before": {
+        "who": "npc",
+        "jp": "にほんです。インドネシアでは どこに すんでいましたか。",
+        "rom": "Nihon desu. Indoneshia de wa doko ni sunde imashita ka.",
+        "id": "Saya dari Jepang. Dulu kamu tinggal di mana di Indonesia?"
+      },
+      "after": {
+        "who": "npc",
+        "jp": "にほんです。インドネシアでは どこに すんでいましたか。",
+        "rom": "Nihon desu. Indoneshia de wa doko ni sunde imashita ka.",
+        "id": "Saya dari Jepang. Dulu kamu tinggal di mana di Indonesia?",
+        "note": "すんでいました menyatakan tempat tinggal dahulu. すんでいます menyatakan tempat tinggal sekarang."
+      }
+    },
+    {
+      "scenario": "teinei",
+      "line": 2,
+      "before": {
+        "who": "me",
+        "jp": "りょうたと もうします。よろしく おねがいします。",
+        "rom": "Ryōta to mōshimasu. Yoroshiku onegaishimasu.",
+        "id": "Nama saya Ryota. Senang berkenalan dengan Anda.",
+        "salah": [
+          {
+            "jp": "おなまえは さんびゃくえんです。",
+            "why": "Ini menggabungkan nama dengan harga. Perkenalkan diri dengan “〜と もうします” agar sopan."
+          },
+          {
+            "jp": "みずを のみます。",
+            "why": "Ini menyebut kegiatan minum air. Hori meminta kamu menyebutkan nama."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "りょうたと もうします。よろしく おねがいします。",
+        "rom": "Ryōta to mōshimasu. Yoroshiku onegaishimasu.",
+        "id": "Nama saya Ryota. Senang berkenalan dengan Anda.",
+        "salah": [
+          {
+            "jp": "おなまえは さんびゃくえんです。",
+            "why": "Ini menggabungkan nama dengan harga. Perkenalkan diri dengan “〜と もうします” agar sopan."
+          },
+          {
+            "jp": "みずを のみます。",
+            "why": "Ini menyebut kegiatan minum air. Hori meminta kamu menyebutkan nama."
+          }
+        ],
+        "note": "〜ともうします adalah cara sopan menyebut nama. Untuk awal belajar, pahami sebagai ungkapan utuh: “Nama saya …”."
+      }
+    },
+    {
+      "scenario": "teinei",
+      "line": 7,
+      "before": {
+        "who": "npc",
+        "jp": "わからない ことが あったら、きいて ください。",
+        "rom": "Wakaranai koto ga attara, kiite kudasai.",
+        "id": "Kalau ada yang belum dimengerti, silakan bertanya."
+      },
+      "after": {
+        "who": "npc",
+        "jp": "わからない ことが あったら、きいて ください。",
+        "rom": "Wakaranai koto ga attara, kiite kudasai.",
+        "id": "Kalau ada yang belum dimengerti, silakan bertanya.",
+        "note": "わからないことがあったら berarti “kalau ada yang belum dimengerti”. Cukup pahami sebagai ungkapan bantuan; pola 〜たら diperdalam di N4."
+      }
+    },
+    {
+      "scenario": "tomodachi",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "ごぜんは うちで べんきょうします。ごごは ひまです。",
+        "rom": "Gozen wa uchi de benkyō shimasu. Gogo wa hima desu.",
+        "id": "Pagi saya belajar di rumah. Sore saya senggang.",
+        "salah": [
+          {
+            "jp": "きのうは はたらきました。",
+            "why": "Ini menceritakan kemarin. Pertanyaannya tentang rencana hari ini."
+          },
+          {
+            "jp": "ほんは つくえの うえです。",
+            "why": "Ini menyebut lokasi buku. Ceritakan kegiatanmu hari ini."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "ごぜんは うちで べんきょうします。ごごは ひまです。",
+        "rom": "Gozen wa uchi de benkyō shimasu. Gogo wa hima desu.",
+        "id": "Pagi ini saya belajar di rumah. Siang nanti saya senggang.",
+        "salah": [
+          {
+            "jp": "きのうは はたらきました。",
+            "why": "Ini menceritakan kemarin. Pertanyaannya tentang rencana hari ini."
+          },
+          {
+            "jp": "ほんは つくえの うえです。",
+            "why": "Ini menyebut lokasi buku. Ceritakan kegiatanmu hari ini."
+          }
+        ],
+        "note": "ごぜん = sebelum tengah hari; ごご = setelah tengah hari. Dalam dialog ini, janji bertemunya pukul dua siang."
+      }
+    },
+    {
+      "scenario": "tomodachi",
+      "line": 5,
+      "before": {
+        "who": "npc",
+        "jp": "じゃあ、ごご こうえんを さんぽしませんか。",
+        "rom": "Jā, gogo kōen o sanpo shimasen ka.",
+        "id": "Kalau begitu, mau jalan-jalan di taman sore nanti?"
+      },
+      "after": {
+        "who": "npc",
+        "jp": "じゃあ、ごご こうえんを さんぽしませんか。",
+        "rom": "Jā, gogo kōen o sanpo shimasen ka.",
+        "id": "Kalau begitu, mau berjalan-jalan di taman siang nanti?"
+      }
+    },
+    {
+      "scenario": "tomodachi",
+      "line": 6,
+      "before": {
+        "who": "me",
+        "jp": "いいですね。にじに こうえんの いりぐちで あいましょう。",
+        "rom": "Ii desu ne. Niji ni kōen no iriguchi de aimashō.",
+        "id": "Boleh. Ayo bertemu jam dua di pintu masuk taman.",
+        "salah": [
+          {
+            "jp": "きのう さんぽしました。",
+            "why": "Ini membahas jalan-jalan kemarin. Hori sedang mengajak untuk nanti sore."
+          },
+          {
+            "jp": "こうえんは やさいです。",
+            "why": "Ini menyatakan taman adalah sayuran. Tanggapi ajakan dan tentukan waktu bertemu."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "いいですね。にじに こうえんの いりぐちで あいましょう。",
+        "rom": "Ii desu ne. Niji ni kōen no iriguchi de aimashō.",
+        "id": "Boleh. Ayo bertemu jam dua di pintu masuk taman.",
+        "salah": [
+          {
+            "jp": "きのう さんぽしました。",
+            "why": "Ini membahas jalan-jalan kemarin. Hori sedang mengajak untuk nanti siang."
+          },
+          {
+            "jp": "こうえんは やさいです。",
+            "why": "Ini menyatakan taman adalah sayuran. Tanggapi ajakan dan tentukan waktu bertemu."
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "aisatsu",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "はちじ ごじゅっぷんです。あと じゅっぷんですね。",
+        "rom": "Hachiji gojuppun desu. Ato juppun desu ne.",
+        "id": "Jam 08.50. Sepuluh menit lagi, ya.",
+        "salah": [
+          {
+            "jp": "はちまいです。",
+            "why": "Ini menyebut delapan lembar. Pertanyaannya tentang jam, yang memakai “〜じ”."
+          },
+          {
+            "jp": "あしたは にちようびです。",
+            "why": "Ini menyebut hari besok. Hori menanyakan jam sekarang."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "はちじ ごじゅっぷんです。あと じゅっぷんですね。",
+        "rom": "Hachiji gojuppun desu. Ato juppun desu ne.",
+        "id": "Jam 08.50. Sepuluh menit lagi, ya.",
+        "salah": [
+          {
+            "jp": "はちまいです。",
+            "why": "Ini menyebut delapan lembar. Pertanyaannya tentang jam, yang memakai “〜じ”."
+          },
+          {
+            "jp": "あしたは にちようびです。",
+            "why": "Ini menyebut hari besok. Hori menanyakan jam sekarang."
+          }
+        ],
+        "note": "08.50 ke 09.00 tersisa 10 menit. あとじゅっぷん = “sepuluh menit lagi”."
+      }
+    },
+    {
+      "scenario": "uchi",
+      "line": 3,
+      "before": {
+        "who": "npc",
+        "jp": "いってらっしゃい。なんじごろ かえりますか。",
+        "rom": "Itterasshai. Nanji goro kaerimasu ka.",
+        "id": "Hati-hati di jalan. Kira-kira pulang jam berapa?"
+      },
+      "after": {
+        "who": "npc",
+        "jp": "いってらっしゃい。なんじごろ かえりますか。",
+        "rom": "Itterasshai. Nanji goro kaerimasu ka.",
+        "id": "Hati-hati di jalan. Kira-kira pulang jam berapa?",
+        "note": "〜じごろ menyatakan waktu perkiraan. ろくじごろ = “sekitar pukul enam”."
+      }
+    },
+    {
+      "scenario": "uchi",
+      "line": 7,
+      "before": {
+        "who": "npc",
+        "jp": "ゆっくり やすんで ください。おやすみなさい。",
+        "rom": "Yukkuri yasunde kudasai. Oyasuminasai.",
+        "id": "Istirahat yang cukup, ya. Selamat tidur."
+      },
+      "after": {
+        "who": "npc",
+        "jp": "ゆっくり やすんで ください。おやすみなさい。",
+        "rom": "Yukkuri yasunde kudasai. Oyasuminasai.",
+        "id": "Beristirahatlah dengan santai, ya. Selamat tidur."
+      }
+    },
+    {
+      "scenario": "shokuji",
+      "line": 4,
+      "before": {
+        "who": "me",
+        "jp": "ありがとう。いただきます。",
+        "rom": "Arigatō. Itadakimasu.",
+        "id": "Terima kasih. Saya mulai makan, ya.",
+        "salah": [
+          {
+            "jp": "ありがとう。ごちそうさまでした。",
+            "why": "“ごちそうさまでした” dipakai setelah selesai makan. Saat baru mulai, gunakan “いただきます”."
+          },
+          {
+            "jp": "ありがとう。いってきます。",
+            "why": "“いってきます” dipakai saat berangkat dari rumah. Kamu akan mulai makan."
+          }
+        ]
+      },
+      "after": {
+        "who": "me",
+        "jp": "ありがとう。いただきます。",
+        "rom": "Arigatō. Itadakimasu.",
+        "id": "Terima kasih. Saya mulai makan, ya.",
+        "salah": [
+          {
+            "jp": "ありがとう。ごちそうさまでした。",
+            "why": "“ごちそうさまでした” dipakai setelah selesai makan. Saat baru mulai, gunakan “いただきます”."
+          },
+          {
+            "jp": "ありがとう。いってきます。",
+            "why": "“いってきます” dipakai saat berangkat dari rumah. Kamu akan mulai makan."
+          }
+        ],
+        "note": "いただきます diucapkan sebelum mulai makan; ごちそうさまでした setelah selesai makan."
+      }
+    },
+    {
+      "scenario": "shokuji",
+      "line": 7,
+      "before": {
+        "who": "npc",
+        "jp": "ありがとう。もう たべおわりましたか。",
+        "rom": "Arigatō. Mō tabeowarimashita ka.",
+        "id": "Terima kasih. Sudah selesai makan?"
+      },
+      "after": {
+        "who": "npc",
+        "jp": "ありがとう。もう たべおわりましたか。",
+        "rom": "Arigatō. Mō tabeowarimashita ka.",
+        "id": "Terima kasih. Sudah selesai makan?",
+        "note": "たべおわりましたか berarti “Sudah selesai makan?”. Pahami dulu sebagai ungkapan utuh; pola kata kerja + おわる diperdalam di N4."
+      }
+    }
+  ],
+  "audioPolicy": "Japanese source text, voice metadata and MP3 unchanged; source manifest and import hashes checked, not acoustic transcription."
+}
