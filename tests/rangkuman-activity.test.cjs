@@ -6,7 +6,7 @@ vm.createContext(c);for(const f of ['kana-data.js','kanji-data.js','kanji-search
 const run=s=>vm.runInContext(s,c),plain=s=>JSON.parse(run('JSON.stringify('+s+')'));
 for(const ch of source.chapters)run('rangkumanCache.set('+ch.id+','+JSON.stringify(ch)+')');
 let arranged=0,recalled=0;
-for(const ch of source.chapters.slice(0,25)){
+for(const ch of source.chapters){
  assert.equal(ch.interactive.version,1);c.restoreRangkumanRoute({view:'chapter',chapter:ch.id});
  for(const [index,p] of ch.patterns.entries()){
   assert.ok(p.learning.gist&&p.learning.recipe&&p.learning.note);assert.ok(p.example.tokens.length);
@@ -17,6 +17,7 @@ for(const ch of source.chapters.slice(0,25)){
   assert.ok(!html.includes('summary-note summary-teaching-card'),'one activity rather than a wall of notes');
   c.summaryChooseStage(1);c.summaryExploreToken(0);assert.equal(plain('summaryActivityContext().attempt.token'),0);
   assert.ok(blocks['summary-activity-host'].innerHTML.includes(c.esc(p.example.tokens[0].meaning)));
+  const explored=blocks['summary-activity-host'].innerHTML;assert.ok(explored.includes('</p><p class="summary-example-meaning">'+c.esc(p.example.meaning)+'</p><details'));assert.ok(explored.indexOf('summary-romaji')<explored.indexOf('summary-example-meaning'));
   c.summaryActivitySpeak(0);assert.equal(spoken.at(-1),p.example.tokens[0].kana);
   c.summaryChooseStage(2);c.summaryResetActivity();
   if(p.learning.practice==='arrange'){
@@ -37,9 +38,9 @@ for(const ch of source.chapters.slice(0,25)){
  }
  const chapterHTML=c.summaryActivityHTML(ch);assert.ok(!chapterHTML.includes('summary-chapter-challenge'));assert.ok(!chapterHTML.includes('Coba satu situasi'));assert.ok(!chapterHTML.includes('summary-check'));assert.ok(chapterHTML.includes('summary-switch-section'));
 }
-assert.equal(arranged,119);assert.equal(recalled,11);
-c.restoreRangkumanRoute({view:'chapter',chapter:26});assert.ok(c.summaryGrammarHTML(source.chapters[25]).includes('summary-teaching-card'));assert.ok(!c.summaryGrammarHTML(source.chapters[25]).includes('summary-activity-host'));
+assert.equal(arranged,216);assert.equal(recalled,14);
+c.restoreRangkumanRoute({view:'chapter',chapter:50});assert.ok(c.summaryGrammarHTML(source.chapters[49]).includes('summary-activity-host'));
 c.restoreRangkumanRoute({view:'chapter',chapter:1,studyPattern:999,studyStage:999});c.summaryGrammarHTML(source.chapters[0]);assert.equal(c.getRangkumanRoute().studyPattern,5);assert.equal(c.getRangkumanRoute().studyStage,2);
 c.summaryChoosePattern(0);c.summaryChooseStage(1);c.summaryToggleKanji();assert.ok(c.summaryActivityBody(source.chapters[0]).includes('私'));
 const doc=fs.readFileSync('dist/index.html','utf8');assert.ok(doc.includes('rangkuman-activity.js')&&doc.includes('rangkuman-activity.css'));
-console.log('PASS: 25 interactive chapters / 130 explanations and token examples, 119 arrangement and 11 recall activities, feedback/retry/removal/duplicate tiles, speech, route restore, keyboard focus, and legacy chapters');
+console.log('PASS: 50 interactive chapters / 230 explanations and token examples with visible translations, 216 arrangement and 14 recall activities, feedback/retry/removal/duplicate tiles, speech, route restore, keyboard focus, and final chapter access');

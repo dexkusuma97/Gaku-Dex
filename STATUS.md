@@ -1267,3 +1267,10 @@ Bab 26–50 identik; seluruh kosakata dan pertanyaan bab dipertahankan. Kosakata
 ## 1 November 2026 — Batch 19: sederhanakan latihan Rangkuman
 
 Sesuai permintaan pengguna, hapus panel tambahan “Coba satu situasi lain di Bab …” dari seluruh Bab 1–25 interaktif, termasuk tombol ulang dan handler khusus panel. Alur Pahami → Bongkar → Coba serta tombol Bekal kosakata tetap. Data pertanyaan sumber dan tampilan Bab 26–50 tidak diubah. Ini menggantikan keputusan batch 18 tentang menampilkan cek situasi bab pada bab interaktif. Tes memastikan panel/cek tambahan tidak dirender pada semua 25 bab.
+
+
+## 1 November 2026 — Batch 20: Bab 26–50 interaktif dan arti di bawah romaji
+
+100 pola Bab 26–50 ditinjau: fungsi, pembentukan, contoh terurai dan catatan. Total 50 bab/230 pola interaktif, 216 latihan susun + 14 ungkapan. Arti kalimat pada Bongkar langsung terlihat setelah romaji pada semua bab; lipatan khusus catatan. Tidak menambahkan kembali cek situasi dari paket 19. Judul Bab 46 menghindari klaim pasti.
+
+44 berkas tes lulus; cakupan kegiatan dan terjemahan semua 230 pola. Build stabil; kosakata/pertanyaan semua bab dan data Bab 1–25 identik dengan paket 19. Browser lebar 390 piksel diperiksa pada Bab 1/26/50. Belum Android fisik atau uji pemahaman peserta. Rincian: data/RANGKUMAN_26_50_20261101.md. Audit kosakata rangkuman satu per satu masih belum dilakukan. Paket kumulatif 1–19.

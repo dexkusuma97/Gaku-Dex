@@ -18,7 +18,7 @@ const fromGroups=[];for(let n=1;n<=41;n+=10){const data=JSON.parse(fs.readFileSy
 assert.equal(new Set(fromGroups.flatMap(e=>e.vocab.map(w=>w.id))).size,2910);
 assert.ok(c.summaryLibraryResults('kenalan').some(e=>e.id===1));assert.ok(c.summaryLibraryResults('rencana').some(e=>e.id===31));
 const ch1=source.chapters[0];for(const q of ['watashi','わたし','ワタシ','私','saya'])assert.ok(c.summaryWordResults(ch1,q).some(e=>e.jp==='私'),q);
-assert.ok(source.chapters[30].patterns.some(e=>e.text.includes('ちゅうごく')));assert.ok(source.chapters[7].patterns.some(e=>e.text.includes('しずかです')));assert.ok(!source.chapters[34].patterns.some(e=>e.text.includes('(hasil pasti)')));
+assert.ok(source.chapters[30].patterns.some(e=>e.example?.kana.includes('げつようび')));assert.ok(source.chapters[7].patterns.some(e=>e.text.includes('しずかです')));assert.ok(!source.chapters[34].patterns.some(e=>e.text.includes('(hasil pasti)')));
 assert.equal(source.chapters[13].vocab.find(e=>e.number===6).kana,'まちます');assert.equal(source.chapters[3].vocab.find(e=>e.number===16).kana,'なんじ');assert.equal(source.chapters[26].vocab.find(e=>e.number===49).jp,'自分');assert.ok(source.chapters[32].vocab.find(e=>e.number===63).meaning);
 for(const b of books){assert.ok(b.pages>0);for(let n=1;n<=b.pages;n++){const file='dist/'+b.assetPath+String(n).padStart(3,'0')+'.webp';assert.ok(fs.statSync(file).size>1000,file)}}assert.equal(books.filter(b=>b.id<=2).reduce((s,b)=>s+b.pages,0),384);assert.deepEqual(books.map(b=>b.id),[1,2,3,4]);assert.ok(books.slice(2).every(b=>b.pages===82));
 c.restoreRangkumanRoute({view:'reader',book:2,bookPage:999,chapter:99,zoom:99});assert.equal(c.getRangkumanRoute().bookPage,180);assert.equal(c.getRangkumanRoute().chapter,50);assert.equal(c.getRangkumanRoute().zoom,3);
