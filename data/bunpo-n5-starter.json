@@ -1,0 +1,244 @@
+{
+  "sections": [
+    {
+      "title": "1. Kenali tulisan dan cara membaca",
+      "paragraphs": [
+        "Hiragana seperti あ dipakai untuk bunyi dan akhiran kata. Katakana seperti ア sering dipakai untuk kata serapan. Kanji seperti 本 membawa makna dan dibaca sesuai kata; bacaan contohnya tersedia pada baris kana di bawah kalimat.",
+        "Belum lancar membaca kana? Ketuk Tampilkan romaji di detail untuk bantuan huruf Latin. Pelajari hiragana dan katakana sedikit demi sedikit di menu Kana sambil mencoba kalimat; tidak perlu menunggu menguasai semua kanji.",
+        "Bahasa Jepang biasanya ditulis tanpa spasi. Baris bacaan di aplikasi diberi spasi sebagai bantuan belajar. 。 adalah titik, 、 adalah koma, dan 「 」 adalah tanda kutip. Bunyi panjang seperti pada shou perlu dibaca lebih panjang, bukan dipotong menjadi dua kata."
+      ]
+    },
+    {
+      "title": "2. Mulai dari satu kalimat",
+      "paragraphs": [
+        "Kata benda menyebut orang, tempat, atau hal: わたし berarti saya, がくせい berarti pelajar. Pola AはBです menjelaskan A sebagai B. は menandai topik, hal yang sedang dibicarakan; sebagai partikel dibaca wa. です menutup penjelasan dengan sopan.",
+        "Bertanya: tambahkan か setelah です. Menyatakan bukan: ganti です dengan じゃないです atau ではありません. Untuk masa lalu gunakan でした; bukan pada masa lalu dapat memakai じゃなかったです.",
+        "これ berarti ini, それ itu dekat lawan bicara, あれ itu yang jauh dari keduanya. この／その／あの harus diikuti benda: このほん, buku ini. はい berarti ya dan いいえ berarti tidak; jawaban lengkap mengikuti isi pertanyaan."
+      ],
+      "examples": [
+        {
+          "jp": "私は学生です。",
+          "kana": "わたし は がくせい です。",
+          "meaning": "Saya pelajar."
+        },
+        {
+          "jp": "学生ですか。",
+          "kana": "がくせい です か。",
+          "meaning": "Apakah kamu pelajar?"
+        },
+        {
+          "jp": "学生じゃないです。",
+          "kana": "がくせい じゃない です。",
+          "meaning": "Saya bukan pelajar."
+        }
+      ]
+    },
+    {
+      "title": "3. Kenali urutan dan partikel",
+      "paragraphs": [
+        "Kata kerja menyebut tindakan seperti makan atau membaca. Pada pola dasar, kata kerja berada di akhir. Dalam わたしはみずをのみます, urutannya saya—air—minum. を menandai apa yang diminum dan dibaca o.",
+        "Partikel adalah kata kecil setelah suatu kata untuk menunjukkan perannya. は: topik; が: hal yang menjadi pokok keterangan; を: sasaran tindakan; に: waktu tertentu, tujuan, atau lokasi keberadaan; で: tempat kegiatan atau alat; へ: arah, dibaca e. Maknanya akan dijelaskan lagi pada tiap materi.",
+        "Hal yang sudah jelas dari situasi sering tidak disebut, termasuk saya atau kamu. Jangan menambahkan わたし pada setiap kalimat atau です setelah kata kerja yang sudah berakhiran ます."
+      ],
+      "examples": [
+        {
+          "jp": "私は水を飲みます。",
+          "kana": "わたし は みず を のみます。",
+          "meaning": "Saya minum air."
+        }
+      ]
+    },
+    {
+      "title": "4. Baca rumus selangkah demi selangkah",
+      "paragraphs": [
+        "N berarti kata benda dan V berarti kata kerja. A dan B hanya penanda bagian kalimat pertama dan berikutnya. Tanda + berarti menyambungkan bagian; tanda → menunjukkan hasil perubahan. Jangan membaca tanda itu sebagai kata.",
+        "Positif berarti pernyataan biasa; negatif berarti tidak atau bukan; lampau berarti membicarakan yang sudah lewat. Bentuk bukan lampau dapat menjelaskan keadaan sekarang, kebiasaan, atau rencana; waktu ditentukan bersama konteks.",
+        "Kata sifat menjelaskan keadaan. Kelompok sifat-i misalnya さむい, dingin; sifat-na misalnya しずか, tenang. な pada sifat-na muncul saat langsung diikuti benda: しずかなへや, kamar tenang. Kelompoknya dipelajari bersama kosakata."
+      ]
+    },
+    {
+      "title": "5. Cara belajar sendiri",
+      "paragraphs": [
+        "Mulai dari pengantar ini, lalu は, を, に, で dan bentuk sopan kata kerja. Setelah itu pelajari sifat-i／sifat-na, bentuk て, permintaan, dan pola lain sedikit demi sedikit. Nomor daftar adalah urutan koleksi; kamu boleh membuka fondasi yang dibutuhkan lebih dahulu.",
+        "Untuk satu materi: baca fungsinya, ikuti satu perubahan kata, baca contoh kana dengan suara sendiri, lalu buka artinya. Ubah satu kata yang sudah kamu kenal untuk mencoba kalimat baru. Pengayaan bentuk kemampuan boleh dipelajari setelah bentuk dasarnya terasa mudah."
+      ]
+    }
+  ],
+  "verbGuide": {
+    "paragraphs": [
+      "Bentuk kamus adalah bentuk yang dicari di kamus: よむ, membaca. Bentuk sopannya よみます. Bentuk biasa mencakup bentuk kamus, negatif ない, lampau た, dan negatif lampau: よむ／よまない／よんだ／よまなかった.",
+      "Gol. I, II, dan III adalah kelompok perubahan kata kerja. Gol. I mengubah bunyi kana terakhir. Gol. II membuang る sebelum akhiran. Gol. III adalah する dan くる yang berubah khusus. Tidak semua kata berakhiran る masuk gol. II: かえる, pulang, termasuk gol. I.",
+      "Tanpa ます berarti buang ます saja: よみます→よみ. Jangan menyamakan pangkal よみ dengan bentuk kamus よむ. Pelajari kosakata beserta golongan dan bentuk kamusnya; bentuknya tidak selalu bisa ditebak dari akhiran る.",
+      "Vて adalah bentuk sambungan, termasuk yang berakhiran で. Vた adalah bentuk lampau biasa, termasuk yang berakhiran だ. Bentuk た dapat dibuat dari bentuk て: ganti て→た atau で→だ. Pola seperti setelah makan tetap memakai bentuk ini meski seluruh rencana masih di masa depan."
+    ],
+    "tables": [
+      {
+        "title": "Kenali enam bentuk lewat contoh",
+        "headers": [
+          "Kamus／arti",
+          "Sopan",
+          "Negatif biasa",
+          "Bentuk て",
+          "Lampau biasa"
+        ],
+        "rows": [
+          [
+            "よむ（I）membaca",
+            "よみます",
+            "よまない",
+            "よんで",
+            "よんだ"
+          ],
+          [
+            "かえる（I）pulang",
+            "かえります",
+            "かえらない",
+            "かえって",
+            "かえった"
+          ],
+          [
+            "たべる（II）makan",
+            "たべます",
+            "たべない",
+            "たべて",
+            "たべた"
+          ],
+          [
+            "みる（II）melihat",
+            "みます",
+            "みない",
+            "みて",
+            "みた"
+          ],
+          [
+            "する（III）melakukan",
+            "します",
+            "しない",
+            "して",
+            "した"
+          ],
+          [
+            "くる（III）datang",
+            "きます",
+            "こない",
+            "きて",
+            "きた"
+          ]
+        ]
+      },
+      {
+        "title": "Aturan akhiran golongan I",
+        "headers": [
+          "Akhiran kamus",
+          "Ganti untuk ます",
+          "Ganti untuk ない",
+          "Ganti untuk て",
+          "Ganti untuk た"
+        ],
+        "rows": [
+          [
+            "う",
+            "います",
+            "わない",
+            "って",
+            "った"
+          ],
+          [
+            "つ",
+            "ちます",
+            "たない",
+            "って",
+            "った"
+          ],
+          [
+            "る",
+            "ります",
+            "らない",
+            "って",
+            "った"
+          ],
+          [
+            "む",
+            "みます",
+            "まない",
+            "んで",
+            "んだ"
+          ],
+          [
+            "ぶ",
+            "びます",
+            "ばない",
+            "んで",
+            "んだ"
+          ],
+          [
+            "ぬ",
+            "にます",
+            "なない",
+            "んで",
+            "んだ"
+          ],
+          [
+            "く",
+            "きます",
+            "かない",
+            "いて",
+            "いた"
+          ],
+          [
+            "ぐ",
+            "ぎます",
+            "がない",
+            "いで",
+            "いだ"
+          ],
+          [
+            "す",
+            "します",
+            "さない",
+            "して",
+            "した"
+          ]
+        ]
+      },
+      {
+        "title": "Aturan golongan II dan pengecualian",
+        "headers": [
+          "Jenis",
+          "Aturan／contoh"
+        ],
+        "rows": [
+          [
+            "Gol. II",
+            "Buang る + ます／ない／て／た; たべる→たべます／たべない／たべて／たべた"
+          ],
+          [
+            "Khusus 行く（いく）",
+            "いきます／いかない／いって／いった"
+          ],
+          [
+            "Khusus ある: ada",
+            "あります／ない／あって／あった"
+          ],
+          [
+            "Negatif lampau biasa",
+            "Ubah ない→なかった; よまない→よまなかった"
+          ],
+          [
+            "Negatif sopan",
+            "Ganti ます→ません; よみます→よみません"
+          ],
+          [
+            "Lampau sopan",
+            "Ganti ます→ました; よみます→よみました"
+          ],
+          [
+            "Negatif lampau sopan",
+            "Ganti ます→ませんでした; よみます→よみませんでした"
+          ]
+        ]
+      }
+    ],
+    "closing": "Pada tabel gol. I, ganti hanya kana terakhir, bukan seluruh kata: かく→かきます／かかない／かいて／かいた. Ada bentuk sopan khusus pada kosakata tertentu; panduan ini mengajarkan aturan dasar dan pengecualian yang dipakai dalam materi."
+  }
+}

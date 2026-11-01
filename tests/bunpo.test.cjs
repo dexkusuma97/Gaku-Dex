@@ -31,3 +31,24 @@ assert.deepEqual(Array.from(c.findBunpo('','all','all',true,['tai','naru']),x=>x
 assert.ok(c.bunpoExampleRomaji('わたし は がっこう へ いきます。').includes('watashi wa gakkou e ikimasu'));
 assert.ok(!fs.readFileSync('dist/index.html','utf8').includes('tiny-progress'),'Removed progress bars, including demo quiz bar');
 console.log('PASS: 83 Bunpo records, all 36 source pages, 166 examples, 16 checks, search, filters, saved-only, N4 isolation and pagination');
+
+// Beginner references and kana support must reach both list and lesson detail.
+const starter=JSON.parse(fs.readFileSync('data/bunpo-n5-starter.json','utf8'));
+assert.deepEqual(JSON.parse(vm.runInContext('JSON.stringify(BUNPO_N5_STARTER)',c)),starter);
+Object.assign(c,{prefs:{level:'N5'},page:'Bunpo',title:(a,b)=>a+b,esc:x=>String(x),localStorage:{getItem:()=>null,setItem(){}},stopAudio(){},pushRoute(){},updateScreen(){},toast(){},history:{replaceState(){}},appRoute:()=>({}),render(){},document:{getElementById:()=>null,querySelector:()=>null}});
+vm.runInContext(fs.readFileSync('dist/bunpo-ui.js','utf8'),c);
+assert.ok(c.bunpoScreen().includes('Mulai dari nol'));
+assert.ok(c.bunpoScreen().includes('watashi wa gakusei desu'));
+assert.ok(!/<details[^>]*\sopen(?:\s|>)/.test(c.bunpoScreen()),'References initially collapsed');
+for(const e of source.lessons){
+ c.restoreBunpoRoute({view:'detail',id:e.id});const html=c.bunpoScreen();
+ for(const text of [e.explanation,e.note,...e.patterns,...e.examples.flatMap(x=>[x.jp,x.kana,x.meaning])])assert.ok(html.includes(text),e.id+' rendered content');
+ assert.ok(html.includes('Mulai dari nol')&&html.includes('Panduan bentuk kata kerja'));
+ if(e.check){
+  for(const text of [e.check.promptKana,...(e.check.optionKana||[])].filter(Boolean))assert.ok(html.includes(text),e.id+' check reading');
+  c.answerBunpoCheck(e.check.answer);assert.ok(c.bunpoCheckHTML(e).includes('Tepat!'));
+ }
+}
+c.prefs.level='N4';c.resetBunpoRoute();assert.ok(!c.bunpoScreen().includes('Mulai dari nol'));
+c.restoreBunpoRoute({view:'detail',id:'n4-passive'});assert.ok(!c.bunpoScreen().includes('Mulai dari nol'));
+console.log('PASS: beginner guides, kana/romaji exercise support, all 83 detail records and N4 separation');

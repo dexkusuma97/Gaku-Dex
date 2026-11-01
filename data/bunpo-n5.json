@@ -96,23 +96,23 @@
       "kana": "いけいようし",
       "romaji": "i keiyoushi",
       "meaning": "Menyatakan sifat dan mengubah waktunya",
-      "explanation": "Kata sifat-i dapat menjadi predikat dengan tambahan です. Untuk negatif dan lampau, ubah akhiran い pada kata sifatnya. Bentuk lampau tidak dibuat dengan menempelkan でした setelah kata sifat-i.",
+      "explanation": "Kata sifat menjelaskan keadaan, misalnya さむい berarti dingin. Pada kelompok sifat-i, い terakhir berubah saat mengatakan tidak atau keadaan masa lalu. Mulai dari さむいです: dingin; lalu perhatikan perubahan akhirnya di bawah.",
       "patterns": [
-        "Sifat-i + です",
-        "Buang い + くないです",
-        "Buang い + かったです",
-        "Buang い + くなかったです"
+        "Sekarang／umum: さむい + です → さむいです",
+        "Tidak: buang い + くないです → さむくないです",
+        "Lampau: buang い + かったです → さむかったです",
+        "Tidak, pada masa lalu: buang い + くなかったです → さむくなかったです"
       ],
-      "note": "Bentuk negatif sopan lain: ～くありません dan ～くありませんでした. Kata きれい termasuk sifat-na meskipun berakhir dengan bunyi i.",
+      "note": "Bentuk lampau membicarakan keadaan yang sudah lewat, misalnya kemarin. Jangan membuat さむいでした. きれい berarti indah／bersih, tetapi termasuk sifat-na; pelajari kelompok kata bersama kosakatanya.",
       "examples": [
         {
           "jp": "この本はおもしろいです。",
-          "kana": "この ほん は おもしろいです。",
+          "kana": "この ほん は おもしろい です。",
           "meaning": "Buku ini menarik."
         },
         {
           "jp": "昨日は寒くなかったです。",
-          "kana": "きのう は さむくなかったです。",
+          "kana": "きのう は さむくなかった です。",
           "meaning": "Kemarin tidak dingin."
         }
       ],
@@ -155,8 +155,19 @@
           "昨日は寒いでした。"
         ],
         "answer": 0,
-        "explanation": "Sifat-i berubah menjadi ～かったです untuk lampau."
-      }
+        "explanation": "Sifat-i berubah menjadi ～かったです untuk lampau.",
+        "optionKana": [
+          "きのう は さむかった です。",
+          "きのう は さむい でした。"
+        ]
+      },
+      "searchTerms": [
+        "本はおもしろいです",
+        "昨日は",
+        "寒くなかったです",
+        "寒かったです",
+        "寒いでした"
+      ]
     },
     {
       "id": "ii",
@@ -169,23 +180,24 @@
       "kana": "いい・よい",
       "romaji": "ii / yoi",
       "meaning": "Perubahan khusus kata “baik”",
-      "explanation": "いい dan よい sama-sama berarti baik. Saat いい diubah ke bentuk negatif, lampau, atau penghubung, gunakan dasar よ. Bentuk いい tetap dipakai dalam kalimat positif sekarang.",
+      "explanation": "いい berarti baik atau bagus. Kata ini punya perubahan khusus: saat dibuat tidak atau lampau, dasarnya menjadi よ, bukan い. Jadi baik adalah いいです, tetapi tidak baik adalah よくないです.",
       "patterns": [
-        "いいです → よくないです",
-        "いいです → よかったです",
-        "いいです → よくなかったです",
-        "いい → よくて"
+        "Bagus: いいです; よいです juga benar",
+        "Tidak bagus: よくないです",
+        "Dulu／tadi bagus: よかったです",
+        "Dulu／tadi tidak bagus: よくなかったです",
+        "Untuk menyambung sifat: よくて"
       ],
-      "note": "かっこいい mengikuti perubahan yang sama: かっこよかったです (dulu/kondisi tadi keren).",
+      "note": "Jangan membuat いかった atau いくない. かっこいい, keren, mengikuti perubahan yang sama: かっこよかったです berarti dulu／tadi keren.",
       "examples": [
         {
           "jp": "このかばんはいいです。",
-          "kana": "この かばん は いいです。",
+          "kana": "この かばん は いい です。",
           "meaning": "Tas ini bagus."
         },
         {
           "jp": "昨日の天気はよかったです。",
-          "kana": "きのう の てんき は よかったです。",
+          "kana": "きのう の てんき は よかった です。",
           "meaning": "Cuaca kemarin bagus."
         }
       ],
@@ -196,7 +208,11 @@
       },
       "order": 2,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "昨日の",
+        "天気はよかったです"
+      ]
     },
     {
       "id": "na-adjective",
@@ -209,23 +225,24 @@
       "kana": "なけいようし",
       "romaji": "na keiyoushi",
       "meaning": "Sifat seperti tenang, indah, dan praktis",
-      "explanation": "Sifat-na memakai です saat menjadi predikat. Untuk negatif, gunakan ではありません atau じゃないです. Akhiran な digunakan ketika sifat langsung menerangkan kata benda, bukan sebelum です.",
+      "explanation": "Sifat-na adalah kelompok kata sifat seperti きれい: bersih／indah, dan しずか: tenang. Saat menutup kalimat, tambahkan です. な dipakai jika langsung diikuti benda, seperti しずかなへや: kamar yang tenang; bukan sebelum です.",
       "patterns": [
-        "Sifat-na + です",
-        "Sifat-na + じゃないです",
-        "Sifat-na + でした",
-        "Sifat-na + じゃなかったです"
+        "Bersih: きれいです",
+        "Tidak bersih: きれいじゃないです",
+        "Dulu／tadi bersih: きれいでした",
+        "Dulu／tadi tidak bersih: きれいじゃなかったです",
+        "Sebelum benda: しずか + な + へや"
       ],
-      "note": "では lebih formal daripada じゃ. きれい (indah/bersih), 静か (tenang), dan 好き (suka) termasuk kelompok ini.",
+      "note": "Jangan membuat きれいくない atau きれいなです. じゃ adalah bentuk percakapan dari では; きれいではありません juga berarti tidak bersih. Hafalkan jenis sifatnya, bukan hanya bunyi akhirnya.",
       "examples": [
         {
           "jp": "この部屋はきれいです。",
-          "kana": "この へや は きれいです。",
+          "kana": "この へや は きれい です。",
           "meaning": "Kamar ini bersih."
         },
         {
           "jp": "昨日は暇じゃなかったです。",
-          "kana": "きのう は ひま じゃ なかったです。",
+          "kana": "きのう は ひま じゃ なかった です。",
           "meaning": "Kemarin saya tidak senggang."
         }
       ],
@@ -268,8 +285,21 @@
           "この部屋はきれいじゃないです。"
         ],
         "answer": 1,
-        "explanation": "きれい adalah sifat-na, jadi gunakan じゃないです."
-      }
+        "explanation": "きれい adalah sifat-na, jadi gunakan じゃないです.",
+        "optionKana": [
+          "この へや は きれいくない です。",
+          "この へや は きれい じゃない です。"
+        ]
+      },
+      "searchTerms": [
+        "静か",
+        "好き",
+        "部屋はきれいです",
+        "昨日は",
+        "暇じゃなかったです",
+        "部屋はきれいくないです",
+        "部屋はきれいじゃないです"
+      ]
     },
     {
       "id": "verb-forms",
@@ -282,56 +312,80 @@
       "kana": "ます・ません・ました・ませんでした",
       "romaji": "masu / masen / mashita / masen deshita",
       "meaning": "Mengenali perubahan kata kerja",
-      "explanation": "Bentuk ～ます dipakai untuk kalimat sopan. ～ません menyatakan negatif, ～ました lampau, dan ～ませんでした negatif lampau. Bentuk biasa sering muncul sebelum pola lain seperti とき atau saat menerangkan kata benda.",
+      "explanation": "Kata kerja menyebut tindakan, misalnya たべる: makan. Bentuk sopannya たべます dipakai untuk kebiasaan atau rencana, bukan otomatis sedang makan. Ganti akhirannya untuk menyatakan tidak, sudah lewat, atau tidak dilakukan pada masa lalu.",
       "patterns": [
-        "～ます → ～ません",
-        "～ます → ～ました",
-        "～ます → ～ませんでした"
+        "Makan／akan makan: たべます",
+        "Tidak makan／tidak akan makan: たべません",
+        "Makan pada masa lalu: たべました",
+        "Tidak makan pada masa lalu: たべませんでした"
       ],
-      "note": "Bentuk biasa tidak selalu cukup dibuat dengan membuang ます. Kenali kelompok kata kerjanya; する dan 来る memiliki perubahan khusus. ある menjadi ない dalam bentuk biasa negatif.",
+      "note": "Bentuk kamus adalah bentuk yang dicari di kamus, misalnya たべる. Bentuk biasa mencakup たべる, たべない, たべた, たべなかった. Jangan sekadar membuang ます untuk mencari bentuk kamus. Buka panduan bentuk kata kerja bila perlu.",
       "examples": [
         {
           "jp": "今日は勉強します。",
-          "kana": "きょう は べんきょうします。",
+          "kana": "きょう は べんきょう します。",
           "meaning": "Hari ini saya belajar."
         },
         {
           "jp": "昨日は勉強しませんでした。",
-          "kana": "きのう は べんきょうしませんでした。",
+          "kana": "きのう は べんきょう しません でした。",
           "meaning": "Kemarin saya tidak belajar."
         }
       ],
       "table": {
         "headers": [
-          "Sopan / biasa",
+          "Sopan／biasa",
           "Negatif",
           "Lampau",
           "Negatif lampau"
         ],
         "rows": [
           [
-            "あります / ある",
-            "ありません / ない",
-            "ありました / あった",
-            "ありませんでした / なかった"
+            "たべます／たべる",
+            "たべません／たべない",
+            "たべました／たべた",
+            "たべませんでした／たべなかった"
           ],
           [
-            "します / する",
-            "しません / しない",
-            "しました / した",
-            "しませんでした / しなかった"
+            "よみます／よむ",
+            "よみません／よまない",
+            "よみました／よんだ",
+            "よみませんでした／よまなかった"
           ],
           [
-            "来ます / くる",
-            "来ません / こない",
-            "来ました / きた",
-            "来ませんでした / こなかった"
+            "あります／ある",
+            "ありません／ない",
+            "ありました／あった",
+            "ありませんでした／なかった"
+          ],
+          [
+            "します／する",
+            "しません／しない",
+            "しました／した",
+            "しませんでした／しなかった"
+          ],
+          [
+            "きます／くる",
+            "きません／こない",
+            "きました／きた",
+            "きませんでした／こなかった"
           ]
         ]
       },
       "order": 4,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "来る",
+        "今日は",
+        "勉強します",
+        "昨日は",
+        "勉強しませんでした",
+        "来ます",
+        "来ません",
+        "来ました",
+        "来ませんでした"
+      ]
     },
     {
       "id": "noun-modifiers",
@@ -344,21 +398,21 @@
       "kana": "い・な ＋ めいし",
       "romaji": "i / na + meishi",
       "meaning": "Menerangkan benda secara langsung",
-      "explanation": "Dalam bahasa Jepang, keterangan diletakkan sebelum benda yang diterangkan. Sifat-i langsung menempel pada kata benda. Sifat-na memerlukan な di antaranya.",
+      "explanation": "Dalam bahasa Indonesia kita mengatakan gunung tinggi; dalam bahasa Jepang urutannya tinggi lalu gunung. Sifat-i langsung diikuti benda. Sifat-na memakai な di antara sifat dan benda; kata yang diterangkan berada di akhir kelompok itu.",
       "patterns": [
-        "Sifat-i + kata benda",
-        "Sifat-na + な + kata benda"
+        "Sifat-i + benda; たかい + やま → たかいやま: gunung tinggi",
+        "Sifat-na + な + benda; しずか + な + へや: kamar tenang"
       ],
-      "note": "Jangan menambahkan の setelah sifat-i. Bandingkan 高い山 (gunung tinggi) dan きれいな海 (laut yang indah).",
+      "note": "Tidak perlu の setelah sifat-i: たかいやま, bukan たかいのやま. です dipakai di akhir kalimat yang sopan, bukan di antara sifat dan benda.",
       "examples": [
         {
-          "jp": "高い山が見えます。",
-          "kana": "たかい やま が みえます。",
-          "meaning": "Terlihat gunung yang tinggi."
+          "jp": "これは高い山です。",
+          "kana": "これ は たかい やま です。",
+          "meaning": "Ini gunung yang tinggi."
         },
         {
           "jp": "静かな部屋で勉強します。",
-          "kana": "しずかな へや で べんきょうします。",
+          "kana": "しずかな へや で べんきょう します。",
           "meaning": "Saya belajar di kamar yang tenang."
         }
       ],
@@ -369,7 +423,17 @@
       },
       "order": 5,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "高い",
+        "山",
+        "海",
+        "山が",
+        "見えます",
+        "静かな",
+        "部屋で",
+        "勉強します"
+      ]
     },
     {
       "id": "no-possession",
@@ -382,12 +446,13 @@
       "kana": "の",
       "romaji": "no",
       "meaning": "Kepemilikan, asal, dan hubungan antarbenda",
-      "explanation": "の menghubungkan dua kata benda. Kata benda pertama menerangkan yang kedua: pemilik, asal, jenis, atau waktu yang berkaitan dengan benda tersebut. Artinya disesuaikan dengan konteks.",
+      "explanation": "の menghubungkan dua kata benda. Kata setelah の adalah benda utama; kata sebelumnya menjelaskan pemilik, asal, atau kaitannya. わたしのほん berarti buku saya: わたし berarti saya, dan ほん berarti buku.",
       "patterns": [
-        "Pemilik + の + benda",
-        "Asal / jenis / waktu + の + benda"
+        "Pemilik + の + benda; わたしのほん: buku saya",
+        "Asal + の + benda; にほんのくるま: mobil Jepang",
+        "Waktu + の + benda; きのうのしんぶん: koran terbitan kemarin"
       ],
-      "note": "Urutannya berbeda dari bahasa Indonesia: 日本の車 berarti mobil Jepang, sedangkan 私の本 berarti buku saya.",
+      "note": "Urutannya berbeda dari bahasa Indonesia. Pada にほんのくるま, yang dibicarakan mobil, bukan Jepang. の tidak selalu diterjemahkan milik; lihat hubungan kedua katanya.",
       "examples": [
         {
           "jp": "これは私の本です。",
@@ -397,12 +462,22 @@
         {
           "jp": "昨日の新聞を読みます。",
           "kana": "きのう の しんぶん を よみます。",
-          "meaning": "Saya membaca koran kemarin."
+          "meaning": "Saya membaca koran terbitan kemarin."
         }
       ],
       "order": 6,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "日本の",
+        "車",
+        "私の",
+        "本",
+        "本です",
+        "昨日の",
+        "新聞を",
+        "読みます"
+      ]
     },
     {
       "id": "no-substitute",
@@ -415,13 +490,13 @@
       "kana": "の",
       "romaji": "no",
       "meaning": "“Yang …” ketika bendanya sudah jelas",
-      "explanation": "Kalau benda sudah diketahui dari percakapan, の dapat menggantikannya. Gunakan setelah pemilik atau sifat agar tidak perlu mengulang nama benda.",
+      "explanation": "Jika nama benda sudah diketahui, の dapat menggantikannya agar tidak perlu diulang. おおきいの berarti yang besar, misalnya ketika memilih tas. わたしの berarti milik saya jika bendanya sudah jelas dari percakapan.",
       "patterns": [
-        "Pemilik + の",
-        "Sifat-i + の",
-        "Sifat-na + な + の"
+        "Pemilik + の; わたしのです: milik saya",
+        "Sifat-i + の; おおきいの: yang besar",
+        "Sifat-na + な + の; きれいなの: yang indah／bersih"
       ],
-      "note": "Ini berbeda dari の untuk membendakan kegiatan. Di sini の menggantikan benda yang sudah dipahami bersama.",
+      "note": "Pakai saat lawan bicara sudah tahu benda yang dimaksud. の di sini menggantikan benda, bukan kegiatan; penggunaan untuk kegiatan dibahas pada materi Vの.",
       "examples": [
         {
           "jp": "このペンは私のです。",
@@ -436,7 +511,11 @@
       ],
       "order": 7,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "私のです",
+        "大きいのをください"
+      ]
     },
     {
       "id": "existence",
@@ -449,12 +528,13 @@
       "kana": "います・あります",
       "romaji": "imasu / arimasu",
       "meaning": "Ada: makhluk hidup atau benda",
-      "explanation": "います digunakan untuk orang dan hewan. あります digunakan untuk benda dan tumbuhan. Dalam konteks tertentu, keberadaan ini juga menyatakan memiliki sesuatu atau mempunyai anggota keluarga.",
+      "explanation": "Untuk mengatakan ada, gunakan います bagi orang dan hewan, atau あります bagi benda dan tumbuhan. ねこがいます berarti ada kucing. Hal yang ada disebut sebelum が; pilihan います atau あります mengikuti jenis hal itu.",
       "patterns": [
-        "Orang / hewan + が + います",
-        "Benda / tumbuhan + が + あります"
+        "Orang／hewan + がいます; ねこがいます: ada kucing",
+        "Benda／tumbuhan + があります; ほんがあります: ada buku",
+        "Tidak ada: いません／ありません"
       ],
-      "note": "Untuk tumbuhan, gunakan あります pada pola dasar ini. Bentuk negatif sopannya いません dan ありません.",
+      "note": "Pada pola dasar, pohon dan bunga memakai あります. Dalam konteks tertentu pola ini juga menyatakan punya, misalnya おかねがあります: punya uang. Pilih arti dari situasi, bukan satu terjemahan tetap.",
       "examples": [
         {
           "jp": "猫がいます。",
@@ -464,12 +544,16 @@
         {
           "jp": "傘があります。",
           "kana": "かさ が あります。",
-          "meaning": "Ada payung / saya punya payung."
+          "meaning": "Ada payung."
         }
       ],
       "order": 8,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "猫がいます",
+        "傘があります"
+      ]
     },
     {
       "id": "existence-place",
@@ -482,13 +566,13 @@
       "kana": "に ～が います・あります",
       "romaji": "ni ... ga imasu / arimasu",
       "meaning": "Menjelaskan sesuatu berada di mana",
-      "explanation": "Sebutkan tempat terlebih dahulu dengan に, lalu benda atau makhluk yang ada dengan が. Untuk menjelaskan letak benda yang sudah menjadi topik, susunannya dapat menjadi A は tempat にあります／います.",
+      "explanation": "Untuk mengatakan ada sesuatu di suatu tempat, sebutkan tempat＋に, lalu hal yang ada＋が. へやにねこがいます berarti ada kucing di kamar. Jika ingin menjelaskan letak benda yang sudah dibicarakan, mulai dari benda＋は.",
       "patterns": [
-        "Tempat + に + benda + が + あります",
-        "Tempat + に + orang / hewan + が + います",
-        "A + は + tempat + に + あります／います"
+        "Tempat + に + benda + があります",
+        "Tempat + に + orang／hewan + がいます",
+        "Benda／orang + は + tempat + にあります／にいます"
       ],
-      "note": "に menandai lokasi keberadaan. Untuk lokasi berlangsungnya kegiatan seperti belajar atau bekerja, biasanya gunakan で.",
+      "note": "に di sini menunjukkan lokasi keberadaan. へやにいます berarti berada di kamar; へやでべんきょうします berarti belajar di kamar. Tempat kegiatan biasanya memakai で, bukan に.",
       "examples": [
         {
           "jp": "机の上に本があります。",
@@ -516,8 +600,20 @@
           "に"
         ],
         "answer": 1,
-        "explanation": "Keberadaan あります memakai に untuk lokasinya."
-      }
+        "explanation": "Keberadaan あります memakai に untuk lokasinya.",
+        "promptKana": "つくえ の うえ ［…］ほん が あります。"
+      },
+      "searchTerms": [
+        "机の",
+        "上に",
+        "本があります",
+        "先生は",
+        "教室にいます",
+        "教室で",
+        "先生がいます",
+        "教室に",
+        "上"
+      ]
     },
     {
       "id": "wa",
@@ -530,12 +626,12 @@
       "kana": "は",
       "romaji": "wa",
       "meaning": "Menandai topik dan pertentangan",
-      "explanation": "は memperkenalkan hal yang sedang dibicarakan: “kalau tentang A, …”. Partikel ini juga dapat menonjolkan perbedaan antara dua hal. Saat menjadi partikel, は dibaca wa.",
+      "explanation": "は adalah partikel: kata kecil yang menandai fungsi kata sebelumnya. Di sini は memperkenalkan topik, yaitu hal yang sedang dibicarakan. わたしはがくせいです berarti saya pelajar; は sebagai partikel dibaca wa, bukan ha.",
       "patterns": [
-        "Topik + は + keterangan",
-        "A + は …、B + は …"
+        "Topik + は + penjelasan; わたしはがくせいです",
+        "Untuk membedakan: Aは…、Bは…"
       ],
-      "note": "は tidak selalu sama dengan subjek. Pada kalimat negatif atau perbandingan, は dapat menekankan apa yang dibedakan.",
+      "note": "Bayangkan は sebagai kalau tentang …. Tidak perlu menerjemahkannya menjadi kata terpisah setiap kali. は juga bisa menonjolkan perbedaan; jangan menganggapnya selalu sama dengan pelaku tindakan.",
       "examples": [
         {
           "jp": "私は学生です。",
@@ -550,7 +646,15 @@
       ],
       "order": 10,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "私は",
+        "学生です",
+        "肉は",
+        "食べますが",
+        "魚は",
+        "食べません"
+      ]
     },
     {
       "id": "wa-ga",
@@ -563,26 +667,36 @@
       "kana": "は・が",
       "romaji": "wa / ga",
       "meaning": "Mendeskripsikan bagian atau ciri suatu topik",
-      "explanation": "A adalah topik besar, sedangkan B adalah bagian atau unsur yang dijelaskan. Pola ini berguna untuk membicarakan tubuh, ciri tempat, kemampuan, atau kesukaan.",
+      "explanation": "Pola AはBが… menjelaskan bagian atau ciri dari A. A adalah topik besar, dan B adalah hal yang diberi keterangan. あにはせがたかいです berarti kakak laki-laki saya tinggi: あに adalah kakak, せ adalah tinggi badan.",
       "patterns": [
-        "A + は + B + が + sifat / keterangan"
+        "Topik A + は + bagian／ciri B + が + keterangan",
+        "あにはせがたかいです: kakak laki-laki saya tinggi"
       ],
-      "note": "兄は背が高いです berarti kakak laki-laki saya bertubuh tinggi. は menandai kakak sebagai topik dan が menandai 背 sebagai hal yang tinggi.",
+      "note": "Tidak perlu menerjemahkan は dan が satu per satu. Pada とうきょうはひとがおおいです, topiknya Tokyo; yang banyak adalah orangnya. Pola ini bukan selalu kalimat dengan dua pelaku.",
       "examples": [
         {
           "jp": "兄は背が高いです。",
-          "kana": "あに は せ が たかいです。",
+          "kana": "あに は せ が たかい です。",
           "meaning": "Kakak laki-laki saya tinggi."
         },
         {
           "jp": "東京は人が多いです。",
-          "kana": "とうきょう は ひと が おおいです。",
-          "meaning": "Tokyo memiliki banyak penduduk/orang."
+          "kana": "とうきょう は ひと が おおい です。",
+          "meaning": "Di Tokyo ada banyak orang."
         }
       ],
       "order": 11,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "兄は",
+        "背が",
+        "高いです",
+        "背",
+        "東京は",
+        "人が",
+        "多いです"
+      ]
     },
     {
       "id": "ga-question",
@@ -595,12 +709,12 @@
       "kana": "が",
       "romaji": "ga",
       "meaning": "Menanyakan dan menunjukkan subjek",
-      "explanation": "Saat menanyakan siapa atau yang mana yang melakukan sesuatu, が dipakai setelah kata tanya. Jawabannya juga dapat memakai が untuk menunjukkan subjek yang dimaksud.",
+      "explanation": "Gunakan が setelah kata tanya ketika ingin tahu siapa atau yang mana yang melakukan sesuatu. だれがきますか berarti siapa yang akan datang? Jawaban juga bisa memakai が untuk menunjukkan orang yang dimaksud.",
       "patterns": [
-        "だれ / どれ + が + keterangan + か",
-        "Jawaban + が + keterangan"
+        "だれ + が + kegiatan + か; だれがきますか",
+        "Jawaban + が + kegiatan; たなかさんがきます"
       ],
-      "note": "Bandingkan だれが来ますか (siapa yang datang?) dengan 田中さんは来ますか (kalau Tanaka, apakah datang?). Fokus pertanyaannya berbeda.",
+      "note": "だれ berarti siapa; さん adalah sapaan setelah nama orang. 田中 dibaca たなか. だれがきますか menanyakan siapa, sedangkan たなかさんはきますか menanyakan apakah Tanaka datang.",
       "examples": [
         {
           "jp": "誰が来ますか。",
@@ -615,7 +729,14 @@
       ],
       "order": 12,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "来ますか",
+        "田中さんは",
+        "誰が",
+        "田中さんが",
+        "来ます"
+      ]
     },
     {
       "id": "wo",
@@ -628,12 +749,12 @@
       "kana": "を",
       "romaji": "o / wo",
       "meaning": "Objek tindakan dan jalur yang dilalui",
-      "explanation": "を paling sering menandai objek langsung tindakan, misalnya membaca buku. Pada kata kerja gerak tertentu, を menandai tempat yang dilalui atau ditinggalkan. Sebagai partikel, を biasanya diucapkan o.",
+      "explanation": "を menandai benda yang dikenai tindakan: pada ほんをよみます, buku adalah yang dibaca. Partikel を biasanya diucapkan o. Dengan beberapa kata kerja gerak, を juga menunjukkan tempat yang dilalui, misalnya jembatan yang diseberangi.",
       "patterns": [
-        "Objek + を + kata kerja",
-        "Jalur / tempat yang dilalui + を + gerak"
+        "Benda + を + tindakan; みずをのみます: minum air",
+        "Jalur + を + gerak; はしをわたります: menyeberangi jembatan"
       ],
-      "note": "を bukan penanda tempat untuk semua tindakan. 公園を散歩します menekankan berjalan menyusuri taman; 公園で勉強します menyatakan belajar di taman.",
+      "note": "Objek berarti sasaran tindakan, bukan selalu benda mati. を bukan penanda lokasi semua kegiatan: belajar di taman memakai こうえんで, sedangkan menyusuri taman bisa memakai こうえんを.",
       "examples": [
         {
           "jp": "本を読みます。",
@@ -648,7 +769,17 @@
       ],
       "order": 13,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "公園を",
+        "散歩します",
+        "公園で",
+        "勉強します",
+        "本を",
+        "読みます",
+        "橋を",
+        "渡ります"
+      ]
     },
     {
       "id": "to",
@@ -661,12 +792,12 @@
       "kana": "と",
       "romaji": "to",
       "meaning": "“Dan” atau “bersama”",
-      "explanation": "と menyambungkan daftar benda yang disebutkan secara lengkap. Sebelum kata kerja, と juga menandai teman atau pihak lain yang terlibat dalam kegiatan.",
+      "explanation": "と dapat berarti dan saat menggabungkan benda, atau bersama saat menyebut teman melakukan kegiatan. パンとたまご berarti roti dan telur. ともだちといきます berarti pergi bersama teman; lihat kata yang mengikutinya untuk menentukan arti.",
       "patterns": [
-        "Benda A + と + benda B",
-        "Orang + と + kegiatan"
+        "Benda A + と + benda B; パンとたまご",
+        "Orang + と + kegiatan; ともだちといきます"
       ],
-      "note": "と untuk daftar benda tidak menggantikan penghubung antara dua kalimat lengkap. Untuk “lalu” atau “dan” antarkalimat, lihat そして／それから.",
+      "note": "Gunakan と untuk benda dalam daftar atau pihak yang bersama. Untuk menyambungkan dua kalimat lengkap dengan lalu atau dan, pelajari それから／そして; jangan langsung menyisipkan と di antaranya.",
       "examples": [
         {
           "jp": "パンと卵を買います。",
@@ -681,7 +812,14 @@
       ],
       "order": 14,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "卵を",
+        "買います",
+        "友達と",
+        "買い",
+        "物をします"
+      ]
     },
     {
       "id": "ni",
@@ -694,14 +832,14 @@
       "kana": "に",
       "romaji": "ni",
       "meaning": "Lokasi keberadaan, waktu, tujuan, dan penerima",
-      "explanation": "に memiliki beberapa fungsi. Gunakan untuk tempat keberadaan, waktu tertentu, tujuan gerak, atau orang yang menjadi sasaran/penerima tindakan. Perhatikan kata kerja setelahnya untuk menentukan maknanya.",
+      "explanation": "に punya beberapa fungsi; kata setelahnya membantu menentukan arti. Pada waktu tertentu, に berarti pada: しちじに, pukul tujuh. Pada perjalanan bisa menandai tujuan; pada orang bisa menandai pihak yang ditemui atau ditanya.",
       "patterns": [
-        "Waktu tertentu + に",
-        "Tujuan + に + 行きます",
-        "Orang + に + 会います／聞きます",
-        "Kendaraan + に + 乗ります"
+        "Waktu tertentu + に; しちじにおきます: bangun pukul tujuh",
+        "Tujuan + に + gerak; がっこうにいきます",
+        "Orang + に + あいます／ききます: bertemu／bertanya kepada",
+        "Kendaraan + に + のります: naik kendaraan"
       ],
-      "note": "今日・明日・毎日 biasanya tidak memerlukan に sebagai keterangan waktu. Tujuan perjalanan juga dapat memakai へ, yang menekankan arah.",
+      "note": "きょう, hari ini; あした, besok; dan まいにち, setiap hari, biasanya tanpa に untuk waktu. に juga dipakai untuk lokasi keberadaan pada あります／います. Tidak semua に berarti di.",
       "examples": [
         {
           "jp": "七時に起きます。",
@@ -716,7 +854,19 @@
       ],
       "order": 15,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "行きます",
+        "会います",
+        "聞きます",
+        "乗ります",
+        "今日",
+        "明日",
+        "毎日",
+        "七時に",
+        "起きます",
+        "友達に"
+      ]
     },
     {
       "id": "de",
@@ -729,17 +879,17 @@
       "kana": "で",
       "romaji": "de",
       "meaning": "Lokasi kegiatan, alat, dan cakupan",
-      "explanation": "で menandai tempat suatu kegiatan berlangsung serta alat atau cara yang dipakai. Dalam konteks lain, で membatasi kelompok pembanding atau menyatakan jumlah yang dihitung bersama.",
+      "explanation": "で menandai tempat suatu kegiatan atau alat yang digunakan. としょかんでべんきょうします berarti belajar di perpustakaan. でんしゃでいきます berarti pergi dengan kereta; で di sini menunjukkan kendaraan yang dipakai.",
       "patterns": [
-        "Tempat + で + kegiatan",
-        "Alat / kendaraan + で + kegiatan",
-        "Jumlah + で + harga"
+        "Tempat + で + kegiatan; へやでべんきょうします",
+        "Alat／kendaraan + で + kegiatan; ペンでかきます",
+        "Jumlah + で + harga; ふたつでひゃくえん: dua buah seratus yen"
       ],
-      "note": "Bedakan 図書館で勉強します (belajar di perpustakaan) dan 図書館にいます (berada di perpustakaan).",
+      "note": "Tempat melakukan kegiatan memakai で; tempat keberadaan memakai に. としょかんでべんきょうします: belajar di perpustakaan. としょかんにいます: berada di perpustakaan.",
       "examples": [
         {
           "jp": "図書館で勉強します。",
-          "kana": "としょかん で べんきょうします。",
+          "kana": "としょかん で べんきょう します。",
           "meaning": "Saya belajar di perpustakaan."
         },
         {
@@ -763,8 +913,19 @@
           "に"
         ],
         "answer": 0,
-        "explanation": "で menandai tempat berlangsungnya kegiatan belajar."
-      }
+        "explanation": "で menandai tempat berlangsungnya kegiatan belajar.",
+        "promptKana": "としょかん ［…］べんきょう します。"
+      },
+      "searchTerms": [
+        "図書館で",
+        "勉強します",
+        "図書館にいます",
+        "電車で",
+        "学校へ",
+        "行きます",
+        "図書館に",
+        "図書館"
+      ]
     },
     {
       "id": "mo",
@@ -777,12 +938,13 @@
       "kana": "も",
       "romaji": "mo",
       "meaning": "Juga; baik A maupun B",
-      "explanation": "も menambahkan sesuatu yang sama dengan hal sebelumnya. A も B も menyertakan keduanya; jika predikatnya negatif, artinya menjadi “baik A maupun B tidak …”.",
+      "explanation": "も berarti juga ketika menambahkan hal yang sama. Jika seseorang mengatakan ia pelajar, わたしもがくせいです berarti saya juga pelajar. AもBも menyertakan keduanya; jika kalimatnya negatif, maknanya baik A maupun B tidak ….",
       "patterns": [
-        "A + も + keterangan",
-        "A + も + B + も + predikat"
+        "Hal yang ditambahkan + も + penjelasan",
+        "A + も + B + も + penjelasan",
+        "にくもさかなもたべません: tidak makan daging maupun ikan"
       ],
-      "note": "も dapat menggantikan は・が・を sesuai konteks. Partikel seperti に dan で biasanya tetap ada: にも、でも.",
+      "note": "も biasanya menggantikan は, が, atau を pada bagian yang ditambahkan, bukan ditumpuk menjadi はも. Partikel tempat seperti に／で bisa tetap ada: へやにも, di kamar juga.",
       "examples": [
         {
           "jp": "私も学生です。",
@@ -797,7 +959,14 @@
       ],
       "order": 17,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "私も",
+        "学生です",
+        "肉も",
+        "魚も",
+        "食べません"
+      ]
     },
     {
       "id": "ka-choice",
@@ -810,12 +979,12 @@
       "kana": "か",
       "romaji": "ka",
       "meaning": "Memilih A atau B",
-      "explanation": "Di antara dua kata benda, か menyatakan pilihan “atau”. Ini berbeda dari か di akhir kalimat yang membuat pertanyaan. Dalam satu kalimat, kedua fungsi dapat muncul bersamaan.",
+      "explanation": "か berarti atau jika diletakkan di antara pilihan. コーヒーかこうちゃ berarti kopi atau teh hitam. か di akhir kalimat sopan membuat pertanyaan, seperti ほんですか: apakah ini buku? Kedua fungsi itu dapat muncul dalam satu kalimat.",
       "patterns": [
-        "Benda A + か + benda B",
-        "Kalimat sopan + か"
+        "Pilihan A + か + pilihan B",
+        "Kalimat sopan + か; がくせいですか: apakah pelajar?"
       ],
-      "note": "Kalimat tanya sopan umumnya diakhiri か. Jangan menyamakan A か B dengan A と B: yang pertama pilihan, yang kedua daftar.",
+      "note": "AかB adalah pilihan A atau B. AとB adalah daftar A dan B. Untuk jawaban ya atau tidak, はい berarti ya dan いいえ berarti tidak; jawaban lengkap tetap mengikuti isi pertanyaannya.",
       "examples": [
         {
           "jp": "コーヒーか紅茶を飲みます。",
@@ -830,7 +999,12 @@
       ],
       "order": 18,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "紅茶を",
+        "飲みます",
+        "本ですか"
+      ]
     },
     {
       "id": "ya",
@@ -843,11 +1017,12 @@
       "kana": "や・など",
       "romaji": "ya / nado",
       "meaning": "Menyebut beberapa contoh dari sebuah daftar",
-      "explanation": "や dipakai untuk menyebut benda sebagai contoh, bukan daftar lengkap. など dapat ditambahkan setelah unsur terakhir untuk menegaskan “dan sebagainya”.",
+      "explanation": "や menyebut beberapa benda sebagai contoh; daftarnya belum tentu lengkap. パンやくだもの berarti roti, buah, dan hal lain semacam itu. Tambahkan など setelah contoh terakhir jika ingin menyatakan dan sebagainya secara lebih jelas.",
       "patterns": [
-        "A + や + B + など"
+        "Contoh A + や + contoh B",
+        "Contoh A + や + contoh B + など"
       ],
-      "note": "Gunakan と jika daftar hendak disebutkan sebagai satu set lengkap. や memberi kesan masih ada benda lain yang sejenis.",
+      "note": "と menyajikan benda yang disebut sebagai satu daftar; や memberi kesan masih ada contoh lain. など boleh tidak disebutkan, karena や sendiri sudah menandai daftar contoh.",
       "examples": [
         {
           "jp": "パンや果物を買います。",
@@ -862,7 +1037,15 @@
       ],
       "order": 19,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "果物を",
+        "買います",
+        "駅の",
+        "前に",
+        "銀行や",
+        "店などがあります"
+      ]
     },
     {
       "id": "kara-made",
@@ -875,13 +1058,13 @@
       "kana": "から・まで",
       "romaji": "kara / made",
       "meaning": "Dari titik awal sampai titik akhir",
-      "explanation": "から menunjukkan awal dan まで menunjukkan akhir, baik untuk waktu maupun tempat. Keduanya boleh dipakai bersama atau sendiri jika titik lainnya sudah jelas.",
+      "explanation": "から menunjukkan titik awal, dan まで menunjukkan titik akhir. Keduanya dapat dipakai untuk waktu atau tempat. くじからごじまで berarti dari pukul sembilan sampai lima; kalimat berikutnya menjelaskan kegiatan dalam rentang itu.",
       "patterns": [
         "Awal + から + akhir + まで",
-        "Waktu / tempat + から",
-        "Waktu / tempat + まで"
+        "Waktu／tempat + から: dari…",
+        "Waktu／tempat + まで: sampai…"
       ],
-      "note": "から di sini berarti “dari”, berbeda dari から setelah kalimat alasan yang berarti “karena”.",
+      "note": "Boleh memakai salah satunya jika batas lain sudah jelas. から di sini berarti dari; berbeda dari から setelah alasan yang berarti karena. Tidak perlu menambahkan に secara otomatis setelah まで.",
       "examples": [
         {
           "jp": "九時から五時まで働きます。",
@@ -896,7 +1079,15 @@
       ],
       "order": 20,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "九時から",
+        "五時まで",
+        "働きます",
+        "家から",
+        "駅まで",
+        "歩きます"
+      ]
     },
     {
       "id": "goro",
@@ -909,15 +1100,16 @@
       "kana": "ごろ",
       "romaji": "goro",
       "meaning": "Sekitar suatu titik waktu",
-      "explanation": "ごろ dipakai setelah titik waktu untuk menyatakan perkiraan. Bayangkan satu titik di jam atau kalender, bukan panjang durasinya.",
+      "explanation": "ごろ berarti sekitar untuk suatu titik waktu, seperti jam atau bulan. しちじごろ berarti sekitar pukul tujuh. Pakai untuk jawaban kira-kira kapan, bukan kira-kira berapa lama suatu kegiatan berlangsung.",
       "patterns": [
-        "Titik waktu + ごろ"
+        "Titik waktu + ごろ; しちじごろ: sekitar pukul tujuh",
+        "Bulan + ごろ; さんがつごろ: sekitar bulan Maret"
       ],
-      "note": "七時ごろ berarti sekitar pukul tujuh. Untuk durasi sekitar satu jam, gunakan 一時間ぐらい.",
+      "note": "Bedakan いちじごろ: sekitar pukul satu, dan いちじかんぐらい: sekitar satu jam lamanya. じ menunjukkan jam tertentu; じかん menunjukkan lamanya waktu dalam jam.",
       "examples": [
         {
           "jp": "七時ごろ電話します。",
-          "kana": "しちじ ごろ でんわします。",
+          "kana": "しちじ ごろ でんわ します。",
           "meaning": "Saya akan menelepon sekitar pukul tujuh."
         },
         {
@@ -941,8 +1133,24 @@
           "七時ごろ"
         ],
         "answer": 1,
-        "explanation": "七時ごろ adalah sekitar pukul tujuh. 七時間ぐらい menyatakan durasi sekitar tujuh jam."
-      }
+        "explanation": "七時ごろ adalah sekitar pukul tujuh. 七時間ぐらい menyatakan durasi sekitar tujuh jam.",
+        "optionKana": [
+          "しちじかん ぐらい",
+          "しちじ ごろ"
+        ]
+      },
+      "searchTerms": [
+        "七時ごろ",
+        "一時間ぐらい",
+        "電話します",
+        "三月ごろ",
+        "日本へ",
+        "行きます",
+        "一時間ごろ",
+        "待ちます",
+        "一時間",
+        "七時間ぐらい"
+      ]
     },
     {
       "id": "gurai",
@@ -955,11 +1163,13 @@
       "kana": "ぐらい・くらい",
       "romaji": "gurai / kurai",
       "meaning": "Sekitar jumlah, harga, atau durasi",
-      "explanation": "ぐらい dan くらい menyatakan perkiraan kuantitas, harga, atau lamanya waktu. Keduanya dipakai dengan makna dasar yang sama.",
+      "explanation": "ぐらい dan くらい berarti kira-kira untuk jumlah, harga, atau lamanya waktu. いちじかんぐらい berarti sekitar satu jam. Kedua bentuk ini memiliki makna dasar yang sama; pilih salah satu lalu letakkan setelah ukurannya.",
       "patterns": [
-        "Jumlah / durasi + ぐらい／くらい"
+        "Jumlah／harga／durasi + ぐらい atau くらい",
+        "せんえんくらい: sekitar seribu yen",
+        "さんじゅっぷんぐらい: sekitar tiga puluh menit"
       ],
-      "note": "Bedakan 一時間ぐらい (sekitar satu jam) dari 一時ごろ (sekitar pukul satu).",
+      "note": "Durasi berarti lamanya waktu. Untuk titik jam seperti sekitar pukul satu, gunakan いちじごろ. Untuk lamanya sekitar satu jam, gunakan いちじかんぐらい.",
       "examples": [
         {
           "jp": "三十分ぐらいかかります。",
@@ -974,7 +1184,13 @@
       ],
       "order": 22,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "一時間ぐらい",
+        "一時ごろ",
+        "三十分ぐらいかかります",
+        "千円くらいです"
+      ]
     },
     {
       "id": "dake",
@@ -987,11 +1203,13 @@
       "kana": "だけ",
       "romaji": "dake",
       "meaning": "Hanya; membatasi jumlah atau pilihan",
-      "explanation": "だけ membatasi sesuatu pada unsur yang disebutkan. Dalam pola dasar ini, kalimat tetap dapat memakai predikat positif karena makna “hanya” sudah dibawa oleh だけ.",
+      "explanation": "だけ berarti hanya dan membatasi hal atau jumlah yang disebut. みずだけのみます berarti hanya minum air. Kalimat tidak perlu dibuat negatif, karena arti hanya sudah dibawa oleh だけ.",
       "patterns": [
-        "Kata benda / jumlah + だけ"
+        "Benda／jumlah + だけ",
+        "にちようびだけです: hanya hari Minggu",
+        "みずだけのみます: hanya minum air"
       ],
-      "note": "に dan で dapat dipertahankan sesuai kebutuhan: 日曜日にだけ (hanya pada Minggu). Pelajari konteks sebelum menumpuk partikel.",
+      "note": "Letakkan だけ setelah hal yang dibatasi. Pada みずだけのみます, yang dibatasi adalah air sebagai pilihan minuman. Partikel seperti に dan で bisa tetap dipakai jika fungsinya dibutuhkan.",
       "examples": [
         {
           "jp": "休みは日曜日だけです。",
@@ -1006,7 +1224,14 @@
       ],
       "order": 23,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "日曜日にだけ",
+        "休みは",
+        "日曜日だけです",
+        "水だけ",
+        "飲みます"
+      ]
     },
     {
       "id": "combined-wa",
@@ -1019,11 +1244,14 @@
       "kana": "には・では・へは・までは",
       "romaji": "ni wa / de wa / e wa / made wa",
       "meaning": "Menjadikan tempat atau batas sebagai topik",
-      "explanation": "は dapat ditambahkan setelah に・で・へ・まで untuk menonjolkan topik atau pertentangan. Partikel awal tetap membawa makna lokasi, alat, arah, atau batasnya.",
+      "explanation": "は dapat ditambahkan setelah partikel lain untuk menonjolkan topik atau perbedaan. に＋は menjadi には. このまちには berarti kalau di kota ini; に tetap membawa fungsi lokasi, sedangkan は mengangkatnya sebagai hal yang dibicarakan.",
       "patterns": [
-        "に / で / へ / まで + は"
+        "に + は → には; このまちには: kalau di kota ini",
+        "で + は → では; でんしゃでは: kalau dengan kereta",
+        "へ + は → へは; がっこうへは: kalau ke sekolah",
+        "まで + は → までは: sampai batas itu"
       ],
-      "note": "では pada materi ini adalah gabungan で＋は, misalnya 電車では. Bentuk yang sama juga muncul pada ungkapan lain; pahami konteksnya.",
+      "note": "Baca は sebagai wa dan へ sebagai e saat menjadi partikel. では pada でんしゃでは adalah gabungan partikel; では di awal percakapan juga bisa berarti kalau begitu. Lihat susunannya.",
       "examples": [
         {
           "jp": "この町には図書館がありません。",
@@ -1038,7 +1266,13 @@
       ],
       "order": 24,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "電車では",
+        "町には",
+        "図書館がありません",
+        "五時間かかります"
+      ]
     },
     {
       "id": "question-words",
@@ -1051,13 +1285,13 @@
       "kana": "だれ・なに・なん・どこ・どれ・どの",
       "romaji": "dare / nani / nan / doko / dore / dono",
       "meaning": "Siapa, apa, di mana, dan yang mana",
-      "explanation": "Pilih kata tanya sesuai informasi yang dicari. どれ berdiri sendiri, sedangkan どの harus diikuti kata benda. どなた adalah bentuk lebih sopan dari だれ; どちら dapat menjadi bentuk sopan untuk arah, tempat, atau pilihan.",
+      "explanation": "Pilih kata tanya sesuai informasi yang ingin diketahui: だれ berarti siapa, なに／なん berarti apa, どこ berarti di mana. どれ berarti yang mana dan berdiri sendiri; どの harus diikuti benda, misalnya どのほん: buku yang mana.",
       "patterns": [
-        "だれの + benda + ですか",
-        "どれ + ですか",
-        "どの + benda + ですか"
+        "だれの + benda + ですか; だれのペンですか: pena siapa?",
+        "どれですか: yang mana?",
+        "どの + benda + ですか; どのほんですか: buku yang mana?"
       ],
-      "note": "何 memiliki bacaan なに atau なん bergantung susunannya. Contoh yang umum: 何ですか (なんですか) dan 何を食べますか (なにをたべますか).",
+      "note": "何 dibaca なに atau なん menurut gabungannya: なんですか berarti apa, sedangkan なにをたべますか berarti makan apa. どなた adalah siapa yang lebih sopan; どちら bisa menanyakan arah atau pilihan secara sopan.",
       "examples": [
         {
           "jp": "これは誰のペンですか。",
@@ -1113,8 +1347,23 @@
           "どの本"
         ],
         "answer": 1,
-        "explanation": "どの harus diikuti benda; どれ berdiri sendiri."
-      }
+        "explanation": "どの harus diikuti benda; どれ berdiri sendiri.",
+        "optionKana": [
+          "どれ ほん",
+          "どの ほん"
+        ]
+      },
+      "searchTerms": [
+        "何",
+        "何ですか",
+        "何を",
+        "食べますか",
+        "誰の",
+        "本が",
+        "好きですか",
+        "本ですか",
+        "本"
+      ]
     },
     {
       "id": "how-questions",
@@ -1128,13 +1377,13 @@
       "kana": "どうやって・どんな・いくつ",
       "romaji": "dou yatte / donna / ikutsu",
       "meaning": "Cara, jenis, dan jumlah",
-      "explanation": "どうやって menanyakan cara melakukan sesuatu. どんな diikuti kata benda untuk menanyakan jenis atau sifatnya. いくつ menanyakan jumlah; juga bisa dipakai untuk menanyakan usia.",
+      "explanation": "どうやって menanyakan cara: bagaimana melakukannya? どんな diikuti benda untuk menanyakan jenisnya. いくつ menanyakan berapa jumlahnya, dan juga dapat dipakai untuk usia. Pilih kata tanya sesuai jawaban yang kamu butuhkan.",
       "patterns": [
-        "どうやって + kegiatan + か",
-        "どんな + benda + が好きですか",
-        "Benda + を + いくつ + kata kerja + か"
+        "どうやって + kegiatan + か: bagaimana caranya?",
+        "どんな + benda; どんなほん: buku seperti apa?",
+        "Benda + を + いくつ + kegiatan + か: berapa buah?"
       ],
-      "note": "Untuk menanyakan harga gunakan いくら. Untuk panjang waktu atau tingkat, gunakan どのくらい.",
+      "note": "いくら menanyakan harga; どのくらい menanyakan berapa lama atau seberapa. いつ berarti kapan, dan どうして／なぜ berarti mengapa. Jangan menerjemahkan semua pertanyaan berapa dengan satu kata yang sama.",
       "examples": [
         {
           "jp": "どうやって学校へ行きますか。",
@@ -1181,7 +1430,13 @@
       },
       "order": 26,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "好きですか",
+        "学校へ",
+        "行きますか",
+        "買いましたか"
+      ]
     },
     {
       "id": "kochira",
@@ -1194,12 +1449,12 @@
       "kana": "こちら・そちら",
       "romaji": "kochira / sochira",
       "meaning": "Menunjuk dan memperkenalkan secara sopan",
-      "explanation": "こちら dan そちら dapat menunjuk arah atau pihak secara sopan. Dalam perkenalan, こちらは～さんです dipakai untuk memperkenalkan orang yang ada di sisi pembicara.",
+      "explanation": "こちら dan そちら dapat menunjuk arah, tempat, atau pihak dengan sopan. Saat memperkenalkan orang, こちらは…さんです berarti ini …. Misalnya こちらはたなかさんです memperkenalkan Tanaka yang ada di sisi pembicara.",
       "patterns": [
-        "こちら + は + orang + です",
-        "そちら + は + orang / tempat + ですか"
+        "こちらは + nama + さんです",
+        "そちらは + orang／tempat + ですか"
       ],
-      "note": "Saat menyebut keluarga sendiri kepada orang luar, gunakan 母・父. Untuk keluarga orang lain, gunakan お母さん・お父さん. Ini penyesuaian kesopanan, bukan larangan mutlak memakai 私の母.",
+      "note": "さん adalah sapaan sopan setelah nama orang; jangan menambahkan さん pada nama sendiri saat memperkenalkan diri. Untuk menyebut ibu sendiri kepada orang luar, はは lazim digunakan; ibu orang lain biasanya おかあさん.",
       "examples": [
         {
           "jp": "こちらは田中さんです。",
@@ -1214,7 +1469,16 @@
       ],
       "order": 27,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "母",
+        "父",
+        "母さん",
+        "父さん",
+        "私の",
+        "田中さんです",
+        "母です"
+      ]
     },
     {
       "id": "question-ka",
@@ -1227,14 +1491,13 @@
       "kana": "なにか・だれか・どこか・いつか",
       "romaji": "nanika / dareka / dokoka / itsuka",
       "meaning": "Sesuatu, seseorang, suatu tempat, suatu hari",
-      "explanation": "Tambahkan か setelah kata tanya untuk menyebut hal yang belum ditentukan. なにか bukan pertanyaan “apa”, melainkan “sesuatu”.",
+      "explanation": "か setelah kata tanya dapat membentuk kata yang belum ditentukan. なに berarti apa, tetapi なにか berarti sesuatu. だれか berarti seseorang; jangan membacanya sebagai pertanyaan siapa kecuali seluruh kalimat memang berbentuk pertanyaan.",
       "patterns": [
-        "なにか + kata kerja",
-        "だれか + いますか",
-        "どこか + へ／に + 行きます",
-        "いつか + kalimat"
+        "なにか: sesuatu; なにかたべます: makan sesuatu",
+        "だれか: seseorang; だれかいますか: ada seseorang?",
+        "どこか: suatu tempat; いつか: suatu hari nanti"
       ],
-      "note": "Dalam なにか食べます, を sering tidak disebutkan. Untuk tempat tujuan, へ／に dapat dipakai sesuai konteks.",
+      "note": "Pada なにかたべます, を sering tidak disebutkan. どこかへいきます berarti pergi ke suatu tempat. か di akhir kalimat tetap bisa dipakai untuk bertanya tentang seseorang atau sesuatu itu.",
       "examples": [
         {
           "jp": "何か食べましょう。",
@@ -1249,7 +1512,15 @@
       ],
       "order": 28,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "行きます",
+        "食べます",
+        "何か",
+        "食べましょう",
+        "教室に",
+        "誰かいますか"
+      ]
     },
     {
       "id": "question-mo-negative",
@@ -1262,13 +1533,13 @@
       "kana": "だれも・なにも・どこにも",
       "romaji": "daremo / nanimo / doko ni mo",
       "meaning": "Tidak siapa-siapa, tidak apa-apa, tidak ke mana-mana",
-      "explanation": "Gabungan kata tanya dengan も dan predikat negatif meniadakan seluruh kemungkinan. Pastikan bagian akhir kalimat memang negatif.",
+      "explanation": "Kata tanya＋も dengan akhir negatif berarti tidak ada satu pun. だれもいません berarti tidak ada siapa-siapa. なにもたべません berarti tidak makan apa pun; makna tidak ditentukan oleh akhir kalimat yang negatif.",
       "patterns": [
-        "だれも + いません",
-        "なにも + kata kerja negatif",
-        "どこにも／どこへも + 行きません"
+        "だれもいません: tidak ada siapa-siapa",
+        "なにも + kata kerja negatif; なにもたべません",
+        "どこにも／どこへもいきません: tidak pergi ke mana pun"
       ],
-      "note": "Untuk tujuan tempat, partikel に atau へ dapat dipertahankan sebelum も. だれも di sini berarti “tidak seorang pun” karena diikuti negatif.",
+      "note": "Pastikan akhirnya negatif, misalnya いません atau たべません. だれもいます bukan cara dasar untuk mengatakan tidak ada siapa-siapa. に／へ sebelum も boleh tetap ada untuk tujuan tempat.",
       "examples": [
         {
           "jp": "教室に誰もいません。",
@@ -1277,7 +1548,7 @@
         },
         {
           "jp": "今朝は何も食べませんでした。",
-          "kana": "けさ は なにも たべませんでした。",
+          "kana": "けさ は なにも たべません でした。",
           "meaning": "Pagi ini saya tidak makan apa pun."
         }
       ],
@@ -1296,8 +1567,23 @@
           "誰もいます。"
         ],
         "answer": 0,
-        "explanation": "だれも＋negatif menyatakan tidak ada seorang pun."
-      }
+        "explanation": "だれも＋negatif menyatakan tidak ada seorang pun.",
+        "optionKana": [
+          "だれも いません。",
+          "だれも います。"
+        ]
+      },
+      "searchTerms": [
+        "行きません",
+        "教室に",
+        "誰もいません",
+        "今朝は",
+        "何も",
+        "食べませんでした",
+        "食べます",
+        "食べません",
+        "誰もいます"
+      ]
     },
     {
       "id": "question-demo",
@@ -1310,11 +1596,13 @@
       "kana": "なんでも・だれでも・いつでも・どこでも",
       "romaji": "nandemo / daredemo / itsudemo / dokodemo",
       "meaning": "Apa pun, siapa pun, kapan pun, di mana pun",
-      "explanation": "でも setelah kata tanya membuka pilihan tanpa membatasi satu unsur tertentu. どれでも berarti yang mana pun; いつでも berarti kapan saja.",
+      "explanation": "Kata tanya＋でも berarti pilihan terbuka: apa saja, siapa saja, atau kapan saja. なんでもたべます berarti makan apa saja. Pada いつでもきてください, pembicara mempersilakan datang kapan saja, bukan menetapkan satu waktu.",
       "patterns": [
-        "Kata tanya + でも + predikat"
+        "なんでも: apa saja; だれでも: siapa saja",
+        "いつでも: kapan saja; どれでも: yang mana pun",
+        "Ungkapan + kegiatan; なんでもたべます"
       ],
-      "note": "でも di sini adalah bagian dari ungkapan seperti なんでも. Bedakan dari でも yang mengawali kalimat dengan arti “tetapi”.",
+      "note": "何でも dibaca なんでも pada penggunaan ini. でも yang menyatu dengan kata tanya berbeda dari でも di awal kalimat yang berarti tetapi.",
       "examples": [
         {
           "jp": "何でも食べます。",
@@ -1329,7 +1617,12 @@
       ],
       "order": 30,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "何でも",
+        "食べます",
+        "来てください"
+      ]
     },
     {
       "id": "dou-desuka",
@@ -1342,12 +1635,13 @@
       "kana": "どうですか・いかがですか",
       "romaji": "dou desu ka / ikaga desu ka",
       "meaning": "Menanyakan kesan atau menawarkan sesuatu",
-      "explanation": "どうですか menanyakan pendapat atau keadaan. Pola ini juga dapat menawarkan makanan atau minuman. いかがですか memiliki makna serupa dengan tingkat kesopanan lebih tinggi.",
+      "explanation": "どうですか berarti bagaimana untuk menanyakan keadaan atau pendapat. がっこうはどうですか berarti bagaimana sekolahnya? Pola ini juga dapat menawarkan sesuatu: おちゃはいかがですか berarti bagaimana kalau minum teh?",
       "patterns": [
-        "Topik + は + どうですか／いかがですか",
-        "Lampau: どうでしたか／いかがでしたか"
+        "Topik + はどうですか",
+        "Lebih sopan: ～はいかがですか",
+        "Tentang pengalaman lampau: どうでしたか／いかがでしたか"
       ],
-      "note": "どうでしたか menanyakan kesan tentang pengalaman yang sudah terjadi. Untuk menanyakan keputusan tindakan, gunakan どうしますか.",
+      "note": "どうでしたか menanyakan kesan setelah suatu pengalaman. どうしますか berbeda: menanyakan apa yang akan dilakukan atau diputuskan, bukan sekadar pendapat.",
       "examples": [
         {
           "jp": "新しい学校はどうですか。",
@@ -1362,7 +1656,12 @@
       ],
       "order": 31,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "新しい",
+        "学校はどうですか",
+        "茶はいかがですか"
+      ]
     },
     {
       "id": "dou-shimasuka",
@@ -1375,12 +1674,12 @@
       "kana": "どうしますか",
       "romaji": "dou shimasu ka",
       "meaning": "Akan melakukan apa atau memilih tindakan apa",
-      "explanation": "どうしますか menanyakan tindakan atau keputusan yang akan diambil. Bentuk どうしましたか dapat menanyakan apa yang dilakukan sebelumnya; dalam situasi tertentu juga menanyakan ada masalah apa.",
+      "explanation": "どうしますか menanyakan tindakan atau keputusan yang akan diambil. このほんはどうしますか berarti buku ini akan diapakan? Gunakan saat tindakannya belum diputuskan; ini berbeda dari menanyakan apakah bukunya bagus.",
       "patterns": [
-        "Topik + は + どうしますか",
-        "Lampau: どうしましたか"
+        "Hal yang akan ditangani + はどうしますか",
+        "Tentang tindakan lampau: どうしましたか"
       ],
-      "note": "Bedakan 旅行はどうでしたか (bagaimana kesan perjalanannya?) dan 旅行はどうしますか (bagaimana keputusan tentang perjalanan itu?).",
+      "note": "どうでしたか berarti bagaimana kesannya; どうしますか berarti akan bagaimana tindakannya. どうしましたか juga dapat berarti ada apa, misalnya saat melihat seseorang kesulitan.",
       "examples": [
         {
           "jp": "この本はどうしますか。",
@@ -1395,7 +1694,13 @@
       ],
       "order": 32,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "旅行はどうでしたか",
+        "旅行はどうしますか",
+        "本はどうしますか",
+        "今日はどうしますか"
+      ]
     },
     {
       "id": "connect-adjectives",
@@ -1408,16 +1713,17 @@
       "kana": "くて・で",
       "romaji": "kute / de",
       "meaning": "Menghubungkan sifat atau identitas",
-      "explanation": "Untuk menyambungkan sifat-i, buang い lalu tambahkan くて. Sifat-na dan kata benda memakai で. Bagian terakhir kalimat menentukan waktu dan tingkat kesopanan keseluruhan.",
+      "explanation": "Untuk menyebut dua sifat dalam satu kalimat, ubah sifat pertama menjadi penghubung. Sifat-i membuang い lalu memakai くて; sifat-na memakai で. ひろくてあかるいです berarti luas dan terang; sifat terakhir menutup kalimat.",
       "patterns": [
-        "Sifat-i tanpa い + くて",
-        "Sifat-na / kata benda + で"
+        "Sifat-i: ひろい → ひろくて; luas dan…",
+        "Sifat-na: しんせつ → しんせつで; baik hati dan…",
+        "Kata benda + で juga dapat menghubungkan keterangan"
       ],
-      "note": "いい berubah menjadi よくて. Untuk menerangkan benda setelah beberapa sifat, akhiri sifat terakhir dengan bentuk yang cocok sebelum benda.",
+      "note": "いい berubah menjadi よくて, bukan いくて. Untuk masa lalu, ubah bagian akhir kalimat sesuai waktunya. Jangan menambahkan と begitu saja di antara dua kata sifat.",
       "examples": [
         {
           "jp": "この部屋は広くて明るいです。",
-          "kana": "この へや は ひろくて あかるいです。",
+          "kana": "この へや は ひろくて あかるい です。",
           "meaning": "Kamar ini luas dan terang."
         },
         {
@@ -1433,7 +1739,16 @@
       },
       "order": 33,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "部屋は",
+        "広くて",
+        "明るいです",
+        "姉は",
+        "親切で",
+        "元気です",
+        "広いくて"
+      ]
     },
     {
       "id": "negative-connect",
@@ -1446,12 +1761,13 @@
       "kana": "くなくて・じゃなくて",
       "romaji": "kunakute / ja nakute",
       "meaning": "Menyambungkan bentuk negatif",
-      "explanation": "Sifat-i negatif dapat disambungkan dengan ～くなくて. Kata benda dan sifat-na memakai ～じゃなくて atau ～ではなくて. Pola ini juga bisa mengoreksi informasi: “bukan A, melainkan B”.",
+      "explanation": "Untuk menyambungkan sifat negatif, sifat-i memakai ～くなくて. Sifat-na dan benda memakai ～じゃなくて. Pola ini bisa berarti tidak A dan B, atau bukan A melainkan B; lihat bagian sesudahnya untuk membedakan.",
       "patterns": [
-        "Sifat-i tanpa い + くなくて",
-        "Kata benda / sifat-na + じゃなくて"
+        "Sifat-i: からい → からくなくて; tidak pedas dan…",
+        "N／sifat-na + じゃなくて; せんせいじゃなくて: bukan guru, melainkan…",
+        "Lebih formal: ～ではなくて"
       ],
-      "note": "Jangan menyamakan bentuk ini dengan ～ないでください yang menyatakan permintaan agar tidak melakukan tindakan.",
+      "note": "Negatif berarti bentuk tidak atau bukan. ～じゃなくて bisa membetulkan informasi. Jangan tertukar dengan ～ないでください yang meminta orang jangan melakukan tindakan.",
       "examples": [
         {
           "jp": "先生じゃなくて、学生です。",
@@ -1460,13 +1776,19 @@
         },
         {
           "jp": "この料理は辛くなくて、おいしいです。",
-          "kana": "この りょうり は からくなくて、おいしいです。",
+          "kana": "この りょうり は からくなくて、おいしい です。",
           "meaning": "Masakan ini tidak pedas dan enak."
         }
       ],
       "order": 34,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "先生じゃなくて",
+        "学生です",
+        "料理は",
+        "辛くなくて"
+      ]
     },
     {
       "id": "te-sequence",
@@ -1479,11 +1801,13 @@
       "kana": "て・で",
       "romaji": "te / de",
       "meaning": "Melakukan beberapa tindakan berurutan",
-      "explanation": "Bentuk て menghubungkan kegiatan dalam satu rangkaian. Kata kerja terakhir menentukan waktu kalimat. Gunakan bentuk て yang sesuai kelompok kata kerjanya.",
+      "explanation": "Bentuk て adalah perubahan kata kerja untuk menyambungkan kegiatan atau memasangnya pada pola lain. おきて、かおをあらいます berarti bangun lalu mencuci muka. Jangan menambahkan て langsung pada semua kata; perubahannya mengikuti golongan kata kerja.",
       "patterns": [
-        "Vて + Vて + kata kerja akhir"
+        "Kegiatan pertama dalam bentuk て／で + kegiatan berikutnya",
+        "おきる → おきて; よむ → よんで",
+        "Kata kerja akhir menentukan waktu; よんで、ねました: membaca lalu tidur"
       ],
-      "note": "Contoh perubahan: 食べる→食べて、飲む→飲んで、行く→行って、する→して、来る→来て. Akhiran て juga dapat membawa hubungan lain sesuai konteks.",
+      "note": "Bentuk て juga mencakup akhiran で, seperti のむ→のんで. 行く（いく）khusus: いって. Buka panduan bentuk kata kerja untuk aturan lengkap; jangan membuat よむて.",
       "examples": [
         {
           "jp": "朝起きて、顔を洗います。",
@@ -1534,7 +1858,23 @@
       },
       "order": 35,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "食べる",
+        "食べて",
+        "飲む",
+        "飲んで",
+        "行く",
+        "行って",
+        "来る",
+        "来て",
+        "朝起きて",
+        "顔を",
+        "洗います",
+        "本を",
+        "読んで",
+        "寝ました"
+      ]
     },
     {
       "id": "te-kara",
@@ -1547,11 +1887,13 @@
       "kana": "てから",
       "romaji": "te kara",
       "meaning": "Setelah selesai A, baru B",
-      "explanation": "てから menegaskan bahwa kegiatan pertama diselesaikan sebelum kegiatan berikutnya. Cocok untuk menjelaskan urutan yang penting.",
+      "explanation": "～てから berarti setelah melakukan A, baru melakukan B. Ubah kegiatan pertama ke bentuk て atau で lalu tambahkan から. てをあらってから、ごはんをたべます berarti makan setelah mencuci tangan; urutannya penting.",
       "patterns": [
-        "Vて + から + kegiatan berikutnya"
+        "Vて／Vで + から + kegiatan berikutnya",
+        "あらう → あらってから; mencuci dulu, lalu…",
+        "する → してから; melakukan dulu, lalu…"
       ],
-      "note": "から di sini mengikuti bentuk て dan berarti “setelah”. Ini berbeda dari から setelah alasan yang berarti “karena”.",
+      "note": "V berarti kata kerja. から setelah bentuk て berarti setelah, bukan karena. Waktu kalimat mengikuti kata kerja terakhir; bentuk ini bisa dipakai meskipun kegiatannya masih akan dilakukan.",
       "examples": [
         {
           "jp": "手を洗ってから、ご飯を食べます。",
@@ -1566,7 +1908,15 @@
       ],
       "order": 36,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "手を",
+        "洗ってから",
+        "飯を",
+        "食べます",
+        "宿題をしてから",
+        "遊びます"
+      ]
     },
     {
       "id": "sorekara-soshite",
@@ -1579,16 +1929,16 @@
       "kana": "それから・そして",
       "romaji": "sorekara / soshite",
       "meaning": "Lalu; dan juga",
-      "explanation": "それから sering memperkenalkan kegiatan berikutnya dalam urutan waktu. そして menambahkan informasi atau melanjutkan rangkaian cerita. Keduanya menghubungkan kalimat yang sudah dapat berdiri sendiri.",
+      "explanation": "それから berarti setelah itu untuk melanjutkan urutan. そして berarti dan atau kemudian untuk menambah informasi atau melanjutkan cerita. Keduanya dapat diletakkan di awal kalimat baru setelah kalimat sebelumnya selesai.",
       "patterns": [
         "Kalimat A。それから、kalimat B。",
         "Kalimat A。そして、kalimat B。"
       ],
-      "note": "Untuk daftar kata benda gunakan と atau や. Jangan memakai と begitu saja di antara dua kalimat sopan.",
+      "note": "A dan B hanya nama bagian pertama dan berikutnya, bukan kata yang dibaca. Untuk daftar benda gunakan と atau や, bukan langsung menggabungkan dua kalimat sopan dengan と.",
       "examples": [
         {
           "jp": "六時に起きました。それから、散歩しました。",
-          "kana": "ろくじ に おきました。それから、さんぽしました。",
+          "kana": "ろくじ に おきました。それから、さんぽ しました。",
           "meaning": "Saya bangun pukul enam. Setelah itu saya berjalan-jalan."
         },
         {
@@ -1599,7 +1949,16 @@
       ],
       "order": 37,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "六時に",
+        "起きました",
+        "散歩しました",
+        "兄は",
+        "親切です",
+        "料理も",
+        "上手です"
+      ]
     },
     {
       "id": "relative-clause",
@@ -1613,13 +1972,13 @@
       "kana": "ふつうけい ＋ めいし",
       "romaji": "futsuukei + meishi",
       "meaning": "Buku yang dipinjam; orang yang berambut panjang",
-      "explanation": "Letakkan keterangan tepat sebelum benda yang diterangkan. Kata kerja di dalam keterangan memakai bentuk biasa. Kata sifat mengikuti aturan sifat-i atau sifat-na seperti frasa benda biasa.",
+      "explanation": "Kalimat pendek bisa menjelaskan benda, dengan posisi sebelum benda itu. きのうかったほん berarti buku yang dibeli kemarin: かった menjelaskan ほん. Kata kerja penjelas memakai bentuk biasa, bukan bentuk sopan berakhiran ます.",
       "patterns": [
-        "Kata kerja bentuk biasa + benda",
-        "Subjek + が + keterangan + benda",
-        "Sifat-na + な + benda"
+        "Keterangan dengan kata kerja bentuk biasa + benda",
+        "かう → かった; きのうかったほん: buku yang dibeli kemarin",
+        "Jika pelaku disebut: pelaku + が + keterangan + benda"
       ],
-      "note": "図書館で借りた本 berarti buku yang dipinjam di perpustakaan. が dapat berganti の dalam sebagian anak kalimat, tetapi gunakan が dahulu agar pola mudah dikenali.",
+      "note": "Cari benda utama di akhir kelompoknya. Pada ちちがはたらいているかいしゃ, bendanya perusahaan; bagian sebelumnya menjelaskan tempat ayah bekerja. Buka panduan bentuk biasa jika belum mengenali perubahannya.",
       "examples": [
         {
           "jp": "昨日買った本を読みます。",
@@ -1628,7 +1987,7 @@
         },
         {
           "jp": "父が働いている会社は東京にあります。",
-          "kana": "ちち が はたらいている かいしゃ は とうきょう に あります。",
+          "kana": "ちち が はたらいて いる かいしゃ は とうきょう に あります。",
           "meaning": "Perusahaan tempat ayah bekerja berada di Tokyo."
         }
       ],
@@ -1639,7 +1998,22 @@
       },
       "order": 38,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "図書館で",
+        "借りた",
+        "本",
+        "昨日買った",
+        "本を",
+        "読みます",
+        "父が",
+        "働いている",
+        "会社は",
+        "東京にあります",
+        "昨日買いました",
+        "買った",
+        "買いました"
+      ]
     },
     {
       "id": "hoshii",
@@ -1652,26 +2026,33 @@
       "kana": "が ほしいです",
       "romaji": "ga hoshii desu",
       "meaning": "Ingin memiliki sesuatu",
-      "explanation": "Gunakan ほしい untuk menyatakan keinginan memiliki benda. Benda yang diinginkan ditandai が. Perubahannya mengikuti sifat-i: ほしくない、ほしかった、ほしくなかった.",
+      "explanation": "ほしい berarti ingin memiliki benda. Sebutkan bendanya dengan が lalu tambahkan ほしいです. かばんがほしいです berarti saya ingin tas; jika yang diinginkan kegiatan seperti membeli, gunakan ～たい pada kata kerja.",
       "patterns": [
-        "Benda + が + ほしいです"
+        "Benda + がほしいです; かばんがほしいです",
+        "Tidak ingin benda: ～がほしくないです",
+        "Dulu／tadi ingin: ～がほしかったです"
       ],
-      "note": "Untuk keinginan melakukan kegiatan, gunakan kata kerja ～たい. Pola langsung ini terutama dipakai untuk keinginan diri sendiri atau menanyakan keinginan lawan bicara.",
+      "note": "Perubahannya seperti sifat-i. Pola ini terutama menyatakan keinginan sendiri atau menanyakan keinginan lawan bicara; jangan otomatis memakainya untuk menebak isi hati orang lain.",
       "examples": [
         {
           "jp": "新しいかばんがほしいです。",
-          "kana": "あたらしい かばん が ほしいです。",
+          "kana": "あたらしい かばん が ほしい です。",
           "meaning": "Saya ingin tas baru."
         },
         {
           "jp": "今は車がほしくないです。",
-          "kana": "いま は くるま が ほしくないです。",
+          "kana": "いま は くるま が ほしくない です。",
           "meaning": "Sekarang saya tidak ingin mobil."
         }
       ],
       "order": 39,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "新しいかばんがほしいです",
+        "今は",
+        "車がほしくないです"
+      ]
     },
     {
       "id": "tai",
@@ -1684,21 +2065,22 @@
       "kana": "たいです",
       "romaji": "tai desu",
       "meaning": "Ingin melakukan sesuatu",
-      "explanation": "Buang ます dari kata kerja bentuk sopan, lalu tambahkan たいです. Bentuk ini menyatakan keinginan melakukan kegiatan. Perubahan negatif dan lampaunya mengikuti sifat-i.",
+      "explanation": "～たいです berarti ingin melakukan sesuatu. Mulai dari kata kerja sopan berakhiran ます, buang ます, lalu tambahkan たいです. たべます menjadi たべたいです: ingin makan; bagian たべ tetap ada.",
       "patterns": [
-        "Vます tanpa ます + たいです",
-        "～たくないです / ～たかったです"
+        "Vます: buang ます + たいです; いきます → いきたいです",
+        "Tidak ingin: ～たくないです; たべたくないです",
+        "Dulu／tadi ingin: ～たかったです; いきたかったです"
       ],
-      "note": "食べます→食べたいです. Objek kegiatan bisa memakai を atau が dalam pola keinginan tertentu. Bedakan 買いたい (ingin membeli) dan ほしい (ingin memiliki).",
+      "note": "V berarti kata kerja. かいたい berarti ingin membeli; ほしい berarti ingin bendanya. Objek tertentu bisa memakai を atau が. Untuk awal belajar, kenali perubahan dari bentuk ます dahulu.",
       "examples": [
         {
           "jp": "日本へ行きたいです。",
-          "kana": "にほん へ いきたいです。",
+          "kana": "にほん へ いきたい です。",
           "meaning": "Saya ingin pergi ke Jepang."
         },
         {
           "jp": "今日は肉を食べたくないです。",
-          "kana": "きょう は にく を たべたくないです。",
+          "kana": "きょう は にく を たべたくない です。",
           "meaning": "Hari ini saya tidak ingin makan daging."
         }
       ],
@@ -1717,8 +2099,26 @@
           "行きたいです。"
         ],
         "answer": 1,
-        "explanation": "Buang ます dari 行きます, lalu tambahkan たいです."
-      }
+        "explanation": "Buang ます dari 行きます, lalu tambahkan たいです.",
+        "promptKana": "いきます",
+        "optionKana": [
+          "いくたい です。",
+          "いきたい です。"
+        ]
+      },
+      "searchTerms": [
+        "食べます",
+        "食べたいです",
+        "買いたい",
+        "日本へ",
+        "行きたいです",
+        "今日は",
+        "肉を",
+        "食べたくないです",
+        "行くたいです",
+        "行きます",
+        "行きたい"
+      ]
     },
     {
       "id": "te-imasu",
@@ -1731,27 +2131,38 @@
       "kana": "ています",
       "romaji": "te imasu",
       "meaning": "Sedang berlangsung atau keadaan yang bertahan",
-      "explanation": "ている／ています dapat menyatakan tindakan yang sedang berlangsung. Dengan kata kerja tertentu, pola ini menyatakan keadaan hasil yang masih berlangsung, seperti sudah menikah, tinggal, mengenal, atau memiliki.",
+      "explanation": "～ています dapat berarti sedang melakukan sesuatu, seperti ピアノをひいています: sedang bermain piano. Dengan kata kerja lain, pola ini menyatakan keadaan yang masih berlaku, seperti すんでいます: tinggal. Maknanya bukan selalu sedang.",
       "patterns": [
-        "Vて + います",
-        "Negatif: Vて + いません"
+        "Vて／Vで + います; ひく → ひいています",
+        "Negatif: Vて／Vで + いません",
+        "すむ → すんでいます: tinggal"
       ],
-      "note": "結婚しています berarti sudah menikah, bukan selalu sedang menjalani upacara. 知っています berarti tahu/kenal; negatif yang umum adalah 知りません.",
+      "note": "Bentuk dasarnya ～ている dan bentuk sopannya ～ています. けっこんしています berarti sudah menikah. しっています berarti tahu／kenal; negatif yang umum adalah しりません, bukan しっていません.",
       "examples": [
         {
           "jp": "今、妹はピアノを弾いています。",
-          "kana": "いま、いもうと は ピアノ を ひいています。",
+          "kana": "いま、いもうと は ピアノ を ひいて います。",
           "meaning": "Sekarang adik perempuan saya sedang bermain piano."
         },
         {
           "jp": "東京に住んでいます。",
-          "kana": "とうきょう に すんでいます。",
+          "kana": "とうきょう に すんで います。",
           "meaning": "Saya tinggal di Tokyo."
         }
       ],
       "order": 41,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "結婚しています",
+        "知っています",
+        "知りません",
+        "今",
+        "妹は",
+        "弾いています",
+        "東京に",
+        "住んでいます"
+      ]
     },
     {
       "id": "te-kudasai",
@@ -1764,11 +2175,13 @@
       "kana": "て ください",
       "romaji": "te kudasai",
       "meaning": "Tolong atau silakan melakukan",
-      "explanation": "Tambahkan ください setelah bentuk て untuk meminta seseorang melakukan tindakan. Nada dan situasi menentukan apakah terjemahannya lebih cocok “tolong” atau “silakan”.",
+      "explanation": "～てください meminta orang melakukan sesuatu: tolong atau silakan. Ubah kata kerja ke bentuk て atau で, lalu tambahkan ください. かく menjadi かいてください: tolong tulis; jangan memasang ください langsung pada かく.",
       "patterns": [
-        "Vて + ください"
+        "Vて／Vで + ください",
+        "かく → かいてください: tolong tulis",
+        "まつ → まってください: silakan tunggu"
       ],
-      "note": "Pola ini merupakan permintaan langsung. Dalam situasi yang memerlukan kesopanan lebih tinggi, ada ungkapan lain; untuk tahap dasar, perhatikan intonasi dan lawan bicara.",
+      "note": "Ini permintaan langsung. Gunakan nada ramah dan perhatikan lawan bicara; situasi resmi bisa memerlukan ungkapan lebih halus. Bentuk て／で mengikuti golongan kata kerja, bukan dipilih sesuka hati.",
       "examples": [
         {
           "jp": "名前を書いてください。",
@@ -1788,7 +2201,13 @@
       },
       "order": 42,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "名前を",
+        "書いてください",
+        "待ってください",
+        "書くください"
+      ]
     },
     {
       "id": "naide-kudasai",
@@ -1801,11 +2220,13 @@
       "kana": "ないで ください",
       "romaji": "naide kudasai",
       "meaning": "Tolong jangan melakukan",
-      "explanation": "Buat bentuk negatif biasa ～ない, lalu tambahkan でください. Gunakan saat meminta orang tidak melakukan suatu tindakan.",
+      "explanation": "～ないでください berarti tolong jangan melakukan sesuatu. Buat bentuk kata kerja negatif berakhiran ない, lalu tambahkan でください. かかないでください berarti tolong jangan menulis; ない tetap ada sebelum で.",
       "patterns": [
-        "Vない + でください"
+        "Vない + でください",
+        "かく → かかない → かかないでください",
+        "かう → かわない; する → しない; くる → こない"
       ],
-      "note": "書く→書かないでください、買う→買わないでください、する→しないでください、来る→来ないでください (こないでください).",
+      "note": "Jangan memasang ない pada bentuk ます. Buka panduan bentuk kata kerja untuk aturan golongan. Bedakan かいてください: tolong tulis, dengan かかないでください: tolong jangan tulis.",
       "examples": [
         {
           "jp": "ここで写真を撮らないでください。",
@@ -1825,7 +2246,19 @@
       },
       "order": 43,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "書く",
+        "書かないでください",
+        "買う",
+        "買わないでください",
+        "来る",
+        "来ないでください",
+        "写真を",
+        "撮らないでください",
+        "撮りませんでください",
+        "撮らない"
+      ]
     },
     {
       "id": "ne-yo",
@@ -1838,27 +2271,33 @@
       "kana": "ね・よ",
       "romaji": "ne / yo",
       "meaning": "Mencari persetujuan atau memberi informasi",
-      "explanation": "ね mengajak lawan bicara berbagi perasaan atau mengonfirmasi sesuatu. よ menyampaikan informasi yang dianggap perlu diketahui lawan bicara. Keduanya diletakkan di akhir kalimat.",
+      "explanation": "ね di akhir kalimat mengajak orang berbagi perasaan atau mengonfirmasi: panas, ya. よ menyampaikan informasi yang dianggap perlu diketahui: sedang hujan, lho. Tambahkan setelah kalimat selesai; keduanya tidak menggantikan です atau ます.",
       "patterns": [
-        "Kalimat + ね",
-        "Kalimat + よ"
+        "Kalimat + ね; あついですね: panas, ya",
+        "Kalimat + よ; あめがふっていますよ: sedang hujan, lho"
       ],
-      "note": "Pemakaian よ berlebihan dapat terdengar menekan. Pilih sesuai hubungan dan situasi, bukan sekadar mengganti tanda titik.",
+      "note": "Pilih sesuai maksud, bukan menambahkan pada semua kalimat. よ bisa terdengar menekan jika dipakai berlebihan atau dengan nada kuat. Mulai dari membedakan berbagi perasaan dan memberi informasi.",
       "examples": [
         {
           "jp": "今日は暑いですね。",
-          "kana": "きょう は あついです ね。",
+          "kana": "きょう は あつい です ね。",
           "meaning": "Hari ini panas, ya."
         },
         {
           "jp": "雨が降っていますよ。",
-          "kana": "あめ が ふっています よ。",
+          "kana": "あめ が ふって います よ。",
           "meaning": "Sedang hujan, lho."
         }
       ],
       "order": 44,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "今日は",
+        "暑いですね",
+        "雨が",
+        "降っていますよ"
+      ]
     },
     {
       "id": "morau",
@@ -1871,11 +2310,12 @@
       "kana": "に・から もらいます",
       "romaji": "ni / kara moraimasu",
       "meaning": "Menerima dari seseorang",
-      "explanation": "もらいます memandang perpindahan benda dari sisi penerima. Penerima menjadi topik/subjek, benda memakai を, dan pemberi memakai に atau から.",
+      "explanation": "もらいます berarti menerima benda. Orang yang menerima menjadi hal yang dibicarakan; pemberi memakai に atau から. ははにほんをもらいました berarti saya menerima buku dari ibu; ibu pemberinya, saya penerimanya.",
       "patterns": [
-        "Penerima + は + pemberi + に／から + benda + を + もらいます"
+        "Penerima + は + pemberi + に／から + benda + をもらいます",
+        "ははにかばんをもらいました: menerima tas dari ibu"
       ],
-      "note": "に dan から dapat dipakai untuk pemberi yang berupa orang. Saat menyebut lembaga sebagai sumber, から biasanya lebih sesuai.",
+      "note": "Saya sering tidak disebut jika sudah jelas. に／から menunjukkan pemberi pada pola ini, bukan penerima. Untuk sumber berupa lembaga, misalnya perusahaan, から biasanya lebih sesuai.",
       "examples": [
         {
           "jp": "母にかばんをもらいました。",
@@ -1898,8 +2338,18 @@
           "Ibu"
         ],
         "answer": 0,
-        "explanation": "もらいます memakai sudut pandang penerima, yaitu 私."
-      }
+        "explanation": "もらいます memakai sudut pandang penerima, yaitu 私.",
+        "promptKana": "わたし が はは に ほん を もらいました。"
+      },
+      "searchTerms": [
+        "母にかばんをもらいました",
+        "父から",
+        "時計をもらいました",
+        "私が",
+        "母に",
+        "本をもらいました",
+        "私"
+      ]
     },
     {
       "id": "kureru",
@@ -1912,11 +2362,12 @@
       "kana": "くれます",
       "romaji": "kuremasu",
       "meaning": "Orang lain memberi kepada saya atau pihak saya",
-      "explanation": "くれます dipakai ketika orang lain memberi sesuatu kepada pembicara atau orang yang dipandang dekat dengan pembicara. Pemberi memakai が／は, sedangkan penerima dapat dihilangkan jika sudah jelas.",
+      "explanation": "くれます berarti orang lain memberi benda kepada saya atau pihak saya. ともだちがほんをくれました berarti teman memberi saya buku. Orang sebelum が adalah pemberi; saya tidak perlu disebut jika arah pemberiannya sudah jelas.",
       "patterns": [
-        "Pemberi + が + 私に + benda + を + くれます"
+        "Pemberi + が／は + わたしに + benda + をくれます",
+        "Jika penerima jelas: pemberi + が + benda + をくれます"
       ],
-      "note": "Bedakan 友達にあげます (saya memberi kepada teman) dan 友達がくれます (teman memberi kepada saya). Sudut pandangnya berubah.",
+      "note": "ともだちにあげます berarti saya memberi kepada teman. ともだちがくれます berarti teman memberi kepada saya. Perhatikan に dan が agar arah pemberiannya tidak terbalik.",
       "examples": [
         {
           "jp": "友達が本をくれました。",
@@ -1939,8 +2390,18 @@
           "Teman memberi buku kepada saya."
         ],
         "answer": 1,
-        "explanation": "くれます menunjukkan pemberian menuju pembicara atau pihak pembicara."
-      }
+        "explanation": "くれます menunjukkan pemberian menuju pembicara atau pihak pembicara.",
+        "promptKana": "ともだち が ほん を くれました。"
+      },
+      "searchTerms": [
+        "私に",
+        "友達にあげます",
+        "友達がくれます",
+        "友達が",
+        "本をくれました",
+        "先生が",
+        "写真をくれました"
+      ]
     },
     {
       "id": "ageru",
@@ -1953,11 +2414,12 @@
       "kana": "あげます",
       "romaji": "agemasu",
       "meaning": "Memberikan sesuatu kepada orang lain",
-      "explanation": "あげます memandang pemberian dari sisi pemberi. Pemberi adalah topik/subjek, penerima ditandai に, dan benda yang diberikan ditandai を.",
+      "explanation": "あげます berarti memberikan benda kepada orang lain. Pemberi menjadi topik, penerima memakai に, dan benda memakai を. ともだちにほんをあげます berarti saya memberi buku kepada teman; saya boleh tidak disebut jika sudah jelas.",
       "patterns": [
-        "Pemberi + は + penerima + に + benda + を + あげます"
+        "Pemberi + は + penerima + に + benda + をあげます",
+        "ともだちにチョコレートをあげます: memberi cokelat kepada teman"
       ],
-      "note": "Pola ini juga dapat menceritakan pemberian antara orang lain. Untuk pemberian kepada pembicara, くれます biasanya menjadi pilihan yang sesuai.",
+      "note": "あげる juga bisa menceritakan pemberian antarorang lain. Untuk pemberian kepada saya, gunakan くれる. Saat menyerahkan benda langsung, どうぞ: silakan, sering lebih luwes daripada selalu mengatakan あげます.",
       "examples": [
         {
           "jp": "友達にチョコレートをあげます。",
@@ -1972,7 +2434,13 @@
       ],
       "order": 47,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "友達に",
+        "母の",
+        "誕生日に",
+        "花をあげました"
+      ]
     },
     {
       "id": "mashou",
@@ -1985,26 +2453,34 @@
       "kana": "ましょう",
       "romaji": "mashou",
       "meaning": "Ayo melakukan bersama",
-      "explanation": "ましょう mengajak melakukan suatu kegiatan bersama atau menyatakan usulan tindakan. Ganti ます dengan ましょう.",
+      "explanation": "～ましょう berarti ayo atau mari untuk mengajak melakukan kegiatan. Ganti ます pada kata kerja sopan dengan ましょう. べんきょうします menjadi べんきょうしましょう: ayo belajar; jangan menambahkan ましょう setelah ます.",
       "patterns": [
-        "Vます tanpa ます + ましょう"
+        "Vます: ganti ます → ましょう",
+        "いきます → いきましょう: ayo pergi",
+        "べんきょうします → べんきょうしましょう: ayo belajar"
       ],
-      "note": "Ajakan ini cukup langsung. ～ませんか lebih memberi ruang bagi lawan bicara untuk menerima atau menolak.",
+      "note": "Ajakan ini cukup langsung. ～ませんか lebih memberi pilihan untuk menerima atau menolak. Baca しょう sebagai shou dengan bunyi o panjang; kenali bentuk lengkap dari perubahan ます.",
       "examples": [
         {
           "jp": "一緒に勉強しましょう。",
-          "kana": "いっしょに べんきょうしましょう。",
+          "kana": "いっしょ に べんきょう しましょう。",
           "meaning": "Ayo belajar bersama."
         },
         {
           "jp": "近いですから、歩きましょう。",
-          "kana": "ちかいです から、あるきましょう。",
+          "kana": "ちかい です から、あるきましょう。",
           "meaning": "Karena dekat, ayo berjalan kaki."
         }
       ],
       "order": 48,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "一緒に",
+        "勉強しましょう",
+        "近いですから",
+        "歩きましょう"
+      ]
     },
     {
       "id": "mashouka",
@@ -2017,11 +2493,13 @@
       "kana": "ましょうか",
       "romaji": "mashou ka",
       "meaning": "Mau saya bantu? Bagaimana kalau kita …?",
-      "explanation": "ましょうか dapat menawarkan tindakan yang akan dilakukan pembicara atau mengusulkan tindakan bersama. Maknanya ditentukan oleh konteks dan siapa yang akan melakukan kegiatan.",
+      "explanation": "～ましょうか bisa menawarkan bantuan dari saya atau mengusulkan kegiatan bersama. にもつをもちましょうか berarti mau saya bawakan barangnya? Siapa yang akan bertindak ditentukan situasi; ini bukan pertanyaan tentang kemampuan.",
       "patterns": [
-        "Vます tanpa ます + ましょうか"
+        "Vます: ganti ます → ましょうか",
+        "もちます → もちましょうか: mau saya bawakan?",
+        "いきます → いきましょうか: bagaimana kalau kita pergi?"
       ],
-      "note": "Ini bukan pola utama untuk menanyakan kemampuan “bisa atau tidak”. 手伝いましょうか berarti “mau saya bantu?”, bukan “apakah kamu bisa membantu?”.",
+      "note": "てつだいましょうか lazim berarti mau saya bantu, bukan apakah kamu bisa membantu. Partikel か membuat tawaran itu menjadi pertanyaan.",
       "examples": [
         {
           "jp": "荷物を持ちましょうか。",
@@ -2030,7 +2508,7 @@
         },
         {
           "jp": "一緒に行きましょうか。",
-          "kana": "いっしょに いきましょう か。",
+          "kana": "いっしょ に いきましょう か。",
           "meaning": "Bagaimana kalau kita pergi bersama?"
         }
       ],
@@ -2044,8 +2522,16 @@
           "Apakah kamu bisa membawa barang?"
         ],
         "answer": 0,
-        "explanation": "ましょうか di sini menawarkan bantuan dari pembicara."
-      }
+        "explanation": "ましょうか di sini menawarkan bantuan dari pembicara.",
+        "promptKana": "にもつ を もちましょう か。"
+      },
+      "searchTerms": [
+        "手伝いましょうか",
+        "荷物を",
+        "持ちましょうか",
+        "一緒に",
+        "行きましょうか"
+      ]
     },
     {
       "id": "masenka",
@@ -2058,15 +2544,17 @@
       "kana": "ませんか",
       "romaji": "masen ka",
       "meaning": "Mengajak dengan lebih halus",
-      "explanation": "Walaupun memakai bentuk negatif, ～ませんか sering berfungsi sebagai ajakan: “maukah …?” atau “bagaimana kalau …?”. Lawan bicara diberi kesempatan memilih.",
+      "explanation": "～ませんか mengajak sambil memberi ruang bagi lawan bicara untuk memilih. いっしょにたべませんか berarti mau makan bersama? Bentuknya mirip negatif, tetapi dalam konteks ajakan artinya menawarkan kegiatan, bukan melarang makan.",
       "patterns": [
-        "Vます tanpa ます + ませんか"
+        "Vます: ganti ます → ませんか",
+        "たべます → たべませんか: mau makan?",
+        "みます → みませんか: bagaimana kalau menonton?"
       ],
-      "note": "Jawaban menerima yang umum adalah いいですね。～ましょう. Jangan menerjemahkannya secara kaku sebagai pertanyaan negatif dalam semua konteks.",
+      "note": "Jawaban menerima yang umum: いいですね, ide bagus, lalu ～ましょう. Lihat konteks; jangan menerjemahkan setiap ～ませんか secara kaku sebagai tidak melakukan?",
       "examples": [
         {
           "jp": "一緒に昼ご飯を食べませんか。",
-          "kana": "いっしょに ひるごはん を たべません か。",
+          "kana": "いっしょ に ひるごはん を たべません か。",
           "meaning": "Maukah makan siang bersama?"
         },
         {
@@ -2077,7 +2565,16 @@
       ],
       "order": 50,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "一緒に",
+        "昼ご",
+        "飯を",
+        "食べませんか",
+        "日曜日に",
+        "映画を",
+        "見ませんか"
+      ]
     },
     {
       "id": "kara-reason",
@@ -2090,13 +2587,13 @@
       "kana": "から・からです",
       "romaji": "kara / kara desu",
       "meaning": "Karena; menyampaikan alasan",
-      "explanation": "Letakkan alasan sebelum から, kemudian hasil atau keputusan sesudahnya. Untuk menjawab pertanyaan mengapa, alasan dapat ditutup dengan からです.",
+      "explanation": "～から berarti karena jika mengikuti alasan. Sebutkan alasan dahulu, lalu hasil atau tindakan. あついから、まどをあけます berarti karena panas, saya membuka jendela. Untuk awal belajar, bentuk sopan ～ですから／～ますから juga dapat dipakai.",
       "patterns": [
-        "Alasan + から + hasil",
-        "Sifat-na / benda + だから + hasil",
-        "Alasan + からです"
+        "Alasan + から + hasil; あついから、まどをあけます",
+        "N／sifat-na: ～ですから atau bentuk biasa ～だから",
+        "Menjawab mengapa: alasan + からです"
       ],
-      "note": "Bentuk sopan seperti ～ですから dan ～ますから juga dapat dipakai. だから setelah kata benda berbeda dari だから di awal kalimat baru.",
+      "note": "N berarti kata benda. N／sifat-na perlu です atau だ sebelum から: やすみですから／やすみだから. Sifat-i bisa langsung: あついから. Jangan membuat あついだから.",
       "examples": [
         {
           "jp": "暑いから、窓を開けます。",
@@ -2111,7 +2608,15 @@
       ],
       "order": 51,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "暑いから",
+        "窓を",
+        "開けます",
+        "今日は",
+        "休みですから",
+        "家にいます"
+      ]
     },
     {
       "id": "dakara",
@@ -2124,15 +2629,15 @@
       "kana": "だから",
       "romaji": "dakara",
       "meaning": "Oleh karena itu; jadi",
-      "explanation": "だから mengawali kalimat kesimpulan atau akibat dari kalimat sebelumnya. Jelaskan alasannya dahulu, lalu sampaikan keputusan atau hasilnya.",
+      "explanation": "だから berarti karena itu atau jadi di awal kalimat baru. Sampaikan alasan sebagai kalimat lengkap, lalu buka akibatnya dengan だから. あしたはテストです。だから、べんきょうします berarti besok ujian, jadi saya belajar.",
       "patterns": [
-        "Kalimat alasan。だから、hasil。"
+        "Kalimat alasan。だから、hasil／keputusan。"
       ],
-      "note": "Sebagai penghubung antarkalimat, だから tidak ditempelkan pada sifat-i. Gunakan 暑いから dalam satu kalimat, bukan 暑いだから.",
+      "note": "だから di sini membuka kalimat baru. Jika menyambung langsung setelah sifat-i, gunakan から saja: あついから, karena panas. Jangan membuat あついだから.",
       "examples": [
         {
           "jp": "明日はテストです。だから、勉強します。",
-          "kana": "あした は テスト です。だから、べんきょうします。",
+          "kana": "あした は テスト です。だから、べんきょう します。",
           "meaning": "Besok ada ujian. Karena itu, saya belajar."
         },
         {
@@ -2148,7 +2653,18 @@
       },
       "order": 52,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "暑いから",
+        "暑いだから",
+        "明日は",
+        "勉強します",
+        "今日は",
+        "雨です",
+        "家にいます",
+        "水を",
+        "飲みます"
+      ]
     },
     {
       "id": "demo-shikashi",
@@ -2161,27 +2677,35 @@
       "kana": "でも・しかし・けれども",
       "romaji": "demo / shikashi / keredomo",
       "meaning": "Tetapi, pada awal kalimat berikutnya",
-      "explanation": "Kata penghubung ini memperkenalkan informasi yang berlawanan atau berbeda dari kalimat sebelumnya. でも umum dalam percakapan, sedangkan しかし sering dipakai dalam tulisan atau situasi lebih formal.",
+      "explanation": "でも, しかし, dan けれども bisa membuka kalimat baru dengan arti tetapi atau namun. Gunakan ketika informasi berikutnya berbeda dari harapan sebelumnya. むずかしいです。でも、おもしろいです berarti sulit, tetapi menarik.",
       "patterns": [
         "Kalimat A。でも、kalimat B。",
-        "Kalimat A。しかし、kalimat B。"
+        "Kalimat A。しかし、kalimat B。",
+        "けれども juga bisa membuka kalimat berikutnya"
       ],
-      "note": "けれども juga dapat berfungsi sebagai penghubung. Bentuk pendek けど sering muncul dalam percakapan; pelajari sambungannya pada materi ～けど／～が.",
+      "note": "でも umum dalam percakapan; しかし sering terasa lebih formal atau tertulis. Untuk menyambungkan bagian dalam satu kalimat, pelajari ～けど／～が karena sambungannya berbeda.",
       "examples": [
         {
           "jp": "日本語は難しいです。でも、おもしろいです。",
-          "kana": "にほんご は むずかしいです。でも、おもしろいです。",
+          "kana": "にほんご は むずかしい です。でも、おもしろい です。",
           "meaning": "Bahasa Jepang sulit. Tetapi menarik."
         },
         {
           "jp": "旅行に行きたいです。しかし、時間がありません。",
-          "kana": "りょこう に いきたいです。しかし、じかん が ありません。",
+          "kana": "りょこう に いきたい です。しかし、じかん が ありません。",
           "meaning": "Saya ingin bepergian. Namun, tidak punya waktu."
         }
       ],
       "order": 53,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "日本語は",
+        "難しいです",
+        "旅行に",
+        "行きたいです",
+        "時間がありません"
+      ]
     },
     {
       "id": "kedo-ga",
@@ -2194,22 +2718,22 @@
       "kana": "けど・けれど・が",
       "romaji": "kedo / keredo / ga",
       "meaning": "Menyambungkan dua hal yang bertentangan",
-      "explanation": "けど／けれど menghubungkan dua bagian kalimat dengan arti “tetapi”. Setelah kata benda atau sifat-na bentuk biasa, gunakan だ sebelum けど. が dapat disambungkan setelah bentuk sopan ～です／～ます.",
+      "explanation": "～けど, ～けれど, dan ～が menyambungkan dua bagian kalimat dengan arti tetapi. Bentuk sopan＋が mudah dipakai untuk awal: むずかしいですが、おもしろいです. Jika N atau sifat-na positif kini memakai bentuk biasa, tambahkan だ sebelum けど.",
       "patterns": [
+        "Kalimat sopan berakhiran です／ます + が、bagian berikutnya",
         "Bentuk biasa + けど／けれど",
-        "Benda / sifat-na + だけど",
-        "Bentuk sopan + が"
+        "N／sifat-na positif kini + だけど; ひまだけど: senggang, tetapi…"
       ],
-      "note": "が pada pola ini adalah penghubung kalimat, berbeda dari が penanda subjek. Pola ini juga dapat menjadi pembuka halus sebelum permintaan.",
+      "note": "が di sini berarti tetapi, berbeda dari が pada ねこがいます. Jangan menulis ひまけど; bentuk biasa sifat-na positif kini membutuhkan だ: ひまだけど. Pola ini juga bisa membuka permintaan secara halus.",
       "examples": [
         {
           "jp": "日本語は難しいですが、おもしろいです。",
-          "kana": "にほんご は むずかしいです が、おもしろいです。",
+          "kana": "にほんご は むずかしい です が、おもしろい です。",
           "meaning": "Bahasa Jepang sulit, tetapi menarik."
         },
         {
           "jp": "今日は暇だけど、明日は忙しいです。",
-          "kana": "きょう は ひま だけど、あした は いそがしいです。",
+          "kana": "きょう は ひま だけど、あした は いそがしい です。",
           "meaning": "Hari ini senggang, tetapi besok sibuk."
         }
       ],
@@ -2220,7 +2744,17 @@
       },
       "order": 54,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "日本語は",
+        "難しいですが",
+        "今日は",
+        "暇だけど",
+        "明日は",
+        "忙しいです",
+        "暇けど",
+        "暇"
+      ]
     },
     {
       "id": "soredewa",
@@ -2233,12 +2767,12 @@
       "kana": "それでは・では・それじゃ・じゃ",
       "romaji": "soredewa / dewa / soreja / ja",
       "meaning": "Kalau begitu; beralih ke langkah berikutnya",
-      "explanation": "Gunakan untuk merespons keadaan yang baru diketahui atau menutup satu bagian pembicaraan. それでは／では terasa lebih sopan, sedangkan それじゃ／じゃ umum dalam percakapan santai.",
+      "explanation": "それでは atau では berarti kalau begitu saat beralih ke langkah berikutnya atau menutup percakapan. では、またらいしゅう berarti kalau begitu, sampai minggu depan. それじゃ dan じゃ adalah bentuk yang lebih santai.",
       "patterns": [
-        "それでは／では + kalimat",
-        "じゃ + usulan / salam penutup"
+        "それでは／では + langkah berikutnya／salam penutup",
+        "それじゃ／じゃ + usulan／salam penutup"
       ],
-      "note": "では di sini adalah ungkapan peralihan. Jangan selalu menafsirkannya sebagai gabungan partikel tempat で＋は.",
+      "note": "は pada では dibaca wa: dewa. では di sini adalah ungkapan peralihan, bukan otomatis partikel tempat. Gunakan それでは／では untuk suasana lebih sopan, dan じゃ untuk percakapan akrab.",
       "examples": [
         {
           "jp": "では、また来週。",
@@ -2253,7 +2787,11 @@
       ],
       "order": 55,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "来週",
+        "行きましょう"
+      ]
     },
     {
       "id": "degree",
@@ -2266,16 +2804,16 @@
       "kana": "とても・たいへん・すごく・ほんとうに",
       "romaji": "totemo / taihen / sugoku / hontou ni",
       "meaning": "Sangat; benar-benar",
-      "explanation": "Kata-kata ini memperkuat sifat atau penilaian. とても dan たいへん dapat berarti sangat. すごく sering dipakai dalam percakapan, sedangkan 本当に menekankan “benar-benar”.",
+      "explanation": "とても, たいへん, dan すごく dapat berarti sangat sebelum kata sifat. ほんとうに berarti benar-benar untuk menguatkan penilaian. とてもおいしいです berarti sangat enak; penguatnya berada sebelum sifat, bukan setelahnya.",
       "patterns": [
         "とても／たいへん／すごく + sifat",
-        "本当に + penilaian"
+        "ほんとうに + penilaian; ほんとうにきれいです"
       ],
-      "note": "たいへん sebelum sifat dapat berarti “sangat”; たいへんです sendiri biasanya berarti sulit, berat, atau merepotkan.",
+      "note": "すごく umum dalam percakapan. たいへん sebelum sifat bisa berarti sangat, tetapi たいへんです sendiri berarti sulit／berat／merepotkan. Lihat apakah ada sifat lain setelahnya.",
       "examples": [
         {
           "jp": "この料理はとてもおいしいです。",
-          "kana": "この りょうり は とても おいしいです。",
+          "kana": "この りょうり は とても おいしい です。",
           "meaning": "Masakan ini sangat enak."
         },
         {
@@ -2286,7 +2824,12 @@
       ],
       "order": 56,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "本当に",
+        "料理はとてもおいしいです",
+        "本当にきれいですね"
+      ]
     },
     {
       "id": "taihen",
@@ -2299,11 +2842,12 @@
       "kana": "たいへんです",
       "romaji": "taihen desu",
       "meaning": "Sulit, berat, atau merepotkan",
-      "explanation": "大変です dapat menilai sesuatu sebagai pekerjaan berat, keadaan sulit, atau kerepotan. Gunakan は untuk menunjukkan hal yang sedang dinilai.",
+      "explanation": "たいへんです berarti berat, sulit, atau merepotkan untuk dijalani. Gunakan untuk menilai pekerjaan atau keadaan, misalnya しごとはたいへんです: pekerjaannya berat. は menunjukkan hal yang sedang dinilai, bukan berarti berat itu selalu soal bobot benda.",
       "patterns": [
-        "Topik + は + 大変です"
+        "Hal yang dinilai + はたいへんです",
+        "しごとはたいへんです: pekerjaannya berat"
       ],
-      "note": "Jangan menyamakan 大変です (berat/sulit) dengan 大変おいしいです (sangat enak). Posisi dan susunannya mengubah fungsi.",
+      "note": "たいへんです sendiri menyatakan sulit／berat. たいへんおいしいです berarti sangat enak karena masih ada sifat おいしい setelahnya. Posisi kata mengubah fungsinya.",
       "examples": [
         {
           "jp": "日本語の勉強は大変です。",
@@ -2318,7 +2862,15 @@
       ],
       "order": 57,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "大変です",
+        "大変おいしいです",
+        "日本語の",
+        "勉強は",
+        "毎日の",
+        "仕事は"
+      ]
     },
     {
       "id": "amari",
@@ -2331,15 +2883,16 @@
       "kana": "あまり・あんまり",
       "romaji": "amari / anmari",
       "meaning": "Tidak begitu; tidak terlalu",
-      "explanation": "あまり biasanya diikuti predikat negatif dalam pola dasar ini. Kalimat menyatakan derajat atau frekuensi yang rendah, bukan penolakan sepenuhnya.",
+      "explanation": "あまり dengan akhir negatif berarti tidak begitu atau tidak terlalu sering. あまりおいしくないです berarti tidak begitu enak, bukan sama sekali tidak enak. あまりみません berarti tidak terlalu sering menonton atau melihat; pilih arti sesuai kegiatannya.",
       "patterns": [
-        "あまり + sifat / kata kerja negatif"
+        "あまり + sifat negatif; あまりおいしくないです",
+        "あまり + kegiatan negatif; あまりみません"
       ],
-      "note": "あんまり adalah bentuk percakapan. Bedakan dari ぜんぜん～ない yang menyatakan “sama sekali tidak”.",
+      "note": "Negatif berarti bentuk tidak, seperti ～ないです atau ～ません. あんまり adalah bentuk percakapan. ぜんぜん～ない lebih kuat: sama sekali tidak.",
       "examples": [
         {
           "jp": "この肉はあまりおいしくないです。",
-          "kana": "この にく は あまり おいしくないです。",
+          "kana": "この にく は あまり おいしくない です。",
           "meaning": "Daging ini tidak begitu enak."
         },
         {
@@ -2350,7 +2903,11 @@
       ],
       "order": 58,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "肉はあまりおいしくないです",
+        "見ません"
+      ]
     },
     {
       "id": "zenzen",
@@ -2363,11 +2920,13 @@
       "kana": "ぜんぜん",
       "romaji": "zenzen",
       "meaning": "Sama sekali tidak",
-      "explanation": "Pada pola dasar, ぜんぜん memperkuat predikat negatif. Gunakan untuk menyatakan bahwa kemampuan, pemahaman, atau keadaan tertentu sama sekali tidak ada.",
+      "explanation": "ぜんぜん dengan akhir negatif berarti sama sekali tidak. ぜんぜんわかりません berarti sama sekali tidak mengerti. Gunakan untuk menekankan bahwa keadaan atau kemampuan yang dibicarakan tidak ada, bukan hanya sedikit.",
       "patterns": [
-        "ぜんぜん + predikat negatif"
+        "ぜんぜん + bentuk negatif",
+        "ぜんぜんわかりません: sama sekali tidak mengerti",
+        "ぜんぜんさむくないです: sama sekali tidak dingin"
       ],
-      "note": "Dalam percakapan modern ada pemakaian positif tertentu, tetapi untuk materi dasar ini fokuskan pada pasangan negatif agar maknanya jelas.",
+      "note": "Untuk awal belajar, pasangkan dengan bentuk negatif. あまり～ない berarti tidak begitu／tidak terlalu sering; ぜんぜん～ない berarti sama sekali tidak. Pemakaian positif tertentu ada dalam percakapan, tetapi bukan fokus pola dasar ini.",
       "examples": [
         {
           "jp": "この漢字は全然わかりません。",
@@ -2376,13 +2935,19 @@
         },
         {
           "jp": "今日は全然寒くないです。",
-          "kana": "きょう は ぜんぜん さむくないです。",
+          "kana": "きょう は ぜんぜん さむくない です。",
           "meaning": "Hari ini sama sekali tidak dingin."
         }
       ],
       "order": 59,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "漢字は",
+        "全然わかりません",
+        "今日は",
+        "全然寒くないです"
+      ]
     },
     {
       "id": "frequency",
@@ -2395,11 +2960,12 @@
       "kana": "いつも・たいてい・よく・ときどき",
       "romaji": "itsumo / taitei / yoku / tokidoki",
       "meaning": "Selalu, biasanya, sering, dan kadang-kadang",
-      "explanation": "Pilih keterangan frekuensi untuk menjelaskan seberapa sering kegiatan terjadi. Kata-kata ini umumnya berada sebelum kegiatan yang diterangkan dan tidak memerlukan partikel に.",
+      "explanation": "Keterangan frekuensi menjelaskan seberapa sering kegiatan dilakukan. いつも berarti selalu, たいてい biasanya, よく sering, dan ときどき kadang-kadang. Letakkan sebelum kegiatan, misalnya いつもパンをたべます: selalu makan roti.",
       "patterns": [
-        "Topik + keterangan frekuensi + kegiatan"
+        "Topik + いつも／たいてい／よく／ときどき + kegiatan",
+        "あさはいつもパンをたべます: pagi hari selalu makan roti"
       ],
-      "note": "よく dalam materi ini berarti sering. Pada きのうはよく寝ました, よく lebih cocok diartikan “dengan nyenyak/baik”.",
+      "note": "Kata frekuensi ini tidak memerlukan に. よく juga bisa berarti dengan baik／nyenyak sesuai kata kerjanya. Tidak perlu menghafal persentase yang pasti untuk membedakan frekuensinya.",
       "examples": [
         {
           "jp": "朝はいつもパンを食べます。",
@@ -2438,7 +3004,16 @@
       },
       "order": 60,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "寝ました",
+        "朝はいつも",
+        "食べます",
+        "時々",
+        "駅で",
+        "先生に",
+        "会います"
+      ]
     },
     {
       "id": "extent",
@@ -2451,13 +3026,14 @@
       "kana": "まあまあ・ほとんど・だいたい",
       "romaji": "maamaa / hotondo / daitai",
       "meaning": "Lumayan, hampir semua, dan secara umum",
-      "explanation": "まあまあ menyatakan tingkat yang sedang atau lumayan. ほとんど berarti hampir seluruhnya dan dapat berubah menjadi “hampir tidak” jika diikuti negatif. だいたい menyatakan gambaran umum atau perkiraan.",
+      "explanation": "まあまあ berarti lumayan; ほとんど berarti hampir semuanya jika akhirnya positif. Jika akhirnya negatif, ほとんど berarti hampir tidak. だいたい berarti kira-kira atau secara garis besar; perhatikan kata berikutnya agar terjemahannya sesuai.",
       "patterns": [
-        "まあまあ + です",
-        "ほとんど + positif / negatif",
-        "だいたい + keterangan"
+        "まあまあです: lumayan",
+        "ほとんどよみました: sudah membaca hampir semuanya",
+        "ほとんどわかりません: hampir tidak mengerti",
+        "だいたい + jumlah／keterangan: kira-kira／secara umum"
       ],
-      "note": "ほとんどわかります berarti hampir semuanya paham, sedangkan ほとんどわかりません berarti hampir tidak paham. Perhatikan akhir kalimat.",
+      "note": "Pada ほとんど, akhir kalimat sangat penting. ほとんどわかります berarti hampir semuanya paham; ほとんどわかりません berarti hampir tidak paham. Jangan berhenti membaca sebelum melihat akhirnya.",
       "examples": [
         {
           "jp": "今日のテストはまあまあでした。",
@@ -2472,7 +3048,12 @@
       ],
       "order": 61,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "今日の",
+        "本はほとんど",
+        "読みました"
+      ]
     },
     {
       "id": "yoku",
@@ -2485,11 +3066,13 @@
       "kana": "よく",
       "romaji": "yoku",
       "meaning": "Dengan baik, saksama, atau nyenyak",
-      "explanation": "Selain “sering”, よく dapat menilai bagaimana kegiatan dilakukan. Maknanya menyesuaikan kata kerja: よく聞く bisa berarti mendengarkan baik-baik dan よく寝る bisa berarti tidur nyenyak.",
+      "explanation": "よく tidak selalu berarti sering. Dengan kata kerja tertentu, よく menunjukkan kegiatan dilakukan dengan baik atau sungguh-sungguh. よくねました berarti tidur nyenyak; よくきいてください berarti tolong dengarkan baik-baik.",
       "patterns": [
-        "よく + kegiatan"
+        "よく + kegiatan",
+        "よくねます: tidur dengan baik／nyenyak, sesuai konteks",
+        "よくきいてください: dengarkan baik-baik"
       ],
-      "note": "Gunakan konteks untuk membedakan frekuensi dan kualitas tindakan. Jangan memaksakan terjemahan “sering” pada setiap よく.",
+      "note": "Lihat konteks untuk memilih arti sering atau dengan baik. きのうはよくねました biasanya menilai kualitas atau banyaknya tidur kemarin, bukan frekuensi tidur pada banyak kesempatan.",
       "examples": [
         {
           "jp": "昨日はよく寝ました。",
@@ -2504,7 +3087,16 @@
       ],
       "order": 62,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "聞く",
+        "寝る",
+        "昨日はよく",
+        "寝ました",
+        "先生の",
+        "話をよく",
+        "聞いてください"
+      ]
     },
     {
       "id": "sakki-sugu",
@@ -2517,13 +3109,13 @@
       "kana": "さっき・すぐ・もうすぐ",
       "romaji": "sakki / sugu / mou sugu",
       "meaning": "Tadi, segera, dan sebentar lagi",
-      "explanation": "さっき menunjuk waktu yang baru saja lewat. すぐ menyatakan tindakan dilakukan segera atau tanpa jeda panjang. もうすぐ menunjukkan sesuatu akan terjadi dalam waktu dekat.",
+      "explanation": "さっき berarti tadi atau baru saja lewat. すぐ berarti segera, sedangkan もうすぐ berarti sebentar lagi. Gunakan さっき untuk hal yang sudah terjadi; gunakan もうすぐ untuk hal yang akan terjadi dalam waktu dekat.",
       "patterns": [
-        "さっき + kegiatan lampau",
-        "すぐ／すぐに + tindakan",
-        "もうすぐ + kejadian"
+        "さっき + kegiatan lampau; さっきかえりました: pulang tadi",
+        "すぐ／すぐに + tindakan; すぐいきます: segera pergi",
+        "もうすぐ + kejadian; もうすぐじゅうにじです: sebentar lagi pukul dua belas"
       ],
-      "note": "さっき biasanya dipakai untuk kejadian dekat dalam percakapan, bukan untuk masa lampau yang sangat jauh.",
+      "note": "さっき bukan untuk masa lalu yang sangat jauh. すぐ menyoroti tanpa menunggu lama; もうすぐ menempatkan kejadian di waktu dekat. Ketiganya bukan kata yang saling menggantikan.",
       "examples": [
         {
           "jp": "田中さんはさっき帰りました。",
@@ -2538,7 +3130,12 @@
       ],
       "order": 63,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "田中さんはさっき",
+        "帰りました",
+        "十二時です"
+      ]
     },
     {
       "id": "motto",
@@ -2551,11 +3148,13 @@
       "kana": "もっと",
       "romaji": "motto",
       "meaning": "Lebih banyak atau lebih lagi",
-      "explanation": "もっと meminta atau menyatakan penambahan tingkat, jumlah, maupun intensitas dibanding keadaan sekarang. Tidak selalu perlu menyebutkan pembanding secara langsung.",
+      "explanation": "もっと berarti lebih lagi untuk menambah jumlah, tingkat, atau usaha dari keadaan sekarang. もっとたべてください berarti silakan makan lebih banyak. Tidak selalu perlu menyebut dibanding apa, karena pembandingnya bisa keadaan yang sedang berlangsung.",
       "patterns": [
-        "もっと + sifat / kegiatan"
+        "もっと + sifat／kegiatan",
+        "もっとたべます: makan lebih banyak",
+        "もっとべんきょうしたいです: ingin belajar lebih banyak lagi"
       ],
-      "note": "もう少し berarti “sedikit lagi”; もっと dapat menghendaki penambahan lebih luas. Pilih sesuai maksud.",
+      "note": "もうすこし berarti sedikit lagi. もっと bisa meminta tambahan yang lebih besar atau tanpa ukuran pasti. Jangan menganggap もっと selalu berarti paling; paling memakai いちばん.",
       "examples": [
         {
           "jp": "もっと食べてください。",
@@ -2564,13 +3163,19 @@
         },
         {
           "jp": "もっと日本語を勉強したいです。",
-          "kana": "もっと にほんご を べんきょうしたいです。",
+          "kana": "もっと にほんご を べんきょう したい です。",
           "meaning": "Saya ingin belajar bahasa Jepang lebih banyak lagi."
         }
       ],
       "order": 64,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "少し",
+        "食べてください",
+        "日本語を",
+        "勉強したいです"
+      ]
     },
     {
       "id": "mou-mada",
@@ -2583,13 +3188,13 @@
       "kana": "もう・まだ",
       "romaji": "mou / mada",
       "meaning": "Sudah atau belum",
-      "explanation": "もう dengan kegiatan lampau menyatakan sudah selesai. Untuk “belum melakukan”, pola yang umum adalah まだ～ていません. まだ juga dapat berarti masih saat diikuti keadaan yang berlanjut.",
+      "explanation": "もう dengan kegiatan lampau berarti sudah: もうたべました, sudah makan. Untuk belum melakukan, gunakan まだ～ていません: まだたべていません, belum makan. まだ juga bisa berarti masih saat keadaannya berlanjut.",
       "patterns": [
-        "もう + Vました",
-        "まだ + Vていません",
-        "まだ + keadaan yang berlanjut"
+        "もう + Vました: sudah melakukan",
+        "まだ + Vて／Vで + いません: belum melakukan",
+        "まだ + keadaan; まだあめです: masih hujan"
       ],
-      "note": "Saat menjawab もう食べましたか, jawaban lengkap yang mudah dipahami adalah はい、もう食べました atau いいえ、まだ食べていません.",
+      "note": "Menjawab もうたべましたか: はい、もうたべました, ya sudah; atau いいえ、まだたべていません, belum. Bentuk ていません dipakai agar arti belum sampai sekarang lebih jelas.",
       "examples": [
         {
           "jp": "もう昼ご飯を食べました。",
@@ -2598,7 +3203,7 @@
         },
         {
           "jp": "まだ宿題をしていません。",
-          "kana": "まだ しゅくだい を していません。",
+          "kana": "まだ しゅくだい を して いません。",
           "meaning": "Saya belum mengerjakan PR."
         }
       ],
@@ -2609,7 +3214,15 @@
       },
       "order": 65,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "食べましたか",
+        "食べました",
+        "食べていません",
+        "昼ご",
+        "飯を",
+        "宿題をしていません"
+      ]
     },
     {
       "id": "adjective-adverb",
@@ -2622,12 +3235,12 @@
       "kana": "く・に",
       "romaji": "ku / ni",
       "meaning": "Melakukan sesuatu dengan cara tertentu",
-      "explanation": "Kata sifat dapat menerangkan cara melakukan tindakan. Buang い pada sifat-i lalu tambahkan く. Untuk sifat-na, gunakan に sebelum kata kerja.",
+      "explanation": "Kata sifat dapat menjelaskan cara melakukan tindakan. Ubah sifat-i dari い menjadi く; sifat-na memakai に. おおきくかきます berarti menulis dengan ukuran besar, sedangkan しずかにはなします berarti berbicara dengan tenang atau pelan.",
       "patterns": [
-        "Sifat-i tanpa い + く + kata kerja",
-        "Sifat-na + に + kata kerja"
+        "Sifat-i: buang い + く + tindakan; おおきい → おおきくかく",
+        "Sifat-na tanpa な + に + tindakan; しずかにはなす"
       ],
-      "note": "いい berubah menjadi よく. 大きく書く berarti menulis dengan ukuran besar, sedangkan 大きい字 berarti huruf yang besar.",
+      "note": "いい berubah menjadi よく. Bandingkan おおきいじ: huruf besar, dengan おおきくかく: menulis besar. Bentuknya bergantung pada apakah sifat menerangkan benda atau cara tindakan.",
       "examples": [
         {
           "jp": "もう少し大きく書いてください。",
@@ -2636,7 +3249,7 @@
         },
         {
           "jp": "静かに話してください。",
-          "kana": "しずかに はなして ください。",
+          "kana": "しずか に はなして ください。",
           "meaning": "Tolong berbicaralah dengan tenang/pelan."
         }
       ],
@@ -2647,7 +3260,20 @@
       },
       "order": 66,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "大きく",
+        "書く",
+        "大きい",
+        "字",
+        "少し",
+        "書いてください",
+        "静かに",
+        "話してください",
+        "静かく",
+        "話します",
+        "静か"
+      ]
     },
     {
       "id": "naru",
@@ -2660,12 +3286,13 @@
       "kana": "く なります・に なります",
       "romaji": "ku narimasu / ni narimasu",
       "meaning": "Menjadi; mengalami perubahan",
-      "explanation": "なります menyatakan perubahan keadaan atau identitas. Sifat-i berubah menjadi ～く, sedangkan sifat-na dan kata benda diikuti に.",
+      "explanation": "なります berarti menjadi untuk perubahan keadaan atau identitas. Sifat-i memakai ～くなります; sifat-na dan benda memakai ～になります. さむくなりました berarti menjadi dingin, dan いしゃになりました berarti menjadi dokter.",
       "patterns": [
-        "Sifat-i tanpa い + くなります",
-        "Sifat-na / benda + になります"
+        "Sifat-i: い → くなります; さむい → さむくなります",
+        "Sifat-na + になります; しずかになります: menjadi tenang",
+        "Benda + になります; いしゃになります: menjadi dokter"
       ],
-      "note": "いい→よくなります. なります menekankan hasil perubahan, sedangkan ～く／にします menekankan tindakan membuat perubahan.",
+      "note": "いい berubah menjadi よくなります. ～ました membicarakan perubahan yang sudah terjadi. なります menjelaskan menjadi; ～く／にします menjelaskan membuat sesuatu menjadi keadaan itu.",
       "examples": [
         {
           "jp": "寒くなりました。",
@@ -2693,8 +3320,20 @@
           "寒くなります。"
         ],
         "answer": 1,
-        "explanation": "Sifat-i berubah menjadi ～く sebelum なります."
-      }
+        "explanation": "Sifat-i berubah menjadi ～く sebelum なります.",
+        "optionKana": [
+          "さむい に なります。",
+          "さむく なります。"
+        ]
+      },
+      "searchTerms": [
+        "寒くなりました",
+        "兄は",
+        "医者になりました",
+        "寒いになりました",
+        "寒いになります",
+        "寒くなります"
+      ]
     },
     {
       "id": "suru-change",
@@ -2707,16 +3346,17 @@
       "kana": "く します・に します",
       "romaji": "ku shimasu / ni shimasu",
       "meaning": "Membuat sesuatu menjadi …",
-      "explanation": "Pola ini menyatakan tindakan yang sengaja mengubah keadaan. Sifat-i memakai ～くします dan sifat-na memakai ～にします.",
+      "explanation": "～くします dan ～にします berarti membuat sesuatu menjadi keadaan tertentu. Sifat-i memakai く, dan sifat-na memakai に. おとをちいさくします berarti mengecilkan suara; di sini ada tindakan sengaja untuk mengubahnya.",
       "patterns": [
-        "Sifat-i tanpa い + くします",
-        "Sifat-na + にします"
+        "Benda + を + sifat-i: い → くします",
+        "おとをちいさくします: mengecilkan suara",
+        "Benda + を + sifat-na + にします; へやをきれいにします"
       ],
-      "note": "部屋をきれいにします berarti membuat kamar bersih. Bedakan dengan 部屋がきれいになります yang menyatakan kamar menjadi bersih.",
+      "note": "へやをきれいにします: membuat kamar bersih／membersihkan kamar. へやがきれいになります: kamar menjadi bersih. を menandai yang diubah; が menandai hal yang mengalami perubahan pada contoh ini.",
       "examples": [
         {
           "jp": "部屋をきれいにします。",
-          "kana": "へや を きれいに します。",
+          "kana": "へや を きれい に します。",
           "meaning": "Saya membersihkan kamar."
         },
         {
@@ -2727,7 +3367,13 @@
       ],
       "order": 68,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "部屋をきれいにします",
+        "部屋がきれいになります",
+        "音を",
+        "小さくしてください"
+      ]
     },
     {
       "id": "ni-shimasu",
@@ -2740,11 +3386,13 @@
       "kana": "に します",
       "romaji": "ni shimasu",
       "meaning": "Memutuskan atau memilih sesuatu",
-      "explanation": "Setelah menimbang pilihan, N にします menyatakan keputusan “saya pilih N”. Pola ini sering dipakai saat memesan makanan atau menentukan pilihan.",
+      "explanation": "Nにします berarti saya memilih N setelah mempertimbangkan pilihan. N adalah kata benda, seperti makanan atau minuman. おちゃにします berarti saya pilih teh, misalnya saat memesan; ini bukan berarti membuat teh.",
       "patterns": [
-        "Pilihan + に + します"
+        "Pilihan benda + にします",
+        "ラーメンにします: saya pilih ramen",
+        "のみものはおちゃにします: untuk minuman, saya pilih teh"
       ],
-      "note": "ラーメンにします berarti memilih ramen. Ini berbeda dari ラーメンを作ります yang berarti membuat ramen.",
+      "note": "Memilih ramen: ラーメンにします. Membuat ramen: ラーメンをつくります. Bedakan memutuskan pilihan dengan membuat benda; kata kerja dan partikelnya berbeda.",
       "examples": [
         {
           "jp": "私はラーメンにします。",
@@ -2759,7 +3407,14 @@
       ],
       "order": 69,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "作ります",
+        "私は",
+        "飲み",
+        "物はお",
+        "茶にします"
+      ]
     },
     {
       "id": "to-iimasu",
@@ -2772,12 +3427,12 @@
       "kana": "と いいます",
       "romaji": "to iimasu",
       "meaning": "Mengutip ucapan; menyebut sesuatu",
-      "explanation": "と menandai isi ucapan sebelum 言います. Untuk menanyakan padanan dalam bahasa Jepang, gunakan 日本語でどう言いますか. 何と言いますか dapat menanyakan sebutan atau ungkapan yang diucapkan.",
+      "explanation": "と menandai ucapan sebelum いいます, mengatakan atau menyebut. 「いただきます」といいます berarti mengucapkan itadakimasu. Untuk bertanya cara menyebut sesuatu dalam bahasa Jepang, gunakan にほんごでどういいますか.",
       "patterns": [
-        "「Ucapan」+ と + 言います",
-        "これは日本語でどう言いますか"
+        "「Ucapan」+ といいます",
+        "これはにほんごでどういいますか: ini disebut apa dalam bahasa Jepang?"
       ],
-      "note": "と di sini adalah penanda kutipan. Tanda 「 」 membantu pembaca melihat bagian yang diucapkan.",
+      "note": "Tanda 「 」 adalah tanda kutip Jepang; bagian di dalamnya yang diucapkan. いただきます adalah ungkapan sebelum makan. と di sini menandai kutipan, bukan bersama atau dan.",
       "examples": [
         {
           "jp": "「いただきます」と言います。",
@@ -2792,7 +3447,13 @@
       ],
       "order": 70,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "言います",
+        "日本語でどう",
+        "言いますか",
+        "何と"
+      ]
     },
     {
       "id": "toki",
@@ -2805,14 +3466,14 @@
       "kana": "とき",
       "romaji": "toki",
       "meaning": "Ketika; pada saat",
-      "explanation": "とき menghubungkan keadaan atau kegiatan dengan waktu terjadinya hal lain. Bentuk sebelum とき mengikuti jenis katanya. Pada kata kerja, bentuk kamus dan lampau dapat mengubah hubungan waktunya.",
+      "explanation": "とき berarti ketika atau saat. Letakkan keadaan atau kegiatan sebelum とき, lalu hal yang terjadi pada waktu itu. ひまなとき berarti saat senggang; ほんをよむとき berarti ketika membaca buku. Sambungannya mengikuti jenis kata sebelumnya.",
       "patterns": [
-        "Kata kerja bentuk biasa + とき",
-        "Sifat-i + とき",
-        "Sifat-na + なとき",
-        "Kata benda + のとき"
+        "V bentuk biasa + とき; よむとき: ketika membaca",
+        "Sifat-i + とき; さむいとき: saat dingin",
+        "Sifat-na + なとき; ひまなとき: saat senggang",
+        "Benda + のとき; がくせいのとき: saat masih pelajar"
       ],
-      "note": "ひまなとき memerlukan な; 学生のとき memerlukan の. Pelajari perbedaan 行くとき (saat akan/pergi) dan 行ったとき (saat sudah/pernah pergi) melalui konteks.",
+      "note": "V berarti kata kerja. よむとき dan よんだとき berbeda hubungan waktu: sebelum／saat membaca versus sesudah membaca dalam konteksnya. Lihat contoh dan bentuk kata, bukan menganggap setiap とき berarti masa lalu.",
       "examples": [
         {
           "jp": "本を読むとき、眼鏡をかけます。",
@@ -2821,7 +3482,7 @@
         },
         {
           "jp": "暇なとき、音楽を聞きます。",
-          "kana": "ひまな とき、おんがく を ききます。",
+          "kana": "ひま な とき、おんがく を ききます。",
           "meaning": "Saat senggang, saya mendengarkan musik."
         }
       ],
@@ -2832,7 +3493,20 @@
       },
       "order": 71,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "学生のとき",
+        "行くとき",
+        "行ったとき",
+        "本を",
+        "読むとき",
+        "眼鏡をかけます",
+        "暇なとき",
+        "音楽を",
+        "聞きます",
+        "暇のとき",
+        "暇"
+      ]
     },
     {
       "id": "mae-ni",
@@ -2845,22 +3519,22 @@
       "kana": "まえに",
       "romaji": "mae ni",
       "meaning": "Sebelum; … yang lalu",
-      "explanation": "Untuk “sebelum melakukan”, letakkan kata kerja bentuk kamus sebelum 前に. Kata benda memakai の前に. Jika didahului durasi, 前に dapat berarti “… yang lalu”.",
+      "explanation": "まえに berarti sebelum ketika dipakai setelah kata kerja bentuk kamus. ねるまえに berarti sebelum tidur. Jika sebelumnya benda, tambahkan の: しょくじのまえに, sebelum makan. Durasi＋まえに berbeda: menyatakan berapa lama yang lalu.",
       "patterns": [
-        "V kamus + 前に",
-        "Kata benda + の前に",
-        "Durasi + 前に"
+        "V kamus + まえに; ねるまえに: sebelum tidur",
+        "Benda + のまえに; しょくじのまえに: sebelum makan",
+        "Durasi + まえに; にねんまえに: dua tahun yang lalu"
       ],
-      "note": "Walaupun kalimat utamanya lampau, kata kerja sebelum 前に tetap bentuk kamus: 日本へ来る前に勉強しました.",
+      "note": "Bentuk kamus sebelum まえに tetap dipakai walaupun kalimat utamanya lampau. ねるまえによみました berarti membaca sebelum tidur. Jangan membuat ねたまえに untuk maksud sebelum tidur.",
       "examples": [
         {
           "jp": "寝る前に、本を読みます。",
-          "kana": "ねる まえに、ほん を よみます。",
+          "kana": "ねる まえ に、ほん を よみます。",
           "meaning": "Sebelum tidur, saya membaca buku."
         },
         {
           "jp": "二年前に日本へ来ました。",
-          "kana": "にねん まえに にほん へ きました。",
+          "kana": "にねん まえ に にほん へ きました。",
           "meaning": "Saya datang ke Jepang dua tahun yang lalu."
         }
       ],
@@ -2879,8 +3553,25 @@
           "寝た"
         ],
         "answer": 0,
-        "explanation": "Pola “sebelum melakukan” memakai bentuk kamus sebelum 前に."
-      }
+        "explanation": "Pola “sebelum melakukan” memakai bentuk kamus sebelum 前に.",
+        "promptKana": "［…］まえ に、ほん を よみます。",
+        "optionKana": [
+          "ねる",
+          "ねた"
+        ]
+      },
+      "searchTerms": [
+        "前に",
+        "日本へ",
+        "来る",
+        "勉強しました",
+        "寝る",
+        "本を",
+        "読みます",
+        "二年前に",
+        "来ました",
+        "寝た"
+      ]
     },
     {
       "id": "ato-de",
@@ -2893,21 +3584,21 @@
       "kana": "た あとで・の あとで",
       "romaji": "ta ato de / no ato de",
       "meaning": "Setelah kegiatan atau peristiwa",
-      "explanation": "Untuk menyatakan setelah melakukan sesuatu, gunakan kata kerja bentuk た sebelum 後で. Kalau yang disebut berupa kata benda, hubungkan dengan の.",
+      "explanation": "あとで berarti setelah. Jika sebelumnya kegiatan, gunakan bentuk た; jika benda, tambahkan の. たべたあとで berarti setelah makan, sedangkan じゅぎょうのあとで berarti setelah pelajaran. Kegiatan setelahnya bisa masih berupa rencana.",
       "patterns": [
-        "Vた + 後で",
-        "Kata benda + の後で"
+        "Vた + あとで; たべる → たべたあとで",
+        "Benda + のあとで; じゅぎょうのあとで"
       ],
-      "note": "Bentuk た menandai bahwa kegiatan pertama sudah selesai sebelum kegiatan berikutnya, meskipun kegiatan berikutnya masih akan dilakukan.",
+      "note": "Bentuk た menunjukkan kegiatan pertama selesai sebelum kegiatan berikutnya, bukan berarti semuanya sudah terjadi sekarang. Bentuk た mengikuti bentuk て: て→た dan で→だ, misalnya よんで→よんだ.",
       "examples": [
         {
           "jp": "ご飯を食べた後で、勉強します。",
-          "kana": "ごはん を たべた あとで、べんきょうします。",
+          "kana": "ごはん を たべた あと で、べんきょう します。",
           "meaning": "Setelah makan, saya belajar."
         },
         {
           "jp": "授業の後で、買い物をします。",
-          "kana": "じゅぎょう の あとで、かいもの を します。",
+          "kana": "じゅぎょう の あと で、かいもの を します。",
           "meaning": "Setelah pelajaran, saya berbelanja."
         }
       ],
@@ -2926,8 +3617,23 @@
           "食べた"
         ],
         "answer": 1,
-        "explanation": "Pola “setelah melakukan” memakai bentuk た sebelum 後で."
-      }
+        "explanation": "Pola “setelah melakukan” memakai bentuk た sebelum 後で.",
+        "promptKana": "ごはん を ［…］あと で、べんきょう します。",
+        "optionKana": [
+          "たべる",
+          "たべた"
+        ]
+      },
+      "searchTerms": [
+        "後で",
+        "飯を",
+        "食べた",
+        "勉強します",
+        "授業の",
+        "買い",
+        "物をします",
+        "食べる"
+      ]
     },
     {
       "id": "purpose-ni",
@@ -2940,12 +3646,13 @@
       "kana": "に いきます・きます・かえります",
       "romaji": "ni ikimasu / kimasu / kaerimasu",
       "meaning": "Pergi, datang, atau pulang untuk melakukan",
-      "explanation": "Sebutkan tujuan kegiatan dengan に sebelum kata kerja perjalanan. Untuk kata kerja, buang ます dahulu. Kata benda kegiatan seperti 買い物 juga dapat langsung diikuti に.",
+      "explanation": "～にいきます menyatakan pergi untuk melakukan sesuatu. Mulai dari kata kerja sopan, buang ます lalu tambahkan にいきます. あいます menjadi あいにいきます: pergi untuk bertemu. Pola serupa bisa dipakai dengan datang atau pulang.",
       "patterns": [
-        "Vます tanpa ます + に + 行きます／来ます／帰ります",
-        "Kata benda kegiatan + に + 行きます"
+        "Vます tanpa ます + にいきます／にきます／にかえります",
+        "あいます → あいにいきます: pergi untuk bertemu",
+        "Benda kegiatan + にいきます; かいものにいきます: pergi berbelanja"
       ],
-      "note": "Tempat tujuan dapat disebutkan terpisah dengan へ／に: 図書館へ本を借りに行きます. に setelah 借り menyatakan tujuan kegiatan.",
+      "note": "Tempat tujuan dapat disebut terpisah: としょかんへほんをかりにいきます berarti pergi ke perpustakaan untuk meminjam buku. へ menandai arah; に setelah かり menandai tujuan kegiatan.",
       "examples": [
         {
           "jp": "友達に会いに行きます。",
@@ -2965,7 +3672,24 @@
       },
       "order": 74,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "行きます",
+        "来ます",
+        "帰ります",
+        "買い",
+        "物",
+        "図書館へ",
+        "本を",
+        "借りに",
+        "借り",
+        "友達に",
+        "会いに",
+        "遊びに",
+        "来てください",
+        "借りますに",
+        "借ります"
+      ]
     },
     {
       "id": "yori",
@@ -2978,20 +3702,21 @@
       "kana": "より",
       "romaji": "yori",
       "meaning": "A lebih … daripada B",
-      "explanation": "A adalah hal yang dijelaskan, sedangkan B menjadi patokan perbandingan. Sifat di akhir menerangkan kelebihan A dibanding B.",
+      "explanation": "AはBより… berarti A lebih memiliki sifat tertentu daripada B. A yang dijelaskan; B menjadi patokan setelah より. でんしゃはバスよりはやいです berarti kereta lebih cepat daripada bus, bukan sebaliknya.",
       "patterns": [
-        "A + は + B + より + sifat + です"
+        "A + は + B + より + sifat + です",
+        "でんしゃはバスよりはやいです: kereta lebih cepat daripada bus"
       ],
-      "note": "より berarti “daripada”. Perhatikan urutan A dan B agar terjemahan tidak terbalik. Contoh lampau memakai sifat lampau jika membicarakan keadaan kemarin.",
+      "note": "より berarti daripada. Perhatikan urutan agar artinya tidak terbalik. Jika membicarakan keadaan kemarin, gunakan sifat lampau seperti さむかったです: dingin pada masa lalu.",
       "examples": [
         {
           "jp": "電車はバスより速いです。",
-          "kana": "でんしゃ は バス より はやいです。",
+          "kana": "でんしゃ は バス より はやい です。",
           "meaning": "Kereta lebih cepat daripada bus."
         },
         {
           "jp": "昨日は今日より寒かったです。",
-          "kana": "きのう は きょう より さむかったです。",
+          "kana": "きのう は きょう より さむかった です。",
           "meaning": "Kemarin lebih dingin daripada hari ini."
         }
       ],
@@ -3005,8 +3730,17 @@
           "B"
         ],
         "answer": 0,
-        "explanation": "A yang dijelaskan lebih mahal; B adalah patokan setelah より."
-      }
+        "explanation": "A yang dijelaskan lebih mahal; B adalah patokan setelah より.",
+        "promptKana": "A は B より たかい です。"
+      },
+      "searchTerms": [
+        "電車は",
+        "速いです",
+        "昨日は",
+        "今日より",
+        "寒かったです",
+        "高いです"
+      ]
     },
     {
       "id": "houga",
@@ -3019,27 +3753,33 @@
       "kana": "より・のほうが",
       "romaji": "yori / no hou ga",
       "meaning": "Dibanding A, B lebih …",
-      "explanation": "B のほうが menonjolkan sisi B yang lebih memiliki sifat tertentu. A より dapat ditambahkan sebagai pembanding atau dihilangkan jika sudah diketahui.",
+      "explanation": "Bのほうが menonjolkan B sebagai pilihan yang lebih memiliki suatu sifat. Aより dapat ditambahkan untuk menyebut patokannya. バスよりでんしゃのほうがはやいです berarti dibanding bus, kereta lebih cepat.",
       "patterns": [
-        "A + より + B + のほうが + sifat",
-        "B + のほうが + sifat"
+        "A + より + B + のほうが + sifat + です",
+        "Jika patokan sudah jelas: B + のほうが + sifat + です"
       ],
-      "note": "A は B より高い dan B より A のほうが高い menyampaikan perbandingan yang sama. Yang penting adalah unsur setelah のほうが.",
+      "note": "Yang lebih berada sebelum のほうが. でんしゃはバスよりはやい dan バスよりでんしゃのほうがはやい sama-sama berarti kereta lebih cepat daripada bus. Jangan membalik posisi karena terjemahan Indonesianya berubah.",
       "examples": [
         {
           "jp": "バスより電車のほうが速いです。",
-          "kana": "バス より でんしゃ の ほう が はやいです。",
+          "kana": "バス より でんしゃ の ほう が はやい です。",
           "meaning": "Dibanding bus, kereta lebih cepat."
         },
         {
           "jp": "この本のほうがおもしろいです。",
-          "kana": "この ほん の ほう が おもしろいです。",
+          "kana": "この ほん の ほう が おもしろい です。",
           "meaning": "Buku ini lebih menarik."
         }
       ],
       "order": 76,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "高い",
+        "電車のほうが",
+        "速いです",
+        "本のほうがおもしろいです"
+      ]
     },
     {
       "id": "dochira",
@@ -3052,11 +3792,12 @@
       "kana": "どちら・どっち",
       "romaji": "dochira / docchi",
       "meaning": "Di antara dua pilihan, mana yang lebih …?",
-      "explanation": "どちら membandingkan dua pilihan. Sebutkan A dan B dengan と, lalu tanyakan sifat atau kesukaan yang ingin dibandingkan. どっち adalah bentuk percakapan yang lebih santai.",
+      "explanation": "どちら berarti yang mana saat membandingkan dua pilihan. Sebutkan A dan B dengan と, lalu tanyakan sifat atau kesukaannya. いぬとねことどちらがすきですか berarti lebih suka anjing atau kucing? Jawab dengan pilihan＋のほうが.",
       "patterns": [
-        "A + と + B + と + どちらが + sifat + ですか"
+        "A + と + B + と + どちらが + sifat + ですか",
+        "Jawaban: pilihan + のほうが + sifat + です"
       ],
-      "note": "Jawaban dapat memakai ～のほうが. Untuk tiga pilihan atau lebih, kata tanya seperti どれ／何 bersama 一番 lebih sesuai.",
+      "note": "どっち adalah bentuk yang lebih santai. Untuk lebih dari dua pilihan, pertanyaan dengan どれ／なに dan いちばん biasanya lebih sesuai. すき berarti suka dan termasuk kelompok sifat-na.",
       "examples": [
         {
           "jp": "犬と猫とどちらが好きですか。",
@@ -3071,7 +3812,16 @@
       ],
       "order": 77,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "何",
+        "一番",
+        "犬と",
+        "猫とどちらが",
+        "好きですか",
+        "猫のほうが",
+        "好きです"
+      ]
     },
     {
       "id": "ichiban",
@@ -3084,12 +3834,12 @@
       "kana": "いちばん",
       "romaji": "ichiban",
       "meaning": "Yang paling … dalam sebuah kelompok",
-      "explanation": "一番 menandai tingkat tertinggi dalam suatu cakupan. Sebutkan cakupannya dengan で, kemudian hal yang paling memiliki sifat itu dengan が.",
+      "explanation": "いちばん berarti paling dalam kelompok yang dibandingkan. Sebutkan kelompoknya dengan で, lalu pilihan dengan が. にほんでいちばんたかいやま berarti gunung paling tinggi di Jepang; kelompok pembandingnya adalah gunung di Jepang.",
       "patterns": [
-        "Cakupan + で + A + が + 一番 + sifat",
-        "Cakupan + で + 何／どれ／だれ + が + 一番 + sifat + ですか"
+        "Kelompok + で + pilihan + が + いちばん + sifat",
+        "Kelompok + で + なに／どれ／だれ + が + いちばん + sifat + ですか"
       ],
-      "note": "Cakupan penting agar maksud “paling” jelas. Untuk membandingkan dua hal saja, pola どちら／のほうが biasanya lebih sederhana.",
+      "note": "Kelompok membuat arti paling menjadi jelas. たかい bisa berarti tinggi atau mahal; lihat bendanya. Untuk dua pilihan saja, pola どちら／のほうが lebih sederhana.",
       "examples": [
         {
           "jp": "日本では富士山が一番高い山です。",
@@ -3104,7 +3854,18 @@
       ],
       "order": 78,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "一番",
+        "何",
+        "日本では",
+        "富士山が",
+        "一番高い",
+        "山です",
+        "日本料理で",
+        "何が",
+        "一番好きですか"
+      ]
     },
     {
       "id": "tari",
@@ -3117,11 +3878,13 @@
       "kana": "たり・たり します",
       "romaji": "tari / tari shimasu",
       "meaning": "Melakukan kegiatan seperti A dan B",
-      "explanation": "～たり menyebut beberapa kegiatan sebagai contoh. Tidak harus mencakup semua kegiatan dan tidak menetapkan urutan waktunya. Tambahkan り setelah bentuk た masing-masing kata kerja, lalu tutup dengan します.",
+      "explanation": "～たり～たりします menyebut beberapa kegiatan sebagai contoh. Buat bentuk た setiap kata kerja, tambahkan り, lalu tutup dengan します. よんだり、みたりします berarti melakukan kegiatan seperti membaca dan menonton, tanpa harus dalam urutan itu.",
       "patterns": [
-        "Vた + り + Vた + り + します"
+        "Vた + り + Vた + り + します",
+        "よむ → よんだ → よんだり; みる → みた → みたり",
+        "Lampau: ～たり～たりしました"
       ],
-      "note": "Waktu ditentukan oleh します／しました. Untuk urutan tegas, gunakan Vてから atau rangkaian Vて.",
+      "note": "Bentuk た sebelum り tidak otomatis membuat seluruh kalimat lampau; akhir します／しました menentukan waktunya. Daftarnya hanya contoh. Untuk urutan yang penting, gunakan ～てから.",
       "examples": [
         {
           "jp": "休みの日は本を読んだり、映画を見たりします。",
@@ -3130,7 +3893,7 @@
         },
         {
           "jp": "昨日は掃除したり、洗濯したりしました。",
-          "kana": "きのう は そうじしたり、せんたくしたり しました。",
+          "kana": "きのう は そうじ したり、せんたく したり しました。",
           "meaning": "Kemarin saya melakukan kegiatan seperti bersih-bersih dan mencuci pakaian."
         }
       ],
@@ -3141,7 +3904,19 @@
       },
       "order": 79,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "休みの",
+        "日は",
+        "本を",
+        "読んだり",
+        "映画を",
+        "見たりします",
+        "昨日は",
+        "掃除したり",
+        "洗濯したりしました",
+        "見たりです"
+      ]
     },
     {
       "id": "koto",
@@ -3154,12 +3929,12 @@
       "kana": "こと",
       "romaji": "koto",
       "meaning": "Mengubah kegiatan menjadi hal yang dibicarakan",
-      "explanation": "Kata kerja bentuk kamus ditambah こと dapat diperlakukan seperti kata benda. Pola ini dipakai untuk membicarakan hobi atau kegiatan yang disukai.",
+      "explanation": "こと setelah kata kerja membuat kegiatan bisa dibicarakan seperti sebuah hal. えいがをみること berarti kegiatan menonton film. Ini berguna untuk menyebut hobi: しゅみはえいがをみることです berarti hobi saya menonton film.",
       "patterns": [
-        "V kamus + こと",
-        "趣味は + V kamus + ことです"
+        "V kamus + こと; はしること: kegiatan berlari",
+        "しゅみは + V kamus + ことです: hobinya melakukan…"
       ],
-      "note": "Pada pola definisi hobi 趣味は～ことです, gunakan こと. Menggantinya begitu saja dengan のです dapat menghasilkan fungsi penjelasan yang berbeda.",
+      "note": "Gunakan bentuk kamus, misalnya みる, bukan みます. Pada kalimat yang mendefinisikan hobi sebagai kegiatan, gunakan ことです; menggantinya langsung dengan のです bisa memberi fungsi penjelasan yang berbeda.",
       "examples": [
         {
           "jp": "私の趣味は映画を見ることです。",
@@ -3174,7 +3949,15 @@
       ],
       "order": 80,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "趣味は",
+        "私の",
+        "映画を",
+        "見ることです",
+        "走ることが",
+        "好きです"
+      ]
     },
     {
       "id": "nominal-no",
@@ -3187,13 +3970,13 @@
       "kana": "のは",
       "romaji": "no wa",
       "meaning": "Menjadikan kegiatan sebagai topik, subjek, atau objek",
-      "explanation": "の setelah kata kerja bentuk biasa membendakan kegiatan. は menjadikannya topik, が dapat menandai hal yang disukai atau ditangkap indra, dan を menandai objek seperti kegiatan yang dilupakan. Partikel dipilih sesuai kata kerja atau penilaian sesudahnya.",
+      "explanation": "の setelah kata kerja membuat kegiatan bisa menjadi hal yang dinilai atau disukai. およぐの berarti kegiatan berenang. およぐのがすきです berarti saya suka berenang; partikel setelah の menunjukkan peran kegiatan itu dalam kalimat.",
       "patterns": [
-        "V bentuk biasa + のは + penilaian",
-        "V bentuk biasa + のが + 好きです／見えます",
-        "V bentuk biasa + のを + 忘れました"
+        "V bentuk biasa + のは + penilaian; おぼえるのはたいへんです",
+        "V bentuk biasa + のが + すきです; およぐのがすきです",
+        "V bentuk biasa + のを + わすれました; でんわするのをわすれました"
       ],
-      "note": "Contoh: 泳ぐのが好きです berarti suka berenang; 電話するのを忘れました berarti lupa menelepon. の dan こと tidak selalu dapat saling menggantikan. Penjelasan keluarga pola ini tetap di N5 agar tidak menjadi kartu ganda di N4.",
+      "note": "のは memperkenalkan kegiatan sebagai topik; のが dipakai pada contoh kesukaan; のを pada contoh hal yang dilupakan. の dan こと tidak selalu saling menggantikan. Pilih partikel sesuai kata setelahnya.",
       "examples": [
         {
           "jp": "漢字を覚えるのは大変です。",
@@ -3201,14 +3984,27 @@
           "meaning": "Menghafal kanji itu berat."
         },
         {
-          "jp": "この機械を使うのは簡単です。",
-          "kana": "この きかい を つかう の は かんたん です。",
-          "meaning": "Menggunakan mesin ini mudah."
+          "jp": "泳ぐのが好きです。",
+          "kana": "およぐ の が すき です。",
+          "meaning": "Saya suka berenang."
         }
       ],
       "order": 81,
       "level": "N5",
-      "enrichment": false
+      "enrichment": false,
+      "searchTerms": [
+        "好きです",
+        "見えます",
+        "忘れました",
+        "泳ぐのが",
+        "電話するのを",
+        "漢字を",
+        "覚えるのは",
+        "大変です",
+        "機械を",
+        "使うのは",
+        "簡単です"
+      ]
     },
     {
       "id": "koto-dekiru",
@@ -3221,12 +4017,13 @@
       "kana": "が できます・ことが できます",
       "romaji": "ga dekimasu / koto ga dekimasu",
       "meaning": "Dapat atau mampu melakukan",
-      "explanation": "できます dapat menyatakan kemampuan atau kemungkinan melakukan kegiatan. Kata benda kegiatan dapat langsung diikuti ができます. Kata kerja memakai bentuk kamus＋ことができます.",
+      "explanation": "できます berarti bisa. Untuk kegiatan berupa kata benda, gunakan ができます, seperti りょうりができます: bisa memasak. Jika memakai kata kerja, gunakan bentuk kamus＋ことができます: よむことができます berarti bisa membaca.",
       "patterns": [
-        "Kata benda kegiatan + が + できます",
-        "V kamus + ことが + できます"
+        "Benda kegiatan + ができます; りょうりができます",
+        "V kamus + ことができます; よむことができます",
+        "Tidak bisa: ～ことができません"
       ],
-      "note": "は dapat menggantikan が untuk menonjolkan pertentangan: 話すことはできますが、書くことはできません. Itu bukan berarti は selalu dapat diterjemahkan “kalau”.",
+      "note": "Jangan memakai bentuk ます sebelum こと: よむことができます, bukan よみますことができます. Bentuk ini dapat menyatakan kemampuan atau kesempatan yang diizinkan keadaan; tentukan dari situasi.",
       "examples": [
         {
           "jp": "私は料理ができます。",
@@ -3254,8 +4051,23 @@
           "日本語を読むことができます。"
         ],
         "answer": 1,
-        "explanation": "Sebelum ことができます, gunakan kata kerja bentuk kamus."
-      }
+        "explanation": "Sebelum ことができます, gunakan kata kerja bentuk kamus.",
+        "optionKana": [
+          "にほんご を よみます こと が できます。",
+          "にほんご を よむ こと が できます。"
+        ]
+      },
+      "searchTerms": [
+        "話すことはできますが",
+        "書くことはできません",
+        "私は",
+        "料理ができます",
+        "日本語を",
+        "読むことができます",
+        "読みますことができます",
+        "読む",
+        "読みます"
+      ]
     },
     {
       "id": "potential-verbs",
@@ -3268,14 +4080,14 @@
       "kana": "かのうけい",
       "romaji": "kanoukei",
       "meaning": "Bentuk kata kerja yang berarti “bisa”",
-      "explanation": "Bentuk potensial mengungkapkan kemampuan secara langsung. Golongan I mengubah bunyi akhir u menjadi e lalu menambah る. Golongan II membuang る lalu menambah られる. する dan 来る berubah secara khusus.",
+      "explanation": "Bentuk kemampuan menyatakan bisa melalui perubahan kata kerjanya. よむ, membaca, menjadi よめる, bisa membaca; bentuk sopannya よめます. Ini pengayaan: pelajari setelah bentuk dasar dan ～ことができます terasa mudah.",
       "patterns": [
-        "Gol. I: bunyi u → e + る",
-        "Gol. II: buang る + られる",
-        "する → できる",
-        "来る → 来られる (こられる)"
+        "Gol. I: bunyi akhir u → e + る; よむ → よめる → よめます",
+        "Gol. II: buang る + られる; みる → みられる → みられます",
+        "する → できる → できます",
+        "くる → こられる → こられます"
       ],
-      "note": "Pola ini termasuk materi pengayaan. Bentuk standar untuk 見る adalah 見られる. Objek pada kalimat potensial sering memakai が; は dapat menekankan pertentangan.",
+      "note": "Golongan adalah kelompok perubahan kata kerja; buka panduannya bila perlu. Bentuk standar みる adalah みられる. Yang bisa dibaca sering memakai が: かんじがよめます berarti bisa membaca kanji.",
       "examples": [
         {
           "jp": "私は漢字が少し読めます。",
@@ -3319,7 +4131,24 @@
       },
       "order": 83,
       "level": "N5",
-      "enrichment": true
+      "enrichment": true,
+      "searchTerms": [
+        "来る",
+        "来られる",
+        "見る",
+        "見られる",
+        "私は",
+        "漢字が",
+        "少し",
+        "読めます",
+        "明日は",
+        "何時に",
+        "来られますか",
+        "読む",
+        "読める",
+        "見られます",
+        "来られます"
+      ]
     }
   ]
 }

@@ -1,0 +1,1038 @@
+{
+  "date": "2026-11-01",
+  "batch": 16,
+  "audience": "Pemula dari nol yang belajar mandiri",
+  "reviewed_count": 83,
+  "remaining_count": 0,
+  "examples_reviewed": 166,
+  "changes": {
+    "i-adjective": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "ii": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "na-adjective": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "verb-forms": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "table"
+      ],
+      "examples_reviewed": 2
+    },
+    "noun-modifiers": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "no-possession": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "no-substitute": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "existence": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "existence-place": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "wa": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "wa-ga": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "ga-question": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "wo": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "to": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "ni": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "de": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "mo": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "ka-choice": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "ya": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "kara-made": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "goro": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "gurai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "dake": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "combined-wa": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "question-words": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "how-questions": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "kochira": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "question-ka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "question-mo-negative": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "question-demo": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "dou-desuka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "dou-shimasuka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "connect-adjectives": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "negative-connect": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "te-sequence": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "te-kara": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "sorekara-soshite": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "relative-clause": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "hoshii": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "tai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "te-imasu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "te-kudasai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "naide-kudasai": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "ne-yo": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "morau": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "kureru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "ageru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "mashou": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "mashouka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "masenka": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "kara-reason": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "dakara": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "demo-shikashi": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "kedo-ga": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "soredewa": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "degree": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "taihen": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "amari": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "zenzen": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "frequency": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "extent": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "yoku": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "sakki-sugu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "motto": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "mou-mada": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "adjective-adverb": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "naru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "suru-change": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "ni-shimasu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "to-iimasu": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "toki": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "mae-ni": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "ato-de": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "purpose-ni": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "yori": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "houga": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "dochira": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "ichiban": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "tari": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "koto": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    },
+    "nominal-no": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "examples"
+      ],
+      "examples_reviewed": 2
+    },
+    "koto-dekiru": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note",
+        "check"
+      ],
+      "examples_reviewed": 2
+    },
+    "potential-verbs": {
+      "fields": [
+        "explanation",
+        "patterns",
+        "note"
+      ],
+      "examples_reviewed": 2
+    }
+  },
+  "reading_spacing": [
+    {
+      "id": "i-adjective",
+      "example": 1,
+      "before": "この ほん は おもしろいです。",
+      "after": "この ほん は おもしろい です。"
+    },
+    {
+      "id": "i-adjective",
+      "example": 2,
+      "before": "きのう は さむくなかったです。",
+      "after": "きのう は さむくなかった です。"
+    },
+    {
+      "id": "ii",
+      "example": 1,
+      "before": "この かばん は いいです。",
+      "after": "この かばん は いい です。"
+    },
+    {
+      "id": "ii",
+      "example": 2,
+      "before": "きのう の てんき は よかったです。",
+      "after": "きのう の てんき は よかった です。"
+    },
+    {
+      "id": "na-adjective",
+      "example": 1,
+      "before": "この へや は きれいです。",
+      "after": "この へや は きれい です。"
+    },
+    {
+      "id": "na-adjective",
+      "example": 2,
+      "before": "きのう は ひま じゃ なかったです。",
+      "after": "きのう は ひま じゃ なかった です。"
+    },
+    {
+      "id": "verb-forms",
+      "example": 1,
+      "before": "きょう は べんきょうします。",
+      "after": "きょう は べんきょう します。"
+    },
+    {
+      "id": "verb-forms",
+      "example": 2,
+      "before": "きのう は べんきょうしませんでした。",
+      "after": "きのう は べんきょう しません でした。"
+    },
+    {
+      "id": "noun-modifiers",
+      "example": 2,
+      "before": "しずかな へや で べんきょうします。",
+      "after": "しずかな へや で べんきょう します。"
+    },
+    {
+      "id": "wa-ga",
+      "example": 1,
+      "before": "あに は せ が たかいです。",
+      "after": "あに は せ が たかい です。"
+    },
+    {
+      "id": "wa-ga",
+      "example": 2,
+      "before": "とうきょう は ひと が おおいです。",
+      "after": "とうきょう は ひと が おおい です。"
+    },
+    {
+      "id": "de",
+      "example": 1,
+      "before": "としょかん で べんきょうします。",
+      "after": "としょかん で べんきょう します。"
+    },
+    {
+      "id": "goro",
+      "example": 1,
+      "before": "しちじ ごろ でんわします。",
+      "after": "しちじ ごろ でんわ します。"
+    },
+    {
+      "id": "question-mo-negative",
+      "example": 2,
+      "before": "けさ は なにも たべませんでした。",
+      "after": "けさ は なにも たべません でした。"
+    },
+    {
+      "id": "connect-adjectives",
+      "example": 1,
+      "before": "この へや は ひろくて あかるいです。",
+      "after": "この へや は ひろくて あかるい です。"
+    },
+    {
+      "id": "negative-connect",
+      "example": 2,
+      "before": "この りょうり は からくなくて、おいしいです。",
+      "after": "この りょうり は からくなくて、おいしい です。"
+    },
+    {
+      "id": "sorekara-soshite",
+      "example": 1,
+      "before": "ろくじ に おきました。それから、さんぽしました。",
+      "after": "ろくじ に おきました。それから、さんぽ しました。"
+    },
+    {
+      "id": "relative-clause",
+      "example": 2,
+      "before": "ちち が はたらいている かいしゃ は とうきょう に あります。",
+      "after": "ちち が はたらいて いる かいしゃ は とうきょう に あります。"
+    },
+    {
+      "id": "hoshii",
+      "example": 1,
+      "before": "あたらしい かばん が ほしいです。",
+      "after": "あたらしい かばん が ほしい です。"
+    },
+    {
+      "id": "hoshii",
+      "example": 2,
+      "before": "いま は くるま が ほしくないです。",
+      "after": "いま は くるま が ほしくない です。"
+    },
+    {
+      "id": "tai",
+      "example": 1,
+      "before": "にほん へ いきたいです。",
+      "after": "にほん へ いきたい です。"
+    },
+    {
+      "id": "tai",
+      "example": 2,
+      "before": "きょう は にく を たべたくないです。",
+      "after": "きょう は にく を たべたくない です。"
+    },
+    {
+      "id": "te-imasu",
+      "example": 1,
+      "before": "いま、いもうと は ピアノ を ひいています。",
+      "after": "いま、いもうと は ピアノ を ひいて います。"
+    },
+    {
+      "id": "te-imasu",
+      "example": 2,
+      "before": "とうきょう に すんでいます。",
+      "after": "とうきょう に すんで います。"
+    },
+    {
+      "id": "ne-yo",
+      "example": 1,
+      "before": "きょう は あついです ね。",
+      "after": "きょう は あつい です ね。"
+    },
+    {
+      "id": "ne-yo",
+      "example": 2,
+      "before": "あめ が ふっています よ。",
+      "after": "あめ が ふって います よ。"
+    },
+    {
+      "id": "mashou",
+      "example": 1,
+      "before": "いっしょに べんきょうしましょう。",
+      "after": "いっしょ に べんきょう しましょう。"
+    },
+    {
+      "id": "mashou",
+      "example": 2,
+      "before": "ちかいです から、あるきましょう。",
+      "after": "ちかい です から、あるきましょう。"
+    },
+    {
+      "id": "mashouka",
+      "example": 2,
+      "before": "いっしょに いきましょう か。",
+      "after": "いっしょ に いきましょう か。"
+    },
+    {
+      "id": "masenka",
+      "example": 1,
+      "before": "いっしょに ひるごはん を たべません か。",
+      "after": "いっしょ に ひるごはん を たべません か。"
+    },
+    {
+      "id": "dakara",
+      "example": 1,
+      "before": "あした は テスト です。だから、べんきょうします。",
+      "after": "あした は テスト です。だから、べんきょう します。"
+    },
+    {
+      "id": "demo-shikashi",
+      "example": 1,
+      "before": "にほんご は むずかしいです。でも、おもしろいです。",
+      "after": "にほんご は むずかしい です。でも、おもしろい です。"
+    },
+    {
+      "id": "demo-shikashi",
+      "example": 2,
+      "before": "りょこう に いきたいです。しかし、じかん が ありません。",
+      "after": "りょこう に いきたい です。しかし、じかん が ありません。"
+    },
+    {
+      "id": "kedo-ga",
+      "example": 1,
+      "before": "にほんご は むずかしいです が、おもしろいです。",
+      "after": "にほんご は むずかしい です が、おもしろい です。"
+    },
+    {
+      "id": "kedo-ga",
+      "example": 2,
+      "before": "きょう は ひま だけど、あした は いそがしいです。",
+      "after": "きょう は ひま だけど、あした は いそがしい です。"
+    },
+    {
+      "id": "degree",
+      "example": 1,
+      "before": "この りょうり は とても おいしいです。",
+      "after": "この りょうり は とても おいしい です。"
+    },
+    {
+      "id": "amari",
+      "example": 1,
+      "before": "この にく は あまり おいしくないです。",
+      "after": "この にく は あまり おいしくない です。"
+    },
+    {
+      "id": "zenzen",
+      "example": 2,
+      "before": "きょう は ぜんぜん さむくないです。",
+      "after": "きょう は ぜんぜん さむくない です。"
+    },
+    {
+      "id": "motto",
+      "example": 2,
+      "before": "もっと にほんご を べんきょうしたいです。",
+      "after": "もっと にほんご を べんきょう したい です。"
+    },
+    {
+      "id": "mou-mada",
+      "example": 2,
+      "before": "まだ しゅくだい を していません。",
+      "after": "まだ しゅくだい を して いません。"
+    },
+    {
+      "id": "adjective-adverb",
+      "example": 2,
+      "before": "しずかに はなして ください。",
+      "after": "しずか に はなして ください。"
+    },
+    {
+      "id": "suru-change",
+      "example": 1,
+      "before": "へや を きれいに します。",
+      "after": "へや を きれい に します。"
+    },
+    {
+      "id": "toki",
+      "example": 2,
+      "before": "ひまな とき、おんがく を ききます。",
+      "after": "ひま な とき、おんがく を ききます。"
+    },
+    {
+      "id": "mae-ni",
+      "example": 1,
+      "before": "ねる まえに、ほん を よみます。",
+      "after": "ねる まえ に、ほん を よみます。"
+    },
+    {
+      "id": "mae-ni",
+      "example": 2,
+      "before": "にねん まえに にほん へ きました。",
+      "after": "にねん まえ に にほん へ きました。"
+    },
+    {
+      "id": "ato-de",
+      "example": 1,
+      "before": "ごはん を たべた あとで、べんきょうします。",
+      "after": "ごはん を たべた あと で、べんきょう します。"
+    },
+    {
+      "id": "ato-de",
+      "example": 2,
+      "before": "じゅぎょう の あとで、かいもの を します。",
+      "after": "じゅぎょう の あと で、かいもの を します。"
+    },
+    {
+      "id": "yori",
+      "example": 1,
+      "before": "でんしゃ は バス より はやいです。",
+      "after": "でんしゃ は バス より はやい です。"
+    },
+    {
+      "id": "yori",
+      "example": 2,
+      "before": "きのう は きょう より さむかったです。",
+      "after": "きのう は きょう より さむかった です。"
+    },
+    {
+      "id": "houga",
+      "example": 1,
+      "before": "バス より でんしゃ の ほう が はやいです。",
+      "after": "バス より でんしゃ の ほう が はやい です。"
+    },
+    {
+      "id": "houga",
+      "example": 2,
+      "before": "この ほん の ほう が おもしろいです。",
+      "after": "この ほん の ほう が おもしろい です。"
+    },
+    {
+      "id": "tari",
+      "example": 2,
+      "before": "きのう は そうじしたり、せんたくしたり しました。",
+      "after": "きのう は そうじ したり、せんたく したり しました。"
+    }
+  ],
+  "policy": "Audit editorial internal atas fungsi, pembentukan, istilah, contoh beserta bacaan/arti, tabel, kesalahan dan cek yang tersedia; bukan sertifikasi eksternal, daftar resmi JLPT, atau bukti bahwa penjelasan pasti dipahami semua pemula. Pengantar dasar dan panduan bentuk tersedia terlipat.",
+  "preserved": [
+    "83 ID, urutan, kategori, level dan sumber asal",
+    "166 contoh total, 16 cek",
+    "Seluruh data Bunpo N4/Kotoba/Kanji dari paket 15"
+  ],
+  "external_references": [
+    {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/courses/c01/lesson01/step1/explanation/001.html",
+      "scope": "Nです dan negatif"
+    },
+    {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/courses/c01/lesson01/step4/explanation/004.html",
+      "scope": "Nでした dan negatif lampau"
+    },
+    {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/039.html",
+      "scope": "Golongan kata kerja, pengecualian, hubungan て／た／ない／ます"
+    },
+    {
+      "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L03.pdf",
+      "scope": "Pengenalan diri dan pola dasar です／は untuk pemula"
+    }
+  ],
+  "starter_sections": 5,
+  "verb_reference_tables": 3,
+  "checks_with_reading_support": 16,
+  "search_policy": "Pertahankan kata kanji dari materi awal sebagai alias pencarian agar penjelasan berkana tetap bisa ditemukan lewat kanji."
+}

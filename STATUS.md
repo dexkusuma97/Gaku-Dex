@@ -1237,3 +1237,12 @@ Tinjau 92 materi sisanya (urutan 24–115) dan 187 contoh: total 115/115 materi 
 Dua contoh Jepang diganti (Vてばかりいる dan inferensi はずがない berdasarkan jadwal), tiga arti diperhalus (てもらう, てほしい, やっと); bacaan pengganti berspasi. Tetap 115 materi, 14 kategori, 233 contoh, 16 cek; semua ID, cakupan/sumber dan urutan tetap. Hasil 23 materi batch 14, Bunpo N5, Kotoba dan Kanji identik. Cakupan/rujukan: data/bunpo-n4-editorial-review.json dan data/BUNPO_N4_REVIEW_20261101.md.
 
 42 berkas tes lulus; build Bunpo stabil. Cek render meliputi seluruh 115 materi; belum uji visual Android/browser fisik. Ini audit editorial internal atas data yang ada, bukan sertifikasi pengajar eksternal atau silabus/penyetaraan resmi JLPT/CEFR. Paket kumulatif dengan backup/conflict gate/rollback; tes pemasang mencegah penulisan cache Python baru. Tanpa push/deploy otomatis.
+
+
+## 1 November 2026 — Batch 16: Bunpo N5 untuk pemula otodidak dari nol
+
+Tinjau 83/83 materi dan 166 contoh. Tulis ulang penjelasan, rumus dan catatan agar fungsi/istilah dijelaskan lewat contoh konkret. Tambahkan pengantar dasar lipat, tautan fondasi, serta panduan tiga golongan kata kerja beserta tabel kamus/ます/ない/て/た dan pengecualian. Dua kalimat contoh disesuaikan, tiga arti diperjelas, dan 52 baris kana diberi spasi yang lebih jelas. Tambahkan kana/romaji untuk teks Jepang pada 16 cek tanpa mengubah jawaban. Pertahankan alias kanji untuk pencarian.
+
+Tetap 83 materi/11 kategori/166 contoh/16 cek, semua ID, urutan dan sumber awal. Seluruh data Bunpo N4, Kotoba dan Kanji identik dengan paket 15. Pengantar khusus N5, bantuan N4 dipertahankan. Rincian: data/BUNPO_N5_REVIEW_20261101.md dan data/bunpo-n5-editorial-review.json. Audit internal, belum sertifikasi pengajar atau pengujian pemahaman dengan pelajar dari nol.
+
+Semua 42 berkas tes lulus, rebuild stabil; cek render VM meliputi seluruh detail N5 dan bacaan cek, pencarian serta isolasi level. Belum uji visual browser/Android fisik. Paket kumulatif menerima versi dikenal, backup/rollback dan pencegahan cache Python; tanpa push/deploy otomatis.

@@ -3,6 +3,15 @@ import json,re
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
 n5=json.loads((root/'data/bunpo-n5.json').read_text())
+n5_starter=json.loads((root/'data/bunpo-n5-starter.json').read_text())
+assert len(n5_starter['sections'])==5
+for section in n5_starter['sections']:
+ assert section['title'] and section['paragraphs']
+ for example in section.get('examples',[]):
+  assert all(example[k].strip() for k in ['jp','kana','meaning'])
+  assert not re.search('[一-龯]',example['kana'])
+for table in n5_starter['verbGuide']['tables']:
+ assert all(len(row)==len(table['headers']) for row in table['rows'])
 n4=json.loads((root/'data/bunpo-n4.json').read_text())
 assert len({e['id'] for e in n5['lessons']})==len(n5['lessons'])
 assert len({e['id'] for e in n4['lessons']})==len(n4['lessons'])
@@ -30,7 +39,7 @@ for e in n4['lessons']:
  assert e['sources'] and e['level']=='N4'
  for s in e['sources']:assert 1<=s['page']<=source_limits[s['id']]
 bundle='/* Reviewed learning records; regenerate with scripts/build-bunpo-data.py. */\n'
-for name,value in [('BUNPO_SOURCE',n5['source']),('BUNPO_CATEGORIES',n5['categories']),('BUNPO_DATA',n5['lessons']),('BUNPO_N4_CATEGORIES',n4['categories']),('BUNPO_N4_DATA',n4['lessons'])]:
+for name,value in [('BUNPO_SOURCE',n5['source']),('BUNPO_N5_STARTER',n5_starter),('BUNPO_CATEGORIES',n5['categories']),('BUNPO_DATA',n5['lessons']),('BUNPO_N4_CATEGORIES',n4['categories']),('BUNPO_N4_DATA',n4['lessons'])]:
  bundle+='const '+name+'='+json.dumps(value,ensure_ascii=False,separators=(',',':'))+';\n'
 bundle+="function bunpoEntries(level=(typeof prefs!=='undefined'?prefs.level:'N5')){return level==='N4'?BUNPO_N4_DATA:BUNPO_DATA}\n"
 bundle+="function bunpoCategories(level=(typeof prefs!=='undefined'?prefs.level:'N5')){return level==='N4'?BUNPO_N4_CATEGORIES:BUNPO_CATEGORIES}\n"
