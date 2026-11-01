@@ -1,12 +1,13 @@
 /* Termux narration generator. Labels stay metadata; only turn.text is sent. */
 'use strict';
 const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto'),{spawnSync}=require('node:child_process');
-const mode=process.argv[2];if(!['kaiwa','simulasi'].includes(mode))throw Error('Pilih kaiwa atau simulasi.');
+const mode=process.argv[2];if(!['kaiwa','kaiwa-n4','simulasi'].includes(mode))throw Error('Pilih kaiwa, kaiwa-n4 atau simulasi.');
+const isKaiwa=mode.startsWith('kaiwa');
 const base=path.join(__dirname,mode),manifest=JSON.parse(fs.readFileSync(path.join(__dirname,mode+'-manifest.json'))),args=process.argv.slice(3),dry=args.includes('--dry-run'),packOnly=args.includes('--pack');
 const filter=args.find(x=>!x.startsWith('--'))||'all';
 const rows=manifest.filter(q=>filter==='all'||q.pack===filter);
 if(!rows.length)throw Error('Pilihan tidak ditemukan. Gunakan all atau ID paket/skenario dalam manifest.');
-const voices=mode==='kaiwa'?{male:'Bj4Malc5SZLoXfPtxRxH',female:'3321Alera3fXjEWjjbAX'}:{male:'xya0RvcJtofTcFTOdX4E',female:'0ptCJp0xgdabdcpVtCB5',narrator:'GxxMAMfQkDlnqjpzjLHH'};
+const voices=isKaiwa?{male:'Bj4Malc5SZLoXfPtxRxH',female:'3321Alera3fXjEWjjbAX'}:{male:'xya0RvcJtofTcFTOdX4E',female:'0ptCJp0xgdabdcpVtCB5',narrator:'GxxMAMfQkDlnqjpzjLHH'};
 const speed=Number(process.env.ELEVENLABS_SPEED||0.85),key=process.env.ELEVENLABS_API_KEY;
 if(!Object.values(voices).every(v=>/^[A-Za-z0-9]+$/.test(v))||!Number.isFinite(speed)||speed<.7||speed>1.2)throw Error('Voice ID atau speed tidak valid.');
 if(voices.male===voices.female)throw Error('Voice pria dan wanita harus berbeda.');
@@ -18,7 +19,7 @@ const complete=q=>{try{return exists(path.join(out,q.file))&&JSON.parse(fs.readF
 function run(command,argv,options={}){const result=spawnSync(command,argv,{encoding:'utf8',maxBuffer:2*1024*1024,...options});if(result.error||result.status!==0)throw Error(command+' gagal. '+(result.error?'Perintah tidak tersedia.':(result.stderr||'').slice(-700)));return result.stdout;}
 if(packOnly){
  const missing=rows.filter(q=>!complete(q));if(missing.length)throw Error(missing.length+' audio belum lengkap atau memakai pengaturan voice berbeda. Jalankan generator dulu.');
- const zip=path.join(base,mode==='kaiwa'?'kaiwa-audio.zip':'simulasi-audio-baru.zip'),temp=path.join(base,mode==='kaiwa'?'kaiwa-audio.tmp.zip':'simulasi-audio-baru.tmp.zip');
+ const zip=path.join(base,isKaiwa?mode+'-audio.zip':'simulasi-audio-baru.zip'),temp=path.join(base,isKaiwa?mode+'-audio.tmp.zip':'simulasi-audio-baru.tmp.zip');
  fs.rmSync(temp,{force:true});run('zip',['-q',temp,...rows.map(q=>q.file)],{cwd:out});fs.renameSync(temp,zip);console.log('Selesai: '+zip+' ('+rows.length+' MP3)');process.exit(0);
 }
 if(dry){for(const q of rows)console.log('RENCANA '+q.file+' · '+q.turns.length+' bagian: '+q.turns.map(t=>t.speaker).join(' → '));console.log('TOTAL '+rows.length+' MP3, '+rows.reduce((n,q)=>n+q.turns.length,0)+' bagian suara.');process.exit(0);}

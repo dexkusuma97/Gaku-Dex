@@ -11,3 +11,5 @@ body.kaiwa-active #app>.page{animation:none}
 @media(prefers-reduced-motion:reduce){.kw-app *{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 
 .kw-app .kw-meaning .kw-line-note{margin-top:14px;padding-top:12px;border-top:1px solid var(--border,#e3e7e1);font-size:14px;line-height:1.8;color:var(--kw-muted);font-family:system-ui,sans-serif}
+
+.kw-app .kw-source-tag{display:block;font:12px/1.7 system-ui,sans-serif;color:var(--kw-muted);margin:8px 0 14px}.kw-app .kw-intent{padding:14px 16px;background:var(--kw-soft);border-radius:8px;font:15px/1.8 system-ui,sans-serif;margin:14px 0 18px}.kw-app .kw-stage{text-align:center;font:14px/1.6 system-ui,sans-serif;color:var(--kw-muted);margin:24px 0}.kw-app .kw-voice-note{font:14px/1.8 system-ui,sans-serif;margin:8px 0 0}

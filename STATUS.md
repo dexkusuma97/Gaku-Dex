@@ -1313,3 +1313,8 @@ Paket kumulatif mencakup 1–23. Pemasang memeriksa hash, mencadangkan dan memul
 ## 1 November 2026 — Batch 25: audit Kaiwa N5 dan label pemain
 
 16 skenario/136 baris utama ditinjau internal. Label Adi menjadi Kamu/K pada empat skenario; lainnya Ryota/R tanpa tambahan Aku/Kamu. Perbaiki 45 baris pada arti/romaji/penjelasan pilihan/catatan; teks Jepang utama dan rekaman tetap sama. 48 berkas tes lulus, termasuk pemetaan 136 naskah ke manifest audio, hash MP3 dan seluruh regresi paket 24. Belum verifikasi akustik/Android fisik/pengajar eksternal. Laporan: data/KAIWA_N5_REVIEW_20261101.md. Paket kumulatif 1–24.
+
+
+## 1 November 2026 — Batch 26: Kaiwa N4 dari dua referensi A2
+
+18 skenario/144 baris/72 balasan latihan; adaptasi sembilan topik per buku Marugoto Elementary 1–2 dari PDF pengguna. Menu/route/audio mengikuti level; N5 tidak tampil pada menu N4 dan tetap tersedia saat memilih N5. Tujuan balasan dan catatan pola singkat mendukung transisi dari N5. Suara N4 saat ini TTS Jepang perangkat, belum MP3; manifest 144 naskah dan generator dry-run disiapkan. 49 berkas tes lulus; belum pengajar eksternal/uji Android fisik baru. Rincian cakupan dan audio: data/KAIWA_N4_REVIEW_20261101.md. Paket kumulatif 1–25.

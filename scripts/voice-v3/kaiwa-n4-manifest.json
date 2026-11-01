@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "n4-e1-t01-1",
+    "pack": "n4-e1-t01",
+    "file": "n4-e1-t01-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "りょうたさんは、いま どこに すんでいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t01-2",
+    "pack": "n4-e1-t01",
+    "file": "n4-e1-t01-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "よこはまに すんでいます。あにと ふたりで くらしています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t01-3",
+    "pack": "n4-e1-t01",
+    "file": "n4-e1-t01-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おにいさんとは なにごで はなしますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t01-4",
+    "pack": "n4-e1-t01",
+    "file": "n4-e1-t01-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "インドネシアごで はなします。ときどき にほんごも つかいます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t01-5",
+    "pack": "n4-e1-t01",
+    "file": "n4-e1-t01-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "やすみの ひは、なにを するのが すきですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t01-6",
+    "pack": "n4-e1-t01",
+    "file": "n4-e1-t01-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "しゃしんを とることが すきです。こうえんで よく とります。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t01-7",
+    "pack": "n4-e1-t01",
+    "file": "n4-e1-t01-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こんど、しゃしんを みせてください。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t01-8",
+    "pack": "n4-e1-t01",
+    "file": "n4-e1-t01-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。つぎに あうとき、もってきます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t02-1",
+    "pack": "n4-e1-t02",
+    "file": "n4-e1-t02-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "もしもし、りょうたさん。そちらの てんきは どうですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t02-2",
+    "pack": "n4-e1-t02",
+    "file": "n4-e1-t02-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "こちらは あめが ふっています。けさから ずっとです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t02-3",
+    "pack": "n4-e1-t02",
+    "file": "n4-e1-t02-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こちらも きのうは あめでしたが、きょうは はれています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t02-4",
+    "pack": "n4-e1-t02",
+    "file": "n4-e1-t02-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいですね。そちらは もう あたたかく なりましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t02-5",
+    "pack": "n4-e1-t02",
+    "file": "n4-e1-t02-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい。はるに なって、さんぽが たのしく なりました。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t02-6",
+    "pack": "n4-e1-t02",
+    "file": "n4-e1-t02-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わたしも はるが すきです。はなが きれいですから。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t02-7",
+    "pack": "n4-e1-t02",
+    "file": "n4-e1-t02-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こんど、はなの しゃしんを おくりますね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t02-8",
+    "pack": "n4-e1-t02",
+    "file": "n4-e1-t02-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。たのしみに しています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t03-1",
+    "pack": "n4-e1-t03",
+    "file": "n4-e1-t03-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この まちには、どんな ところが ありますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t03-2",
+    "pack": "n4-e1-t03",
+    "file": "n4-e1-t03-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "えきの ちかくに、しずかで ひろい こうえんが あります。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t03-3",
+    "pack": "n4-e1-t03",
+    "file": "n4-e1-t03-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いいですね。ここから どう いけば いいですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t03-4",
+    "pack": "n4-e1-t03",
+    "file": "n4-e1-t03-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "まっすぐ いって、みっつめの かどを ひだりに まがってください。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t03-5",
+    "pack": "n4-e1-t03",
+    "file": "n4-e1-t03-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ふたつめの かどを ひだりですね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t03-6",
+    "pack": "n4-e1-t03",
+    "file": "n4-e1-t03-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいえ、ふたつめでは なくて、みっつめです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t03-7",
+    "pack": "n4-e1-t03",
+    "file": "n4-e1-t03-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わかりました。めじるしは ありますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t03-8",
+    "pack": "n4-e1-t03",
+    "file": "n4-e1-t03-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。あかくて おおきい たてものの むかいです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t04-1",
+    "pack": "n4-e1-t04",
+    "file": "n4-e1-t04-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "どようびの まちあわせは、ろくじで どうですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t04-2",
+    "pack": "n4-e1-t04",
+    "file": "n4-e1-t04-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ろくじは しごとが あります。しちじでも いいですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t04-3",
+    "pack": "n4-e1-t04",
+    "file": "n4-e1-t04-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いいですよ。えきの まえで あいましょう。タワーには もう いきましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t04-4",
+    "pack": "n4-e1-t04",
+    "file": "n4-e1-t04-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいえ、まだです。やけいを みに いきたいです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t04-5",
+    "pack": "n4-e1-t04",
+    "file": "n4-e1-t04-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "じゃあ、いっしょに いきましょう。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t04-6",
+    "pack": "n4-e1-t04",
+    "file": "n4-e1-t04-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。しちじに えきの まえですね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t04-7",
+    "pack": "n4-e1-t04",
+    "file": "n4-e1-t04-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "りょうたさん、こんばんは。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t04-8",
+    "pack": "n4-e1-t04",
+    "file": "n4-e1-t04-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "おくれて すみません。でんしゃが おくれたんです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t05-1",
+    "pack": "n4-e1-t05",
+    "file": "n4-e1-t05-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いままでに、どんな がいこくごを べんきょうしましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t05-2",
+    "pack": "n4-e1-t05",
+    "file": "n4-e1-t05-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "こうこうで えいごを べんきょうしました。いまは にほんごを ならっています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t05-3",
+    "pack": "n4-e1-t05",
+    "file": "n4-e1-t05-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "にほんごの べんきょうは どうですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t05-4",
+    "pack": "n4-e1-t05",
+    "file": "n4-e1-t05-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "たのしいですが、かんじを よむのが むずかしいです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t05-5",
+    "pack": "n4-e1-t05",
+    "file": "n4-e1-t05-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わからない ときは、きいてくださいね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t05-6",
+    "pack": "n4-e1-t05",
+    "file": "n4-e1-t05-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。こんど、よみかたを おしえてください。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t05-7",
+    "pack": "n4-e1-t05",
+    "file": "n4-e1-t05-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あ、えきへの みちが わかりません。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t05-8",
+    "pack": "n4-e1-t05",
+    "file": "n4-e1-t05-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いっしょに いきましょうか。わたしも えきへ いきます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t06-1",
+    "pack": "n4-e1-t06",
+    "file": "n4-e1-t06-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あしたの ピクニックに、なにを もっていきますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t06-2",
+    "pack": "n4-e1-t06",
+    "file": "n4-e1-t06-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わたしは おにぎりを つくって もっていきます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t06-3",
+    "pack": "n4-e1-t06",
+    "file": "n4-e1-t06-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わたしは サラダを もっていきます。のみものは なにが いいですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t06-4",
+    "pack": "n4-e1-t06",
+    "file": "n4-e1-t06-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "つめたい おちゃが いいです。わたしが かっておきます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t06-5",
+    "pack": "n4-e1-t06",
+    "file": "n4-e1-t06-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "サラダを どうぞ。すこし からいですよ。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t06-6",
+    "pack": "n4-e1-t06",
+    "file": "n4-e1-t06-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いただきます。からいですが、おいしいです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t06-7",
+    "pack": "n4-e1-t06",
+    "file": "n4-e1-t06-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "もう すこし どうですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t06-8",
+    "pack": "n4-e1-t06",
+    "file": "n4-e1-t06-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。でも、もう おなかが いっぱいです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t07-1",
+    "pack": "n4-e1-t07",
+    "file": "n4-e1-t07-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この ししゃに くるのは、はじめてですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t07-2",
+    "pack": "n4-e1-t07",
+    "file": "n4-e1-t07-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、はじめてです。きょうは よろしく おねがいします。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t07-3",
+    "pack": "n4-e1-t07",
+    "file": "n4-e1-t07-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "やまださんには、あったことが ありますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t07-4",
+    "pack": "n4-e1-t07",
+    "file": "n4-e1-t07-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、きょねんの かいぎで あったことが あります。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t07-5",
+    "pack": "n4-e1-t07",
+    "file": "n4-e1-t07-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "かいぎまで、こちらで おまちください。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t07-6",
+    "pack": "n4-e1-t07",
+    "file": "n4-e1-t07-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ありがとうございます。この プリンターを つかっても いいですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t07-7",
+    "pack": "n4-e1-t07",
+    "file": "n4-e1-t07-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい、どうぞ。ここに かみが あります。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t07-8",
+    "pack": "n4-e1-t07",
+    "file": "n4-e1-t07-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "たすかります。じゅんびしてから、かいぎしつへ いきます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t08-1",
+    "pack": "n4-e1-t08",
+    "file": "n4-e1-t08-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "さいきん、ねむれないんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t08-2",
+    "pack": "n4-e1-t08",
+    "file": "n4-e1-t08-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。よる、おそくまで スマホを みてしまうんです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t08-3",
+    "pack": "n4-e1-t08",
+    "file": "n4-e1-t08-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ねるまえに、スマホを みないように すると いいですよ。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t08-4",
+    "pack": "n4-e1-t08",
+    "file": "n4-e1-t08-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "そうですね。こんやから やってみます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t08-5",
+    "pack": "n4-e1-t08",
+    "file": "n4-e1-t08-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わたしは、けんこうの ために まいあさ あるいています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t08-6",
+    "pack": "n4-e1-t08",
+    "file": "n4-e1-t08-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "どのくらい あるくんですか。わたしも はじめたいです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t08-7",
+    "pack": "n4-e1-t08",
+    "file": "n4-e1-t08-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "にじゅっぷんぐらいです。むりを しないでくださいね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t08-8",
+    "pack": "n4-e1-t08",
+    "file": "n4-e1-t08-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。すこしずつ つづけるように します。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t09-1",
+    "pack": "n4-e1-t09",
+    "file": "n4-e1-t09-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "その かばん、すてきですね。どこで かったんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t09-2",
+    "pack": "n4-e1-t09",
+    "file": "n4-e1-t09-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "かったんじゃなくて、たんじょうびに あねに もらったんです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t09-3",
+    "pack": "n4-e1-t09",
+    "file": "n4-e1-t09-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "そうだったんですね。らいしゅうは、あねの たんじょうびなんです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t09-4",
+    "pack": "n4-e1-t09",
+    "file": "n4-e1-t09-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "なにか おいわいを しますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t09-5",
+    "pack": "n4-e1-t09",
+    "file": "n4-e1-t09-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "まだ きめていません。なにが いいと おもいますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t09-6",
+    "pack": "n4-e1-t09",
+    "file": "n4-e1-t09-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いえで しょくじかいを するのが いいと おもいます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t09-7",
+    "pack": "n4-e1-t09",
+    "file": "n4-e1-t09-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いいですね。プレゼントは、はなが いいかな。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e1-t09-8",
+    "pack": "n4-e1-t09",
+    "file": "n4-e1-t09-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ええ。おねえさんが すきな はなを えらびましょう。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t01-1",
+    "pack": "n4-e2-t01",
+    "file": "n4-e2-t01-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "りょうたさんは、どんな しごとを していますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t01-2",
+    "pack": "n4-e2-t01",
+    "file": "n4-e2-t01-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "さくらデザインと いう かいしゃで、ウェブサイトを つくっています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t01-3",
+    "pack": "n4-e2-t01",
+    "file": "n4-e2-t01-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "そうですか。しょうらいは、なにを したいですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t01-4",
+    "pack": "n4-e2-t01",
+    "file": "n4-e2-t01-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "にほんごでも しごとが できるように なりたいです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t01-5",
+    "pack": "n4-e2-t01",
+    "file": "n4-e2-t01-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あそこに いるのが、わたしの ともだちです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t01-6",
+    "pack": "n4-e2-t01",
+    "file": "n4-e2-t01-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あの、めがねを かけている ひとですか。やさしそうですね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t01-7",
+    "pack": "n4-e2-t01",
+    "file": "n4-e2-t01-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい。はじめは しずかですが、はなすと おもしろい ひとですよ。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t01-8",
+    "pack": "n4-e2-t01",
+    "file": "n4-e2-t01-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "そうなんですね。こんど、しょうかいしてください。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t02-1",
+    "pack": "n4-e2-t02",
+    "file": "n4-e2-t02-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いらっしゃいませ。なんめいさまですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t02-2",
+    "pack": "n4-e2-t02",
+    "file": "n4-e2-t02-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ふたりです。できれば、まどの ちかくの せきが いいんですが。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t02-3",
+    "pack": "n4-e2-t02",
+    "file": "n4-e2-t02-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい、こちらへ どうぞ。ごちゅうもんは おきまりですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t02-4",
+    "pack": "n4-e2-t02",
+    "file": "n4-e2-t02-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "まだです。さかなりょうりで、おすすめは なんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t02-5",
+    "pack": "n4-e2-t02",
+    "file": "n4-e2-t02-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こちらの やきざかなが にんきです。ごはんも ついています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t02-6",
+    "pack": "n4-e2-t02",
+    "file": "n4-e2-t02-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "では、それを おねがいします。たれは さかなに かけるんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t02-7",
+    "pack": "n4-e2-t02",
+    "file": "n4-e2-t02-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい。すこしずつ かけて、めしあがってください。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t02-8",
+    "pack": "n4-e2-t02",
+    "file": "n4-e2-t02-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わかりました。まず、すこし かけてみます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t03-1",
+    "pack": "n4-e2-t03",
+    "file": "n4-e2-t03-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "らいげつ、しまへ りょこうするんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t03-2",
+    "pack": "n4-e2-t03",
+    "file": "n4-e2-t03-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。はじめてなので、なにを もっていけば いいか おしえてください。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t03-3",
+    "pack": "n4-e2-t03",
+    "file": "n4-e2-t03-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ひざしが つよいので、ぼうしを もっていった ほうが いいですよ。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t03-4",
+    "pack": "n4-e2-t03",
+    "file": "n4-e2-t03-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わかりました。かるい ぼうしを かっておきます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t03-5",
+    "pack": "n4-e2-t03",
+    "file": "n4-e2-t03-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "うみでは、およいだり さかなを みたり できますよ。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t03-6",
+    "pack": "n4-e2-t03",
+    "file": "n4-e2-t03-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいですね。ふねにも のれますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t03-7",
+    "pack": "n4-e2-t03",
+    "file": "n4-e2-t03-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい。てんきが よければ、ちいさい ふねで しまを まわれます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t03-8",
+    "pack": "n4-e2-t03",
+    "file": "n4-e2-t03-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "たのしみです。でかけるまえに、てんきを かくにんします。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t04-1",
+    "pack": "n4-e2-t04",
+    "file": "n4-e2-t04-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "にちようびの まつり、あめが ふったら どうしますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t04-2",
+    "pack": "n4-e2-t04",
+    "file": "n4-e2-t04-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あめだったら、やたいでは なくて、ホールの なかで たべましょう。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t04-3",
+    "pack": "n4-e2-t04",
+    "file": "n4-e2-t04-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "そうしましょう。コンサートは なんじからですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t04-4",
+    "pack": "n4-e2-t04",
+    "file": "n4-e2-t04-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "さんじからの よていです。すこし はやく つくように しましょう。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t04-5",
+    "pack": "n4-e2-t04",
+    "file": "n4-e2-t04-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "コンサートは もう はじまりましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t04-6",
+    "pack": "n4-e2-t04",
+    "file": "n4-e2-t04-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいえ、まだ はじまっていません。いま、じゅんびしている ところです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t04-7",
+    "pack": "n4-e2-t04",
+    "file": "n4-e2-t04-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "よかったです。では、ここで まちましょう。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t04-8",
+    "pack": "n4-e2-t04",
+    "file": "n4-e2-t04-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。はじまるまえに、でんわの おとを けしておきます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t05-1",
+    "pack": "n4-e2-t05",
+    "file": "n4-e2-t05-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "おしょうがつは、どう すごしましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t05-2",
+    "pack": "n4-e2-t05",
+    "file": "n4-e2-t05-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "かぞくと りょうりを つくったり、えいがを みたり していました。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t05-3",
+    "pack": "n4-e2-t05",
+    "file": "n4-e2-t05-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あなたの まちでは、あきに おまつりが あるんですね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t05-4",
+    "pack": "n4-e2-t05",
+    "file": "n4-e2-t05-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。まいとし、みんなで おどって、しゅうかくを いわいます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t05-5",
+    "pack": "n4-e2-t05",
+    "file": "n4-e2-t05-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ことしは、わたしも みに いきたいです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t05-6",
+    "pack": "n4-e2-t05",
+    "file": "n4-e2-t05-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ぜひ きてください。よかったら、まつりを あんないします。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t05-7",
+    "pack": "n4-e2-t05",
+    "file": "n4-e2-t05-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ありがとうございます。みんなに いい ことが ありますように。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t05-8",
+    "pack": "n4-e2-t05",
+    "file": "n4-e2-t05-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ほんとうですね。たのしい いちねんに なりますように。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t06-1",
+    "pack": "n4-e2-t06",
+    "file": "n4-e2-t06-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "なにを さがしているんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t06-2",
+    "pack": "n4-e2-t06",
+    "file": "n4-e2-t06-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あたらしい そうじきです。まえのが こわれてしまったんです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t06-3",
+    "pack": "n4-e2-t06",
+    "file": "n4-e2-t06-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この ふたつは どうですか。しろいのは やすいですよ。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t06-4",
+    "pack": "n4-e2-t06",
+    "file": "n4-e2-t06-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "でも、ちょっと おもすぎると おもいます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t06-5",
+    "pack": "n4-e2-t06",
+    "file": "n4-e2-t06-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "では、くろいのは？しろいのより かるくて、つかいやすそうです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t06-6",
+    "pack": "n4-e2-t06",
+    "file": "n4-e2-t06-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "こちらの ほうが よさそうですね。ねだんは いくらですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t06-7",
+    "pack": "n4-e2-t06",
+    "file": "n4-e2-t06-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こちらは はっせんえんです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t06-8",
+    "pack": "n4-e2-t06",
+    "file": "n4-e2-t06-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わかりました。レビューも よんでから、きめます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t07-1",
+    "pack": "n4-e2-t07",
+    "file": "n4-e2-t07-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この まちに くるのは、はじめてですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t07-2",
+    "pack": "n4-e2-t07",
+    "file": "n4-e2-t07-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "いいえ、にかいめです。でも、この はくぶつかんは はじめてです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t07-3",
+    "pack": "n4-e2-t07",
+    "file": "n4-e2-t07-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この たてものは、およそ ひゃくねんまえに たてられました。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t07-4",
+    "pack": "n4-e2-t07",
+    "file": "n4-e2-t07-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "そうですか。なかの えも ふるいんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t07-5",
+    "pack": "n4-e2-t07",
+    "file": "n4-e2-t07-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "はい。この えは にひゃくねんまえに かかれたそうです。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t07-6",
+    "pack": "n4-e2-t07",
+    "file": "n4-e2-t07-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "へえ。きねんに しゃしんを とっても いいですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t07-7",
+    "pack": "n4-e2-t07",
+    "file": "n4-e2-t07-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ここは さつえいきんしです。いりぐちにも かいてあります。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t07-8",
+    "pack": "n4-e2-t07",
+    "file": "n4-e2-t07-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "わかりました。しゃしんは とらないで、ゆっくり みます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t08-1",
+    "pack": "n4-e2-t08",
+    "file": "n4-e2-t08-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "へやの でんきが ついたままですよ。もう つかわないんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t08-2",
+    "pack": "n4-e2-t08",
+    "file": "n4-e2-t08-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あ、けすのを わすれました。すぐ けしてきます。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t08-3",
+    "pack": "n4-e2-t08",
+    "file": "n4-e2-t08-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ほかに、なにか エコかつどうを していますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t08-4",
+    "pack": "n4-e2-t08",
+    "file": "n4-e2-t08-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "かいものには、じぶんの バッグを もっていくように しています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t08-5",
+    "pack": "n4-e2-t08",
+    "file": "n4-e2-t08-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "わたしもです。きなくなった ふくは、どうしていますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t08-6",
+    "pack": "n4-e2-t08",
+    "file": "n4-e2-t08-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "まだ きれいな ふくは、ひつような ひとに あげています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t08-7",
+    "pack": "n4-e2-t08",
+    "file": "n4-e2-t08-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "いいですね。わたしは ふるい シャツで ふくろを つくりました。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t08-8",
+    "pack": "n4-e2-t08",
+    "file": "n4-e2-t08-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すてきですね。ものを ながく つかうのは たいせつですね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t09-1",
+    "pack": "n4-e2-t09",
+    "file": "n4-e2-t09-1.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この しゃしんの ひと、しっていますか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t09-2",
+    "pack": "n4-e2-t09",
+    "file": "n4-e2-t09-2.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい、もとの せんせいです。わたしが しょうがくせいの とき、えを おしえてくれました。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t09-3",
+    "pack": "n4-e2-t09",
+    "file": "n4-e2-t09-3.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "へえ。どうして、その せんせいが すきなんですか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t09-4",
+    "pack": "n4-e2-t09",
+    "file": "n4-e2-t09-4.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "えを かく たのしさを おしえてくれたからです。いまも そんけいしています。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t09-5",
+    "pack": "n4-e2-t09",
+    "file": "n4-e2-t09-5.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "こどもの ときから、えが すきだったんですね。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t09-6",
+    "pack": "n4-e2-t09",
+    "file": "n4-e2-t09-6.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "はい。でも、はじめは じょうずじゃありませんでした。なんども れんしゅうしました。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t09-7",
+    "pack": "n4-e2-t09",
+    "file": "n4-e2-t09-7.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "れんしゅうして、なにが かわりましたか。"
+      }
+    ]
+  },
+  {
+    "id": "n4-e2-t09-8",
+    "pack": "n4-e2-t09",
+    "file": "n4-e2-t09-8.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すこしずつ、ひとの かおが かけるように なりました。"
+      }
+    ]
+  }
+]

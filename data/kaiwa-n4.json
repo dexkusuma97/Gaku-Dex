@@ -1,0 +1,2145 @@
+{
+  "level": "N4",
+  "referenceLevel": "A2",
+  "scenarios": [
+    {
+      "id": "n4-e1-t01",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Keluarga & hobi",
+      "sub": "Ceritakan keluarga, tempat tinggal, dan kegiatan saat senggang.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 1,
+        "lessons": [
+          1,
+          2
+        ],
+        "pages": [
+          1
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "りょうたさんは、いま どこに すんでいますか。",
+          "rom": "Ryōta-san wa, ima doko ni sunde imasu ka.",
+          "id": "Ryota, sekarang tinggal di mana?"
+        },
+        {
+          "who": "me",
+          "jp": "よこはまに すんでいます。あにと ふたりで くらしています。",
+          "rom": "Yokohama ni sunde imasu. Ani to futari de kurashite imasu.",
+          "id": "Saya tinggal di Yokohama, berdua dengan kakak laki-laki saya.",
+          "salah": [
+            {
+              "jp": "らいしゅう よこはまへ いきます。",
+              "why": "Ini rencana bepergian, bukan tempat tinggal sekarang."
+            },
+            {
+              "jp": "あにの くつは くろいです。",
+              "why": "Ini menjelaskan sepatu kakak, bukan tempat tinggalmu."
+            }
+          ],
+          "note": "〜にすんでいます menyatakan tempat tinggal sekarang. 〜ことがすきです menyatakan kegiatan yang disukai.",
+          "intent": "Sebutkan tempat tinggal sekarang dan dengan siapa kamu tinggal."
+        },
+        {
+          "who": "npc",
+          "jp": "おにいさんとは なにごで はなしますか。",
+          "rom": "Oniisan to wa nanigo de hanashimasu ka.",
+          "id": "Dengan kakakmu, kamu berbicara dalam bahasa apa?"
+        },
+        {
+          "who": "me",
+          "jp": "インドネシアごで はなします。ときどき にほんごも つかいます。",
+          "rom": "Indoneshia-go de hanashimasu. Tokidoki nihongo mo tsukaimasu.",
+          "id": "Kami berbicara dalam bahasa Indonesia. Kadang kami juga memakai bahasa Jepang.",
+          "salah": [
+            {
+              "jp": "まいにち ろくじに おきます。",
+              "why": "Ini jam bangun, sedangkan yang ditanya adalah bahasa."
+            },
+            {
+              "jp": "よこはまは おおきい まちです。",
+              "why": "Ini menggambarkan kota, bukan bahasa yang dipakai."
+            }
+          ],
+          "intent": "Jelaskan bahasa yang dipakai bersama kakak."
+        },
+        {
+          "who": "npc",
+          "jp": "やすみの ひは、なにを するのが すきですか。",
+          "rom": "Yasumi no hi wa, nani o suru no ga suki desu ka.",
+          "id": "Saat libur, kamu suka melakukan apa?"
+        },
+        {
+          "who": "me",
+          "jp": "しゃしんを とることが すきです。こうえんで よく とります。",
+          "rom": "Shashin o toru koto ga suki desu. Kōen de yoku torimasu.",
+          "id": "Saya suka memotret. Saya sering memotret di taman.",
+          "salah": [
+            {
+              "jp": "しゃしんは つくえの したです。",
+              "why": "Ini letak foto, bukan hobi yang kamu lakukan."
+            },
+            {
+              "jp": "しごとは はちじに はじまります。",
+              "why": "Ini jam kerja, bukan kegiatan kesukaan saat libur."
+            }
+          ],
+          "intent": "Ceritakan hobi memotret."
+        },
+        {
+          "who": "npc",
+          "jp": "こんど、しゃしんを みせてください。",
+          "rom": "Kondo, shashin o misete kudasai.",
+          "id": "Lain kali, perlihatkan fotomu, ya."
+        },
+        {
+          "who": "me",
+          "jp": "はい。つぎに あうとき、もってきます。",
+          "rom": "Hai. Tsugi ni au toki, motte kimasu.",
+          "id": "Baik. Saat kita bertemu lagi, saya akan membawanya.",
+          "salah": [
+            {
+              "jp": "きのう しゃしんを みましたか。",
+              "why": "Ini pertanyaan tentang kemarin, bukan jawaban atas permintaan Hori."
+            },
+            {
+              "jp": "いいえ、ここは ぎんこうです。",
+              "why": "Ini menyebut tempat dan tidak menanggapi permintaan melihat foto."
+            }
+          ],
+          "intent": "Terima permintaan dan janjikan membawa foto saat bertemu lagi."
+        }
+      ]
+    },
+    {
+      "id": "n4-e1-t02",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Cuaca di dua kota",
+      "sub": "Bandingkan cuaca lewat telepon dan ceritakan perubahan musim.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 2,
+        "lessons": [
+          3,
+          4
+        ],
+        "pages": [
+          1,
+          2
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "もしもし、りょうたさん。そちらの てんきは どうですか。",
+          "rom": "Moshi moshi, Ryōta-san. Sochira no tenki wa dō desu ka.",
+          "id": "Halo, Ryota. Bagaimana cuaca di tempatmu?"
+        },
+        {
+          "who": "me",
+          "jp": "こちらは あめが ふっています。けさから ずっとです。",
+          "rom": "Kochira wa ame ga futte imasu. Kesa kara zutto desu.",
+          "id": "Di sini sedang hujan, sejak tadi pagi terus-menerus.",
+          "salah": [
+            {
+              "jp": "きょうは すいようびです。",
+              "why": "Ini nama hari, bukan keadaan cuaca."
+            },
+            {
+              "jp": "らいしゅう でんわします。",
+              "why": "Ini janji menelepon, bukan jawaban tentang cuaca sekarang."
+            }
+          ],
+          "note": "あたたかくなりました berarti menjadi hangat. 〜ですから menyebutkan alasan.",
+          "intent": "Jelaskan bahwa di tempatmu sedang hujan sejak pagi."
+        },
+        {
+          "who": "npc",
+          "jp": "こちらも きのうは あめでしたが、きょうは はれています。",
+          "rom": "Kochira mo kinō wa ame deshita ga, kyō wa harete imasu.",
+          "id": "Di sini kemarin juga hujan, tetapi hari ini cerah."
+        },
+        {
+          "who": "me",
+          "jp": "いいですね。そちらは もう あたたかく なりましたか。",
+          "rom": "Ii desu ne. Sochira wa mō atatakaku narimashita ka.",
+          "id": "Enak, ya. Apakah di sana sudah menjadi hangat?",
+          "salah": [
+            {
+              "jp": "これは あたたかい おちゃです。",
+              "why": "Ini minuman, bukan pertanyaan lanjutan tentang musim di tempat Hori."
+            },
+            {
+              "jp": "この かさは さんびゃくえんです。",
+              "why": "Ini harga payung, bukan menanggapi perubahan musim di tempat Hori."
+            }
+          ],
+          "intent": "Tanyakan apakah cuaca di tempat Hori sudah menjadi hangat."
+        },
+        {
+          "who": "npc",
+          "jp": "はい。はるに なって、さんぽが たのしく なりました。",
+          "rom": "Hai. Haru ni natte, sanpo ga tanoshiku narimashita.",
+          "id": "Ya. Musim semi sudah tiba, jadi berjalan-jalan terasa menyenangkan."
+        },
+        {
+          "who": "me",
+          "jp": "わたしも はるが すきです。はなが きれいですから。",
+          "rom": "Watashi mo haru ga suki desu. Hana ga kirei desu kara.",
+          "id": "Saya juga suka musim semi, karena bunga-bunganya indah.",
+          "salah": [
+            {
+              "jp": "はなは なんじに おきますか。",
+              "why": "Ini menanyakan jam bangun bunga, bukan menanggapi perubahan musim."
+            },
+            {
+              "jp": "きっぷを にまい ください。",
+              "why": "Ini membeli tiket dan tidak berkaitan dengan kesukaan musim."
+            }
+          ],
+          "intent": "Sebutkan musim yang kamu sukai beserta alasannya."
+        },
+        {
+          "who": "npc",
+          "jp": "こんど、はなの しゃしんを おくりますね。",
+          "rom": "Kondo, hana no shashin o okurimasu ne.",
+          "id": "Nanti saya kirim foto bunga-bunganya, ya."
+        },
+        {
+          "who": "me",
+          "jp": "ありがとうございます。たのしみに しています。",
+          "rom": "Arigatō gozaimasu. Tanoshimi ni shite imasu.",
+          "id": "Terima kasih. Saya menantikannya.",
+          "salah": [
+            {
+              "jp": "ごちそうさまでした。",
+              "why": "Ini ucapan setelah makan, bukan menerima tawaran foto."
+            },
+            {
+              "jp": "はじめまして。りょうたです。",
+              "why": "Kalian sudah saling mengenal; ini bukan awal perkenalan."
+            }
+          ],
+          "intent": "Sampaikan terima kasih dan bahwa kamu menantikan fotonya."
+        }
+      ]
+    },
+    {
+      "id": "n4-e1-t03",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Jalan ke taman kota",
+      "sub": "Jelaskan ciri tempat dan pastikan petunjuk arah yang didengar.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 3,
+        "lessons": [
+          5,
+          6
+        ],
+        "pages": [
+          2
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "この まちには、どんな ところが ありますか。",
+          "rom": "Kono machi ni wa, donna tokoro ga arimasu ka.",
+          "id": "Di kota ini ada tempat seperti apa?"
+        },
+        {
+          "who": "me",
+          "jp": "えきの ちかくに、しずかで ひろい こうえんが あります。",
+          "rom": "Eki no chikaku ni, shizuka de hiroi kōen ga arimasu.",
+          "id": "Di dekat stasiun ada taman yang tenang dan luas.",
+          "salah": [
+            {
+              "jp": "えきまで ごひゃくえんです。",
+              "why": "Ini biaya ke stasiun, bukan gambaran tempat di kota."
+            },
+            {
+              "jp": "あしたは あめだと おもいます。",
+              "why": "Ini perkiraan cuaca, bukan informasi tempat yang ditanya."
+            }
+          ],
+          "note": "〜ではなくて membetulkan informasi: bukan A, melainkan B. むかい berarti di seberang.",
+          "intent": "Gambarkan taman di dekat stasiun."
+        },
+        {
+          "who": "npc",
+          "jp": "いいですね。ここから どう いけば いいですか。",
+          "rom": "Ii desu ne. Koko kara dō ikeba ii desu ka.",
+          "id": "Bagus, ya. Dari sini sebaiknya lewat mana?"
+        },
+        {
+          "who": "me",
+          "jp": "まっすぐ いって、みっつめの かどを ひだりに まがってください。",
+          "rom": "Massugu itte, mittsume no kado o hidari ni magatte kudasai.",
+          "id": "Jalan lurus, lalu belok kiri di sudut ketiga.",
+          "salah": [
+            {
+              "jp": "こうえんで ほんを よむのが すきです。",
+              "why": "Ini hobi di taman, bukan petunjuk menuju taman."
+            },
+            {
+              "jp": "きのう ひだりてが いたかったです。",
+              "why": "Ini keluhan tangan kiri, bukan arah belokan."
+            }
+          ],
+          "intent": "Berikan petunjuk menuju taman: belok kiri di sudut ketiga."
+        },
+        {
+          "who": "npc",
+          "jp": "ふたつめの かどを ひだりですね。",
+          "rom": "Futatsume no kado o hidari desu ne.",
+          "id": "Belok kiri di sudut kedua, ya."
+        },
+        {
+          "who": "me",
+          "jp": "いいえ、ふたつめでは なくて、みっつめです。",
+          "rom": "Iie, futatsume de wa nakute, mittsume desu.",
+          "id": "Bukan yang kedua, melainkan yang ketiga.",
+          "salah": [
+            {
+              "jp": "はい、ふたつめです。",
+              "why": "Ini membenarkan sudut kedua, padahal petunjuk sebelumnya sudut ketiga."
+            },
+            {
+              "jp": "いいえ、きのうは やすみでした。",
+              "why": "Ini membicarakan libur kemarin, bukan membetulkan petunjuk."
+            }
+          ],
+          "intent": "Betulkan sudut kedua menjadi sudut ketiga."
+        },
+        {
+          "who": "npc",
+          "jp": "わかりました。めじるしは ありますか。",
+          "rom": "Wakarimashita. Mejirushi wa arimasu ka.",
+          "id": "Baik. Ada penandanya?"
+        },
+        {
+          "who": "me",
+          "jp": "はい。あかくて おおきい たてものの むかいです。",
+          "rom": "Hai. Akakute ōkii tatemono no mukai desu.",
+          "id": "Ya. Tamannya di seberang gedung besar berwarna merah.",
+          "salah": [
+            {
+              "jp": "わたしは あかい くつを はいています。",
+              "why": "Ini pakaianmu, bukan penanda lokasi taman."
+            },
+            {
+              "jp": "たてものを ひとつ ください。",
+              "why": "Ini meminta gedung, bukan menjelaskan penanda tempat."
+            }
+          ],
+          "intent": "Sebutkan gedung merah sebagai penanda lokasi taman."
+        }
+      ]
+    },
+    {
+      "id": "n4-e1-t04",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Janji melihat pemandangan malam",
+      "sub": "Ubah waktu janjian, terima ajakan, lalu sampaikan alasan terlambat.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 4,
+        "lessons": [
+          7,
+          8
+        ],
+        "pages": [
+          2,
+          3
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "どようびの まちあわせは、ろくじで どうですか。",
+          "rom": "Doyōbi no machiawase wa, rokuji de dō desu ka.",
+          "id": "Bagaimana kalau kita bertemu Sabtu pukul enam?"
+        },
+        {
+          "who": "me",
+          "jp": "ろくじは しごとが あります。しちじでも いいですか。",
+          "rom": "Rokuji wa shigoto ga arimasu. Shichiji demo ii desu ka.",
+          "id": "Pukul enam saya masih bekerja. Bolehkah pukul tujuh?",
+          "salah": [
+            {
+              "jp": "きのう ろくじに あいました。",
+              "why": "Ini pertemuan kemarin, bukan usulan waktu untuk Sabtu."
+            },
+            {
+              "jp": "しごとは えきの となりです。",
+              "why": "Ini lokasi pekerjaan, bukan tanggapan terhadap usulan waktu."
+            }
+          ],
+          "note": "〜でもいいですか menegosiasikan pilihan. おくれたんです memberikan penjelasan penyebab keterlambatan.",
+          "intent": "Usulkan pukul tujuh karena pukul enam masih bekerja."
+        },
+        {
+          "who": "npc",
+          "jp": "いいですよ。えきの まえで あいましょう。タワーには もう いきましたか。",
+          "rom": "Ii desu yo. Eki no mae de aimashō. Tawā ni wa mō ikimashita ka.",
+          "id": "Boleh. Mari bertemu di depan stasiun. Kamu sudah pernah ke menara itu?"
+        },
+        {
+          "who": "me",
+          "jp": "いいえ、まだです。やけいを みに いきたいです。",
+          "rom": "Iie, mada desu. Yakei o mi ni ikitai desu.",
+          "id": "Belum. Saya ingin pergi melihat pemandangan malamnya.",
+          "salah": [
+            {
+              "jp": "はい、もう いきました。まだ いっていません。",
+              "why": "Dua pernyataan ini bertentangan: sudah pergi dan belum pergi."
+            },
+            {
+              "jp": "この まちの りょうりを たべてみたいです。",
+              "why": "Ini ingin mencoba makanan setempat, bukan menjawab pengalaman dan keinginan melihat menara."
+            }
+          ],
+          "intent": "Sampaikan bahwa kamu belum ke menara dan ingin melihat pemandangan malam."
+        },
+        {
+          "who": "npc",
+          "jp": "じゃあ、いっしょに いきましょう。",
+          "rom": "Jā, issho ni ikimashō.",
+          "id": "Kalau begitu, ayo pergi bersama."
+        },
+        {
+          "who": "me",
+          "jp": "はい。しちじに えきの まえですね。",
+          "rom": "Hai. Shichiji ni eki no mae desu ne.",
+          "id": "Baik. Pukul tujuh di depan stasiun, ya.",
+          "salah": [
+            {
+              "jp": "はい、ろくじに タワーの なかですね。",
+              "why": "Ini mengubah waktu dan tempat yang sudah disepakati."
+            },
+            {
+              "jp": "いいえ、きっぷは あおいです。",
+              "why": "Ini warna tiket, bukan memastikan janji bertemu."
+            }
+          ],
+          "intent": "Pastikan waktu dan tempat yang baru disepakati."
+        },
+        {
+          "who": "npc",
+          "jp": "りょうたさん、こんばんは。",
+          "rom": "Ryōta-san, konbanwa.",
+          "id": "Selamat malam, Ryota.",
+          "stage": "Hari Sabtu"
+        },
+        {
+          "who": "me",
+          "jp": "おくれて すみません。でんしゃが おくれたんです。",
+          "rom": "Okurete sumimasen. Densha ga okureta n desu.",
+          "id": "Maaf saya terlambat. Keretanya terlambat.",
+          "salah": [
+            {
+              "jp": "おくれて よかったです。",
+              "why": "Ini berarti senang karena terlambat, tidak sesuai permintaan maaf."
+            },
+            {
+              "jp": "おかえりなさい。ここは わたしの うちです。",
+              "why": "Ini menyambut orang pulang, padahal kalian janjian di stasiun."
+            }
+          ],
+          "intent": "Minta maaf karena terlambat dan jelaskan keretanya terlambat."
+        }
+      ]
+    },
+    {
+      "id": "n4-e1-t05",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Belajar bahasa & menawarkan bantuan",
+      "sub": "Ceritakan pengalaman belajar dan bantu teman yang memerlukan petunjuk.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 5,
+        "lessons": [
+          9,
+          10
+        ],
+        "pages": [
+          3,
+          4
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "いままでに、どんな がいこくごを べんきょうしましたか。",
+          "rom": "Ima made ni, donna gaikokugo o benkyō shimashita ka.",
+          "id": "Bahasa asing apa yang pernah kamu pelajari?"
+        },
+        {
+          "who": "me",
+          "jp": "こうこうで えいごを べんきょうしました。いまは にほんごを ならっています。",
+          "rom": "Kōkō de eigo o benkyō shimashita. Ima wa nihongo o naratte imasu.",
+          "id": "Saya belajar bahasa Inggris saat SMA. Sekarang saya sedang belajar bahasa Jepang.",
+          "salah": [
+            {
+              "jp": "にほんごの ほんは あそこです。",
+              "why": "Ini menunjukkan letak buku, bukan pengalaman belajar bahasa."
+            },
+            {
+              "jp": "がっこうは あした やすみです。",
+              "why": "Ini jadwal sekolah, bukan bahasa yang dipelajari."
+            }
+          ],
+          "note": "Kata kerja bentuk kamus + のがむずかしいです menyatakan kegiatan yang sulit. いきましょうか menawarkan bantuan.",
+          "intent": "Ceritakan bahasa yang pernah dipelajari dan yang sedang dipelajari."
+        },
+        {
+          "who": "npc",
+          "jp": "にほんごの べんきょうは どうですか。",
+          "rom": "Nihongo no benkyō wa dō desu ka.",
+          "id": "Bagaimana belajar bahasa Jepangnya?"
+        },
+        {
+          "who": "me",
+          "jp": "たのしいですが、かんじを よむのが むずかしいです。",
+          "rom": "Tanoshii desu ga, kanji o yomu no ga muzukashii desu.",
+          "id": "Menyenangkan, tetapi membaca kanji terasa sulit.",
+          "salah": [
+            {
+              "jp": "あした、あたらしい じしょを かいます。",
+              "why": "Ini rencana membeli kamus, bukan penilaian tentang belajar bahasa Jepang."
+            },
+            {
+              "jp": "にほんごの ほんを にさつ ください。",
+              "why": "Ini meminta dua buku, bukan menjelaskan kesulitan belajar."
+            }
+          ],
+          "intent": "Jelaskan bagian belajar bahasa Jepang yang terasa sulit."
+        },
+        {
+          "who": "npc",
+          "jp": "わからない ときは、きいてくださいね。",
+          "rom": "Wakaranai toki wa, kiite kudasai ne.",
+          "id": "Kalau tidak mengerti, tanya saja, ya."
+        },
+        {
+          "who": "me",
+          "jp": "ありがとうございます。こんど、よみかたを おしえてください。",
+          "rom": "Arigatō gozaimasu. Kondo, yomikata o oshiete kudasai.",
+          "id": "Terima kasih. Nanti tolong ajarkan cara membacanya.",
+          "salah": [
+            {
+              "jp": "しつれいしました。もう おなかが いっぱいです。",
+              "why": "Ini membahas kenyang, bukan menerima bantuan belajar."
+            },
+            {
+              "jp": "はじめまして。きのう あいましたね。",
+              "why": "Ini mencampur perkenalan pertama dengan sudah bertemu, tidak menanggapi bantuan."
+            }
+          ],
+          "intent": "Terima tawaran bantuan dan minta diajarkan cara membaca."
+        },
+        {
+          "who": "npc",
+          "jp": "あ、えきへの みちが わかりません。",
+          "rom": "A, eki e no michi ga wakarimasen.",
+          "id": "Oh, saya tidak tahu jalan menuju stasiun."
+        },
+        {
+          "who": "me",
+          "jp": "いっしょに いきましょうか。わたしも えきへ いきます。",
+          "rom": "Issho ni ikimashō ka. Watashi mo eki e ikimasu.",
+          "id": "Bagaimana kalau kita pergi bersama? Saya juga menuju stasiun.",
+          "salah": [
+            {
+              "jp": "かんじを よむのは むずかしいです。",
+              "why": "Ini kembali ke topik belajar, padahal Hori sekarang memerlukan petunjuk jalan."
+            },
+            {
+              "jp": "えきの ちかくの パンは おいしいです。",
+              "why": "Ini rasa roti dekat stasiun, bukan menawarkan bantuan pergi ke stasiun."
+            }
+          ],
+          "intent": "Tawarkan pergi bersama ke stasiun."
+        }
+      ]
+    },
+    {
+      "id": "n4-e1-t06",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Bekal piknik",
+      "sub": "Sepakati bekal dan minuman, lalu tanggapi tawaran makanan.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 6,
+        "lessons": [
+          11,
+          12
+        ],
+        "pages": [
+          4,
+          5
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "あしたの ピクニックに、なにを もっていきますか。",
+          "rom": "Ashita no pikunikku ni, nani o motte ikimasu ka.",
+          "id": "Apa yang akan kamu bawa untuk piknik besok?"
+        },
+        {
+          "who": "me",
+          "jp": "わたしは おにぎりを つくって もっていきます。",
+          "rom": "Watashi wa onigiri o tsukutte motte ikimasu.",
+          "id": "Saya akan membuat dan membawa onigiri.",
+          "salah": [
+            {
+              "jp": "きのう おにぎりを たべました。",
+              "why": "Ini makanan kemarin, bukan bekal yang akan dibawa besok."
+            },
+            {
+              "jp": "ピクニックは ごひゃくえんです。",
+              "why": "Ini menyebut harga, bukan barang yang akan dibawa."
+            }
+          ],
+          "note": "かっておきます berarti membeli lebih dulu sebagai persiapan. おなかがいっぱいです menolak tambahan makanan dengan alasan sudah kenyang.",
+          "intent": "Sebutkan bekal yang akan kamu buat dan bawa besok."
+        },
+        {
+          "who": "npc",
+          "jp": "わたしは サラダを もっていきます。のみものは なにが いいですか。",
+          "rom": "Watashi wa sarada o motte ikimasu. Nomimono wa nani ga ii desu ka.",
+          "id": "Saya akan membawa salad. Kamu ingin minuman apa?"
+        },
+        {
+          "who": "me",
+          "jp": "つめたい おちゃが いいです。わたしが かっておきます。",
+          "rom": "Tsumetai ocha ga ii desu. Watashi ga katte okimasu.",
+          "id": "Saya ingin teh dingin. Saya akan membelinya lebih dulu.",
+          "salah": [
+            {
+              "jp": "サラダは みどりいろです。",
+              "why": "Ini warna salad, bukan pilihan minuman."
+            },
+            {
+              "jp": "おちゃを かいませんでした。",
+              "why": "Ini menceritakan tidak membeli teh dahulu, bukan menyepakati persiapan besok."
+            }
+          ],
+          "intent": "Pilih teh dingin dan tawarkan membelinya lebih dulu."
+        },
+        {
+          "who": "npc",
+          "jp": "サラダを どうぞ。すこし からいですよ。",
+          "rom": "Sarada o dōzo. Sukoshi karai desu yo.",
+          "id": "Silakan saladnya. Rasanya agak pedas.",
+          "stage": "Saat piknik"
+        },
+        {
+          "who": "me",
+          "jp": "いただきます。からいですが、おいしいです。",
+          "rom": "Itadakimasu. Karai desu ga, oishii desu.",
+          "id": "Saya mulai makan, ya. Pedas, tetapi enak.",
+          "salah": [
+            {
+              "jp": "サラダは あした かってきます。",
+              "why": "Ini rencana membeli salad besok, bukan menerima makanan yang ditawarkan sekarang."
+            },
+            {
+              "jp": "ごちそうさまでした。まだ たべていません。",
+              "why": "Ucapan selesai makan tidak selaras dengan baru menerima dan belum makan."
+            }
+          ],
+          "intent": "Terima makanan dan beri kesan rasanya."
+        },
+        {
+          "who": "npc",
+          "jp": "もう すこし どうですか。",
+          "rom": "Mō sukoshi dō desu ka.",
+          "id": "Mau tambah sedikit lagi?"
+        },
+        {
+          "who": "me",
+          "jp": "ありがとうございます。でも、もう おなかが いっぱいです。",
+          "rom": "Arigatō gozaimasu. Demo, mō onaka ga ippai desu.",
+          "id": "Terima kasih. Tetapi saya sudah kenyang.",
+          "salah": [
+            {
+              "jp": "はい、えきは まっすぐです。",
+              "why": "Ini petunjuk jalan, bukan tanggapan tawaran menambah makanan."
+            },
+            {
+              "jp": "それは だれの じてんしゃですか。",
+              "why": "Ini pertanyaan tentang sepeda dan memutus percakapan makan."
+            }
+          ],
+          "intent": "Tolak tambahan makanan dengan sopan karena sudah kenyang."
+        }
+      ]
+    },
+    {
+      "id": "n4-e1-t07",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Bertamu ke kantor cabang",
+      "sub": "Sebutkan pengalaman bertemu orang dan mintalah izin memakai fasilitas.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 7,
+        "lessons": [
+          13,
+          14
+        ],
+        "pages": [
+          5
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "この ししゃに くるのは、はじめてですか。",
+          "rom": "Kono shisha ni kuru no wa, hajimete desu ka.",
+          "id": "Apakah ini pertama kalinya kamu datang ke kantor cabang ini?"
+        },
+        {
+          "who": "me",
+          "jp": "はい、はじめてです。きょうは よろしく おねがいします。",
+          "rom": "Hai, hajimete desu. Kyō wa yoroshiku onegaishimasu.",
+          "id": "Ya, pertama kali. Mohon bantuannya hari ini.",
+          "salah": [
+            {
+              "jp": "はい、きのうも ここに きました。",
+              "why": "Pernyataan pertama kali tidak cocok dengan sudah datang kemarin."
+            },
+            {
+              "jp": "いいえ、コーヒーは あまいです。",
+              "why": "Ini rasa kopi, bukan pengalaman berkunjung."
+            }
+          ],
+          "note": "あったことがあります menyatakan pengalaman pernah bertemu. 〜てもいいですか meminta izin.",
+          "intent": "Sebutkan ini kunjungan pertamamu ke kantor cabang."
+        },
+        {
+          "who": "npc",
+          "jp": "やまださんには、あったことが ありますか。",
+          "rom": "Yamada-san ni wa, atta koto ga arimasu ka.",
+          "id": "Apakah kamu pernah bertemu Yamada?"
+        },
+        {
+          "who": "me",
+          "jp": "はい、きょねんの かいぎで あったことが あります。",
+          "rom": "Hai, kyonen no kaigi de atta koto ga arimasu.",
+          "id": "Ya, saya pernah bertemu beliau di rapat tahun lalu.",
+          "salah": [
+            {
+              "jp": "らいねん あうつもりです。",
+              "why": "Ini niat bertemu tahun depan, bukan pengalaman pertemuan sebelumnya."
+            },
+            {
+              "jp": "やまださんの つくえは たかいです。",
+              "why": "Ini meja Yamada, bukan apakah kamu pernah bertemu beliau."
+            }
+          ],
+          "intent": "Ceritakan pengalaman bertemu Yamada di rapat tahun lalu."
+        },
+        {
+          "who": "npc",
+          "jp": "かいぎまで、こちらで おまちください。",
+          "rom": "Kaigi made, kochira de omachi kudasai.",
+          "id": "Silakan tunggu di sini sampai rapat dimulai."
+        },
+        {
+          "who": "me",
+          "jp": "ありがとうございます。この プリンターを つかっても いいですか。",
+          "rom": "Arigatō gozaimasu. Kono purintā o tsukatte mo ii desu ka.",
+          "id": "Terima kasih. Bolehkah saya menggunakan printer ini?",
+          "salah": [
+            {
+              "jp": "この コーヒーを のんでも いいですか。",
+              "why": "Ini meminta izin minum kopi, bukan menggunakan printer."
+            },
+            {
+              "jp": "かいぎは きのう おわりました。",
+              "why": "Ini membahas rapat kemarin, bukan persiapan rapat hari ini."
+            }
+          ],
+          "intent": "Minta izin memakai printer."
+        },
+        {
+          "who": "npc",
+          "jp": "はい、どうぞ。ここに かみが あります。",
+          "rom": "Hai, dōzo. Koko ni kami ga arimasu.",
+          "id": "Ya, silakan. Kertasnya ada di sini."
+        },
+        {
+          "who": "me",
+          "jp": "たすかります。じゅんびしてから、かいぎしつへ いきます。",
+          "rom": "Tasukarimasu. Junbi shite kara, kaigishitsu e ikimasu.",
+          "id": "Ini sangat membantu. Setelah bersiap, saya akan ke ruang rapat.",
+          "salah": [
+            {
+              "jp": "いいえ、まだ あさごはんを たべていません。",
+              "why": "Ini sarapan, bukan tanggapan atas bantuan memakai printer."
+            },
+            {
+              "jp": "ここに かみが ありませんね。",
+              "why": "Ini menyangkal informasi kertas yang baru ditunjukkan tanpa alasan dalam dialog."
+            }
+          ],
+          "intent": "Berterima kasih dan sampaikan urutan persiapanmu."
+        }
+      ]
+    },
+    {
+      "id": "n4-e1-t08",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Kebiasaan sehat",
+      "sub": "Minta saran sederhana dan ceritakan kebiasaan olahraga.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 8,
+        "lessons": [
+          15,
+          16
+        ],
+        "pages": [
+          5,
+          6
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "さいきん、ねむれないんですか。",
+          "rom": "Saikin, nemurenai n desu ka.",
+          "id": "Akhir-akhir ini kamu sulit tidur?"
+        },
+        {
+          "who": "me",
+          "jp": "はい。よる、おそくまで スマホを みてしまうんです。",
+          "rom": "Hai. Yoru, osoku made sumaho o mite shimau n desu.",
+          "id": "Ya. Malam hari saya terlanjur melihat ponsel sampai larut.",
+          "salah": [
+            {
+              "jp": "はい、まいにち よく ねむれます。",
+              "why": "Ini menyatakan tidur nyenyak, tidak sesuai keluhan sulit tidur yang dilanjutkan."
+            },
+            {
+              "jp": "スマホは あかいです。",
+              "why": "Ini warna ponsel, bukan kebiasaan yang berkaitan dengan tidur."
+            }
+          ],
+          "note": "〜てしまう dapat menyatakan kebiasaan yang disesali. 〜ようにします berarti berusaha membiasakan suatu tindakan.",
+          "intent": "Jelaskan kebiasaan melihat ponsel sampai larut."
+        },
+        {
+          "who": "npc",
+          "jp": "ねるまえに、スマホを みないように すると いいですよ。",
+          "rom": "Neru mae ni, sumaho o minai yō ni suru to ii desu yo.",
+          "id": "Sebaiknya biasakan tidak melihat ponsel sebelum tidur."
+        },
+        {
+          "who": "me",
+          "jp": "そうですね。こんやから やってみます。",
+          "rom": "Sō desu ne. Kon'ya kara yatte mimasu.",
+          "id": "Benar, ya. Mulai malam ini saya akan mencobanya.",
+          "salah": [
+            {
+              "jp": "きのう スマホを かいましたか。",
+              "why": "Ini bertanya tentang membeli ponsel, bukan menanggapi saran kebiasaan."
+            },
+            {
+              "jp": "いただきます。パンを ください。",
+              "why": "Ini ucapan makan dan permintaan roti, bukan tanggapan terhadap saran tidur."
+            }
+          ],
+          "intent": "Terima saran dan katakan akan mencobanya mulai malam ini."
+        },
+        {
+          "who": "npc",
+          "jp": "わたしは、けんこうの ために まいあさ あるいています。",
+          "rom": "Watashi wa, kenkō no tame ni maiasa aruite imasu.",
+          "id": "Saya berjalan kaki setiap pagi demi kesehatan."
+        },
+        {
+          "who": "me",
+          "jp": "どのくらい あるくんですか。わたしも はじめたいです。",
+          "rom": "Dono kurai aruku n desu ka. Watashi mo hajimetai desu.",
+          "id": "Berapa lama kamu berjalan? Saya juga ingin mulai.",
+          "salah": [
+            {
+              "jp": "いくらの スマホを かいましたか。",
+              "why": "Ini harga ponsel, bukan pertanyaan tentang kebiasaan berjalan."
+            },
+            {
+              "jp": "きょうは にちようびでしたか。",
+              "why": "Ini nama hari, bukan menindaklanjuti kebiasaan sehat Hori."
+            }
+          ],
+          "intent": "Tanyakan lama berjalan karena kamu ingin mulai juga."
+        },
+        {
+          "who": "npc",
+          "jp": "にじゅっぷんぐらいです。むりを しないでくださいね。",
+          "rom": "Nijuppun gurai desu. Muri o shinaide kudasai ne.",
+          "id": "Sekitar dua puluh menit. Jangan memaksakan diri, ya."
+        },
+        {
+          "who": "me",
+          "jp": "はい。すこしずつ つづけるように します。",
+          "rom": "Hai. Sukoshi zutsu tsuzukeru yō ni shimasu.",
+          "id": "Baik. Saya akan berusaha melanjutkannya sedikit demi sedikit.",
+          "salah": [
+            {
+              "jp": "はい、ねないで ずっと はしります。",
+              "why": "Ini justru memaksakan diri dan mengabaikan saran Hori."
+            },
+            {
+              "jp": "いいえ、ここは ゆうびんきょくです。",
+              "why": "Ini menyebut tempat, bukan menanggapi anjuran berolahraga ringan."
+            }
+          ],
+          "intent": "Sampaikan niat melanjutkan kebiasaan itu sedikit demi sedikit."
+        }
+      ]
+    },
+    {
+      "id": "n4-e1-t09",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Hadiah & rencana perayaan",
+      "sub": "Ceritakan asal hadiah dan usulkan cara merayakan ulang tahun.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 1 · A2",
+      "source": {
+        "id": "marugoto-e1",
+        "topic": 9,
+        "lessons": [
+          17,
+          18
+        ],
+        "pages": [
+          6,
+          7
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "その かばん、すてきですね。どこで かったんですか。",
+          "rom": "Sono kaban, suteki desu ne. Doko de katta n desu ka.",
+          "id": "Tas itu bagus, ya. Kamu membelinya di mana?"
+        },
+        {
+          "who": "me",
+          "jp": "かったんじゃなくて、たんじょうびに あねに もらったんです。",
+          "rom": "Katta n ja nakute, tanjōbi ni ane ni moratta n desu.",
+          "id": "Saya tidak membelinya; saya mendapatkannya dari kakak perempuan saat ulang tahun.",
+          "salah": [
+            {
+              "jp": "あねに かばんを あげました。",
+              "why": "Ini berarti kamu memberi tas kepada kakak, bukan menerima tas yang ditanyakan."
+            },
+            {
+              "jp": "あした かいに いきます。",
+              "why": "Ini rencana membeli nanti, bukan asal tas yang sedang kamu pakai."
+            }
+          ],
+          "note": "〜にもらいました menyebutkan pemberi hadiah. 〜とおもいます dipakai untuk menyampaikan pendapat atau saran.",
+          "intent": "Jelaskan tas itu hadiah dari kakak perempuan, bukan kamu beli."
+        },
+        {
+          "who": "npc",
+          "jp": "そうだったんですね。らいしゅうは、あねの たんじょうびなんです。",
+          "rom": "Sō datta n desu ne. Raishū wa, ane no tanjōbi na n desu.",
+          "id": "Oh, begitu. Minggu depan ulang tahun kakak perempuan saya."
+        },
+        {
+          "who": "me",
+          "jp": "なにか おいわいを しますか。",
+          "rom": "Nanika oiwai o shimasu ka.",
+          "id": "Apakah kamu akan mengadakan suatu perayaan?",
+          "salah": [
+            {
+              "jp": "おねえさんは、どの えきの ちかくに すんでいますか。",
+              "why": "Ini menanyakan tempat tinggal kakak Hori, bukan rencana perayaan ulang tahun."
+            },
+            {
+              "jp": "きのう かばんを なくしました。",
+              "why": "Ini cerita kehilangan tas, bukan menindaklanjuti ulang tahun kakak Hori."
+            }
+          ],
+          "intent": "Tanyakan rencana perayaan ulang tahun kakak Hori."
+        },
+        {
+          "who": "npc",
+          "jp": "まだ きめていません。なにが いいと おもいますか。",
+          "rom": "Mada kimete imasen. Nani ga ii to omoimasu ka.",
+          "id": "Belum saya putuskan. Menurutmu, apa yang bagus?"
+        },
+        {
+          "who": "me",
+          "jp": "いえで しょくじかいを するのが いいと おもいます。",
+          "rom": "Ie de shokujikai o suru no ga ii to omoimasu.",
+          "id": "Menurut saya, mengadakan makan bersama di rumah itu bagus.",
+          "salah": [
+            {
+              "jp": "しょくじかいを しましたか。",
+              "why": "Ini bertanya apakah sudah dilakukan, bukan memberi usulan untuk rencana."
+            },
+            {
+              "jp": "なにも しませんでした。",
+              "why": "Ini cerita masa lalu, bukan saran perayaan minggu depan."
+            }
+          ],
+          "intent": "Usulkan makan bersama di rumah."
+        },
+        {
+          "who": "npc",
+          "jp": "いいですね。プレゼントは、はなが いいかな。",
+          "rom": "Ii desu ne. Purezento wa, hana ga ii kana.",
+          "id": "Ide bagus. Untuk hadiah, mungkin bunga bagus, ya."
+        },
+        {
+          "who": "me",
+          "jp": "ええ。おねえさんが すきな はなを えらびましょう。",
+          "rom": "Ee. Onēsan ga suki na hana o erabimashō.",
+          "id": "Ya. Mari pilih bunga yang kakak perempuanmu sukai.",
+          "salah": [
+            {
+              "jp": "おねえさんが きらいな はなに しましょう。",
+              "why": "Ini mengusulkan bunga yang tidak disukai kakaknya, tidak sesuai tujuan hadiah dalam alur ini."
+            },
+            {
+              "jp": "はなは えきの となりです。",
+              "why": "Ini petunjuk lokasi yang tidak menjawab usulan memilih hadiah."
+            }
+          ],
+          "intent": "Sarankan memilih bunga yang disukai kakak Hori."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t01",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Teman baru & kesan pertama",
+      "sub": "Ceritakan diri sendiri lalu kenali orang dari ciri dan kesannya.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 1,
+        "lessons": [
+          1,
+          2
+        ],
+        "pages": [
+          1
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "りょうたさんは、どんな しごとを していますか。",
+          "rom": "Ryōta-san wa, donna shigoto o shite imasu ka.",
+          "id": "Ryota, kamu bekerja sebagai apa?"
+        },
+        {
+          "who": "me",
+          "jp": "さくらデザインと いう かいしゃで、ウェブサイトを つくっています。",
+          "rom": "Sakura Dezain to iu kaisha de, webusaito o tsukutte imasu.",
+          "id": "Saya membuat situs web di perusahaan bernama Sakura Design.",
+          "salah": [
+            {
+              "jp": "らいげつ かいしゃへ いきました。",
+              "why": "Ini mencampur bulan depan dengan bentuk lampau, bukan menjelaskan pekerjaan."
+            },
+            {
+              "jp": "かいしゃの ちかくに、おいしい みせが あります。",
+              "why": "Ini restoran dekat kantor, bukan menjelaskan pekerjaanmu."
+            }
+          ],
+          "note": "〜というかいしゃ berarti perusahaan yang bernama …. 〜ているひと menjelaskan ciri orang; やさしそう berarti tampak ramah.",
+          "intent": "Jelaskan nama perusahaan dan pekerjaanmu."
+        },
+        {
+          "who": "npc",
+          "jp": "そうですか。しょうらいは、なにを したいですか。",
+          "rom": "Sō desu ka. Shōrai wa, nani o shitai desu ka.",
+          "id": "Begitu, ya. Apa yang ingin kamu lakukan di masa depan?"
+        },
+        {
+          "who": "me",
+          "jp": "にほんごでも しごとが できるように なりたいです。",
+          "rom": "Nihongo demo shigoto ga dekiru yō ni naritai desu.",
+          "id": "Saya ingin menjadi bisa bekerja dalam bahasa Jepang juga.",
+          "salah": [
+            {
+              "jp": "きのう しごとを しました。",
+              "why": "Ini kegiatan kemarin, bukan tujuan masa depan."
+            },
+            {
+              "jp": "しごとの かばんは あおいです。",
+              "why": "Ini warna tas kerja, bukan kemampuan yang ingin dicapai."
+            }
+          ],
+          "intent": "Sampaikan kemampuan kerja yang ingin kamu capai."
+        },
+        {
+          "who": "npc",
+          "jp": "あそこに いるのが、わたしの ともだちです。",
+          "rom": "Asoko ni iru no ga, watashi no tomodachi desu.",
+          "id": "Yang ada di sana itu teman saya."
+        },
+        {
+          "who": "me",
+          "jp": "あの、めがねを かけている ひとですか。やさしそうですね。",
+          "rom": "Ano, megane o kakete iru hito desu ka. Yasashisō desu ne.",
+          "id": "Orang yang memakai kacamata itu? Kelihatannya ramah, ya.",
+          "salah": [
+            {
+              "jp": "その めがねは いくらですか。",
+              "why": "Ini bertanya harga kacamata, bukan memastikan orang yang diperkenalkan."
+            },
+            {
+              "jp": "わたしの ともだちは きのう きました。",
+              "why": "Ini cerita temanmu sendiri, bukan menanggapi teman yang Hori tunjukkan."
+            }
+          ],
+          "intent": "Pastikan ciri orang yang ditunjuk dan beri kesan pertama."
+        },
+        {
+          "who": "npc",
+          "jp": "はい。はじめは しずかですが、はなすと おもしろい ひとですよ。",
+          "rom": "Hai. Hajime wa shizuka desu ga, hanasu to omoshiroi hito desu yo.",
+          "id": "Ya. Awalnya pendiam, tetapi kalau diajak bicara orangnya menyenangkan."
+        },
+        {
+          "who": "me",
+          "jp": "そうなんですね。こんど、しょうかいしてください。",
+          "rom": "Sō na n desu ne. Kondo, shōkai shite kudasai.",
+          "id": "Oh, begitu. Lain kali tolong perkenalkan saya kepadanya.",
+          "salah": [
+            {
+              "jp": "きょうは めがねを たべます。",
+              "why": "Kacamata bukan makanan; ini tidak menanggapi cerita tentang teman Hori."
+            },
+            {
+              "jp": "しょうかいして ありがとうございました。もう あいました。",
+              "why": "Ini menyatakan sudah diperkenalkan dan bertemu, padahal dalam alur ini baru meminta perkenalan."
+            }
+          ],
+          "intent": "Minta diperkenalkan kepada teman Hori."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t02",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Makan di restoran",
+      "sub": "Sampaikan pilihan tempat duduk, minta rekomendasi dan tanyakan cara makan.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 2,
+        "lessons": [
+          3,
+          4
+        ],
+        "pages": [
+          1,
+          2
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "いらっしゃいませ。なんめいさまですか。",
+          "rom": "Irasshaimase. Nanmei-sama desu ka.",
+          "id": "Selamat datang. Untuk berapa orang?"
+        },
+        {
+          "who": "me",
+          "jp": "ふたりです。できれば、まどの ちかくの せきが いいんですが。",
+          "rom": "Futari desu. Dekireba, mado no chikaku no seki ga ii n desu ga.",
+          "id": "Dua orang. Kalau bisa, kami ingin tempat duduk dekat jendela.",
+          "salah": [
+            {
+              "jp": "ふたつめの かどを ひだりです。",
+              "why": "Ini petunjuk jalan, bukan jumlah tamu dan pilihan tempat duduk."
+            },
+            {
+              "jp": "ふたりで えいがを みに いきたいです。",
+              "why": "Ini rencana menonton film berdua, bukan menyampaikan jumlah tamu dan pilihan kursi."
+            }
+          ],
+          "note": "できれば berarti kalau bisa. 〜んですか meminta penjelasan. かけてみます berarti mencoba menuangkan.",
+          "intent": "Sebutkan dua tamu dan mintalah tempat dekat jendela."
+        },
+        {
+          "who": "npc",
+          "jp": "はい、こちらへ どうぞ。ごちゅうもんは おきまりですか。",
+          "rom": "Hai, kochira e dōzo. Gochūmon wa okimari desu ka.",
+          "id": "Baik, silakan ke sini. Sudah memutuskan pesanannya?"
+        },
+        {
+          "who": "me",
+          "jp": "まだです。さかなりょうりで、おすすめは なんですか。",
+          "rom": "Mada desu. Sakana ryōri de, osusume wa nan desu ka.",
+          "id": "Belum. Untuk hidangan ikan, apa yang direkomendasikan?",
+          "salah": [
+            {
+              "jp": "きのう、よるごはんの メニューを きめました。",
+              "why": "Ini menu makan kemarin, bukan menjawab apakah pesanan sekarang sudah diputuskan."
+            },
+            {
+              "jp": "さかなは かわで およいでいます。",
+              "why": "Ini ikan di sungai, bukan meminta rekomendasi hidangan."
+            }
+          ],
+          "intent": "Minta rekomendasi hidangan ikan karena belum memutuskan pesanan."
+        },
+        {
+          "who": "npc",
+          "jp": "こちらの やきざかなが にんきです。ごはんも ついています。",
+          "rom": "Kochira no yakizakana ga ninki desu. Gohan mo tsuite imasu.",
+          "id": "Ikan panggang ini populer. Nasinya juga sudah termasuk."
+        },
+        {
+          "who": "me",
+          "jp": "では、それを おねがいします。たれは さかなに かけるんですか。",
+          "rom": "Dewa, sore o onegaishimasu. Tare wa sakana ni kakeru n desu ka.",
+          "id": "Kalau begitu, saya pesan itu. Apakah sausnya dituangkan ke ikan?",
+          "salah": [
+            {
+              "jp": "この さかなは かわに すんでいますか。",
+              "why": "Ini menanyakan habitat ikan, bukan memesan hidangan dan cara memakai saus."
+            },
+            {
+              "jp": "この みせは なんじに しまりますか。",
+              "why": "Ini jam tutup toko, bukan cara memakai saus pada hidangan."
+            }
+          ],
+          "intent": "Pesan ikan panggang dan tanyakan cara memakai sausnya."
+        },
+        {
+          "who": "npc",
+          "jp": "はい。すこしずつ かけて、めしあがってください。",
+          "rom": "Hai. Sukoshi zutsu kakete, meshiagatte kudasai.",
+          "id": "Ya. Silakan tuangkan sedikit demi sedikit lalu nikmati makanannya."
+        },
+        {
+          "who": "me",
+          "jp": "わかりました。まず、すこし かけてみます。",
+          "rom": "Wakarimashita. Mazu, sukoshi kakete mimasu.",
+          "id": "Baik. Pertama, saya akan mencoba menuangkan sedikit.",
+          "salah": [
+            {
+              "jp": "はい、いちどに ぜんぶ かけます。",
+              "why": "Ini menuangkan semuanya sekaligus, tidak mengikuti petunjuk sedikit demi sedikit."
+            },
+            {
+              "jp": "いいえ、えきは むこうです。",
+              "why": "Ini arah stasiun, bukan tanggapan terhadap cara makan."
+            }
+          ],
+          "intent": "Sampaikan bahwa kamu akan mencoba menuangkan sedikit saus."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t03",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Persiapan liburan",
+      "sub": "Minta saran barang bawaan dan tanyakan kegiatan yang bisa dilakukan.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 3,
+        "lessons": [
+          5,
+          6
+        ],
+        "pages": [
+          2,
+          3
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "らいげつ、しまへ りょこうするんですか。",
+          "rom": "Raigetsu, shima e ryokō suru n desu ka.",
+          "id": "Bulan depan kamu akan berlibur ke pulau?"
+        },
+        {
+          "who": "me",
+          "jp": "はい。はじめてなので、なにを もっていけば いいか おしえてください。",
+          "rom": "Hai. Hajimete na node, nani o motte ikeba ii ka oshiete kudasai.",
+          "id": "Ya. Karena baru pertama kali, tolong beri tahu apa yang sebaiknya dibawa.",
+          "salah": [
+            {
+              "jp": "はい、きょねん いきました。はじめてじゃありません。",
+              "why": "Ini bertentangan dengan konteks perjalanan pertama yang sedang disiapkan."
+            },
+            {
+              "jp": "しまへの きっぷを にまい ください。",
+              "why": "Ini membeli tiket, bukan meminta saran barang yang perlu dibawa."
+            }
+          ],
+          "note": "〜たほうがいいです menyarankan tindakan. のれます adalah bentuk potensial のる: bisa naik.",
+          "intent": "Jelaskan ini perjalanan pertama dan mintalah saran barang bawaan."
+        },
+        {
+          "who": "npc",
+          "jp": "ひざしが つよいので、ぼうしを もっていった ほうが いいですよ。",
+          "rom": "Hizashi ga tsuyoi node, bōshi o motte itta hō ga ii desu yo.",
+          "id": "Karena sinar mataharinya kuat, sebaiknya kamu membawa topi."
+        },
+        {
+          "who": "me",
+          "jp": "わかりました。かるい ぼうしを かっておきます。",
+          "rom": "Wakarimashita. Karui bōshi o katte okimasu.",
+          "id": "Baik. Saya akan membeli topi yang ringan lebih dulu.",
+          "salah": [
+            {
+              "jp": "わかりました。ぼうしは もっていかない ことにします。",
+              "why": "Ini justru memutuskan tidak membawa topi setelah menerima saran membawanya."
+            },
+            {
+              "jp": "きのう、ぼうしを みせで みました。",
+              "why": "Ini melihat topi kemarin, bukan memutuskan persiapan membelinya."
+            }
+          ],
+          "intent": "Terima saran dan katakan akan membeli topi lebih dulu."
+        },
+        {
+          "who": "npc",
+          "jp": "うみでは、およいだり さかなを みたり できますよ。",
+          "rom": "Umi de wa, oyoidari sakana o mitari dekimasu yo.",
+          "id": "Di laut, kamu bisa berenang, melihat ikan, dan sebagainya."
+        },
+        {
+          "who": "me",
+          "jp": "いいですね。ふねにも のれますか。",
+          "rom": "Ii desu ne. Fune ni mo noremasu ka.",
+          "id": "Bagus, ya. Apakah saya juga bisa naik perahu?",
+          "salah": [
+            {
+              "jp": "ふねの なかで のみものを かえますか。",
+              "why": "Ini menanyakan pembelian minuman di perahu, bukan apakah kamu bisa naik perahu."
+            },
+            {
+              "jp": "きのうの ひこうきは しろかったです。",
+              "why": "Ini warna pesawat kemarin, bukan kegiatan di tempat tujuan."
+            }
+          ],
+          "intent": "Tanyakan apakah kamu bisa naik perahu."
+        },
+        {
+          "who": "npc",
+          "jp": "はい。てんきが よければ、ちいさい ふねで しまを まわれます。",
+          "rom": "Hai. Tenki ga yokereba, chiisai fune de shima o mawaremasu.",
+          "id": "Ya. Kalau cuacanya bagus, kamu bisa mengelilingi pulau dengan perahu kecil."
+        },
+        {
+          "who": "me",
+          "jp": "たのしみです。でかけるまえに、てんきを かくにんします。",
+          "rom": "Tanoshimi desu. Dekakeru mae ni, tenki o kakunin shimasu.",
+          "id": "Saya menantikannya. Sebelum berangkat, saya akan memeriksa cuaca.",
+          "salah": [
+            {
+              "jp": "てんきは かくにんしないで、いつでも のります。",
+              "why": "Ini mengabaikan syarat cuaca yang baru disampaikan."
+            },
+            {
+              "jp": "わたしの しゅみは、ふねの しゃしんを とることです。",
+              "why": "Ini hobi memotret perahu, bukan niat memeriksa cuaca sebelum pergi."
+            }
+          ],
+          "intent": "Sampaikan bahwa kamu akan memeriksa cuaca sebelum pergi."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t04",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Festival & perubahan rencana",
+      "sub": "Bahas rencana jika hujan serta pastikan acara sudah dimulai atau belum.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 4,
+        "lessons": [
+          7,
+          8
+        ],
+        "pages": [
+          3,
+          4
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "にちようびの まつり、あめが ふったら どうしますか。",
+          "rom": "Nichiyōbi no matsuri, ame ga futtara dō shimasu ka.",
+          "id": "Untuk festival hari Minggu, bagaimana kalau hujan?"
+        },
+        {
+          "who": "me",
+          "jp": "あめだったら、やたいでは なくて、ホールの なかで たべましょう。",
+          "rom": "Ame dattara, yatai de wa nakute, hōru no naka de tabemashō.",
+          "id": "Kalau hujan, mari makan di dalam aula, bukan di kios luar.",
+          "salah": [
+            {
+              "jp": "きのうは あめでした。",
+              "why": "Ini cuaca kemarin, bukan rencana jika hujan hari Minggu."
+            },
+            {
+              "jp": "きのうは あめだったので、いえに いました。",
+              "why": "Ini alasan berada di rumah kemarin, bukan rencana cadangan untuk festival."
+            }
+          ],
+          "note": "〜たら menyatakan kondisi kalau terjadi sesuatu. 〜ているところです menyatakan kegiatan yang sedang berlangsung.",
+          "intent": "Usulkan makan di dalam aula jika hujan."
+        },
+        {
+          "who": "npc",
+          "jp": "そうしましょう。コンサートは なんじからですか。",
+          "rom": "Sō shimashō. Konsāto wa nanji kara desu ka.",
+          "id": "Mari begitu. Konsernya mulai pukul berapa?"
+        },
+        {
+          "who": "me",
+          "jp": "さんじからの よていです。すこし はやく つくように しましょう。",
+          "rom": "Sanji kara no yotei desu. Sukoshi hayaku tsuku yō ni shimashō.",
+          "id": "Jadwalnya mulai pukul tiga. Mari usahakan tiba sedikit lebih awal.",
+          "salah": [
+            {
+              "jp": "さんじまで ねてから でかけましょう。",
+              "why": "Ini membuat kalian baru berangkat setelah konser mulai, tidak sesuai tujuan datang lebih awal."
+            },
+            {
+              "jp": "コンサートの きっぷは さんぜんえんです。",
+              "why": "Ini harga tiket, sedangkan Hori menanyakan waktu mulai."
+            }
+          ],
+          "intent": "Sampaikan jadwal konser dan usulkan tiba lebih awal."
+        },
+        {
+          "who": "npc",
+          "jp": "コンサートは もう はじまりましたか。",
+          "rom": "Konsāto wa mō hajimarimashita ka.",
+          "id": "Apakah konser sudah dimulai?",
+          "stage": "Di lokasi acara"
+        },
+        {
+          "who": "me",
+          "jp": "いいえ、まだ はじまっていません。いま、じゅんびしている ところです。",
+          "rom": "Iie, mada hajimatte imasen. Ima, junbi shite iru tokoro desu.",
+          "id": "Belum dimulai. Sekarang mereka sedang melakukan persiapan.",
+          "salah": [
+            {
+              "jp": "はい、もう おわりました。これから はじまります。",
+              "why": "Ini menyatakan sudah selesai sekaligus baru akan mulai, tidak konsisten dalam alur ini."
+            },
+            {
+              "jp": "かいじょうの そばの みせは おいしいですよ。",
+              "why": "Ini makanan di dekat lokasi, bukan status konser saat ini."
+            }
+          ],
+          "intent": "Jelaskan konser belum dimulai dan persiapan sedang berlangsung."
+        },
+        {
+          "who": "npc",
+          "jp": "よかったです。では、ここで まちましょう。",
+          "rom": "Yokatta desu. Dewa, koko de machimashō.",
+          "id": "Syukurlah. Kalau begitu, mari tunggu di sini."
+        },
+        {
+          "who": "me",
+          "jp": "はい。はじまるまえに、でんわの おとを けしておきます。",
+          "rom": "Hai. Hajimaru mae ni, denwa no oto o keshite okimasu.",
+          "id": "Baik. Sebelum mulai, saya akan mematikan bunyi ponsel lebih dulu.",
+          "salah": [
+            {
+              "jp": "はい。コンサートが おわってから、でんわします。",
+              "why": "Ini rencana menelepon setelah konser, bukan persiapan mematikan bunyi ponsel sebelum konser."
+            },
+            {
+              "jp": "いいえ、しごとは きのうでした。",
+              "why": "Ini membahas pekerjaan kemarin, bukan persiapan menonton konser."
+            }
+          ],
+          "intent": "Sampaikan persiapan mematikan bunyi ponsel sebelum konser."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t05",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Hari istimewa & harapan",
+      "sub": "Ceritakan kebiasaan perayaan dan sampaikan harapan untuk orang lain.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 5,
+        "lessons": [
+          9,
+          10
+        ],
+        "pages": [
+          4
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "おしょうがつは、どう すごしましたか。",
+          "rom": "Oshōgatsu wa, dō sugoshimashita ka.",
+          "id": "Bagaimana kamu melewatkan libur Tahun Baru?"
+        },
+        {
+          "who": "me",
+          "jp": "かぞくと りょうりを つくったり、えいがを みたり していました。",
+          "rom": "Kazoku to ryōri o tsukuttari, eiga o mitari shite imashita.",
+          "id": "Saya membuat masakan dan menonton film bersama keluarga, dan sebagainya.",
+          "salah": [
+            {
+              "jp": "らいねんは りょうりを つくります。",
+              "why": "Ini rencana tahun depan, bukan pengalaman libur yang sudah lewat."
+            },
+            {
+              "jp": "かぞくへの おみやげは さんぜんえんでした。",
+              "why": "Ini harga oleh-oleh, bukan kegiatan saat libur Tahun Baru."
+            }
+          ],
+          "note": "〜たり〜たりしていました menceritakan beberapa kegiatan dahulu. 〜ますように mengungkapkan doa atau harapan.",
+          "intent": "Ceritakan kegiatan bersama keluarga saat libur Tahun Baru yang sudah lewat."
+        },
+        {
+          "who": "npc",
+          "jp": "あなたの まちでは、あきに おまつりが あるんですね。",
+          "rom": "Anata no machi de wa, aki ni omatsuri ga aru n desu ne.",
+          "id": "Di kotamu ada festival saat musim gugur, ya."
+        },
+        {
+          "who": "me",
+          "jp": "はい。まいとし、みんなで おどって、しゅうかくを いわいます。",
+          "rom": "Hai. Maitoshi, minna de odotte, shūkaku o iwaimasu.",
+          "id": "Ya. Setiap tahun kami menari bersama dan merayakan hasil panen.",
+          "salah": [
+            {
+              "jp": "はい。わたしの おいは、きのう うまれました。",
+              "why": "Ini kabar kelahiran keponakan, bukan menjelaskan festival tahunan."
+            },
+            {
+              "jp": "いいえ、でんしゃは みぎです。",
+              "why": "Ini petunjuk arah dan tidak menjawab pertanyaan tentang festival."
+            }
+          ],
+          "intent": "Jelaskan kegiatan dalam festival tahunan di kota contoh ini."
+        },
+        {
+          "who": "npc",
+          "jp": "ことしは、わたしも みに いきたいです。",
+          "rom": "Kotoshi wa, watashi mo mi ni ikitai desu.",
+          "id": "Tahun ini saya juga ingin pergi melihatnya."
+        },
+        {
+          "who": "me",
+          "jp": "ぜひ きてください。よかったら、まつりを あんないします。",
+          "rom": "Zehi kite kudasai. Yokattara, matsuri o annai shimasu.",
+          "id": "Datanglah. Kalau kamu berkenan, saya akan memandu di festival.",
+          "salah": [
+            {
+              "jp": "まつりは、きのう テレビで みました。",
+              "why": "Ini melihat festival di televisi kemarin, bukan mengundang Hori dan menawarkan bantuan."
+            },
+            {
+              "jp": "まつりの パンフレットを かして ください。",
+              "why": "Ini meminjam brosur, bukan menanggapi keinginan Hori berkunjung."
+            }
+          ],
+          "intent": "Undang Hori datang dan tawarkan memandunya."
+        },
+        {
+          "who": "npc",
+          "jp": "ありがとうございます。みんなに いい ことが ありますように。",
+          "rom": "Arigatō gozaimasu. Minna ni ii koto ga arimasu yō ni.",
+          "id": "Terima kasih. Semoga hal-hal baik datang kepada semuanya."
+        },
+        {
+          "who": "me",
+          "jp": "ほんとうですね。たのしい いちねんに なりますように。",
+          "rom": "Hontō desu ne. Tanoshii ichinen ni narimasu yō ni.",
+          "id": "Benar, ya. Semoga menjadi tahun yang menyenangkan.",
+          "salah": [
+            {
+              "jp": "わたしの あたらしい くつは あかいです。",
+              "why": "Ini warna sepatu baru, bukan membalas harapan untuk tahun yang baik."
+            },
+            {
+              "jp": "わたしは きのう きっぷを かいましたか。",
+              "why": "Ini bertanya tentang pembelian tiket, bukan membalas harapan Hori."
+            }
+          ],
+          "intent": "Balas harapan Hori dengan harapan untuk tahun yang menyenangkan."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t06",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Memilih barang daring",
+      "sub": "Jelaskan alasan mengganti alat dan bandingkan dua pilihan barang.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 6,
+        "lessons": [
+          11,
+          12
+        ],
+        "pages": [
+          4,
+          5
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "なにを さがしているんですか。",
+          "rom": "Nani o sagashite iru n desu ka.",
+          "id": "Apa yang sedang kamu cari?"
+        },
+        {
+          "who": "me",
+          "jp": "あたらしい そうじきです。まえのが こわれてしまったんです。",
+          "rom": "Atarashii sōjiki desu. Mae no ga kowarete shimatta n desu.",
+          "id": "Penyedot debu baru. Yang lama terlanjur rusak.",
+          "salah": [
+            {
+              "jp": "きのう そうじきを つかいませんでした。",
+              "why": "Ini tidak memakai alat kemarin, bukan menjelaskan barang pengganti dan alasannya."
+            },
+            {
+              "jp": "パンを つくる きかいを さがしています。",
+              "why": "Ini mencari alat pembuat roti, bukan penyedot debu pengganti alat yang rusak."
+            }
+          ],
+          "note": "こわれてしまいました menyatakan kerusakan yang disesali. 〜すぎる = terlalu; 〜やすい = mudah dilakukan.",
+          "intent": "Jelaskan barang yang dicari dan alasan alat lama perlu diganti."
+        },
+        {
+          "who": "npc",
+          "jp": "この ふたつは どうですか。しろいのは やすいですよ。",
+          "rom": "Kono futatsu wa dō desu ka. Shiroi no wa yasui desu yo.",
+          "id": "Bagaimana dua pilihan ini? Yang putih murah."
+        },
+        {
+          "who": "me",
+          "jp": "でも、ちょっと おもすぎると おもいます。",
+          "rom": "Demo, chotto omosugiru to omoimasu.",
+          "id": "Tetapi menurut saya, yang itu agak terlalu berat.",
+          "salah": [
+            {
+              "jp": "しろいのは、きょねんの モデルだそうです。",
+              "why": "Ini informasi model tahun lalu, bukan pendapat bahwa barang itu terlalu berat."
+            },
+            {
+              "jp": "ふたつめの かどを まがってください。",
+              "why": "Ini petunjuk jalan, bukan menilai barang."
+            }
+          ],
+          "intent": "Beri penilaian bahwa barang putih terlalu berat."
+        },
+        {
+          "who": "npc",
+          "jp": "では、くろいのは？しろいのより かるくて、つかいやすそうです。",
+          "rom": "Dewa, kuroi no wa? Shiroi no yori karukute, tsukaiyasusō desu.",
+          "id": "Kalau yang hitam? Lebih ringan daripada yang putih dan kelihatannya mudah dipakai."
+        },
+        {
+          "who": "me",
+          "jp": "こちらの ほうが よさそうですね。ねだんは いくらですか。",
+          "rom": "Kochira no hō ga yosasō desu ne. Nedan wa ikura desu ka.",
+          "id": "Yang ini kelihatannya lebih bagus, ya. Berapa harganya?",
+          "salah": [
+            {
+              "jp": "こちらの コーヒーは おいしいですね。",
+              "why": "Ini rasa kopi, bukan membandingkan penyedot debu dan menanyakan harganya."
+            },
+            {
+              "jp": "そうじきを はこに いれてください。",
+              "why": "Ini meminta alat dimasukkan ke kotak, bukan menilai alat dan menanyakan harga."
+            }
+          ],
+          "intent": "Nilai barang hitam lebih baik dan tanyakan harganya."
+        },
+        {
+          "who": "npc",
+          "jp": "こちらは はっせんえんです。",
+          "rom": "Kochira wa hassen-en desu.",
+          "id": "Yang ini harganya delapan ribu yen."
+        },
+        {
+          "who": "me",
+          "jp": "わかりました。レビューも よんでから、きめます。",
+          "rom": "Wakarimashita. Rebyū mo yonde kara, kimemasu.",
+          "id": "Baik. Setelah membaca ulasannya juga, saya akan memutuskan.",
+          "salah": [
+            {
+              "jp": "はい、はちじに あいましょう。",
+              "why": "Ini mengira delapan ribu yen sebagai janji waktu bertemu."
+            },
+            {
+              "jp": "きのう、べつの みせで はっせんえんのを みました。",
+              "why": "Ini melihat barang di toko lain kemarin, bukan menyatakan akan membaca ulasan sebelum memutuskan."
+            }
+          ],
+          "intent": "Sampaikan rencana membaca ulasan sebelum memutuskan."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t07",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Tur tempat bersejarah",
+      "sub": "Pahami informasi pasif, sampaikan kabar dari penjelasan dan ikuti aturan tempat.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 7,
+        "lessons": [
+          13,
+          14
+        ],
+        "pages": [
+          5
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "この まちに くるのは、はじめてですか。",
+          "rom": "Kono machi ni kuru no wa, hajimete desu ka.",
+          "id": "Apakah ini pertama kalinya kamu datang ke kota ini?"
+        },
+        {
+          "who": "me",
+          "jp": "いいえ、にかいめです。でも、この はくぶつかんは はじめてです。",
+          "rom": "Iie, nikaime desu. Demo, kono hakubutsukan wa hajimete desu.",
+          "id": "Bukan, ini kedua kali. Tetapi museum ini baru pertama kali.",
+          "salah": [
+            {
+              "jp": "いいえ、はじめてです。にかいめじゃありません。",
+              "why": "Ini menyangkal pertanyaan tetapi menyatakan pertama kali secara bertentangan."
+            },
+            {
+              "jp": "はくぶつかんの きっぷを にまい ください。",
+              "why": "Ini membeli tiket, bukan menjelaskan pengalaman kunjungan."
+            }
+          ],
+          "note": "たてられました dan かかれました adalah bentuk pasif. 〜そうです di sini menyampaikan informasi dari keterangan, bukan kesan tampilan.",
+          "intent": "Jelaskan sudah dua kali ke kota itu tetapi baru pertama kali ke museumnya."
+        },
+        {
+          "who": "npc",
+          "jp": "この たてものは、およそ ひゃくねんまえに たてられました。",
+          "rom": "Kono tatemono wa, oyoso hyakunen mae ni tateraremashita.",
+          "id": "Gedung ini dibangun sekitar seratus tahun yang lalu."
+        },
+        {
+          "who": "me",
+          "jp": "そうですか。なかの えも ふるいんですか。",
+          "rom": "Sō desu ka. Naka no e mo furui n desu ka.",
+          "id": "Begitu, ya. Apakah lukisan di dalamnya juga tua?",
+          "salah": [
+            {
+              "jp": "この たてものは らいねん とりこわすそうです。",
+              "why": "Ini kabar rencana pembongkaran, bukan menanyakan usia lukisan di dalamnya."
+            },
+            {
+              "jp": "あした、この たてものの えを かくつもりです。",
+              "why": "Ini rencana menggambar gedung besok, bukan pertanyaan tentang lukisan museum."
+            }
+          ],
+          "intent": "Tanyakan usia lukisan di dalam gedung."
+        },
+        {
+          "who": "npc",
+          "jp": "はい。この えは にひゃくねんまえに かかれたそうです。",
+          "rom": "Hai. Kono e wa nihyakunen mae ni kakareta sō desu.",
+          "id": "Ya. Menurut keterangannya, lukisan ini dilukis dua ratus tahun lalu."
+        },
+        {
+          "who": "me",
+          "jp": "へえ。きねんに しゃしんを とっても いいですか。",
+          "rom": "Hē. Kinen ni shashin o totte mo ii desu ka.",
+          "id": "Wah. Bolehkah mengambil foto sebagai kenang-kenangan?",
+          "salah": [
+            {
+              "jp": "わたしも きょねん、えを かきました。",
+              "why": "Ini pengalaman menggambar tahun lalu, bukan meminta izin mengambil foto."
+            },
+            {
+              "jp": "この えの なまえは なんですか。",
+              "why": "Ini bertanya judul lukisan, sedangkan tujuan balasannya meminta izin memotret."
+            }
+          ],
+          "intent": "Minta izin mengambil foto."
+        },
+        {
+          "who": "npc",
+          "jp": "ここは さつえいきんしです。いりぐちにも かいてあります。",
+          "rom": "Koko wa satsuei kinshi desu. Iriguchi ni mo kaite arimasu.",
+          "id": "Di sini dilarang mengambil foto. Di pintu masuk juga tertulis."
+        },
+        {
+          "who": "me",
+          "jp": "わかりました。しゃしんは とらないで、ゆっくり みます。",
+          "rom": "Wakarimashita. Shashin wa toranaide, yukkuri mimasu.",
+          "id": "Baik. Saya akan melihat-lihat dengan santai tanpa mengambil foto.",
+          "salah": [
+            {
+              "jp": "はい、では しゃしんを たくさん とります。",
+              "why": "Ini melanggar larangan mengambil foto yang baru dijelaskan."
+            },
+            {
+              "jp": "わかりました。えを もってかえります。",
+              "why": "Ini membawa pulang lukisan museum, bukan mengikuti aturan pengunjung."
+            }
+          ],
+          "intent": "Tanggapi larangan dengan berjanji melihat tanpa memotret."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t08",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Kebiasaan ramah lingkungan",
+      "sub": "Tanggapi hal yang terlupa, ceritakan kebiasaan hemat dan pemakaian ulang barang.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 8,
+        "lessons": [
+          15,
+          16
+        ],
+        "pages": [
+          5,
+          6
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "へやの でんきが ついたままですよ。もう つかわないんですか。",
+          "rom": "Heya no denki ga tsuita mama desu yo. Mō tsukawanai n desu ka.",
+          "id": "Lampu kamar masih menyala. Kamarnya sudah tidak dipakai lagi?"
+        },
+        {
+          "who": "me",
+          "jp": "あ、けすのを わすれました。すぐ けしてきます。",
+          "rom": "A, kesu no o wasuremashita. Sugu keshite kimasu.",
+          "id": "Oh, saya lupa mematikannya. Saya akan segera mematikannya lalu kembali.",
+          "salah": [
+            {
+              "jp": "はい、だれも いませんから、ずっと つけておきます。",
+              "why": "Ini membiarkan lampu terus menyala saat tidak dipakai, berlawanan dengan teguran Hori."
+            },
+            {
+              "jp": "この へやの でんきだいは たかいですね。",
+              "why": "Ini biaya listrik kamar, bukan mengakui lupa dan segera mematikan lampu."
+            }
+          ],
+          "note": "〜たまま menyatakan keadaan yang tetap berlangsung. 〜ようにしています menyatakan kebiasaan yang diusahakan.",
+          "intent": "Akui lupa mematikan lampu dan sampaikan akan segera mematikannya."
+        },
+        {
+          "who": "npc",
+          "jp": "ほかに、なにか エコかつどうを していますか。",
+          "rom": "Hoka ni, nanika eko katsudō o shite imasu ka.",
+          "id": "Selain itu, apakah kamu melakukan kegiatan ramah lingkungan?"
+        },
+        {
+          "who": "me",
+          "jp": "かいものには、じぶんの バッグを もっていくように しています。",
+          "rom": "Kaimono ni wa, jibun no baggu o motte iku yō ni shite imasu.",
+          "id": "Saya berusaha membiasakan membawa tas sendiri saat berbelanja.",
+          "salah": [
+            {
+              "jp": "かいものの たびに、ふくろを たくさん すてます。",
+              "why": "Ini menambah sampah kantong, bukan kebiasaan ramah lingkungan yang ditanya."
+            },
+            {
+              "jp": "かいものから なんじに かえりますか。",
+              "why": "Ini menanyakan jam pulang berbelanja, bukan menjelaskan kebiasaan ramah lingkungan."
+            }
+          ],
+          "intent": "Ceritakan kebiasaan membawa tas belanja sendiri."
+        },
+        {
+          "who": "npc",
+          "jp": "わたしもです。きなくなった ふくは、どうしていますか。",
+          "rom": "Watashi mo desu. Kinaku natta fuku wa, dō shite imasu ka.",
+          "id": "Saya juga. Apa yang kamu lakukan terhadap baju yang sudah tidak dipakai?"
+        },
+        {
+          "who": "me",
+          "jp": "まだ きれいな ふくは、ひつような ひとに あげています。",
+          "rom": "Mada kirei na fuku wa, hitsuyō na hito ni agete imasu.",
+          "id": "Baju yang masih bagus saya berikan kepada orang yang memerlukannya.",
+          "salah": [
+            {
+              "jp": "きれいな ふくも ぜんぶ すてるために かいます。",
+              "why": "Ini sengaja membuang baju yang masih bagus, tidak sesuai tujuan pemakaian ulang."
+            },
+            {
+              "jp": "きのうは はれだったので、ふくを あらいました。",
+              "why": "Ini mencuci baju kemarin, bukan memanfaatkan baju yang sudah tidak dipakai."
+            }
+          ],
+          "intent": "Jelaskan baju yang masih bagus diberikan kepada orang yang memerlukan."
+        },
+        {
+          "who": "npc",
+          "jp": "いいですね。わたしは ふるい シャツで ふくろを つくりました。",
+          "rom": "Ii desu ne. Watashi wa furui shatsu de fukuro o tsukurimashita.",
+          "id": "Bagus, ya. Saya membuat kantong dari kemeja lama."
+        },
+        {
+          "who": "me",
+          "jp": "すてきですね。ものを ながく つかうのは たいせつですね。",
+          "rom": "Suteki desu ne. Mono o nagaku tsukau no wa taisetsu desu ne.",
+          "id": "Bagus, ya. Memakai barang untuk waktu yang lama itu penting, ya.",
+          "salah": [
+            {
+              "jp": "あした、あたらしい シャツを かいに いきます。",
+              "why": "Ini rencana membeli kemeja baru, bukan mengapresiasi pemakaian ulang kemeja lama."
+            },
+            {
+              "jp": "その ふくろは えきで うっていますか。",
+              "why": "Ini bertanya penjualan kantong di stasiun, bukan mengapresiasi cara Hori memakai ulang barang."
+            }
+          ],
+          "intent": "Apresiasi penggunaan kembali kemeja lama."
+        }
+      ]
+    },
+    {
+      "id": "n4-e2-t09",
+      "level": "N4",
+      "ic": "◇",
+      "judul": "Kenangan & perubahan diri",
+      "sub": "Ceritakan orang yang dikagumi, masa kecil dan kemampuan yang berkembang.",
+      "npc": "Hori",
+      "gender": "female",
+      "playerName": "Ryota",
+      "audioMode": "device",
+      "book": "Elementary 2 · A2",
+      "source": {
+        "id": "marugoto-e2",
+        "topic": 9,
+        "lessons": [
+          17,
+          18
+        ],
+        "pages": [
+          6,
+          7
+        ]
+      },
+      "lines": [
+        {
+          "who": "npc",
+          "jp": "この しゃしんの ひと、しっていますか。",
+          "rom": "Kono shashin no hito, shitte imasu ka.",
+          "id": "Kamu tahu orang di foto ini?"
+        },
+        {
+          "who": "me",
+          "jp": "はい、もとの せんせいです。わたしが しょうがくせいの とき、えを おしえてくれました。",
+          "rom": "Hai, moto no sensei desu. Watashi ga shōgakusei no toki, e o oshiete kuremashita.",
+          "id": "Ya, beliau mantan guru saya. Saat saya masih SD, beliau mengajari saya menggambar.",
+          "salah": [
+            {
+              "jp": "わたしの いもうとは、らいげつ こどもが うまれます。",
+              "why": "Ini kabar keluarga, bukan mengenalkan orang di foto."
+            },
+            {
+              "jp": "この しゃしんは、きょねんの りょこうで とりました。",
+              "why": "Ini kapan foto diambil, bukan identitas guru di foto."
+            }
+          ],
+          "note": "〜てくれました menyatakan bantuan orang lain kepadamu. 〜ようになりました menyatakan perubahan kemampuan atau kebiasaan.",
+          "intent": "Kenalkan guru gambar yang ada di foto."
+        },
+        {
+          "who": "npc",
+          "jp": "へえ。どうして、その せんせいが すきなんですか。",
+          "rom": "Hē. Dōshite, sono sensei ga suki na n desu ka.",
+          "id": "Wah. Mengapa kamu menyukai guru itu?"
+        },
+        {
+          "who": "me",
+          "jp": "えを かく たのしさを おしえてくれたからです。いまも そんけいしています。",
+          "rom": "E o kaku tanoshisa o oshiete kureta kara desu. Ima mo sonkei shite imasu.",
+          "id": "Karena beliau mengajari saya kegembiraan menggambar. Sampai sekarang saya masih menghormatinya.",
+          "salah": [
+            {
+              "jp": "せんせいは あそこです。",
+              "why": "Ini menunjukkan lokasi guru, bukan alasan kamu mengaguminya."
+            },
+            {
+              "jp": "すきですから、どうしてですか。",
+              "why": "Ini mengulang kesukaan dan bertanya kembali, belum menjelaskan alasannya."
+            }
+          ],
+          "intent": "Jelaskan alasan kamu mengagumi guru itu."
+        },
+        {
+          "who": "npc",
+          "jp": "こどもの ときから、えが すきだったんですね。",
+          "rom": "Kodomo no toki kara, e ga suki datta n desu ne.",
+          "id": "Berarti sejak kecil kamu sudah suka menggambar, ya."
+        },
+        {
+          "who": "me",
+          "jp": "はい。でも、はじめは じょうずじゃありませんでした。なんども れんしゅうしました。",
+          "rom": "Hai. Demo, hajime wa jōzu ja arimasen deshita. Nando mo renshū shimashita.",
+          "id": "Ya. Tetapi awalnya saya belum pandai. Saya berlatih berkali-kali.",
+          "salah": [
+            {
+              "jp": "いいえ。いまは こどもに えを おしえています。",
+              "why": "Ini pekerjaan mengajar sekarang, bukan kemampuan dan latihan pada masa kecil."
+            },
+            {
+              "jp": "れんしゅうは さんびゃくえんですか。",
+              "why": "Ini harga latihan dan tidak menjelaskan perkembangan kemampuanmu."
+            }
+          ],
+          "intent": "Ceritakan bahwa awalnya belum pandai dan harus sering berlatih."
+        },
+        {
+          "who": "npc",
+          "jp": "れんしゅうして、なにが かわりましたか。",
+          "rom": "Renshū shite, nani ga kawarimashita ka.",
+          "id": "Setelah berlatih, apa yang berubah?"
+        },
+        {
+          "who": "me",
+          "jp": "すこしずつ、ひとの かおが かけるように なりました。",
+          "rom": "Sukoshi zutsu, hito no kao ga kakeru yō ni narimashita.",
+          "id": "Sedikit demi sedikit, saya menjadi bisa menggambar wajah orang.",
+          "salah": [
+            {
+              "jp": "ひとの かおを かけるように なりたいです。まだ できません。",
+              "why": "Ini masih keinginan dan belum bisa, bukan perubahan kemampuan yang sudah terjadi dalam alur ini."
+            },
+            {
+              "jp": "かおは つくえの なかに あります。",
+              "why": "Ini letak wajah, bukan kemampuan menggambar yang berkembang."
+            }
+          ],
+          "intent": "Ceritakan perubahan kemampuan menggambar yang sudah terjadi."
+        }
+      ]
+    }
+  ]
+}
