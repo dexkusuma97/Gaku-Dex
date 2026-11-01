@@ -1289,8 +1289,8 @@
       "へ",
       "で"
     ],
-    "meaning": "buku ini buatan Jepang.",
-    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの = yang dari Jepang.",
+    "meaning": "buku ini dari Jepang.",
+    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの berarti yang dari Jepang. Tidak otomatis menyatakan lokasi pabrik pembuatnya.",
     "lessonIds": [
       "no-possession",
       "no-substitute"
@@ -1316,8 +1316,8 @@
       "へ",
       "で"
     ],
-    "meaning": "tas ini buatan Jepang.",
-    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの = yang dari Jepang.",
+    "meaning": "tas ini dari Jepang.",
+    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの berarti yang dari Jepang. Tidak otomatis menyatakan lokasi pabrik pembuatnya.",
     "lessonIds": [
       "no-possession",
       "no-substitute"
@@ -1343,8 +1343,8 @@
       "へ",
       "で"
     ],
-    "meaning": "kamus ini buatan Jepang.",
-    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの = yang dari Jepang.",
+    "meaning": "kamus ini dari Jepang.",
+    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの berarti yang dari Jepang. Tidak otomatis menyatakan lokasi pabrik pembuatnya.",
     "lessonIds": [
       "no-possession",
       "no-substitute"
@@ -1370,8 +1370,8 @@
       "へ",
       "で"
     ],
-    "meaning": "sepatu ini buatan Jepang.",
-    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの = yang dari Jepang.",
+    "meaning": "sepatu ini dari Jepang.",
+    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの berarti yang dari Jepang. Tidak otomatis menyatakan lokasi pabrik pembuatnya.",
     "lessonIds": [
       "no-possession",
       "no-substitute"
@@ -1397,8 +1397,8 @@
       "へ",
       "で"
     ],
-    "meaning": "jam ini buatan Jepang.",
-    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの = yang dari Jepang.",
+    "meaning": "jam ini dari Jepang.",
+    "explanation": "の dapat menggantikan benda yang sudah jelas: にほんの berarti yang dari Jepang. Tidak otomatis menyatakan lokasi pabrik pembuatnya.",
     "lessonIds": [
       "no-possession",
       "no-substitute"
@@ -1554,7 +1554,7 @@
       "いるです"
     ],
     "meaning": "Ada buku di atas meja.",
-    "explanation": "Benda mati memakai あります, bukan います.",
+    "explanation": "Untuk benda seperti buku atau tas gunakan あります. Orang/hewan memakai います; tumbuhan umumnya tetap あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1580,7 +1580,7 @@
       "いるです"
     ],
     "meaning": "Ada tas di atas meja.",
-    "explanation": "Benda mati memakai あります, bukan います.",
+    "explanation": "Untuk benda seperti buku atau tas gunakan あります. Orang/hewan memakai います; tumbuhan umumnya tetap あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1606,7 +1606,7 @@
       "いるです"
     ],
     "meaning": "Ada kamus di atas meja.",
-    "explanation": "Benda mati memakai あります, bukan います.",
+    "explanation": "Untuk benda seperti buku atau tas gunakan あります. Orang/hewan memakai います; tumbuhan umumnya tetap あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1632,7 +1632,7 @@
       "いるです"
     ],
     "meaning": "Ada sepatu di atas meja.",
-    "explanation": "Benda mati memakai あります, bukan います.",
+    "explanation": "Untuk benda seperti buku atau tas gunakan あります. Orang/hewan memakai います; tumbuhan umumnya tetap あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1658,7 +1658,7 @@
       "いるです"
     ],
     "meaning": "Ada jam di atas meja.",
-    "explanation": "Benda mati memakai あります, bukan います.",
+    "explanation": "Untuk benda seperti buku atau tas gunakan あります. Orang/hewan memakai います; tumbuhan umumnya tetap あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1683,7 +1683,7 @@
       "あるです"
     ],
     "meaning": "Ada kucing di sekolah.",
-    "explanation": "Makhluk hidup seperti kucing memakai います.",
+    "explanation": "Kucing adalah hewan, sehingga keberadaannya memakai います. Benda dan tumbuhan umumnya memakai あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1708,7 +1708,7 @@
       "あるです"
     ],
     "meaning": "Ada kucing di stasiun.",
-    "explanation": "Makhluk hidup seperti kucing memakai います.",
+    "explanation": "Kucing adalah hewan, sehingga keberadaannya memakai います. Benda dan tumbuhan umumnya memakai あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1733,7 +1733,7 @@
       "あるです"
     ],
     "meaning": "Ada kucing di taman.",
-    "explanation": "Makhluk hidup seperti kucing memakai います.",
+    "explanation": "Kucing adalah hewan, sehingga keberadaannya memakai います. Benda dan tumbuhan umumnya memakai あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1758,7 +1758,7 @@
       "あるです"
     ],
     "meaning": "Ada kucing di rumah sakit.",
-    "explanation": "Makhluk hidup seperti kucing memakai います.",
+    "explanation": "Kucing adalah hewan, sehingga keberadaannya memakai います. Benda dan tumbuhan umumnya memakai あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -1783,7 +1783,7 @@
       "あるです"
     ],
     "meaning": "Ada kucing di perpustakaan.",
-    "explanation": "Makhluk hidup seperti kucing memakai います.",
+    "explanation": "Kucing adalah hewan, sehingga keberadaannya memakai います. Benda dan tumbuhan umumnya memakai あります.",
     "lessonIds": [
       "existence",
       "existence-place"
@@ -3363,12 +3363,12 @@
     "blankIndex": 1,
     "target": "や",
     "wrong": [
-      "と",
-      "で",
-      "に"
+      "の",
+      "へ",
+      "で"
     ],
     "meaning": "Saya membeli roti, apel, dan lain-lain.",
-    "explanation": "や…など menyebut sebagian contoh dalam daftar.",
+    "explanation": "や…など menyebut contoh dalam daftar yang belum lengkap. Pilih や pada pola ini; と juga bisa menghubungkan benda, jadi tidak dijadikan pilihan salah di sini.",
     "lessonIds": [
       "mo",
       "ka-choice",
@@ -3389,12 +3389,12 @@
     "blankIndex": 1,
     "target": "や",
     "wrong": [
-      "と",
-      "で",
-      "に"
+      "の",
+      "へ",
+      "で"
     ],
     "meaning": "Saya membeli telur, apel, dan lain-lain.",
-    "explanation": "や…など menyebut sebagian contoh dalam daftar.",
+    "explanation": "や…など menyebut contoh dalam daftar yang belum lengkap. Pilih や pada pola ini; と juga bisa menghubungkan benda, jadi tidak dijadikan pilihan salah di sini.",
     "lessonIds": [
       "mo",
       "ka-choice",
@@ -3415,12 +3415,12 @@
     "blankIndex": 1,
     "target": "や",
     "wrong": [
-      "と",
-      "で",
-      "に"
+      "の",
+      "へ",
+      "で"
     ],
     "meaning": "Saya membeli daging, apel, dan lain-lain.",
-    "explanation": "や…など menyebut sebagian contoh dalam daftar.",
+    "explanation": "や…など menyebut contoh dalam daftar yang belum lengkap. Pilih や pada pola ini; と juga bisa menghubungkan benda, jadi tidak dijadikan pilihan salah di sini.",
     "lessonIds": [
       "mo",
       "ka-choice",
@@ -3441,12 +3441,12 @@
     "blankIndex": 1,
     "target": "や",
     "wrong": [
-      "と",
-      "で",
-      "に"
+      "の",
+      "へ",
+      "で"
     ],
     "meaning": "Saya membeli ikan, apel, dan lain-lain.",
-    "explanation": "や…など menyebut sebagian contoh dalam daftar.",
+    "explanation": "や…など menyebut contoh dalam daftar yang belum lengkap. Pilih や pada pola ini; と juga bisa menghubungkan benda, jadi tidak dijadikan pilihan salah di sini.",
     "lessonIds": [
       "mo",
       "ka-choice",
@@ -3467,12 +3467,12 @@
     "blankIndex": 1,
     "target": "や",
     "wrong": [
-      "と",
-      "で",
-      "に"
+      "の",
+      "へ",
+      "で"
     ],
     "meaning": "Saya membeli sayuran, apel, dan lain-lain.",
-    "explanation": "や…など menyebut sebagian contoh dalam daftar.",
+    "explanation": "や…など menyebut contoh dalam daftar yang belum lengkap. Pilih や pada pola ini; と juga bisa menghubungkan benda, jadi tidak dijadikan pilihan salah di sini.",
     "lessonIds": [
       "mo",
       "ka-choice",
@@ -3483,22 +3483,24 @@
     "id": "bq-10-01",
     "category": "partikel",
     "subcategory": "Batas & perkiraan",
-    "jp": "いちじからごごまではたらきます。",
+    "jp": "ごぜんしちじからごごごじまではたらきます。",
     "chunks": [
-      "いちじ",
+      "ごぜん",
+      "しちじ",
       "から",
-      "ごごまで",
+      "ごご",
+      "ごじまで",
       "はたらきます"
     ],
-    "blankIndex": 1,
+    "blankIndex": 2,
     "target": "から",
     "wrong": [
       "を",
       "の",
       "が"
     ],
-    "meaning": "Saya bekerja mulai pukul satu sampai siang.",
-    "explanation": "から menandai titik awal waktu; まで menandai akhir.",
+    "meaning": "Saya bekerja dari pukul tujuh pagi sampai pukul lima sore.",
+    "explanation": "から menandai awal, まで menandai akhir. ごぜん: sebelum tengah hari; ごご: setelah tengah hari.",
     "lessonIds": [
       "kara-made",
       "goro",
@@ -3510,22 +3512,24 @@
     "id": "bq-10-02",
     "category": "partikel",
     "subcategory": "Batas & perkiraan",
-    "jp": "にじからごごまではたらきます。",
+    "jp": "ごぜんはちじからごごごじまではたらきます。",
     "chunks": [
-      "にじ",
+      "ごぜん",
+      "はちじ",
       "から",
-      "ごごまで",
+      "ごご",
+      "ごじまで",
       "はたらきます"
     ],
-    "blankIndex": 1,
+    "blankIndex": 2,
     "target": "から",
     "wrong": [
       "を",
       "の",
       "が"
     ],
-    "meaning": "Saya bekerja mulai pukul dua sampai siang.",
-    "explanation": "から menandai titik awal waktu; まで menandai akhir.",
+    "meaning": "Saya bekerja dari pukul delapan pagi sampai pukul lima sore.",
+    "explanation": "から menandai awal, まで menandai akhir. ごぜん: sebelum tengah hari; ごご: setelah tengah hari.",
     "lessonIds": [
       "kara-made",
       "goro",
@@ -3537,22 +3541,24 @@
     "id": "bq-10-03",
     "category": "partikel",
     "subcategory": "Batas & perkiraan",
-    "jp": "さんじからごごまではたらきます。",
+    "jp": "ごぜんくじからごごごじまではたらきます。",
     "chunks": [
-      "さんじ",
+      "ごぜん",
+      "くじ",
       "から",
-      "ごごまで",
+      "ごご",
+      "ごじまで",
       "はたらきます"
     ],
-    "blankIndex": 1,
+    "blankIndex": 2,
     "target": "から",
     "wrong": [
       "を",
       "の",
       "が"
     ],
-    "meaning": "Saya bekerja mulai pukul tiga sampai siang.",
-    "explanation": "から menandai titik awal waktu; まで menandai akhir.",
+    "meaning": "Saya bekerja dari pukul sembilan pagi sampai pukul lima sore.",
+    "explanation": "から menandai awal, まで menandai akhir. ごぜん: sebelum tengah hari; ごご: setelah tengah hari.",
     "lessonIds": [
       "kara-made",
       "goro",
@@ -3564,22 +3570,24 @@
     "id": "bq-10-04",
     "category": "partikel",
     "subcategory": "Batas & perkiraan",
-    "jp": "よじからごごまではたらきます。",
+    "jp": "ごぜんじゅうじからごごごじまではたらきます。",
     "chunks": [
-      "よじ",
+      "ごぜん",
+      "じゅうじ",
       "から",
-      "ごごまで",
+      "ごご",
+      "ごじまで",
       "はたらきます"
     ],
-    "blankIndex": 1,
+    "blankIndex": 2,
     "target": "から",
     "wrong": [
       "を",
       "の",
       "が"
     ],
-    "meaning": "Saya bekerja mulai pukul empat sampai siang.",
-    "explanation": "から menandai titik awal waktu; まで menandai akhir.",
+    "meaning": "Saya bekerja dari pukul sepuluh pagi sampai pukul lima sore.",
+    "explanation": "から menandai awal, まで menandai akhir. ごぜん: sebelum tengah hari; ごご: setelah tengah hari.",
     "lessonIds": [
       "kara-made",
       "goro",
@@ -3591,22 +3599,24 @@
     "id": "bq-10-05",
     "category": "partikel",
     "subcategory": "Batas & perkiraan",
-    "jp": "ごじからごごまではたらきます。",
+    "jp": "ごぜんじゅういちじからごごごじまではたらきます。",
     "chunks": [
-      "ごじ",
+      "ごぜん",
+      "じゅういちじ",
       "から",
-      "ごごまで",
+      "ごご",
+      "ごじまで",
       "はたらきます"
     ],
-    "blankIndex": 1,
+    "blankIndex": 2,
     "target": "から",
     "wrong": [
       "を",
       "の",
       "が"
     ],
-    "meaning": "Saya bekerja mulai pukul lima sampai siang.",
-    "explanation": "から menandai titik awal waktu; まで menandai akhir.",
+    "meaning": "Saya bekerja dari pukul sebelas pagi sampai pukul lima sore.",
+    "explanation": "から menandai awal, まで menandai akhir. ごぜん: sebelum tengah hari; ごご: setelah tengah hari.",
     "lessonIds": [
       "kara-made",
       "goro",
@@ -5568,21 +5578,22 @@
     "id": "bq-15-11",
     "category": "tanya",
     "subcategory": "Pendapat & tindakan",
-    "jp": "いっしょにみずはどうですか。",
+    "jp": "いっしょにおちゃはどうですか。",
     "chunks": [
       "いっしょに",
-      "みずは",
+      "おちゃ",
+      "は",
       "どう",
       "ですか"
     ],
-    "blankIndex": 2,
+    "blankIndex": 3,
     "target": "どう",
     "wrong": [
       "だれ",
       "どこ",
       "なんさい"
     ],
-    "meaning": "Bagaimana kalau kita menikmati air bersama?",
+    "meaning": "Bagaimana kalau kita minum teh bersama?",
     "explanation": "N はどうですか bisa menjadi saran atau tawaran, sesuai konteks.",
     "lessonIds": [
       "dou-desuka",
@@ -5593,21 +5604,22 @@
     "id": "bq-15-12",
     "category": "tanya",
     "subcategory": "Pendapat & tindakan",
-    "jp": "いっしょにおちゃはどうですか。",
+    "jp": "いっしょにしょくじはどうですか。",
     "chunks": [
       "いっしょに",
-      "おちゃは",
+      "しょくじ",
+      "は",
       "どう",
       "ですか"
     ],
-    "blankIndex": 2,
+    "blankIndex": 3,
     "target": "どう",
     "wrong": [
       "だれ",
       "どこ",
       "なんさい"
     ],
-    "meaning": "Bagaimana kalau kita menikmati teh bersama?",
+    "meaning": "Bagaimana kalau kita makan bersama?",
     "explanation": "N はどうですか bisa menjadi saran atau tawaran, sesuai konteks.",
     "lessonIds": [
       "dou-desuka",
@@ -5618,21 +5630,22 @@
     "id": "bq-15-13",
     "category": "tanya",
     "subcategory": "Pendapat & tindakan",
-    "jp": "いっしょにコーヒーはどうですか。",
+    "jp": "いっしょにさんぽはどうですか。",
     "chunks": [
       "いっしょに",
-      "コーヒーは",
+      "さんぽ",
+      "は",
       "どう",
       "ですか"
     ],
-    "blankIndex": 2,
+    "blankIndex": 3,
     "target": "どう",
     "wrong": [
       "だれ",
       "どこ",
       "なんさい"
     ],
-    "meaning": "Bagaimana kalau kita menikmati kopi bersama?",
+    "meaning": "Bagaimana kalau kita berjalan-jalan bersama?",
     "explanation": "N はどうですか bisa menjadi saran atau tawaran, sesuai konteks.",
     "lessonIds": [
       "dou-desuka",
@@ -5643,21 +5656,22 @@
     "id": "bq-15-14",
     "category": "tanya",
     "subcategory": "Pendapat & tindakan",
-    "jp": "いっしょにぎゅうにゅうはどうですか。",
+    "jp": "いっしょにテニスはどうですか。",
     "chunks": [
       "いっしょに",
-      "ぎゅうにゅうは",
+      "テニス",
+      "は",
       "どう",
       "ですか"
     ],
-    "blankIndex": 2,
+    "blankIndex": 3,
     "target": "どう",
     "wrong": [
       "だれ",
       "どこ",
       "なんさい"
     ],
-    "meaning": "Bagaimana kalau kita menikmati susu bersama?",
+    "meaning": "Bagaimana kalau kita bermain tenis bersama?",
     "explanation": "N はどうですか bisa menjadi saran atau tawaran, sesuai konteks.",
     "lessonIds": [
       "dou-desuka",
@@ -5668,21 +5682,22 @@
     "id": "bq-15-15",
     "category": "tanya",
     "subcategory": "Pendapat & tindakan",
-    "jp": "いっしょにジュースはどうですか。",
+    "jp": "いっしょにえいがはどうですか。",
     "chunks": [
       "いっしょに",
-      "ジュースは",
+      "えいが",
+      "は",
       "どう",
       "ですか"
     ],
-    "blankIndex": 2,
+    "blankIndex": 3,
     "target": "どう",
     "wrong": [
       "だれ",
       "どこ",
       "なんさい"
     ],
-    "meaning": "Bagaimana kalau kita menikmati jus bersama?",
+    "meaning": "Bagaimana kalau kita menonton film bersama?",
     "explanation": "N はどうですか bisa menjadi saran atau tawaran, sesuai konteks.",
     "lessonIds": [
       "dou-desuka",
@@ -6083,7 +6098,7 @@
       "かいで"
     ],
     "meaning": "Saya membeli buku, lalu pulang.",
-    "explanation": "Bentuk-te かいます adalah かって untuk menghubungkan kegiatan.",
+    "explanation": "かいます（買う）menjadi かって. かいて berasal dari かきます, sehingga tidak menyatakan membeli pada arti soal.",
     "lessonIds": [
       "te-sequence",
       "te-kara"
@@ -6108,7 +6123,7 @@
       "かいで"
     ],
     "meaning": "Saya membeli tas, lalu pulang.",
-    "explanation": "Bentuk-te かいます adalah かって untuk menghubungkan kegiatan.",
+    "explanation": "かいます（買う）menjadi かって. かいて berasal dari かきます, sehingga tidak menyatakan membeli pada arti soal.",
     "lessonIds": [
       "te-sequence",
       "te-kara"
@@ -6133,7 +6148,7 @@
       "かいで"
     ],
     "meaning": "Saya membeli kamus, lalu pulang.",
-    "explanation": "Bentuk-te かいます adalah かって untuk menghubungkan kegiatan.",
+    "explanation": "かいます（買う）menjadi かって. かいて berasal dari かきます, sehingga tidak menyatakan membeli pada arti soal.",
     "lessonIds": [
       "te-sequence",
       "te-kara"
@@ -6158,7 +6173,7 @@
       "かいで"
     ],
     "meaning": "Saya membeli sepatu, lalu pulang.",
-    "explanation": "Bentuk-te かいます adalah かって untuk menghubungkan kegiatan.",
+    "explanation": "かいます（買う）menjadi かって. かいて berasal dari かきます, sehingga tidak menyatakan membeli pada arti soal.",
     "lessonIds": [
       "te-sequence",
       "te-kara"
@@ -6183,7 +6198,7 @@
       "かいで"
     ],
     "meaning": "Saya membeli jam, lalu pulang.",
-    "explanation": "Bentuk-te かいます adalah かって untuk menghubungkan kegiatan.",
+    "explanation": "かいます（買う）menjadi かって. かいて berasal dari かきます, sehingga tidak menyatakan membeli pada arti soal.",
     "lessonIds": [
       "te-sequence",
       "te-kara"
@@ -9419,12 +9434,12 @@
     "blankIndex": 3,
     "target": "から",
     "wrong": [
-      "のに",
+      "が",
       "と",
-      "ので"
+      "けど"
     ],
     "meaning": "Saya membeli buku ini karena murah.",
-    "explanation": "Kalimat alasan diikuti から, kemudian akibat atau keputusan.",
+    "explanation": "から menghubungkan alasan murah dengan keputusan membeli. ので juga dapat menyatakan alasan, sehingga tidak dijadikan pengecoh untuk soal ini.",
     "lessonIds": [
       "kara-reason",
       "dakara"
@@ -9445,12 +9460,12 @@
     "blankIndex": 3,
     "target": "から",
     "wrong": [
-      "のに",
+      "が",
       "と",
-      "ので"
+      "けど"
     ],
     "meaning": "Saya membeli tas ini karena murah.",
-    "explanation": "Kalimat alasan diikuti から, kemudian akibat atau keputusan.",
+    "explanation": "から menghubungkan alasan murah dengan keputusan membeli. ので juga dapat menyatakan alasan, sehingga tidak dijadikan pengecoh untuk soal ini.",
     "lessonIds": [
       "kara-reason",
       "dakara"
@@ -9471,12 +9486,12 @@
     "blankIndex": 3,
     "target": "から",
     "wrong": [
-      "のに",
+      "が",
       "と",
-      "ので"
+      "けど"
     ],
     "meaning": "Saya membeli kamus ini karena murah.",
-    "explanation": "Kalimat alasan diikuti から, kemudian akibat atau keputusan.",
+    "explanation": "から menghubungkan alasan murah dengan keputusan membeli. ので juga dapat menyatakan alasan, sehingga tidak dijadikan pengecoh untuk soal ini.",
     "lessonIds": [
       "kara-reason",
       "dakara"
@@ -9497,12 +9512,12 @@
     "blankIndex": 3,
     "target": "から",
     "wrong": [
-      "のに",
+      "が",
       "と",
-      "ので"
+      "けど"
     ],
     "meaning": "Saya membeli sepatu ini karena murah.",
-    "explanation": "Kalimat alasan diikuti から, kemudian akibat atau keputusan.",
+    "explanation": "から menghubungkan alasan murah dengan keputusan membeli. ので juga dapat menyatakan alasan, sehingga tidak dijadikan pengecoh untuk soal ini.",
     "lessonIds": [
       "kara-reason",
       "dakara"
@@ -9523,12 +9538,12 @@
     "blankIndex": 3,
     "target": "から",
     "wrong": [
-      "のに",
+      "が",
       "と",
-      "ので"
+      "けど"
     ],
     "meaning": "Saya membeli jam ini karena murah.",
-    "explanation": "Kalimat alasan diikuti から, kemudian akibat atau keputusan.",
+    "explanation": "から menghubungkan alasan murah dengan keputusan membeli. ので juga dapat menyatakan alasan, sehingga tidak dijadikan pengecoh untuk soal ini.",
     "lessonIds": [
       "kara-reason",
       "dakara"
@@ -9668,10 +9683,10 @@
     "id": "bq-26-11",
     "category": "penghubung",
     "subcategory": "Alasan",
-    "jp": "たなかさんはせんせいですからにほんごがじょうずです。",
+    "jp": "たなかさんはにほんごのせんせいですからにほんごがじょうずです。",
     "chunks": [
       "たなかさんは",
-      "せんせいです",
+      "にほんごのせんせいです",
       "から",
       "にほんごが",
       "じょうずです"
@@ -9679,11 +9694,11 @@
     "blankIndex": 2,
     "target": "から",
     "wrong": [
-      "からを",
-      "からの",
-      "からに"
+      "が",
+      "と",
+      "けど"
     ],
-    "meaning": "Tanaka pandai bahasa Jepang karena ia guru.",
+    "meaning": "Tanaka pandai bahasa Jepang karena ia guru bahasa Jepang.",
     "explanation": "から sesudah kalimat sopan menyatakan sebab atau alasan.",
     "lessonIds": [
       "kara-reason",
@@ -9694,10 +9709,10 @@
     "id": "bq-26-12",
     "category": "penghubung",
     "subcategory": "Alasan",
-    "jp": "やまださんはせんせいですからにほんごがじょうずです。",
+    "jp": "やまださんはにほんごのせんせいですからにほんごがじょうずです。",
     "chunks": [
       "やまださんは",
-      "せんせいです",
+      "にほんごのせんせいです",
       "から",
       "にほんごが",
       "じょうずです"
@@ -9705,11 +9720,11 @@
     "blankIndex": 2,
     "target": "から",
     "wrong": [
-      "からを",
-      "からの",
-      "からに"
+      "が",
+      "と",
+      "けど"
     ],
-    "meaning": "Yamada pandai bahasa Jepang karena ia guru.",
+    "meaning": "Yamada pandai bahasa Jepang karena ia guru bahasa Jepang.",
     "explanation": "から sesudah kalimat sopan menyatakan sebab atau alasan.",
     "lessonIds": [
       "kara-reason",
@@ -9720,10 +9735,10 @@
     "id": "bq-26-13",
     "category": "penghubung",
     "subcategory": "Alasan",
-    "jp": "さとうさんはせんせいですからにほんごがじょうずです。",
+    "jp": "さとうさんはにほんごのせんせいですからにほんごがじょうずです。",
     "chunks": [
       "さとうさんは",
-      "せんせいです",
+      "にほんごのせんせいです",
       "から",
       "にほんごが",
       "じょうずです"
@@ -9731,11 +9746,11 @@
     "blankIndex": 2,
     "target": "から",
     "wrong": [
-      "からを",
-      "からの",
-      "からに"
+      "が",
+      "と",
+      "けど"
     ],
-    "meaning": "Sato pandai bahasa Jepang karena ia guru.",
+    "meaning": "Sato pandai bahasa Jepang karena ia guru bahasa Jepang.",
     "explanation": "から sesudah kalimat sopan menyatakan sebab atau alasan.",
     "lessonIds": [
       "kara-reason",
@@ -9746,10 +9761,10 @@
     "id": "bq-26-14",
     "category": "penghubung",
     "subcategory": "Alasan",
-    "jp": "すずきさんはせんせいですからにほんごがじょうずです。",
+    "jp": "すずきさんはにほんごのせんせいですからにほんごがじょうずです。",
     "chunks": [
       "すずきさんは",
-      "せんせいです",
+      "にほんごのせんせいです",
       "から",
       "にほんごが",
       "じょうずです"
@@ -9757,11 +9772,11 @@
     "blankIndex": 2,
     "target": "から",
     "wrong": [
-      "からを",
-      "からの",
-      "からに"
+      "が",
+      "と",
+      "けど"
     ],
-    "meaning": "Suzuki pandai bahasa Jepang karena ia guru.",
+    "meaning": "Suzuki pandai bahasa Jepang karena ia guru bahasa Jepang.",
     "explanation": "から sesudah kalimat sopan menyatakan sebab atau alasan.",
     "lessonIds": [
       "kara-reason",
@@ -9772,10 +9787,10 @@
     "id": "bq-26-15",
     "category": "penghubung",
     "subcategory": "Alasan",
-    "jp": "ミラーさんはせんせいですからにほんごがじょうずです。",
+    "jp": "ミラーさんはにほんごのせんせいですからにほんごがじょうずです。",
     "chunks": [
       "ミラーさんは",
-      "せんせいです",
+      "にほんごのせんせいです",
       "から",
       "にほんごが",
       "じょうずです"
@@ -9783,11 +9798,11 @@
     "blankIndex": 2,
     "target": "から",
     "wrong": [
-      "からを",
-      "からの",
-      "からに"
+      "が",
+      "と",
+      "けど"
     ],
-    "meaning": "Miller pandai bahasa Jepang karena ia guru.",
+    "meaning": "Miller pandai bahasa Jepang karena ia guru bahasa Jepang.",
     "explanation": "から sesudah kalimat sopan menyatakan sebab atau alasan.",
     "lessonIds": [
       "kara-reason",
@@ -10070,8 +10085,8 @@
     "target": "けど",
     "wrong": [
       "から",
-      "ので",
-      "そして"
+      "と",
+      "ので"
     ],
     "meaning": "buku ini murah, tetapi saya tidak membelinya.",
     "explanation": "けど adalah penghubung pertentangan yang lebih percakapan.",
@@ -10096,8 +10111,8 @@
     "target": "けど",
     "wrong": [
       "から",
-      "ので",
-      "そして"
+      "と",
+      "ので"
     ],
     "meaning": "tas ini murah, tetapi saya tidak membelinya.",
     "explanation": "けど adalah penghubung pertentangan yang lebih percakapan.",
@@ -10122,8 +10137,8 @@
     "target": "けど",
     "wrong": [
       "から",
-      "ので",
-      "そして"
+      "と",
+      "ので"
     ],
     "meaning": "kamus ini murah, tetapi saya tidak membelinya.",
     "explanation": "けど adalah penghubung pertentangan yang lebih percakapan.",
@@ -10148,8 +10163,8 @@
     "target": "けど",
     "wrong": [
       "から",
-      "ので",
-      "そして"
+      "と",
+      "ので"
     ],
     "meaning": "sepatu ini murah, tetapi saya tidak membelinya.",
     "explanation": "けど adalah penghubung pertentangan yang lebih percakapan.",
@@ -10174,8 +10189,8 @@
     "target": "けど",
     "wrong": [
       "から",
-      "ので",
-      "そして"
+      "と",
+      "ので"
     ],
     "meaning": "jam ini murah, tetapi saya tidak membelinya.",
     "explanation": "けど adalah penghubung pertentangan yang lebih percakapan.",
@@ -10198,9 +10213,9 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "それから",
       "でも",
-      "そして"
+      "そして",
+      "それから"
     ],
     "meaning": "Sudah waktunya. Kalau begitu, ayo pergi ke sekolah.",
     "explanation": "それでは menandai peralihan menuju tindakan berikutnya.",
@@ -10222,9 +10237,9 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "それから",
       "でも",
-      "そして"
+      "そして",
+      "それから"
     ],
     "meaning": "Sudah waktunya. Kalau begitu, ayo pergi ke stasiun.",
     "explanation": "それでは menandai peralihan menuju tindakan berikutnya.",
@@ -10246,9 +10261,9 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "それから",
       "でも",
-      "そして"
+      "そして",
+      "それから"
     ],
     "meaning": "Sudah waktunya. Kalau begitu, ayo pergi ke taman.",
     "explanation": "それでは menandai peralihan menuju tindakan berikutnya.",
@@ -10270,9 +10285,9 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "それから",
       "でも",
-      "そして"
+      "そして",
+      "それから"
     ],
     "meaning": "Sudah waktunya. Kalau begitu, ayo pergi ke rumah sakit.",
     "explanation": "それでは menandai peralihan menuju tindakan berikutnya.",
@@ -10294,9 +10309,9 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "それから",
       "でも",
-      "そして"
+      "そして",
+      "それから"
     ],
     "meaning": "Sudah waktunya. Kalau begitu, ayo pergi ke perpustakaan.",
     "explanation": "それでは menandai peralihan menuju tindakan berikutnya.",
@@ -10318,7 +10333,7 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "だから",
+      "でも",
       "そして",
       "それから"
     ],
@@ -10342,7 +10357,7 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "だから",
+      "でも",
       "そして",
       "それから"
     ],
@@ -10366,7 +10381,7 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "だから",
+      "でも",
       "そして",
       "それから"
     ],
@@ -10390,7 +10405,7 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "だから",
+      "でも",
       "そして",
       "それから"
     ],
@@ -10414,7 +10429,7 @@
     "blankIndex": 1,
     "target": "それでは",
     "wrong": [
-      "だから",
+      "でも",
       "そして",
       "それから"
     ],
@@ -10439,9 +10454,9 @@
     "blankIndex": 2,
     "target": "それでは",
     "wrong": [
+      "でも",
       "そして",
-      "それから",
-      "でも"
+      "それから"
     ],
     "meaning": "Belajar sudah selesai. Kalau begitu, Tanaka, sampai besok.",
     "explanation": "それでは juga digunakan saat beralih ke salam penutup.",
@@ -10464,9 +10479,9 @@
     "blankIndex": 2,
     "target": "それでは",
     "wrong": [
+      "でも",
       "そして",
-      "それから",
-      "でも"
+      "それから"
     ],
     "meaning": "Belajar sudah selesai. Kalau begitu, Yamada, sampai besok.",
     "explanation": "それでは juga digunakan saat beralih ke salam penutup.",
@@ -10489,9 +10504,9 @@
     "blankIndex": 2,
     "target": "それでは",
     "wrong": [
+      "でも",
       "そして",
-      "それから",
-      "でも"
+      "それから"
     ],
     "meaning": "Belajar sudah selesai. Kalau begitu, Sato, sampai besok.",
     "explanation": "それでは juga digunakan saat beralih ke salam penutup.",
@@ -10514,9 +10529,9 @@
     "blankIndex": 2,
     "target": "それでは",
     "wrong": [
+      "でも",
       "そして",
-      "それから",
-      "でも"
+      "それから"
     ],
     "meaning": "Belajar sudah selesai. Kalau begitu, Suzuki, sampai besok.",
     "explanation": "それでは juga digunakan saat beralih ke salam penutup.",
@@ -10539,9 +10554,9 @@
     "blankIndex": 2,
     "target": "それでは",
     "wrong": [
+      "でも",
       "そして",
-      "それから",
-      "でも"
+      "それから"
     ],
     "meaning": "Belajar sudah selesai. Kalau begitu, Miller, sampai besok.",
     "explanation": "それでは juga digunakan saat beralih ke salam penutup.",
@@ -15435,11 +15450,11 @@
     "target": "はなす",
     "wrong": [
       "はなします",
-      "はなした",
+      "はなすです",
       "はなして"
     ],
     "meaning": "Tanaka dapat berbicara bahasa Jepang.",
-    "explanation": "V-bentuk kamus + ことができます menyatakan kemampuan.",
+    "explanation": "Sebelum ことができます gunakan bentuk kamus: はなす. Pola ini berarti dapat berbicara.",
     "lessonIds": [
       "koto-dekiru"
     ]
@@ -15460,11 +15475,11 @@
     "target": "はなす",
     "wrong": [
       "はなします",
-      "はなした",
+      "はなすです",
       "はなして"
     ],
     "meaning": "Yamada dapat berbicara bahasa Jepang.",
-    "explanation": "V-bentuk kamus + ことができます menyatakan kemampuan.",
+    "explanation": "Sebelum ことができます gunakan bentuk kamus: はなす. Pola ini berarti dapat berbicara.",
     "lessonIds": [
       "koto-dekiru"
     ]
@@ -15485,11 +15500,11 @@
     "target": "はなす",
     "wrong": [
       "はなします",
-      "はなした",
+      "はなすです",
       "はなして"
     ],
     "meaning": "Sato dapat berbicara bahasa Jepang.",
-    "explanation": "V-bentuk kamus + ことができます menyatakan kemampuan.",
+    "explanation": "Sebelum ことができます gunakan bentuk kamus: はなす. Pola ini berarti dapat berbicara.",
     "lessonIds": [
       "koto-dekiru"
     ]
@@ -15510,11 +15525,11 @@
     "target": "はなす",
     "wrong": [
       "はなします",
-      "はなした",
+      "はなすです",
       "はなして"
     ],
     "meaning": "Suzuki dapat berbicara bahasa Jepang.",
-    "explanation": "V-bentuk kamus + ことができます menyatakan kemampuan.",
+    "explanation": "Sebelum ことができます gunakan bentuk kamus: はなす. Pola ini berarti dapat berbicara.",
     "lessonIds": [
       "koto-dekiru"
     ]
@@ -15535,11 +15550,11 @@
     "target": "はなす",
     "wrong": [
       "はなします",
-      "はなした",
+      "はなすです",
       "はなして"
     ],
     "meaning": "Miller dapat berbicara bahasa Jepang.",
-    "explanation": "V-bentuk kamus + ことができます menyatakan kemampuan.",
+    "explanation": "Sebelum ことができます gunakan bentuk kamus: はなす. Pola ini berarti dapat berbicara.",
     "lessonIds": [
       "koto-dekiru"
     ]
@@ -15560,7 +15575,7 @@
     "target": "つくる",
     "wrong": [
       "つくります",
-      "つくった",
+      "つくるです",
       "つくって"
     ],
     "meaning": "Saya dapat membuat masakan.",
@@ -15585,7 +15600,7 @@
     "target": "つくる",
     "wrong": [
       "つくります",
-      "つくった",
+      "つくるです",
       "つくって"
     ],
     "meaning": "Saya dapat membuat roti.",
@@ -15610,7 +15625,7 @@
     "target": "つくる",
     "wrong": [
       "つくります",
-      "つくった",
+      "つくるです",
       "つくって"
     ],
     "meaning": "Saya dapat membuat kue.",
@@ -15635,7 +15650,7 @@
     "target": "つくる",
     "wrong": [
       "つくります",
-      "つくった",
+      "つくるです",
       "つくって"
     ],
     "meaning": "Saya dapat membuat sup.",
@@ -15660,7 +15675,7 @@
     "target": "つくる",
     "wrong": [
       "つくります",
-      "つくった",
+      "つくるです",
       "つくって"
     ],
     "meaning": "Saya dapat membuat bekal makan.",
@@ -15685,7 +15700,7 @@
     "target": "かう",
     "wrong": [
       "かいます",
-      "かった",
+      "かうです",
       "かって"
     ],
     "meaning": "Di sini bisa membeli buku.",
@@ -15710,7 +15725,7 @@
     "target": "かう",
     "wrong": [
       "かいます",
-      "かった",
+      "かうです",
       "かって"
     ],
     "meaning": "Di sini bisa membeli tas.",
@@ -15735,7 +15750,7 @@
     "target": "かう",
     "wrong": [
       "かいます",
-      "かった",
+      "かうです",
       "かって"
     ],
     "meaning": "Di sini bisa membeli kamus.",
@@ -15760,7 +15775,7 @@
     "target": "かう",
     "wrong": [
       "かいます",
-      "かった",
+      "かうです",
       "かって"
     ],
     "meaning": "Di sini bisa membeli sepatu.",
@@ -15785,7 +15800,7 @@
     "target": "かう",
     "wrong": [
       "かいます",
-      "かった",
+      "かうです",
       "かって"
     ],
     "meaning": "Di sini bisa membeli jam.",

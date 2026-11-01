@@ -8,3 +8,7 @@
 - Terjemahan ditampilkan untuk membatasi konteks, termasuk jika pilihan lain bisa menjadi kalimat yang valid dengan makna berbeda.
 - Pemeriksaan otomatis mencakup semua hitungan, ID unik, empat pilihan unik, jawaban, penyusunan ulang, cakupan subkategori, dan berkas browser.
 - Belum ditelaah pengajar eksternal; bank dapat direvisi setelah pengguna memeriksa materinya.
+
+## Audit internal batch 23 — 1 November 2026
+
+129 kerangka dan lima konteks tiap kerangka ditinjau. Pilihan salah ditulis eksplisit; generator tidak lagi memetakan pilihan lewat tabel pengganti atau menambah partikel otomatis. Pengecoh ambigu や／と dan から／ので dihapus dari pasangan soal terkait. Konteks waktu dan penjelasan keberadaan diluruskan. Catatan perubahan: editorial-review-20261101.json. Ini tinjauan internal, belum pengajar eksternal.

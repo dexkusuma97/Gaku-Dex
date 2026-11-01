@@ -1288,3 +1288,10 @@ Sesuai permintaan pengguna, hapus panel tambahan “Coba satu situasi lain di Ba
 1.553 entri ditinjau internal; 719 entri berubah pada Jepang/kana/arti/catatan, termasuk normalisasi. Pasangan arti tertukar, 国連, syarat batas 以上／以下, kata intransitif dan bahasa hormat/merendah dibenahi. Arti utama dan romaji tersedia untuk semua entri. Total 2.910 entri Bab 1–50 telah ditinjau; arti lain/catatan tetap dapat dibuka dan dicari. Tidak menghapus pengulangan antar bab atau mengubah ID/nomor/halaman/urutan.
 
 46 berkas tes lulus; build stabil; Bab 1–25 dan seluruh grammar/cek/fokus identik dengan paket 21. Batch ini memakai tes render/paginasi; tidak ada uji browser/Android fisik baru. Rincian dan batas audit: data/RANGKUMAN_VOCAB_26_50_20261101.md serta data/rangkuman-vocab-review-26-50.json. Berikutnya audit kesesuaian Quiz dengan materi. Paket kumulatif 1–21.
+
+
+## 1 November 2026 — Batch 23: audit Quiz dan pencegahan jawaban ambigu
+
+129 kerangka Bunpo N5/645 situasi/2.580 soal ditinjau internal; 80 situasi berubah efektif pada kalimat/arti/penjelasan/pengecoh. Pilihan kini eksplisit, tanpa pemetaan otomatis atau partikel cadangan. Hindari pengecoh と untuk daftar や dan ので untuk alasan から yang sama. Perjelas waktu dan beberapa konteks. Filter sinonim konservatif untuk Kotoba/Kanji; hindari bunyi Kana ekuivalen sebagai pengecoh. Jaga pool/deck/tombol mulai agar N4 tidak mengambil Bunpo N5; belum menambah Bunpo/Campuran N4.
+
+47 berkas tes lulus, termasuk 12.150 soal hasil generator Kana/Kotoba/Kanji seluruh N5/N4 dan seluruh bank Bunpo, label/kunci/paginasi/sesi. Build berulang stabil. Data belajar dan modul lain tetap; belum browser/Android fisik baru atau pengajar eksternal. Batas semantik dan rincian: data/quiz/QUIZ_REVIEW_20261101.md. Paket kumulatif 1–22.
