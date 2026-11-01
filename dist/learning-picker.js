@@ -3,7 +3,7 @@ let activeLearningPicker=null;
 const learningPickers=new Map();
 function enhanceLearningPickers(){
  learningPickers.clear();
- document.querySelectorAll('.kanji-selects select,.bunpo-filters select,.kotoba-filters select,.kotoba-page-jump select').forEach((select,index)=>{
+ document.querySelectorAll('.kanji-selects select,.bunpo-filters select,.kotoba-filters select,.kotoba-page-jump select,.history-filters select,.custom-data-page select').forEach((select,index)=>{
   if(select.nextElementSibling?.classList.contains('picker-trigger'))select.nextElementSibling.remove();
   const label=select.getAttribute('aria-label')||'Pilih kelompok';
   const id='learning-choice-'+index;
@@ -57,6 +57,6 @@ window.addEventListener('popstate',event=>{
  const active=removeLearningPicker();
  if(sameRoute){
   event.stopImmediatePropagation();
-  if(active.choice!==null){active.config.select.value=active.choice;active.config.select.dispatchEvent(new Event('change',{bubbles:true}));document.getElementById(active.config.id)?.focus({preventScroll:true})}
+  if(active.choice!==null){active.config.select.value=active.choice;active.config.value=active.choice;const chosen=active.config.options.find(o=>o.value===active.choice);const caption=active.config.trigger.querySelector('span');if(caption&&chosen)caption.textContent=chosen.label;active.config.select.dispatchEvent(new Event('change',{bubbles:true}));document.getElementById(active.config.id)?.focus({preventScroll:true})}
  }
 },true);

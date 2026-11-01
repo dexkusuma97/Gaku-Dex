@@ -1328,3 +1328,8 @@ Paket kumulatif mencakup 1–23. Pemasang memeriksa hash, mencadangkan dan memul
 ## 1 November 2026 — Batch 28: Riwayat, filter dan hapus
 
 Menu Riwayat diperbarui dengan ringkasan, filter jenis/level, tanggal, hasil/progres dan pemuatan bertahap. Hapus satu atau semua dengan konfirmasi dan Batal; data belajar/favorit/kosakata tidak dihapus. Pencatatan bersama lintas modul, deduplikasi per percobaan, level eksplisit untuk aktivitas baru dan kompatibilitas data lama tanpa menebak level. Kapasitas baru 200 aktivitas terbaru. 52 berkas tes lulus dan pratinjau browser 390 piksel diperiksa menggunakan fixture. Belum Android fisik. Rincian: data/HISTORY_REVIEW_20261101.md. Paket kumulatif 1–27.
+
+
+## 1 November 2026 — Batch 29: Tambah Kotoba/Kanji dan dialog pilihan
+
+Tambah, edit, hapus, cari dan filter data buatan pengguna N5/N4. Bacaan Kanji opsional; contoh, pengingat, radikal dan guratan opsional. Duplikat dicegah, data lama dipertahankan, konfirmasi hapus bertema aplikasi. Filter jenis/level Riwayat dan pilihan Tambah Data memakai dialog aplikasi. 53 berkas tes dan browser 390px diperiksa. Rincian: data/CUSTOM_DATA_REVIEW_20261101.md. Kumulatif 1–28.

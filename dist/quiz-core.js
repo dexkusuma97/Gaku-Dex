@@ -28,7 +28,7 @@ function quizSubKey(e){return e.category+'::'+e.subcategory}
 function quizKotobaLevel(){return typeof prefs!=='undefined'?prefs.level:'N5'}
 function quizKotobaData(){return typeof kotobaBaseEntries==='function'?kotobaBaseEntries(quizKotobaLevel()):KOTOBA_DATA}
 function quizKotobaCategories(){return typeof kotobaCategories==='function'?kotobaCategories(quizKotobaLevel()):KOTOBA_CATEGORIES}
-function quizKanjiData(){return typeof kanjiEntries==='function'?kanjiEntries(quizKotobaLevel()).filter(k=>k.level!=='N4'||k.scope==='a2'):KANJI_DATA}
+function quizKanjiData(){return typeof kanjiEntries==='function'?kanjiEntries(quizKotobaLevel()).filter(k=>k.source.id!=='custom'&&(k.level!=='N4'||k.scope==='a2')):KANJI_DATA}
 function quizKanjiCategories(){return typeof kanjiCategories==='function'?kanjiCategories(quizKotobaLevel()):KANJI_CATEGORIES}
 function quizCategories(type){if(type==='kanji')return quizKanjiCategories().map(c=>({...c,count:quizKanjiData().filter(e=>e.category===c.id).length}));if(type==='kotoba')return quizKotobaCategories().map(c=>({...c,count:quizKotobaData().filter(e=>e.category===c.id).length}));return quizBunpoCategories().map(c=>({...c,count:quizBunpoSubs().filter(s=>s.category===c.id).length}))}
 function quizSubs(type,categories){if(type==='bunpo')return quizBunpoSubs().filter(s=>categories.includes(s.category)).map(s=>({id:s.id,name:s.name,category:s.category,count:60}));return quizKotobaCategories().filter(c=>categories.includes(c.id)).flatMap(c=>c.subcategories.map(name=>({id:c.id+'::'+name,name,category:c.id,count:quizKotobaData().filter(e=>e.category===c.id&&e.subcategory===name).length}))).filter(s=>s.count>0)}
