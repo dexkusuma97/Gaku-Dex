@@ -1338,3 +1338,8 @@ Tambah, edit, hapus, cari dan filter data buatan pengguna N5/N4. Bacaan Kanji op
 ## 2 November 2026 — Batch 30: Irodori Dasar 1 dan 2 (A2)
 
 Tambah dua buku bahasa Indonesia ke Rangkuman > Buku: 424 + 517 halaman, 36 pilihan awal bab. Sumber The Japan Foundation; tautan PDF gabungan kiriman pengguna. Lazy reader lokal, posisi terpisah per buku dan zoom area buku tetap tersedia. Tidak menambah audio Irodori atau menulis ulang materi. 54 berkas tes, pemasang dan browser 390px diperiksa. Rincian: data/IRODORI_BOOKS_REVIEW_20261102.md. Kumulatif 1–29.
+
+
+## 2 November 2026 — Batch 32: Import–Export Kotoba/Kanji pribadi
+
+Ekspor JSON dengan filter jenis/level, impor berpratinjau, cek duplikat/format, Batal dan hasil per jenis. Hanya data baru valid ditambahkan; data lama tetap dipertahankan. Jurnal pemulihan menjaga konsistensi dua daftar saat penyimpanan terhenti. 55 berkas tes dan browser diperiksa. Uji audio ditunda; paket tambahan membutuhkan Paket 30. Rincian: data/IMPORT_EXPORT_REVIEW_20261102.md.
