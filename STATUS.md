@@ -1358,3 +1358,11 @@ Delapan paket, 548 butir baru: N4 4×87 dan JFT sasaran A2 4×50. Pilihan level 
 ## 2 November 2026 — Batch 35: Enam ilustrasi situasi dan klik nomor soal
 
 Enam ilustrasi asli 1536×1024 untuk situasi N4 yang terbantu gambar; 14 situasi lain tetap berupa caption. Peta nomor soal pada popup kini memanggil fungsi modul yang benar, menutup popup dan membuka nomor terpilih tanpa mereset jawaban, tanda atau timer. Batas bagian dan mode menyimak JFT maju tetap berlaku. 58 berkas tes lulus; klik popup dan ilustrasi diperiksa di browser 390px. Paket ini menggabungkan isi Paket 34 sehingga dapat dipasang setelah Paket 33 atau 34. Rincian: data/SIMULATION_VISUAL_NAV_REVIEW_20261102.md.
+
+
+## Paket 36 — Quiz (2026-11-02)
+- Jeda jawaban 1,5 detik; waktu sesi berhenti selama jeda.
+- Kana, Kanji, Kotoba: pilihan hingga 25 soal dan Semua materi terpilih tanpa pengulangan.
+- Kana: mode Kana → Romaji dan Romaji → Kana untuk Hiragana/Katakana.
+- Sesi Semua lebih dari 40 soal dapat dipulihkan setelah reload.
+- Bunpo tetap 5/10, Campuran tetap 40; aturan waktu/nyawa tetap.

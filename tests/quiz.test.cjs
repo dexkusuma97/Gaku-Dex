@@ -15,10 +15,10 @@ console.time('mixed deck');const mixed=c.quizMakeDeck({type:'mixed'});console.ti
 console.log('PASS: 2580 bank questions, 43×4×15 coverage, unique valid answers, Kana selection, stable 15-word pages with >=5 filter, multi-page pools, four Kanji directions/both readings, Bunpo 5–10 and 40 balanced mixed questions');
 
 for(const script of ['Hiragana','Katakana']){const packs=c.quizKanaPacks(script);assert.equal(packs.length,26);const ids=packs.flatMap(p=>p.ids);assert.equal(ids.length,104);assert.equal(new Set(ids).size,104);assert.equal(packs.filter(p=>p.group==='Seion').length,10);const last=packs.filter(p=>p.group==='Seion').at(-1);assert.equal(last.label,'WA · WO · N');assert.equal(last.ids.length,3);assert.equal(last.kana,script==='Hiragana'?'わ を ん':'ワ ヲ ン');assert.equal(packs.filter(p=>p.group==='Yoon').length,11);assert.ok(packs.filter(p=>p.group==='Yoon').every(p=>p.ids.length===3));}
-for(const [available,limit] of [[5,5],[6,10],[7,10],[10,10],[11,15],[15,15],[16,20],[20,20],[30,20]]){assert.equal(c.quizCountLimit('kana',available),limit);assert.deepEqual(Array.from(c.quizCountChoices('kana',available)),[5,10,15,20].filter(n=>n<=limit));}
+for(const [available,limit] of [[5,5],[6,10],[7,10],[10,10],[11,15],[15,15],[16,20],[20,20],[30,25]]){assert.equal(c.quizCountLimit('kana',available),limit);assert.deepEqual(Array.from(c.quizCountChoices('kana',available)),[5,10,15,20,25].filter(n=>n<=limit));}
 assert.deepEqual(Array.from(c.quizCountChoices('bunpo',200)),[5,10]);assert.equal(c.quizCountLimit('bunpo',7),10);assert.equal(c.quizActualCount('kana',10,7),7);assert.equal(c.quizActualCount('kanji',15,11),11);assert.equal(c.quizActualCount('mixed',20,2),40);assert.equal(c.quizRequestedCount('kana',100,7),10);assert.equal(c.quizRequestedCount('bunpo',20,60),10);
 const seven=kp.slice(0,7);assert.equal(c.quizMakeDeck({...kana,count:10},seven).length,7);assert.equal(new Set(c.quizMakeDeck({...kana,count:10},seven).map(q=>q.id)).size,7);assert.equal(c.quizMakeDeck({...kana,count:15},seven).length,0);assert.equal(c.quizMakeDeck({...kana,count:10},kp.slice(0,4)).length,0);
-console.log('PASS: 26 whole-row packs/script, 104 unique kana, WA-WO-N merge, rounded 5/10/15/20 caps, actual 7/11 totals, no repeat padding and Bunpo cap 10');
+console.log('PASS: 26 whole-row packs/script, 104 unique kana, WA-WO-N merge, rounded 5/10/15/20/25 caps, actual 7/11 totals, no repeat padding and Bunpo cap 10');
 
 const elevenConfig={...kana,letters:hir.slice(0,11).map(q=>q.id),count:15};assert.equal(c.quizMakeDeck(elevenConfig,c.quizPool(elevenConfig)).length,11);
 c.esc=s=>String(s);c.window={addEventListener(){}};c.localStorage={getItem(){return null}};vm.runInContext(fs.readFileSync('dist/quiz-ui.js','utf8'),c);c.configForUI={...kana,letters:hir.slice(0,7).map(q=>q.id),count:10};vm.runInContext("quizState={view:'confirm',config:configForUI};quizPoolCache=[]",c);const confirm=c.quizConfirmScreen();assert.ok(confirm.includes('Mulai 7 soal →'));assert.ok(confirm.includes('batas pilihan 10 soal'));assert.ok(confirm.includes('Semua <b>7 materi</b>'));assert.ok(!confirm.includes('>15</button>'));assert.ok(/aria-label="Tambah 5 soal"[^>]*disabled/.test(confirm));
@@ -32,3 +32,24 @@ assert.equal(c.quizOptionLabel({type:'kotoba',mode:'id-jp'},sister.jp),c.quizWor
 vm.runInContext("quizState={view:'letters',config:quizDefaultConfig()}",c);let accordion=c.quizLettersScreen();assert.equal((accordion.match(/<details class="quiz-kana-group/g)||[]).length,4);assert.ok(!accordion.includes('quiz-kana-disclosure" open'));
 c.quizKanaDisclosure('Seion',true);accordion=c.quizLettersScreen();assert.ok(accordion.includes('quiz-kana-disclosure" open'));c.quizKanaDisclosure('Seion',false);assert.ok(!c.quizLettersScreen().includes('quiz-kana-disclosure" open'));
 console.log('PASS: kana group accordions and kotoba kana in both directions, shuffled answers, mixed and stored sessions');
+
+// All uses the selected pool, including non-multiples of five, without repeats.
+for(const type of ['kana','kanji','kotoba']){
+ const pool=type==='kana'?kp:type==='kanji'?c.quizPool({...k,mode:'kanji-meaning'}):wp;
+ for(const size of [7,30,41]){
+  const selected=pool.length>=size?pool.slice(0,size):Array.from({length:size},(_,i)=>({...pool[i%pool.length],id:type+'-test-'+i,sourceId:type+'-test-'+i}));
+  const deck=c.quizMakeDeck({type,count:'all'},selected);
+  assert.equal(deck.length,size);assert.equal(new Set(deck.map(q=>q.sourceId)).size,size);
+ }
+ assert.equal(c.quizRequestedCount(type,'all',31),'all');assert.equal(c.quizActualCount(type,'all',31),31);
+ assert.equal(c.quizMakeDeck({type,count:25},Array.from({length:30},(_,i)=>({...pool[i%pool.length],id:'test-'+i}))).length,25);
+}
+assert.equal(c.quizMakeDeck({type:'bunpo',count:'all'},bp).length,0);
+for(const script of ['Hiragana','Katakana'])for(const mode of ['kana-romaji','romaji-kana']){
+ const items=c.quizKanaItems(script),cfg={...c.quizDefaultConfig(),script,mode,letters:items.map(e=>e.id),count:'all'};
+ const pool=c.quizPool(cfg);assert.equal(pool.length,104);assert.equal(c.quizMakeDeck(cfg,pool).length,104);
+ for(const q of pool){const item=items.find(e=>e.id===q.sourceId);assert.equal(q.mode,mode);assert.equal(q.display,mode==='romaji-kana'?item.romaji:item.char);assert.equal(q.options[q.answer],mode==='romaji-kana'?item.char:item.romaji);assert.equal(new Set(q.options).size,4);assert.ok(q.explanation.includes(item.romaji));}
+}
+c.configForUI={...kana,letters:hir.map(x=>x.id),mode:'romaji-kana',count:'all'};vm.runInContext("quizState={view:'confirm',config:configForUI};quizPoolCache=[]",c);
+const allHTML=c.quizConfirmScreen();assert.ok(allHTML.includes('Romaji → Kana'));assert.ok(allHTML.includes('Semua (104)'));assert.ok(allHTML.includes('Mulai 104 soal'));assert.ok(allHTML.includes('1,5 detik'));assert.ok(!allHTML.includes('quizSetCount(all5)'));
+console.log('PASS: selected All pools, 25 counts, both kana directions/scripts, full 104 kana and unchanged Bunpo limits');
