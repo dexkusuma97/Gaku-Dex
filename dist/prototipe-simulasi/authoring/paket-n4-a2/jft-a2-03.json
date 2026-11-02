@@ -1,0 +1,798 @@
+{
+  "id": "jft-a2-03",
+  "exam": "jft",
+  "number": 3,
+  "title": "Tinggal di lingkungan baru",
+  "level": "A2",
+  "status": "draft",
+  "questions": [
+    {
+      "id": "jft-a2-p03-001",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「回覧板」は 主に 何を するものですか。",
+      "options": [
+        "近所の お知らせを 順番に 回す。",
+        "乗り物の 切符を 買う。",
+        "服の サイズを 測る。",
+        "食事を 温める。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p03-002",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「防災」の 活動では 何に 備えますか。",
+      "options": [
+        "商品の 売り切れだけ。",
+        "地震や 火事など。",
+        "旅行の お土産だけ。",
+        "学校の 試験だけ。"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p03-003",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「延期」に なった 清掃活動は どう なりましたか。",
+      "options": [
+        "もう 絶対に 行わない。",
+        "参加費が 上がった。",
+        "今すぐ 始まった。",
+        "行う 日が 後に なった。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p03-004",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "困った ときは 一人で 悩まず、窓口で（　）ください。",
+      "options": [
+        "相談して",
+        "欠席して",
+        "注射して",
+        "出発して"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p03-005",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "町の 活動に 初めて（　）します。",
+      "options": [
+        "参加",
+        "発車",
+        "注文",
+        "入院"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p03-006",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "足音で 下の 部屋に（　）を かけないように します。",
+      "options": [
+        "迷惑",
+        "貯金",
+        "予定",
+        "遠足"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p03-007",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "災害の ときの 集合場所を 地図で（　）おきます。",
+      "options": [
+        "焼いて",
+        "切って",
+        "沸かして",
+        "確認して"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p03-008",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "町の<u>行事</u>に 参加します。",
+      "options": [
+        "きょうし",
+        "ぎょうじ",
+        "ぎょじ",
+        "こうじ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p03-009",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "近所の 人に<u>挨拶</u>します。",
+      "options": [
+        "あいざつ",
+        "あいせつ",
+        "あさつ",
+        "あいさつ"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p03-010",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "紙を<u>資源</u>として 分けます。",
+      "options": [
+        "しけん",
+        "しげい",
+        "しげん",
+        "じげん"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p03-011",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「避難場所」は どんな 場所ですか。",
+      "options": [
+        "荷物を 配達する 場所。",
+        "病気を 検査するだけの 場所。",
+        "ごみを 売る 場所。",
+        "危険から 逃げて 集まる 場所。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p03-012",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「申込不要」の 行事に 参加したいです。",
+      "options": [
+        "申込書を 二枚 書く。",
+        "前もって 申し込まなくても よい。",
+        "参加しては いけない。",
+        "必ず 電話を する。"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p03-013",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「順番に」の 指示に 合うのは どれですか。",
+      "options": [
+        "好きな 人を 抜かして する。",
+        "全員が 同時に 押す。",
+        "前の 人が 終わってから 次の 人が する。",
+        "最後の 人だけが する。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p03-014",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "住民:町内会の 会議に（　）ことが あります。",
+      "options": [
+        "参加し",
+        "参加して",
+        "参加した",
+        "参加します"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p03-015",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "係:明日は 雨でも 清掃を（　）予定です。",
+      "options": [
+        "し",
+        "する",
+        "したの",
+        "して"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p03-016",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "住民:日本語が 少し 話せる（　）なりました。",
+      "options": [
+        "そうで",
+        "ように",
+        "ために",
+        "ことを"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p03-017",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "係:申し込む（　）、名前と 住所を 書いてください。",
+      "options": [
+        "ときは",
+        "ための",
+        "ながら",
+        "ことに"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p03-018",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "住民:友達に 場所を 教えて（　）ので、迷わず 来られました。",
+      "options": [
+        "もらった",
+        "くれた",
+        "やった",
+        "あげた"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p03-019",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "係:雨の 場合は 会場が（　）かもしれません。",
+      "options": [
+        "変わります",
+        "変わって",
+        "変わり",
+        "変わる"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p03-020",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "回覧板を 次の 家へ 渡します。",
+      "options": [
+        "回覧板の 用紙を 追加していただけますか。",
+        "今月の 会費を 払いに 来ました。",
+        "お知らせを 読みましたので、お持ちしました。",
+        "まだ 読んでいないので、しばらく お借りします。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p03-021",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "地域の 会に 参加したいですが、初めてです。",
+      "options": [
+        "今日は 都合が 悪いので、欠席します。",
+        "参加者が 初めて 来るので、私が 受付を します。",
+        "前の 会は 何時に 終わりましたか。",
+        "初めてですが、参加しても よろしいですか。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p03-022",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "清掃の 集合場所が 分かりません。",
+      "options": [
+        "清掃の 費用は いくらですか。",
+        "何人ぐらい 参加しますか。",
+        "どこに 集まれば いいですか。",
+        "清掃の 道具は どこで 買えますか。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p03-023",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "近所の 人から 果物を もらいました。",
+      "options": [
+        "この 果物は どのお店で 売っていますか。",
+        "ありがとうございます。家族で いただきます。",
+        "果物を 持ってきてほしいのですが。",
+        "こちらの 果物を 召し上がってください。"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p03-024",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "行事の 係を 頼まれましたが、その 日は 仕事です。",
+      "options": [
+        "係の 人を 探しているのですが。",
+        "来週の 当番を 私に 代わっていただけますか。",
+        "その日は 休みなので、手伝えます。",
+        "すみません。その日は 仕事で 手伝えません。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p03-025",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "避難訓練の 説明を 確認します。",
+      "options": [
+        "地震の ときは、まず ここに 集まるんですね。",
+        "この 会場の 予約を 取り消したいです。",
+        "訓練は 去年も 同じ 日でしたか。",
+        "雨の ときは どこに 集まりますか。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p03-026",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "自分で 持っていくのは 何ですか。",
+      "options": [
+        "袋。",
+        "ほうき。",
+        "大きな ごみ箱。",
+        "軍手。"
+      ],
+      "answer": 3,
+      "audio": "女:清掃の日は何を持っていきますか。\n男:袋は会で用意するので、軍手だけお願いします。道具も借りられます。\nNarrator: 自分で 持っていくのは 何ですか。",
+      "transcript": "女:清掃の日は何を持っていきますか。\n男:袋は会で用意するので、軍手だけお願いします。道具も借りられます。\nNarrator: 自分で 持っていくのは 何ですか。"
+    },
+    {
+      "id": "jft-a2-p03-027",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "次に 渡す 家は どこですか。",
+      "options": [
+        "白い 家。",
+        "自分の 家。",
+        "公民館。",
+        "青い 屋根の 家。"
+      ],
+      "answer": 3,
+      "audio": "男:回覧板、次はどのお宅ですか。\n女:角の青い屋根の家です。白い家はその次です。\nNarrator: 次に 渡す 家は どこですか。",
+      "transcript": "男:回覧板、次はどのお宅ですか。\n女:角の青い屋根の家です。白い家はその次です。\nNarrator: 次に 渡す 家は どこですか。"
+    },
+    {
+      "id": "jft-a2-p03-028",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は 何曜日を 選びますか。",
+      "options": [
+        "水曜日。",
+        "金曜日。",
+        "土曜日。",
+        "日曜日。"
+      ],
+      "answer": 2,
+      "audio": "女:町の日本語教室に行きたいんですが。\n男:水曜と土曜があります。土曜は子どもを預かってくれますよ。\n女:子どもがいるので、土曜にします。\nNarrator: 女の人は 何曜日を 選びますか。",
+      "transcript": "女:町の日本語教室に行きたいんですが。\n男:水曜と土曜があります。土曜は子どもを預かってくれますよ。\n女:子どもがいるので、土曜にします。\nNarrator: 女の人は 何曜日を 選びますか。"
+    },
+    {
+      "id": "jft-a2-p03-029",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は いつ 会費を 渡しますか。",
+      "options": [
+        "明日の 会で。",
+        "今すぐ 隣人に。",
+        "来月の 初め。",
+        "今日 受付で。"
+      ],
+      "answer": 0,
+      "audio": "男:町内会費、今日持ってきたよ。\n女:今日は担当の方がお休みだから、明日の会で渡してもらえる。\nNarrator: 男の人は いつ 会費を 渡しますか。",
+      "transcript": "男:町内会費、今日持ってきたよ。\n女:今日は担当の方がお休みだから、明日の会で渡してもらえる。\nNarrator: 男の人は いつ 会費を 渡しますか。"
+    },
+    {
+      "id": "jft-a2-p03-030",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は どうやって 訓練へ 行きますか。",
+      "options": [
+        "家で 待っている。",
+        "訓練には 参加しない。",
+        "一人で 直接 行く。",
+        "駅前で 会って 一緒に 行く。"
+      ],
+      "answer": 3,
+      "audio": "女:防災訓練、一人で行くのは不安です。\n男:では、駅前で会って一緒に行きましょう。九時でいいですか。\n女:お願いします。\nNarrator: 女の人は どうやって 訓練へ 行きますか。",
+      "transcript": "女:防災訓練、一人で行くのは不安です。\n男:では、駅前で会って一緒に行きましょう。九時でいいですか。\n女:お願いします。\nNarrator: 女の人は どうやって 訓練へ 行きますか。"
+    },
+    {
+      "id": "jft-a2-p03-031",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は 最初に 何を しますか。",
+      "options": [
+        "住所を 電話で 伝える。",
+        "申込書を 書く。",
+        "二番窓口に 並ぶ。",
+        "番号札を 取る。"
+      ],
+      "answer": 1,
+      "audio": "男:市役所で住所を変えたいんですが。\n女:二番窓口です。先にこの申込書を書いてから、番号札を取ってください。\nNarrator: 男の人は 最初に 何を しますか。",
+      "transcript": "男:市役所で住所を変えたいんですが。\n女:二番窓口です。先にこの申込書を書いてから、番号札を取ってください。\nNarrator: 男の人は 最初に 何を しますか。"
+    },
+    {
+      "id": "jft-a2-p03-032",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "受け取ってもらえるのは どれですか。",
+      "options": [
+        "新聞だけ。",
+        "どんな 雑誌でも。",
+        "汚れが 少ない 本。",
+        "破れた 本だけ。"
+      ],
+      "answer": 2,
+      "audio": "女:この本を寄付できますか。\n男:汚れが少ない本なら受け取ります。ただ、雑誌は対象ではありません。\nNarrator: 受け取ってもらえるのは どれですか。",
+      "transcript": "女:この本を寄付できますか。\n男:汚れが少ない本なら受け取ります。ただ、雑誌は対象ではありません。\nNarrator: 受け取ってもらえるのは どれですか。"
+    },
+    {
+      "id": "jft-a2-p03-033",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "探している 手袋は 見つかりましたか。",
+      "options": [
+        "いいえ、別の 色しか ありません。",
+        "はい、赤い 手袋が ありました。",
+        "はい、本人が 既に 持っていました。",
+        "まだ 色を 確認していません。"
+      ],
+      "answer": 0,
+      "audio": "男:忘れ物を探しています。赤い手袋です。\n女:赤い物はありませんが、茶色ならあります。\n男:では、私のではないですね。\nNarrator: 探している 手袋は 見つかりましたか。",
+      "transcript": "男:忘れ物を探しています。赤い手袋です。\n女:赤い物はありませんが、茶色ならあります。\n男:では、私のではないですね。\nNarrator: 探している 手袋は 見つかりましたか。"
+    },
+    {
+      "id": "jft-a2-p03-034",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は 何を 手伝いますか。",
+      "options": [
+        "受付。",
+        "料理の 販売。",
+        "通訳。",
+        "片付け。"
+      ],
+      "answer": 3,
+      "audio": "女:イベントのボランティアをしたいです。\n男:受付はもう十分います。片付けの係なら募集しています。\n女:では、そちらを手伝います。\nNarrator: 女の人は 何を 手伝いますか。",
+      "transcript": "女:イベントのボランティアをしたいです。\n男:受付はもう十分います。片付けの係なら募集しています。\n女:では、そちらを手伝います。\nNarrator: 女の人は 何を 手伝いますか。"
+    },
+    {
+      "id": "jft-a2-p03-035",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "今週の 交流会は どこで 行いますか。",
+      "options": [
+        "駅の 前。",
+        "公民館。",
+        "学校の 体育館。",
+        "図書館の 会議室。"
+      ],
+      "answer": 3,
+      "audio": "Narrator:交流会は、公民館の修理のため、今週だけ図書館の会議室で行います。時間はいつもどおり午後一時です。\nNarrator: 今週の 交流会は どこで 行いますか。",
+      "transcript": "Narrator:交流会は、公民館の修理のため、今週だけ図書館の会議室で行います。時間はいつもどおり午後一時です。\nNarrator: 今週の 交流会は どこで 行いますか。"
+    },
+    {
+      "id": "jft-a2-p03-036",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "参加者は 今日 どうしますか。",
+      "options": [
+        "公民館で 清掃する。",
+        "公園で 清掃する。",
+        "雨が やむまで 公園で 待つ。",
+        "集合場所へ 行かない。"
+      ],
+      "answer": 3,
+      "audio": "Narrator:公園の清掃に参加する皆様へ。雨が強くなったため、本日の清掃は来週に延期します。今日は集合場所へ来ないでください。\nNarrator: 参加者は 今日 どうしますか。",
+      "transcript": "Narrator:公園の清掃に参加する皆様へ。雨が強くなったため、本日の清掃は来週に延期します。今日は集合場所へ来ないでください。\nNarrator: 参加者は 今日 どうしますか。"
+    },
+    {
+      "id": "jft-a2-p03-037",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "揺れている 間、まず 何を しますか。",
+      "options": [
+        "エレベーターに 乗る。",
+        "窓の そばへ 行く。",
+        "頭を 守る。",
+        "すぐ 外へ 走る。"
+      ],
+      "answer": 2,
+      "audio": "Narrator:地震を感じたら、まず机の下などで頭を守ってください。揺れが収まってから、係の指示で外へ出てください。\nNarrator: 揺れている 間、まず 何を しますか。",
+      "transcript": "Narrator:地震を感じたら、まず机の下などで頭を守ってください。揺れが収まってから、係の指示で外へ出てください。\nNarrator: 揺れている 間、まず 何を しますか。"
+    },
+    {
+      "id": "jft-a2-p03-038",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "紙は どのように 出しますか。",
+      "options": [
+        "袋の まま 置く。",
+        "缶の 箱に 入れる。",
+        "ひもで 結ぶ。",
+        "水で 濡らす。"
+      ],
+      "answer": 2,
+      "audio": "Narrator:資源回収は午前八時から九時までです。紙はひもで結び、びんと缶は種類別の箱に入れてください。袋のまま置かないでください。\nNarrator: 紙は どのように 出しますか。",
+      "transcript": "Narrator:資源回収は午前八時から九時までです。紙はひもで結び、びんと缶は種類別の箱に入れてください。袋のまま置かないでください。\nNarrator: 紙は どのように 出しますか。"
+    },
+    {
+      "id": "jft-a2-p03-039",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "前回と 変わったのは 何ですか。",
+      "options": [
+        "集合場所。",
+        "清掃する 場所。",
+        "主催する 会。",
+        "連絡する 相手。"
+      ],
+      "answer": 1,
+      "passage": "町内会より\n来週の清掃は、前回と違い川沿いで行います。小さい子どもがいる方は、公園側の歩道を担当してください。集合はいつもの公民館です。雨天の場合は前日に連絡します。"
+    },
+    {
+      "id": "jft-a2-p03-040",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "子ども連れの 人は どこを 担当しますか。",
+      "options": [
+        "車道の 中央。",
+        "川の 中。",
+        "公民館の 屋根。",
+        "公園側の 歩道。"
+      ],
+      "answer": 3,
+      "passage": "町内会より\n来週の清掃は、前回と違い川沿いで行います。小さい子どもがいる方は、公園側の歩道を担当してください。集合はいつもの公民館です。雨天の場合は前日に連絡します。"
+    },
+    {
+      "id": "jft-a2-p03-041",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "参加できない 人も 何を しますか。",
+      "options": [
+        "必ず 仕事を 休む。",
+        "案内を 大家に 返す。",
+        "避難の 案内を 読む。",
+        "部屋から 引っ越す。"
+      ],
+      "answer": 2,
+      "passage": "大家：明日は建物の防災訓練です。参加できない方も、部屋に置いてある避難の案内を読んでおいてください。読んで分からないことがあれば、いつでも私に聞いてください。"
+    },
+    {
+      "id": "jft-a2-p03-042",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "分からない ことは 誰に 聞けますか。",
+      "options": [
+        "配達員だけ。",
+        "誰にも 聞けない。",
+        "隣の 店の 客。",
+        "大家。"
+      ],
+      "answer": 3,
+      "passage": "大家：明日は建物の防災訓練です。参加できない方も、部屋に置いてある避難の案内を読んでおいてください。読んで分からないことがあれば、いつでも私に聞いてください。"
+    },
+    {
+      "id": "jft-a2-p03-043",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "料理を 作る 人が 申し込む 必要が ある 理由は 何ですか。",
+      "options": [
+        "見学者の 席が ないため。",
+        "全員 同じ 服を 着るため。",
+        "日本語の 試験を 受けるため。",
+        "材料を 用意するため。"
+      ],
+      "answer": 3,
+      "passage": "友人から\n日本語教室の交流会に申し込んだよ。見学だけなら予約なしでも入れるけど、料理を作る人は材料が必要だから申し込みがいるんだって。私は料理のほうにしたよ。"
+    },
+    {
+      "id": "jft-a2-p03-044",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "書いた 人は 何に 申し込みましたか。",
+      "options": [
+        "会場の 清掃だけ。",
+        "料理を 作る 活動。",
+        "見学だけ。",
+        "語学の 試験。"
+      ],
+      "answer": 1,
+      "passage": "友人から\n日本語教室の交流会に申し込んだよ。見学だけなら予約なしでも入れるけど、料理を作る人は材料が必要だから申し込みがいるんだって。私は料理のほうにしたよ。"
+    },
+    {
+      "id": "jft-a2-p03-045",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "土曜日、予約なしで 参加できるのは どれですか。",
+      "options": [
+        "防災講座。",
+        "日本語相談。",
+        "料理教室。",
+        "体操教室。"
+      ],
+      "answer": 0,
+      "passage": "公民館の講座\n防災講座：土曜10時／無料／予約不要\n料理教室：日曜11時／材料費600円／木曜まで申込\n体操教室：水曜14時／無料／初回のみ申込\n日本語相談：金曜18時／無料／毎回申込"
+    },
+    {
+      "id": "jft-a2-p03-046",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "毎回 申し込む 必要が あるのは どれですか。",
+      "options": [
+        "防災講座。",
+        "無料の 講座 全て。",
+        "日本語相談。",
+        "体操教室。"
+      ],
+      "answer": 2,
+      "passage": "公民館の講座\n防災講座：土曜10時／無料／予約不要\n料理教室：日曜11時／材料費600円／木曜まで申込\n体操教室：水曜14時／無料／初回のみ申込\n日本語相談：金曜18時／無料／毎回申込"
+    },
+    {
+      "id": "jft-a2-p03-047",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "段ボールは どうしますか。",
+      "options": [
+        "開いて 平らに する。",
+        "ふたを 付けたまま 缶の 箱へ 入れる。",
+        "水に 浮かべる。",
+        "開かず そのまま 積む。"
+      ],
+      "answer": 0,
+      "passage": "資源の分け方\n新聞：ひもで結ぶ\n段ボール：開いて平らにする\nびん：ふたを外してすすぐ\n缶：すすいで専用箱へ\n汚れた紙は資源回収に出せません。"
+    },
+    {
+      "id": "jft-a2-p03-048",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "資源回収に 出せないのは どれですか。",
+      "options": [
+        "ひもで 結んだ 新聞。",
+        "すすいだ 缶。",
+        "汚れた 紙。",
+        "平らに した 段ボール。"
+      ],
+      "answer": 2,
+      "passage": "資源の分け方\n新聞：ひもで結ぶ\n段ボール：開いて平らにする\nびん：ふたを外してすすぐ\n缶：すすいで専用箱へ\n汚れた紙は資源回収に出せません。"
+    },
+    {
+      "id": "jft-a2-p03-049",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "住まいの 相談を 予約なしで できる 日は どれですか。",
+      "options": [
+        "火曜日。",
+        "金曜日。",
+        "水曜日。",
+        "月曜日。"
+      ],
+      "answer": 0,
+      "passage": "生活相談窓口\n月・水：仕事の相談／予約が必要\n火・木：住まいの相談／当日受付可\n金：通訳付き相談／三日前までに予約\n全て10時〜16時。相談料は無料。"
+    },
+    {
+      "id": "jft-a2-p03-050",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "金曜日に 通訳を 頼みたい 場合、いつまでに 予約しますか。",
+      "options": [
+        "木曜日の 夜まで。",
+        "火曜日まで。",
+        "金曜日の 十六時まで。",
+        "金曜日の 朝まで。"
+      ],
+      "answer": 1,
+      "passage": "生活相談窓口\n月・水：仕事の相談／予約が必要\n火・木：住まいの相談／当日受付可\n金：通訳付き相談／三日前までに予約\n全て10時〜16時。相談料は無料。"
+    }
+  ]
+}

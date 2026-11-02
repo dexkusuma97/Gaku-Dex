@@ -1,0 +1,798 @@
+{
+  "id": "jft-a2-04",
+  "exam": "jft",
+  "number": 4,
+  "title": "Kegiatan dan bantuan",
+  "level": "A2",
+  "status": "draft",
+  "questions": [
+    {
+      "id": "jft-a2-p04-001",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "店に「取り置き」を 頼みました。何を 頼みましたか。",
+      "options": [
+        "買った 商品を すぐ 捨てること。",
+        "商品を 無料に すること。",
+        "後で 買う 商品を 残しておくこと。",
+        "店を 閉めること。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p04-002",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "申込書の「連絡先」には 何を 書きますか。",
+      "options": [
+        "連絡が 取れる 電話番号など。",
+        "好きな 色だけ。",
+        "昨日の 食事だけ。",
+        "商品の 値段だけ。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-003",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "予約の「取り消し」を しました。どう なりましたか。",
+      "options": [
+        "日時を 早くしただけ。",
+        "予約が 二つに 増えた。",
+        "料金を 必ず 払い終えた。",
+        "その 予約を やめた。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p04-004",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "別の サイズに（　）してもらえますか。",
+      "options": [
+        "交換",
+        "相談",
+        "見学",
+        "出勤"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-005",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "道が 分からないので、地図を 見ながら（　）します。",
+      "options": [
+        "開店",
+        "移動",
+        "入院",
+        "配達済み"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p04-006",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "食べられない 物が あるので、予約の ときに 店へ（　）おきます。",
+      "options": [
+        "落ちて",
+        "飛んで",
+        "伝えて",
+        "積んで"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p04-007",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "忘れ物を したので、店に 電話で（　）ます。",
+      "options": [
+        "着替え",
+        "立ち読みし",
+        "問い合わせ",
+        "付き合い"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p04-008",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "こちらで<u>会計</u>を お願いします。",
+      "options": [
+        "かけい",
+        "かいげい",
+        "かいけ",
+        "かいけい"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p04-009",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "列車の<u>到着</u>が 遅れています。",
+      "options": [
+        "とうじゃく",
+        "どうちゃく",
+        "とちゃく",
+        "とうちゃく"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p04-010",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "予約の<u>変更</u>を お願いします。",
+      "options": [
+        "へんごう",
+        "へんこう",
+        "へこう",
+        "べんこう"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p04-011",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「満席」の レストランは 今 どうですか。",
+      "options": [
+        "空いている 席が ない。",
+        "食事が 全て 無料だ。",
+        "客が 一人も いない。",
+        "必ず 閉店している。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-012",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「持ち帰り」で 注文すると、どこで 食べますか。",
+      "options": [
+        "料理を 店員に 返す。",
+        "食べずに 店で 保管する。",
+        "店の 外へ 持っていって 食べる。",
+        "必ず 店内の 席で 食べる。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p04-013",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「往復」の 切符で できるのは どれですか。",
+      "options": [
+        "行きと 帰りの 両方に 乗る。",
+        "帰りだけ 乗る。",
+        "行きだけ 乗る。",
+        "何回でも 一か月 乗る。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-014",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "客:友達が 遅れるので、予約を 三十分（　）たいです。",
+      "options": [
+        "遅らせる",
+        "遅らせて",
+        "遅らせ",
+        "遅れて"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p04-015",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "客:食べられない 物が あるので、先に（　）おきます。",
+      "options": [
+        "伝えて",
+        "伝える",
+        "伝えた",
+        "伝え"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-016",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "店員:料理が できる（　）、こちらで お待ちください。",
+      "options": [
+        "まで",
+        "までに",
+        "だけに",
+        "ほどに"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-017",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "客:別々に（　）ことは できますか。",
+      "options": [
+        "払って",
+        "払ったの",
+        "払い",
+        "払う"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p04-018",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "客:道に 迷って（　）ので、今いる 場所を 説明します。",
+      "options": [
+        "おいた",
+        "みえた",
+        "しまった",
+        "あった"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p04-019",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "客:この 商品は 一度（　）から、買うか 決めたいです。",
+      "options": [
+        "使ってみて",
+        "使いみて",
+        "使ったみて",
+        "使うみて"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-020",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "席を 予約した 店に 着きました。",
+      "options": [
+        "六時に 予約した チャンです。",
+        "六時に 予約できますか。今は 予約していません。",
+        "六時の 予約を 明日に 変更したいです。",
+        "予約した 客を 待っている 店員です。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-021",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "注文したものと 違う 料理が 来ました。",
+      "options": [
+        "すみません、頼んだものと 違うようです。",
+        "こちらの 料理を 持ち帰りに してください。",
+        "この 料理は どこの 国の 料理ですか。",
+        "同じ 料理を もう一つ 追加してください。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p04-022",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "料理に 卵が 入っているか 確認します。",
+      "options": [
+        "この 卵料理は 持ち帰れますか。",
+        "卵を 使った 料理を 二つ ください。",
+        "この料理に 卵は 使われていますか。",
+        "卵料理の 会計を 別に できますか。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p04-023",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "友達への お土産を 選ぶ 相談を します。",
+      "options": [
+        "友達の 好きな 色の 袋は ありますか。",
+        "日持ちする お菓子は どれですか。",
+        "この お菓子を 店内で 食べても いいですか。",
+        "いま 食べられる 温かい 料理は どれですか。"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p04-024",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "電車が 遅れて 約束に 間に合いません。",
+      "options": [
+        "電車の 切符を 予約しておきました。",
+        "電車で 行くので、予定より 早く 着きました。",
+        "電車が 遅れているので、少し 遅れます。",
+        "約束の 日を 来月に 変えていただけますか。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p04-025",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "買った 商品に 問題が ありました。",
+      "options": [
+        "使っていない 商品を 贈り物に できますか。",
+        "新しい 商品の 発売日は いつですか。",
+        "昨日 買った 物を もう一つ 買いたいです。",
+        "昨日 買ったのですが、動かないので 見てもらえますか。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p04-026",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "今の 予約は 何人ですか。",
+      "options": [
+        "三人。",
+        "五人。",
+        "四人。",
+        "一人。"
+      ],
+      "answer": 0,
+      "audio": "男:店の予約は四人だったよね。\n女:一人来られなくなったから、三人に変更したよ。時間は同じ。\nNarrator: 今の 予約は 何人ですか。",
+      "transcript": "男:店の予約は四人だったよね。\n女:一人来られなくなったから、三人に変更したよ。時間は同じ。\nNarrator: 今の 予約は 何人ですか。"
+    },
+    {
+      "id": "jft-a2-p04-027",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は 何を 選びますか。",
+      "options": [
+        "冷たい 飲み物。",
+        "常温で 保存できる 焼き菓子。",
+        "何も 買わない。",
+        "冷蔵が 必要な 生菓子。"
+      ],
+      "answer": 1,
+      "audio": "女:お土産は生のお菓子にしようかな。\n男:持ち歩く時間が長いから、常温で保存できるほうがいいよ。\n女:じゃ、焼き菓子にする。\nNarrator: 女の人は 何を 選びますか。",
+      "transcript": "女:お土産は生のお菓子にしようかな。\n男:持ち歩く時間が長いから、常温で保存できるほうがいいよ。\n女:じゃ、焼き菓子にする。\nNarrator: 女の人は 何を 選びますか。"
+    },
+    {
+      "id": "jft-a2-p04-028",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "映画の 前に どうしますか。",
+      "options": [
+        "映画を やめる。",
+        "軽く 食べる。",
+        "何も 食べない。",
+        "ゆっくり 夕食を 食べる。"
+      ],
+      "answer": 1,
+      "audio": "男:映画の前に食事をしよう。\n女:時間が少ないから、先に軽く食べて、終わってからゆっくり夕食にしない。\n男:そうしよう。\nNarrator: 映画の 前に どうしますか。",
+      "transcript": "男:映画の前に食事をしよう。\n女:時間が少ないから、先に軽く食べて、終わってからゆっくり夕食にしない。\n男:そうしよう。\nNarrator: 映画の 前に どうしますか。"
+    },
+    {
+      "id": "jft-a2-p04-029",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "いつ プレゼントを 渡しますか。",
+      "options": [
+        "会が 終わって 帰る とき。",
+        "会が 始まる 前。",
+        "皆の 前で 挨拶するとき。",
+        "次の 誕生日。"
+      ],
+      "answer": 0,
+      "audio": "女:プレゼント、いつ渡そうか。\n男:皆の前だと恥ずかしがるから、会が終わって帰るときに渡そう。\nNarrator: いつ プレゼントを 渡しますか。",
+      "transcript": "女:プレゼント、いつ渡そうか。\n男:皆の前だと恥ずかしがるから、会が終わって帰るときに渡そう。\nNarrator: いつ プレゼントを 渡しますか。"
+    },
+    {
+      "id": "jft-a2-p04-030",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は 今 どこに いますか。",
+      "options": [
+        "自分の 家。",
+        "駅の ホーム。",
+        "店の 向かいの 本屋。",
+        "予約した 店の 中。"
+      ],
+      "answer": 2,
+      "audio": "男:待ち合わせ、店の前だったよね。\n女:店が閉まっていたので、向かいの本屋にいるよ。そこで待っているね。\nNarrator: 女の人は 今 どこに いますか。",
+      "transcript": "男:待ち合わせ、店の前だったよね。\n女:店が閉まっていたので、向かいの本屋にいるよ。そこで待っているね。\nNarrator: 女の人は 今 どこに いますか。"
+    },
+    {
+      "id": "jft-a2-p04-031",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は どう 注文しましたか。",
+      "options": [
+        "ドレッシングを 付けない。",
+        "サラダを 二つに する。",
+        "卵を 増やす。",
+        "同じ ドレッシングを 多くする。"
+      ],
+      "answer": 0,
+      "audio": "女:卵が食べられないのですが、このサラダは大丈夫ですか。\n男:具には入っていませんが、ドレッシングに使っています。別添えにできます。\n女:では、ドレッシングなしでお願いします。\nNarrator: 女の人は どう 注文しましたか。",
+      "transcript": "女:卵が食べられないのですが、このサラダは大丈夫ですか。\n男:具には入っていませんが、ドレッシングに使っています。別添えにできます。\n女:では、ドレッシングなしでお願いします。\nNarrator: 女の人は どう 注文しましたか。"
+    },
+    {
+      "id": "jft-a2-p04-032",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は 次に 何を 見せますか。",
+      "options": [
+        "図書館の カード。",
+        "病院の 予約票。",
+        "レシート。",
+        "定期券。"
+      ],
+      "answer": 2,
+      "audio": "男:靴の交換をしたいです。\n女:外で使ったものは交換できません。\n男:家で試しただけです。\n女:では、レシートをお願いします。\nNarrator: 男の人は 次に 何を 見せますか。",
+      "transcript": "男:靴の交換をしたいです。\n女:外で使ったものは交換できません。\n男:家で試しただけです。\n女:では、レシートをお願いします。\nNarrator: 男の人は 次に 何を 見せますか。"
+    },
+    {
+      "id": "jft-a2-p04-033",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は どこへ 行きますか。",
+      "options": [
+        "電車の 運転室。",
+        "駅の 屋上。",
+        "駅の 反対側の ロッカー。",
+        "今の ロッカーの 中。"
+      ],
+      "answer": 2,
+      "audio": "女:荷物を預けたいんですが。\n男:こちらのロッカーは満杯です。駅の反対側にもありますよ。\n女:では、そちらを見ます。\nNarrator: 女の人は どこへ 行きますか。",
+      "transcript": "女:荷物を預けたいんですが。\n男:こちらのロッカーは満杯です。駅の反対側にもありますよ。\n女:では、そちらを見ます。\nNarrator: 女の人は どこへ 行きますか。"
+    },
+    {
+      "id": "jft-a2-p04-034",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "空港へ 行くには どうしますか。",
+      "options": [
+        "駅から 必ず 歩く。",
+        "駅で 急行に 乗り換える。",
+        "今すぐ 空港で 降りる。",
+        "バスに 乗ったまま 待つ。"
+      ],
+      "answer": 1,
+      "audio": "男:このバスは空港へ行きますか。\n女:駅までは行きますが、空港には行きません。駅で急行に乗り換えてください。\nNarrator: 空港へ 行くには どうしますか。",
+      "transcript": "男:このバスは空港へ行きますか。\n女:駅までは行きますが、空港には行きません。駅で急行に乗り換えてください。\nNarrator: 空港へ 行くには どうしますか。"
+    },
+    {
+      "id": "jft-a2-p04-035",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "運休しているのは どの バスですか。",
+      "options": [
+        "二番窓口へ 行く バス。",
+        "全ての バス。",
+        "海岸へ 向かう バス。",
+        "山へ 向かう バス。"
+      ],
+      "answer": 3,
+      "audio": "Narrator:山へ向かうバスは大雪のため運休です。海岸方面は通常どおり運行しています。切符の払い戻しは二番窓口で行います。\nNarrator: 運休しているのは どの バスですか。",
+      "transcript": "Narrator:山へ向かうバスは大雪のため運休です。海岸方面は通常どおり運行しています。切符の払い戻しは二番窓口で行います。\nNarrator: 運休しているのは どの バスですか。"
+    },
+    {
+      "id": "jft-a2-p04-036",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "午後一時に 何を しますか。",
+      "options": [
+        "昼食を 買いに 行く。",
+        "室内の 説明を 始める。",
+        "教室を 申し込む。",
+        "入口に 集まる。"
+      ],
+      "answer": 3,
+      "audio": "Narrator:本日の写真教室は、午前中は室内で説明を聞き、午後は公園で練習します。昼食後、一時に入口へ集まってください。\nNarrator: 午後一時に 何を しますか。",
+      "transcript": "Narrator:本日の写真教室は、午前中は室内で説明を聞き、午後は公園で練習します。昼食後、一時に入口へ集まってください。\nNarrator: 午後一時に 何を しますか。"
+    },
+    {
+      "id": "jft-a2-p04-037",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "黒い かさを なくした 人は どこへ 行きますか。",
+      "options": [
+        "入口の 外。",
+        "地下の 売り場。",
+        "二階の 食堂。",
+        "一階の 案内所。"
+      ],
+      "answer": 3,
+      "audio": "Narrator:お忘れ物のご案内です。入口で黒い傘をお預かりしています。心当たりのある方は一階の案内所までお越しください。\nNarrator: 黒い かさを なくした 人は どこへ 行きますか。",
+      "transcript": "Narrator:お忘れ物のご案内です。入口で黒い傘をお預かりしています。心当たりのある方は一階の案内所までお越しください。\nNarrator: 黒い かさを なくした 人は どこへ 行きますか。"
+    },
+    {
+      "id": "jft-a2-p04-038",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "飲み物が 残った 容器は まず どうしますか。",
+      "options": [
+        "そのまま 回収箱へ 入れる。",
+        "残りを 流しへ 捨てる。",
+        "隣の 人に 飲ませる。",
+        "床に 置く。"
+      ],
+      "answer": 1,
+      "audio": "Narrator:交流会の会場では、ごみを種類ごとに分けてください。飲み物の残りは流しへ捨ててから、空の容器を回収箱に入れてください。\nNarrator: 飲み物が 残った 容器は まず どうしますか。",
+      "transcript": "Narrator:交流会の会場では、ごみを種類ごとに分けてください。飲み物の残りは流しへ捨ててから、空の容器を回収箱に入れてください。\nNarrator: 飲み物が 残った 容器は まず どうしますか。"
+    },
+    {
+      "id": "jft-a2-p04-039",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "食べられない 食材は いつまでに 伝えますか。",
+      "options": [
+        "一週間後。",
+        "伝える 必要は ない。",
+        "前日まで。",
+        "食べ終わってから。"
+      ],
+      "answer": 2,
+      "passage": "レストランから\nご予約ありがとうございます。食べられない食材がある場合は、前日までにご連絡ください。当日の人数変更は席だけの変更となり、料理の料金は予約人数分いただきます。"
+    },
+    {
+      "id": "jft-a2-p04-040",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "当日 一人 来られなくなったら、料理代は どう なりますか。",
+      "options": [
+        "全員 無料に なる。",
+        "予約した 人数分を 払う。",
+        "来た 人の 分だけに 必ず 減る。",
+        "席の 料金だけを 払う。"
+      ],
+      "answer": 1,
+      "passage": "レストランから\nご予約ありがとうございます。食べられない食材がある場合は、前日までにご連絡ください。当日の人数変更は席だけの変更となり、料理の料金は予約人数分いただきます。"
+    },
+    {
+      "id": "jft-a2-p04-041",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "待ち合わせを 中に したのは なぜですか。",
+      "options": [
+        "外が 暑いから。",
+        "電車が 来ないから。",
+        "入口が 故障したから。",
+        "切符が 売り切れたから。"
+      ],
+      "answer": 0,
+      "passage": "友達へ\n明日の美術館ですが、入口の前ではなく中の休憩スペースで待ち合わせましょう。暑いので外で待たなくて大丈夫です。私は電車で行きます。切符はそれぞれ入口で買いましょう。"
+    },
+    {
+      "id": "jft-a2-p04-042",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "入場券は 誰が 買いますか。",
+      "options": [
+        "友達が 昨日 買った。",
+        "それぞれ 自分で 買う。",
+        "駅員が 無料で 配る。",
+        "書いた 人が 全員分 買う。"
+      ],
+      "answer": 1,
+      "passage": "友達へ\n明日の美術館ですが、入口の前ではなく中の休憩スペースで待ち合わせましょう。暑いので外で待たなくて大丈夫です。私は電車で行きます。切符はそれぞれ入口で買いましょう。"
+    },
+    {
+      "id": "jft-a2-p04-043",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "写真と 一緒に 何を 用意しますか。",
+      "options": [
+        "撮った 場所と 選んだ 理由。",
+        "全員分の 印刷した 写真。",
+        "使った カメラの 領収書。",
+        "旅行中の 全ての 食事の 記録。"
+      ],
+      "answer": 0,
+      "passage": "写真教室から\n撮った写真を次回みんなで見ます。気に入った三枚を選び、撮った場所と選んだ理由を短く書いてください。印刷は不要です。携帯電話の画面で見せてもかまいません。"
+    },
+    {
+      "id": "jft-a2-p04-044",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "写真は どう 見せても いいですか。",
+      "options": [
+        "必ず 大きく 印刷する。",
+        "会場で 写真を 消す。",
+        "三枚とも 見せずに 説明する。",
+        "携帯電話の 画面で 見せる。"
+      ],
+      "answer": 3,
+      "passage": "写真教室から\n撮った写真を次回みんなで見ます。気に入った三枚を選び、撮った場所と選んだ理由を短く書いてください。印刷は不要です。携帯電話の画面で見せてもかまいません。"
+    },
+    {
+      "id": "jft-a2-p04-045",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "月曜日の 十八時半に 入れるのは どこですか。",
+      "options": [
+        "博物館。",
+        "展望台。",
+        "水族館。",
+        "全ての 施設。"
+      ],
+      "answer": 1,
+      "passage": "観光施設のご案内\n水族館：9–17時／月曜休み／最終入場16時\n博物館：10–18時／火曜休み／最終入場17時半\n展望台：毎日9–20時／最終入場19時半\n全て再入場は当日券で可。"
+    },
+    {
+      "id": "jft-a2-p04-046",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "同じ 日に もう一度 入るには 何が 必要ですか。",
+      "options": [
+        "前日の 券だけ。",
+        "新しい 月の 定期券。",
+        "その日の 券。",
+        "予約者の 名刺だけ。"
+      ],
+      "answer": 2,
+      "passage": "観光施設のご案内\n水族館：9–17時／月曜休み／最終入場16時\n博物館：10–18時／火曜休み／最終入場17時半\n展望台：毎日9–20時／最終入場19時半\n全て再入場は当日券で可。"
+    },
+    {
+      "id": "jft-a2-p04-047",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "卵を 食べられない 人に、冷蔵せず 一週間後に 渡せるのは どれですか。",
+      "options": [
+        "Ｄ。",
+        "Ｂ。",
+        "Ａ。",
+        "Ｃ。"
+      ],
+      "answer": 2,
+      "passage": "お土産一覧\nＡ 米の菓子：常温保存／賞味期限30日／卵なし\nＢ クリーム菓子：要冷蔵／賞味期限2日／卵あり\nＣ チョコ：常温保存／賞味期限20日／卵あり\nＤ 生ケーキ：要冷蔵／当日中／卵なし"
+    },
+    {
+      "id": "jft-a2-p04-048",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "Ｂを 買ったら どう 保存しますか。",
+      "options": [
+        "常温で 三十日 置く。",
+        "窓の 外に 干す。",
+        "冷蔵する。",
+        "冷蔵せず 二十日 待つ。"
+      ],
+      "answer": 2,
+      "passage": "お土産一覧\nＡ 米の菓子：常温保存／賞味期限30日／卵なし\nＢ クリーム菓子：要冷蔵／賞味期限2日／卵あり\nＣ チョコ：常温保存／賞味期限20日／卵あり\nＤ 生ケーキ：要冷蔵／当日中／卵なし"
+    },
+    {
+      "id": "jft-a2-p04-049",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "今日、空港へ 行く 人は 何番から 乗りますか。",
+      "options": [
+        "３番。",
+        "海岸の 乗り場。",
+        "１番。",
+        "２番。"
+      ],
+      "answer": 0,
+      "passage": "バス乗り場変更\n空港行き：本日は３番から発車（通常１番）\n市民会館行き：２番、変更なし\n海岸行き：工事のため運休\n空港行きの切符は窓口で購入。車内では買えません。"
+    },
+    {
+      "id": "jft-a2-p04-050",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "空港行きの 切符は どこで 買いますか。",
+      "options": [
+        "市民会館だけ。",
+        "乗ってから 運転手に 頼む。",
+        "バスの 中だけ。",
+        "窓口。"
+      ],
+      "answer": 3,
+      "passage": "バス乗り場変更\n空港行き：本日は３番から発車（通常１番）\n市民会館行き：２番、変更なし\n海岸行き：工事のため運休\n空港行きの切符は窓口で購入。車内では買えません。"
+    }
+  ]
+}

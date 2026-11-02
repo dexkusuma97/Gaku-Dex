@@ -1,6 +1,7 @@
 /* Shared application shell and browser history bridge for the Simulasi menu. */
 window.GakuSimulationHost={
  active:()=>page==='Simulasi',
+ level:()=>prefs.level,
  activate(){page='Simulasi'},
  title:(heading,subtitle)=>title(heading,subtitle),
  render(){updateScreen()},

@@ -1348,3 +1348,8 @@ Ekspor JSON dengan filter jenis/level, impor berpratinjau, cek duplikat/format, 
 ## 2 November 2026 — Batch 33: Sawer / Donasi dan popup pembukaan
 
 Gambar donasi asli ditampilkan utuh pada pembukaan/muat ulang aplikasi. Tutup melalui ×, ketukan backdrop atau Escape, dengan transisi masuk/keluar lembut, fokus modal dan pemulihan guliran. Tidak muncul ulang saat navigasi biasa. Halaman Sawer aktif dengan pembuka popup dan simpan gambar. 56 berkas tes lulus; browser desktop dan iframe 390 × 844 diperiksa. Belum diuji pada APK/WebView Android fisik. Paket tambahan membutuhkan Paket 32 lengkap; uji audio Irodori tetap ditunda. Rincian: data/DONATION_REVIEW_20261102.md.
+
+
+## 2 November 2026 — Batch 34: Simulasi N4/A2 paket 01–04
+
+Delapan paket, 548 butir baru: N4 4×87 dan JFT sasaran A2 4×50. Pilihan level memisahkan menu, paket, timer, sesi/reload dan riwayat; N5/A1 lama dipertahankan. Paket 05–06 baru menunggu Claude. 164 naskah listening memakai TTS perangkat; MP3 baru belum dibuat. Validator diperluas, filter riwayat A2 ditambahkan, 57 berkas tes dan browser desktop/390px diperiksa. Masih draft latihan, belum telaah penutur asli atau APK fisik. Paket tambahan membutuhkan Paket 33. Rincian: data/SIMULATION_N4_A2_REVIEW_20261102.md.

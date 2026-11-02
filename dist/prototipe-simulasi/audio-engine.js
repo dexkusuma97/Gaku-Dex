@@ -31,7 +31,7 @@
     next();
    }
    if(!/^[a-z0-9-]+$/.test(question.id||'')||!question.audio){fail();return;}
-   if(!env.Audio){fallback();return;}
+   if(!env.Audio||(/^(?:n4-|jft-a2-)/.test(question.id)&&!env.GAKU_SIM_RECORDED_IDS?.includes(question.id))){fallback();return;}
    const prefix=env.GAKU_SIM_EMBEDDED?'':'../',url=prefix+'assets/simulasi/'+question.id+'.mp3';
    const audio=new env.Audio(url);media=audio;audio.onplaying=start;audio.onended=finish;
    let checking=false;

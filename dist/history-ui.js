@@ -1,7 +1,7 @@
 /* History filters and explicit deletion confirmation use the existing app modal. */
 let historyView={kind:'all',level:'all',limit:20},historyDeleteRequest=null;
 const HISTORY_KINDS={all:'Semua aktivitas',quiz:'Quiz',simulation:'Simulasi',kaiwa:'Kaiwa',book:'Cerita',data:'Tambah data',other:'Lainnya'};
-const HISTORY_LEVELS={all:'Semua level',N5:'N5',N4:'N4',A1:'A1',unknown:'Belum tercatat'};
+const HISTORY_LEVELS={all:'Semua level',N5:'N5',N4:'N4',A1:'A1',A2:'A2',unknown:'Belum tercatat'};
 function historyRows(){return GakuHistory.read()}
 function historySetFilter(key,value){const allowed=key==='kind'?HISTORY_KINDS:key==='level'?HISTORY_LEVELS:null;if(!allowed||!Object.hasOwn(allowed,value))return;historyView[key]=value;historyView.limit=20;render()}
 function historyMore(){historyView.limit+=20;render()}

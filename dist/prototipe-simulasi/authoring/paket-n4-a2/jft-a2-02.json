@@ -1,0 +1,798 @@
+{
+  "id": "jft-a2-02",
+  "exam": "jft",
+  "number": 2,
+  "title": "Bekerja bersama",
+  "level": "A2",
+  "status": "draft",
+  "questions": [
+    {
+      "id": "jft-a2-p02-001",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "作業中に「休憩する」とは 何を することですか。",
+      "options": [
+        "仕事を 永久に やめる。",
+        "家へ 引っ越す。",
+        "しばらく 仕事の 手を 止めて 休む。",
+        "仕事を 早く 始める。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p02-002",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "機械の「異常」を 見つけました。何が ありましたか。",
+      "options": [
+        "いつもと 違う 問題。",
+        "普通の 休み時間。",
+        "新しい 利用者。",
+        "予定どおりの 動き。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-003",
+      "section": 0,
+      "kind": "Arti kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "作業が「完了」しました。どんな 状態ですか。",
+      "options": [
+        "途中で 止まった。",
+        "これから 予約する。",
+        "全て 終わった。",
+        "まだ 始まっていない。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p02-004",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "危ない 場所に 入る 前に、ヘルメットを（　）ください。",
+      "options": [
+        "しめて",
+        "はいて",
+        "ぬいで",
+        "かぶって"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p02-005",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "作業の 前に、機械が 安全か（　）します。",
+      "options": [
+        "注文",
+        "点検",
+        "両替",
+        "洗濯"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p02-006",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "分からない ままに せず、先輩に（　）ます。",
+      "options": [
+        "聞き",
+        "拾い",
+        "包み",
+        "焼き"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-007",
+      "section": 0,
+      "kind": "Penggunaan kosakata",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "使い終わった 道具は、元の 場所に（　）ください。",
+      "options": [
+        "戻して",
+        "割って",
+        "落として",
+        "倒して"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-008",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "<u>作業</u>を 始めます。",
+      "options": [
+        "さぎょ",
+        "さきょう",
+        "さごう",
+        "さぎょう"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p02-009",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "けがを しないように<u>注意</u>します。",
+      "options": [
+        "ちょうい",
+        "ちゅうい",
+        "ちゅい",
+        "じゅうい"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p02-010",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "Choose the reading of the underlined word.",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "仕事の<u>順番</u>を 確認します。",
+      "options": [
+        "じゅんぱん",
+        "じゅんばん",
+        "しゅんぱん",
+        "じゅばん"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p02-011",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「立入禁止」の 場所は どうしますか。",
+      "options": [
+        "中へ 入らない。",
+        "急いで 入る。",
+        "必ず 写真を 撮る。",
+        "全員で 集まる。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-012",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「担当者」に 聞きたいです。誰を 探しますか。",
+      "options": [
+        "その 仕事を 受け持っている 人。",
+        "必ず 一番 若い 人。",
+        "偶然 通った 人。",
+        "全然 関係ない 人。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-013",
+      "section": 0,
+      "kind": "Arti dan penggunaan kanji",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「故障中」の 機械は どうしますか。",
+      "options": [
+        "そのまま 強く 動かす。",
+        "使わず、係の 人に 確認する。",
+        "誰にも 伝えず 隠す。",
+        "自分の 判断で 配線を 切る。"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p02-014",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "先輩:この ボタンを（　）、機械が 止まります。",
+      "options": [
+        "押すと",
+        "押しても",
+        "押しながら",
+        "押すため"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-015",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "同僚:けがを しない（　）、手袋を 使ってください。",
+      "options": [
+        "ように",
+        "ことを",
+        "そうに",
+        "ための"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-016",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "先輩:分からなければ、作業を 始める 前に（　）ください。",
+      "options": [
+        "聞いた",
+        "聞き",
+        "聞く",
+        "聞いて"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p02-017",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "同僚:箱を 運んで（　）ますか。一人では 重いんです。",
+      "options": [
+        "やり",
+        "あげ",
+        "くれさせ",
+        "もらえ"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p02-018",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "先輩:仕事が（　）ら、片付けてください。",
+      "options": [
+        "終わり",
+        "終わって",
+        "終わるの",
+        "終わった"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p02-019",
+      "section": 1,
+      "kind": "Tata bahasa dalam percakapan",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "同僚:この 機械を 使うのは 初めてなので、練習して（　）です。",
+      "options": [
+        "みたい",
+        "あるたい",
+        "いるたい",
+        "おくたい"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-020",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "指示が 聞き取れませんでした。",
+      "options": [
+        "昨日は 忙しくて 参加できませんでした。",
+        "この 作業なら 一人でも できます。",
+        "すみません、もう 一度 お願いします。",
+        "説明は 終わりましたので、お帰りください。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p02-021",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "作業中に 機械の 変な 音に 気付きました。",
+      "options": [
+        "いつもと 違う 音が するので、確認を お願いします。",
+        "機械を 使う 時間を 明日に 変えたいです。",
+        "いつもどおり 動いていますので、ご安心ください。",
+        "この 機械の 値段を 教えてください。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "jft-a2-p02-022",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "頼まれた 仕事が まだ 終わりません。",
+      "options": [
+        "この 仕事は 昨日 受け取りました。",
+        "今から 別の 仕事を 始めても いいですか。",
+        "あと 十分ほど かかりそうです。",
+        "もう 終わっていますので、確認してください。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "jft-a2-p02-023",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "作業を 間違えたことを 報告します。",
+      "options": [
+        "この 箱は 先週 届いたばかりです。",
+        "箱の 番号は 正しく 確認できました。",
+        "別の 箱を 買いたいのですが。",
+        "すみません。箱の 番号を 間違えました。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p02-024",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "先輩が 重い 荷物を 運んでいます。",
+      "options": [
+        "この 荷物は 誰から もらったんですか。",
+        "何か お手伝いしましょうか。",
+        "今から 別の 部屋で 休憩しても いいですか。",
+        "荷物は 来週 届く 予定です。"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "jft-a2-p02-025",
+      "section": 1,
+      "kind": "Ungkapan dalam situasi",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "作業の 内容を 確認します。",
+      "options": [
+        "先に 発送してから、内容を 確認するんですね。",
+        "数を 確認せず、そのまま 入れるんですね。",
+        "先に 箱を 閉じてから、数を 数えるんですね。",
+        "先に 数を 確認してから、箱に 入れるんですね。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "jft-a2-p02-026",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は どうやって 箱を 運びますか。",
+      "options": [
+        "一人で 抱える。",
+        "床に 引きずる。",
+        "台車を 使う。",
+        "中身を 捨てる。"
+      ],
+      "answer": 2,
+      "audio": "男:先輩、この箱は重すぎます。\n女:一人で持たず、台車を使ってください。無理をしないでね。\nNarrator: 男の人は どうやって 箱を 運びますか。",
+      "transcript": "男:先輩、この箱は重すぎます。\n女:一人で持たず、台車を使ってください。無理をしないでね。\nNarrator: 男の人は どうやって 箱を 運びますか。"
+    },
+    {
+      "id": "jft-a2-p02-027",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "研修には どんな 靴で 行きますか。",
+      "options": [
+        "作業用の 靴。",
+        "サンダル。",
+        "靴は 要らない。",
+        "新しい 革靴。"
+      ],
+      "answer": 0,
+      "audio": "女:明日の研修、制服で行きますか。\n男:いいえ、動きやすい服で。靴だけは作業用にしてください。\nNarrator: 研修には どんな 靴で 行きますか。",
+      "transcript": "女:明日の研修、制服で行きますか。\n男:いいえ、動きやすい服で。靴だけは作業用にしてください。\nNarrator: 研修には どんな 靴で 行きますか。"
+    },
+    {
+      "id": "jft-a2-p02-028",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は 何を お願いしましたか。",
+      "options": [
+        "説明書を 返す。",
+        "最初から 文章を 書く。",
+        "全ての 作業を やめる。",
+        "最後の 手順を 見せてもらう。"
+      ],
+      "answer": 3,
+      "audio": "男:この説明で分かりましたか。\n女:最後の手順だけ、もう一度見せてください。\n男:いいですよ。今やってみます。\nNarrator: 女の人は 何を お願いしましたか。",
+      "transcript": "男:この説明で分かりましたか。\n女:最後の手順だけ、もう一度見せてください。\n男:いいですよ。今やってみます。\nNarrator: 女の人は 何を お願いしましたか。"
+    },
+    {
+      "id": "jft-a2-p02-029",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は 帰る 前に 何を しますか。",
+      "options": [
+        "全ての 道具を 買う。",
+        "何も 言わずに 帰る。",
+        "病院に 電話する。",
+        "残った 仕事を 伝える。"
+      ],
+      "answer": 3,
+      "audio": "女:今日は病院へ行くので、早く帰りたいんです。\n男:分かりました。終わっていない所を私に教えてから帰ってください。\nNarrator: 女の人は 帰る 前に 何を しますか。",
+      "transcript": "女:今日は病院へ行くので、早く帰りたいんです。\n男:分かりました。終わっていない所を私に教えてから帰ってください。\nNarrator: 女の人は 帰る 前に 何を しますか。"
+    },
+    {
+      "id": "jft-a2-p02-030",
+      "section": 2,
+      "kind": "Menyimak percakapan sehari-hari",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "二人は 次に 何を しますか。",
+      "options": [
+        "帰宅する。",
+        "午後の 作業を 始める。",
+        "休憩する。",
+        "研修へ 出かける。"
+      ],
+      "answer": 2,
+      "audio": "男:午前の仕事、全部終わったよ。\n女:じゃ、午後の準備の前に休憩しよう。十分後にまたここへ集まってね。\nNarrator: 二人は 次に 何を しますか。",
+      "transcript": "男:午前の仕事、全部終わったよ。\n女:じゃ、午後の準備の前に休憩しよう。十分後にまたここへ集まってね。\nNarrator: 二人は 次に 何を しますか。"
+    },
+    {
+      "id": "jft-a2-p02-031",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "どの 箱を 使いますか。",
+      "options": [
+        "赤い 印の 箱。",
+        "青い 印の 箱。",
+        "箱は 使わない。",
+        "一番 大きい 箱なら どれでも。"
+      ],
+      "answer": 1,
+      "audio": "女:この商品を送るには、どの箱を使いますか。\n男:青い印の箱です。赤い印は返送用なので使わないでください。\nNarrator: どの 箱を 使いますか。",
+      "transcript": "女:この商品を送るには、どの箱を使いますか。\n男:青い印の箱です。赤い印は返送用なので使わないでください。\nNarrator: どの 箱を 使いますか。"
+    },
+    {
+      "id": "jft-a2-p02-032",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "交換の 前に 何を しますか。",
+      "options": [
+        "作業着を 切る。",
+        "新しい 作業着を 買う。",
+        "作業着を 洗う。",
+        "作業着を 捨てる。"
+      ],
+      "answer": 2,
+      "audio": "男:作業着のサイズが合わないんですが。\n女:事務室で交換できます。洗ってから持ってきてください。\nNarrator: 交換の 前に 何を しますか。",
+      "transcript": "男:作業着のサイズが合わないんですが。\n女:事務室で交換できます。洗ってから持ってきてください。\nNarrator: 交換の 前に 何を しますか。"
+    },
+    {
+      "id": "jft-a2-p02-033",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は どこへ 行きますか。",
+      "options": [
+        "駐車場。",
+        "工場の 出口。",
+        "食堂。",
+        "受付。"
+      ],
+      "answer": 3,
+      "audio": "女:社員証を忘れました。\n男:まず受付で名前を言ってください。今日だけ使うカードを借りられます。\nNarrator: 女の人は どこへ 行きますか。",
+      "transcript": "女:社員証を忘れました。\n男:まず受付で名前を言ってください。今日だけ使うカードを借りられます。\nNarrator: 女の人は どこへ 行きますか。"
+    },
+    {
+      "id": "jft-a2-p02-034",
+      "section": 2,
+      "kind": "Menyimak di toko dan tempat umum",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は どちらを 選びますか。",
+      "options": [
+        "普段の サンダル。",
+        "軽く、防水ではない 靴。",
+        "少し 重く、水に 強い 靴。",
+        "どちらも 買わない。"
+      ],
+      "answer": 2,
+      "audio": "男:安全靴を買いたいです。\n女:この種類は軽いですが、防水ではありません。こちらは少し重くても水に強いです。\n男:水を使うので、重いほうにします。\nNarrator: 男の人は どちらを 選びますか。",
+      "transcript": "男:安全靴を買いたいです。\n女:この種類は軽いですが、防水ではありません。こちらは少し重くても水に強いです。\n男:水を使うので、重いほうにします。\nNarrator: 男の人は どちらを 選びますか。"
+    },
+    {
+      "id": "jft-a2-p02-035",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "穴が ある 手袋は どうしますか。",
+      "options": [
+        "倉庫で 交換する。",
+        "自分で 必ず ぬう。",
+        "隣の 人に 渡す。",
+        "そのまま 使う。"
+      ],
+      "answer": 0,
+      "audio": "Narrator:午後の作業を始める前に、全員、手袋に穴がないか確認してください。破れていたら、倉庫で新しい物と交換してください。\nNarrator: 穴が ある 手袋は どうしますか。",
+      "transcript": "Narrator:午後の作業を始める前に、全員、手袋に穴がないか確認してください。破れていたら、倉庫で新しい物と交換してください。\nNarrator: 穴が ある 手袋は どうしますか。"
+    },
+    {
+      "id": "jft-a2-p02-036",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "スイッチを 切った 次に 何を しますか。",
+      "options": [
+        "水を かける。",
+        "すぐ 中へ 手を 入れる。",
+        "機械を 動かす。",
+        "電源の プラグを 抜く。"
+      ],
+      "answer": 3,
+      "audio": "Narrator:これから機械の清掃をします。スイッチを切ったあと、電源のプラグを抜いてください。完全に止まるまで中に手を入れないでください。\nNarrator: スイッチを 切った 次に 何を しますか。",
+      "transcript": "Narrator:これから機械の清掃をします。スイッチを切ったあと、電源のプラグを抜いてください。完全に止まるまで中に手を入れないでください。\nNarrator: スイッチを 切った 次に 何を しますか。"
+    },
+    {
+      "id": "jft-a2-p02-037",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "変わったのは 何ですか。",
+      "options": [
+        "会議室。",
+        "開始時間。",
+        "会議の 日。",
+        "資料を 作る 人。"
+      ],
+      "answer": 1,
+      "audio": "Narrator:明日の会議は開始時間が一時間遅くなり、午後二時からです。会議室は変更ありません。資料は今日中に共有します。\nNarrator: 変わったのは 何ですか。",
+      "transcript": "Narrator:明日の会議は開始時間が一時間遅くなり、午後二時からです。会議室は変更ありません。資料は今日中に共有します。\nNarrator: 変わったのは 何ですか。"
+    },
+    {
+      "id": "jft-a2-p02-038",
+      "section": 2,
+      "kind": "Menyimak pengumuman dan instruksi",
+      "instruction": "Listen and choose the best answer.",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "歩くのは どこですか。",
+      "options": [
+        "黄色い 線の 内側。",
+        "荷物の 上。",
+        "黄色い 線の 外側だけ。",
+        "荷物と 車の 間。"
+      ],
+      "answer": 0,
+      "audio": "Narrator:工場の出口付近で荷物を運んでいます。通るときは黄色い線の内側を歩いてください。荷物の横を急いで通らないでください。\nNarrator: 歩くのは どこですか。",
+      "transcript": "Narrator:工場の出口付近で荷物を運んでいます。通るときは黄色い線の内側を歩いてください。荷物の横を急いで通らないでください。\nNarrator: 歩くのは どこですか。"
+    },
+    {
+      "id": "jft-a2-p02-039",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "準備する 箱は どれですか。",
+      "options": [
+        "両方 同じ 数。",
+        "大きい 箱だけ。",
+        "小さい 箱だけ。",
+        "注文した 商品が 入った 箱だけ。"
+      ],
+      "answer": 1,
+      "passage": "リーダーから\n午後は注文が増えるので、午前中に包装用の箱を準備してください。小さい箱は十分あるため、大きい箱だけお願いします。準備が終わったら数をメモしてください。"
+    },
+    {
+      "id": "jft-a2-p02-040",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "準備の 後で 何を しますか。",
+      "options": [
+        "箱を 全部 捨てる。",
+        "午後の 注文を 断る。",
+        "数を 書いて おく。",
+        "小さい 箱を 注文する。"
+      ],
+      "answer": 2,
+      "passage": "リーダーから\n午後は注文が増えるので、午前中に包装用の箱を準備してください。小さい箱は十分あるため、大きい箱だけお願いします。準備が終わったら数をメモしてください。"
+    },
+    {
+      "id": "jft-a2-p02-041",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "写真を 撮っても いいのは どこですか。",
+      "options": [
+        "機械の すぐ 横。",
+        "作業員の 更衣室。",
+        "外の 看板の 前。",
+        "工場の 中 なら どこでも。"
+      ],
+      "answer": 2,
+      "passage": "先輩：明日の見学では、工場の中は撮影できません。外の看板の前なら写真を撮っても大丈夫です。見学中に分からないことがあったら、終わってからまとめて質問してください。"
+    },
+    {
+      "id": "jft-a2-p02-042",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "質問は いつ しますか。",
+      "options": [
+        "必ず 前日までに。",
+        "機械が 動く たびに。",
+        "質問は 一切 できない。",
+        "見学の 後で まとめて。"
+      ],
+      "answer": 3,
+      "passage": "先輩：明日の見学では、工場の中は撮影できません。外の看板の前なら写真を撮っても大丈夫です。見学中に分からないことがあったら、終わってからまとめて質問してください。"
+    },
+    {
+      "id": "jft-a2-p02-043",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "昨日の 資料は どうしますか。",
+      "options": [
+        "新しい 資料と 混ぜて 配る。",
+        "他の 人へ 売る。",
+        "使わない。",
+        "そのまま 正しいものとして 使う。"
+      ],
+      "answer": 2,
+      "passage": "研修担当より\n昨日配った資料に間違いがありました。新しい資料を添付します。前の資料は使わないでください。印刷できない方には明日の朝、会場でお渡しします。"
+    },
+    {
+      "id": "jft-a2-p02-044",
+      "section": 3,
+      "kind": "Memahami pesan dan teks pendek",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "印刷できない 人は どうしますか。",
+      "options": [
+        "添付資料を 消して 待つ。",
+        "前の 資料だけで 参加する。",
+        "明日の 朝、会場で 受け取る。",
+        "研修を 必ず 休む。"
+      ],
+      "answer": 2,
+      "passage": "研修担当より\n昨日配った資料に間違いがありました。新しい資料を添付します。前の資料は使わないでください。印刷できない方には明日の朝、会場でお渡しします。"
+    },
+    {
+      "id": "jft-a2-p02-045",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "発送担当者が 商品確認を するのは 何時ですか。",
+      "options": [
+        "十二時。",
+        "八時半。",
+        "八時四十五分。",
+        "十一時。"
+      ],
+      "answer": 3,
+      "passage": "作業場の予定\n8:30 朝礼：全員\n8:45 点検：機械担当者\n9:00 作業開始\n11:00 商品確認：発送担当者\n12:00 昼休み\n点検で問題があれば、作業を始めずリーダーへ報告。"
+    },
+    {
+      "id": "jft-a2-p02-046",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "機械に 問題が あったら どうしますか。",
+      "options": [
+        "商品確認を やめて 帰る。",
+        "作業を 始めず 報告する。",
+        "黙って 動かす。",
+        "午後まで 何も 言わない。"
+      ],
+      "answer": 1,
+      "passage": "作業場の予定\n8:30 朝礼：全員\n8:45 点検：機械担当者\n9:00 作業開始\n11:00 商品確認：発送担当者\n12:00 昼休み\n点検で問題があれば、作業を始めずリーダーへ報告。"
+    },
+    {
+      "id": "jft-a2-p02-047",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "破れた 作業着を 交換したい 人は、まず 何を しますか。",
+      "options": [
+        "洗う。",
+        "退職の 手続きを する。",
+        "自分で サイズを 切る。",
+        "代金を 振り込む。"
+      ],
+      "answer": 0,
+      "passage": "作業着の交換\n受付：火・木 13:00–15:00\n破れた服：無料で交換\nサイズ変更：入社一か月以内なら無料\nいずれも洗ってから事務室へお持ちください。"
+    },
+    {
+      "id": "jft-a2-p02-048",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "受付しているのは いつですか。",
+      "options": [
+        "金曜日の 十三時。",
+        "木曜日の 十四時。",
+        "月曜日の 十四時。",
+        "火曜日の 十時。"
+      ],
+      "answer": 1,
+      "passage": "作業着の交換\n受付：火・木 13:00–15:00\n破れた服：無料で交換\nサイズ変更：入社一か月以内なら無料\nいずれも洗ってから事務室へお持ちください。"
+    },
+    {
+      "id": "jft-a2-p02-049",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "箱を 閉じる テープは どの 棚ですか。",
+      "options": [
+        "Ａ棚。",
+        "Ｄ棚。",
+        "Ｂ棚。",
+        "Ｃ棚。"
+      ],
+      "answer": 3,
+      "passage": "倉庫の場所\nＡ棚：手袋・マスク\nＢ棚：筆記用具・ラベル\nＣ棚：テープ・包装紙\nＤ棚：清掃用品\n持ち出した物は用紙に記入。機械の部品は別室なので担当者へ。"
+    },
+    {
+      "id": "jft-a2-p02-050",
+      "section": 3,
+      "kind": "Mencari informasi praktis",
+      "instruction": "Choose the best answer for this situation.",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "機械の 部品が 必要な ときは どうしますか。",
+      "options": [
+        "包装紙を 部品の 代わりに 使う。",
+        "Ｄ棚から 自由に 持ち出す。",
+        "担当者に 聞く。",
+        "倉庫の 用紙を 捨てる。"
+      ],
+      "answer": 2,
+      "passage": "倉庫の場所\nＡ棚：手袋・マスク\nＢ棚：筆記用具・ラベル\nＣ棚：テープ・包装紙\nＤ棚：清掃用品\n持ち出した物は用紙に記入。機械の部品は別室なので担当者へ。"
+    }
+  ]
+}

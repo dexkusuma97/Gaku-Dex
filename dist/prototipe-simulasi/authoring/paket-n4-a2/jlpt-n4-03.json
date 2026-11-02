@@ -1,0 +1,1392 @@
+{
+  "id": "jlpt-n4-03",
+  "exam": "jlpt",
+  "number": 3,
+  "title": "Belajar dan bekerja",
+  "level": "N4",
+  "status": "draft",
+  "questions": [
+    {
+      "id": "n4-p03-001",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "この 仕事には<u>経験</u>が 必要です。",
+      "options": [
+        "けけん",
+        "けんけい",
+        "けいげん",
+        "けいけん"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n4-p03-002",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "昨日の<u>試験</u>は 難しかったです。",
+      "options": [
+        "しっけん",
+        "しけん",
+        "しげん",
+        "じけん"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-003",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "書類を<u>集めて</u>ください。",
+      "options": [
+        "すすめて",
+        "とめて",
+        "あつめて",
+        "つとめて"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-004",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "この 漢字の<u>意味</u>を 調べます。",
+      "options": [
+        "いじ",
+        "いみ",
+        "いま",
+        "いに"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-005",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "昼の<u>休憩</u>は 一時間です。",
+      "options": [
+        "きゅうげい",
+        "きゅけい",
+        "きゅうけい",
+        "きょうけい"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-006",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "田中さんは<u>真面目</u>です。",
+      "options": [
+        "まじめ",
+        "しんめん",
+        "まじもく",
+        "まめん"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-007",
+      "section": 0,
+      "kind": "Bacaan kanji",
+      "instruction": "＿＿の ことばは どう よみますか。",
+      "idn": "Pilih bacaan kata yang digarisbawahi.",
+      "jp": "この 辞書は<u>役に立ちます</u>。",
+      "options": [
+        "やくにたちます",
+        "えきにたちます",
+        "やくにたつます",
+        "やくにだちます"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-008",
+      "section": 0,
+      "kind": "Penulisan kata",
+      "instruction": "＿＿の ことばは どう 書きますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "先生の 質問に<u>こたえます</u>。",
+      "options": [
+        "会えます",
+        "答えます",
+        "合えます",
+        "考えます"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-009",
+      "section": 0,
+      "kind": "Penulisan kata",
+      "instruction": "＿＿の ことばは どう 書きますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "毎日 漢字を<u>れんしゅう</u>します。",
+      "options": [
+        "練習",
+        "連集",
+        "連習",
+        "練集"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-010",
+      "section": 0,
+      "kind": "Penulisan kata",
+      "instruction": "＿＿の ことばは どう 書きますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "その 案には<u>はんたい</u>です。",
+      "options": [
+        "返体",
+        "反体",
+        "反対",
+        "返対"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-011",
+      "section": 0,
+      "kind": "Penulisan kata",
+      "instruction": "＿＿の ことばは どう 書きますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "この 字は 小さすぎて<u>よみにくい</u>です。",
+      "options": [
+        "読みにくい",
+        "語みにくい",
+        "説みにくい",
+        "話みにくい"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-012",
+      "section": 0,
+      "kind": "Penulisan kata",
+      "instruction": "＿＿の ことばは どう 書きますか。",
+      "idn": "Pilih penulisan kata yang digarisbawahi.",
+      "jp": "資料を 二十枚<u>いんさつ</u>します。",
+      "options": [
+        "印冊",
+        "因刷",
+        "印刷",
+        "因冊"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-013",
+      "section": 0,
+      "kind": "Kosakata sesuai konteks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "分からない 言葉は 辞書で（　）ください。",
+      "options": [
+        "調べて",
+        "まとめて",
+        "比べて",
+        "認めて"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-014",
+      "section": 0,
+      "kind": "Kosakata sesuai konteks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "提出する 前に、名前が あるか（　）しましょう。",
+      "options": [
+        "スケート",
+        "コンサート",
+        "チェック",
+        "アクセサリー"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-015",
+      "section": 0,
+      "kind": "Kosakata sesuai konteks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "授業に 遅れそうなので、先生に（　）しました。",
+      "options": [
+        "連絡",
+        "見物",
+        "出発",
+        "運転"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-016",
+      "section": 0,
+      "kind": "Kosakata sesuai konteks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "この 作業は 二人で（　）行います。",
+      "options": [
+        "協力して",
+        "遠慮して",
+        "失礼して",
+        "満足して"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-017",
+      "section": 0,
+      "kind": "Kosakata sesuai konteks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "作文の 間違いを 赤い ペンで（　）もらいました。",
+      "options": [
+        "直して",
+        "冷まして",
+        "壊して",
+        "落として"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-018",
+      "section": 0,
+      "kind": "Kosakata sesuai konteks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "会議で 新しい 計画を（　）しました。",
+      "options": [
+        "予約",
+        "引退",
+        "留守",
+        "説明"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n4-p03-019",
+      "section": 0,
+      "kind": "Kosakata sesuai konteks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "コピーが 終わったら、紙を 十枚ずつ（　）ください。",
+      "options": [
+        "分けて",
+        "曲げて",
+        "落ちて",
+        "揺れて"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-020",
+      "section": 0,
+      "kind": "Kosakata sesuai konteks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "この 練習を 続ければ、（　）上手に なります。",
+      "options": [
+        "ちっとも",
+        "けっして",
+        "だんだん",
+        "たまたま"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-021",
+      "section": 0,
+      "kind": "Ungkapan bermakna serupa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "授業を 欠席しました。",
+      "options": [
+        "授業に 出ませんでした。",
+        "授業を 始めました。",
+        "授業が 長く なりました。",
+        "授業で 質問しました。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-022",
+      "section": 0,
+      "kind": "Ungkapan bermakna serupa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "説明が はっきり 分かりました。",
+      "options": [
+        "説明を まだ 聞いて いません。",
+        "説明を 忘れました。",
+        "説明を よく 理解できました。",
+        "説明が 間違って いました。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-023",
+      "section": 0,
+      "kind": "Ungkapan bermakna serupa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "作文を 書き終わりました。",
+      "options": [
+        "作文を 書くのを やめました。",
+        "作文を 書き始めました。",
+        "作文を 最後まで 書きました。",
+        "作文を 書き直します。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-024",
+      "section": 0,
+      "kind": "Ungkapan bermakna serupa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "先生に ほめられました。",
+      "options": [
+        "先生が 私の したことを いいと 言いました。",
+        "先生に 本を 貸しました。",
+        "先生が 私を しかりました。",
+        "先生に 質問しました。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-025",
+      "section": 0,
+      "kind": "Penggunaan kata",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「予習」の 使い方は どれですか。",
+      "options": [
+        "机を 予習して 掃除します。",
+        "明日の 授業の 前に 教科書を 読んで 予習します。",
+        "試験が 終わった あと 点数を 予習します。",
+        "昨日 習った ことだけを 予習します。"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-026",
+      "section": 0,
+      "kind": "Penggunaan kata",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「失敗」の 使い方は どれですか。",
+      "options": [
+        "本を 失敗に 読みます。",
+        "電車で 駅を 失敗しました。",
+        "料理に 塩を 入れすぎて 失敗しました。",
+        "仕事を 上手に 終えて 失敗しました。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-027",
+      "section": 0,
+      "kind": "Penggunaan kata",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「続ける」の 使い方は どれですか。",
+      "options": [
+        "窓を 続けて 開けました。",
+        "熱が 続けて 下がりました。",
+        "財布を 続けて 忘れました。",
+        "毎朝の 運動を これからも 続けたいです。"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n4-p03-028",
+      "section": 0,
+      "kind": "Penggunaan kata",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "「準備」の 使い方は どれですか。",
+      "options": [
+        "辞書を 準備な 字で 書きました。",
+        "会議を 準備に 遅れました。",
+        "発表の 準備に 三日 かかりました。",
+        "先生が 準備に 歩きました。"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-029",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "日本語の ニュースが 少し（　）ように なりました。",
+      "options": [
+        "分かり",
+        "分かって",
+        "分かる",
+        "分かります"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-030",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "毎日、寝る 前に 漢字を（　）ように しています。",
+      "options": [
+        "復習した",
+        "復習する",
+        "復習して",
+        "復習し"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-031",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "明日、先生に 作文を 見て（　）予定です。",
+      "options": [
+        "やる",
+        "くれる",
+        "もらう",
+        "あげる"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-032",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "練習すれば（　）ほど、上手に なります。",
+      "options": [
+        "し",
+        "する",
+        "した",
+        "して"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-033",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "昨日は 頭が 痛くて、勉強（　）できませんでした。",
+      "options": [
+        "が",
+        "で",
+        "を",
+        "へ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-034",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "分からない ときは 先生に（　）みてください。",
+      "options": [
+        "聞いた",
+        "聞き",
+        "聞く",
+        "聞いて"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n4-p03-035",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "この 問題は 簡単（　）見えますが、よく 考えてください。",
+      "options": [
+        "を",
+        "に",
+        "が",
+        "で"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-036",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "友達が 来るまでに、掃除を（　）おきます。",
+      "options": [
+        "して",
+        "し",
+        "した",
+        "する"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-037",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "先生に 名前を（　）、返事を しました。",
+      "options": [
+        "呼ばせて",
+        "呼んで",
+        "呼ぶで",
+        "呼ばれて"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n4-p03-038",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "忙しくても、朝ご飯は（　）ほうが いいです。",
+      "options": [
+        "食べます",
+        "食べた",
+        "食べて",
+        "食べるの"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-039",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "この 説明を 読んでも 分からない（　）、私に 聞いてください。",
+      "options": [
+        "ところを",
+        "ために",
+        "ように",
+        "場合は"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n4-p03-040",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "発表の とき、緊張して 声が 小さく（　）しまいました。",
+      "options": [
+        "あって",
+        "して",
+        "なって",
+        "いって"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-041",
+      "section": 1,
+      "kind": "Bentuk tata bahasa",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "上手に 話せる（　）、毎日 声を 出して 練習します。",
+      "options": [
+        "ことを",
+        "ように",
+        "ので",
+        "そうに"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "n4-p03-042",
+      "section": 1,
+      "kind": "Susun kalimat",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "習った 言葉を ＿＿ ＿＿ ★ ＿＿ います。",
+      "options": [
+        "忘れない",
+        "付けて",
+        "気を",
+        "ように"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "n4-p03-043",
+      "section": 1,
+      "kind": "Susun kalimat",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "先生は 私に ＿＿ ＿＿ ★ ＿＿ ました。",
+      "options": [
+        "説明して",
+        "くれ",
+        "一度",
+        "もう"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-044",
+      "section": 1,
+      "kind": "Susun kalimat",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "日本語が ＿＿ ＿＿ ★ ＿＿ します。",
+      "options": [
+        "上手に",
+        "なる",
+        "毎日練習",
+        "ために"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "n4-p03-045",
+      "section": 1,
+      "kind": "Susun kalimat",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "この 本には ＿＿ ＿＿ ★ ＿＿ あります。",
+      "options": [
+        "役立つ",
+        "ことが書いて",
+        "生活に",
+        "日本での"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "n4-p03-046",
+      "section": 1,
+      "kind": "Tata bahasa dalam teks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "【1】に 入る ことばは どれですか。",
+      "options": [
+        "みえました",
+        "しまいました",
+        "ありました",
+        "おきました"
+      ],
+      "answer": 1,
+      "passage": "漢字を 覚える ために、毎日 五つずつ 書いています。前は すぐ 忘れて 【1】が、最近は 町の 看板も 読める 【2】なりました。"
+    },
+    {
+      "id": "n4-p03-047",
+      "section": 1,
+      "kind": "Tata bahasa dalam teks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "【2】に 入る ことばは どれですか。",
+      "options": [
+        "ことを",
+        "ように",
+        "ために",
+        "そうで"
+      ],
+      "answer": 1,
+      "passage": "漢字を 覚える ために、毎日 五つずつ 書いています。前は すぐ 忘れて 【1】が、最近は 町の 看板も 読める 【2】なりました。"
+    },
+    {
+      "id": "n4-p03-048",
+      "section": 1,
+      "kind": "Tata bahasa dalam teks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "【1】に 入る ことばは どれですか。",
+      "options": [
+        "作り",
+        "作って",
+        "作る",
+        "作った"
+      ],
+      "answer": 1,
+      "passage": "来週、会社で 発表します。資料は もう 【1】あります。明日は 同僚に 聞いてもらって、分かりにくい 所を 【2】予定です。"
+    },
+    {
+      "id": "n4-p03-049",
+      "section": 1,
+      "kind": "Tata bahasa dalam teks",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "【2】に 入る ことばは どれですか。",
+      "options": [
+        "直して",
+        "直したの",
+        "直す",
+        "直し"
+      ],
+      "answer": 2,
+      "passage": "来週、会社で 発表します。資料は もう 【1】あります。明日は 同僚に 聞いてもらって、分かりにくい 所を 【2】予定です。"
+    },
+    {
+      "id": "n4-p03-050",
+      "section": 1,
+      "kind": "Bacaan pendek",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "文章は 今 どう なっていますか。",
+      "options": [
+        "まだ 修正している。",
+        "発表で 使わないことに した。",
+        "先生が 印刷した。",
+        "もう メールで 送った。"
+      ],
+      "answer": 0,
+      "passage": "先生へ\n明日の 発表で 使う 写真を メールで 送りました。大きすぎて 開けない 場合は、小さくして 送り直します。文章は まだ 直している ところなので、授業の 前に 印刷して 持っていきます。"
+    },
+    {
+      "id": "n4-p03-051",
+      "section": 1,
+      "kind": "Bacaan pendek",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "余った 資料は どこに 置きますか。",
+      "options": [
+        "後ろの 飲み物の 上。",
+        "参加者の いす。",
+        "入口の 棚。",
+        "会議室の 外の 床。"
+      ],
+      "answer": 2,
+      "passage": "会議の 準備を する 方へ\n机を コの字に 並べてください。参加者用の 資料は 一人 一部ずつ 机に 置き、残りは 入口の 棚に 入れてください。飲み物は 配らず、後ろの テーブルに まとめて 置いてください。"
+    },
+    {
+      "id": "n4-p03-052",
+      "section": 1,
+      "kind": "Bacaan pendek",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "参加する 前に 何を しますか。",
+      "options": [
+        "相手の 作文を 直して おく。",
+        "辞書を 買って おく。",
+        "作文を 書いて おく。",
+        "会場の 紙を 借りて おく。"
+      ],
+      "answer": 2,
+      "passage": "勉強会の お知らせ\n今回の 勉強会では、参加者が 二人ずつ 組んで 作文を 読み合います。辞書は 会場で 貸しますが、書き直すための 紙と ペンは 各自で 持ってきてください。作文は 前もって 書いてください。"
+    },
+    {
+      "id": "n4-p03-053",
+      "section": 1,
+      "kind": "Bacaan pendek",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "午後の 班の 人は いつ 説明を 聞きますか。",
+      "options": [
+        "着替えてから 夕方。",
+        "午前の 作業が 終わった 後。",
+        "午後の 作業が 終わった 後。",
+        "正午、作業が 始まる 前。"
+      ],
+      "answer": 3,
+      "passage": "工場から\n明日は 新しい 機械の 説明が あります。午前の 班は 作業の 後で、午後の 班は 作業の 前に 参加してください。どちらも 正午に 研修室へ 集まってください。作業着の ままで かまいません。"
+    },
+    {
+      "id": "n4-p03-054",
+      "section": 1,
+      "kind": "Bacaan sedang",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "先生は どんな 練習を 勧めましたか。",
+      "options": [
+        "発表の 途中で 話を やめる 練習。",
+        "伝える 内容の 順番を 考える 練習。",
+        "難しい 言葉だけを 増やす 練習。",
+        "原稿を 一文字も 変えずに 覚える 練習。"
+      ],
+      "answer": 1,
+      "passage": "日本語の 発表の 練習で、私は 原稿を 全部 覚えようと していました。一つ 言葉を 忘れると、次が 出てこなく なりました。先生は、原稿の 文を そのまま 覚えるより、伝えたいことの 順番を 考えてみたら と 言いました。そこで、紙に 大切な 言葉だけを 書き、それを 見ながら 何度も 話しました。毎回 少し 違う 文に なりましたが、話が 止まることは 減りました。本番でも、一つの 言い方を 忘れた とき、別の 言葉で 説明できました。正しい 文を 覚えることも 大事ですが、相手に 伝えるためには、内容を 自分で 理解していることが 必要だと 思いました。"
+    },
+    {
+      "id": "n4-p03-055",
+      "section": 1,
+      "kind": "Bacaan sedang",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "練習を 変えて 本番で できたことは 何ですか。",
+      "options": [
+        "相手の 質問を 聞かずに 終わること。",
+        "紙を 読まず 全文を 同じに 話すこと。",
+        "話す 内容を 先生に 決めてもらうこと。",
+        "忘れた 表現を 別の 言葉で 説明すること。"
+      ],
+      "answer": 3,
+      "passage": "日本語の 発表の 練習で、私は 原稿を 全部 覚えようと していました。一つ 言葉を 忘れると、次が 出てこなく なりました。先生は、原稿の 文を そのまま 覚えるより、伝えたいことの 順番を 考えてみたら と 言いました。そこで、紙に 大切な 言葉だけを 書き、それを 見ながら 何度も 話しました。毎回 少し 違う 文に なりましたが、話が 止まることは 減りました。本番でも、一つの 言い方を 忘れた とき、別の 言葉で 説明できました。正しい 文を 覚えることも 大事ですが、相手に 伝えるためには、内容を 自分で 理解していることが 必要だと 思いました。"
+    },
+    {
+      "id": "n4-p03-056",
+      "section": 1,
+      "kind": "Bacaan sedang",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "筆者は なぜ 間違った 箱を 使いましたか。",
+      "options": [
+        "説明を 十分に 理解しなかったから。",
+        "作業の 順番を 確認したから。",
+        "小さい 箱が 全部 壊れていたから。",
+        "先輩が 箱を 隠したから。"
+      ],
+      "answer": 0,
+      "passage": "新しい 仕事を 始めたころ、分からないことを 質問するのが 恥ずかしいと 思っていました。一度、説明を よく 理解しないまま 作業を 始め、大きな 箱に 小さい 商品を 入れてしまいました。先輩に 相談すると、分かったふりを すると、後で 直す 時間が もっと かかると 言われました。それからは、説明を 聞いた 後、自分の 言葉で 作業の 順番を 繰り返し、合っているか 確かめています。先輩も、どこが 分からないか 分かるので 教えやすいと 言ってくれました。質問は 迷惑だと 思っていましたが、安全に 正しく 仕事を するために 必要なことだったのです。"
+    },
+    {
+      "id": "n4-p03-057",
+      "section": 1,
+      "kind": "Bacaan sedang",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "今は 説明の 後に 何を しますか。",
+      "options": [
+        "間違った 商品を そのまま 送る。",
+        "作業の 順番を 自分の 言葉で 確認する。",
+        "質問せず すぐ 始める。",
+        "先輩の 言葉を 全部 原稿に する。"
+      ],
+      "answer": 1,
+      "passage": "新しい 仕事を 始めたころ、分からないことを 質問するのが 恥ずかしいと 思っていました。一度、説明を よく 理解しないまま 作業を 始め、大きな 箱に 小さい 商品を 入れてしまいました。先輩に 相談すると、分かったふりを すると、後で 直す 時間が もっと かかると 言われました。それからは、説明を 聞いた 後、自分の 言葉で 作業の 順番を 繰り返し、合っているか 確かめています。先輩も、どこが 分からないか 分かるので 教えやすいと 言ってくれました。質問は 迷惑だと 思っていましたが、安全に 正しく 仕事を するために 必要なことだったのです。"
+    },
+    {
+      "id": "n4-p03-058",
+      "section": 1,
+      "kind": "Mencari informasi",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "去年 参加した 人も 必ず 出るのは どれですか。",
+      "options": [
+        "九時半の 説明と 十三時の 練習。",
+        "十時半の 練習だけ。",
+        "受付を しないで 昼食だけ。",
+        "十時半から 終わりまで。"
+      ],
+      "answer": 0,
+      "passage": "研修日程\n9:00 受付（社員証を持参）\n9:30 安全の説明：全員\n10:30 機械の練習：初参加者のみ\n12:00 昼休み（昼食は各自用意）\n13:00 グループ練習：全員\n15:00 終了"
+    },
+    {
+      "id": "n4-p03-059",
+      "section": 1,
+      "kind": "Mencari informasi",
+      "instruction": "つぎの 問いに 答えてください。",
+      "idn": "Pilih satu jawaban yang paling tepat sesuai konteks.",
+      "jp": "参加者が 自分で 用意するものは どれですか。",
+      "options": [
+        "機械と いす。",
+        "社員証と 昼食。",
+        "社員証と 全員分の 飲み物。",
+        "安全の 資料と 名札。"
+      ],
+      "answer": 1,
+      "passage": "研修日程\n9:00 受付（社員証を持参）\n9:30 安全の説明：全員\n10:30 機械の練習：初参加者のみ\n12:00 昼休み（昼食は各自用意）\n13:00 グループ練習：全員\n15:00 終了"
+    },
+    {
+      "id": "n4-p03-060",
+      "section": 2,
+      "kind": "Menyimak tindakan atau tugas",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は 何を 配りますか。",
+      "options": [
+        "手元の 古い 資料。",
+        "机の 上の 新しい 資料。",
+        "修正前と 修正後の 両方。",
+        "会議の 招待状。"
+      ],
+      "answer": 1,
+      "audio": "男:会議の資料を配ろうか。\n女:一か所直したから、古いのは配らないで。新しいのを机の上に置いたよ。\n男:じゃ、そちらを使うね。\nNarrator: 男の人は 何を 配りますか。",
+      "transcript": "男:会議の資料を配ろうか。\n女:一か所直したから、古いのは配らないで。新しいのを机の上に置いたよ。\n男:じゃ、そちらを使うね。\nNarrator: 男の人は 何を 配りますか。"
+    },
+    {
+      "id": "n4-p03-061",
+      "section": 2,
+      "kind": "Menyimak tindakan atau tugas",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は 次に 何を しますか。",
+      "options": [
+        "発表の 原稿を 書く。",
+        "後ろの 席に 座る。",
+        "前の 席で 大きな 声を 出す。",
+        "教室の 窓を 閉める。"
+      ],
+      "answer": 1,
+      "audio": "女:発表の前に、声の大きさを確かめてほしいの。\n男:いいよ。僕は後ろの席に座るね。そこまで聞こえるように話して。\nNarrator: 男の人は 次に 何を しますか。",
+      "transcript": "女:発表の前に、声の大きさを確かめてほしいの。\n男:いいよ。僕は後ろの席に座るね。そこまで聞こえるように話して。\nNarrator: 男の人は 次に 何を しますか。"
+    },
+    {
+      "id": "n4-p03-062",
+      "section": 2,
+      "kind": "Menyimak tindakan atau tugas",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は これから 何を しますか。",
+      "options": [
+        "新しい 番号を 書く。",
+        "箱の 中身を 数える。",
+        "箱を 全部 開ける。",
+        "番号に 合う 棚に 箱を 置く。"
+      ],
+      "answer": 3,
+      "audio": "男:箱を全部運びました。\n女:ありがとう。次は棚の番号と同じ番号の箱を置いてね。中身は明日確認するから開けないで。\nNarrator: 男の人は これから 何を しますか。",
+      "transcript": "男:箱を全部運びました。\n女:ありがとう。次は棚の番号と同じ番号の箱を置いてね。中身は明日確認するから開けないで。\nNarrator: 男の人は これから 何を しますか。"
+    },
+    {
+      "id": "n4-p03-063",
+      "section": 2,
+      "kind": "Menyimak tindakan atau tugas",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は 先生に 会う 前に 何を しますか。",
+      "options": [
+        "作文を 捨てる。",
+        "昼ご飯を 作る。",
+        "作文を 読み直す。",
+        "授業を 休む。"
+      ],
+      "answer": 2,
+      "audio": "女:作文を見ていただけますか。\n男:今は授業があるから、昼休みに来てください。\n女:分かりました。先に自分でも読み直します。\nNarrator: 女の人は 先生に 会う 前に 何を しますか。",
+      "transcript": "女:作文を見ていただけますか。\n男:今は授業があるから、昼休みに来てください。\n女:分かりました。先に自分でも読み直します。\nNarrator: 女の人は 先生に 会う 前に 何を しますか。"
+    },
+    {
+      "id": "n4-p03-064",
+      "section": 2,
+      "kind": "Menyimak tindakan atau tugas",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は どの 紙を 使いますか。",
+      "options": [
+        "倉庫の 青い 紙。",
+        "古い 表紙。",
+        "机の 上の 写真。",
+        "倉庫の 白い 紙。"
+      ],
+      "answer": 3,
+      "audio": "男:プリンターの紙が切れた。\n女:倉庫の箱にあるけど、白い紙を使って。青いのは表紙用だから。\nNarrator: 男の人は どの 紙を 使いますか。",
+      "transcript": "男:プリンターの紙が切れた。\n女:倉庫の箱にあるけど、白い紙を使って。青いのは表紙用だから。\nNarrator: 男の人は どの 紙を 使いますか。"
+    },
+    {
+      "id": "n4-p03-065",
+      "section": 2,
+      "kind": "Menyimak tindakan atau tugas",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は 名札の 下に 何を 書きますか。",
+      "options": [
+        "名前。",
+        "電話番号。",
+        "部署。",
+        "住所。"
+      ],
+      "answer": 2,
+      "audio": "女:研修の名札、何を書けばいいですか。\n男:上に名前、下に部署を書いてください。電話番号は要りません。\nNarrator: 女の人は 名札の 下に 何を 書きますか。",
+      "transcript": "女:研修の名札、何を書けばいいですか。\n男:上に名前、下に部署を書いてください。電話番号は要りません。\nNarrator: 女の人は 名札の 下に 何を 書きますか。"
+    },
+    {
+      "id": "n4-p03-066",
+      "section": 2,
+      "kind": "Menyimak tindakan atau tugas",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は 最初に 何を 伝えますか。",
+      "options": [
+        "次の 授業の 日。",
+        "先生の 電話番号。",
+        "友達の 間違い。",
+        "自分で 試した 方法。"
+      ],
+      "answer": 3,
+      "audio": "男:先生に質問したいけど、何から説明したらいいかな。\n女:まず自分でやってみた方法を伝えて、それから分からない所を聞くといいよ。\nNarrator: 男の人は 最初に 何を 伝えますか。",
+      "transcript": "男:先生に質問したいけど、何から説明したらいいかな。\n女:まず自分でやってみた方法を伝えて、それから分からない所を聞くといいよ。\nNarrator: 男の人は 最初に 何を 伝えますか。"
+    },
+    {
+      "id": "n4-p03-067",
+      "section": 2,
+      "kind": "Menyimak tindakan atau tugas",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は 表を 送る 前に 何を しますか。",
+      "options": [
+        "表を 削除する。",
+        "数字を 確認する。",
+        "午後まで 待つ。",
+        "書類を 郵送する。"
+      ],
+      "answer": 1,
+      "audio": "女:午前中にこの表を仕上げてください。\n男:入力だけでいいですか。\n女:いいえ、数字が合っているかも確認してから送ってください。\nNarrator: 男の人は 表を 送る 前に 何を しますか。",
+      "transcript": "女:午前中にこの表を仕上げてください。\n男:入力だけでいいですか。\n女:いいえ、数字が合っているかも確認してから送ってください。\nNarrator: 男の人は 表を 送る 前に 何を しますか。"
+    },
+    {
+      "id": "n4-p03-068",
+      "section": 2,
+      "kind": "Menyimak informasi utama",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は 何が 難しいと 言っていますか。",
+      "options": [
+        "同僚の 顔を 覚えること。",
+        "電話で 名前を 聞くこと。",
+        "通勤の 道を 調べること。",
+        "道具を 使うこと。"
+      ],
+      "answer": 1,
+      "audio": "女:新しい仕事で何が難しい。\n男:作業は慣れたけど、電話で名前を聞き取るのが大変だね。顔が見えないから聞き返しにくくて。\nNarrator: 男の人は 何が 難しいと 言っていますか。",
+      "transcript": "女:新しい仕事で何が難しい。\n男:作業は慣れたけど、電話で名前を聞き取るのが大変だね。顔が見えないから聞き返しにくくて。\nNarrator: 男の人は 何が 難しいと 言っていますか。"
+    },
+    {
+      "id": "n4-p03-069",
+      "section": 2,
+      "kind": "Menyimak informasi utama",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "何が 変わりましたか。",
+      "options": [
+        "勉強する 言語。",
+        "場所。",
+        "開始時間。",
+        "参加者の 名前。"
+      ],
+      "answer": 1,
+      "audio": "男:今日の勉強会は教室Ｂ。\n女:人数が増えたのでホールに変わったよ。時間は同じ。入口に案内が出ているって。\nNarrator: 何が 変わりましたか。",
+      "transcript": "男:今日の勉強会は教室Ｂ。\n女:人数が増えたのでホールに変わったよ。時間は同じ。入口に案内が出ているって。\nNarrator: 何が 変わりましたか。"
+    },
+    {
+      "id": "n4-p03-070",
+      "section": 2,
+      "kind": "Menyimak informasi utama",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人の 覚え方は どれですか。",
+      "options": [
+        "文を 作って 声に 出す。",
+        "辞書を 買うだけ。",
+        "同じ 字を 書くだけ。",
+        "音を 聞かずに 意味だけ 見る。"
+      ],
+      "answer": 0,
+      "audio": "女:どうやって新しい言葉を覚えているの。\n男:書くだけでは忘れるから、短い文を作って声に出しているよ。\nNarrator: 男の人の 覚え方は どれですか。",
+      "transcript": "女:どうやって新しい言葉を覚えているの。\n男:書くだけでは忘れるから、短い文を作って声に出しているよ。\nNarrator: 男の人の 覚え方は どれですか。"
+    },
+    {
+      "id": "n4-p03-071",
+      "section": 2,
+      "kind": "Menyimak informasi utama",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "紙が 一部 残ったのは なぜですか。",
+      "options": [
+        "先生が 全部 持っていったから。",
+        "印刷を 失敗したから。",
+        "欠席した 人が いるから。",
+        "一人 二部ずつ 配ったから。"
+      ],
+      "answer": 2,
+      "audio": "男:発表の紙、全部配った。\n女:一人休みだから一部残ったよ。先生の机に置いておいた。\nNarrator: 紙が 一部 残ったのは なぜですか。",
+      "transcript": "男:発表の紙、全部配った。\n女:一人休みだから一部残ったよ。先生の机に置いておいた。\nNarrator: 紙が 一部 残ったのは なぜですか。"
+    },
+    {
+      "id": "n4-p03-072",
+      "section": 2,
+      "kind": "Menyimak informasi utama",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "男の人は 先輩を どう 思っていますか。",
+      "options": [
+        "何も 教えない 人。",
+        "ほめることが ない 人。",
+        "相談しやすい 人。",
+        "間違いを 見ない 人。"
+      ],
+      "answer": 2,
+      "audio": "女:先輩は厳しい。\n男:間違いはすぐ教えてくれるけど、できたときもほめてくれるから、僕は話しやすいと思う。\nNarrator: 男の人は 先輩を どう 思っていますか。",
+      "transcript": "女:先輩は厳しい。\n男:間違いはすぐ教えてくれるけど、できたときもほめてくれるから、僕は話しやすいと思う。\nNarrator: 男の人は 先輩を どう 思っていますか。"
+    },
+    {
+      "id": "n4-p03-073",
+      "section": 2,
+      "kind": "Menyimak informasi utama",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "女の人は いつ 資料を 作りますか。",
+      "options": [
+        "提出した 後。",
+        "明日の 夜。",
+        "明日の 朝。",
+        "今日の 残業中。"
+      ],
+      "answer": 2,
+      "audio": "男:残業して資料を作るの。\n女:今日は家の用事があるから、明日の朝早く来ることにしたの。提出は昼までだから間に合うよ。\nNarrator: 女の人は いつ 資料を 作りますか。",
+      "transcript": "男:残業して資料を作るの。\n女:今日は家の用事があるから、明日の朝早く来ることにしたの。提出は昼までだから間に合うよ。\nNarrator: 女の人は いつ 資料を 作りますか。"
+    },
+    {
+      "id": "n4-p03-074",
+      "section": 2,
+      "kind": "Menyimak informasi utama",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "何が 役に 立ちましたか。",
+      "options": [
+        "実際に 機械を 使ったこと。",
+        "見学せず 帰ったこと。",
+        "ほかの 人の 名前を 書いたこと。",
+        "説明書を 買ったこと。"
+      ],
+      "answer": 0,
+      "audio": "女:研修で一番役に立ったのは。\n男:説明を読むだけでなく、実際に機械を動かせたことだね。自分の間違いが分かったから。\nNarrator: 何が 役に 立ちましたか。",
+      "transcript": "女:研修で一番役に立ったのは。\n男:説明を読むだけでなく、実際に機械を動かせたことだね。自分の間違いが分かったから。\nNarrator: 何が 役に 立ちましたか。"
+    },
+    {
+      "id": "n4-p03-075",
+      "section": 2,
+      "kind": "Menyimak ungkapan sesuai situasi",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "何と 言いますか。",
+      "options": [
+        "今日からお世話になります。よろしくお願いします。",
+        "今日は 都合が 悪いので、欠席します。",
+        "帰りの 電車は もう 出ました。"
+      ],
+      "answer": 0,
+      "audio": "Narrator: 研修の 初日に 新しい 同僚に 挨拶します。 何と言いますか。",
+      "transcript": "Narrator: 研修の 初日に 新しい 同僚に 挨拶します。 何と言いますか。",
+      "scene": {
+        "type": "greeting",
+        "caption": "研修の 初日に 新しい 同僚に 挨拶します。"
+      }
+    },
+    {
+      "id": "n4-p03-076",
+      "section": 2,
+      "kind": "Menyimak ungkapan sesuai situasi",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "何と 言いますか。",
+      "options": [
+        "この 書類を 先に 読んでください。",
+        "こちらの 荷物は 来週 発送します。",
+        "丁寧に教えてくださって、ありがとうございました。"
+      ],
+      "answer": 2,
+      "audio": "Narrator: 先輩が 分からない 作業を 教えてくれました。 何と言いますか。",
+      "transcript": "Narrator: 先輩が 分からない 作業を 教えてくれました。 何と言いますか。",
+      "scene": {
+        "type": "thanks",
+        "caption": "先輩が 分からない 作業を 教えてくれました。"
+      }
+    },
+    {
+      "id": "n4-p03-077",
+      "section": 2,
+      "kind": "Menyimak ungkapan sesuai situasi",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "何と 言いますか。",
+      "options": [
+        "私の 予定は 変更ありません。",
+        "次は 右の 道へ 進んでください。",
+        "提出が遅れて、申し訳ありません。"
+      ],
+      "answer": 2,
+      "audio": "Narrator: 提出の 約束に 遅れたことを 先生に 謝ります。 何と言いますか。",
+      "transcript": "Narrator: 提出の 約束に 遅れたことを 先生に 謝ります。 何と言いますか。",
+      "scene": {
+        "type": "apology",
+        "caption": "提出の 約束に 遅れたことを 先生に 謝ります。"
+      }
+    },
+    {
+      "id": "n4-p03-078",
+      "section": 2,
+      "kind": "Menyimak ungkapan sesuai situasi",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "何と 言いますか。",
+      "options": [
+        "この書類を見ていただけませんか。",
+        "今日は 私が 先に 帰ります。",
+        "この 資料は 昨日 受け取りました。"
+      ],
+      "answer": 0,
+      "audio": "Narrator: 同僚に 自分の 書類を 確認してほしいです。 何と言いますか。",
+      "transcript": "Narrator: 同僚に 自分の 書類を 確認してほしいです。 何と言いますか。",
+      "scene": {
+        "type": "request",
+        "caption": "同僚に 自分の 書類を 確認してほしいです。"
+      }
+    },
+    {
+      "id": "n4-p03-079",
+      "section": 2,
+      "kind": "Menyimak ungkapan sesuai situasi",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "何と 言いますか。",
+      "options": [
+        "お先に失礼します。お疲れさまです。",
+        "初めまして、今日から ここで 働きます。",
+        "どうぞ、もう一度 中へ お入りください。"
+      ],
+      "answer": 0,
+      "audio": "Narrator: 仕事が 終わり、まだ 仕事中の 同僚より 先に 帰ります。 何と言いますか。",
+      "transcript": "Narrator: 仕事が 終わり、まだ 仕事中の 同僚より 先に 帰ります。 何と言いますか。",
+      "scene": {
+        "type": "farewell",
+        "caption": "仕事が 終わり、まだ 仕事中の 同僚より 先に 帰ります。"
+      }
+    },
+    {
+      "id": "n4-p03-080",
+      "section": 2,
+      "kind": "Menyimak respons langsung",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "返事は どれですか。",
+      "options": [
+        "「けいかく」と読みます。",
+        "荷物は明日の午後に届きます。",
+        "この服は冷たい水で洗ってください。"
+      ],
+      "answer": 0,
+      "audio": "女: この漢字の読み方を教えてください。",
+      "transcript": "女: この漢字の読み方を教えてください。"
+    },
+    {
+      "id": "n4-p03-081",
+      "section": 2,
+      "kind": "Menyimak respons langsung",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "返事は どれですか。",
+      "options": [
+        "薬は食後に飲むように言われました。",
+        "ありがとうございます。練習したので、うれしいです。",
+        "二番の窓口で切符を買ってください。"
+      ],
+      "answer": 1,
+      "audio": "女: 発表、分かりやすかったですよ。",
+      "transcript": "女: 発表、分かりやすかったですよ。"
+    },
+    {
+      "id": "n4-p03-082",
+      "section": 2,
+      "kind": "Menyimak respons langsung",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "返事は どれですか。",
+      "options": [
+        "電池は店の奥で売っています。",
+        "最近は毎朝、川のそばを歩いています。",
+        "はい、最初から説明しますね。"
+      ],
+      "answer": 2,
+      "audio": "女: もう一度説明していただけますか。",
+      "transcript": "女: もう一度説明していただけますか。"
+    },
+    {
+      "id": "n4-p03-083",
+      "section": 2,
+      "kind": "Menyimak respons langsung",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "返事は どれですか。",
+      "options": [
+        "妹は今、別の町で働いています。",
+        "社員証と筆記用具です。",
+        "この道を右に曲がると病院があります。"
+      ],
+      "answer": 1,
+      "audio": "女: 明日の研修には何を持っていきますか。",
+      "transcript": "女: 明日の研修には何を持っていきますか。"
+    },
+    {
+      "id": "n4-p03-084",
+      "section": 2,
+      "kind": "Menyimak respons langsung",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "返事は どれですか。",
+      "options": [
+        "確認して、必要なら直します。",
+        "駅から歩いて十分ほどです。",
+        "最近は毎朝、川のそばを歩いています。"
+      ],
+      "answer": 0,
+      "audio": "女: この数字、間違っていませんか。",
+      "transcript": "女: この数字、間違っていませんか。"
+    },
+    {
+      "id": "n4-p03-085",
+      "section": 2,
+      "kind": "Menyimak respons langsung",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "返事は どれですか。",
+      "options": [
+        "妹は今、別の町で働いています。",
+        "この道を右に曲がると病院があります。",
+        "どういたしまして。また声をかけてください。"
+      ],
+      "answer": 2,
+      "audio": "女: 手伝ってくれて、ありがとう。",
+      "transcript": "女: 手伝ってくれて、ありがとう。"
+    },
+    {
+      "id": "n4-p03-086",
+      "section": 2,
+      "kind": "Menyimak respons langsung",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "返事は どれですか。",
+      "options": [
+        "ええ、五時までにお願いします。",
+        "電池は店の奥で売っています。",
+        "荷物は明日の午後に届きます。"
+      ],
+      "answer": 0,
+      "audio": "女: 提出は今日まででしたよね。",
+      "transcript": "女: 提出は今日まででしたよね。"
+    },
+    {
+      "id": "n4-p03-087",
+      "section": 2,
+      "kind": "Menyimak respons langsung",
+      "instruction": "話を 聞いて、答えてください。",
+      "idn": "Dengarkan audio, lalu pilih satu jawaban yang tepat.",
+      "jp": "返事は どれですか。",
+      "options": [
+        "妹は今、別の町で働いています。",
+        "はい、一つ聞いてもいいですか。",
+        "この料理には卵を使っていません。"
+      ],
+      "answer": 1,
+      "audio": "女: 質問がある人は手を挙げてください。",
+      "transcript": "女: 質問がある人は手を挙げてください。"
+    }
+  ]
+}
