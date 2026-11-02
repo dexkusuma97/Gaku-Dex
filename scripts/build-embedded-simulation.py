@@ -5,6 +5,7 @@ root=Path(__file__).resolve().parents[1];src=root/'dist/prototipe-simulasi';dest
 s=(src/'app.js').read_text()
 # Use a separate dialog, live region, and scoped host; preserve the exam engine.
 s=s.replace("'#dialog'","'#simulation-dialog'").replace('id="dialog-title"','id="simulation-dialog-title"').replace("'#announce'","'#simulation-announce'")
+s=s.replace("+body+", "+qualifyHandlers(body)+")
 s=s.replace("+actions+'</div>'","+qualifyHandlers(actions)+'</div>'")
 a=s.index('function prototypeHeader(');b=s.index('\nfunction sources()',a)
 s=s[:a]+'''function prototypeHeader(step){return window.GakuSimulationHost.title('Simulasi',step===0?'Latihan ujian, satu langkah lebih siap.':EXAMS[state.exam].name+' · '+packLabel())+'<main class="shell">'}

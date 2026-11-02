@@ -1353,3 +1353,8 @@ Gambar donasi asli ditampilkan utuh pada pembukaan/muat ulang aplikasi. Tutup me
 ## 2 November 2026 — Batch 34: Simulasi N4/A2 paket 01–04
 
 Delapan paket, 548 butir baru: N4 4×87 dan JFT sasaran A2 4×50. Pilihan level memisahkan menu, paket, timer, sesi/reload dan riwayat; N5/A1 lama dipertahankan. Paket 05–06 baru menunggu Claude. 164 naskah listening memakai TTS perangkat; MP3 baru belum dibuat. Validator diperluas, filter riwayat A2 ditambahkan, 57 berkas tes dan browser desktop/390px diperiksa. Masih draft latihan, belum telaah penutur asli atau APK fisik. Paket tambahan membutuhkan Paket 33. Rincian: data/SIMULATION_N4_A2_REVIEW_20261102.md.
+
+
+## 2 November 2026 — Batch 35: Enam ilustrasi situasi dan klik nomor soal
+
+Enam ilustrasi asli 1536×1024 untuk situasi N4 yang terbantu gambar; 14 situasi lain tetap berupa caption. Peta nomor soal pada popup kini memanggil fungsi modul yang benar, menutup popup dan membuka nomor terpilih tanpa mereset jawaban, tanda atau timer. Batas bagian dan mode menyimak JFT maju tetap berlaku. 58 berkas tes lulus; klik popup dan ilustrasi diperiksa di browser 390px. Paket ini menggabungkan isi Paket 34 sehingga dapat dipasang setelah Paket 33 atau 34. Rincian: data/SIMULATION_VISUAL_NAV_REVIEW_20261102.md.

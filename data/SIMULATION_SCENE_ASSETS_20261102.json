@@ -1,0 +1,44 @@
+[
+  {
+    "file": "dist/assets/simulation-scenes/n4-moving-boxes.png",
+    "sha256": "0bca08c704221cd3104511ac8836aa49a1016c8d08eb4f7a6a4e18d6a1b936bc",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1945740
+  },
+  {
+    "file": "dist/assets/simulation-scenes/n4-neighbor-noise.png",
+    "sha256": "cc9905b9ac7af770271161449541bc1f2213e08573424c47dbaf7763a4731730",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2143857
+  },
+  {
+    "file": "dist/assets/simulation-scenes/n4-high-shelf.png",
+    "sha256": "bbfa6c877d8c9e08a094f3d76b873dad3a2f91326ed833bb27fbb030f64ee4ec",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1730567
+  },
+  {
+    "file": "dist/assets/simulation-scenes/n4-dropped-goods.png",
+    "sha256": "e6bc04dba15d8ad2763dcf72aaf13e96a5d54114263c59cd15c737670b89aa61",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2058047
+  },
+  {
+    "file": "dist/assets/simulation-scenes/n4-document-check.png",
+    "sha256": "8520e40d238ee13b1191556b72450631f66f09d416f275b0750d526267522f4a",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1921700
+  },
+  {
+    "file": "dist/assets/simulation-scenes/n4-group-photo.png",
+    "sha256": "870572e16ae40dc92c7218b57dcfa66d2bf343a64588243fea6783e257420a80",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2176554
+  }
+]
