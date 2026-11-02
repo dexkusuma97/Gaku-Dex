@@ -1343,3 +1343,8 @@ Tambah dua buku bahasa Indonesia ke Rangkuman > Buku: 424 + 517 halaman, 36 pili
 ## 2 November 2026 — Batch 32: Import–Export Kotoba/Kanji pribadi
 
 Ekspor JSON dengan filter jenis/level, impor berpratinjau, cek duplikat/format, Batal dan hasil per jenis. Hanya data baru valid ditambahkan; data lama tetap dipertahankan. Jurnal pemulihan menjaga konsistensi dua daftar saat penyimpanan terhenti. 55 berkas tes dan browser diperiksa. Uji audio ditunda; paket tambahan membutuhkan Paket 30. Rincian: data/IMPORT_EXPORT_REVIEW_20261102.md.
+
+
+## 2 November 2026 — Batch 33: Sawer / Donasi dan popup pembukaan
+
+Gambar donasi asli ditampilkan utuh pada pembukaan/muat ulang aplikasi. Tutup melalui ×, ketukan backdrop atau Escape, dengan transisi masuk/keluar lembut, fokus modal dan pemulihan guliran. Tidak muncul ulang saat navigasi biasa. Halaman Sawer aktif dengan pembuka popup dan simpan gambar. 56 berkas tes lulus; browser desktop dan iframe 390 × 844 diperiksa. Belum diuji pada APK/WebView Android fisik. Paket tambahan membutuhkan Paket 32 lengkap; uji audio Irodori tetap ditunda. Rincian: data/DONATION_REVIEW_20261102.md.
