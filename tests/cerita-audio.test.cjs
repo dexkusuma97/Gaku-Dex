@@ -1,9 +1,9 @@
 'use strict';
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),crypto=require('node:crypto');
 const c={window:{}};vm.createContext(c);
-for(const f of ['data','dongeng','tambahan','bersambung','nitamono','isold'])vm.runInContext(fs.readFileSync('dist/cerita-'+f+'.js','utf8'),c);
+for(const f of ['data','dongeng','tambahan','bersambung','nitamono','isold','amy'])vm.runInContext(fs.readFileSync('dist/cerita-'+f+'.js','utf8'),c);
 const expected=new Set();
-for(const b of c.window.GAKU_CERITA_DATA){assert.notEqual(b.audioPending,true,b.id+' narration still pending');let n=0;for(const part of b.bab)for(const line of part.kalimat){assert.ok(line.t.length);expected.add(b.id+'-'+(++n)+'.mp3');}}
+for(const b of c.window.GAKU_CERITA_DATA){if(b.audioMode==='device'){assert.equal(b.id,'amy');assert.equal(b.bab.reduce((n,p)=>n+p.kalimat.length,0),63);continue;}assert.notEqual(b.audioPending,true,b.id+' narration still pending');let n=0;for(const part of b.bab)for(const line of part.kalimat){assert.ok(line.t.length);expected.add(b.id+'-'+(++n)+'.mp3');}}
 const actual=fs.readdirSync('dist/assets/cerita').filter(f=>f.endsWith('.mp3'));
 assert.equal(expected.size,361);assert.deepEqual(actual.sort(),[...expected].sort());
 for(const name of expected){const data=fs.readFileSync('dist/assets/cerita/'+name);assert.ok(data.length>100);assert.ok(data.subarray(0,3).toString()==='ID3'||data[0]===255&&(data[1]&224)===224,name);}

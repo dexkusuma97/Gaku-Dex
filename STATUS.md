@@ -1366,3 +1366,10 @@ Enam ilustrasi asli 1536×1024 untuk situasi N4 yang terbantu gambar; 14 situasi
 - Kana: mode Kana → Romaji dan Romaji → Kana untuk Hiragana/Katakana.
 - Sesi Semua lebih dari 40 soal dapat dipulihkan setelah reload.
 - Bunpo tetap 5/10, Campuran tetap 40; aturan waktu/nyawa tetap.
+
+
+## Paket 37 — Amy Berlengan Satu (2026-11-03)
+- Tambah rak Amy, 5 bagian, 63 blok bacaan Jepang/Indonesia, furigana, penjelasan dan 15 soal pemahaman.
+- Kredit YouTube: Justnesst dan manga asal Shun Akagi (紅木春); tautan resmi Shonen Jump+.
+- Narasi Amy memakai TTS Jepang perangkat; 361 MP3 cerita lama tetap.
+- Durasi 30/40 tahun yang tidak konsisten pada transkrip diganti ungkapan umum.

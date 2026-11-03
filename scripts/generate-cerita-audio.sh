@@ -16,7 +16,7 @@ trap cleanup EXIT
 node - "$project_dir/dist/cerita-data.js" "$filter" > "$manifest" <<'NODE'
 const fs=require('node:fs'),vm=require('node:vm'),path=require('node:path');
 const c={window:{}};vm.createContext(c);vm.runInContext(fs.readFileSync(process.argv[2],'utf8'),c);
-for(const file of ['cerita-dongeng.js','cerita-tambahan.js','cerita-bersambung.js','cerita-nitamono.js','cerita-isold.js']){const extra=path.join(path.dirname(process.argv[2]),file);if(fs.existsSync(extra))vm.runInContext(fs.readFileSync(extra,'utf8'),c);}
+for(const file of ['cerita-dongeng.js','cerita-tambahan.js','cerita-bersambung.js','cerita-nitamono.js','cerita-isold.js','cerita-amy.js']){const extra=path.join(path.dirname(process.argv[2]),file);if(fs.existsSync(extra))vm.runInContext(fs.readFileSync(extra,'utf8'),c);}
 const f=process.argv[3],sel=c.window.GAKU_CERITA_DATA.filter(s=>f==='all'||s.id===f);
 if(!sel.length){console.error('GAGAL: cerita tidak ditemukan: '+f);process.exit(1);}
 for(const s of sel){if(!/^[a-z0-9-]+$/.test(s.id))throw Error('ID tidak aman');let n=0;
