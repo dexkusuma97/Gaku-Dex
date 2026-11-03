@@ -15,7 +15,7 @@ window.GAKU_CERITA_DATA.push({
     "jenis": "Adaptasi pembelajaran dari transkrip pengguna",
     "url": "https://shonenjumpplus.com/episode/13933686331727743929",
     "label": "Manga asli di Shonen Jump+",
-    "catatan": "Sumber: YouTube: Justnesst. Adaptasi alur berdasarkan ringkasan dan transkrip Indonesia yang dikirim pengguna, dengan kredit manga Kataude no Amy karya Akagi Shun (紅木春). Teks Jepang, terjemahan, penjelasan, dan latihan disusun untuk DeX Gaku; bukan naskah Jepang asli manga. Disajikan dengan bantuan membaca untuk tingkat N4–N3."
+    "catatan": "Sumber: YouTube: Justnesst. Adaptasi alur berdasarkan ringkasan dan transkrip Indonesia yang dikirim pengguna, dengan kredit manga Kataude no Amy karya Akagi Shun (紅木春). Teks Jepang, terjemahan, penjelasan, dan latihan disusun untuk DeX Gaku; bukan naskah Jepang asli manga. Disajikan dengan bantuan membaca untuk tingkat N4–N3. Ilustrasi sampul berwarna dibuat baru untuk setiap bagian."
   },
   "audioMode": "device",
   "bab": [
@@ -699,7 +699,9 @@ window.GAKU_CERITA_DATA.push({
           ],
           "benar": 0
         }
-      ]
+      ],
+      "cover": "assets/cerita/cover-amy-part-01.webp",
+      "coverAlt": "Amy si boneka kain menawarkan bunga kuning kepada ayahnya di ruang kerja yang hangat."
     },
     {
       "no": 2,
@@ -1613,7 +1615,9 @@ window.GAKU_CERITA_DATA.push({
           ],
           "benar": 0
         }
-      ]
+      ],
+      "cover": "assets/cerita/cover-amy-part-02.webp",
+      "coverAlt": "Amy memegang foto keluarga lama sementara ayah mengenang putri kandungnya."
     },
     {
       "no": 3,
@@ -2445,7 +2449,9 @@ window.GAKU_CERITA_DATA.push({
           ],
           "benar": 0
         }
-      ]
+      ],
+      "cover": "assets/cerita/cover-amy-part-03.webp",
+      "coverAlt": "Ayah menyerahkan dua amplop kepada Amy di sisi tempat tidur."
     },
     {
       "no": 4,
@@ -3112,7 +3118,9 @@ window.GAKU_CERITA_DATA.push({
           ],
           "benar": 0
         }
-      ]
+      ],
+      "cover": "assets/cerita/cover-amy-part-04.webp",
+      "coverAlt": "Amy berjalan membawa surat di jalan basah dengan satu lengan boneka yang tersisa."
     },
     {
       "no": 5,
@@ -4058,7 +4066,9 @@ window.GAKU_CERITA_DATA.push({
           ],
           "benar": 0
         }
-      ]
+      ],
+      "cover": "assets/cerita/cover-amy-part-05.webp",
+      "coverAlt": "Amy membaca surat di toko bunga bersama bibi yang memberinya rumah baru."
     }
   ]
 });

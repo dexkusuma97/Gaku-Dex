@@ -22,6 +22,8 @@ window.GAKU_CERITA_DATA.push({
   "bab": [
     {
       "no": 1,
+      "cover": "assets/cerita/cover-nene-part-01.webp",
+      "coverAlt": "Nene terharu menikmati makan malam hangat buatan Rintaro di dapur kecil.",
       "judul": "Makan Malam yang Hangat",
       "kalimat": [
         {
@@ -948,6 +950,8 @@ window.GAKU_CERITA_DATA.push({
     },
     {
       "no": 2,
+      "cover": "assets/cerita/cover-nene-part-02.webp",
+      "coverAlt": "Rintaro meminta Nene berhenti di depan pintu kayu yang tertutup.",
       "judul": "Pintu yang Tertutup",
       "kalimat": [
         {
@@ -2038,6 +2042,8 @@ window.GAKU_CERITA_DATA.push({
     },
     {
       "no": 3,
+      "cover": "assets/cerita/cover-nene-part-03.webp",
+      "coverAlt": "Nene menemukan kamar bayi dan tiga foto keluarga di balik pintu.",
       "judul": "Kamar di Balik Pintu",
       "kalimat": [
         {
@@ -2967,6 +2973,8 @@ window.GAKU_CERITA_DATA.push({
     },
     {
       "no": 4,
+      "cover": "assets/cerita/cover-nene-part-04.webp",
+      "coverAlt": "Rintaro dan Nene berbagi janji untuk terus makan bersama di meja makan.",
       "judul": "Janji di Meja Makan",
       "kalimat": [
         {
@@ -3789,6 +3797,8 @@ window.GAKU_CERITA_DATA.push({
     },
     {
       "no": 5,
+      "cover": "assets/cerita/cover-nene-part-05.webp",
+      "coverAlt": "Nene menyentuh pipi Rintaro saat mereka bertemu kembali di ambang pintu.",
       "judul": "Sekali Lagi, di Ambang Pintu",
       "kalimat": [
         {
@@ -4733,6 +4743,8 @@ window.GAKU_CERITA_DATA.push({
     },
     {
       "no": 6,
+      "cover": "assets/cerita/cover-nene-part-06.webp",
+      "coverAlt": "Rintaro dan Nana makan bersama, dengan tempat makan untuk mengenang Nene.",
       "judul": "Makan Bersama, Selamanya",
       "kalimat": [
         {

@@ -36,7 +36,7 @@ if(packOnly){
  const zip=path.join(base,isKaiwa?mode+'-audio.zip':'simulasi-n4-a2-audio-baru.zip'),temp=path.join(base,isKaiwa?mode+'-audio.tmp.zip':'simulasi-n4-a2-audio-baru.tmp.zip');
  fs.rmSync(temp,{force:true});run('zip',['-q',temp,...rows.map(q=>q.file)],{cwd:out});fs.renameSync(temp,zip);console.log('Selesai: '+zip+' ('+rows.length+' MP3)');process.exit(0);
 }
-if(dry){for(const q of rows)console.log('RENCANA '+q.file+' · '+q.turns.length+' bagian: '+q.turns.map(t=>t.speaker).join(' → '));console.log('TOTAL '+rows.length+' MP3, '+rows.reduce((n,q)=>n+q.turns.length,0)+' bagian suara.');process.exit(0);}
+if(dry){for(const q of rows)console.log('RENCANA '+q.file+' · '+q.turns.length+' bagian: '+q.turns.map(t=>t.speaker).join(' → '));console.log('TOTAL '+rows.length+' MP3, '+rows.reduce((n,q)=>n+q.turns.length,0)+' bagian suara.');return; /* Let Node drain stdout before exiting after hundreds of dry-run rows. */}
 if(!key||/[\r\n"\\]/.test(key))throw Error('Atur ELEVENLABS_API_KEY di Termux. Jangan kirim ke chat.');
 run('curl',['--version']);run('ffmpeg',['-version']);
 fs.mkdirSync(out,{recursive:true});fs.mkdirSync(cache,{recursive:true});

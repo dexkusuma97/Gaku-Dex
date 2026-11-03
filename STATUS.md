@@ -1382,3 +1382,11 @@ Enam ilustrasi asli 1536×1024 untuk situasi N4 yang terbantu gambar; 14 situasi
 - Skrip Termux–ElevenLabs: dry-run, filter new/all/per paket, cache per giliran, verifikasi hash, --install MP3 dan registrasi player, serta --pack ZIP.
 - Voice mengikuti skrip simulasi sebelumnya; dialog maksimal wanita/pria ditambah narator. Belum menjalankan API atau membuat MP3 asli baru.
 - Sesi lama paket 1–4 tetap kompatibel karena bank dan revisi sesi lama tidak diubah.
+
+
+## Paket 39 — Sampul berwarna Amy (2026-11-03)
+- Lima ilustrasi manga berwarna berbeda untuk Bagian 1–5, masing-masing WebP 600 × 900, di bawah 120 KiB.
+- Kartu rak, daftar, detail, dan pemulihan rute memakai sampul bagian yang sesuai; judul vertikal tidak menutupi ilustrasi bagian.
+- Narasi, soal, kredit Justnesst, serta rekaman simulasi yang sudah dipasang dipertahankan.
+- Prompt gambar dan manifest hash disertakan.
+- Regresi tes audio: verifikasi N5/A1 tetap ketat, MP3 N4/A2 kanonis yang sudah dipasang diterima.

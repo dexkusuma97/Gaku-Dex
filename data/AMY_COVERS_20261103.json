@@ -1,0 +1,50 @@
+{
+  "method": "Built-in image_gen; original colored manga illustrations, converted to WebP for the app",
+  "assets": [
+    {
+      "part": 1,
+      "file": "dist/assets/cerita/cover-amy-part-01.webp",
+      "bytes": 119174,
+      "width": 600,
+      "height": 900,
+      "quality": 70,
+      "sha256": "965690e030d84b21449abf755cad443960ad82f960ff995a622a6806f84c60c0"
+    },
+    {
+      "part": 2,
+      "file": "dist/assets/cerita/cover-amy-part-02.webp",
+      "bytes": 119246,
+      "width": 600,
+      "height": 900,
+      "quality": 70,
+      "sha256": "d37587a56edf3a32e63b626a9bd8d5e7123138245592f1e5746258f62494a2c8"
+    },
+    {
+      "part": 3,
+      "file": "dist/assets/cerita/cover-amy-part-03.webp",
+      "bytes": 110414,
+      "width": 600,
+      "height": 900,
+      "quality": 62,
+      "sha256": "14738426813f8b8e0189bccccc8744d09d0f51e1984b5ba3869fa59e1f4ceca6"
+    },
+    {
+      "part": 4,
+      "file": "dist/assets/cerita/cover-amy-part-04.webp",
+      "bytes": 122106,
+      "width": 600,
+      "height": 900,
+      "quality": 62,
+      "sha256": "476e3ebe2b89bb753a4e377144e35d68151dc4e13cd7abae7940b63495d83adb"
+    },
+    {
+      "part": 5,
+      "file": "dist/assets/cerita/cover-amy-part-05.webp",
+      "bytes": 119860,
+      "width": 600,
+      "height": 900,
+      "quality": 46,
+      "sha256": "a61d0f5d106247d49ced4defd8e07a7c0f9e4644b1e8443bb3fb56a35ccc2706"
+    }
+  ]
+}

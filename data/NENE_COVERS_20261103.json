@@ -1,0 +1,59 @@
+{
+  "book": "nene",
+  "assets": [
+    {
+      "part": 1,
+      "file": "dist/assets/cerita/cover-nene-part-01.webp",
+      "width": 600,
+      "height": 900,
+      "bytes": 122216,
+      "quality": 79,
+      "sha256": "2c7221937b5f83123c6a3d8126b1cc55ca78203dab275dc16315d309ee776b53"
+    },
+    {
+      "part": 2,
+      "file": "dist/assets/cerita/cover-nene-part-02.webp",
+      "width": 600,
+      "height": 900,
+      "bytes": 110794,
+      "quality": 85,
+      "sha256": "5ddb22121a96a4dd6e1d246292399c80168a2171167b8466ea5bd44da70044c2"
+    },
+    {
+      "part": 3,
+      "file": "dist/assets/cerita/cover-nene-part-03.webp",
+      "width": 600,
+      "height": 900,
+      "bytes": 122492,
+      "quality": 82,
+      "sha256": "0f0b6b92668db9afacaabaee58d442b8fe7293615b0ecaf89f8a0d4a30aaa656"
+    },
+    {
+      "part": 4,
+      "file": "dist/assets/cerita/cover-nene-part-04.webp",
+      "width": 600,
+      "height": 900,
+      "bytes": 122196,
+      "quality": 77,
+      "sha256": "bee24579c6df20ef0b24c25d553163b39bb4ef8418effdd7819802dfa34f0736"
+    },
+    {
+      "part": 5,
+      "file": "dist/assets/cerita/cover-nene-part-05.webp",
+      "width": 600,
+      "height": 900,
+      "bytes": 119548,
+      "quality": 80,
+      "sha256": "9449a05201c6306a9bc41a45dd1b397caf05df9d1c06215b701875d1194acb3f"
+    },
+    {
+      "part": 6,
+      "file": "dist/assets/cerita/cover-nene-part-06.webp",
+      "width": 600,
+      "height": 900,
+      "bytes": 121778,
+      "quality": 71,
+      "sha256": "b435ff504336708eac2b29b7e4340b9bc9b28608f1035c615de53a67180b7a58"
+    }
+  ]
+}
