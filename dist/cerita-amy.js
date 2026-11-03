@@ -17,7 +17,7 @@ window.GAKU_CERITA_DATA.push({
     "label": "Manga asli di Shonen Jump+",
     "catatan": "Sumber: YouTube: Justnesst. Adaptasi alur berdasarkan ringkasan dan transkrip Indonesia yang dikirim pengguna, dengan kredit manga Kataude no Amy karya Akagi Shun (紅木春). Teks Jepang, terjemahan, penjelasan, dan latihan disusun untuk DeX Gaku; bukan naskah Jepang asli manga. Disajikan dengan bantuan membaca untuk tingkat N4–N3. Ilustrasi sampul berwarna dibuat baru untuk setiap bagian."
   },
-  "audioMode": "device",
+  "audioMode": "recorded",
   "bab": [
     {
       "no": 1,

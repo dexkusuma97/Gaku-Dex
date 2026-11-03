@@ -1,0 +1,385 @@
+{
+  "voice_id": "fUjY9K2nAIwlALOwSiwc",
+  "count": 63,
+  "source_zip_sha256": "a12d889afeec72ff779d8d21ea83b3a82b7982c50c7441da90dd7e6d1e6fd508",
+  "files": [
+    {
+      "file": "amy-1.mp3",
+      "bytes": 86561,
+      "sha256": "e13a78d847d84006890c394ca8928ed4ca9a25af46b9794c53052251e80b32e3",
+      "duration_seconds": 5.381224
+    },
+    {
+      "file": "amy-2.mp3",
+      "bytes": 97010,
+      "sha256": "79e831925b8cd5f3bd8e035058d5463401f793e02df62fc4d23988200ff2631b",
+      "duration_seconds": 6.034286
+    },
+    {
+      "file": "amy-3.mp3",
+      "bytes": 76948,
+      "sha256": "4a3a1d495d58df1d5e3a435fe0a1bdb8034e98a8318eeb82df63ddcefcd471db",
+      "duration_seconds": 4.780408
+    },
+    {
+      "file": "amy-4.mp3",
+      "bytes": 100772,
+      "sha256": "205ba81d935a582348bcdead3aa155e13d1e6b55f8d79ee09bf5ed6bdd35f706",
+      "duration_seconds": 6.269388
+    },
+    {
+      "file": "amy-5.mp3",
+      "bytes": 69425,
+      "sha256": "99d9f2d1f31ffdad373b581920c53dae3b7594ad490dc9587dbdec9e1fe4f9bf",
+      "duration_seconds": 4.310204
+    },
+    {
+      "file": "amy-6.mp3",
+      "bytes": 104533,
+      "sha256": "f3ee2c67c3980dc1c592b6fce277113dc3045b80d297583026b44a67c9adc2f7",
+      "duration_seconds": 6.50449
+    },
+    {
+      "file": "amy-7.mp3",
+      "bytes": 102862,
+      "sha256": "21426f28bb60cc9b01949842a72a0352546810ea713361208136641111e6138a",
+      "duration_seconds": 6.4
+    },
+    {
+      "file": "amy-8.mp3",
+      "bytes": 91577,
+      "sha256": "731b6f7f1ac5a23b969f2150472a6a77997c255622cd0bf5473716457e36d92b",
+      "duration_seconds": 5.694694
+    },
+    {
+      "file": "amy-9.mp3",
+      "bytes": 83635,
+      "sha256": "d4a339e2d881b19aac15a3843d18fe619f13da350ec095f73560833569c584b9",
+      "duration_seconds": 5.198367
+    },
+    {
+      "file": "amy-10.mp3",
+      "bytes": 96174,
+      "sha256": "0b21dee303d8fdfe201853066fa23ee38dcc114e2c820a3fcadaced791cc338b",
+      "duration_seconds": 5.982041
+    },
+    {
+      "file": "amy-11.mp3",
+      "bytes": 126685,
+      "sha256": "6fd61c4cf25e33ad43199a53adab096a8593964e0483e80ee9842c3d58e0aacd",
+      "duration_seconds": 7.88898
+    },
+    {
+      "file": "amy-12.mp3",
+      "bytes": 80710,
+      "sha256": "47a44ba14e931c3b4c496186e2975e42ef857cc59c2c2b3b7401d55cbfa9f81e",
+      "duration_seconds": 5.01551
+    },
+    {
+      "file": "amy-13.mp3",
+      "bytes": 99100,
+      "sha256": "ae97aafce4faf1b32c9ee8f45c450622042d5d6aa491bdb3566cdd78d64a4ca6",
+      "duration_seconds": 6.164898
+    },
+    {
+      "file": "amy-14.mp3",
+      "bytes": 107459,
+      "sha256": "66d34c2bdbfc5ba731cffd922f6a8373c825fffeb41fb103bfcee7fed62a904d",
+      "duration_seconds": 6.687347
+    },
+    {
+      "file": "amy-15.mp3",
+      "bytes": 111221,
+      "sha256": "7e3b879c9000f6125ca59b2e9e3b596b4743eb451dbada153255a4967185eb17",
+      "duration_seconds": 6.922449
+    },
+    {
+      "file": "amy-16.mp3",
+      "bytes": 97846,
+      "sha256": "48b402ce596543dbc9f3d96380542b92b1d0741c1cc082b6fe8beb1408fb2360",
+      "duration_seconds": 6.086531
+    },
+    {
+      "file": "amy-17.mp3",
+      "bytes": 98264,
+      "sha256": "134aa6c591ac4662229cb85512e7171acf1490e4de3a4cc2829845bd388858f6",
+      "duration_seconds": 6.112653
+    },
+    {
+      "file": "amy-18.mp3",
+      "bytes": 90323,
+      "sha256": "317e8486a97e3e966d0cc9304eb8430f5df539142c33b113b9f8eb361c5541f7",
+      "duration_seconds": 5.616327
+    },
+    {
+      "file": "amy-19.mp3",
+      "bytes": 61902,
+      "sha256": "7e1df2e9b13a9c9074e4aa8636748b0748539aa16abb6d35648997256855ac83",
+      "duration_seconds": 3.84
+    },
+    {
+      "file": "amy-20.mp3",
+      "bytes": 113311,
+      "sha256": "cf2951795751fc896ac04035ca50dd8db0e593dffcbac4b0a6ab0a3843538f36",
+      "duration_seconds": 7.053061
+    },
+    {
+      "file": "amy-21.mp3",
+      "bytes": 131283,
+      "sha256": "a3c771d93b58576ffdddcf3d8a9906352f351dea9b3efd9e09a2520cbc673baf",
+      "duration_seconds": 8.176327
+    },
+    {
+      "file": "amy-22.mp3",
+      "bytes": 98264,
+      "sha256": "e315db5ea5136a06232a0725e27f5f63d3f26c51227862c83688a21a42510bd6",
+      "duration_seconds": 6.112653
+    },
+    {
+      "file": "amy-23.mp3",
+      "bytes": 148837,
+      "sha256": "9dd3de1a82e550720c2180ddcf73a90b1c0ed234e2eb51db942df7a8e18028fd",
+      "duration_seconds": 9.273469
+    },
+    {
+      "file": "amy-24.mp3",
+      "bytes": 111639,
+      "sha256": "c2290ae532ea7144d87ac2b5e94ef1100b1deb3985f4c39c4f6994471b9090cb",
+      "duration_seconds": 6.948571
+    },
+    {
+      "file": "amy-25.mp3",
+      "bytes": 154688,
+      "sha256": "93456f70470f276bfaf2b5b09da0f2712248ec4cc250ec66b84c48b67b03a8f8",
+      "duration_seconds": 9.639184
+    },
+    {
+      "file": "amy-26.mp3",
+      "bytes": 90323,
+      "sha256": "c20c7525ba49b40d5c6367b299fd27fa674c9de38ba8825bf9f1f7474e7e0e01",
+      "duration_seconds": 5.616327
+    },
+    {
+      "file": "amy-27.mp3",
+      "bytes": 104951,
+      "sha256": "972615c9ae762872de38a9af578196b182a24dfb45aa85c539e108cfbf9b930e",
+      "duration_seconds": 6.530612
+    },
+    {
+      "file": "amy-28.mp3",
+      "bytes": 115400,
+      "sha256": "68cca9a6cf0ec4e251c11f3250192bc8da493e0709d01ce797b0225bb22f7d7f",
+      "duration_seconds": 7.183673
+    },
+    {
+      "file": "amy-29.mp3",
+      "bytes": 111639,
+      "sha256": "1a838ef516909ed21f0f406301d72152f8173a9e6043b7538f42618a5e0dfcc1",
+      "duration_seconds": 6.948571
+    },
+    {
+      "file": "amy-30.mp3",
+      "bytes": 112475,
+      "sha256": "26a8c164603e4b341e3bcf0889ac4f4e912bd49368f40712ceb908e208dd2332",
+      "duration_seconds": 7.000816
+    },
+    {
+      "file": "amy-31.mp3",
+      "bytes": 96174,
+      "sha256": "ca2efd1cb134caaead6fdd7b4edff7c116e81e4626131a66926d90a552d4d210",
+      "duration_seconds": 5.982041
+    },
+    {
+      "file": "amy-32.mp3",
+      "bytes": 82799,
+      "sha256": "d49b218b2ccf5982b5729375925cd44527b20d4f479ea3339623a02fa64827c0",
+      "duration_seconds": 5.146122
+    },
+    {
+      "file": "amy-33.mp3",
+      "bytes": 171407,
+      "sha256": "ec37ccd5e25eaac540a67a4cb3321a1c7f2b827020fadf0c7b78fbab0762bca0",
+      "duration_seconds": 10.684082
+    },
+    {
+      "file": "amy-34.mp3",
+      "bytes": 77784,
+      "sha256": "32e456a8402233ef734126747375c682bceb68ca6a42992a0c07d9b58413b8ce",
+      "duration_seconds": 4.832653
+    },
+    {
+      "file": "amy-35.mp3",
+      "bytes": 77784,
+      "sha256": "2868f3a7648de4ca3509ed0214776e09bfe03cd3e1553931d4518fb60c45599d",
+      "duration_seconds": 4.832653
+    },
+    {
+      "file": "amy-36.mp3",
+      "bytes": 119162,
+      "sha256": "cdb9325dd20d53841ebc8b186c39e281f1d99301899a17798dd69602665b6758",
+      "duration_seconds": 7.418776
+    },
+    {
+      "file": "amy-37.mp3",
+      "bytes": 164719,
+      "sha256": "382c3c26959cce3fd78fbe62fc81c9427e7fa1135be9a7ad031835f8e9e48b04",
+      "duration_seconds": 10.266122
+    },
+    {
+      "file": "amy-38.mp3",
+      "bytes": 104951,
+      "sha256": "12e44f5d65e2ea0a8fd46f509877157c2fce98c6c1192b19b4b46916fb540be8",
+      "duration_seconds": 6.530612
+    },
+    {
+      "file": "amy-39.mp3",
+      "bytes": 97010,
+      "sha256": "c047e93f9884a3ee99a28f74b288ca7ab7b470ab3ba261d2a18daebfae48d24d",
+      "duration_seconds": 6.034286
+    },
+    {
+      "file": "amy-40.mp3",
+      "bytes": 107459,
+      "sha256": "bd77527a5dcc6e15014ff41f9cfc9e213b4c6f87ae9b64ba6b58d91c9ac0483c",
+      "duration_seconds": 6.687347
+    },
+    {
+      "file": "amy-41.mp3",
+      "bytes": 83635,
+      "sha256": "2e1661a3aa2ee7ff87338456cb16bb00c3f980f698cde75975f53f13f37964ef",
+      "duration_seconds": 5.198367
+    },
+    {
+      "file": "amy-42.mp3",
+      "bytes": 99100,
+      "sha256": "094c648b89936ba1145fd9631831a01c00cec02ff268957f16389b4722d31201",
+      "duration_seconds": 6.164898
+    },
+    {
+      "file": "amy-43.mp3",
+      "bytes": 131701,
+      "sha256": "3676a7fafa4c078aa0d96b5d42d0c8f9f074ccf1cca59f543655387d1fc6e518",
+      "duration_seconds": 8.202449
+    },
+    {
+      "file": "amy-44.mp3",
+      "bytes": 75276,
+      "sha256": "5a548031900a830d4bdf38a1c4a16cef1387fe818c060f7e3ff1923bc32d42ae",
+      "duration_seconds": 4.675918
+    },
+    {
+      "file": "amy-45.mp3",
+      "bytes": 53124,
+      "sha256": "bfeedda29b76ed9499e090e3c34e4ca17b748e3589a42abd70a46e78b07d0d5a",
+      "duration_seconds": 3.291429
+    },
+    {
+      "file": "amy-46.mp3",
+      "bytes": 79038,
+      "sha256": "8e5b3be524f0081a8cfa849e01cfce1250ade47f732ec472e76232e62886c544",
+      "duration_seconds": 4.91102
+    },
+    {
+      "file": "amy-47.mp3",
+      "bytes": 111639,
+      "sha256": "f316cada28a3ad5be2c1568072af1795a3d33efb356f529592b40ef14b32bcb3",
+      "duration_seconds": 6.948571
+    },
+    {
+      "file": "amy-48.mp3",
+      "bytes": 116236,
+      "sha256": "5d52d535510fe0560228ca367d90594d58d2f9894003d0f5a5664761f6195c10",
+      "duration_seconds": 7.235918
+    },
+    {
+      "file": "amy-49.mp3",
+      "bytes": 148001,
+      "sha256": "669852317a15b968c4fe72f01e2362e85e313a3ea5d55428675ccc726a8a4a89",
+      "duration_seconds": 9.221224
+    },
+    {
+      "file": "amy-50.mp3",
+      "bytes": 112475,
+      "sha256": "2d24c12ad02977711ccaecdb55dc82b849a77835731c38666b217b636c981009",
+      "duration_seconds": 7.000816
+    },
+    {
+      "file": "amy-51.mp3",
+      "bytes": 84471,
+      "sha256": "2cbc2f3395f5f58cec9c6b727c16dbb70c43920e557ab417ba8c85e4626c871a",
+      "duration_seconds": 5.250612
+    },
+    {
+      "file": "amy-52.mp3",
+      "bytes": 102862,
+      "sha256": "8be9edf6276f3c5626160240e5555697540ec2e06b5f9f77b346fc5a7775d6cb",
+      "duration_seconds": 6.4
+    },
+    {
+      "file": "amy-53.mp3",
+      "bytes": 122088,
+      "sha256": "f959bd3167459f9e0a1c662d19ed8c3e098083dd486e154f5f73bbe72616530c",
+      "duration_seconds": 7.601633
+    },
+    {
+      "file": "amy-54.mp3",
+      "bytes": 106623,
+      "sha256": "7f4b541a6be49cd6d3363d68fe60d875e136255851ef6111193e372debb1b365",
+      "duration_seconds": 6.635102
+    },
+    {
+      "file": "amy-55.mp3",
+      "bytes": 125013,
+      "sha256": "cab94b328ada3dc7cd8208ccee8c3eea8fc2a35cafd424d78e9c1b29b937be1d",
+      "duration_seconds": 7.78449
+    },
+    {
+      "file": "amy-56.mp3",
+      "bytes": 117908,
+      "sha256": "6013fb62300e9474bdf7873b4bd82ae4d48743f335d63fb1f30313e19d7a804a",
+      "duration_seconds": 7.340408
+    },
+    {
+      "file": "amy-57.mp3",
+      "bytes": 143822,
+      "sha256": "0f0e648508dfaba1771f947753503002de1df5e04c10e34112c55e7b9c596db3",
+      "duration_seconds": 8.96
+    },
+    {
+      "file": "amy-58.mp3",
+      "bytes": 165137,
+      "sha256": "461774030018b6554c8f0efb494fee680fa439cff334823d016e1a4712add06d",
+      "duration_seconds": 10.292245
+    },
+    {
+      "file": "amy-59.mp3",
+      "bytes": 169735,
+      "sha256": "58927b62b0f2f20632c9e1588067b5094ed48b0052285cedbfb51dede84cfcc9",
+      "duration_seconds": 10.579592
+    },
+    {
+      "file": "amy-60.mp3",
+      "bytes": 96174,
+      "sha256": "a86f2776c37ab4d17660758ba8a860d1d516382c297f455534cad5ea48c6b564",
+      "duration_seconds": 5.982041
+    },
+    {
+      "file": "amy-61.mp3",
+      "bytes": 126685,
+      "sha256": "59f2e216b9a81ce49763ac420b377c38aeb9bf27d6565a7c9279bd5a0ba09c9b",
+      "duration_seconds": 7.88898
+    },
+    {
+      "file": "amy-62.mp3",
+      "bytes": 119162,
+      "sha256": "4e6204772c03f1e90b5ba9ddcbff62875c508fe7d0319bc0ac16c3eb6cf89b39",
+      "duration_seconds": 7.418776
+    },
+    {
+      "file": "amy-63.mp3",
+      "bytes": 151345,
+      "sha256": "d2aeb161af8834e218d7d80efeb0459549d3657f7697d454c5aa4d71462030dd",
+      "duration_seconds": 9.430204
+    }
+  ]
+}
