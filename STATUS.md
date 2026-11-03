@@ -1373,3 +1373,12 @@ Enam ilustrasi asli 1536×1024 untuk situasi N4 yang terbantu gambar; 14 situasi
 - Kredit YouTube: Justnesst dan manga asal Shun Akagi (紅木春); tautan resmi Shonen Jump+.
 - Narasi Amy memakai TTS Jepang perangkat; 361 MP3 cerita lama tetap.
 - Durasi 30/40 tahun yang tidak konsisten pada transkrip diganti ungkapan umum.
+
+
+## Paket 38 — Simulasi N4/A2 05–06 (2026-11-03)
+- Tambah 2 × 87 JLPT N4 + 2 × 50 JFT A2 = 274 soal baru; kini 6 paket tiap jenis pada N4.
+- Total N4/A2 822 soal; N5/A1 tetap 726, keseluruhan 1.548 soal dalam 24 paket.
+- 82 naskah listening baru; ekspor suara mencakup 246 naskah N4/A2 paket 1–6.
+- Skrip Termux–ElevenLabs: dry-run, filter new/all/per paket, cache per giliran, verifikasi hash, --install MP3 dan registrasi player, serta --pack ZIP.
+- Voice mengikuti skrip simulasi sebelumnya; dialog maksimal wanita/pria ditambah narator. Belum menjalankan API atau membuat MP3 asli baru.
+- Sesi lama paket 1–4 tetap kompatibel karena bank dan revisi sesi lama tidak diubah.

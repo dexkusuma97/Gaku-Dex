@@ -1,0 +1,4212 @@
+[
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-026",
+    "file": "jft-a2-p01-026.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "電気の申し込み、電話でできるかな。"
+      },
+      {
+        "speaker": "male",
+        "text": "できますよ。でも契約番号が必要です。入口の紙に書いてあります。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、先に確認します。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 電話する 前に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-027",
+    "file": "jft-a2-p01-027.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "部屋にいない間に点検してもらえますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。前日までに管理室へ鍵を預けてください。終わったら受付で返します。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 点検の 前に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-028",
+    "file": "jft-a2-p01-028.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "荷物が多いから、車を借りようかな。"
+      },
+      {
+        "speaker": "male",
+        "text": "町の施設で台車が借りられるよ。すぐ近くだし、それで十分じゃない。"
+      },
+      {
+        "speaker": "female",
+        "text": "そうね。台車にする。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 借りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-029",
+    "file": "jft-a2-p01-029.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "昨日の夜、洗濯の音がしていたね。"
+      },
+      {
+        "speaker": "female",
+        "text": "ごめんなさい。仕事が遅くなって。これからは朝にします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は これから いつ 洗濯しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-030",
+    "file": "jft-a2-p01-030.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "新しい家、家具付き。"
+      },
+      {
+        "speaker": "male",
+        "text": "机といすはあるけど、ベッドはないんだ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、寝る物を用意しないとね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人が 自分で 用意する 必要が あるのは 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-031",
+    "file": "jft-a2-p01-031.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この洗剤、何杯入れますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "洗濯物が半分だから、一杯の半分でいいですよ。二杯は多すぎます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "洗剤を どのくらい 入れますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-032",
+    "file": "jft-a2-p01-032.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "引っ越しの箱はいつ受け取れますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "午後伺います。午前は配達でいませんので。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、二時ごろお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "箱を 受け取るのは いつですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-033",
+    "file": "jft-a2-p01-033.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この棚を捨てたいんですが。"
+      },
+      {
+        "speaker": "female",
+        "text": "普通のごみには出せません。先に電話で申し込んで、決まった日に出してください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "棚を 出す 前に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-034",
+    "file": "jft-a2-p01-034.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "窓の修理をお願いしたいです。"
+      },
+      {
+        "speaker": "male",
+        "text": "月曜はいっぱいですが、火曜の朝に行けます。"
+      },
+      {
+        "speaker": "female",
+        "text": "朝は家にいません。午後はどうですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "では火曜の二時に。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "修理は いつですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-035",
+    "file": "jft-a2-p01-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "明日は建物の入口を掃除します。午前九時から十時までは裏の入口をご利用ください。正面の入口は十時から使えます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "午前九時半には どの 入口を 使いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-036",
+    "file": "jft-a2-p01-036.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "本日の不燃ごみの回収は、雪のため明日に変更します。袋はそのまま集積所に置かず、一度お持ち帰りください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "今日 出した ごみは どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-037",
+    "file": "jft-a2-p01-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "共同の乾燥機をご利用の方へ。乾燥が終わったら、すぐに洗濯物を取り出してください。忘れ物は管理室で一週間預かります。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "乾燥が 終わったら 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-01",
+    "id": "jft-a2-p01-038",
+    "file": "jft-a2-p01-038.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "明日の点検は、午前中に一階と二階、午後に三階と四階で行います。点検中も部屋の電気は使えますが、エレベーターは止まります。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "点検中に 使えないのは 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-026",
+    "file": "jft-a2-p02-026.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "先輩、この箱は重すぎます。"
+      },
+      {
+        "speaker": "female",
+        "text": "一人で持たず、台車を使ってください。無理をしないでね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は どうやって 箱を 運びますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-027",
+    "file": "jft-a2-p02-027.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日の研修、制服で行きますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいえ、動きやすい服で。靴だけは作業用にしてください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "研修には どんな 靴で 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-028",
+    "file": "jft-a2-p02-028.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この説明で分かりましたか。"
+      },
+      {
+        "speaker": "female",
+        "text": "最後の手順だけ、もう一度見せてください。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいですよ。今やってみます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を お願いしましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-029",
+    "file": "jft-a2-p02-029.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "今日は病院へ行くので、早く帰りたいんです。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かりました。終わっていない所を私に教えてから帰ってください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 帰る 前に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-030",
+    "file": "jft-a2-p02-030.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "午前の仕事、全部終わったよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、午後の準備の前に休憩しよう。十分後にまたここへ集まってね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は 次に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-031",
+    "file": "jft-a2-p02-031.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この商品を送るには、どの箱を使いますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "青い印の箱です。赤い印は返送用なので使わないでください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "どの 箱を 使いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-032",
+    "file": "jft-a2-p02-032.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "作業着のサイズが合わないんですが。"
+      },
+      {
+        "speaker": "female",
+        "text": "事務室で交換できます。洗ってから持ってきてください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "交換の 前に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-033",
+    "file": "jft-a2-p02-033.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "社員証を忘れました。"
+      },
+      {
+        "speaker": "male",
+        "text": "まず受付で名前を言ってください。今日だけ使うカードを借りられます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どこへ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-034",
+    "file": "jft-a2-p02-034.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "安全靴を買いたいです。"
+      },
+      {
+        "speaker": "female",
+        "text": "この種類は軽いですが、防水ではありません。こちらは少し重くても水に強いです。"
+      },
+      {
+        "speaker": "male",
+        "text": "水を使うので、重いほうにします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は どちらを 選びますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-035",
+    "file": "jft-a2-p02-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "午後の作業を始める前に、全員、手袋に穴がないか確認してください。破れていたら、倉庫で新しい物と交換してください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "穴が ある 手袋は どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-036",
+    "file": "jft-a2-p02-036.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "これから機械の清掃をします。スイッチを切ったあと、電源のプラグを抜いてください。完全に止まるまで中に手を入れないでください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "スイッチを 切った 次に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-037",
+    "file": "jft-a2-p02-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "明日の会議は開始時間が一時間遅くなり、午後二時からです。会議室は変更ありません。資料は今日中に共有します。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "変わったのは 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-02",
+    "id": "jft-a2-p02-038",
+    "file": "jft-a2-p02-038.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "工場の出口付近で荷物を運んでいます。通るときは黄色い線の内側を歩いてください。荷物の横を急いで通らないでください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "歩くのは どこですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-026",
+    "file": "jft-a2-p03-026.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "清掃の日は何を持っていきますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "袋は会で用意するので、軍手だけお願いします。道具も借りられます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "自分で 持っていくのは 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-027",
+    "file": "jft-a2-p03-027.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "回覧板、次はどのお宅ですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "角の青い屋根の家です。白い家はその次です。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "次に 渡す 家は どこですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-028",
+    "file": "jft-a2-p03-028.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "町の日本語教室に行きたいんですが。"
+      },
+      {
+        "speaker": "male",
+        "text": "水曜と土曜があります。土曜は子どもを預かってくれますよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "子どもがいるので、土曜にします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何曜日を 選びますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-029",
+    "file": "jft-a2-p03-029.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "町内会費、今日持ってきたよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "今日は担当の方がお休みだから、明日の会で渡してもらえる。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は いつ 会費を 渡しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-030",
+    "file": "jft-a2-p03-030.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "防災訓練、一人で行くのは不安です。"
+      },
+      {
+        "speaker": "male",
+        "text": "では、駅前で会って一緒に行きましょう。九時でいいですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "お願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どうやって 訓練へ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-031",
+    "file": "jft-a2-p03-031.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "市役所で住所を変えたいんですが。"
+      },
+      {
+        "speaker": "female",
+        "text": "二番窓口です。先にこの申込書を書いてから、番号札を取ってください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 最初に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-032",
+    "file": "jft-a2-p03-032.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この本を寄付できますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "汚れが少ない本なら受け取ります。ただ、雑誌は対象ではありません。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "受け取ってもらえるのは どれですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-033",
+    "file": "jft-a2-p03-033.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "忘れ物を探しています。赤い手袋です。"
+      },
+      {
+        "speaker": "female",
+        "text": "赤い物はありませんが、茶色ならあります。"
+      },
+      {
+        "speaker": "male",
+        "text": "では、私のではないですね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "探している 手袋は 見つかりましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-034",
+    "file": "jft-a2-p03-034.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "イベントのボランティアをしたいです。"
+      },
+      {
+        "speaker": "male",
+        "text": "受付はもう十分います。片付けの係なら募集しています。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、そちらを手伝います。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 手伝いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-035",
+    "file": "jft-a2-p03-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "交流会は、公民館の修理のため、今週だけ図書館の会議室で行います。時間はいつもどおり午後一時です。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "今週の 交流会は どこで 行いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-036",
+    "file": "jft-a2-p03-036.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "公園の清掃に参加する皆様へ。雨が強くなったため、本日の清掃は来週に延期します。今日は集合場所へ来ないでください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "参加者は 今日 どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-037",
+    "file": "jft-a2-p03-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "地震を感じたら、まず机の下などで頭を守ってください。揺れが収まってから、係の指示で外へ出てください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "揺れている 間、まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-03",
+    "id": "jft-a2-p03-038",
+    "file": "jft-a2-p03-038.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "資源回収は午前八時から九時までです。紙はひもで結び、びんと缶は種類別の箱に入れてください。袋のまま置かないでください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "紙は どのように 出しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-026",
+    "file": "jft-a2-p04-026.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "店の予約は四人だったよね。"
+      },
+      {
+        "speaker": "female",
+        "text": "一人来られなくなったから、三人に変更したよ。時間は同じ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "今の 予約は 何人ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-027",
+    "file": "jft-a2-p04-027.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お土産は生のお菓子にしようかな。"
+      },
+      {
+        "speaker": "male",
+        "text": "持ち歩く時間が長いから、常温で保存できるほうがいいよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、焼き菓子にする。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 選びますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-028",
+    "file": "jft-a2-p04-028.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "映画の前に食事をしよう。"
+      },
+      {
+        "speaker": "female",
+        "text": "時間が少ないから、先に軽く食べて、終わってからゆっくり夕食にしない。"
+      },
+      {
+        "speaker": "male",
+        "text": "そうしよう。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "映画の 前に どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-029",
+    "file": "jft-a2-p04-029.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "プレゼント、いつ渡そうか。"
+      },
+      {
+        "speaker": "male",
+        "text": "皆の前だと恥ずかしがるから、会が終わって帰るときに渡そう。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "いつ プレゼントを 渡しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-030",
+    "file": "jft-a2-p04-030.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "待ち合わせ、店の前だったよね。"
+      },
+      {
+        "speaker": "female",
+        "text": "店が閉まっていたので、向かいの本屋にいるよ。そこで待っているね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 今 どこに いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-031",
+    "file": "jft-a2-p04-031.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "卵が食べられないのですが、このサラダは大丈夫ですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "具には入っていませんが、ドレッシングに使っています。別添えにできます。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、ドレッシングなしでお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どう 注文しましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-032",
+    "file": "jft-a2-p04-032.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "靴の交換をしたいです。"
+      },
+      {
+        "speaker": "female",
+        "text": "外で使ったものは交換できません。"
+      },
+      {
+        "speaker": "male",
+        "text": "家で試しただけです。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、レシートをお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 次に 何を 見せますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-033",
+    "file": "jft-a2-p04-033.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "荷物を預けたいんですが。"
+      },
+      {
+        "speaker": "male",
+        "text": "こちらのロッカーは満杯です。駅の反対側にもありますよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、そちらを見ます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どこへ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-034",
+    "file": "jft-a2-p04-034.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "このバスは空港へ行きますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "駅までは行きますが、空港には行きません。駅で急行に乗り換えてください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "空港へ 行くには どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-035",
+    "file": "jft-a2-p04-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "山へ向かうバスは大雪のため運休です。海岸方面は通常どおり運行しています。切符の払い戻しは二番窓口で行います。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "運休しているのは どの バスですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-036",
+    "file": "jft-a2-p04-036.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "本日の写真教室は、午前中は室内で説明を聞き、午後は公園で練習します。昼食後、一時に入口へ集まってください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "午後一時に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-037",
+    "file": "jft-a2-p04-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "お忘れ物のご案内です。入口で黒い傘をお預かりしています。心当たりのある方は一階の案内所までお越しください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "黒い かさを なくした 人は どこへ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-04",
+    "id": "jft-a2-p04-038",
+    "file": "jft-a2-p04-038.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "交流会の会場では、ごみを種類ごとに分けてください。飲み物の残りは流しへ捨ててから、空の容器を回収箱に入れてください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "飲み物が 残った 容器は まず どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-026",
+    "file": "jft-a2-p05-026.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "明日の学校見学、上履きが必要だって。"
+      },
+      {
+        "speaker": "female",
+        "text": "子どものだけ。"
+      },
+      {
+        "speaker": "male",
+        "text": "保護者も必要だよ。自分のスリッパを持ってきてくださいって。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃあ、自分のも用意するね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 用意しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-027",
+    "file": "jft-a2-p05-027.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "配達、午前中に来るかな。"
+      },
+      {
+        "speaker": "female",
+        "text": "不在票には今日の再配達は午後六時から八時までって書いてあるよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、その時間は家にいるよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 荷物を いつ 受け取りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-028",
+    "file": "jft-a2-p05-028.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "パン屋、まだ開いている。"
+      },
+      {
+        "speaker": "male",
+        "text": "駅前の店は六時で閉まったよ。公園の横なら七時まで。"
+      },
+      {
+        "speaker": "female",
+        "text": "今六時半だから、公園の横へ行くね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どの 店へ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-029",
+    "file": "jft-a2-p05-029.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "今日の午後、図書館へ行かない。"
+      },
+      {
+        "speaker": "male",
+        "text": "行きたいけど、ガスの点検で人が家に来るんだ。家にいないといけない。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は なぜ 図書館へ 行けませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-030",
+    "file": "jft-a2-p05-030.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "明日、お弁当を作ろうか。"
+      },
+      {
+        "speaker": "female",
+        "text": "学校で給食を食べる日だよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "そうか。じゃあ、弁当は要らないね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "明日の 昼ご飯は どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-031",
+    "file": "jft-a2-p05-031.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この袋を二枚ください。"
+      },
+      {
+        "speaker": "female",
+        "text": "一枚五円なので、二枚で十円です。商品代はもうお支払い済みですね。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい。では袋の分だけ払います。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は いくら 払いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-032",
+    "file": "jft-a2-p05-032.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "注文した青いタオルはありますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "青は品切れですが、白なら同じ値段で用意できます。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、白をお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 受け取りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-033",
+    "file": "jft-a2-p05-033.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "金曜の予約を土曜にできますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "土曜はいっぱいですが、日曜の午前なら空いています。"
+      },
+      {
+        "speaker": "male",
+        "text": "日曜の午前でお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "予約の 日は いつに 変わりますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-034",
+    "file": "jft-a2-p05-034.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "住所を変える手続きは、二番ですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "二番は証明書です。住所の変更は四番です。番号札はそちらの機械で取ってください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どの 窓口へ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-035",
+    "file": "jft-a2-p05-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "本日は雨のため、子どもたちは校庭ではなく体育館でお待ちしています。お迎えの方は西側の入口からお入りください。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-036",
+    "file": "jft-a2-p05-036.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "申込書に名前と電話番号を書いたら、折らずに受付の箱に入れてください。写真は今日必要ありません。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-037",
+    "file": "jft-a2-p05-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "道路工事のため、このバスは本日、市民会館には止まりません。駅と病院にはいつもどおり止まります。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-05",
+    "id": "jft-a2-p05-038",
+    "file": "jft-a2-p05-038.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "明日はごみの収集が一時間早くなります。朝八時ではなく、七時までにお出しください。今夜は出さないでください。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-026",
+    "file": "jft-a2-p06-026.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "午後は受付を手伝いましょうか。"
+      },
+      {
+        "speaker": "male",
+        "text": "受付は二人いるので大丈夫です。代わりに会場のいすを並べてください。机はもう並べました。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-027",
+    "file": "jft-a2-p06-027.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "休憩は十二時からだけど、今日はお客さんが多いね。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、僕は三十分遅く入るよ。先に休んで。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は いつ 休憩しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-028",
+    "file": "jft-a2-p06-028.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日の活動に遅れそうです。先生に連絡しますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "今回は先生ではなく、担当の木村さんに直接メールしてください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 誰に 連絡しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-029",
+    "file": "jft-a2-p06-029.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日は車で行くの。"
+      },
+      {
+        "speaker": "male",
+        "text": "会場には駐車場がないから、電車で行くよ。駅から歩いて五分だって。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は どうやって 会場へ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-030",
+    "file": "jft-a2-p06-030.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "その説明、メモするの。"
+      },
+      {
+        "speaker": "female",
+        "text": "うん。同じことを何度も聞かなくて済むようにね。あとで自分でも確認できるし。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どうして メモを 取りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-031",
+    "file": "jft-a2-p06-031.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "一時から三時まで借りたいんですが。"
+      },
+      {
+        "speaker": "male",
+        "text": "一時から二時までは予約があります。二時から四時なら空いています。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、二時からお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 会議室を 何時から 使いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-032",
+    "file": "jft-a2-p06-032.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "コピーは白黒で十枚お願いします。"
+      },
+      {
+        "speaker": "female",
+        "text": "白黒は一枚十円です。カラーは一枚五十円ですが、今回は白黒ですね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は どの 料金を 払いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-033",
+    "file": "jft-a2-p06-033.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "料理教室に参加したいんですが、月曜の夜は仕事です。"
+      },
+      {
+        "speaker": "male",
+        "text": "火曜は昼だけです。土曜なら午前にあります。"
+      },
+      {
+        "speaker": "female",
+        "text": "火曜の昼も仕事なので、土曜の午前にします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どの 教室に 申し込みますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-034",
+    "file": "jft-a2-p06-034.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "今日は閉館に間に合いません。"
+      },
+      {
+        "speaker": "female",
+        "text": "本だけなら入口の返却箱に入れてください。DVDは箱に入れず、明日カウンターへお願いします。"
+      },
+      {
+        "speaker": "male",
+        "text": "今日は本だけなので、箱に返します。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 本を どう 返しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-035",
+    "file": "jft-a2-p06-035.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "作業を始める前に、名簿で自分の名前を確認し、横に丸を付けてください。道具はそのあとに受け取ります。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-036",
+    "file": "jft-a2-p06-036.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "明日の会議は三階の会議室から、一階の研修室に変更します。開始時刻の午後三時は変わりません。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-037",
+    "file": "jft-a2-p06-037.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "はさみは使い終わったら、青い箱へお戻しください。赤い箱には使っていない紙を入れてください。ごみは白い袋です。"
+      }
+    ]
+  },
+  {
+    "pack": "jft-a2-06",
+    "id": "jft-a2-p06-038",
+    "file": "jft-a2-p06-038.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "来週の火曜の授業は先生の都合でお休みです。代わりの授業は同じ週の木曜、いつもの午後七時から行います。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-060",
+    "file": "n4-p01-060.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "荷物を車に運ぼうか。"
+      },
+      {
+        "speaker": "male",
+        "text": "その前に、箱に部屋の番号を書いて。重い箱は僕が持つよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "分かった。ペンを取ってくるね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-061",
+    "file": "n4-p01-061.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "棚を組み立てたいんだけど、道具はどこ。"
+      },
+      {
+        "speaker": "female",
+        "text": "引き出し。でも、先に説明書を読んで。小さい板から始めるんだって。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、読んでから道具を出すよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-062",
+    "file": "n4-p01-062.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ごみを出してくるね。"
+      },
+      {
+        "speaker": "male",
+        "text": "今日は燃えるごみの日じゃないよ。びんの日だよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "そうか。じゃ、この袋は明日にして、台所のびんを持っていく。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 今日 何を 出しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-063",
+    "file": "n4-p01-063.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "水が止まらないんです。"
+      },
+      {
+        "speaker": "female",
+        "text": "流しの下の小さいハンドルを右に回してください。それから管理人に電話してください。"
+      },
+      {
+        "speaker": "male",
+        "text": "まず下を見てみます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 最初に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-064",
+    "file": "n4-p01-064.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "友達が来るから、お皿を並べてくれる。"
+      },
+      {
+        "speaker": "male",
+        "text": "机の上に資料があるよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "それを棚に入れてから、お皿をお願い。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かった。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-065",
+    "file": "n4-p01-065.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "カーテンを洗う前に、窓を拭こう。"
+      },
+      {
+        "speaker": "female",
+        "text": "でも、外はまだ雨だよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、雨がやむまで部屋に掃除機をかけよう。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は これから 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-066",
+    "file": "n4-p01-066.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この本、もう読まないから捨てようかな。"
+      },
+      {
+        "speaker": "male",
+        "text": "まだきれいだから図書館に聞いてみたら。"
+      },
+      {
+        "speaker": "female",
+        "text": "そうね。持っていく前に電話する。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 次に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-067",
+    "file": "n4-p01-067.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "鍵が見つからない。"
+      },
+      {
+        "speaker": "female",
+        "text": "昨日、上着のポケットに入れてなかった。"
+      },
+      {
+        "speaker": "male",
+        "text": "あ、そうだった。玄関の箱ばかり探していたよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 次に どこを 探しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-068",
+    "file": "n4-p01-068.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "新しい部屋はどう。"
+      },
+      {
+        "speaker": "male",
+        "text": "駅から遠いけど静かでいいよ。前の部屋は駅に近かったけど、車の音で眠れなかったから。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人が 今の 部屋を 気に入っている 理由は 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-069",
+    "file": "n4-p01-069.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "昨日来てくれた。"
+      },
+      {
+        "speaker": "female",
+        "text": "行ったけど留守だったので、本は玄関の箱に入れておいたよ。電話は忙しいと思ってしなかった。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 本を どうしましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-070",
+    "file": "n4-p01-070.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この棚、買ったの。"
+      },
+      {
+        "speaker": "male",
+        "text": "前の住人にもらったんだ。大きくて車に入らないから置いていくって。まだ丈夫だよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "棚を もらえたのは なぜですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-071",
+    "file": "n4-p01-071.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "今日の点検、何時まで。"
+      },
+      {
+        "speaker": "female",
+        "text": "予定は十一時だったけど、一時間延びるって。水はもう出るけど、台所はまだ使わないでって。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "点検は 何時に 終わる 予定ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-072",
+    "file": "n4-p01-072.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この布団、外に干さないの。"
+      },
+      {
+        "speaker": "male",
+        "text": "今日は風が強いからね。午後、風が弱くなったら干すよ。雨の心配はないらしいけど。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は なぜ 今 布団を 干しませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-073",
+    "file": "n4-p01-073.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "管理人への手紙、読んだ。"
+      },
+      {
+        "speaker": "female",
+        "text": "うん。修理は無料だけど、部品が来るまで三日かかるんだって。自分で買わなくていいのは助かるね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "修理について 正しいのは どれですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-074",
+    "file": "n4-p01-074.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "なぜ小さいテーブルにしたの。"
+      },
+      {
+        "speaker": "male",
+        "text": "大きいのだと通りにくくなるから。客が来たときは足りないけど、普段はこれで十分なんだ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "小さい テーブルを 選んだ 理由は 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-075",
+    "file": "n4-p01-075.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "新しく 隣に 引っ越した 人に 自己紹介を します。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-076",
+    "file": "n4-p01-076.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "隣の 人が 重い 荷物を 運んでくれました。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-077",
+    "file": "n4-p01-077.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "自分の 部屋の 音で 隣の 人に 迷惑を かけました。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-078",
+    "file": "n4-p01-078.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "高い 棚の 箱を 取ってほしいです。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-079",
+    "file": "n4-p01-079.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "隣の 人の 家で お茶を 飲み、帰ります。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-080",
+    "file": "n4-p01-080.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この箱、少し持ってもらえませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-081",
+    "file": "n4-p01-081.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お邪魔してもいいですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-082",
+    "file": "n4-p01-082.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "鍵、ここに置いておきますね。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-083",
+    "file": "n4-p01-083.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お湯が出ないんですが。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-084",
+    "file": "n4-p01-084.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "先に帰ってもかまいませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-085",
+    "file": "n4-p01-085.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "重そうですね。手伝いましょうか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-086",
+    "file": "n4-p01-086.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この袋はどこに捨てればいいですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-01",
+    "id": "n4-p01-087",
+    "file": "n4-p01-087.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "引っ越しは終わりましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-060",
+    "file": "n4-p02-060.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "銀行へ行くなら、この先の角を左だよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "あの工事している角。"
+      },
+      {
+        "speaker": "female",
+        "text": "そこじゃなくて、その一つ先。パン屋の向かいにあるよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は どこで 曲がりますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-061",
+    "file": "n4-p02-061.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "このシャツ、交換できますか。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。商品とレシートを持って、二階のサービスカウンターへお願いします。"
+      },
+      {
+        "speaker": "male",
+        "text": "ここではなく二階ですね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は これから どこへ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-062",
+    "file": "n4-p02-062.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "薬を飲む水を買ってくる。"
+      },
+      {
+        "speaker": "male",
+        "text": "この建物の自動販売機は故障しているよ。隣の店で買えるよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、隣へ行ってくるね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どこで 水を 買いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-063",
+    "file": "n4-p02-063.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "図書館の本を返してくれる。"
+      },
+      {
+        "speaker": "female",
+        "text": "もう閉まっているよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "返却箱に入れられるよ。でもＤＶＤは入れられないから、家に置いておいて。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 持っていきますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-064",
+    "file": "n4-p02-064.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "財布を落としてしまいました。"
+      },
+      {
+        "speaker": "male",
+        "text": "どこで気付きましたか。"
+      },
+      {
+        "speaker": "female",
+        "text": "バスを降りたあとです。"
+      },
+      {
+        "speaker": "male",
+        "text": "では、まずバス会社に連絡してみましょう。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は まず どこに 連絡しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-065",
+    "file": "n4-p02-065.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "明日の予約を午後に変えたいんですが。"
+      },
+      {
+        "speaker": "female",
+        "text": "午後は空きがありません。金曜日の午前なら空いています。"
+      },
+      {
+        "speaker": "male",
+        "text": "では金曜にお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は いつ 病院へ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-066",
+    "file": "n4-p02-066.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "コピーを十枚お願いします。"
+      },
+      {
+        "speaker": "male",
+        "text": "この原稿は両面ですね。"
+      },
+      {
+        "speaker": "female",
+        "text": "はい。コピーも両面で。一枚だけ先に見せてもらえますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かりました。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-067",
+    "file": "n4-p02-067.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "駅まで自転車で行こう。"
+      },
+      {
+        "speaker": "female",
+        "text": "今、駐輪場が使えないよ。バスなら目の前で降りられる。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、それにしよう。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は どうやって 駅へ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-068",
+    "file": "n4-p02-068.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "店の場所はすぐ分かった。"
+      },
+      {
+        "speaker": "female",
+        "text": "看板が小さくて最初通り過ぎたけど、パンのにおいで気が付いたよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どうして 店に 気付きましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-069",
+    "file": "n4-p02-069.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "荷物の配達は今日だった。"
+      },
+      {
+        "speaker": "male",
+        "text": "午前の予定だったけど、雪で遅れて夕方になるそうだよ。明日にはならないって。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "荷物は いつ 届く 予定ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-070",
+    "file": "n4-p02-070.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "病院までタクシーで行ったの。"
+      },
+      {
+        "speaker": "female",
+        "text": "行きは熱があって乗ったけど、帰りは下がっていたのでバスにしたよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 帰りに 何を 使いましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-071",
+    "file": "n4-p02-071.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "このかばん、返品するの。"
+      },
+      {
+        "speaker": "male",
+        "text": "色は気に入っているんだけど、ノートパソコンが入らないんだ。仕事用に買ったのに。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "返品したい 理由は 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-072",
+    "file": "n4-p02-072.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "店は日曜日休みだったよね。"
+      },
+      {
+        "speaker": "female",
+        "text": "前はそうだったけど、今月から月曜日が休みで、日曜日は開いているよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "今月の 休みは いつですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-073",
+    "file": "n4-p02-073.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "返却する本、もう読んだ。"
+      },
+      {
+        "speaker": "male",
+        "text": "一冊だけまだ。でも次の予約があるから延ばせないんだ。続きはまた借りるよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は なぜ 期限を 延ばせませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-074",
+    "file": "n4-p02-074.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "あの店で買わなかったの。"
+      },
+      {
+        "speaker": "female",
+        "text": "値段は安かったけど、修理の相談ができないんだって。長く使いたいから別の店で買ったの。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人が 大切に したのは 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-075",
+    "file": "n4-p02-075.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "初めて 行った 店で、予約したことを 伝えます。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-076",
+    "file": "n4-p02-076.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "落とした 定期券を 店員が 見つけてくれました。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-077",
+    "file": "n4-p02-077.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "店で うっかり 商品を 落としました。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-078",
+    "file": "n4-p02-078.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "駅員に、乗り換える ホームを 教えてほしいです。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-079",
+    "file": "n4-p02-079.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "店員に 案内してもらい、店を 出ます。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-080",
+    "file": "n4-p02-080.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この店、何時まで開いていますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-081",
+    "file": "n4-p02-081.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "返品したいんですが。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-082",
+    "file": "n4-p02-082.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "次のバスはもう出ましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-083",
+    "file": "n4-p02-083.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません、この席は空いていますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-084",
+    "file": "n4-p02-084.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "予約の時間に少し遅れそうです。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-085",
+    "file": "n4-p02-085.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お釣りが少ないようなんですが。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-086",
+    "file": "n4-p02-086.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この書類はどこに出せばいいですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-02",
+    "id": "n4-p02-087",
+    "file": "n4-p02-087.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "もう少し安いものはありませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-060",
+    "file": "n4-p03-060.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "会議の資料を配ろうか。"
+      },
+      {
+        "speaker": "female",
+        "text": "一か所直したから、古いのは配らないで。新しいのを机の上に置いたよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、そちらを使うね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 何を 配りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-061",
+    "file": "n4-p03-061.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "発表の前に、声の大きさを確かめてほしいの。"
+      },
+      {
+        "speaker": "male",
+        "text": "いいよ。僕は後ろの席に座るね。そこまで聞こえるように話して。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 次に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-062",
+    "file": "n4-p03-062.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "箱を全部運びました。"
+      },
+      {
+        "speaker": "female",
+        "text": "ありがとう。次は棚の番号と同じ番号の箱を置いてね。中身は明日確認するから開けないで。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は これから 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-063",
+    "file": "n4-p03-063.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "作文を見ていただけますか。"
+      },
+      {
+        "speaker": "male",
+        "text": "今は授業があるから、昼休みに来てください。"
+      },
+      {
+        "speaker": "female",
+        "text": "分かりました。先に自分でも読み直します。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 先生に 会う 前に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-064",
+    "file": "n4-p03-064.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "プリンターの紙が切れた。"
+      },
+      {
+        "speaker": "female",
+        "text": "倉庫の箱にあるけど、白い紙を使って。青いのは表紙用だから。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は どの 紙を 使いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-065",
+    "file": "n4-p03-065.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "研修の名札、何を書けばいいですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "上に名前、下に部署を書いてください。電話番号は要りません。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 名札の 下に 何を 書きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-066",
+    "file": "n4-p03-066.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "先生に質問したいけど、何から説明したらいいかな。"
+      },
+      {
+        "speaker": "female",
+        "text": "まず自分でやってみた方法を伝えて、それから分からない所を聞くといいよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 最初に 何を 伝えますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-067",
+    "file": "n4-p03-067.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "午前中にこの表を仕上げてください。"
+      },
+      {
+        "speaker": "male",
+        "text": "入力だけでいいですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、数字が合っているかも確認してから送ってください。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 表を 送る 前に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-068",
+    "file": "n4-p03-068.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "新しい仕事で何が難しい。"
+      },
+      {
+        "speaker": "male",
+        "text": "作業は慣れたけど、電話で名前を聞き取るのが大変だね。顔が見えないから聞き返しにくくて。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 何が 難しいと 言っていますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-069",
+    "file": "n4-p03-069.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "今日の勉強会は教室Ｂ。"
+      },
+      {
+        "speaker": "female",
+        "text": "人数が増えたのでホールに変わったよ。時間は同じ。入口に案内が出ているって。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "何が 変わりましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-070",
+    "file": "n4-p03-070.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "どうやって新しい言葉を覚えているの。"
+      },
+      {
+        "speaker": "male",
+        "text": "書くだけでは忘れるから、短い文を作って声に出しているよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人の 覚え方は どれですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-071",
+    "file": "n4-p03-071.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "発表の紙、全部配った。"
+      },
+      {
+        "speaker": "female",
+        "text": "一人休みだから一部残ったよ。先生の机に置いておいた。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "紙が 一部 残ったのは なぜですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-072",
+    "file": "n4-p03-072.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "先輩は厳しい。"
+      },
+      {
+        "speaker": "male",
+        "text": "間違いはすぐ教えてくれるけど、できたときもほめてくれるから、僕は話しやすいと思う。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 先輩を どう 思っていますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-073",
+    "file": "n4-p03-073.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "残業して資料を作るの。"
+      },
+      {
+        "speaker": "female",
+        "text": "今日は家の用事があるから、明日の朝早く来ることにしたの。提出は昼までだから間に合うよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は いつ 資料を 作りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-074",
+    "file": "n4-p03-074.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "研修で一番役に立ったのは。"
+      },
+      {
+        "speaker": "male",
+        "text": "説明を読むだけでなく、実際に機械を動かせたことだね。自分の間違いが分かったから。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "何が 役に 立ちましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-075",
+    "file": "n4-p03-075.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "研修の 初日に 新しい 同僚に 挨拶します。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-076",
+    "file": "n4-p03-076.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "先輩が 分からない 作業を 教えてくれました。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-077",
+    "file": "n4-p03-077.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "提出の 約束に 遅れたことを 先生に 謝ります。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-078",
+    "file": "n4-p03-078.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "同僚に 自分の 書類を 確認してほしいです。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-079",
+    "file": "n4-p03-079.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "仕事が 終わり、まだ 仕事中の 同僚より 先に 帰ります。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-080",
+    "file": "n4-p03-080.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この漢字の読み方を教えてください。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-081",
+    "file": "n4-p03-081.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "発表、分かりやすかったですよ。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-082",
+    "file": "n4-p03-082.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "もう一度説明していただけますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-083",
+    "file": "n4-p03-083.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日の研修には何を持っていきますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-084",
+    "file": "n4-p03-084.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この数字、間違っていませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-085",
+    "file": "n4-p03-085.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "手伝ってくれて、ありがとう。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-086",
+    "file": "n4-p03-086.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "提出は今日まででしたよね。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-03",
+    "id": "n4-p03-087",
+    "file": "n4-p03-087.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "質問がある人は手を挙げてください。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-060",
+    "file": "n4-p04-060.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "公園で会う予定だけど、雨が強くなったね。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、駅の中で待とう。南口は混むから、北口の時計の下で。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は どこで 会いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-061",
+    "file": "n4-p04-061.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "お弁当を買ってから電車に乗ろう。"
+      },
+      {
+        "speaker": "female",
+        "text": "この店はまだ開いていないよ。駅の売店なら開いている。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃ、改札に入る前にそこで買おう。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は どこで 弁当を 買いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-062",
+    "file": "n4-p04-062.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お土産、ここに入れていい。"
+      },
+      {
+        "speaker": "male",
+        "text": "下には重い本があるから、割れやすいお皿は上のほうに。タオルで包んでね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 皿を どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-063",
+    "file": "n4-p04-063.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "交流会の受付を手伝いたいんです。"
+      },
+      {
+        "speaker": "female",
+        "text": "ありがとう。開始は十時ですが、準備のため九時半に来てください。"
+      },
+      {
+        "speaker": "male",
+        "text": "はい、その時間に来ます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 何時に 来ますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-064",
+    "file": "n4-p04-064.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "写真を撮ってから食事にしよう。"
+      },
+      {
+        "speaker": "male",
+        "text": "先に集合写真を撮るんだよね。"
+      },
+      {
+        "speaker": "female",
+        "text": "ううん、まだ来ていない人がいるから、料理だけ撮っておこう。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は まず 何の 写真を 撮りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-065",
+    "file": "n4-p04-065.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "山へ行く道、工事で通れないらしい。"
+      },
+      {
+        "speaker": "female",
+        "text": "川の道はどう。"
+      },
+      {
+        "speaker": "male",
+        "text": "そちらも危ないそうだよ。今回は博物館にしない。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は どこへ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-066",
+    "file": "n4-p04-066.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "帰る前に机を元の場所へ戻そう。"
+      },
+      {
+        "speaker": "male",
+        "text": "床にまだ荷物があるよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、先に荷物を廊下へ運んで。それから机ね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 最初に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-067",
+    "file": "n4-p04-067.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "予約した船が中止になった。"
+      },
+      {
+        "speaker": "female",
+        "text": "払ったお金は戻るの。"
+      },
+      {
+        "speaker": "male",
+        "text": "窓口に切符を持っていけば返してくれるそうだ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃ、そこへ行こう。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は 次に 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-068",
+    "file": "n4-p04-068.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "旅行の写真、海が多いね。"
+      },
+      {
+        "speaker": "female",
+        "text": "山にも行きたかったけど、道が通れなかったから海で一日過ごしたの。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "山へ 行かなかったのは なぜですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-069",
+    "file": "n4-p04-069.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "料理の会、何を持っていけばいい。"
+      },
+      {
+        "speaker": "male",
+        "text": "材料は会場で用意するよ。エプロンだけ自分で。包丁も借りられる。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "自分で 用意するのは 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-070",
+    "file": "n4-p04-070.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "祭りに遅れたの。"
+      },
+      {
+        "speaker": "female",
+        "text": "出発は早かったけど、バスが事故で動かなくなったの。途中から歩いて行ったよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "遅れた 主な 原因は 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-071",
+    "file": "n4-p04-071.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "美術館は面白かった。"
+      },
+      {
+        "speaker": "male",
+        "text": "絵もよかったけど、作家がどう暮らしていたかの説明が特に面白かった。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人が 特に 面白いと 思ったのは 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-072",
+    "file": "n4-p04-072.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "交流会に初めて行ってどうだった。"
+      },
+      {
+        "speaker": "female",
+        "text": "知らない人ばかりで心配したけど、一緒に料理したら自然に話せた。次も行きたいな。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 交流会を どう 感じましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-073",
+    "file": "n4-p04-073.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "予約は電話でしたの。"
+      },
+      {
+        "speaker": "male",
+        "text": "電話がつながらなかったので、店のサイトを使ったよ。すぐ確認のメールが来た。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "予約に 使ったのは 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-074",
+    "file": "n4-p04-074.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "なぜ一日早く帰ってきたの。"
+      },
+      {
+        "speaker": "female",
+        "text": "天気はよかったけど、母の具合が悪いと連絡があったから。予定の見学はできなかったの。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "早く 帰った 理由は 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-075",
+    "file": "n4-p04-075.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "久しぶりに 会った 友達に 挨拶します。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-076",
+    "file": "n4-p04-076.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "友達が 旅行の 切符を 手配してくれました。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-077",
+    "file": "n4-p04-077.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "集合時間を 間違えて 友達を 待たせました。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-078",
+    "file": "n4-p04-078.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "集合写真を 通りがかった 人に 頼みます。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-079",
+    "file": "n4-p04-079.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "帰国する 友達を 空港で 見送ります。 何と言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-080",
+    "file": "n4-p04-080.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日の会、楽しみにしています。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-081",
+    "file": "n4-p04-081.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "電車が遅れて、少し遅くなります。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-082",
+    "file": "n4-p04-082.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "一緒に写真を撮ってもいいですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-083",
+    "file": "n4-p04-083.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "今日は来てくださってありがとうございました。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-084",
+    "file": "n4-p04-084.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "お弁当は自分で用意するんですよね。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-085",
+    "file": "n4-p04-085.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "今度、うちにも遊びに来てください。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-086",
+    "file": "n4-p04-086.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "ここから先は歩いて行きませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-04",
+    "id": "n4-p04-087",
+    "file": "n4-p04-087.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "気を付けて帰ってくださいね。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-060",
+    "file": "n4-p05-060.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この申込書、受付に出せばいいですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "その前に、裏にも名前を書いてください。写真は受付で撮ります。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かりました。裏を先に書きます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-061",
+    "file": "n4-p05-061.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "洗濯物を外に干しておこうかな。"
+      },
+      {
+        "speaker": "male",
+        "text": "午後は雨だそうだよ。部屋の中に干したほうがいいよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃあ、そうするね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は このあと 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-062",
+    "file": "n4-p05-062.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "帰りに牛乳と卵を買ってきて。あ、卵はまだあった。牛乳だけお願い。"
+      },
+      {
+        "speaker": "male",
+        "text": "パンは。"
+      },
+      {
+        "speaker": "female",
+        "text": "今日は要らない。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 何を 買いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-063",
+    "file": "n4-p05-063.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "駅の北口で待っていて。"
+      },
+      {
+        "speaker": "female",
+        "text": "北口は工事中だよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "そうか。じゃあ、南口の本屋の前にしよう。カフェの中じゃなくてね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は どこで 待ちますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-064",
+    "file": "n4-p05-064.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "練習は二時に始まります。初めての人は説明があるので、十五分前に来てください。"
+      },
+      {
+        "speaker": "male",
+        "text": "僕は初めてなので、その時間に来ます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 何時までに 来ますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-065",
+    "file": "n4-p05-065.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この箱、開けてもいいですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "中身が違うかもしれないから、先に番号を注文表と比べて。それから開けてね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-066",
+    "file": "n4-p05-066.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "明日の見学、スーツですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、動きやすい服で来てください。ただ、短いズボンはだめです。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、長いズボンとシャツにします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は どの 服を 着ますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-067",
+    "file": "n4-p05-067.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "明日の会議の資料、もう印刷した。"
+      },
+      {
+        "speaker": "female",
+        "text": "うん。机の上に置いたよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "じゃあ、それを会議室に持っていって。パソコンは僕が持つから。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 持っていきますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-068",
+    "file": "n4-p05-068.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ほかにも安い店があるのに、なぜここにしたの。"
+      },
+      {
+        "speaker": "female",
+        "text": "駅からは遠いけど、子ども用のいすがあって、家族で入りやすいから。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人が この 店を 選んだ 一番の 理由は 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-069",
+    "file": "n4-p05-069.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "スマホでも言葉を調べられるよね。"
+      },
+      {
+        "speaker": "male",
+        "text": "うん。でも通知が来ると勉強が止まるから、勉強中は電子辞書を使うんだ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は なぜ 電子辞書を 使っていますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-070",
+    "file": "n4-p05-070.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "土曜の朝に映画を見ない。"
+      },
+      {
+        "speaker": "male",
+        "text": "朝は仕事だけど、昼すぎには終わるよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃあ、土曜の午後にしよう。日曜は私が忙しいから。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は いつ 映画を 見ますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-071",
+    "file": "n4-p05-071.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "最近、毎日お弁当だね。節約のため。"
+      },
+      {
+        "speaker": "female",
+        "text": "それもあるけど、一番は昼休みに店の列に並ばずに済むこと。ゆっくり休めるの。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は なぜ 弁当を 作り始めましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-072",
+    "file": "n4-p05-072.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日の公園での集まり、雨だから中止かな。"
+      },
+      {
+        "speaker": "male",
+        "text": "場所を市民センターに変えるだけで、時間は同じだって。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "明日の 集まりは どうなりましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-073",
+    "file": "n4-p05-073.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "新しい靴はどう。小さくない。"
+      },
+      {
+        "speaker": "male",
+        "text": "大きさはちょうどいい。でも歩くたびに音がするので、静かな所だと気になる。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 何に 困っていますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-074",
+    "file": "n4-p05-074.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "旅行、景色がよさそうだね。"
+      },
+      {
+        "speaker": "female",
+        "text": "そうね。でも私は、久しぶりに祖母と料理を作れるのが一番楽しみ。温泉は今回は行かないの。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 一番 楽しみに していますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-075",
+    "file": "n4-p05-075.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "料理教室に 初めて 参加しました。隣の 人に あいさつします。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-076",
+    "file": "n4-p05-076.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "友達が あなたの 自転車の タイヤを 直してくれました。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-077",
+    "file": "n4-p05-077.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "借りた 本に お茶を こぼしてしまいました。持ち主に 話します。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-078",
+    "file": "n4-p05-078.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "大きな かばんで 通路が ふさがっています。持ち主に 頼みます。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-079",
+    "file": "n4-p05-079.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "友達の 家で 楽しく 過ごしました。帰る ときに あいさつします。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-080",
+    "file": "n4-p05-080.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "この席、使ってもかまいませんか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-081",
+    "file": "n4-p05-081.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "窓を閉めてくれて、ありがとう。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-082",
+    "file": "n4-p05-082.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "お先に失礼します。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-083",
+    "file": "n4-p05-083.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日の朝、起こしてもらえる。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-084",
+    "file": "n4-p05-084.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません。注文した物と違うんですが。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-085",
+    "file": "n4-p05-085.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この近くに、切手を買える所はありますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-086",
+    "file": "n4-p05-086.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "試験、うまくいった。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-05",
+    "id": "n4-p05-087",
+    "file": "n4-p05-087.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "あと十分ぐらい、待っていただけますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-060",
+    "file": "n4-p06-060.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日の切符、ネットで買ったよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "支払いが済んだら、届いたメールの番号を保存してね。駅で切符を受け取るときに必要だよ。"
+      },
+      {
+        "speaker": "female",
+        "text": "じゃあ、今保存するね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-061",
+    "file": "n4-p06-061.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "すみません、忘れた傘を取りに来ました。"
+      },
+      {
+        "speaker": "female",
+        "text": "こちらではなく、改札の向こうの案内所でお預かりしています。階段を上がる必要はありません。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は どこへ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-062",
+    "file": "n4-p06-062.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "会場の地図はもう全員に渡しました。"
+      },
+      {
+        "speaker": "female",
+        "text": "では、私はお弁当を配ればいいですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "お弁当はあとです。今は名札をお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 配りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-063",
+    "file": "n4-p06-063.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "美術館へは三番ですか。"
+      },
+      {
+        "speaker": "female",
+        "text": "三番は工事で今日は止まりません。六番なら前まで行きます。八番だと公園で乗り換えです。"
+      },
+      {
+        "speaker": "male",
+        "text": "乗り換えたくないので、六番にします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 何番の バスに 乗りますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-064",
+    "file": "n4-p06-064.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "清掃活動には手袋と袋を持ってきてください。"
+      },
+      {
+        "speaker": "female",
+        "text": "袋を持っていないんですが。"
+      },
+      {
+        "speaker": "male",
+        "text": "では、袋はこちらで用意します。手袋はお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 持ってきますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-065",
+    "file": "n4-p06-065.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "バスは九時に出ます。ここからバス停まで歩いて十分ですが、出発の五分前には着いてください。"
+      },
+      {
+        "speaker": "male",
+        "text": "分かりました。八時四十五分に出ます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 何時に ホテルを 出ますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-066",
+    "file": "n4-p06-066.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この資料をコピーしてもいいですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "機械がまだ動いているから、止まるまで待ってください。そのあと一番上の紙だけコピーしてください。"
+      },
+      {
+        "speaker": "female",
+        "text": "分かりました。まず待ちます。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は このあと 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-067",
+    "file": "n4-p06-067.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "部屋の鍵を返します。"
+      },
+      {
+        "speaker": "female",
+        "text": "ありがとうございます。忘れ物がないか、もう一度部屋を確認していただけますか。そのあとこちらでお支払いをお願いします。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は まず 何を しますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-068",
+    "file": "n4-p06-068.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この町は温泉が有名ですよね。"
+      },
+      {
+        "speaker": "male",
+        "text": "そうですね。でも今回は祭りで太鼓をたたく友達を見に来ました。温泉には明日入るつもりです。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は なぜ この 町に 来ましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-069",
+    "file": "n4-p06-069.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "駅から近いホテルだった。"
+      },
+      {
+        "speaker": "female",
+        "text": "いいえ、少し歩いたよ。部屋も小さかったけど、朝ご飯が温かくておいしかったのが一番よかった。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は ホテルの 何が よかったと 言っていますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-070",
+    "file": "n4-p06-070.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "晴れたら海へ行こう。"
+      },
+      {
+        "speaker": "female",
+        "text": "明日は一日雨らしいよ。"
+      },
+      {
+        "speaker": "male",
+        "text": "それなら水族館にしよう。映画館は来週でいいね。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "二人は 明日 どこへ 行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-071",
+    "file": "n4-p06-071.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "毎朝歩くのは体のためですか。"
+      },
+      {
+        "speaker": "male",
+        "text": "初めはそうでした。でも今は近所の人と挨拶するのが楽しくて続けているんです。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人が 散歩を 続けている 理由は 何ですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-072",
+    "file": "n4-p06-072.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "切符と財布はある。"
+      },
+      {
+        "speaker": "female",
+        "text": "うん。でもホテルに充電器を置いてきちゃった。電話はかばんにあるよ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "女の人は 何を 忘れましたか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-073",
+    "file": "n4-p06-073.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "明日の交流会、料理を作るの。"
+      },
+      {
+        "speaker": "male",
+        "text": "今回は作らないよ。いろいろな国のお茶を飲みながら、その国の暮らしについて話すんだ。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "この イベントでは 何が できますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-074",
+    "file": "n4-p06-074.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "旅行の写真、全部ネットに出すの。"
+      },
+      {
+        "speaker": "male",
+        "text": "景色だけにするよ。人が写っているものは、先にその人に聞いてからにする。"
+      },
+      {
+        "speaker": "narrator",
+        "text": "男の人は 写真を どうしますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-075",
+    "file": "n4-p06-075.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "地域の 掃除に 初めて 参加します。担当の 人に あいさつします。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-076",
+    "file": "n4-p06-076.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "電車で 落とした 定期券を、知らない 人が 拾ってくれました。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-077",
+    "file": "n4-p06-077.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "集合の 時間に 遅れてしまいました。待っていた 人に 話します。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-078",
+    "file": "n4-p06-078.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "ホテルで、荷物を 夕方まで 預かってほしいです。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-079",
+    "file": "n4-p06-079.mp3",
+    "turns": [
+      {
+        "speaker": "narrator",
+        "text": "お世話に なった 旅行先の 家族と 別れます。 何と 言いますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-080",
+    "file": "n4-p06-080.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "荷物、上に載せましょうか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-081",
+    "file": "n4-p06-081.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "ごめん。道に迷って、少し遅れそう。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-082",
+    "file": "n4-p06-082.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "この写真、家族にも見せていいですか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-083",
+    "file": "n4-p06-083.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "次の駅で乗り換えるんですよね。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-084",
+    "file": "n4-p06-084.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "今日はいろいろ案内してくれて、ありがとう。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-085",
+    "file": "n4-p06-085.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "明日は雨でも行きますか。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-086",
+    "file": "n4-p06-086.mp3",
+    "turns": [
+      {
+        "speaker": "female",
+        "text": "すみません。予約の名前を変えたいんですが。"
+      }
+    ]
+  },
+  {
+    "pack": "jlpt-n4-06",
+    "id": "n4-p06-087",
+    "file": "n4-p06-087.mp3",
+    "turns": [
+      {
+        "speaker": "male",
+        "text": "また来年も、この祭りに来たいですね。"
+      }
+    ]
+  }
+]
