@@ -1,0 +1,652 @@
+[
+  {
+    "id": "kotoba-edd390407834",
+    "jp": "会う",
+    "kana": "あう",
+    "romaji": "au",
+    "meaning": "bertemu",
+    "example": {
+      "jp": "友達に会います。",
+      "kana": "ともだち に あいます。",
+      "meaning": "Saya bertemu teman."
+    },
+    "source": "data/kotoba-n5.json#kotoba-edd390407834"
+  },
+  {
+    "id": "kotoba-d74a571ffab4",
+    "jp": "行く",
+    "kana": "いく",
+    "romaji": "iku",
+    "meaning": "pergi",
+    "example": {
+      "jp": "電車で学校へ行きます。",
+      "kana": "でんしゃ で がっこう へ いきます。",
+      "meaning": "Saya pergi ke sekolah dengan kereta."
+    },
+    "source": "data/kotoba-n5.json#kotoba-d74a571ffab4"
+  },
+  {
+    "id": "kotoba-792ec616b4c0",
+    "jp": "来る",
+    "kana": "くる",
+    "romaji": "kuru",
+    "meaning": "datang",
+    "example": {
+      "jp": "誰が来ますか。",
+      "kana": "だれ が きます か。",
+      "meaning": "Siapa yang akan datang?"
+    },
+    "source": "data/kotoba-n5.json#kotoba-792ec616b4c0"
+  },
+  {
+    "id": "kotoba-1b8a0294850c",
+    "jp": "帰る",
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "pulang",
+    "example": {
+      "jp": "しごとのあとでうちにかえります。",
+      "kana": "しごと の あと で うち に かえります。",
+      "meaning": "Saya pulang ke rumah setelah bekerja."
+    },
+    "source": "data/kotoba-n5.json#kotoba-1b8a0294850c"
+  },
+  {
+    "id": "kotoba-2b7ce3887f50",
+    "jp": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "meaning": "makan",
+    "example": {
+      "jp": "肉は食べますが、魚は食べません。",
+      "kana": "にく は たべます が、さかな は たべません。",
+      "meaning": "Daging saya makan, tetapi ikan tidak."
+    },
+    "source": "data/kotoba-n5.json#kotoba-2b7ce3887f50"
+  },
+  {
+    "id": "kotoba-5706ea39cdd0",
+    "jp": "飲む",
+    "kana": "のむ",
+    "romaji": "nomu",
+    "meaning": "minum",
+    "example": {
+      "jp": "コーヒーか紅茶を飲みます。",
+      "kana": "コーヒー か こうちゃ を のみます。",
+      "meaning": "Saya minum kopi atau teh hitam."
+    },
+    "source": "data/kotoba-n5.json#kotoba-5706ea39cdd0"
+  },
+  {
+    "id": "kotoba-c1ee2c0cd4e9",
+    "jp": "見る",
+    "kana": "みる",
+    "romaji": "miru",
+    "meaning": "melihat",
+    "example": {
+      "jp": "私の趣味は映画を見ることです。",
+      "kana": "わたし の しゅみ は えいが を みる こと です。",
+      "meaning": "Hobi saya menonton film."
+    },
+    "source": "data/kotoba-n5.json#kotoba-c1ee2c0cd4e9"
+  },
+  {
+    "id": "kotoba-d9291ccba400",
+    "jp": "聞く",
+    "kana": "きく",
+    "romaji": "kiku",
+    "meaning": "mendengar",
+    "example": {
+      "jp": "暇なとき、音楽を聞きます。",
+      "kana": "ひまな とき、おんがく を ききます。",
+      "meaning": "Saat senggang, saya mendengarkan musik."
+    },
+    "source": "data/kotoba-n5.json#kotoba-d9291ccba400"
+  },
+  {
+    "id": "kotoba-818417a13955",
+    "jp": "読む",
+    "kana": "よむ",
+    "romaji": "yomu",
+    "meaning": "membaca",
+    "example": {
+      "jp": "昨日の新聞を読みます。",
+      "kana": "きのう の しんぶん を よみます。",
+      "meaning": "Saya membaca koran kemarin."
+    },
+    "source": "data/kotoba-n5.json#kotoba-818417a13955"
+  },
+  {
+    "id": "kotoba-9eee51e1e354",
+    "jp": "書く",
+    "kana": "かく",
+    "romaji": "kaku",
+    "meaning": "menulis",
+    "example": {
+      "jp": "ノートにかんじをかきます。",
+      "kana": "ノート に かんじ を かきます。",
+      "meaning": "Saya menulis kanji di buku catatan."
+    },
+    "source": "data/kotoba-n5.json#kotoba-9eee51e1e354"
+  },
+  {
+    "id": "kotoba-ef622501f594",
+    "jp": "話す",
+    "kana": "はなす",
+    "romaji": "hanasu",
+    "meaning": "berbicara",
+    "example": {
+      "jp": "ともだちとにほんごではなします。",
+      "kana": "ともだち と にほんご で はなします。",
+      "meaning": "Saya berbicara dalam bahasa Jepang dengan teman."
+    },
+    "source": "data/kotoba-n5.json#kotoba-ef622501f594"
+  },
+  {
+    "id": "kotoba-40f9dfc77994",
+    "jp": "寝る",
+    "kana": "ねる",
+    "romaji": "neru",
+    "meaning": "tidur",
+    "example": {
+      "jp": "寝る前に、本を読みます。",
+      "kana": "ねる まえに、ほん を よみます。",
+      "meaning": "Sebelum tidur, saya membaca buku."
+    },
+    "source": "data/kotoba-n5.json#kotoba-40f9dfc77994"
+  },
+  {
+    "id": "kotoba-13b5cd292d16",
+    "jp": "起きる",
+    "kana": "おきる",
+    "romaji": "okiru",
+    "meaning": "bangun",
+    "example": {
+      "jp": "七時に起きます。",
+      "kana": "しちじ に おきます。",
+      "meaning": "Saya bangun pukul tujuh."
+    },
+    "source": "data/kotoba-n5.json#kotoba-13b5cd292d16"
+  },
+  {
+    "id": "kotoba-58a8e165ae06",
+    "jp": "歩く",
+    "kana": "あるく",
+    "romaji": "aruku",
+    "meaning": "berjalan",
+    "example": {
+      "jp": "家から駅まで歩きます。",
+      "kana": "いえ から えき まで あるきます。",
+      "meaning": "Saya berjalan dari rumah ke stasiun."
+    },
+    "source": "data/kotoba-n5.json#kotoba-58a8e165ae06"
+  },
+  {
+    "id": "kotoba-d3e9afc7dbf4",
+    "jp": "走る",
+    "kana": "はしる",
+    "romaji": "hashiru",
+    "meaning": "berlari",
+    "example": {
+      "jp": "走ることが好きです。",
+      "kana": "はしる こと が すき です。",
+      "meaning": "Saya suka berlari."
+    },
+    "source": "data/kotoba-n5.json#kotoba-d3e9afc7dbf4"
+  },
+  {
+    "id": "kotoba-522bf697a5f8",
+    "jp": "待つ",
+    "kana": "まつ",
+    "romaji": "matsu",
+    "meaning": "menunggu",
+    "example": {
+      "jp": "えきのまえでともだちをまちます。",
+      "kana": "えき の まえ で ともだち を まちます。",
+      "meaning": "Saya menunggu teman di depan stasiun."
+    },
+    "source": "data/kotoba-n5.json#kotoba-522bf697a5f8"
+  },
+  {
+    "id": "kotoba-2952009576e0",
+    "jp": "買う",
+    "kana": "かう",
+    "romaji": "kau",
+    "meaning": "membeli",
+    "example": {
+      "jp": "パンと卵を買います。",
+      "kana": "パン と たまご を かいます。",
+      "meaning": "Saya membeli roti dan telur."
+    },
+    "source": "data/kotoba-n5.json#kotoba-2952009576e0"
+  },
+  {
+    "id": "kotoba-77cf242975b0",
+    "jp": "作る",
+    "kana": "つくる",
+    "romaji": "tsukuru",
+    "meaning": "membuat",
+    "example": {
+      "jp": "ばんごはんをつくります。",
+      "kana": "ばんごはん を つくります。",
+      "meaning": "Saya menyiapkan makan malam."
+    },
+    "source": "data/kotoba-n5.json#kotoba-77cf242975b0"
+  },
+  {
+    "id": "kotoba-6cbc3cac32b9",
+    "jp": "遊ぶ",
+    "kana": "あそぶ",
+    "romaji": "asobu",
+    "meaning": "bermain",
+    "example": {
+      "jp": "宿題をしてから、遊びます。",
+      "kana": "しゅくだい を して から、あそびます。",
+      "meaning": "Setelah mengerjakan PR, saya bermain."
+    },
+    "source": "data/kotoba-n5.json#kotoba-6cbc3cac32b9"
+  },
+  {
+    "id": "kotoba-3fb88915d4c8",
+    "jp": "働く",
+    "kana": "はたらく",
+    "romaji": "hataraku",
+    "meaning": "bekerja",
+    "example": {
+      "jp": "九時から五時まで働きます。",
+      "kana": "くじ から ごじ まで はたらきます。",
+      "meaning": "Saya bekerja dari pukul sembilan sampai lima."
+    },
+    "source": "data/kotoba-n5.json#kotoba-3fb88915d4c8"
+  },
+  {
+    "id": "kotoba-1d0c7e303d2e",
+    "jp": "勉強",
+    "kana": "べんきょうする",
+    "romaji": "benkyousuru",
+    "meaning": "belajar",
+    "example": {
+      "jp": "にほんごのべんきょうはたのしいです。",
+      "kana": "にほんご の べんきょう は たのしい です。",
+      "meaning": "Belajar bahasa Jepang menyenangkan."
+    },
+    "source": "data/kotoba-n5.json#kotoba-1d0c7e303d2e"
+  },
+  {
+    "id": "kotoba-83831c3f910c",
+    "jp": "本",
+    "kana": "ほん",
+    "romaji": "hon",
+    "meaning": "buku",
+    "example": {
+      "jp": "ねるまえにほんをすこしよみます。",
+      "kana": "ねる まえ に ほん を すこし よみます。",
+      "meaning": "Saya membaca buku sebentar sebelum tidur."
+    },
+    "source": "data/kotoba-n5.json#kotoba-83831c3f910c"
+  },
+  {
+    "id": "kotoba-dc6e2aafeb9e",
+    "jp": "学校",
+    "kana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "sekolah",
+    "example": {
+      "jp": "電車で学校へ行きます。",
+      "kana": "でんしゃ で がっこう へ いきます。",
+      "meaning": "Saya pergi ke sekolah dengan kereta."
+    },
+    "source": "data/kotoba-n5.json#kotoba-dc6e2aafeb9e"
+  },
+  {
+    "id": "kotoba-cd98e43da31b",
+    "jp": "先生",
+    "kana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "guru",
+    "example": {
+      "jp": "先生は教室にいます。",
+      "kana": "せんせい は きょうしつ に います。",
+      "meaning": "Guru berada di kelas."
+    },
+    "source": "data/kotoba-n5.json#kotoba-cd98e43da31b"
+  },
+  {
+    "id": "kotoba-13a58ec2074e",
+    "jp": "学生",
+    "kana": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "siswa",
+    "example": {
+      "jp": "私は学生です。",
+      "kana": "わたし は がくせい です。",
+      "meaning": "Saya pelajar."
+    },
+    "source": "data/kotoba-n5.json#kotoba-13a58ec2074e"
+  },
+  {
+    "id": "kotoba-93015cdfdcb0",
+    "jp": "友達",
+    "kana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "teman",
+    "example": {
+      "jp": "友達と買い物をします。",
+      "kana": "ともだち と かいもの を します。",
+      "meaning": "Saya berbelanja bersama teman."
+    },
+    "source": "data/kotoba-n5.json#kotoba-93015cdfdcb0"
+  },
+  {
+    "id": "kotoba-3c659f5514a2",
+    "jp": "家族",
+    "kana": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "keluarga",
+    "example": {
+      "jp": "この人は家族です。",
+      "kana": "この ひと は かぞく です。",
+      "meaning": "Orang ini keluarga."
+    },
+    "source": "data/kotoba-n5.json#kotoba-3c659f5514a2"
+  },
+  {
+    "id": "kotoba-c8ae97be80f3",
+    "jp": "家",
+    "kana": "いえ",
+    "romaji": "ie",
+    "meaning": "rumah",
+    "example": {
+      "jp": "うちのいえにはにわがあります。",
+      "kana": "うち の いえ に は にわ が あります。",
+      "meaning": "Rumah kami mempunyai halaman."
+    },
+    "source": "data/kotoba-n5.json#kotoba-c8ae97be80f3"
+  },
+  {
+    "id": "kotoba-02c744ed8d58",
+    "jp": "部屋",
+    "kana": "へや",
+    "romaji": "heya",
+    "meaning": "kamar",
+    "example": {
+      "jp": "この部屋はきれいです。",
+      "kana": "この へや は きれいです。",
+      "meaning": "Kamar ini bersih."
+    },
+    "source": "data/kotoba-n5.json#kotoba-02c744ed8d58"
+  },
+  {
+    "id": "kotoba-327b54d04f71",
+    "jp": "水",
+    "kana": "みず",
+    "romaji": "mizu",
+    "meaning": "air",
+    "example": {
+      "jp": "このみずはつめたくておいしいです。",
+      "kana": "この みず は つめたくて おいしい です。",
+      "meaning": "Air ini dingin dan enak diminum."
+    },
+    "source": "data/kotoba-n5.json#kotoba-327b54d04f71"
+  },
+  {
+    "id": "kotoba-d56d29df4445",
+    "jp": "お茶",
+    "kana": "おちゃ",
+    "romaji": "ocha",
+    "meaning": "teh",
+    "example": {
+      "jp": "お茶はいかがですか。",
+      "kana": "おちゃ は いかが です か。",
+      "meaning": "Bagaimana kalau minum teh?"
+    },
+    "source": "data/kotoba-n5.json#kotoba-d56d29df4445"
+  },
+  {
+    "id": "kotoba-36f6efaea66a",
+    "jp": "御飯",
+    "kana": "ごはん",
+    "romaji": "gohan",
+    "meaning": "nasi",
+    "example": {
+      "jp": "御飯を食べます。",
+      "kana": "ごはん を たべます。",
+      "meaning": "Saya makan nasi."
+    },
+    "source": "data/kotoba-n5.json#kotoba-36f6efaea66a"
+  },
+  {
+    "id": "kotoba-419c745398df",
+    "jp": "朝",
+    "kana": "あさ",
+    "romaji": "asa",
+    "meaning": "pagi",
+    "example": {
+      "jp": "あさはパンをたべます。",
+      "kana": "あさ は パン を たべます。",
+      "meaning": "Saya makan roti pada pagi hari."
+    },
+    "source": "data/kotoba-n5.json#kotoba-419c745398df"
+  },
+  {
+    "id": "kotoba-0201c422a7fc",
+    "jp": "昼",
+    "kana": "ひる",
+    "romaji": "hiru",
+    "meaning": "siang",
+    "example": {
+      "jp": "ひるはかいしゃのしょくどうでたべます。",
+      "kana": "ひる は かいしゃ の しょくどう で たべます。",
+      "meaning": "Saya makan siang di kantin kantor."
+    },
+    "source": "data/kotoba-n5.json#kotoba-0201c422a7fc"
+  },
+  {
+    "id": "kotoba-a519542a5fb4",
+    "jp": "夜",
+    "kana": "よる",
+    "romaji": "yoru",
+    "meaning": "malam",
+    "example": {
+      "jp": "よるはへやでおんがくをききます。",
+      "kana": "よる は へや で おんがく を ききます。",
+      "meaning": "Pada malam hari saya mendengarkan musik di kamar."
+    },
+    "source": "data/kotoba-n5.json#kotoba-a519542a5fb4"
+  },
+  {
+    "id": "kotoba-5c9cf5e0dd47",
+    "jp": "今日",
+    "kana": "きょう",
+    "romaji": "kyou",
+    "meaning": "hari ini",
+    "example": {
+      "jp": "今日は勉強します。",
+      "kana": "きょう は べんきょうします。",
+      "meaning": "Hari ini saya belajar."
+    },
+    "source": "data/kotoba-n5.json#kotoba-5c9cf5e0dd47"
+  },
+  {
+    "id": "kotoba-6450d5f86685",
+    "jp": "明日",
+    "kana": "あした",
+    "romaji": "ashita",
+    "meaning": "besok",
+    "example": {
+      "jp": "あしたはともだちのいえにいきます。",
+      "kana": "あした は ともだち の いえ に いきます。",
+      "meaning": "Besok saya pergi ke rumah teman."
+    },
+    "source": "data/kotoba-n5.json#kotoba-6450d5f86685"
+  },
+  {
+    "id": "kotoba-655d11bd2af0",
+    "jp": "昨日",
+    "kana": "きのう",
+    "romaji": "kinou",
+    "meaning": "kemarin",
+    "example": {
+      "jp": "昨日は寒くなかったです。",
+      "kana": "きのう は さむくなかったです。",
+      "meaning": "Kemarin tidak dingin."
+    },
+    "source": "data/kotoba-n5.json#kotoba-655d11bd2af0"
+  },
+  {
+    "id": "kotoba-bf6267da6077",
+    "jp": "時間",
+    "kana": "じかん",
+    "romaji": "jikan",
+    "meaning": "waktu",
+    "example": {
+      "jp": "時間がありません。",
+      "kana": "じかん が ありません。",
+      "meaning": "Saya tidak punya waktu."
+    },
+    "source": "data/kotoba-n5.json#kotoba-bf6267da6077"
+  },
+  {
+    "id": "kotoba-bc79d84d3df7",
+    "jp": "天気",
+    "kana": "てんき",
+    "romaji": "tenki",
+    "meaning": "cuaca",
+    "example": {
+      "jp": "今日はいい天気です。",
+      "kana": "きょう は いい てんき です。",
+      "meaning": "Cuaca hari ini bagus."
+    },
+    "source": "data/kotoba-n5.json#kotoba-bc79d84d3df7"
+  },
+  {
+    "id": "kotoba-124d60580dfa",
+    "jp": "雨",
+    "kana": "あめ",
+    "romaji": "ame",
+    "meaning": "hujan",
+    "example": {
+      "jp": "今日は雨です。",
+      "kana": "きょう は あめ です。",
+      "meaning": "Hari ini hujan."
+    },
+    "source": "data/kotoba-n5.json#kotoba-124d60580dfa"
+  },
+  {
+    "id": "kotoba-53058fe2e03c",
+    "jp": "雪",
+    "kana": "ゆき",
+    "romaji": "yuki",
+    "meaning": "salju",
+    "example": {
+      "jp": "雪が降っています。",
+      "kana": "ゆき が ふっています。",
+      "meaning": "Sedang turun salju."
+    },
+    "source": "data/kotoba-n5.json#kotoba-53058fe2e03c"
+  },
+  {
+    "id": "kotoba-b0a1eab5f902",
+    "jp": "花",
+    "kana": "はな",
+    "romaji": "hana",
+    "meaning": "bunga",
+    "example": {
+      "jp": "ははにはなをあげました。",
+      "kana": "はは に はな を あげました。",
+      "meaning": "Saya memberikan bunga kepada ibu."
+    },
+    "source": "data/kotoba-n5.json#kotoba-b0a1eab5f902"
+  },
+  {
+    "id": "kotoba-4862540a2997",
+    "jp": "山",
+    "kana": "やま",
+    "romaji": "yama",
+    "meaning": "gunung",
+    "example": {
+      "jp": "山へ行きます。",
+      "kana": "やま へ いきます。",
+      "meaning": "Saya pergi ke gunung."
+    },
+    "source": "data/kotoba-n5.json#kotoba-4862540a2997"
+  },
+  {
+    "id": "kotoba-0ac6d5192ec2",
+    "jp": "海",
+    "kana": "うみ",
+    "romaji": "umi",
+    "meaning": "laut",
+    "example": {
+      "jp": "なつにかぞくとうみにいきました。",
+      "kana": "なつ に かぞく と うみ に いきました。",
+      "meaning": "Saya pergi ke laut bersama keluarga pada musim panas."
+    },
+    "source": "data/kotoba-n5.json#kotoba-0ac6d5192ec2"
+  },
+  {
+    "id": "kotoba-2f8267a89ad5",
+    "jp": "空",
+    "kana": "そら",
+    "romaji": "sora",
+    "meaning": "langit",
+    "example": {
+      "jp": "よるのそらにほしがみえます。",
+      "kana": "よる の そら に ほし が みえます。",
+      "meaning": "Bintang terlihat di langit malam."
+    },
+    "source": "data/kotoba-n5.json#kotoba-2f8267a89ad5"
+  },
+  {
+    "id": "kotoba-1e82f9b0b675",
+    "jp": "犬",
+    "kana": "いぬ",
+    "romaji": "inu",
+    "meaning": "anjing",
+    "example": {
+      "jp": "あそこに犬がいます。",
+      "kana": "あそこ に いぬ が います。",
+      "meaning": "Di sana ada anjing."
+    },
+    "source": "data/kotoba-n5.json#kotoba-1e82f9b0b675"
+  },
+  {
+    "id": "kotoba-a810bf845a30",
+    "jp": "猫",
+    "kana": "ねこ",
+    "romaji": "neko",
+    "meaning": "kucing",
+    "example": {
+      "jp": "あそこに猫がいます。",
+      "kana": "あそこ に ねこ が います。",
+      "meaning": "Di sana ada kucing."
+    },
+    "source": "data/kotoba-n5.json#kotoba-a810bf845a30"
+  },
+  {
+    "id": "kotoba-92e4d1d0c7a5",
+    "jp": "電車",
+    "kana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "kereta listrik",
+    "example": {
+      "jp": "電車で学校へ行きます。",
+      "kana": "でんしゃ で がっこう へ いきます。",
+      "meaning": "Saya pergi ke sekolah dengan kereta."
+    },
+    "source": "data/kotoba-n5.json#kotoba-92e4d1d0c7a5"
+  },
+  {
+    "id": "kotoba-53e5e276999d",
+    "jp": "駅",
+    "kana": "えき",
+    "romaji": "eki",
+    "meaning": "stasiun",
+    "example": {
+      "jp": "駅へ行きます。",
+      "kana": "えき へ いきます。",
+      "meaning": "Saya pergi ke stasiun."
+    },
+    "source": "data/kotoba-n5.json#kotoba-53e5e276999d"
+  }
+]
