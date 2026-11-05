@@ -13,5 +13,5 @@ function hero(){const name=last||'Hiragana';return {name,title:notes[name][0],de
 function word(){if(!current){const choices=words.filter(w=>!recent.includes(w.id));current=choices[Math.floor(Math.random()*choices.length)];recent=[...recent,current.id].slice(-2);write('gaku-home-word-history',recent);}return current;}
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function wordCard(){const w=word();return `<section class="panel word"><div class="panel-title"><h3>ひとこと · Kata hari ini</h3><button class="round sound" onclick="GakuHome.speakWord()" aria-label="Dengarkan ${esc(w.romaji)}">♪</button></div><div class="jp" lang="ja">${esc(w.jp)}</div><div class="roman">${esc(w.romaji)}</div><div class="meaning">${esc(w.meaning)}</div><div class="example"><span lang="ja">${esc(w.example.jp)}</span><br>${esc(w.example.meaning)}</div></section>`;}
-g.GakuHome={remember,hero,word,wordCard,speakWord(){g.speak(word().kana);}};
+g.GakuHome={refresh(){const value=read('gaku-home-last-learning');last=allowed.includes(value)?value:null;},remember,hero,word,wordCard,speakWord(){g.speak(word().kana);}};
 })(window);
