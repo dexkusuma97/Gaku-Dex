@@ -92,7 +92,8 @@ body{font-size:16px}.breadcrumb{font-size:14px}.nav button{font-size:14px}.nav-l
 <aside><div class="brand"><span class="brand-mark">学</span><div>DeX Gaku<small>YOUR JAPANESE JOURNEY</small></div></div><div class="nav-label">RUANG BELAJAR</div><nav class="nav" id="sidenav"></nav><div class="sidebar-bottom"><div class="note"><strong>ゆっくり、でも確実に。</strong>Pelan-pelan, tapi pasti.<br>Setiap langkah kecil berarti 🌱</div><div class="profile"><span class="avatar">🌱</span><div>Pelajar baru<small>Belajar sebagai Tamu</small></div><span style="margin-left:auto;color:#9aaa96">⌄</span></div></div></aside>
 <div class="workspace"><header class="topbar"><div class="breadcrumb">Ruang belajar <span>/ &nbsp; <b id="crumb">Beranda</b></span></div><div class="brand mobile-brand"><span class="brand-mark">学</span><div>DeX Gaku<small>BELAJAR BAHASA JEPANG</small></div></div><div class="top-actions"><button class="level-badge" id="active-level" type="button" onclick="toggleLevel()" aria-label="Ganti level N5 atau N4">N5</button><span class="chip">🔥 <b id="streak">3</b> hari semangat</span><button class="round" onclick="showPage('Pengaturan')" aria-label="Pengaturan">⚙</button></div></header><main class="content" id="app"></main></div><nav class="bottomnav" id="bottomnav"></nav><div class="toast" id="toast" role="status"></div><div id="overlay"></div><div class="simulation-module simulation-overlay"><dialog id="simulation-dialog" aria-labelledby="simulation-dialog-title" oncancel="GakuSimulation.cancelExit()"></dialog><div id="simulation-announce" class="sr-only" role="status" aria-live="polite"></div></div>
 <script src="cloud-sync.js"></script>
-<script src="cloud-auto.js"></script>
+<script src="cloud-delta.js"></script>
+<script src="cloud-auto-delta.js"></script>
 <script src="home-personalization.js"></script>
 <script src="history-core.js"></script>
 <script src="kana-data.js"></script>

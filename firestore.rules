@@ -1,23 +1,52 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-    match /users/{uid}/study/snapshot {
-      function owner() {
-        return request.auth != null && request.auth.uid == uid;
-      }
-      function valid() {
-        return request.resource.data.keys().hasAll(['version', 'revision', 'payload', 'updatedAt'])
-        && request.resource.data.keys().hasOnly(['version', 'revision', 'payload', 'updatedAt'])
-        && request.resource.data.version == 1
-        && request.resource.data.revision is int
-        && request.resource.data.payload is string
-        && request.resource.data.payload.size() <= 700000
+    function owner(uid) { return request.auth != null && request.auth.uid == uid; }
+    function validSnapshot() {
+      return request.resource.data.keys().hasAll(['version','revision','payload','updatedAt'])
+        && request.resource.data.keys().hasOnly(['version','revision','payload','updatedAt'])
+        && request.resource.data.version == 1 && request.resource.data.revision is int
+        && request.resource.data.payload is string && request.resource.data.payload.size() <= 700000
         && request.resource.data.updatedAt == request.time;
-      }
-      allow get: if owner();
-      allow create: if owner() && valid() && request.resource.data.revision == 1;
-      allow update: if owner() && valid()
-        && request.resource.data.revision == resource.data.revision + 1;
+    }
+    function validHead() {
+      return request.resource.data.keys().hasAll(['version','epoch','seq','updatedAt'])
+        && request.resource.data.keys().hasOnly(['version','epoch','seq','updatedAt'])
+        && request.resource.data.version == 2 && request.resource.data.epoch is int
+        && request.resource.data.epoch > 0 && request.resource.data.seq is int
+        && request.resource.data.seq >= 0 && request.resource.data.updatedAt == request.time;
+    }
+    match /users/{uid}/study/snapshot {
+      allow get: if owner(uid);
+      allow create: if owner(uid) && validSnapshot() && request.resource.data.revision == 1;
+      allow update: if owner(uid) && validSnapshot()
+        && request.resource.data.revision == resource.data.revision + 1
+        && (!exists(/databases/$(database)/documents/users/$(uid)/study/syncHead)
+          || (getAfter(/databases/$(database)/documents/users/$(uid)/study/syncHead).data.epoch == request.resource.data.revision
+            && getAfter(/databases/$(database)/documents/users/$(uid)/study/syncHead).data.seq == 0));
+    }
+    match /users/{uid}/study/syncHead {
+      allow get: if owner(uid);
+      allow create: if owner(uid) && validHead() && request.resource.data.seq == 0
+        && request.resource.data.epoch == getAfter(/databases/$(database)/documents/users/$(uid)/study/snapshot).data.revision;
+      allow update: if owner(uid) && validHead()
+        && ((request.resource.data.epoch == resource.data.epoch && request.resource.data.seq == resource.data.seq + 1)
+          || (request.resource.data.epoch == resource.data.epoch + 1 && request.resource.data.seq == 0
+            && request.resource.data.epoch == getAfter(/databases/$(database)/documents/users/$(uid)/study/snapshot).data.revision));
+    }
+    match /users/{uid}/studyEpochs/{epoch}/changes/{change} {
+      allow get, list: if owner(uid);
+      allow create: if owner(uid)
+        && request.resource.data.keys().hasAll(['version','epoch','seq','ops','updatedAt'])
+        && request.resource.data.keys().hasOnly(['version','epoch','seq','ops','updatedAt'])
+        && request.resource.data.version == 2 && request.resource.data.seq is int
+        && request.resource.data.epoch is int && epoch == string(request.resource.data.epoch)
+        && change == string(request.resource.data.seq)
+        && request.resource.data.ops is string && request.resource.data.ops.size() <= 700000
+        && request.resource.data.updatedAt == request.time
+        && request.resource.data.epoch == get(/databases/$(database)/documents/users/$(uid)/study/syncHead).data.epoch
+        && request.resource.data.seq == get(/databases/$(database)/documents/users/$(uid)/study/syncHead).data.seq + 1
+        && request.resource.data.seq == getAfter(/databases/$(database)/documents/users/$(uid)/study/syncHead).data.seq;
     }
   }
 }
