@@ -65,5 +65,8 @@ jobs:
               })
               print("Proyek dex-gaku berhasil dibuat.")
 
+      - name: Periksa pemisahan konten premium
+        run: node scripts/check-premium-public.cjs
+
       - name: Unggah website
         run: npx --yes wrangler@4 pages deploy dist --project-name=dex-gaku --branch=main

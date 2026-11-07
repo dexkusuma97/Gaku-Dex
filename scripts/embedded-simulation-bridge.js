@@ -17,8 +17,19 @@ function confirmExit(){const action=pendingExit;pendingExit=null;closeDialog();f
 function syncLifecycle(){if(clock)clearInterval(clock);clock=null;const active=window.GakuSimulationHost.active();if(active&&state.view==='exam')clock=setInterval(tick,500);if(wasActive&&!active)stopAudio();wasActive=active}
 function qualifyHandlers(html){return html.replace(/\bon(click|change)="([^"]*)"/g,(_,event,handler)=>{handler=handler.replace(/\bstate\./g,'GakuSimulation.state.');for(const name of EXPORTED_NAMES)handler=handler.replace(new RegExp('(?<![.\\w])'+name+'\\(','g'),'GakuSimulation.'+name+'(');return 'on'+event+'="'+handler+'"'})}
 function syncLevel(){if(selectedLevel()===activeLevel)return;if(state.view==='exam'&&state.run&&!state.run.finishedAt)return;persist();configureLevel();state={view:'menu',exam:'jft',pack:1,accepted:false,run:null};pendingExit=null;if(initialized){navigation=makeNavigation();window.GakuSimulationHost.clearRoute();navigation.init('menu');}else persist();}
+let premiumPackPending=null,premiumPackError='',premiumPackEpoch=-1;
 function screen(){
  syncLevel();
+ if(state.pack>2&&['rules','exam','result'].includes(state.view)){
+  if(!window.GakuPremium?.has('simulasi'))return window.GakuPremium?.wall('simulasi')||'<p>Login untuk membuka paket ini.</p>';
+  const pack=getPack();
+  if(pack?.remote){
+   const mine=window.GakuPremium.epoch;
+   if(premiumPackEpoch!==mine){premiumPackEpoch=mine;premiumPackPending=null;premiumPackError='';}
+   if(!premiumPackPending&&!premiumPackError){premiumPackPending=window.GakuPremium.simulation(pack).catch(()=>{if(mine===window.GakuPremium.epoch)premiumPackError='Paket belum bisa dibuka. Periksa koneksi lalu kembali ke daftar paket.';}).finally(()=>{if(mine===premiumPackEpoch)premiumPackPending=null;if(mine===window.GakuPremium.epoch)render();});}
+   return '<section class="account-card" role="status"><h2>Membuka paket latihan</h2><p>'+esc(premiumPackError||'Menyiapkan soal pilihanmu…')+'</p><button onclick="GakuSimulation.go(\'packages\')">Kembali ke daftar paket</button></section>';
+  }
+ }else premiumPackError='';
  const html=state.view==='packages'?packages():state.view==='rules'?rules():state.view==='exam'?examScreen():state.view==='result'?resultScreen():menu();
  const body=qualifyHandlers(html).replace(/<aside\b/g,'<section').replace(/<\/aside>/g,'</section>');
  return '<div class="simulation-module '+(state.view==='exam'?'in-exam':'')+'" data-exam="'+state.exam+'">'+body+'</div>';
