@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dex-gaku.pages.dev/sitemap.xml
