@@ -9,7 +9,7 @@ const catalog={
  full:{title:'Paket Lengkap',scope:'Semua empat paket premium',price:'Rp50.000',url:'xmr613d0ey4p'}
 };
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let user=null,epoch=0,packages=[],state='guest',loading=null,lastCheck=0,until=0,timer=null;
+let user=null,epoch=0,packages=[],state='guest',loading=null,lastCheck=0,until=0,timer=null,restoring=false,restoreMessage='';
 const assets=new Map(),pending=new Map(),simulationOriginals=new Map();
 function deviceId(){
  try{
@@ -30,12 +30,12 @@ function has(code){return !!user&&state!=='guest'&&(packages.includes('full')||p
 function chapterAllowed(n,section){return Number(n)<=10||has(section==='kotoba'?'kotoba':'bunpo');}
 function simulationAllowed(n){return Number(n)<=2||has('simulasi');}
 function changed(reason){api.onChange?.(reason);}
-async function get(path,expected=epoch){
+async function get(path,expected=epoch,method='GET'){
  const account=user;if(!account)throw Error('login_required');
  const token=await account.getIdToken();if(expected!==epoch)throw Error('account_changed');
  const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),15000);
  try{
-  const response=await fetch(ORIGIN+path,{headers:{Authorization:'Bearer '+token,'X-Gaku-Device':deviceId()},cache:'no-store',signal:controller.signal});
+  const response=await fetch(ORIGIN+path,{method,...(method==='POST'?{body:'{}'}:{}),headers:{Authorization:'Bearer '+token,'X-Gaku-Device':deviceId(),...(method==='POST'?{'Content-Type':'application/json'}:{})},cache:'no-store',signal:controller.signal});
   if(expected!==epoch)throw Error('account_changed');
   const data=await response.json();if(!response.ok){if(['device_limit','device_required'].includes(data.error))revoke(data.error);throw Error(data.error||'service_unavailable');}return data;
  }finally{clearTimeout(timeout);}
@@ -47,10 +47,11 @@ function clearPrivate(){
 }
 function authChanged(next,authState){
  if((next?.uid||null)===(user?.uid||null)){user=next||null;return;}
- epoch++;user=next||null;packages=[];loading=null;lastCheck=0;until=0;clearTimeout(timer);timer=null;
+ epoch++;restoring=false;restoreMessage='';user=next||null;packages=[];loading=null;lastCheck=0;until=0;clearTimeout(timer);timer=null;
  state=user?'loading':'guest';clearPrivate();changed('account');if(user)refresh();
 }
 function refresh(){
+ if(restoring)return Promise.resolve(false);
  if(!user||loading)return loading||Promise.resolve(false);
  const mine=epoch,account=user;lastCheck=Date.now();
  const task=(async()=>{try{
@@ -63,10 +64,39 @@ function refresh(){
  }catch{if(mine===epoch)revoke('error');return false;}
  finally{if(mine===epoch)loading=null;}})();loading=task;return task;
 }
+async function restore(){
+ if(!user){w.GakuAuth?.signIn();return false;}
+ if(restoring)return false;
+ const account=user;
+ restoring=true;restoreMessage='';epoch++;loading=null;packages=[];state='restoring';
+ const mine=epoch;clearPrivate();changed('access');
+ try{
+  const data=await get('/v1/restore',mine,'POST');
+  if(mine!==epoch||data.uid!==account.uid)return false;
+  if(data.restored!==true)throw Error('invalid_response');
+  restoring=false;
+  const ready=await refresh();
+  if(user?.uid!==account.uid)return false;
+  restoreMessage=ready?'Akses premium berhasil dipulihkan di browser ini.':'Perangkat sudah terhubung. Pemeriksaan paket belum berhasil; coba lagi saat koneksi stabil.';
+  changed('status');return ready;
+ }catch(error){
+  if(mine!==epoch)return false;
+  restoring=false;packages=[];state=error.message==='package_required'?'ready':'error';
+  restoreMessage=error.message==='package_required'?'Belum ada pembelian premium pada akun ini. Gunakan akun Google yang dipakai saat membeli.':error.message==='device_storage_required'?'Penyimpanan browser tidak tersedia. Izinkan penyimpanan situs lalu coba lagi.':'Akses belum berhasil dipulihkan. Periksa koneksi dan coba lagi.';
+  changed('status');return false;
+ }finally{if(mine===epoch)restoring=false;}
+}
+function restoreHTML(){return user?'<div class="premium-restore"><button class="google-button" type="button" onclick="GakuPremium.restore()" '+(restoring?'disabled aria-busy="true"':'')+'>'+(restoring?'Memulihkan akses…':'Pulihkan Akses Premium')+'</button><p class="hint">Maksimal 3 browser. Jika penuh, pemulihan otomatis mengganti browser yang paling awal didaftarkan.</p>'+(restoreMessage?'<p role="status">'+esc(restoreMessage)+'</p>':'')+'</div>':'';}
+function activeHTML(){
+ if(!packages.length)return '';
+ const names=packages.includes('full')?[catalog.full.title]:packages.map(code=>catalog[code].title);
+ return '<div class="premium-active"><span class="mini-tag">PAKET AKTIF</span><p>'+names.map(esc).join(' · ')+'</p><small>Aktif di browser ini · maksimal 3 browser</small></div>';
+}
+function offers(codes=Object.keys(catalog)){return '<details class="premium-offers"><summary>Lihat paket premium</summary><div class="premium-products">'+codes.map(productHTML).join('')+'</div></details>';}
 function productHTML(code){const p=catalog[code];return '<article class="premium-product"><h3>'+p.title+'</h3><p>'+p.scope+'</p><strong>'+p.price+'</strong><p>Sekali bayar, tanpa masa kedaluwarsa.</p>'+(has(code)?'<b>✓ Aktif di akun ini</b>':'<button class="google-button" onclick="GakuPremium.buy(\''+code+'\')">Beli paket</button>')+'</article>';}
-function statusHTML(){return !user?'Login dengan Google untuk menghubungkan pembelian ke akun.':state==='loading'?'Memeriksa akses akun…':state==='blocked'?'Batas 3 perangkat tercapai. Akses premium ditolak di browser ini. Hubungi pengelola untuk mengganti perangkat.':state==='error'?'Akses akun belum bisa diperiksa. Periksa koneksi; pemeriksaan akan dicoba lagi saat aplikasi dibuka.':packages.length?'Pembelianmu terhubung ke akun '+esc(user.email)+'.':'Akun ini menggunakan akses gratis.';}
-function wall(code){return '<section class="account-card premium-wall" data-premium-wall="'+code+'"><span class="mini-tag">AKSES PREMIUM</span><h2>'+catalog[code].title+'</h2><p>'+catalog[code].scope+' tersedia melalui paket ini.</p><p role="status">'+statusHTML()+'</p>'+(!user?'<button class="google-button" onclick="GakuAuth.signIn()">Login dengan Google</button>':'')+productHTML(code)+(code!=='full'?productHTML('full'):'')+'<p class="hint">Gunakan email akun Google yang sama saat checkout. Akses diperiksa otomatis saat kembali ke aplikasi.</p></section>';}
-function panel(){return '<section id="premium-account" class="account-card"><span class="mini-tag">PAKET BELAJAR</span><h2>Akses akunmu</h2><p role="status">'+statusHTML()+'</p><p>Gratis: Bunpo dan Kotoba bab 1–10, simulasi paket 1–2. Semua cerita tetap gratis.</p><div class="premium-products">'+Object.keys(catalog).map(productHTML).join('')+'</div></section>';}
+function statusHTML(){return !user?'Login dengan Google untuk menghubungkan pembelian ke akun.':state==='restoring'?'Memulihkan akses di browser ini…':state==='loading'?'Memeriksa akses akun…':state==='blocked'?'Batas 3 perangkat tercapai. Akses premium ditolak di browser ini. Tekan Pulihkan Akses Premium untuk mengganti browser paling lama.':state==='error'?'Akses akun belum bisa diperiksa. Periksa koneksi; pemeriksaan akan dicoba lagi saat aplikasi dibuka.':packages.length?'Pembelianmu terhubung ke akun '+esc(user.email)+'.':'Akun ini menggunakan akses gratis.';}
+function wall(code){return '<section class="account-card premium-wall" data-premium-wall="'+code+'"><span class="mini-tag">AKSES PREMIUM</span><h2>'+catalog[code].title+'</h2><p>'+catalog[code].scope+' tersedia melalui paket ini.</p><p role="status">'+statusHTML()+'</p>'+(!user?'<button class="google-button" onclick="GakuAuth.signIn()">Login dengan Google</button>':'')+restoreHTML()+offers(code==='full'?['full']:[code,'full'])+'<p class="hint">Gunakan email akun Google yang sama saat checkout. Akses diperiksa otomatis saat kembali ke aplikasi.</p></section>';}
+function panel(){return '<section id="premium-account" class="account-card"><span class="mini-tag">PAKET BELAJAR</span><h2>Akses akunmu</h2><p role="status">'+statusHTML()+'</p>'+activeHTML()+restoreHTML()+'<details class="premium-free"><summary>Akses gratis</summary><p>Bunpo dan Kotoba bab 1–10, simulasi paket 1–2. Semua cerita tetap gratis.</p></details>'+offers()+'</section>';}
 function showWall(code){w.GakuPremiumDialog?.(wall(code));return false;}
 function requireAccess(code){return has(code)||showWall(code);}
 function buy(code){
@@ -96,7 +126,7 @@ function simulation(pack){
   pack.questions=data.questions;pack.remote=false;pack.loadedUid=uid;return pack;
  });
 }
-const api={authChanged,refresh,has,chapterAllowed,simulationAllowed,wall,panel,showWall,require:requireAccess,buy,chapter,simulation,onChange:null,onReset:null,get epoch(){return epoch;},get state(){return state;},get uid(){return user?.uid||null;}};
+const api={authChanged,refresh,restore,has,chapterAllowed,simulationAllowed,wall,panel,showWall,require:requireAccess,buy,chapter,simulation,onChange:null,onReset:null,get epoch(){return epoch;},get state(){return state;},get uid(){return user?.uid||null;}};
 w.GakuPremium=api;
 w.addEventListener('focus',foreground);w.addEventListener('online',foreground);
 document.addEventListener('visibilitychange',foreground);
